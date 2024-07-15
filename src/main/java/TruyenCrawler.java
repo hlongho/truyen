@@ -55,10 +55,11 @@ public class TruyenCrawler {
             Document doc = Jsoup.connect(url).get();
 
             String title = doc.select("h3.title").text();
-            String sanitizedStoryTitle = title.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+            String sanitizedStoryTitle = title.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
 
             String status = doc.select(".info .text-success").text(); // Đây là trạng thái của truyện
             String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
+            String desc = doc.select(".desc-text").text(); // Đây là phần tóm tắt mở đầu của truyện
 
             // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
             File storyDir = new File("data/" + sanitizedStoryTitle);
@@ -79,6 +80,7 @@ public class TruyenCrawler {
             storyData.put("name", title);
             storyData.put("status", status);
             storyData.put("author", author);
+            storyData.put("desc", desc);
             storyData.put("path", chapterFilePath);
 
         } catch (IOException e) {
@@ -100,7 +102,7 @@ public class TruyenCrawler {
                 Map<String, Object> chapterData = crawlChapter(chapterUrl);
                 if (chapterData != null && !chapterData.isEmpty()) {
                     String chapterTitle = (String) chapterData.get("chapter_name");
-                    String sanitizedChapterTitle = chapterTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+                    String sanitizedChapterTitle = chapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
 
                     // Lưu chương vào file JSON
                     String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
