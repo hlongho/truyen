@@ -60,6 +60,7 @@ public class TruyenCrawler {
             String status = doc.select(".info .text-success").text(); // Đây là trạng thái của truyện
             String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
             String desc = doc.select(".desc-text").text(); // Đây là phần tóm tắt mở đầu của truyện
+            String image = doc.select(".book img").attr("src"); // Đây là URL hình ảnh của truyện
 
             // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
             File storyDir = new File("data/" + sanitizedStoryTitle);
@@ -82,6 +83,7 @@ public class TruyenCrawler {
             storyData.put("author", author);
             storyData.put("desc", desc);
             storyData.put("path", chapterFilePath);
+            storyData.put("image", image);
 
         } catch (IOException e) {
             e.printStackTrace();
