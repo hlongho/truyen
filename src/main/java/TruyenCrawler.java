@@ -70,7 +70,8 @@ public class TruyenCrawler {
 
             // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("data/" + sanitizedStoryTitle + "/chapter.json")) {
+            String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
+            try (FileWriter writer = new FileWriter(chapterFilePath)) {
                 gson.toJson(chapterContents, writer);
             }
 
@@ -78,6 +79,7 @@ public class TruyenCrawler {
             storyData.put("name", title);
             storyData.put("status", status);
             storyData.put("author", author);
+            storyData.put("path", chapterFilePath);
 
         } catch (IOException e) {
             e.printStackTrace();
