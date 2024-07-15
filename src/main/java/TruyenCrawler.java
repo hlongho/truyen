@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -15,6 +16,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public class TruyenCrawler {
+
     public static void main(String[] args) {
         try {
             String url = "https://truyenfull.vn/danh-sach/truyen-hot/";
@@ -27,10 +29,10 @@ public class TruyenCrawler {
             //test 
             int index = 0;
             for (Element link : storyLinks) {
-                if (index <=3) {
-                String storyUrl = link.attr("href");
-                Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
-                stories.add(storyData);
+                if (index <= 3) {
+                    String storyUrl = link.attr("href");
+                    Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
+                    stories.add(storyData);
                 }
             }
 
@@ -56,7 +58,7 @@ public class TruyenCrawler {
             String status = doc.select(".label-success").text(); // Đây là trạng thái của truyện
             String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
 
-            List<Map<String, Object>> chapterContents = crawlChapters(doc);
+            List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, sanitizedStoryTitle);
 
             // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
             File storyDir = new File("data/" + sanitizedStoryTitle);
@@ -70,29 +72,37 @@ public class TruyenCrawler {
             storyData.put("author", author);
             storyData.put("chapter", chapterContents);
 
-            // Lưu thông tin truyện vào file JSON
-            saveStoryToJsonFile(storyData, sanitizedStoryTitle);
-
         } catch (IOException e) {
             e.printStackTrace();
         }
         return storyData;
     }
 
-    public static List<Map<String, Object>> crawlChapters(Document doc) {
-        List<Map<String, Object>> chapterContents = new ArrayList<>();
+    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyFolderName) {
+        List<Map<String, String>> chapterContents = new ArrayList<>();
 
         Elements chapters = doc.select(".list-chapter a");
         //test
         int index = 0;
         for (Element chapter : chapters) {
             if (index <= 10) {
-            String chapterUrl = chapter.attr("href");
-            Map<String, Object> chapterData = crawlChapter(chapterUrl);
-            if (chapterData != null && !chapterData.isEmpty()) {
-                chapterContents.add(chapterData);
-            }
-            index++;
+                String chapterUrl = chapter.attr("href");
+                Map<String, Object> chapterData = crawlChapter(chapterUrl);
+                if (chapterData != null && !chapterData.isEmpty()) {
+                    String chapterTitle = (String) chapterData.get("chapter_name");
+                    String sanitizedChapterTitle = chapterTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+
+                    // Lưu chương vào file JSON
+                    String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
+                    saveChapterToJsonFile(chapterData, chapterFilePath);
+
+                    // Thêm thông tin chương vào danh sách
+                    Map<String, String> chapterInfo = new HashMap<>();
+                    chapterInfo.put("chapter_name", chapterTitle);
+                    chapterInfo.put("path", chapterFilePath);
+                    chapterContents.add(chapterInfo);
+                }
+                index++;
             }
         }
 
@@ -117,10 +127,10 @@ public class TruyenCrawler {
         return chapterData;
     }
 
-    public static void saveStoryToJsonFile(Map<String, Object> storyData, String storyFolderName) {
+    public static void saveChapterToJsonFile(Map<String, Object> chapterData, String chapterFilePath) {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        try (FileWriter writer = new FileWriter("data/" + storyFolderName + "/truyen.json")) {
-            gson.toJson(storyData, writer);
+        try (FileWriter writer = new FileWriter(chapterFilePath)) {
+            gson.toJson(chapterData, writer);
         } catch (IOException e) {
             e.printStackTrace();
         }
