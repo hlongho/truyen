@@ -2,7 +2,7 @@ name: Crawl and Push
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Lên lịch chạy hàng ngày vào 00:00 UTC
+    - cron: "0 0 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
   push:
     branches:
       - main
@@ -12,34 +12,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set Up Java
-      uses: actions/setup-java@v3.12.0
-      with:
-        distribution: 'oracle'
-        java-version: '17'
+      - name: Set Up Java
+        uses: actions/setup-java@v3.12.0
+        with:
+          distribution: "oracle"
+          java-version: "17"
 
-    - name: Build with Maven
-      run: mvn clean package
+      - name: Build with Maven
+        run: mvn clean package
 
-    - name: List files in target directory
-      run: ls -l target
+      - name: List files in target directory
+        run: ls -l target
 
-    - name: Run the crawler if jar exists
-      run: |
-        if [ -f target/truyen-crawler-1.0-SNAPSHOT.jar ]; then
-          java -jar target/truyen-crawler-1.0-SNAPSHOT.jar
-        else
-          echo "JAR file not found!"
-          exit 1
-        fi
+      - name: Run the crawler if jar exists
+        run: |
+          if [ -f target/truyen-crawler-1.0-SNAPSHOT.jar ]; then
+            java -jar target/truyen-crawler-1.0-SNAPSHOT.jar
+          else
+            echo "JAR file not found!"
+            exit 1
+          fi
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add truyen.json
-        git commit -m 'Update truyen.json'
-        git push
+      - name: Commit and Push changes
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add truyen.json
+          git commit -m 'Update truyen.json'
+          git push
