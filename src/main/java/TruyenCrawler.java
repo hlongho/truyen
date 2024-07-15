@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -26,13 +25,14 @@ public class TruyenCrawler {
 
             List<Map<String, Object>> stories = new ArrayList<>();
 
-            //test 
+            // test
             int index = 0;
             for (Element link : storyLinks) {
                 if (index <= 3) {
                     String storyUrl = link.attr("href");
                     Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
                     stories.add(storyData);
+                    index++;
                 }
             }
 
@@ -82,7 +82,7 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
 
         Elements chapters = doc.select(".list-chapter a");
-        //test
+        // test
         int index = 0;
         for (Element chapter : chapters) {
             if (index <= 10) {
@@ -91,6 +91,12 @@ public class TruyenCrawler {
                 if (chapterData != null && !chapterData.isEmpty()) {
                     String chapterTitle = (String) chapterData.get("chapter_name");
                     String sanitizedChapterTitle = chapterTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+
+                    // Tạo thư mục cho truyện nếu chưa tồn tại
+                    File chapterDir = new File("data/" + storyFolderName);
+                    if (!chapterDir.exists()) {
+                        chapterDir.mkdirs();
+                    }
 
                     // Lưu chương vào file JSON
                     String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
