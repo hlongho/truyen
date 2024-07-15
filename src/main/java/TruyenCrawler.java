@@ -96,10 +96,10 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
 
-        while (nextPageUrl != null) {
+        int stop = 0;
+        while (nextPageUrl != null && stop < 100) {
             try {
                 doc = Jsoup.connect(nextPageUrl).get();
-
                 Elements chapters = doc.select(".list-chapter a");
                 for (Element chapter : chapters) {
                     String chapterUrl = chapter.attr("href");
@@ -118,6 +118,7 @@ public class TruyenCrawler {
                         chapterInfo.put("path", chapterFilePath);
                         chapterContents.add(chapterInfo);
                     }
+                    stop++;
                 }
 
                 // Kiểm tra xem có trang tiếp theo không
