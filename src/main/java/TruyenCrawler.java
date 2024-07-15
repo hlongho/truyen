@@ -38,43 +38,55 @@ public class TruyenCrawler {
         }
     }
 
-public static Map<String, String> crawlStory(String url) {
-    Map<String, String> storyData = new HashMap<>();
-    try {
-        Document doc = Jsoup.connect(url).get();
+    public static Map<String, String> crawlStory(String url) {
+        Map<String, String> storyData = new HashMap<>();
+        try {
+            Document doc = Jsoup.connect(url).get();
 
-        String title = doc.select(".truyen-title").text();
-        String author = doc.select(".info a[itemprop=author]").text();
-        List<String> chapterUrls = new ArrayList<>();
+            String title = doc.select(".truyen-title").text();
+            String author = doc.select(".info a[itemprop=author]").text();
+            List<String> chapterUrls = new ArrayList<>();
 
-        // Lấy danh sách các chương từ tất cả các trang (nếu có phân trang)
-        Elements chapters = doc.select(".list-chapter a");
-        for (Element chapter : chapters) {
-            String chapterUrl = chapter.attr("href");
-            chapterUrls.add(chapterUrl);
-        }
-
-        // Xử lý phân trang nếu có
-        Elements pagination = doc.select(".pagination li");
-        for (Element page : pagination) {
-            if (page.hasClass("active")) continue; // Bỏ qua trang hiện tại
-            String pageUrl = page.select("a").attr("href");
-            Document nextPageDoc = Jsoup.connect(pageUrl).get();
-            Elements nextPageChapters = nextPageDoc.select(".list-chapter a");
-            for (Element chapter : nextPageChapters) {
+            // Lấy danh sách các chương từ tất cả các trang (nếu có phân trang)
+            Elements chapters = doc.select(".list-chapter a");
+            for (Element chapter : chapters) {
                 String chapterUrl = chapter.attr("href");
+                // Loại bỏ các đường dẫn không hợp lệ
+                if (!chapterUrl.startsWith("http")) {
+                    continue;
+                }
                 chapterUrls.add(chapterUrl);
             }
+
+            // Xử lý phân trang nếu có
+            Elements pagination = doc.select(".pagination li");
+            for (Element page : pagination) {
+                if (page.hasClass("active")) continue; // Bỏ qua trang hiện tại
+                String pageUrl = page.select("a").attr("href");
+                // Kiểm tra và loại bỏ các đường dẫn không hợp lệ
+                if (!pageUrl.startsWith("http")) {
+                    continue;
+                }
+                Document nextPageDoc = Jsoup.connect(pageUrl).get();
+                Elements nextPageChapters = nextPageDoc.select(".list-chapter a");
+                for (Element chapter : nextPageChapters) {
+                    String chapterUrl = chapter.attr("href");
+                    if (!chapterUrl.startsWith("http")) {
+                        continue;
+                    }
+                    chapterUrls.add(chapterUrl);
+                }
+            }
+
+            storyData.put("title", title);
+            storyData.put("author", author);
+            storyData.put("chapters", String.join(", ", chapterUrls));
+
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-
-        storyData.put("title", title);
-        storyData.put("author", author);
-        storyData.put("chapters", String.join(", ", chapterUrls));
-
-    } catch (IOException e) {
-        e.printStackTrace();
+        return storyData;
     }
-    return storyData;
-}
+
 
 }
