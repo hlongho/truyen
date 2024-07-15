@@ -42,6 +42,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'longho4697@gmail.com'
-          git add .
+          git add truyen.json
           git commit -m 'Update truyen.json'
           git push
