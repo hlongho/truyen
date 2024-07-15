@@ -29,8 +29,8 @@ jobs:
 
     - name: Run the crawler if jar exists
       run: |
-        if [ -f target/truyen-crawler-1.0-SNAPSHOT-shaded.jar ]; then
-          java -jar target/truyen-crawler-1.0-SNAPSHOT-shaded.jar
+        if [ -f target/truyen-crawler-1.0-SNAPSHOT.jar ]; then
+          java -jar target/truyen-crawler-1.0-SNAPSHOT.jar
         else
           echo "JAR file not found!"
           exit 1
