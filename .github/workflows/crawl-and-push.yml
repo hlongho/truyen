@@ -22,10 +22,19 @@ jobs:
         java-version: '17'
 
     - name: Build with Maven
-      run: mvn clean install
+      run: mvn clean package
 
-    - name: Run the crawler
-      run: java -jar target/truyen-crawler-1.0-SNAPSHOT-shaded.jar
+    - name: List files in target directory
+      run: ls -l target
+
+    - name: Run the crawler if jar exists
+      run: |
+        if [ -f target/truyen-crawler-1.0-SNAPSHOT-shaded.jar ]; then
+          java -jar target/truyen-crawler-1.0-SNAPSHOT-shaded.jar
+        else
+          echo "JAR file not found!"
+          exit 1
+        fi
 
     - name: Commit and Push changes
       run: |
