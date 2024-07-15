@@ -28,14 +28,14 @@ public class TruyenCrawler {
             // Giới hạn lấy 3 truyện
             int index = 0;
             for (Element link : storyLinks) {
-                if (index < 2) {
+                if (index == 2) {
                     String storyUrl = link.attr("href");
                     Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                     if (storyData != null) {
                         stories.add(storyData);
                     }
-                    index++;
                 }
+                index++;
             }
 
             // Lưu danh sách truyện vào file JSON
@@ -121,7 +121,7 @@ public class TruyenCrawler {
                 }
 
                 // Kiểm tra xem có trang tiếp theo không
-                Element nextPageElement = doc.select("a.next").first();
+                Element nextPageElement = doc.select("li.active + li a").first(); // Chọn thẻ <a> của trang tiếp theo
                 if (nextPageElement != null) {
                     nextPageUrl = nextPageElement.attr("abs:href"); // Sử dụng abs:href để lấy URL đầy đủ
                 } else {
