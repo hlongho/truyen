@@ -156,15 +156,15 @@ public class TruyenCrawler {
     }
 
     public static void saveChapterToJsonFile(Map<String, Object> chapterData, String chapterFilePath) {
-        // Tạo thư mục nếu chưa tồn tại
-        File file = new File(chapterFilePath);
-        file.getParentFile().mkdirs();
+        // // Tạo thư mục nếu chưa tồn tại
+        // File file = new File(chapterFilePath);
+        // file.getParentFile().mkdirs();
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        try (FileWriter writer = new FileWriter(chapterFilePath)) {
-            gson.toJson(chapterData, writer);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        // Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        // try (FileWriter writer = new FileWriter(chapterFilePath)) {
+        //     gson.toJson(chapterData, writer);
+        // } catch (IOException e) {
+        //     e.printStackTrace();
+        // }
     }
 }
