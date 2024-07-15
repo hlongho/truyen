@@ -21,11 +21,23 @@ public class TruyenCrawler {
             Document doc = Jsoup.connect(url).get();
 
             Elements storyLinks = doc.select(".truyen-title a");
-            //test
+
+            List<Map<String, Object>> stories = new ArrayList<>();
+
+            //test 
             int index = 0;
             for (Element link : storyLinks) {
-                    String storyUrl = link.attr("href");
-                    crawlAndSaveStory(storyUrl);
+                if (index <=3) {
+                String storyUrl = link.attr("href");
+                Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
+                stories.add(storyData);
+                }
+            }
+
+            // Lưu danh sách truyện vào file JSON
+            Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            try (FileWriter writer = new FileWriter("data/truyen.json")) {
+                gson.toJson(stories, writer);
             }
 
         } catch (IOException e) {
@@ -33,12 +45,16 @@ public class TruyenCrawler {
         }
     }
 
-    public static void crawlAndSaveStory(String url) {
+    public static Map<String, Object> crawlAndSaveStory(String url) {
+        Map<String, Object> storyData = new HashMap<>();
         try {
             Document doc = Jsoup.connect(url).get();
 
             String title = doc.select(".truyen-title").text();
             String sanitizedStoryTitle = title.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+
+            String status = doc.select(".label-success").text(); // Đây là trạng thái của truyện
+            String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
 
             List<Map<String, Object>> chapterContents = crawlChapters(doc);
 
@@ -48,36 +64,35 @@ public class TruyenCrawler {
                 storyDir.mkdirs();
             }
 
+            // Lưu thông tin truyện vào map storyData
+            storyData.put("name", title);
+            storyData.put("status", status);
+            storyData.put("author", author);
+            storyData.put("chapter", chapterContents);
+
             // Lưu thông tin truyện vào file JSON
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("data/" + sanitizedStoryTitle + "/truyen.json")) {
-                Map<String, Object> storyData = new HashMap<>();
-                storyData.put("title", title);
-                storyData.put("chapters", chapterContents);
-                gson.toJson(storyData, writer);
-            }
+            saveStoryToJsonFile(storyData, sanitizedStoryTitle);
 
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return storyData;
     }
 
     public static List<Map<String, Object>> crawlChapters(Document doc) {
         List<Map<String, Object>> chapterContents = new ArrayList<>();
 
         Elements chapters = doc.select(".list-chapter a");
-        int chapterCount = 1;
+        //test
+        int index = 0;
         for (Element chapter : chapters) {
-            if (chapterCount <= 10) {
+            if (index <= 10) {
             String chapterUrl = chapter.attr("href");
             Map<String, Object> chapterData = crawlChapter(chapterUrl);
             if (chapterData != null && !chapterData.isEmpty()) {
                 chapterContents.add(chapterData);
-
-                // Lưu chương vào thư mục của truyện dưới dạng file JSON
-                saveChapterToFile(chapterData, chapterCount, doc.title());
-                chapterCount++;
             }
+            index++;
             }
         }
 
@@ -92,7 +107,8 @@ public class TruyenCrawler {
             String chapterTitle = doc.select(".chapter-title").text();
             String chapterContent = doc.select(".chapter-c").text();
 
-            chapterData.put("title", chapterTitle);
+            // Lưu thông tin chương vào map chapterData
+            chapterData.put("chapter_name", chapterTitle);
             chapterData.put("content", chapterContent);
 
         } catch (IOException e) {
@@ -101,22 +117,10 @@ public class TruyenCrawler {
         return chapterData;
     }
 
-    public static void saveChapterToFile(Map<String, Object> chapterData, int chapterNumber, String storyTitle) {
-        try {
-            String sanitizedStoryTitle = storyTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
-            String sanitizedChapterTitle = ((String) chapterData.get("title")).replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
-
-            // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
-            File storyDir = new File("data/" + sanitizedStoryTitle);
-            if (!storyDir.exists()) {
-                storyDir.mkdirs();
-            }
-
-            // Lưu chương vào thư mục của truyện dưới dạng file JSON
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("data/" + sanitizedStoryTitle + "/chapter" + chapterNumber + "_" + sanitizedChapterTitle + ".json")) {
-                gson.toJson(chapterData, writer);
-            }
+    public static void saveStoryToJsonFile(Map<String, Object> storyData, String storyFolderName) {
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        try (FileWriter writer = new FileWriter("data/" + storyFolderName + "/truyen.json")) {
+            gson.toJson(storyData, writer);
         } catch (IOException e) {
             e.printStackTrace();
         }
