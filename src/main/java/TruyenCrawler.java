@@ -25,14 +25,14 @@ public class TruyenCrawler {
 
             List<Map<String, Object>> stories = new ArrayList<>();
 
-            // test 
+            //test 
             int index = 0;
             for (Element link : storyLinks) {
                 if (index <= 3) {
                     String storyUrl = link.attr("href");
                     Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
                     stories.add(storyData);
-                    index++;  // Thêm dòng này để tăng giá trị index
+                    index++;
                 }
             }
 
@@ -55,7 +55,7 @@ public class TruyenCrawler {
             String title = doc.select(".truyen-title").text();
             String sanitizedStoryTitle = title.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
 
-            String status = doc.select(".label-success").text(); // Đây là trạng thái của truyện
+            String status = doc.select(".info .text-success").text(); // Đây là trạng thái của truyện
             String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
 
             // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
