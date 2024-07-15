@@ -38,27 +38,43 @@ public class TruyenCrawler {
         }
     }
 
-    public static Map<String, String> crawlStory(String url) {
-        Map<String, String> storyData = new HashMap<>();
-        try {
-            Document doc = Jsoup.connect(url).get();
+public static Map<String, String> crawlStory(String url) {
+    Map<String, String> storyData = new HashMap<>();
+    try {
+        Document doc = Jsoup.connect(url).get();
 
-            String title = doc.select(".truyen-title").text();
-            String author = doc.select(".info a[itemprop=author]").text();
-            Elements chapters = doc.select(".list-chapter a");
+        String title = doc.select(".truyen-title").text();
+        String author = doc.select(".info a[itemprop=author]").text();
+        List<String> chapterUrls = new ArrayList<>();
 
-            storyData.put("title", title);
-            storyData.put("author", author);
-            List<String> chapterUrls = new ArrayList<>();
-            for (Element chapter : chapters) {
+        // Lấy danh sách các chương từ tất cả các trang (nếu có phân trang)
+        Elements chapters = doc.select(".list-chapter a");
+        for (Element chapter : chapters) {
+            String chapterUrl = chapter.attr("href");
+            chapterUrls.add(chapterUrl);
+        }
+
+        // Xử lý phân trang nếu có
+        Elements pagination = doc.select(".pagination li");
+        for (Element page : pagination) {
+            if (page.hasClass("active")) continue; // Bỏ qua trang hiện tại
+            String pageUrl = page.select("a").attr("href");
+            Document nextPageDoc = Jsoup.connect(pageUrl).get();
+            Elements nextPageChapters = nextPageDoc.select(".list-chapter a");
+            for (Element chapter : nextPageChapters) {
                 String chapterUrl = chapter.attr("href");
                 chapterUrls.add(chapterUrl);
             }
-            storyData.put("chapters", String.join(", ", chapterUrls));
-
-        } catch (IOException e) {
-            e.printStackTrace();
         }
-        return storyData;
+
+        storyData.put("title", title);
+        storyData.put("author", author);
+        storyData.put("chapters", String.join(", ", chapterUrls));
+
+    } catch (IOException e) {
+        e.printStackTrace();
     }
+    return storyData;
+}
+
 }
