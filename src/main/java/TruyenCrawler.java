@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -15,16 +16,21 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public class TruyenCrawler {
+
     public static void main(String[] args) {
         try {
             String url = "https://truyenfull.vn/danh-sach/truyen-hot/";
             Document doc = Jsoup.connect(url).get();
 
             Elements storyLinks = doc.select(".truyen-title a");
-
+            //test
+            int index = 0;
             for (Element link : storyLinks) {
-                String storyUrl = link.attr("href");
-                crawlAndSaveStory(storyUrl);
+                if (index == 0) {
+                    String storyUrl = link.attr("href");
+                    crawlAndSaveStory(storyUrl);
+                    index++;
+                }
             }
 
         } catch (IOException e) {
@@ -67,14 +73,17 @@ public class TruyenCrawler {
         Elements chapters = doc.select(".list-chapter a");
         int chapterCount = 1;
         for (Element chapter : chapters) {
-            String chapterUrl = chapter.attr("href");
-            Map<String, Object> chapterData = crawlChapter(chapterUrl);
-            if (chapterData != null && !chapterData.isEmpty()) {
-                chapterContents.add(chapterData);
+            //test 
+            if (chapterCount <= 10) {
+                String chapterUrl = chapter.attr("href");
+                Map<String, Object> chapterData = crawlChapter(chapterUrl);
+                if (chapterData != null && !chapterData.isEmpty()) {
+                    chapterContents.add(chapterData);
 
-                // Lưu chương dưới dạng file JSON
-                saveChapterToFile(chapterData, chapterCount);
-                chapterCount++;
+                    // Lưu chương dưới dạng file JSON
+                    saveChapterToFile(chapterData, chapterCount);
+                    chapterCount++;
+                }
             }
         }
 
