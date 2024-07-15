@@ -20,16 +20,16 @@ public class TruyenCrawler {
             Document doc = Jsoup.connect(url).get();
 
             Elements storyLinks = doc.select(".truyen-title a");
-            List<Map<String, String>> stories = new ArrayList<>();
+            List<Map<String, Object>> stories = new ArrayList<>();
 
             for (Element link : storyLinks) {
                 String storyUrl = link.attr("href");
-                Map<String, String> storyData = crawlStory(storyUrl);
+                Map<String, Object> storyData = crawlStory(storyUrl);
                 stories.add(storyData);
             }
 
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("truyen.json")) {
+            try (FileWriter writer = new FileWriter("data/truyen.json")) {
                 gson.toJson(stories, writer);
             }
 
@@ -38,49 +38,34 @@ public class TruyenCrawler {
         }
     }
 
-    public static Map<String, String> crawlStory(String url) {
-        Map<String, String> storyData = new HashMap<>();
+    public static Map<String, Object> crawlStory(String url) {
+        Map<String, Object> storyData = new HashMap<>();
         try {
             Document doc = Jsoup.connect(url).get();
 
             String title = doc.select(".truyen-title").text();
             String author = doc.select(".info a[itemprop=author]").text();
-            List<String> chapterUrls = new ArrayList<>();
-
-            // Lấy danh sách các chương từ tất cả các trang (nếu có phân trang)
             Elements chapters = doc.select(".list-chapter a");
-            for (Element chapter : chapters) {
-                String chapterUrl = chapter.attr("href");
-                // Loại bỏ các đường dẫn không hợp lệ
-                if (!chapterUrl.startsWith("http")) {
-                    continue;
-                }
-                chapterUrls.add(chapterUrl);
-            }
-
-            // Xử lý phân trang nếu có
-            Elements pagination = doc.select(".pagination li");
-            for (Element page : pagination) {
-                if (page.hasClass("active")) continue; // Bỏ qua trang hiện tại
-                String pageUrl = page.select("a").attr("href");
-                // Kiểm tra và loại bỏ các đường dẫn không hợp lệ
-                if (!pageUrl.startsWith("http")) {
-                    continue;
-                }
-                Document nextPageDoc = Jsoup.connect(pageUrl).get();
-                Elements nextPageChapters = nextPageDoc.select(".list-chapter a");
-                for (Element chapter : nextPageChapters) {
-                    String chapterUrl = chapter.attr("href");
-                    if (!chapterUrl.startsWith("http")) {
-                        continue;
-                    }
-                    chapterUrls.add(chapterUrl);
-                }
-            }
 
             storyData.put("title", title);
             storyData.put("author", author);
-            storyData.put("chapters", String.join(", ", chapterUrls));
+
+            List<Map<String, String>> chapterContents = new ArrayList<>();
+            int chapterCount = 1;
+            for (Element chapter : chapters) {
+                String chapterUrl = chapter.attr("href");
+                Map<String, String> chapterData = crawlChapter(chapterUrl);
+                if (chapterData != null && !chapterData.isEmpty()) {
+                    String chapterTitle = chapterData.get("title");
+                    String chapterContent = chapterData.get("content");
+                    // Lưu nội dung chương vào file
+                    saveChapterToFile(title, chapterCount, chapterTitle, chapterContent);
+                    chapterCount++;
+                }
+                chapterContents.add(chapterData);
+            }
+
+            storyData.put("chapters", chapterContents);
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -88,5 +73,29 @@ public class TruyenCrawler {
         return storyData;
     }
 
+    public static Map<String, String> crawlChapter(String url) {
+        Map<String, String> chapterData = new HashMap<>();
+        try {
+            Document doc = Jsoup.connect(url).get();
 
+            String chapterTitle = doc.select(".chapter-title").text();
+            String chapterContent = doc.select(".chapter-c").text();
+
+            chapterData.put("title", chapterTitle);
+            chapterData.put("content", chapterContent);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return chapterData;
+    }
+
+    public static void saveChapterToFile(String storyTitle, int chapterNumber, String chapterTitle, String chapterContent) {
+        String fileName = "data/" + storyTitle + "_Chapter" + chapterNumber + "_" + chapterTitle + ".txt";
+        try (FileWriter writer = new FileWriter(fileName)) {
+            writer.write(chapterContent);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
