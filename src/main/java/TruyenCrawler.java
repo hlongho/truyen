@@ -29,7 +29,7 @@ public class TruyenCrawler {
             }
 
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("truyen.json")) {
+            try (FileWriter writer = new FileWriter("data/truyen.json")) {
                 gson.toJson(stories, writer);
             }
 
