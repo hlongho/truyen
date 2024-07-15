@@ -28,7 +28,7 @@ public class TruyenCrawler {
             // Giới hạn lấy 3 truyện
             int index = 0;
             for (Element link : storyLinks) {
-                if (index == 2) {
+                if (index < 3) {
                     String storyUrl = link.attr("href");
                     Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                     if (storyData != null) {
@@ -97,7 +97,7 @@ public class TruyenCrawler {
         String nextPageUrl = storyUrl;
 
         int stop = 0;
-        while (nextPageUrl != null && stop < 100) {
+        while (nextPageUrl != null && stop < 200) {
             try {
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
