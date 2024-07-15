@@ -25,7 +25,7 @@ jobs:
       run: mvn clean install
 
     - name: Run the crawler
-      run: java -cp target/truyen-crawler-1.0-SNAPSHOT.jar TruyenCrawler
+      run: java -jar target/truyen-crawler-1.0-SNAPSHOT-shaded.jar
 
     - name: Commit and Push changes
       run: |
