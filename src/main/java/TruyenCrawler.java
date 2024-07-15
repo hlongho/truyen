@@ -68,7 +68,7 @@ public class TruyenCrawler {
                 storyDir.mkdirs();
             }
 
-            List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, sanitizedStoryTitle);
+            List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
 
             // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -92,31 +92,45 @@ public class TruyenCrawler {
         return storyData;
     }
 
-    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyFolderName) {
+    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName) {
         List<Map<String, String>> chapterContents = new ArrayList<>();
+        String nextPageUrl = storyUrl;
 
-        Elements chapters = doc.select(".list-chapter a");
-        // Giới hạn lấy 10 chương đầu
-        int index = 0;
-        for (Element chapter : chapters) {
-            if (index < 10 || "Đấu_Phá_Thương_Khung".equals(storyFolderName)) {
-                String chapterUrl = chapter.attr("href");
-                Map<String, Object> chapterData = crawlChapter(chapterUrl);
-                if (chapterData != null && !chapterData.isEmpty()) {
-                    String chapterTitle = (String) chapterData.get("chapter_name");
-                    String sanitizedChapterTitle = chapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
+        while (nextPageUrl != null &&  "Đấu_Phá_Thương_Khung".equals(storyFolderName)) {
+            try {
+                doc = Jsoup.connect(nextPageUrl).get();
 
-                    // Lưu chương vào file JSON
-                    String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
-                    saveChapterToJsonFile(chapterData, chapterFilePath);
+                Elements chapters = doc.select(".list-chapter a");
+                for (Element chapter : chapters) {
+                    String chapterUrl = chapter.attr("href");
+                    Map<String, Object> chapterData = crawlChapter(chapterUrl);
+                    if (chapterData != null && !chapterData.isEmpty()) {
+                        String chapterTitle = (String) chapterData.get("chapter_name");
+                        String sanitizedChapterTitle = chapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
 
-                    // Thêm thông tin chương vào danh sách
-                    Map<String, String> chapterInfo = new HashMap<>();
-                    chapterInfo.put("chapter_name", chapterTitle);
-                    chapterInfo.put("path", chapterFilePath);
-                    chapterContents.add(chapterInfo);
+                        // Lưu chương vào file JSON
+                        String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
+                        saveChapterToJsonFile(chapterData, chapterFilePath);
+
+                        // Thêm thông tin chương vào danh sách
+                        Map<String, String> chapterInfo = new HashMap<>();
+                        chapterInfo.put("chapter_name", chapterTitle);
+                        chapterInfo.put("path", chapterFilePath);
+                        chapterContents.add(chapterInfo);
+                    }
                 }
-                index++;
+
+                // Kiểm tra xem có trang tiếp theo không
+                Element nextPageElement = doc.select("a.next").first();
+                if (nextPageElement != null) {
+                    nextPageUrl = nextPageElement.attr("href");
+                } else {
+                    nextPageUrl = null;
+                }
+
+            } catch (IOException e) {
+                e.printStackTrace();
+                break;
             }
         }
 
