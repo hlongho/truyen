@@ -1,0 +1,143 @@
+[
+  {
+    "chapter": [
+      {
+        "path": "data/Thn_o_an_Tn/Chng_1_Sng_li.json",
+        "chapter_name": "Chương 1: Sống lại"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_2_Cng_th.json",
+        "chapter_name": "Chương 2: Cường thế"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_3_Ngi_c_bnh_ta_c_th_tr.json",
+        "chapter_name": "Chương 3: Ngươi có bệnh, ta có thể trị"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_4_Mnh_lnh_th_nht.json",
+        "chapter_name": "Chương 4: Mệnh lệnh thứ nhất"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_5_nh_au_lo_cu.json",
+        "chapter_name": "Chương 5: Đánh đau lão cẩu"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_6_Thin_Dc_Cc.json",
+        "chapter_name": "Chương 6: Thiên Dược Các"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_7_Ch_i_s.json",
+        "chapter_name": "Chương 7: Chư đại sư"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_8_Thuyt_phc.json",
+        "chapter_name": "Chương 8: Thuyết phục"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_9_Ch_o_tu_luyn.json",
+        "chapter_name": "Chương 9: Chỉ đạo tu luyện"
+      },
+      {
+        "path": "data/Thn_o_an_Tn/Chng_10_Cha_tr_linh_cn.json",
+        "chapter_name": "Chương 10: Chữa trị linh căn"
+      }
+    ],
+    "author": "Cô Đơn Địa Phi",
+    "name": "Thần Đạo Đan Tôn",
+    "status": "Full"
+  },
+  {
+    "chapter": [
+      {
+        "path": "data/Linh_V_Thin_H/Chng_1_Nhn_phm_c_vn_1.json",
+        "chapter_name": "Chương 1: Nhân phẩm có vấn đề (1)"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_2_Nhn_phm_c_vn_2.json",
+        "chapter_name": "Chương 2: Nhân phẩm có vấn đề (2)"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_3_Bng_ha_lng_trng_thin.json",
+        "chapter_name": "Chương 3: Băng hỏa lưỡng trọng thiên"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_4_Lc_gia.json",
+        "chapter_name": "Chương 4: Lục gia"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_5_Thiu_gia_mnh_kh.json",
+        "chapter_name": "Chương 5: Thiếu gia mệnh khổ"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_6_Mt_tht_trong_kho_ci.json",
+        "chapter_name": "Chương 6: Mật thất trong kho củi"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_7_m_dng_Linh_V_quyt_1.json",
+        "chapter_name": "Chương 7: Âm dương Linh - Vũ quyết (1)"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_8_m_dng_Linh_V_quyt_2.json",
+        "chapter_name": "Chương 8: Âm dương Linh - Vũ quyết (2)"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_9_Luyn_ha_linh_an.json",
+        "chapter_name": "Chương 9: Luyện hóa linh đan"
+      },
+      {
+        "path": "data/Linh_V_Thin_H/Chng_10_t_ph.json",
+        "chapter_name": "Chương 10: Đột phá"
+      }
+    ],
+    "author": "Vũ Phong",
+    "name": "Linh Vũ Thiên Hạ",
+    "status": "Full"
+  },
+  {
+    "chapter": [
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_1_Thin_ti_ri_rng.json",
+        "chapter_name": "Chương 1: Thiên tài rơi rụng"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_2_u_kh_i_lc.json",
+        "chapter_name": "Chương 2: Đấu khí đại lục"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_3_Khch_nhn.json",
+        "chapter_name": "Chương 3: Khách nhân"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_4_Vn_Lam_tng.json",
+        "chapter_name": "Chương 4: Vân Lam tông"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_5_T_kh_tn.json",
+        "chapter_name": "Chương 5: Tụ khí tán"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_6_Luyn_dc_s.json",
+        "chapter_name": "Chương 6: Luyện dược sư"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_7_Hu.json",
+        "chapter_name": "Chương 7: Hưu!"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_8_Thn_b_ch_lo_gi.json",
+        "chapter_name": "Chương 8: Thần bí đích lão giả"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_9_Dc_lo.json",
+        "chapter_name": "Chương 9: Dược lão"
+      },
+      {
+        "path": "data/u_Ph_Thng_Khung/Chng_10_T_tin.json",
+        "chapter_name": "Chương 10: Tá tiễn"
+      }
+    ],
+    "author": "Thiên Tàm Thổ Đậu",
+    "name": "Đấu Phá Thương Khung",
+    "status": "Full"
+  }
+]
