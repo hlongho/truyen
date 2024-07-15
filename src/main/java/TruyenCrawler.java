@@ -99,7 +99,7 @@ public class TruyenCrawler {
         // Giới hạn lấy 10 chương đầu
         int index = 0;
         for (Element chapter : chapters) {
-            if (index < 10) {
+            if (index < 10 || "Đấu_Phá_Thương_Khung".equals(storyFolderName)) {
                 String chapterUrl = chapter.attr("href");
                 Map<String, Object> chapterData = crawlChapter(chapterUrl);
                 if (chapterData != null && !chapterData.isEmpty()) {
