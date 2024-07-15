@@ -28,7 +28,7 @@ public class TruyenCrawler {
             //test 
             int index = 0;
             for (Element link : storyLinks) {
-                if (index <= 3) {
+                if (index < 3) { // Giới hạn 3 truyện
                     String storyUrl = link.attr("href");
                     Map<String, Object> storyData = crawlAndSaveStory(storyUrl);
                     stories.add(storyData);
@@ -52,7 +52,7 @@ public class TruyenCrawler {
         try {
             Document doc = Jsoup.connect(url).get();
 
-            String title = doc.select(".truyen-title").text();
+            String title = doc.select("h3.title").text(); // Chỉnh sửa selector để lấy tên truyện chính xác
             String sanitizedStoryTitle = title.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
 
             String status = doc.select(".info .text-success").text(); // Đây là trạng thái của truyện
@@ -85,7 +85,7 @@ public class TruyenCrawler {
         //test
         int index = 0;
         for (Element chapter : chapters) {
-            if (index <= 10) {
+            if (index < 10) { // Giới hạn 10 chương đầu
                 String chapterUrl = chapter.attr("href");
                 Map<String, Object> chapterData = crawlChapter(chapterUrl);
                 if (chapterData != null && !chapterData.isEmpty()) {
