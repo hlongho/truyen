@@ -123,7 +123,7 @@ public class TruyenCrawler {
                 // Kiểm tra xem có trang tiếp theo không
                 Element nextPageElement = doc.select("a.next").first();
                 if (nextPageElement != null) {
-                    nextPageUrl = nextPageElement.attr("href");
+                    nextPageUrl = nextPageElement.attr("abs:href"); // Sử dụng abs:href để lấy URL đầy đủ
                 } else {
                     nextPageUrl = null;
                 }
