@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -91,9 +92,21 @@ public class TruyenCrawler {
     }
 
     public static void saveChapterToFile(String storyTitle, int chapterNumber, String chapterTitle, String chapterContent) {
-        String fileName = "data/" + storyTitle + "_Chapter" + chapterNumber + "_" + chapterTitle + ".txt";
-        try (FileWriter writer = new FileWriter(fileName)) {
-            writer.write(chapterContent);
+        try {
+            // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
+            String sanitizedStoryTitle = storyTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+            File storyDir = new File("data/" + sanitizedStoryTitle);
+            if (!storyDir.exists()) {
+                storyDir.mkdirs();
+            }
+
+            // Xử lý các ký tự không hợp lệ trong tên tệp
+            String sanitizedChapterTitle = chapterTitle.replaceAll("[^a-zA-Z0-9\\s]", "").replaceAll("\\s+", "_");
+            String fileName = String.format("data/%s/chapter%d_%s.txt", sanitizedStoryTitle, chapterNumber, sanitizedChapterTitle);
+
+            try (FileWriter writer = new FileWriter(fileName)) {
+                writer.write(chapterContent);
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
