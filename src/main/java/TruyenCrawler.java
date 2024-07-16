@@ -44,9 +44,19 @@ public class TruyenCrawler {
                 String storyUrl = link.attr("href");
                 Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                 if (storyData != null) {
-                    stories.add(storyData);
-                    if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
-                        storyCount++;
+                    // Kiểm tra xem truyện đã tồn tại chưa
+                    boolean storyExists = false;
+                    for (Map<String, String> existingStory : stories) {
+                        if (existingStory.get("name").equals(storyData.get("name"))) {
+                            storyExists = true;
+                            break;
+                        }
+                    }
+                    if (!storyExists) {
+                        stories.add(storyData);
+                        if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
+                            storyCount++;
+                        }
                     }
                 }
                 if (storyCount >= storyCountLimit) {
