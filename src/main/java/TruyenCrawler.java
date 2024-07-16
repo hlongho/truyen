@@ -91,24 +91,26 @@ public class TruyenCrawler {
 
             boolean skipCrawl = false;
             if ("Full".equalsIgnoreCase(status)) {
-                // Lấy chương cuối cùng của truyện
-                Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
-                if (lastChapterElement != null) {
-                    String lastChapterUrl = lastChapterElement.attr("href");
-                    Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
-                    if (lastChapterData != null) {
-                        String lastChapterTitle = (String) lastChapterData.get("chapter_name");
-                        String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
-                        String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
-                        
-                        storyData.put("lastChapterTitle", lastChapterTitle);
-                        storyData.put("sanitizedLastChapterTitle", sanitizedLastChapterTitle);
-                        storyData.put("lastChapterFilePath", lastChapterFilePath);
-                        // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
-                        File lastChapterFile = new File(lastChapterFilePath);
-                        if (lastChapterFile.exists()) {
-                            skipCrawl = true;
-                            storyData.put("new_chapter_count", "-1");
+                // Lấy trang cuối cùng
+                Element lastPageElement = doc.select("li a[title~=Cuối]").first();
+                if (lastPageElement != null) {
+                    String lastPageUrl = lastPageElement.attr("href");
+                    doc = Jsoup.connect(lastPageUrl).get();
+                    Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
+                    if (lastChapterElement != null) {
+                        String lastChapterUrl = lastChapterElement.attr("href");
+                        Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
+                        if (lastChapterData != null) {
+                            String lastChapterTitle = (String) lastChapterData.get("chapter_name");
+                            String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
+                            String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
+                            storyData.put("lastChapterTitle", lastChapterTitle);
+                            // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
+                            File lastChapterFile = new File(lastChapterFilePath);
+                            if (lastChapterFile.exists()) {
+                                skipCrawl = true;
+                                storyData.put("new_chapter_count", "-1");
+                            }
                         }
                     }
                 }
