@@ -95,10 +95,12 @@ public class TruyenCrawler {
                 Element lastPageElement = doc.select("li a[title~=Cuối]").first();
                 if (lastPageElement != null) {
                     String lastPageUrl = lastPageElement.attr("href");
+                    storyData.put("lastPageUrl", lastPageUrl);
                     doc = Jsoup.connect(lastPageUrl).get();
                     Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
                     if (lastChapterElement != null) {
                         String lastChapterUrl = lastChapterElement.attr("href");
+                        storyData.put("lastChapterUrl", lastChapterUrl);
                         Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
                         if (lastChapterData != null) {
                             String lastChapterTitle = (String) lastChapterData.get("chapter_name");
