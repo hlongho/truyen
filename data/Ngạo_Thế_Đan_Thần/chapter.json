@@ -1,0 +1,402 @@
+[
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_1_Địa_Ngục_linh_chi_1.json",
+    "chapter_name": "Chương 1: Địa Ngục linh chi (1)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_2_Địa_Ngục_linh_chi_2.json",
+    "chapter_name": "Chương 2: Địa Ngục linh chi (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_3_Âm_Dương_Thần_Mạch.json",
+    "chapter_name": "Chương 3: Âm Dương Thần Mạch"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_4_Tiết_Tiên_Tiên_1.json",
+    "chapter_name": "Chương 4: Tiết Tiên Tiên (1)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_5_Tiết_Tiên_Tiên_2.json",
+    "chapter_name": "Chương 5: Tiết Tiên Tiên (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_6_Tứ_Tượng_thần_công.json",
+    "chapter_name": "Chương 6: Tứ Tượng thần công"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_7_Khiêu_chiến_1.json",
+    "chapter_name": "Chương 7: Khiêu chiến (1)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_8_Khiêu_chiến_2.json",
+    "chapter_name": "Chương 8: Khiêu chiến (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_9_Chân_khí_chi_hỏa.json",
+    "chapter_name": "Chương 9: Chân khí chi hỏa"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_10_Long_Tiên_Công.json",
+    "chapter_name": "Chương 10: Long Tiên Công"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_11_Đan_thành_1.json",
+    "chapter_name": "Chương 11: Đan thành (1)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_12_Đan_thành_2.json",
+    "chapter_name": "Chương 12: Đan thành (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_13_Tranh_đoạt_Tộc_trưởng.json",
+    "chapter_name": "Chương 13: Tranh đoạt Tộc trưởng"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_14_Ta_đến_xuất_chiến.json",
+    "chapter_name": "Chương 14: Ta đến xuất chiến"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_15_Ta_đến_xuất_chiến_2.json",
+    "chapter_name": "Chương 15: Ta đến xuất chiến (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_16_Thần_công_hiển_uy.json",
+    "chapter_name": "Chương 16: Thần công hiển uy"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_17_Cuộc_chiến_cách_xa.json",
+    "chapter_name": "Chương 17: Cuộc chiến cách xa"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_18_Ngũ_hành_dung_hợp.json",
+    "chapter_name": "Chương 18: Ngũ hành dung hợp"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_19_Tiên_Ma_đàm.json",
+    "chapter_name": "Chương 19: Tiên Ma đàm"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_20_Chu_Tước_hỏa_dực.json",
+    "chapter_name": "Chương 20: Chu Tước hỏa dực"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_21_Cứu_người.json",
+    "chapter_name": "Chương 21: Cứu người"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_22_Dược_gia.json",
+    "chapter_name": "Chương 22: Dược gia"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_23_Võ_đạo_môn_phái.json",
+    "chapter_name": "Chương 23: Võ đạo môn phái"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_24_Lần_đầu_giao_phong.json",
+    "chapter_name": "Chương 24: Lần đầu giao phong"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_25_Tẩy_Tủy_Đan.json",
+    "chapter_name": "Chương 25: Tẩy Tủy Đan"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_26_Thiên_phú_kinh_người.json",
+    "chapter_name": "Chương 26: Thiên phú kinh người"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_27_Thần_Binh_thiên_quốc.json",
+    "chapter_name": "Chương 27: Thần Binh thiên quốc"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_28_Mời_kiểm_tra_đi_1.json",
+    "chapter_name": "Chương 28: Mời kiểm tra đi (1)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_29_Mời_kiểm_tra_đi_2.json",
+    "chapter_name": "Chương 29: Mời kiểm tra đi (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_30_Thiên_Hổ_Bạo_Sát_Quyền.json",
+    "chapter_name": "Chương 30: Thiên Hổ Bạo Sát Quyền"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_31_Công_kích_cuồng_bạo.json",
+    "chapter_name": "Chương 31: Công kích cuồng bạo"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_32_Thúc_tổ.json",
+    "chapter_name": "Chương 32: Thúc tổ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_33_Võ_đài_chân_chính.json",
+    "chapter_name": "Chương 33: Võ đài chân chính"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_34_Sát_thủ.json",
+    "chapter_name": "Chương 34: Sát thủ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_35_Vương_thành.json",
+    "chapter_name": "Chương 35: Vương thành"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_36_Đan_Hương_dược_trang.json",
+    "chapter_name": "Chương 36: Đan Hương dược trang"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_37_Giáo_huấn.json",
+    "chapter_name": "Chương 37: Giáo huấn"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_38_Trang_chủ_thành_chủ.json",
+    "chapter_name": "Chương 38: Trang chủ, thành chủ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_39_Môn_phái_đệ_tử.json",
+    "chapter_name": "Chương 39: Môn phái đệ tử"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_40_Đệ_tử_môn_phái_2.json",
+    "chapter_name": "Chương 40: Đệ tử môn phái (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_41_Hoa_Nguyệt_Vân.json",
+    "chapter_name": "Chương 41: Hoa Nguyệt Vân"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_42_Mê_hoặc.json",
+    "chapter_name": "Chương 42: Mê hoặc"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_43_Kim_Linh_Quả.json",
+    "chapter_name": "Chương 43: Kim Linh Quả"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_44_Trước_cửa_Dược_gia.json",
+    "chapter_name": "Chương 44: Trước cửa Dược gia"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_45_Thù_lao_phong_phú.json",
+    "chapter_name": "Chương 45: Thù lao phong phú"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_46_Đan_Vương.json",
+    "chapter_name": "Chương 46: Đan Vương"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_47_Kính_ý.json",
+    "chapter_name": "Chương 47: Kính ý"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_48_Kính_ý_2.json",
+    "chapter_name": "Chương 48: Kính ý (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_49_Hỏa_Long_huyết_ngọc.json",
+    "chapter_name": "Chương 49: Hỏa Long huyết ngọc"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_50_Viêm_Long_bảo_lô.json",
+    "chapter_name": "Chương 50: Viêm Long bảo lô"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_51_Bước_vào_tầng_bảy.json",
+    "chapter_name": "Chương 51: Bước vào tầng bảy"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_52_Ma_công.json",
+    "chapter_name": "Chương 52: Ma công"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_53_Lễ_vật_đặc_biệt.json",
+    "chapter_name": "Chương 53: Lễ vật đặc biệt"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_54_Sắp_khai_trương.json",
+    "chapter_name": "Chương 54: Sắp khai trương"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_55_Thù_mới_nợ_cũ.json",
+    "chapter_name": "Chương 55: Thù mới nợ cũ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_56_Thù_mới_nợ_cũ_2.json",
+    "chapter_name": "Chương 56: Thù mới nợ cũ (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_57_Tiêu_diệt.json",
+    "chapter_name": "Chương 57: Tiêu diệt"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_58_Thần_Lực_cảnh.json",
+    "chapter_name": "Chương 58: Thần Lực cảnh"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_59_Lãnh_U_Lan.json",
+    "chapter_name": "Chương 59: Lãnh U Lan"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_60_Bị_ám_toán.json",
+    "chapter_name": "Chương 60: Bị ám toán"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_61_Thủ_đoạn_đẫm_máu.json",
+    "chapter_name": "Chương 61: Thủ đoạn đẫm máu"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_62_Mỹ_nhân_rời_đi.json",
+    "chapter_name": "Chương 62: Mỹ nhân rời đi"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_63_Ám_khí_ác_độc.json",
+    "chapter_name": "Chương 63: Ám khí ác độc"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_64_Muội_muội.json",
+    "chapter_name": "Chương 64: Muội muội"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_65_Muội_muội_2.json",
+    "chapter_name": "Chương 65: Muội muội (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_66_Long_Vũ.json",
+    "chapter_name": "Chương 66: Long Vũ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_67_Ăn_miếng_trả_miếng.json",
+    "chapter_name": "Chương 67: Ăn miếng trả miếng"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_68_Thiên_ngoại_hữu_thiên.json",
+    "chapter_name": "Chương 68: Thiên ngoại hữu thiên"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_69_Thiên_ngoại_hữu_thiên_2.json",
+    "chapter_name": "Chương 69: Thiên ngoại hữu thiên (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_70_Hết_sức_căng_thẳng.json",
+    "chapter_name": "Chương 70: Hết sức căng thẳng"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_71_Rốt_cục_khai_chiến.json",
+    "chapter_name": "Chương 71: Rốt cục khai chiến"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_72_Bạch_Hổ_thần_quyền.json",
+    "chapter_name": "Chương 72: Bạch Hổ thần quyền"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_73_Đại_cục_đã_định.json",
+    "chapter_name": "Chương 73: Đại cục đã định"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_74_Chân_Nguyên_đan.json",
+    "chapter_name": "Chương 74: Chân Nguyên đan"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_75_Luyện_đan_gian_khổ.json",
+    "chapter_name": "Chương 75: Luyện đan gian khổ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_76_Luyện_thành_Đại_Nguyên_đan.json",
+    "chapter_name": "Chương 76: Luyện thành Đại Nguyên đan"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_77_Độc_châm.json",
+    "chapter_name": "Chương 77: Độc châm"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_78_Cửu_Độc_bang.json",
+    "chapter_name": "Chương 78: Cửu Độc bang"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_79_Diệt_Long_Thần_Vũ.json",
+    "chapter_name": "Chương 79: Diệt Long Thần Vũ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_80_Vũ_hồn.json",
+    "chapter_name": "Chương 80: Vũ hồn"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_81_Cửu_Độc_Tử.json",
+    "chapter_name": "Chương 81: Cửu Độc Tử"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_82_Xuất_kỳ_bất_ý.json",
+    "chapter_name": "Chương 82: Xuất kỳ bất ý"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_83_Thôn_phệ.json",
+    "chapter_name": "Chương 83: Thôn phệ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_84_Truyền_thừa_châu.json",
+    "chapter_name": "Chương 84: Truyền thừa châu"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_85_Lên_đường.json",
+    "chapter_name": "Chương 85: Lên đường"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_86_Thu_hoạch_lớn.json",
+    "chapter_name": "Chương 86: Thu hoạch lớn"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_87_Thành.json",
+    "chapter_name": "Chương 87: Thành"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_88_Thành_2.json",
+    "chapter_name": "Chương 88: Thành (2)"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_89_Học_phí.json",
+    "chapter_name": "Chương 89: Học phí"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_90_Thái_Vũ_châu.json",
+    "chapter_name": "Chương 90: Thái Vũ châu"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_91_Việc_công_trả_thù_riêng.json",
+    "chapter_name": "Chương 91: Việc công trả thù riêng"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_92_Tự_mình_chuốc_lấy_cực_khổ.json",
+    "chapter_name": "Chương 92: Tự mình chuốc lấy cực khổ"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_93_Ba_ngàn_Vũ_Viện.json",
+    "chapter_name": "Chương 93: Ba ngàn Vũ Viện"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_94_Ngoại_Vũ_Viện.json",
+    "chapter_name": "Chương 94: Ngoại Vũ Viện"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_95_Vân_Tiểu_Đao.json",
+    "chapter_name": "Chương 95: Vân Tiểu Đao"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_96_Người_số_một_ngoại_Viện.json",
+    "chapter_name": "Chương 96: Người số một ngoại Viện"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_97_Không_phân_cao_thấp.json",
+    "chapter_name": "Chương 97: Không phân cao thấp"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_98_Phóng_thích_lực_lượng.json",
+    "chapter_name": "Chương 98: Phóng thích lực lượng"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_99_Đan_trưởng_lão.json",
+    "chapter_name": "Chương 99: Đan trưởng lão"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_100_Không_nản_chí.json",
+    "chapter_name": "Chương 100: Không nản chí"
+  }
+]
