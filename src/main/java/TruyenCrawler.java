@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -30,7 +31,8 @@ public class TruyenCrawler {
             File dsTruyenFile = new File("data/ds_truyen.json");
             if (dsTruyenFile.exists()) {
                 try (FileReader reader = new FileReader(dsTruyenFile)) {
-                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
+                    }.getType());
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -54,9 +56,9 @@ public class TruyenCrawler {
                     }
                     if (!storyExists) {
                         stories.add(storyData);
-                        if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
-                            storyCount++;
-                        }
+                    }
+                    if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
+                        storyCount++;
                     }
                 }
                 if (storyCount >= storyCountLimit) {
@@ -152,7 +154,8 @@ public class TruyenCrawler {
                 File chapterFile = new File(chapterFilePath);
                 if (chapterFile.exists()) {
                     try (FileReader reader = new FileReader(chapterFile)) {
-                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
+                        }.getType());
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
