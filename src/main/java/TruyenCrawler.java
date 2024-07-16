@@ -43,7 +43,7 @@ public class TruyenCrawler {
 
             // Lưu danh sách truyện vào file JSON
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("data/truyen.json")) {
+            try (FileWriter writer = new FileWriter("data/ds_truyen.json")) {
                 gson.toJson(stories, writer);
             }
 
@@ -64,6 +64,14 @@ public class TruyenCrawler {
             String author = doc.select(".info a[itemprop=author]").text(); // Đây là tên tác giả của truyện
             String desc = doc.select(".desc-text").text(); // Đây là phần tóm tắt mở đầu của truyện
             String image = doc.select(".book img").attr("src"); // Đây là URL hình ảnh của truyện
+
+            // Lấy thể loại truyện
+            Elements genreElements = doc.select(".info a[href*=the-loai]");
+            List<String> genres = new ArrayList<>();
+            for (Element genreElement : genreElements) {
+                genres.add(genreElement.text());
+            }
+            String genresString = String.join(", ", genres);
 
             // Tạo thư mục 'data/tên_truyện' nếu chưa tồn tại
             File storyDir = new File("data/" + sanitizedStoryTitle);
@@ -90,6 +98,7 @@ public class TruyenCrawler {
             storyData.put("desc", desc);
             storyData.put("path", chapterFilePath);
             storyData.put("image", image);
+            storyData.put("genres", genresString);
             storyData.put("new_chapter_count", String.valueOf(newChapterCount));
 
         } catch (IOException e) {
