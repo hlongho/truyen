@@ -1,110 +1,140 @@
 [
   {
+    "lastChapterFilePath": "data/Thần_Đạo_Đan_Tôn/Chương_25_Phản_chế_Trình_gia.json",
     "image": "https://static.8cache.com/cover/eJzLyTDWr8g0KCmwdHIMCMp0MTQsNw9yMzXyczXLMXTyiTfNcEv3twzPzIvMTXRycwvON8gJzst1CsgLdw5zTDQ3SgyLMCkvLCgyL64odfENi_Dxcgq1LTcyNNXNMDYyAgCEwh2d/than-dao-dan-ton-6060282.jpg",
+    "lastChapterTitle": "Chương 25: Phản chế Trình gia",
     "path": "data/Thần_Đạo_Đan_Tôn/chapter.json",
     "author": "Cô Đơn Địa Phi",
     "genres": "Tiên Hiệp, Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Thần Đạo Đan Tôn",
     "status": "Full",
-    "desc": "Lăng Hàn - Một Đan Đế đại danh đỉnh định mang trong thân mình tuyệt thế công pháp vì truy cầu bước cuối, xé bỏ tấm màn thành thần nhưng thất bại đã phải bỏ mình. Thế nhưng ông trời dường như không muốn tuyệt dường người, Lăng Hàn đã được trọng sinh vào một thiếu niên cùng tên và điều may mắn nhất là \"Bất Diệt Thiên Kinh\" ấn ký vẫn còn nằm nguyên trong tâm thức hắn. Từ nay về sau sóng gió cuộn trào nổi lên, Đan Đế ngày xưa bây giờ phải cùng tranh phong với vô số thiên tài trẻ tuổi, lại bắt đầu một truyền thuyết mới như để chứng minh với trời đất: Ta, là người mạnh nhất! Phân chia cảnh giới: Luyện Thể, Tụ Nguyên, Dũng Tuyền, Linh Hải, Thần Thai, Sinh Hoa, Linh Anh, Hóa Thần cùng Thiên Nhân Cảnh..... Mỗi cảnh giới chia làm chín tầng: tầng một đến ba là tiền kỳ, tầng bốn đến sáu gọi là trung kỳ và tầng bảy đến chín gọi là hậu kỳ và đỉnh Cảnh giới Đan Sư: Hoàng cấp,Huyền cấp, Địa cấp, Thiên cấp... Thần Cảnh: Nhật Nguyệt Cảnh, Sơn Hà Cảnh, Tinh Thần Cảnh, Hằng Hà Cảnh, Sáng Thế Cảnh Mỗi cảnh giới chia làm: Tiểu Cực Vị, Trung Cực Vị, Đại Cực Vi, Đại Viên Mãn trong một Cực Vị lại chia làm: Tiền kỳ, Trung kỳ, Hậu kỳ, Viên mãn Cảnh giới Tiên Vực:Trảm Trần Cảnh (Nhất Trảm-Nhị Trảm-Tam Trảm-Tứ Trảm-Ngũ Trảm),Phân Hồn Cảnh (Dương Hồn-Âm Hồn-Thiên Hồn-Địa Hồn), Tiên Phủ Cảnh, Thăng Nguyên Cảnh, Tiên Vương có 9 tầng từ 1 đến 9, bên trên Tiên Vương là Thiên Tôn Cảnh giới Đan Sư ở Tiên Vực: Nhất Tinh, Nhị Tinh, Tam Tinh, Tứ Tinh,Ngũ Tinh Đan Sư"
+    "desc": "Lăng Hàn - Một Đan Đế đại danh đỉnh định mang trong thân mình tuyệt thế công pháp vì truy cầu bước cuối, xé bỏ tấm màn thành thần nhưng thất bại đã phải bỏ mình. Thế nhưng ông trời dường như không muốn tuyệt dường người, Lăng Hàn đã được trọng sinh vào một thiếu niên cùng tên và điều may mắn nhất là \"Bất Diệt Thiên Kinh\" ấn ký vẫn còn nằm nguyên trong tâm thức hắn. Từ nay về sau sóng gió cuộn trào nổi lên, Đan Đế ngày xưa bây giờ phải cùng tranh phong với vô số thiên tài trẻ tuổi, lại bắt đầu một truyền thuyết mới như để chứng minh với trời đất: Ta, là người mạnh nhất! Phân chia cảnh giới: Luyện Thể, Tụ Nguyên, Dũng Tuyền, Linh Hải, Thần Thai, Sinh Hoa, Linh Anh, Hóa Thần cùng Thiên Nhân Cảnh..... Mỗi cảnh giới chia làm chín tầng: tầng một đến ba là tiền kỳ, tầng bốn đến sáu gọi là trung kỳ và tầng bảy đến chín gọi là hậu kỳ và đỉnh Cảnh giới Đan Sư: Hoàng cấp,Huyền cấp, Địa cấp, Thiên cấp... Thần Cảnh: Nhật Nguyệt Cảnh, Sơn Hà Cảnh, Tinh Thần Cảnh, Hằng Hà Cảnh, Sáng Thế Cảnh Mỗi cảnh giới chia làm: Tiểu Cực Vị, Trung Cực Vị, Đại Cực Vi, Đại Viên Mãn trong một Cực Vị lại chia làm: Tiền kỳ, Trung kỳ, Hậu kỳ, Viên mãn Cảnh giới Tiên Vực:Trảm Trần Cảnh (Nhất Trảm-Nhị Trảm-Tam Trảm-Tứ Trảm-Ngũ Trảm),Phân Hồn Cảnh (Dương Hồn-Âm Hồn-Thiên Hồn-Địa Hồn), Tiên Phủ Cảnh, Thăng Nguyên Cảnh, Tiên Vương có 9 tầng từ 1 đến 9, bên trên Tiên Vương là Thiên Tôn Cảnh giới Đan Sư ở Tiên Vực: Nhất Tinh, Nhị Tinh, Tam Tinh, Tứ Tinh,Ngũ Tinh Đan Sư",
+    "sanitizedLastChapterTitle": "Chương_25_Phản_chế_Trình_gia"
   },
   {
+    "lastChapterFilePath": "data/Linh_Vũ_Thiên_Hạ/Chương_25_Tẩy_tủy_đan_1.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDW160wTC70dXI0zAnO1g9LL0gpsAz0CA_x1HeEAqckR31jj0A_n_Jg8ygXC_1yI0NT3QxjIyNdz2QTIwCuMBMz/linh-vu-thien-ha.jpg",
+    "lastChapterTitle": "Chương 25: Tẩy tủy đan (1)",
     "path": "data/Linh_Vũ_Thiên_Hạ/chapter.json",
     "author": "Vũ Phong",
     "genres": "Tiên Hiệp, Dị Giới, Huyền Huyễn, Xuyên Không",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Linh Vũ Thiên Hạ",
     "status": "Full",
-    "desc": "Nhóm dịch: Sói Già Đả tự: Bựa Thập Ngũ BLH Lục Thiếu Du, linh hồn bị xuyên qua đến thế giới khác, nhập vào thân thể của một thiếu gia không có địa vị phải trải qua cuộc sống không khác gì nô bộc. Thế giới này lấy Vũ vi cường, lấy Linh vi tôn, nghe đồn khi võ đạo đỉnh phong, linh đạo đạt đến cực hạn có thể phá toái hư không. Lục Thiếu Du mang theo ký ức từ kiếp trước tái sinh, không cam lòng làm một thiếu gia chẳng khác gì củi mục. Trong thế giới xa lạ, Say - nằm trên gối mỹ nhân, Tỉnh - nắm quyền thiên hạ. Đây mới là cuộc sống đáng mơ ước. Linh - Vũ song tu Bá chủ kiêu hùng Đã đến, ta sẽ lưu lại một huyền thoại...... Hệ Thống Tu Luyện: - Vũ giả: Vũ khí, Vũ đồ, Vũ sĩ, Vũ sư, Vũ phách, Vũ tướng, Vũ suất, Vũ vương, Vũ tôn, Vũ đế. - Linh giả: Linh khí, Linh đồ, Linh sĩ, Linh sư, Linh phách, Linh tướng, Linh suất, Linh vương, Linh tôn, Linh đế. Mỗi cấp được chia làm cửu trọng (chín tầng). Ngoài ra còn có Yêu thú, Linh thú các thể loại, chia làm nhất giai, nhị giai,... mỗi giai chia làm sơ kỳ, trung kỳ, hậu kỳ. - Công pháp: chia làm sáu loại, từ cao đến thấp: Thiên, Địa, Huyền, Hoàng, Tinh, Thần Tất nhiên là vẫn tồn tại một số công pháp đặc biệt bí ẩn khác. - Ngũ hệ: Vũ giả, Vũ kỹ (công pháp cho vũ giả) được chia thành năm loại Mộc, Thủy, Hỏa, Thổ, Phong."
+    "desc": "Nhóm dịch: Sói Già Đả tự: Bựa Thập Ngũ BLH Lục Thiếu Du, linh hồn bị xuyên qua đến thế giới khác, nhập vào thân thể của một thiếu gia không có địa vị phải trải qua cuộc sống không khác gì nô bộc. Thế giới này lấy Vũ vi cường, lấy Linh vi tôn, nghe đồn khi võ đạo đỉnh phong, linh đạo đạt đến cực hạn có thể phá toái hư không. Lục Thiếu Du mang theo ký ức từ kiếp trước tái sinh, không cam lòng làm một thiếu gia chẳng khác gì củi mục. Trong thế giới xa lạ, Say - nằm trên gối mỹ nhân, Tỉnh - nắm quyền thiên hạ. Đây mới là cuộc sống đáng mơ ước. Linh - Vũ song tu Bá chủ kiêu hùng Đã đến, ta sẽ lưu lại một huyền thoại...... Hệ Thống Tu Luyện: - Vũ giả: Vũ khí, Vũ đồ, Vũ sĩ, Vũ sư, Vũ phách, Vũ tướng, Vũ suất, Vũ vương, Vũ tôn, Vũ đế. - Linh giả: Linh khí, Linh đồ, Linh sĩ, Linh sư, Linh phách, Linh tướng, Linh suất, Linh vương, Linh tôn, Linh đế. Mỗi cấp được chia làm cửu trọng (chín tầng). Ngoài ra còn có Yêu thú, Linh thú các thể loại, chia làm nhất giai, nhị giai,... mỗi giai chia làm sơ kỳ, trung kỳ, hậu kỳ. - Công pháp: chia làm sáu loại, từ cao đến thấp: Thiên, Địa, Huyền, Hoàng, Tinh, Thần Tất nhiên là vẫn tồn tại một số công pháp đặc biệt bí ẩn khác. - Ngũ hệ: Vũ giả, Vũ kỹ (công pháp cho vũ giả) được chia thành năm loại Mộc, Thủy, Hỏa, Thổ, Phong.",
+    "sanitizedLastChapterTitle": "Chương_25_Tẩy_tủy_đan_1"
   },
   {
+    "lastChapterFilePath": "data/Đấu_Phá_Thương_Khung/Chương_25_Tiễn_do_ngã_xuất.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDT1y1Mcw2M0C0IMAvL1g9z8nUxMYwyD3Tz1HeEgmwfR_0SAzefTKOgCI8MC_1yI0NT3QxjIyMANhQRaQ\u003d\u003d/truyen-dau-pha-thuong-khung.jpg",
+    "lastChapterTitle": "Chương 25: Tiễn do ngã xuất",
     "path": "data/Đấu_Phá_Thương_Khung/chapter.json",
     "author": "Thiên Tàm Thổ Đậu",
     "genres": "Tiên Hiệp, Dị Giới, Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Đấu Phá Thương Khung",
     "status": "Full",
-    "desc": "Giới Thiệu Truyện - Đấu Phá Thương Khung là một câu chuyện huyền huyễn đặc sắc kể về Tiêu Viêm, một thiên chi kiêu tử với thiên phú tu luyện mà ai ai cũng hâm mộ, bỗng một ngày người mẹ mất đi đễ lại di vật là một chiếc giới chỉ màu đen nhưng từ khi đó Tiêu Viêm đã mất đi thiên phú tu luyện của mình. - Từ thiên tài rớt xuống làm phế vật trong 3 năm, rồi bị vị hôn thê thẳng thừng từ hôn, làm dấy lên ý chí nam nhi của mình, Tiêu Viêm nhờ di vật của mẫu thân để lại là 1 chiếc hắc giới chỉ (nhẫn màu đen)Tiêu Viêm gặp được hồn của Dược Lão (Dược Trần – Dược tôn giả) 1 đại luyện dược tông sư của đấu khí đại lục… - Từ đó cuộc đời của Tiêu Viêm có những biến hóa gì? Gặp được các đại ngộ gì? Thân phận thật sự của Huân Nhi (thanh mai trúc mã lúc nhỏ của Tiêu Viêm) ra sao? Bí mật của gia tộc hắn là gì? Cùng theo dõi bộ truyện Đấu Phá Thương Khung để có thể giải đáp các thắc mắc này các bạn nhé! - Tags: dau pha thuong khung full prc, truyen huyen huyen"
+    "desc": "Giới Thiệu Truyện - Đấu Phá Thương Khung là một câu chuyện huyền huyễn đặc sắc kể về Tiêu Viêm, một thiên chi kiêu tử với thiên phú tu luyện mà ai ai cũng hâm mộ, bỗng một ngày người mẹ mất đi đễ lại di vật là một chiếc giới chỉ màu đen nhưng từ khi đó Tiêu Viêm đã mất đi thiên phú tu luyện của mình. - Từ thiên tài rớt xuống làm phế vật trong 3 năm, rồi bị vị hôn thê thẳng thừng từ hôn, làm dấy lên ý chí nam nhi của mình, Tiêu Viêm nhờ di vật của mẫu thân để lại là 1 chiếc hắc giới chỉ (nhẫn màu đen)Tiêu Viêm gặp được hồn của Dược Lão (Dược Trần – Dược tôn giả) 1 đại luyện dược tông sư của đấu khí đại lục… - Từ đó cuộc đời của Tiêu Viêm có những biến hóa gì? Gặp được các đại ngộ gì? Thân phận thật sự của Huân Nhi (thanh mai trúc mã lúc nhỏ của Tiêu Viêm) ra sao? Bí mật của gia tộc hắn là gì? Cùng theo dõi bộ truyện Đấu Phá Thương Khung để có thể giải đáp các thắc mắc này các bạn nhé! - Tags: dau pha thuong khung full prc, truyen huyen huyen",
+    "sanitizedLastChapterTitle": "Chương_25_Tiễn_do_ngã_xuất"
   },
   {
+    "lastChapterFilePath": "data/Thế_Giới_Hoàn_Mỹ/Chương_25_Bảo_cụ.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDR100qKnJ08QhzLS0M1A_z8zUJcs0zsMz31HeEghwzA32PJCfTqky_MIOMcv1yI0NT3QxjIyMATdMSHQ\u003d\u003d/the-gioi-hoan-my.jpg",
+    "lastChapterTitle": "Chương 25: Bảo cụ",
     "path": "data/Thế_Giới_Hoàn_Mỹ/chapter.json",
     "author": "Thần Đông",
     "genres": "Tiên Hiệp, Kiếm Hiệp, Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Thế Giới Hoàn Mỹ",
     "status": "Full",
-    "desc": "Dịch giả: Ronkute, Yencute, Ryuken, kukhoai, bokinhvan, Kensin_Kaoru, Big Bang, Luciferht, Độc Nhân Một hạt bụi có thể lấp biển, một cọng cỏ chém hết mặt trời mặt trăng và ngôi sao, trong nháy mắt ở giữa long trời lỡ đất. Quần hùng cùng nổi lên, vạn tộc mọc lên san sát như rừng, chư thánh tranh bá, loạn khắp đất trời. Hỏi mặt đất bao la, cuộc đời thăng trầm? Một thiếu niên theo trong đất hoang đi ra, tất cả bắt đầu từ nơi này..."
+    "desc": "Dịch giả: Ronkute, Yencute, Ryuken, kukhoai, bokinhvan, Kensin_Kaoru, Big Bang, Luciferht, Độc Nhân Một hạt bụi có thể lấp biển, một cọng cỏ chém hết mặt trời mặt trăng và ngôi sao, trong nháy mắt ở giữa long trời lỡ đất. Quần hùng cùng nổi lên, vạn tộc mọc lên san sát như rừng, chư thánh tranh bá, loạn khắp đất trời. Hỏi mặt đất bao la, cuộc đời thăng trầm? Một thiếu niên theo trong đất hoang đi ra, tất cả bắt đầu từ nơi này...",
+    "sanitizedLastChapterTitle": "Chương_25_Bảo_cụ"
   },
   {
+    "lastChapterFilePath": "data/Mê_Vợ_Không_Lối_Về/Chương_25_Vậy_mà_tông_triển_bạch_không_bị_què.json",
     "image": "https://static.8cache.com/cover/eJzLyTDWL0nLD_dLKy0IzIx09jfPyc8O8w5Pck3yzysPCSwJiAzxzjYKNs90NC80dsyP8K80rTQKzjKON8qND_YpK3D2K8o1DvY0Ss7OKjJxc08PL0kJdLQtNzI01c0wNjICAEFJH9I\u003d/me-vo-khong-loi-ve-982891.jpg",
+    "lastChapterTitle": "Chương 25: Vậy mà tông triển bạch không bị què",
     "path": "data/Mê_Vợ_Không_Lối_Về/chapter.json",
     "author": "Chiêu Tài Tiến Bảo",
     "genres": "Ngôn Tình, Ngược, Sủng",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Mê Vợ Không Lối Về",
     "status": "Full",
-    "desc": "Một cuộc giao dịch, cô mang thai con của người lạ, mang bụng bầu gả cho người đàn ông đã đính ước từ nhỏ. Vốn cho rằng chỉ là một cuộc giao dịch, lại dây dưa thứ tình cảm không nên có trong cuộc hôn nhân này. Mười tháng hoài thai sắp sinh, một tờ đơn ly hôn trên đất, cô mới hoàn toàn tình ngộ. Sau này anh ta nói \"Bà xã về đi, người anh yêu luôn là em\""
+    "desc": "Một cuộc giao dịch, cô mang thai con của người lạ, mang bụng bầu gả cho người đàn ông đã đính ước từ nhỏ. Vốn cho rằng chỉ là một cuộc giao dịch, lại dây dưa thứ tình cảm không nên có trong cuộc hôn nhân này. Mười tháng hoài thai sắp sinh, một tờ đơn ly hôn trên đất, cô mới hoàn toàn tình ngộ. Sau này anh ta nói \"Bà xã về đi, người anh yêu luôn là em\"",
+    "sanitizedLastChapterTitle": "Chương_25_Vậy_mà_tông_triển_bạch_không_bị_què"
   },
   {
+    "lastChapterFilePath": "data/Cô_Vợ_Ngọt_Ngào_Có_Chút_Bất_Lương_Vợ_Mới_Bất_Lương_Có_Chút_Ngọt/Chương_25_Chụt_Chụt_nha.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDW1zXKKnJ09440NzRw1Q8zCc_3LDTyDo_w1HeEgsCCdP2MND9Hl2wTP3_fYoOy3EDDSq-gomKf5GRns6KCIsPcxHRnD1_9ciNDU90MYyMjAHumGmo\u003d/co-vo-ngot-ngao-co-chut-bat-luong-vo-moi-bat-luong-co-chut-ngot.jpg",
+    "lastChapterTitle": "Chương 25: \"Chụt Chụt\" nha",
     "path": "data/Cô_Vợ_Ngọt_Ngào_Có_Chút_Bất_Lương_Vợ_Mới_Bất_Lương_Có_Chút_Ngọt/chapter.json",
     "author": "Quẫn Quẫn Hữu Yêu",
     "genres": "Ngôn Tình, Trọng Sinh, Sủng",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Cô Vợ Ngọt Ngào Có Chút Bất Lương (Vợ Mới Bất Lương Có Chút Ngọt)",
     "status": "Full",
-    "desc": "Tên khác: Cô Vợ Bất Lương Có Chút Ngọt Ngào \"Khẩu vị của người này rốt cuộc ra sao a! Cái này cũng bỏ được vào miệng à?\" Sau khi cô tỉnh dậy, nhìn vào trong gương thấy chính mình đầu xăm mặt giống như quỷ, cảm giác chỉ nhìn thêm một giây cũng hỏng đôi mắt. Trước khi trọng sinh, Cố Việt Trạch chính là người mà cô dùng cả tấm lòng để yêu nhưng sau đó cũng là người mà cô hận thấu xương. Đời trước cô chính là kiểu phụ nữ não tàn nên mới không muốn lây một ông xã tuyệt sắc, lại bị đôi tiện nam nữ hãm hại, bị người bạn thân nhất tẩy não, kết cục cuối cùng chính là không còn người nào muốn ở gần cô. Đời này mặc cho các ngươi trâu bò rắn rết trăm phương nghìn kế, muốn cô ly dị, nhường đi ngôi vị phu nhân. Ngượng ngùng quá ~~, chỉ số thông minh của bản tiểu thư đã lên dây rồi nhé!"
+    "desc": "Tên khác: Cô Vợ Bất Lương Có Chút Ngọt Ngào \"Khẩu vị của người này rốt cuộc ra sao a! Cái này cũng bỏ được vào miệng à?\" Sau khi cô tỉnh dậy, nhìn vào trong gương thấy chính mình đầu xăm mặt giống như quỷ, cảm giác chỉ nhìn thêm một giây cũng hỏng đôi mắt. Trước khi trọng sinh, Cố Việt Trạch chính là người mà cô dùng cả tấm lòng để yêu nhưng sau đó cũng là người mà cô hận thấu xương. Đời trước cô chính là kiểu phụ nữ não tàn nên mới không muốn lây một ông xã tuyệt sắc, lại bị đôi tiện nam nữ hãm hại, bị người bạn thân nhất tẩy não, kết cục cuối cùng chính là không còn người nào muốn ở gần cô. Đời này mặc cho các ngươi trâu bò rắn rết trăm phương nghìn kế, muốn cô ly dị, nhường đi ngôi vị phu nhân. Ngượng ngùng quá ~~, chỉ số thông minh của bản tiểu thư đã lên dây rồi nhé!",
+    "sanitizedLastChapterTitle": "Chương_25_Chụt_Chụt_nha"
   },
   {
+    "lastChapterFilePath": "data/Phàm_Nhân_Tu_Tiên/Chương_25_Sáp_liễu_thành.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDT17WITwqMNNQtNKp01A_zNXY1ifQuc8301HeEghwTR_1IV8PsTO-w4HKTUP1yI0NT3QxjIyMANRgRnA\u003d\u003d/pham-nhan-tu-tien.jpg",
+    "lastChapterTitle": "Chương 25: Sáp liễu thành",
     "path": "data/Phàm_Nhân_Tu_Tiên/chapter.json",
     "author": "Vong Ngữ",
     "genres": "Tiên Hiệp, Kiếm Hiệp",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Phàm Nhân Tu Tiên",
     "status": "Full",
-    "desc": "Phàm Nhân Tu Tiên là một câu chuyện Tiên Hiệp kể về Hàn Lập - Một người bình thường nhưng lại gặp vô vàn cơ duyên để bước đi trên con đường tu tiên, không phải anh hùng - cũng chẳng phải tiểu nhân, Hàn Lập từng bước khẳng định mình... Liệu Hàn Lập và người yêu có thể cùng bước trên con đường tu tiên và có một cái kết hoàn mỹ? Những thử thách nào đang chờ đợi bọn họ? - Truyện kết cấu khá hợp lý, tình tiết không quá chậm, không quá nhanh, diễn tả khá đặc biệt, lời văn trôi chảy, nhân vật tính cách đặc thù. Nhân vật chính, Hàn Lập, mang hơi hướng khá cô độc. Bạn nào thích đọc Tru Tiên hoặc Thương Thiên chắc sẽ thích Phàm Nhân Tu Tiên Truyện. Mời bạn đọc cùng thưởng thức và dõi theo bước chân của Hàn Lập! - Tags: pham nhan tu tien prc full, truyen tien hiep"
+    "desc": "Phàm Nhân Tu Tiên là một câu chuyện Tiên Hiệp kể về Hàn Lập - Một người bình thường nhưng lại gặp vô vàn cơ duyên để bước đi trên con đường tu tiên, không phải anh hùng - cũng chẳng phải tiểu nhân, Hàn Lập từng bước khẳng định mình... Liệu Hàn Lập và người yêu có thể cùng bước trên con đường tu tiên và có một cái kết hoàn mỹ? Những thử thách nào đang chờ đợi bọn họ? - Truyện kết cấu khá hợp lý, tình tiết không quá chậm, không quá nhanh, diễn tả khá đặc biệt, lời văn trôi chảy, nhân vật tính cách đặc thù. Nhân vật chính, Hàn Lập, mang hơi hướng khá cô độc. Bạn nào thích đọc Tru Tiên hoặc Thương Thiên chắc sẽ thích Phàm Nhân Tu Tiên Truyện. Mời bạn đọc cùng thưởng thức và dõi theo bước chân của Hàn Lập! - Tags: pham nhan tu tien prc full, truyen tien hiep",
+    "sanitizedLastChapterTitle": "Chương_25_Sáp_liễu_thành"
   },
   {
+    "lastChapterFilePath": "data/Đế_Bá/Chương_25_Thần_Nha_Phong_Thượng.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDR183KzSo2TCpOCXKJ1A8LKEiucHN3yor31HeEglzXZP0qM-fg-IA8QxODQP1yI0NT3QxjIyMAbfcSoQ\u003d\u003d/de-ba.jpg",
+    "lastChapterTitle": "Chương 25: Thần Nha Phong (Thượng)",
     "path": "data/Đế_Bá/chapter.json",
     "author": "Yếm Bút Tiêu Sinh",
     "genres": "Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Đế Bá",
     "status": "Full",
-    "desc": "Ngàn vạn năm trước, Lý Thất Dạ trồng xuống một cây Thúy Trúc. Tám trăm vạn năm trước, Lý Thất Dạ nuôi một đầu cá chép. Năm trăm vạn năm trước, Lý Thất Dạ thu dưỡng một cái tiểu cô nương. ............... Hôm nay, Lý Thất Dạ tỉnh lại sau giấc ngủ, Thúy Trúc tu luyện thành thần linh, cá chép hóa thành Kim Long, tiểu cô nương trở thành Cửu Giới Nữ Đế. Đây là cố sự về một tiểu tử bất tử Nhân tộc dưỡng thành Yêu Thần, dưỡng thành Tiên thú, dưỡng thành Nữ Đế..."
+    "desc": "Ngàn vạn năm trước, Lý Thất Dạ trồng xuống một cây Thúy Trúc. Tám trăm vạn năm trước, Lý Thất Dạ nuôi một đầu cá chép. Năm trăm vạn năm trước, Lý Thất Dạ thu dưỡng một cái tiểu cô nương. ............... Hôm nay, Lý Thất Dạ tỉnh lại sau giấc ngủ, Thúy Trúc tu luyện thành thần linh, cá chép hóa thành Kim Long, tiểu cô nương trở thành Cửu Giới Nữ Đế. Đây là cố sự về một tiểu tử bất tử Nhân tộc dưỡng thành Yêu Thần, dưỡng thành Tiên thú, dưỡng thành Nữ Đế...",
+    "sanitizedLastChapterTitle": "Chương_25_Thần_Nha_Phong_Thượng"
   },
   {
+    "lastChapterFilePath": "data/Nhất_Niệm_Vĩnh_Hằng/Chương_25_Bất_Tử_Thiết_Bì.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDW1zUxD3A1ck4zdi_N1w-r9MgyD0sxDQz11HeEAj_dbP1A14jQ8MIyn2J3zxzDZE-XPGf38CqLZDc3f5Oi-KKAgnJn53z9ciNDU90MYyMjAHsxGlc\u003d/nhat-niem-vinh-hang.jpg",
+    "lastChapterTitle": "Chương 25: Bất Tử Thiết Bì",
     "path": "data/Nhất_Niệm_Vĩnh_Hằng/chapter.json",
     "author": "Nhĩ Căn",
     "genres": "Tiên Hiệp, Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Nhất Niệm Vĩnh Hằng",
     "status": "Full",
-    "desc": "一念永恒 Nhất niệm thành biển cả, nhất niệm hóa nương dâu. Nhất niệm trảm nghìn Ma, nhất niệm giết vạn Tiên. Chỉ có niệm của ta... là Vĩnh hằng."
+    "desc": "一念永恒 Nhất niệm thành biển cả, nhất niệm hóa nương dâu. Nhất niệm trảm nghìn Ma, nhất niệm giết vạn Tiên. Chỉ có niệm của ta... là Vĩnh hằng.",
+    "sanitizedLastChapterTitle": "Chương_25_Bất_Tử_Thiết_Bì"
   },
   {
+    "lastChapterFilePath": "data/Tiên_Nghịch/Chương_25_Ngưng_Khí.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDT1w0sDgtMCjFO8XMO1A9zCvSLTK5wzDL01HeEguyAQH3v0IK8TK_i-IjCSP1yI0NT3QxjIyMAV4kSwQ\u003d\u003d/tien-nghich.jpg",
+    "lastChapterTitle": "Chương 25: Ngưng Khí",
     "path": "data/Tiên_Nghịch/chapter.json",
     "author": "Nhĩ Căn",
     "genres": "Tiên Hiệp, Kiếm Hiệp",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Tiên Nghịch",
     "status": "Full",
-    "desc": "Giới Thiệu Truyện Tiên Nghịch là câu chuyện Tiên Hiệp kể về Vương Lâm - một thiếu niên bình thường, may mắn được gia nhập vào một môn phái tu tiên xuống dốc của nước Triệu, vì thiếu linh căn, vì một hiểu nhầm tai hại, vì một khối thiết tinh và nhờ có được một \"Thần Bí Hạt Châu\". Vương Lâm đã bước lên con đường tu tiên và trên con đường này, hắn sẽ đối mặt với chuyện gì? - Tu tiên là nghịch thiên hay thuận thiên, là vô tình hay hữu tình? Hãy cùng dõi theo bước chân của Vương Lâm qua 1976 chương Truyện Tiên Nghịch\u003e để biết rõ những điều này bạn nhé! - Tags: truyen tien hiep, tien nghich prc full"
+    "desc": "Giới Thiệu Truyện Tiên Nghịch là câu chuyện Tiên Hiệp kể về Vương Lâm - một thiếu niên bình thường, may mắn được gia nhập vào một môn phái tu tiên xuống dốc của nước Triệu, vì thiếu linh căn, vì một hiểu nhầm tai hại, vì một khối thiết tinh và nhờ có được một \"Thần Bí Hạt Châu\". Vương Lâm đã bước lên con đường tu tiên và trên con đường này, hắn sẽ đối mặt với chuyện gì? - Tu tiên là nghịch thiên hay thuận thiên, là vô tình hay hữu tình? Hãy cùng dõi theo bước chân của Vương Lâm qua 1976 chương Truyện Tiên Nghịch\u003e để biết rõ những điều này bạn nhé! - Tags: truyen tien hiep, tien nghich prc full",
+    "sanitizedLastChapterTitle": "Chương_25_Ngưng_Khí"
   },
   {
     "image": "https://static.8cache.com/cover/eJwFwdsKQDAAANAvkmyt7MEbVmjIDE_CZsuIYi5_75xVQ9ch9AGKl3UXKXh7zOS-jnpmrS8SIm8eU8JWiqds5uEmz9cUI1Kxvegh0gHveENVkxvVLtMXtkwQnNTBAzzkaAjADy7fH-0\u003d/am-quan-minh-the.jpg",
     "path": "data/Âm_Quan_Minh_Thê/chapter.json",
     "author": "Tam Độ Xuân Thu",
     "genres": "Ngôn Tình, Linh Dị",
-    "new_chapter_count": "79",
+    "new_chapter_count": "0",
     "name": "Âm Quan Minh Thê",
     "status": "",
     "desc": "Dịch giả: Thảo Đàn Về kết hôn âm dương, có rất nhiều truyền kỳ và câu chuyện huyền bí xoay quanh nó. Trung Quốc thời đó chuộng loại kết hôn này coi như một cách để thành toàn vong linh người đã khuất. Có điều ở hiện đại, không mấy ai còn làm điều này nữa. Câu chuyện này kể về Đỗ Minh và Hứa Thiên với màu sắc ma mị và những thử thách trên con đường trở thành Pháp Sư của anh. Cùng đọc truyện nhé!!!"
@@ -120,23 +150,55 @@
     "desc": "Truyện Rể Quý Trời Cho của tác giả Quỷ Thượng Nhân với nội dung truyện xoay quanh nhân vật chính – Lâm Thanh Diện: Khi đó mẹ Lâm Thanh Diện vì muốn nắm quyền nhà họ Lâm mà không tiếc để anh gánh tội danh phản bội, anh phải rời khỏi gia tộc, làm con rể phế vật bị người người chê cười ở Giang Thành. Cho đến khi vợ bị ức hiếp, anh mới không thể tiếp tục điệu thấp nữa, lộ thân phận, vả mặt bọn người."
   },
   {
+    "lastChapterFilePath": "data/Vạn_Cổ_Chí_Tôn/Chương_25_Thân_bại_danh_liệt_2.json",
     "image": "https://static.8cache.com/cover/o/eJzLyTDW1y2yMM0P9nSxKCo30Q9LjTLK8_P3i6jw1HeEgQxP_UTLSOf4KAM_Iw9P_XIjQ1PdDGMjI13PZBMjAKMsEwA\u003d/van-co-chi-ton.jpg",
+    "lastChapterTitle": "Chương 25: Thân bại danh liệt (2)",
     "path": "data/Vạn_Cổ_Chí_Tôn/chapter.json",
     "author": "Thái Nhất Sinh Thủy",
     "genres": "Huyền Huyễn",
-    "new_chapter_count": "0",
+    "new_chapter_count": "-1",
     "name": "Vạn Cổ Chí Tôn",
     "status": "Full",
-    "desc": "Mười lăm năm trước, Thiên Vũ giới một trong thập đại phong hào Vũ Đế, Phá Quân Vũ Đế… Cổ Phi Dương, tại sơn mạch Thiên Đãng bất ngờ ngã xuống, chấn động toàn bộ đại lục! Sau đó các thế lực lớn sóng ngầm phun trào, các loại xung đột càng ngày càng kịch liệt, đại lục Thiên Vũ vắng lặng mấy trăm năm, lần thứ hai gió nổi mây vần. Mười lăm năm sau chuyển thế sống lại hóa thành công tử Lý Vân Tiêu – Thiên Thủy quốc, mở ra một thiên lữ trình nghịch thiên tranh chấp cùng vô số thiên tài thiên hạ. Cảnh giới Võ giả có chín tầng cảnh giới: Nhất Nguyên cảnh (Võ sĩ), Nhị Phân cảnh (Võ sư), Tam Tài cảnh (Đại vũ sư), Tứ Tượng cảnh (Vũ Quân), Ngũ Hành cảnh (Vũ Vương), Lục Hợp cảnh (Vũ Hoàng), Thất Túc cảnh (Vũ Tông), Bát Hoang cảnh (Vũ Tôn), Cửu Thiên cảnh (Vũ Đế). Cửu Thiên cảnh đỉnh cao, có thể được Thánh Thành ban tặng phong hào, là phong hào Vũ Đế …."
+    "desc": "Mười lăm năm trước, Thiên Vũ giới một trong thập đại phong hào Vũ Đế, Phá Quân Vũ Đế… Cổ Phi Dương, tại sơn mạch Thiên Đãng bất ngờ ngã xuống, chấn động toàn bộ đại lục! Sau đó các thế lực lớn sóng ngầm phun trào, các loại xung đột càng ngày càng kịch liệt, đại lục Thiên Vũ vắng lặng mấy trăm năm, lần thứ hai gió nổi mây vần. Mười lăm năm sau chuyển thế sống lại hóa thành công tử Lý Vân Tiêu – Thiên Thủy quốc, mở ra một thiên lữ trình nghịch thiên tranh chấp cùng vô số thiên tài thiên hạ. Cảnh giới Võ giả có chín tầng cảnh giới: Nhất Nguyên cảnh (Võ sĩ), Nhị Phân cảnh (Võ sư), Tam Tài cảnh (Đại vũ sư), Tứ Tượng cảnh (Vũ Quân), Ngũ Hành cảnh (Vũ Vương), Lục Hợp cảnh (Vũ Hoàng), Thất Túc cảnh (Vũ Tông), Bát Hoang cảnh (Vũ Tôn), Cửu Thiên cảnh (Vũ Đế). Cửu Thiên cảnh đỉnh cao, có thể được Thánh Thành ban tặng phong hào, là phong hào Vũ Đế ….",
+    "sanitizedLastChapterTitle": "Chương_25_Thân_bại_danh_liệt_2"
   },
   {
+    "lastChapterFilePath": "data/Ngạo_Thế_Đan_Thần/Chương_25_Tẩy_Tủy_Đan.json",
     "image": "https://lh3.googleusercontent.com/pw/ADCreHczJJdY0JV_8uQUCkbRvJQKO6i4KUYx9EVpYOMu_owGibrNc6C5fZ66tgUTuQCFCiQXw3XpNkLnsmp5zzUQwGQzRweBYTE25plo7m2RtEvqdAyrM2v0pswIDk_rjbDGNxZkkRD9rude--QKP2PPFWPB\u003dw215-h322-s-no-gm?authuser\u003d0",
+    "lastChapterTitle": "Chương 25: Tẩy Tủy Đan",
     "path": "data/Ngạo_Thế_Đan_Thần/chapter.json",
     "author": "Tịch Tiểu Tặc",
     "genres": "Tiên Hiệp",
-    "new_chapter_count": "100",
+    "new_chapter_count": "-1",
     "name": "Ngạo Thế Đan Thần",
     "status": "Full",
-    "desc": "Thể loại truyện tiên hiệp đã và đang nhận được không ít sự quan tâm của các bạn độc giả, truyện với những tình tiết và nhân vật đem lại không ít sự tò mò, lối kể chuyện lạ, tình tiết không quá đặc sắc nhưng khi dựng thành một câu chuyện thì thực sống động và cuốn hút. Truyện Ngạo Thế Đan Thần là một trong những truyện nổi bật ở thể loại này được tác giả Tịch Tiểu Tặc chắp bút. Năm nay Trầm Tường mười sáu tuổi, thân hình so với bạn cùng lứa tuổi thì cường tráng cao lớn hơn, thân thể này cùng gương mặt tuấn tú mang theo tính trẻ con, nhìn rất là trái ngược, nhưng cặp mắt kia của hắn lại thâm thúy không tương xứng cùng tuổi tác, xem ra nhàn đến muốn thành thục hơn so với bạn cùng lứa tuổi một ít. Lúc này Trầm Tường muốn đi hái thuốc, mặc dù hắn là trưởng tôn tử của Trầm gia tộc, nhưng bởi vì hắn không có linh mạch, không thể trở thành một võ giả lợi hại, bởi vậy, từ nhỏ hắn đã rất chăm chỉ rèn luyện thân thể của mình, thường thường ra ngoài tiến hành các loại huấn luyện bí mật, thậm chí còn tiến hành tranh đấu với Hổ thú, tuy hắn tuổi còn trẻ, nhưng cũng từng có mấy lần trải qua sinh tử, tâm tình cùng ý chí đều hơn xa bạn cùng lứa tuổi. Thiếu niên Trầm Tường diễm ngộ Thần nữ cùng Ma nữ, đạt được vô thượng truyền thừa của các nàng, thu được Âm Dương Thần Mạch, học được tuyệt thế thần công, nắm giữ đan thuật siêu tuyệt, này khiến cho hắn ở võ đạo chi lộ xuân phong đắc ý... lúc đói bụng luyện đan dược làm đồ ăn vặt, thời điểm tịch mịch đùa giỡn Thần nữ cao cao tại thượng, lúc tẻ nhạt chơi đùa với những cao nhân đến van cầu đan dược, lúc mệt mỏi để kiều thê bên người xoa xoa bóp bóp... Phân chia đằng cấp: Phàm Võ Cảnh mười tầng, Chân Võ Cảnh thập đoạn, Tam đại cảnh giới cực hạn, Niết Bàn Cảnh cửu kiếp.... Luyện Đan Sư phân chia thập đoạn...."
+    "desc": "Thể loại truyện tiên hiệp đã và đang nhận được không ít sự quan tâm của các bạn độc giả, truyện với những tình tiết và nhân vật đem lại không ít sự tò mò, lối kể chuyện lạ, tình tiết không quá đặc sắc nhưng khi dựng thành một câu chuyện thì thực sống động và cuốn hút. Truyện Ngạo Thế Đan Thần là một trong những truyện nổi bật ở thể loại này được tác giả Tịch Tiểu Tặc chắp bút. Năm nay Trầm Tường mười sáu tuổi, thân hình so với bạn cùng lứa tuổi thì cường tráng cao lớn hơn, thân thể này cùng gương mặt tuấn tú mang theo tính trẻ con, nhìn rất là trái ngược, nhưng cặp mắt kia của hắn lại thâm thúy không tương xứng cùng tuổi tác, xem ra nhàn đến muốn thành thục hơn so với bạn cùng lứa tuổi một ít. Lúc này Trầm Tường muốn đi hái thuốc, mặc dù hắn là trưởng tôn tử của Trầm gia tộc, nhưng bởi vì hắn không có linh mạch, không thể trở thành một võ giả lợi hại, bởi vậy, từ nhỏ hắn đã rất chăm chỉ rèn luyện thân thể của mình, thường thường ra ngoài tiến hành các loại huấn luyện bí mật, thậm chí còn tiến hành tranh đấu với Hổ thú, tuy hắn tuổi còn trẻ, nhưng cũng từng có mấy lần trải qua sinh tử, tâm tình cùng ý chí đều hơn xa bạn cùng lứa tuổi. Thiếu niên Trầm Tường diễm ngộ Thần nữ cùng Ma nữ, đạt được vô thượng truyền thừa của các nàng, thu được Âm Dương Thần Mạch, học được tuyệt thế thần công, nắm giữ đan thuật siêu tuyệt, này khiến cho hắn ở võ đạo chi lộ xuân phong đắc ý... lúc đói bụng luyện đan dược làm đồ ăn vặt, thời điểm tịch mịch đùa giỡn Thần nữ cao cao tại thượng, lúc tẻ nhạt chơi đùa với những cao nhân đến van cầu đan dược, lúc mệt mỏi để kiều thê bên người xoa xoa bóp bóp... Phân chia đằng cấp: Phàm Võ Cảnh mười tầng, Chân Võ Cảnh thập đoạn, Tam đại cảnh giới cực hạn, Niết Bàn Cảnh cửu kiếp.... Luyện Đan Sư phân chia thập đoạn....",
+    "sanitizedLastChapterTitle": "Chương_25_Tẩy_Tủy_Đan"
+  },
+  {
+    "lastChapterFilePath": "data/Vũ_Động_Càn_Khôn/Chương_25_Tiếp_quản_sự_vụ.json",
+    "image": "https://static.8cache.com/cover/o/eJzLyTDR1430dbb0NfWMd7MM1A9z8nWxDDLx8En11HeEgmzffH1ny6h4g_SkpNBAX_1yI0NT3QxjIyMAJDgRVA\u003d\u003d/vu-dong-can-khon.jpg",
+    "lastChapterTitle": "Chương 25: Tiếp quản sự vụ",
+    "path": "data/Vũ_Động_Càn_Khôn/chapter.json",
+    "author": "Thiên Tàm Thổ Đậu",
+    "genres": "Tiên Hiệp, Huyền Huyễn",
+    "new_chapter_count": "100",
+    "name": "Vũ Động Càn Khôn",
+    "status": "Full",
+    "desc": "Giới Thiệu Truyện Vũ Động Càn Khôn - Từ xưa đến nay, con người luôn có khát vọng vươn lên đỉnh cao, để đổi lấy sự thành công họ đã hy sinh biết bao nhiêu mồ hôi và nước mắt. Tu Luyện chính là trộm đi âm dương, đoạt lấy tạo hóa, chuyển đổi Niết Bàn, nắm giữ sinh tử, chưởng quản Luân Hồi. - Có người theo đuổi quyền lực và sức mạnh, có người thì truy cầu tình yêu, nhưng sống trong thời loạn không thể không có thực lực trong tay, muốn có chỗ đứng hay bảo vệ những người thương yêu đều cần phải có thực lực, đó là chân lý không bao giờ thay đổi tự cổ chí kim. - Câu chuyện là một trang sách nói về cuộc đời của một tu luyện giả, bên cạnh đó còn miêu tả cuộc sống đời thường, những suy nghĩ bình thường, nhưng nếu như số mệnh đã sắp đặt bản thân phải đi trên một con đường đầy gian khổ và trắc trở thì sao? Con người đặc biệt luôn có số mệnh đặc biệt, bất kể xuất thân, bất kể địa vị. Chúng ta hãy cùng dõi theo những bước chân của họ, không chỉ đơn giản là xem những pha đánh nhau đẹp mắt, hay những chiêu thức tráng lệ, cũng không phải chỉ để bàn luận đến những âm mưu hay kế sách thâm độc, hèn hạ bỉ ổi, tuyệt vời ra sao. Thứ chúng ta cần là một cái gì đó lớn hơn thế, tất cả mọi thứ hòa quyện lại với nhau tạo ra một sự liên kết tuyệt vời, và sự liên kết đó chính là Võ Động Càn Khôn. Còn chờ gì nữa, các bạn hãy nhanh đọc lướt qua phần giới thiệu để cùng đắm mình trong thế giới của Vũ Động Càn Khôn, thưởng thức cái hay và hấp dẫn không thể cưỡng lại của tác phẩm. - Câu chuyện kể về một thiếu niên Lâm Động, vốn là thiếu niên bình thường, cha của hắn là một cao thủ nhưng bị người khác đánh trọng thương khó có thể phục hồi, từ đó địa vị trong gia đình ngày càng giảm sút. Dù bị khinh thị và chế giễu nhưng Lâm Động với sự quyết tâm không ngừng nghỉ, rèn luyện điên cuồng chờ ngày báo thù. - Ông trời có mắt không phụ người có lòng, Lâm Động may mắn gặp được kỳ ngộ, nhặt được một viên đá kỳ lạ, mà công dụng của nó nếu lọt ra ngoài thì chắc chắn sẽ khiến thế gian điên cuồng, rốt cuộc viên đá đó có tác dụng gì? Và xuất xứ từ đâu? - Từng bước đi trên con đường cường giả, đối mặt với những địch thủ đỉnh cấp, liệu Lâm Động sẽ thành công hay thất bại? Sẽ trở thành một cường giả đứng trên vạn người, được họ kính ngưỡng hay cũng giống như cha mình không thể ngóc đầu lên nổi... Mời các bạn cùng theo dõi! - Tags: vu dong can khon, truyen huyen huyen",
+    "sanitizedLastChapterTitle": "Chương_25_Tiếp_quản_sự_vụ"
+  },
+  {
+    "lastChapterFilePath": "data/Độc_Tôn_Tam_Giới/Chương_25_Lần_thứ_hai_vẽ_mặt_2.json",
+    "image": "https://static.8cache.com/cover/o/eJzLyTDW13UqDPHxS0sK13UN1A8zNCnPDTRzijT01HeEgoCgSP00b8PKtCKfYscIR2-n_Eo_D7PEqAzzsLCgZJMScyfd3EBn53z9ciNDU90MYyMjAHszGeU\u003d/doc-ton-tam-gioi.jpg",
+    "lastChapterTitle": "Chương 25: Lần thứ hai vẽ mặt 2",
+    "path": "data/Độc_Tôn_Tam_Giới/chapter.json",
+    "author": "Lê Thiên",
+    "genres": "Tiên Hiệp, Huyền Huyễn",
+    "new_chapter_count": "95",
+    "name": "Độc Tôn Tam Giới",
+    "status": "Full",
+    "desc": "Nhóm dịch: Sói Già Thiên Đế Chi Tử Giang Trần chuyển sinh lên thân thể một thiếu niên bị chư hầu khi dễ bắt đầu trên con đường đuổi giết máu tanh dần dần đi lên. Trước mặt Giang Trần ai dám xưng là thiên tài? Không ai có thể hiểu Thiên bằng Thiên Đế Chi Tử. Thiên tài? Kẻ thuận ta là thiên, kẻ nghịch ta phải giết!! Mạch truyện luôn bình thản nhưng không kém phần gay cấn, tình tiết logic xuyên suốt từ đầu đến cuối, các tình tiết đan xen lẫn nhau luôn được đẩy lên cao trào khiến độc giả bị cuốn vào mạch truyện. Đương nhiên vẫn như các bộ truyện khác kết thúc của Lê Thiên rất có hậu",
+    "sanitizedLastChapterTitle": "Chương_25_Lần_thứ_hai_vẽ_mặt_2"
   }
 ]
