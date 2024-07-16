@@ -278,5 +278,205 @@
   {
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_70_Xuất_phát_2.json",
     "chapter_name": "Chương 70: Xuất phát (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_71_Thiên_tài_hội_tụ.json",
+    "chapter_name": "Chương 71: Thiên tài hội tụ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_72_Hắc_mã_xuất_hiện.json",
+    "chapter_name": "Chương 72: Hắc mã xuất hiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_73_Biến_cố.json",
+    "chapter_name": "Chương 73: Biến cố"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_74_Khống_chế_hoàn_mỹ.json",
+    "chapter_name": "Chương 74: Khống chế hoàn mỹ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_75_Thực_lực_Độc_Cơ_Băng_Lan.json",
+    "chapter_name": "Chương 75: Thực lực Độc Cơ Băng Lan"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_76_Lục_Thiếu_Hổ_thắng.json",
+    "chapter_name": "Chương 76: Lục Thiếu Hổ thắng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_77_Tinh_Hỏa_Liệu_Nguyên_Đao.json",
+    "chapter_name": "Chương 77: Tinh Hỏa Liệu Nguyên Đao"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_78_Thực_lực_cường_hãn.json",
+    "chapter_name": "Chương 78: Thực lực cường hãn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_79_Còn_có_thực_lực_chống_lại_không.json",
+    "chapter_name": "Chương 79: Còn có thực lực chống lại không?"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_80_Uy_lực_Chu_Tước_Quyết.json",
+    "chapter_name": "Chương 80: Uy lực Chu Tước Quyết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_81_Bảo_vật_Lục_gia.json",
+    "chapter_name": "Chương 81: Bảo vật Lục gia"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_82_Vạn_Niên_Xích_Đồng.json",
+    "chapter_name": "Chương 82: Vạn Niên Xích Đồng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_83_Thân_pháp_Phù_Quang_Lược_Ảnh.json",
+    "chapter_name": "Chương 83: Thân pháp Phù Quang Lược Ảnh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_84_Người_dạ_hành.json",
+    "chapter_name": "Chương 84: Người dạ hành"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_85_Lần_đầu_tiên_thôn_phệ_chân_khí.json",
+    "chapter_name": "Chương 85: Lần đầu tiên thôn phệ chân khí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_86_Âm_Dương_Linh_Vũ_Quyết_cường_hãn.json",
+    "chapter_name": "Chương 86: Âm Dương Linh Vũ Quyết cường hãn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_87_Xuất_phát_đi_Vân_Dương_Tông.json",
+    "chapter_name": "Chương 87: Xuất phát đi Vân Dương Tông"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_88_Yêu_thú_phi_hành.json",
+    "chapter_name": "Chương 88: Yêu thú phi hành"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_89_Đệ_tử_thân_truyền.json",
+    "chapter_name": "Chương 89: Đệ tử thân truyền"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_90_Không_cẩn_thận_đột_phá.json",
+    "chapter_name": "Chương 90: Không cẩn thận đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_91_Nướng_lợn_rừng.json",
+    "chapter_name": "Chương 91: Nướng lợn rừng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_92_Tiểu_tử_ngươi_đúng_là_một_tay_đầu_bếp.json",
+    "chapter_name": "Chương 92: Tiểu tử ngươi đúng là một tay đầu bếp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_93_Sơn_mạch_Vụ_Đô.json",
+    "chapter_name": "Chương 93: Sơn mạch Vụ Đô"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_94_Thiên_Tàm_Bảo_Giáp.json",
+    "chapter_name": "Chương 94: Thiên Tàm Bảo Giáp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_95_Kịch_chiến_uy_hiếp.json",
+    "chapter_name": "Chương 95: Kịch chiến, uy hiếp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_96_Chịu_khổ_bị_bắt.json",
+    "chapter_name": "Chương 96: Chịu khổ bị bắt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_97_Thừa_cơ_đánh_lén.json",
+    "chapter_name": "Chương 97: Thừa cơ đánh lén"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_98_Rơi_xuống_vách_núi.json",
+    "chapter_name": "Chương 98: Rơi xuống vách núi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_99_Động_thiên_khác_lạ.json",
+    "chapter_name": "Chương 99: Động thiên khác lạ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_100_Tiểu_Long_ra_tay.json",
+    "chapter_name": "Chương 100: Tiểu Long ra tay"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_101_Có_động_thiên_khác.json",
+    "chapter_name": "Chương 101: Có động thiên khác"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_102_Cơ_duyên_trong_động_1.json",
+    "chapter_name": "Chương 102: Cơ duyên trong động (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_103_Cơ_duyên_trong_động_2.json",
+    "chapter_name": "Chương 103: Cơ duyên trong động (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_104_Tuyệt_học_Thiên_Linh_1.json",
+    "chapter_name": "Chương 104: Tuyệt học Thiên Linh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_105_Tuyệt_học_Thiên_Linh_2.json",
+    "chapter_name": "Chương 105: Tuyệt học Thiên Linh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_106_Linh_kỹ_bá_đạo_1.json",
+    "chapter_name": "Chương 106: Linh kỹ bá đạo (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_107_Linh_kỹ_bá_đạo_2.json",
+    "chapter_name": "Chương 107: Linh kỹ bá đạo (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_108_Linh_kỹ_bá_đạo_3.json",
+    "chapter_name": "Chương 108: Linh kỹ bá đạo (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_109_Cản_đường_ăn_cướp_1.json",
+    "chapter_name": "Chương 109: Cản đường ăn cướp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_110_Cản_đường_ăn_cướp_2.json",
+    "chapter_name": "Chương 110: Cản đường ăn cướp (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_111_Vây_công_yêu_thú_1.json",
+    "chapter_name": "Chương 111: Vây công yêu thú (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_112_Vây_công_yêu_thú_2.json",
+    "chapter_name": "Chương 112: Vây công yêu thú (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_113_Ngự_Thú_Ấn_Quyết_1.json",
+    "chapter_name": "Chương 113: Ngự Thú Ấn Quyết (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_114_Ngự_Thú_Ấn_Quyết_2.json",
+    "chapter_name": "Chương 114: Ngự Thú Ấn Quyết (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_115_Lam_Linh_cường_hãn_1.json",
+    "chapter_name": "Chương 115: Lam Linh cường hãn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_116_Lam_Linh_cường_hãn_2.json",
+    "chapter_name": "Chương 116: Lam Linh cường hãn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_117_Trên_Vân_Dương_Tông_1.json",
+    "chapter_name": "Chương 117: Trên Vân Dương Tông (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_118_Trên_Vân_Dương_Tông_2.json",
+    "chapter_name": "Chương 118: Trên Vân Dương Tông (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_119_Trên_Vân_Dương_Tông_3.json",
+    "chapter_name": "Chương 119: Trên Vân Dương Tông (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_120_Hồng_nhan_họa_thủy_1.json",
+    "chapter_name": "Chương 120: Hồng nhan họa thủy (1)"
   }
 ]

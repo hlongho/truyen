@@ -278,5 +278,205 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_70_Thiên_Tử_Quyền_Pháp.json",
     "chapter_name": "Chương 70: Thiên Tử Quyền Pháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_71_Linh_khí.json",
+    "chapter_name": "Chương 71: Linh khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_72_Liên_tục_nhường.json",
+    "chapter_name": "Chương 72: Liên tục nhường"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_73_4_đạo_kiếm_khí.json",
+    "chapter_name": "Chương 73: 4 đạo kiếm khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_74_Lại_xuống_1_thành.json",
+    "chapter_name": "Chương 74: Lại xuống 1 thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_75_Một_trận_chiến_đỉnh_cao.json",
+    "chapter_name": "Chương 75: Một trận chiến đỉnh cao"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_76_Số_một.json",
+    "chapter_name": "Chương 76: Số một!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_77_100_Lần.json",
+    "chapter_name": "Chương 77: 100 Lần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_78_Dã_nha_đầu.json",
+    "chapter_name": "Chương 78: Dã nha đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_79_Say_rượu_nói_lỡ.json",
+    "chapter_name": "Chương 79: Say rượu nói lỡ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_80_Trình_gia_trở_mình.json",
+    "chapter_name": "Chương 80: Trình gia trở mình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_81_Đại_kiếp_nạn_của_Lăng_Gia.json",
+    "chapter_name": "Chương 81: Đại kiếp nạn của Lăng Gia"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_82_Lăng_Hàn_nổi_giận.json",
+    "chapter_name": "Chương 82: Lăng Hàn nổi giận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_83_Ngươi_muốn_chết_như_thế_nào.json",
+    "chapter_name": "Chương 83: Ngươi muốn chết như thế nào?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_84_Cứu_viện_phân_đến.json",
+    "chapter_name": "Chương 84: Cứu viện phân đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_85_Không_còn_Trình_gia.json",
+    "chapter_name": "Chương 85: Không còn Trình gia"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_86_Lưu_Vũ_Đồng_đột_phá.json",
+    "chapter_name": "Chương 86: Lưu Vũ Đồng đột phá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_87_Hồ_Ba.json",
+    "chapter_name": "Chương 87: Hồ Ba"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_88_Kết_thù.json",
+    "chapter_name": "Chương 88: Kết thù"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_89_Lão_quỷ.json",
+    "chapter_name": "Chương 89: Lão quỷ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_90_Không_hết_lòng_gian.json",
+    "chapter_name": "Chương 90: Không hết lòng gian"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_91_Tiến_vào_học_viện.json",
+    "chapter_name": "Chương 91: Tiến vào học viện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_92_Tật_Phong_Đan_chân_chính.json",
+    "chapter_name": "Chương 92: Tật Phong Đan chân chính"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_93_Thuyết_phục.json",
+    "chapter_name": "Chương 93: Thuyết phục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_94_Tranh_thu.json",
+    "chapter_name": "Chương 94: Tranh thu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_95_Tìm_lão_sư.json",
+    "chapter_name": "Chương 95: Tìm lão sư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_96_Ngân_Nguyệt_Tộc.json",
+    "chapter_name": "Chương 96: Ngân Nguyệt Tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_97_Truyền_thụ.json",
+    "chapter_name": "Chương 97: Truyền thụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_98_Liếm_hài.json",
+    "chapter_name": "Chương 98: Liếm hài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_99_Chiếu_đánh.json",
+    "chapter_name": "Chương 99: Chiếu đánh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_100_Kinh_sợ.json",
+    "chapter_name": "Chương 100: Kinh sợ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_101_Ất_Tinh_Thảo.json",
+    "chapter_name": "Chương 101: Ất Tinh Thảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_102_Đại_Nguyên_Bổ_Hồn_Thuật.json",
+    "chapter_name": "Chương 102: Đại Nguyên Bổ Hồn Thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_103_Kiếm_Tâm.json",
+    "chapter_name": "Chương 103: Kiếm Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_104_Trong_túi_ngượng_ngùng.json",
+    "chapter_name": "Chương 104: Trong túi ngượng ngùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_105_Nguyện_thua_cuộc.json",
+    "chapter_name": "Chương 105: Nguyện thua cuộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_106_Nghi_vấn.json",
+    "chapter_name": "Chương 106: Nghi vấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_107_Tứ_Tượng_Ấn.json",
+    "chapter_name": "Chương 107: Tứ Tượng Ấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_108_Tam_hoàng_tử.json",
+    "chapter_name": "Chương 108: Tam hoàng tử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_109_Vu_oan.json",
+    "chapter_name": "Chương 109: Vu oan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_110_Tới_cửa.json",
+    "chapter_name": "Chương 110: Tới cửa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_111_Bắt.json",
+    "chapter_name": "Chương 111: Bắt!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_112_Chính_chủ_giá_lâm.json",
+    "chapter_name": "Chương 112: Chính chủ giá lâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_113_Ngớ_ngẩn.json",
+    "chapter_name": "Chương 113: Ngớ ngẩn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_114_Đánh_người.json",
+    "chapter_name": "Chương 114: Đánh người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_115_Đại_tin_tức.json",
+    "chapter_name": "Chương 115: Đại tin tức"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_116_Lượng_lớn_Linh_khí.json",
+    "chapter_name": "Chương 116: Lượng lớn Linh khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_117_Không_trung_nghĩa.json",
+    "chapter_name": "Chương 117: Không trung nghĩa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_118_Huyết_Dũng_Sơn.json",
+    "chapter_name": "Chương 118: Huyết Dũng Sơn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_119_Vớt_linh_khí.json",
+    "chapter_name": "Chương 119: Vớt linh khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_120_Nghi_hoặc_to_lớn.json",
+    "chapter_name": "Chương 120: Nghi hoặc to lớn"
   }
 ]
