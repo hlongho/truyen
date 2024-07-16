@@ -25,17 +25,20 @@ public class TruyenCrawler {
 
             List<Map<String, String>> stories = new ArrayList<>();
 
-            // Giới hạn lấy 3 truyện
-            int index = 0;
+            // Giới hạn lấy 5 truyện có ít nhất 10 chương mới
+            int storyCount = 0;
             for (Element link : storyLinks) {
-                if (index < 3) {
-                    String storyUrl = link.attr("href");
-                    Map<String, String> storyData = crawlAndSaveStory(storyUrl);
-                    if (storyData != null) {
-                        stories.add(storyData);
+                String storyUrl = link.attr("href");
+                Map<String, String> storyData = crawlAndSaveStory(storyUrl);
+                if (storyData != null) {
+                    stories.add(storyData);
+                    if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= 10) {
+                        storyCount++;
                     }
                 }
-                index++;
+                if (storyCount >= 5) {
+                    break;
+                }
             }
 
             // Lưu danh sách truyện vào file JSON
@@ -70,6 +73,9 @@ public class TruyenCrawler {
 
             List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
 
+            // Kiểm tra số chương mới được lưu
+            int newChapterCount = chapterContents.size();
+
             // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
@@ -84,6 +90,7 @@ public class TruyenCrawler {
             storyData.put("desc", desc);
             storyData.put("path", chapterFilePath);
             storyData.put("image", image);
+            storyData.put("new_chapter_count", String.valueOf(newChapterCount));
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -97,7 +104,7 @@ public class TruyenCrawler {
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
 
-        while (nextPageUrl != null && chapterCount < 50) {
+        while (nextPageUrl != null && chapterCount < 100) {
             try {
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
