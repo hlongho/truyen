@@ -131,7 +131,7 @@ public class TruyenCrawler {
         } catch (IOException e) {
             e.printStackTrace();
             // Nếu có lỗi, tiếp tục lưu các thông tin cơ bản của truyện vào danh sách
-            storyData.put("error", "true");
+            storyData.put("error", e.toString());
         }
         return storyData;
     }
