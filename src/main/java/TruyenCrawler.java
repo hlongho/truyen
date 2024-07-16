@@ -95,9 +95,9 @@ public class TruyenCrawler {
     public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName) {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
+        int chapterCount = 0;
 
-        int stop = 0;
-        while (nextPageUrl != null && stop < 200) {
+        while (nextPageUrl != null && chapterCount < 50) {
             try {
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
@@ -108,17 +108,24 @@ public class TruyenCrawler {
                         String chapterTitle = (String) chapterData.get("chapter_name");
                         String sanitizedChapterTitle = chapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
 
-                        // Lưu chương vào file JSON
+                        // Lưu chương vào file JSON nếu chưa tồn tại
                         String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
-                        saveChapterToJsonFile(chapterData, chapterFilePath);
+                        File chapterFile = new File(chapterFilePath);
+                        if (!chapterFile.exists()) {
+                            saveChapterToJsonFile(chapterData, chapterFilePath);
 
-                        // Thêm thông tin chương vào danh sách
-                        Map<String, String> chapterInfo = new HashMap<>();
-                        chapterInfo.put("chapter_name", chapterTitle);
-                        chapterInfo.put("path", chapterFilePath);
-                        chapterContents.add(chapterInfo);
+                            // Thêm thông tin chương vào danh sách
+                            Map<String, String> chapterInfo = new HashMap<>();
+                            chapterInfo.put("chapter_name", chapterTitle);
+                            chapterInfo.put("path", chapterFilePath);
+                            chapterContents.add(chapterInfo);
+
+                            chapterCount++;
+                            if (chapterCount >= 50) {
+                                break;
+                            }
+                        }
                     }
-                    stop++;
                 }
 
                 // Kiểm tra xem có trang tiếp theo không
