@@ -87,7 +87,6 @@ public class TruyenCrawler {
             storyData.put("image", image);
             storyData.put("genres", genresString);
 
-            // Kiểm tra trạng thái của truyện
             boolean skipCrawl = false;
             if ("Full".equalsIgnoreCase(status)) {
                 // Lấy chương cuối cùng của truyện
@@ -131,7 +130,8 @@ public class TruyenCrawler {
 
         } catch (IOException e) {
             e.printStackTrace();
-            return null;
+            // Nếu có lỗi, tiếp tục lưu các thông tin cơ bản của truyện vào danh sách
+            storyData.put("error", "true");
         }
         return storyData;
     }
