@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,6 +14,7 @@ import org.jsoup.select.Elements;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
 
 public class TruyenCrawler {
 
@@ -23,7 +25,16 @@ public class TruyenCrawler {
 
             Elements storyLinks = doc.select(".truyen-title a");
 
+            // Đọc dữ liệu cũ từ tệp ds_truyen.json
             List<Map<String, String>> stories = new ArrayList<>();
+            File dsTruyenFile = new File("data/ds_truyen.json");
+            if (dsTruyenFile.exists()) {
+                try (FileReader reader = new FileReader(dsTruyenFile)) {
+                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
 
             // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
             int storyCount = 0;
@@ -125,11 +136,25 @@ public class TruyenCrawler {
                 int newChapterCount = chapterContents.size();
                 storyData.put("new_chapter_count", String.valueOf(newChapterCount));
 
+                // Đọc dữ liệu cũ từ tệp chapter.json
+                List<Map<String, String>> existingChapters = new ArrayList<>();
+                String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
+                File chapterFile = new File(chapterFilePath);
+                if (chapterFile.exists()) {
+                    try (FileReader reader = new FileReader(chapterFile)) {
+                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                }
+
+                // Hợp nhất dữ liệu mới và cũ
+                existingChapters.addAll(chapterContents);
+
                 // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
                 Gson gson = new GsonBuilder().setPrettyPrinting().create();
-                String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
                 try (FileWriter writer = new FileWriter(chapterFilePath)) {
-                    gson.toJson(chapterContents, writer);
+                    gson.toJson(existingChapters, writer);
                 }
 
                 storyData.put("path", chapterFilePath);
