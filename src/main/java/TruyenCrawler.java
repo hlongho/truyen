@@ -27,16 +27,18 @@ public class TruyenCrawler {
 
             // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
             int storyCount = 0;
+            int storyCountLimit = 3;
+            int chapterCountOverLimit = 10;
             for (Element link : storyLinks) {
                 String storyUrl = link.attr("href");
                 Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                 if (storyData != null) {
                     stories.add(storyData);
-                    if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= 10) {
+                    if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
                         storyCount++;
                     }
                 }
-                if (storyCount >= 3) {
+                if (storyCount >= storyCountLimit) {
                     break;
                 }
             }
@@ -98,12 +100,15 @@ public class TruyenCrawler {
                         String lastChapterTitle = (String) lastChapterData.get("chapter_name");
                         String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
                         String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
-
+                        
+                        storyData.put("lastChapterTitle", lastChapterTitle);
+                        storyData.put("sanitizedLastChapterTitle", sanitizedLastChapterTitle);
+                        storyData.put("lastChapterFilePath", lastChapterFilePath);
                         // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
                         File lastChapterFile = new File(lastChapterFilePath);
                         if (lastChapterFile.exists()) {
                             skipCrawl = true;
-                            storyData.put("new_chapter_count", "0");
+                            storyData.put("new_chapter_count", "-1");
                         }
                     }
                 }
@@ -140,8 +145,9 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
+        int chapterCountLimit = 100; // giới hạn số chương tải cho mỗi truyện
 
-        while (nextPageUrl != null && chapterCount < 100) {
+        while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
@@ -165,7 +171,7 @@ public class TruyenCrawler {
                             chapterContents.add(chapterInfo);
 
                             chapterCount++;
-                            if (chapterCount >= 100) {
+                            if (chapterCount >= chapterCountLimit) {
                                 break;
                             }
                         }
