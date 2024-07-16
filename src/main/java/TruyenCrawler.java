@@ -25,7 +25,7 @@ public class TruyenCrawler {
 
             List<Map<String, String>> stories = new ArrayList<>();
 
-            // Giới hạn lấy 5 truyện có ít nhất 10 chương mới
+            // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
             int storyCount = 0;
             for (Element link : storyLinks) {
                 String storyUrl = link.attr("href");
@@ -36,7 +36,7 @@ public class TruyenCrawler {
                         storyCount++;
                     }
                 }
-                if (storyCount >= 5) {
+                if (storyCount >= 3) {
                     break;
                 }
             }
@@ -128,7 +128,7 @@ public class TruyenCrawler {
                             chapterContents.add(chapterInfo);
 
                             chapterCount++;
-                            if (chapterCount >= 50) {
+                            if (chapterCount >= 100) {
                                 break;
                             }
                         }
