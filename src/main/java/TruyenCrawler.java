@@ -79,27 +79,55 @@ public class TruyenCrawler {
                 storyDir.mkdirs();
             }
 
-            List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
-
-            // Kiểm tra số chương mới được lưu
-            int newChapterCount = chapterContents.size();
-
-            // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
-            try (FileWriter writer = new FileWriter(chapterFilePath)) {
-                gson.toJson(chapterContents, writer);
-            }
-
             // Lưu thông tin truyện vào map storyData
             storyData.put("name", title);
             storyData.put("status", status);
             storyData.put("author", author);
             storyData.put("desc", desc);
-            storyData.put("path", chapterFilePath);
             storyData.put("image", image);
             storyData.put("genres", genresString);
-            storyData.put("new_chapter_count", String.valueOf(newChapterCount));
+
+            // Kiểm tra trạng thái của truyện
+            boolean skipCrawl = false;
+            if ("Full".equalsIgnoreCase(status)) {
+                // Lấy chương cuối cùng của truyện
+                Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
+                if (lastChapterElement != null) {
+                    String lastChapterUrl = lastChapterElement.attr("href");
+                    Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
+                    if (lastChapterData != null) {
+                        String lastChapterTitle = (String) lastChapterData.get("chapter_name");
+                        String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
+                        String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
+
+                        // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
+                        File lastChapterFile = new File(lastChapterFilePath);
+                        if (lastChapterFile.exists()) {
+                            skipCrawl = true;
+                            storyData.put("new_chapter_count", "0");
+                        }
+                    }
+                }
+            }
+
+            if (!skipCrawl) {
+                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
+
+                // Kiểm tra số chương mới được lưu
+                int newChapterCount = chapterContents.size();
+                storyData.put("new_chapter_count", String.valueOf(newChapterCount));
+
+                // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
+                Gson gson = new GsonBuilder().setPrettyPrinting().create();
+                String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
+                try (FileWriter writer = new FileWriter(chapterFilePath)) {
+                    gson.toJson(chapterContents, writer);
+                }
+
+                storyData.put("path", chapterFilePath);
+            } else {
+                storyData.put("path", "data/" + sanitizedStoryTitle + "/chapter.json");
+            }
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -124,7 +152,7 @@ public class TruyenCrawler {
                         String chapterTitle = (String) chapterData.get("chapter_name");
                         String sanitizedChapterTitle = chapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
 
-                        // Lưu chương vào file JSON nếu chưa tồn tại
+                        // Kiểm tra xem chương đã được lưu chưa
                         String chapterFilePath = "data/" + storyFolderName + "/" + sanitizedChapterTitle + ".json";
                         File chapterFile = new File(chapterFilePath);
                         if (!chapterFile.exists()) {
