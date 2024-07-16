@@ -40,7 +40,7 @@ public class TruyenCrawler {
 
             // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
             int storyCount = 0;
-            int storyCountLimit = 5;
+            int storyCountLimit = 1;
             int chapterCountOverLimit = 10;
             for (Element link : storyLinks) {
                 String storyUrl = link.attr("href");
@@ -187,7 +187,7 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
-        int chapterCountLimit = 50; // giới hạn số chương tải cho mỗi truyện
+        int chapterCountLimit = 400; // giới hạn số chương tải cho mỗi truyện
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
