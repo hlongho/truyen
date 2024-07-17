@@ -5198,5 +5198,605 @@
   {
     "path": "data/Đấu_Phá_Thương_Khung/Chương_1300_Thức_tỉnh.json",
     "chapter_name": "Chương 1300: Thức tỉnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1301_Long_Hoàng_Tử_Nghiên.json",
+    "chapter_name": "Chương 1301: Long Hoàng, Tử Nghiên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1302_Long_Hoàng_cổ_giáp.json",
+    "chapter_name": "Chương 1302: Long Hoàng cổ giáp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1303_Hư_không_Lôi_trì.json",
+    "chapter_name": "Chương 1303: Hư không Lôi trì"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1304_Tấn_cấp_Ngũ_tinh.json",
+    "chapter_name": "Chương 1304: Tấn cấp Ngũ tinh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1305_Lão_giả_họ_Mang.json",
+    "chapter_name": "Chương 1305: Lão giả họ Mang"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1306_Rời_khỏi_Long_đảo.json",
+    "chapter_name": "Chương 1306: Rời khỏi Long đảo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1307_Viễn_cổ_Bát_tộc.json",
+    "chapter_name": "Chương 1307: Viễn cổ Bát tộc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1308_Ngọc_thiếp.json",
+    "chapter_name": "Chương 1308: Ngọc thiếp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1309_Thái_Nhất_Hồn_Quyết.json",
+    "chapter_name": "Chương 1309: Thái Nhất Hồn Quyết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1310_Chạy_tới_Đông_vực.json",
+    "chapter_name": "Chương 1310: Chạy tới Đông vực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1311_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 1311: Oan gia ngõ hẹp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1312_Thích.json",
+    "chapter_name": "Chương 1312: Thích!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1313_Bát_thiên_thống_lĩnh_và_Tứ_đại_đô_thống.json",
+    "chapter_name": "Chương 1313: Bát thiên thống lĩnh và Tứ đại đô thống"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1314_Tam_thống_lĩnh_Dương_Hạo.json",
+    "chapter_name": "Chương 1314: Tam thống lĩnh - Dương Hạo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1315_Viêm_tộc.json",
+    "chapter_name": "Chương 1315: Viêm tộc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1316_Hồn_Nhai.json",
+    "chapter_name": "Chương 1316: Hồn Nhai"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1317_Cổ_giới_mở_ra.json",
+    "chapter_name": "Chương 1317: Cổ giới mở ra"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1318_Thiên_Mộ.json",
+    "chapter_name": "Chương 1318: Thiên Mộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1319_Cổ_Chân.json",
+    "chapter_name": "Chương 1319: Cổ Chân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1320_Đánh_phủ_đầu.json",
+    "chapter_name": "Chương 1320: Đánh phủ đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1321_Tu_La_đô_thống.json",
+    "chapter_name": "Chương 1321: Tu La đô thống"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1322_Mang_Thiên_Xích.json",
+    "chapter_name": "Chương 1322: Mang Thiên Xích"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1323_Nghi_thức_bắt_đầu.json",
+    "chapter_name": "Chương 1323: Nghi thức bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1324_Đẳng_cấp_huyết_mạch_Tộc_văn.json",
+    "chapter_name": "Chương 1324: Đẳng cấp huyết mạch - Tộc văn!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1325_Khiêu_chiến.json",
+    "chapter_name": "Chương 1325: Khiêu chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1326_Kình_địch.json",
+    "chapter_name": "Chương 1326: Kình địch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1327_Cuộc_chiến_đỉnh_phong.json",
+    "chapter_name": "Chương 1327: Cuộc chiến đỉnh phong"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1328_Đại_Tịch_Diệt_Chỉ.json",
+    "chapter_name": "Chương 1328: Đại Tịch Diệt Chỉ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1329_Kết_thúc.json",
+    "chapter_name": "Chương 1329: Kết thúc!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1330_Thắng.json",
+    "chapter_name": "Chương 1330: Thắng!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1331_Tuyệt_phẩm_huyết_mạch.json",
+    "chapter_name": "Chương 1331: Tuyệt phẩm huyết mạch!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1332_Thất_thải_tộc_văn.json",
+    "chapter_name": "Chương 1332: Thất thải tộc văn!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1333_Gặp_mặt.json",
+    "chapter_name": "Chương 1333: Gặp mặt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1334_Trò_chuyện.json",
+    "chapter_name": "Chương 1334: Trò chuyện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1335_Thiên_Mộ_mở_ra.json",
+    "chapter_name": "Chương 1335: Thiên Mộ mở ra"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1336_Tiến_vào_Thiên_Mộ.json",
+    "chapter_name": "Chương 1336: Tiến vào Thiên Mộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1337_Tu_hành_buồn_tẻ.json",
+    "chapter_name": "Chương 1337: Tu hành buồn tẻ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1338_Hồn_Nhai_Hồn_Lệ.json",
+    "chapter_name": "Chương 1338: Hồn Nhai, Hồn Lệ!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1339_Thăng_cấp_Lục_tinh.json",
+    "chapter_name": "Chương 1339: Thăng cấp Lục tinh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1340_Truy_đuổi.json",
+    "chapter_name": "Chương 1340: Truy đuổi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1341_Cửu_tinh_năng_lượng_thể.json",
+    "chapter_name": "Chương 1341: Cửu tinh năng lượng thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1342_Thiên_Yêu_Khôi_màu_tím.json",
+    "chapter_name": "Chương 1342: Thiên Yêu Khôi màu tím!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1343_Đại_Phong_Bạo.json",
+    "chapter_name": "Chương 1343: Đại Phong Bạo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1344_Tụ_tập.json",
+    "chapter_name": "Chương 1344: Tụ tập"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1345_Viễn_Cổ_Phệ_Trùng.json",
+    "chapter_name": "Chương 1345: Viễn Cổ Phệ Trùng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1346_Đòi_thù_lao.json",
+    "chapter_name": "Chương 1346: Đòi thù lao"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1347_Mở_đường.json",
+    "chapter_name": "Chương 1347: Mở đường"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1348_Tầng_thứ_ba.json",
+    "chapter_name": "Chương 1348: Tầng thứ ba"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1349_Bán_Thánh_năng_lượng_thể.json",
+    "chapter_name": "Chương 1349: Bán Thánh năng lượng thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1350_Huyết_Đao_Thánh_giả.json",
+    "chapter_name": "Chương 1350: Huyết Đao Thánh giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1351_Hai_tên_Đấu_Thánh.json",
+    "chapter_name": "Chương 1351: Hai tên Đấu Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1352_Hiện_thân.json",
+    "chapter_name": "Chương 1352: Hiện thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1353_Tiêu_Huyền.json",
+    "chapter_name": "Chương 1353: Tiêu Huyền!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1354_Truyền_thừa_huyết_mạch.json",
+    "chapter_name": "Chương 1354: Truyền thừa huyết mạch!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1355_Hoán_huyết.json",
+    "chapter_name": "Chương 1355: Hoán huyết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1356_Dung_hợp_huyết_mạch.json",
+    "chapter_name": "Chương 1356: Dung hợp huyết mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1357_Một_năm_rưỡi.json",
+    "chapter_name": "Chương 1357: Một năm rưỡi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1358_Bát_tinh_Đấu_Tôn_đỉnh_phong.json",
+    "chapter_name": "Chương 1358: Bát tinh Đấu Tôn đỉnh phong!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1359_Kích_hoạt_tộc_văn.json",
+    "chapter_name": "Chương 1359: Kích hoạt tộc văn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1360_Lần_lịch_luyện_cuối_cùng.json",
+    "chapter_name": "Chương 1360: Lần lịch luyện cuối cùng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1361_Chém_giết.json",
+    "chapter_name": "Chương 1361: Chém giết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1362_Rời_khỏi_Thiên_Mộ.json",
+    "chapter_name": "Chương 1362: Rời khỏi Thiên Mộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1363_Hồn_Lâm.json",
+    "chapter_name": "Chương 1363: Hồn Lâm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1364_Thú_nhận.json",
+    "chapter_name": "Chương 1364: Thú nhận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1365_Rời_khỏi_Cổ_giới.json",
+    "chapter_name": "Chương 1365: Rời khỏi Cổ giới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1366_Tinh_Vẫn_các_thay_da_đổi_thịt.json",
+    "chapter_name": "Chương 1366: Tinh Vẫn các thay da đổi thịt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1367_Tây_bắc_đại_lục_rung_chuyển.json",
+    "chapter_name": "Chương 1367: Tây bắc đại lục rung chuyển!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1368_Thu_đồ.json",
+    "chapter_name": "Chương 1368: Thu đồ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1369_Lôi_kéo_nhân_thủ.json",
+    "chapter_name": "Chương 1369: Lôi kéo nhân thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1370_Ải_Huyền_Hoàng.json",
+    "chapter_name": "Chương 1370: Ải Huyền Hoàng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1371_Tiêu_Tiêu.json",
+    "chapter_name": "Chương 1371: Tiêu Tiêu!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1372_Đại_chiến.json",
+    "chapter_name": "Chương 1372: Đại chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1373_Thảm_thiết.json",
+    "chapter_name": "Chương 1373: Thảm thiết!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1374_Một_chưởng_duy_nhất.json",
+    "chapter_name": "Chương 1374: Một chưởng duy nhất!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1375_Xưa_đâu_bằng_nay.json",
+    "chapter_name": "Chương 1375: Xưa đâu bằng nay!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1376_Tứ_Thiên_Tôn_Huyết_Hà.json",
+    "chapter_name": "Chương 1376: Tứ Thiên Tôn, Huyết Hà!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1377_Phệ_Huyết_Thuật.json",
+    "chapter_name": "Chương 1377: Phệ Huyết Thuật"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1378_Cửu_chuyển_thành_Thánh.json",
+    "chapter_name": "Chương 1378: Cửu chuyển thành Thánh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1379_Kết_thúc.json",
+    "chapter_name": "Chương 1379: Kết thúc!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1380_Khối_u_ác_tính.json",
+    "chapter_name": "Chương 1380: Khối u ác tính!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1381_Luyện_đan.json",
+    "chapter_name": "Chương 1381: Luyện đan!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1382_Nghiêm_trị.json",
+    "chapter_name": "Chương 1382: Nghiêm trị!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1383_Giải_quyết.json",
+    "chapter_name": "Chương 1383: Giải quyết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1384_Phân_phó_trước_khi_đi.json",
+    "chapter_name": "Chương 1384: Phân phó trước khi đi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1385_Trở_về_Tinh_Vẫn_Các.json",
+    "chapter_name": "Chương 1385: Trở về Tinh Vẫn Các"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1386_Đại_hội_giao_dịch_xuyên_không_gian.json",
+    "chapter_name": "Chương 1386: Đại hội giao dịch xuyên không gian"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1387_Bát_Thải_Nguyên_Thạch.json",
+    "chapter_name": "Chương 1387: Bát Thải Nguyên Thạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1388_Cổ_điện.json",
+    "chapter_name": "Chương 1388: Cổ điện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1389_Mảnh_tàn_đồ_cuối_cùng.json",
+    "chapter_name": "Chương 1389: Mảnh tàn đồ cuối cùng!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1390_Tình_báo.json",
+    "chapter_name": "Chương 1390: Tình báo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1391_Cổ_Vực_Mãng_Hoang.json",
+    "chapter_name": "Chương 1391: Cổ Vực Mãng Hoang"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1392_Hạt_Ma_tam_quỷ.json",
+    "chapter_name": "Chương 1392: Hạt Ma tam quỷ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1393_Phật_Nộ_Hỏa_Liên_bốn_màu_rưỡi.json",
+    "chapter_name": "Chương 1393: Phật Nộ Hỏa Liên bốn màu rưỡi!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1394_Chiếm_được_cổ_đồ.json",
+    "chapter_name": "Chương 1394: Chiếm được cổ đồ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1395_Cổ_đồ_chi_mê.json",
+    "chapter_name": "Chương 1395: Cổ đồ chi mê!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1396_Tịnh_Liên_Yêu_Thánh.json",
+    "chapter_name": "Chương 1396: Tịnh Liên Yêu Thánh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1397_Tu_luyện_Kim_Cương_Lưu_Ly_Thể.json",
+    "chapter_name": "Chương 1397: Tu luyện Kim Cương Lưu Ly Thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1398_Mãng_Hoang_trấn.json",
+    "chapter_name": "Chương 1398: Mãng Hoang trấn!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1399_Tiến_vào.json",
+    "chapter_name": "Chương 1399: Tiến vào"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1400_Xâm_nhập.json",
+    "chapter_name": "Chương 1400: Xâm nhập!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1401_Gặp_lại_Vân_Vận.json",
+    "chapter_name": "Chương 1401: Gặp lại Vân Vận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1402_Chém_giết.json",
+    "chapter_name": "Chương 1402: Chém giết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1403_Viễn_cổ_Thiên_Ma_mãng.json",
+    "chapter_name": "Chương 1403: Viễn cổ Thiên Ma mãng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1404_Vây_giết_Thiên_Ma_mãng.json",
+    "chapter_name": "Chương 1404: Vây giết Thiên Ma mãng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1405_Thiên_Ma_huyết_trì.json",
+    "chapter_name": "Chương 1405: Thiên Ma huyết trì"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1406_Cửu_tinh_Đấu_Tôn.json",
+    "chapter_name": "Chương 1406: Cửu tinh Đấu Tôn!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1407_Cổ_vực_thai.json",
+    "chapter_name": "Chương 1407: Cổ vực thai!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1408_Ra_oai_phủ_đầu.json",
+    "chapter_name": "Chương 1408: Ra oai phủ đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1409_Hai_nàng_gặp_nhau.json",
+    "chapter_name": "Chương 1409: Hai nàng gặp nhau"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1410_Hồn_Ngọc_thú_triều.json",
+    "chapter_name": "Chương 1410: Hồn Ngọc, thú triều!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1411_Trùng_kích_thú_triều.json",
+    "chapter_name": "Chương 1411: Trùng kích thú triều!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1412_Đột_phá.json",
+    "chapter_name": "Chương 1412: Đột phá!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1413_Năm_vị_Bán_Thánh.json",
+    "chapter_name": "Chương 1413: Năm vị Bán Thánh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1414_Tiêu_diệt_khôi_lỗi_Bán_Thánh.json",
+    "chapter_name": "Chương 1414: Tiêu diệt khôi lỗi Bán Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1415_Tiến_vào_cổ_thụ.json",
+    "chapter_name": "Chương 1415: Tiến vào cổ thụ!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1416_Ảo_cảnh.json",
+    "chapter_name": "Chương 1416: Ảo cảnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1417_Cảm_xúc_trái_chiều_của_Đấu_Đế.json",
+    "chapter_name": "Chương 1417: Cảm xúc trái chiều của Đấu Đế"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1418_Bồ_Đề_tam_bảo.json",
+    "chapter_name": "Chương 1418: Bồ Đề tam bảo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1419_Thức_tỉnh.json",
+    "chapter_name": "Chương 1419: Thức tỉnh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1420_Luân_hồi_trăm_kiếp_Cửu_chuyển_đỉnh_phong.json",
+    "chapter_name": "Chương 1420: Luân hồi trăm kiếp, Cửu chuyển đỉnh phong!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1421_Áp_chế_tuyệt_đối.json",
+    "chapter_name": "Chương 1421: Áp chế tuyệt đối!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1422_Không_gian_băng_liệt.json",
+    "chapter_name": "Chương 1422: Không gian băng liệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1423_Cốt_U_Thánh_Giả.json",
+    "chapter_name": "Chương 1423: Cốt U Thánh Giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1424_Kim_Đế_Phần_Thiên_Viêm.json",
+    "chapter_name": "Chương 1424: Kim Đế Phần Thiên Viêm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1425_Đối_chiến_Bán_Thánh.json",
+    "chapter_name": "Chương 1425: Đối chiến Bán Thánh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1426_Bức_lui_Cốt_U.json",
+    "chapter_name": "Chương 1426: Bức lui Cốt U!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1427_Bế_quan.json",
+    "chapter_name": "Chương 1427: Bế quan!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1428_Linh_tộc_chi_biến.json",
+    "chapter_name": "Chương 1428: Linh tộc chi biến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1429_Chiến_thư.json",
+    "chapter_name": "Chương 1429: Chiến thư!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1430_Đại_chiến_gõ_cửa.json",
+    "chapter_name": "Chương 1430: Đại chiến gõ cửa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1431_Tinh_giới_đại_chiến.json",
+    "chapter_name": "Chương 1431: Tinh giới đại chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1432_Phá_quan_Đấu_Thánh.json",
+    "chapter_name": "Chương 1432: Phá quan, Đấu Thánh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1433_Phật_Nộ_Luân_Hồi.json",
+    "chapter_name": "Chương 1433: Phật Nộ Luân Hồi!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1434_Đại_sát_tứ_phương.json",
+    "chapter_name": "Chương 1434: Đại sát tứ phương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1435_Đấu_Thánh_Hồn_tộc.json",
+    "chapter_name": "Chương 1435: Đấu Thánh Hồn tộc!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1436_Bí_mật_của_các_tông_phái.json",
+    "chapter_name": "Chương 1436: Bí mật của các tông phái"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1437_Giết_gà_dọa_khỉ.json",
+    "chapter_name": "Chương 1437: Giết gà dọa khỉ!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1438_Tìm_kiếm_minh_hữu.json",
+    "chapter_name": "Chương 1438: Tìm kiếm minh hữu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1439_Lại_tới_Đan_tháp.json",
+    "chapter_name": "Chương 1439: Lại tới Đan tháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1440_Tiểu_Đan_Tháp.json",
+    "chapter_name": "Chương 1440: Tiểu Đan Tháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1441_Tranh_cử_trưởng_lão.json",
+    "chapter_name": "Chương 1441: Tranh cử trưởng lão!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1442_Đại_trưởng_lão_của_Tiểu_Đan_Tháp.json",
+    "chapter_name": "Chương 1442: Đại trưởng lão của Tiểu Đan Tháp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1443_Cái_đấy_thì_chưa_chắc.json",
+    "chapter_name": "Chương 1443: Cái đấy thì chưa chắc!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1444_Hắc_Ma_Lôi.json",
+    "chapter_name": "Chương 1444: Hắc Ma Lôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1445_Cửu_phẩm_bảo_đan.json",
+    "chapter_name": "Chương 1445: Cửu phẩm bảo đan!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1446_Liên_minh.json",
+    "chapter_name": "Chương 1446: Liên minh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1447_Thiên_Phủ_liên_minh.json",
+    "chapter_name": "Chương 1447: Thiên Phủ liên minh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1448_Phó_Điện_Chủ_Hồn_Điện.json",
+    "chapter_name": "Chương 1448: Phó Điện Chủ Hồn Điện!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1449_Cửu_U_Hoàng_Tuyền.json",
+    "chapter_name": "Chương 1449: Cửu U Hoàng Tuyền"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1450_Cửu_Âm_Hoàng_Tuyền_Đan.json",
+    "chapter_name": "Chương 1450: Cửu Âm Hoàng Tuyền Đan"
   }
 ]

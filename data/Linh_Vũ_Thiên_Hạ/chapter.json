@@ -5198,5 +5198,605 @@
   {
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1301_Tiến_vào_top_mười.json",
     "chapter_name": "Chương 1301: Tiến vào top mười"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1302_Ba_mươi_năm_nhất_định_phải_đến_1.json",
+    "chapter_name": "Chương 1302: Ba mươi năm nhất định phải đến (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1303_Ba_mươi_năm_nhất_định_phải_đến_2.json",
+    "chapter_name": "Chương 1303: Ba mươi năm nhất định phải đến (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1304_Đạm_đài_tuyết_vi.json",
+    "chapter_name": "Chương 1304: Đạm đài tuyết vi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1305_Đặt_cược_1.json",
+    "chapter_name": "Chương 1305: Đặt cược (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1306_Đặt_cược_2.json",
+    "chapter_name": "Chương 1306: Đặt cược (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1307_Thi_đấu_bài_danh_bắt_đầu.json",
+    "chapter_name": "Chương 1307: Thi đấu bài danh bắt đầu"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1308_Đạm_Đài_Tuyết_Vi_và_Vân_Hồng_Lăng_1.json",
+    "chapter_name": "Chương 1308: Đạm Đài Tuyết Vi và Vân Hồng Lăng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1309_Đạm_Đài_Tuyết_Vi_và_Vân_Hồng_Lăng_2.json",
+    "chapter_name": "Chương 1309: Đạm Đài Tuyết Vi và Vân Hồng Lăng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1310_Lục_Vô_Song_và_Nguyên_Nhược_Lan.json",
+    "chapter_name": "Chương 1310: Lục Vô Song và Nguyên Nhược Lan"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1311_Cược_một_trận_1.json",
+    "chapter_name": "Chương 1311: Cược một trận (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1312_Cược_một_trận_2.json",
+    "chapter_name": "Chương 1312: Cược một trận (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1313_Ngoài_dự_đoán_1.json",
+    "chapter_name": "Chương 1313: Ngoài dự đoán (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1314_Ngoài_dự_đoán_2.json",
+    "chapter_name": "Chương 1314: Ngoài dự đoán (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1315_Lục_Tâm_Đồng_ra_trận.json",
+    "chapter_name": "Chương 1315: Lục Tâm Đồng ra trận"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1316_Thiên_độc_hồn_quyết_1.json",
+    "chapter_name": "Chương 1316: Thiên độc hồn quyết (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1317_Thiên_độc_hồn_quyết_2.json",
+    "chapter_name": "Chương 1317: Thiên độc hồn quyết (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1318_Dĩ_độc_hoá_công_1.json",
+    "chapter_name": "Chương 1318: Dĩ độc hoá công (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1319_Dĩ_độc_hoá_công_2.json",
+    "chapter_name": "Chương 1319: Dĩ độc hoá công (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1320_Lục_Thiếu_Du_ra_tay.json",
+    "chapter_name": "Chương 1320: Lục Thiếu Du ra tay"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1321_Tốc_chiến_tốc_thắng_1.json",
+    "chapter_name": "Chương 1321: Tốc chiến tốc thắng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1322_Tốc_chiến_tốc_thắng_2.json",
+    "chapter_name": "Chương 1322: Tốc chiến tốc thắng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1323_Đùa_giỡn_Hồng_Lăng_1.json",
+    "chapter_name": "Chương 1323: Đùa giỡn Hồng Lăng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1324_Đùa_giỡn_Hồng_Lăng_2.json",
+    "chapter_name": "Chương 1324: Đùa giỡn Hồng Lăng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1325_Tiếp_tục_khiêu_chiến.json",
+    "chapter_name": "Chương 1325: Tiếp tục khiêu chiến"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1326_Huyễn_linh_chân_kinh_1.json",
+    "chapter_name": "Chương 1326: Huyễn linh chân kinh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1327_Huyễn_linh_chân_kinh_2.json",
+    "chapter_name": "Chương 1327: Huyễn linh chân kinh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1328_Khiêu_chiến_Dương_Quá.json",
+    "chapter_name": "Chương 1328: Khiêu chiến Dương Quá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1329_Quỷ_Sát_Dương_Quá_thua_1.json",
+    "chapter_name": "Chương 1329: Quỷ Sát Dương Quá thua? (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1330_Quỷ_Sát_Dương_Quá_thua_2.json",
+    "chapter_name": "Chương 1330: Quỷ Sát Dương Quá thua? (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1331_Bại_lộ_song_tu_1.json",
+    "chapter_name": "Chương 1331: Bại lộ song tu (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1332_Bại_lộ_song_tu_2.json",
+    "chapter_name": "Chương 1332: Bại lộ song tu (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1333_Hắn_chính_là_ca_ca.json",
+    "chapter_name": "Chương 1333: Hắn chính là ca ca"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1334_Cho_lão_công_ôm_một_cái_nào_1.json",
+    "chapter_name": "Chương 1334: Cho lão công ôm một cái nào (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1335_Cho_lão_công_ôm_một_cái_nào_2.json",
+    "chapter_name": "Chương 1335: Cho lão công ôm một cái nào (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1336_Chà_đạp_Thánh_Tử_1.json",
+    "chapter_name": "Chương 1336: Chà đạp Thánh Tử (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1337_Chà_đạp_Thánh_Tử_2.json",
+    "chapter_name": "Chương 1337: Chà đạp Thánh Tử (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1338_Chà_đạp_Thánh_Tử_3.json",
+    "chapter_name": "Chương 1338: Chà đạp Thánh Tử (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1339_Một_chiêu_phân_thắng_bại.json",
+    "chapter_name": "Chương 1339: Một chiêu phân thắng bại"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1340_Tật_cũ_1.json",
+    "chapter_name": "Chương 1340: Tật cũ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1341_Tật_cũ_2.json",
+    "chapter_name": "Chương 1341: Tật cũ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1342_Linh_khí_Sáo_Ngọc.json",
+    "chapter_name": "Chương 1342: Linh khí Sáo Ngọc"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1343_Tử_tước_linh_ảnh_1.json",
+    "chapter_name": "Chương 1343: Tử tước linh ảnh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1344_Tử_tước_linh_ảnh_2.json",
+    "chapter_name": "Chương 1344: Tử tước linh ảnh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1345_Hắn_còn_chưa_chết.json",
+    "chapter_name": "Chương 1345: Hắn còn chưa chết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1346_Chiến_lăng_thanh_tuyền_1.json",
+    "chapter_name": "Chương 1346: Chiến lăng thanh tuyền (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1347_Chiến_lăng_thanh_tuyền_2.json",
+    "chapter_name": "Chương 1347: Chiến lăng thanh tuyền (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1348_Tôm_tép_mà_thôi.json",
+    "chapter_name": "Chương 1348: Tôm tép mà thôi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1349_Nãi_nãi_của_ngươi_1.json",
+    "chapter_name": "Chương 1349: Nãi nãi của ngươi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1350_Nãi_nãi_của_ngươi_2.json",
+    "chapter_name": "Chương 1350: Nãi nãi của ngươi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1351_Linh_Xà_minh_trảo.json",
+    "chapter_name": "Chương 1351: Linh Xà minh trảo"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1352_Minh_xà_thiên_diệt.json",
+    "chapter_name": "Chương 1352: Minh xà thiên diệt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1353_Chuẩn_bị_con_bài_chưa_lật_1.json",
+    "chapter_name": "Chương 1353: Chuẩn bị con bài chưa lật (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1354_Chuẩn_bị_con_bài_chưa_lật_2.json",
+    "chapter_name": "Chương 1354: Chuẩn bị con bài chưa lật (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1355_Vũ_kỹ_Địa_cấp_1.json",
+    "chapter_name": "Chương 1355: Vũ kỹ Địa cấp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1356_Vũ_kỹ_Địa_cấp_2.json",
+    "chapter_name": "Chương 1356: Vũ kỹ Địa cấp (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1357_Lạt_thủ_tồi_hoa.json",
+    "chapter_name": "Chương 1357: Lạt thủ tồi hoa"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1358_Thắng_liên_tiếp_chín_trận_1.json",
+    "chapter_name": "Chương 1358: Thắng liên tiếp chín trận (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1359_Thắng_liên_tiếp_chín_trận_2.json",
+    "chapter_name": "Chương 1359: Thắng liên tiếp chín trận (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1360_Xếp_hạng_cuối_cùng.json",
+    "chapter_name": "Chương 1360: Xếp hạng cuối cùng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1361_Đột_nhiên_làm_khó_dễ_1.json",
+    "chapter_name": "Chương 1361: Đột nhiên làm khó dễ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1362_Đột_nhiên_làm_khó_dễ_2.json",
+    "chapter_name": "Chương 1362: Đột nhiên làm khó dễ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1363_Cường_hãn_xuất_hiện.json",
+    "chapter_name": "Chương 1363: Cường hãn xuất hiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1364_Số_lượng_khổng_lồ_1.json",
+    "chapter_name": "Chương 1364: Số lượng khổng lồ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1365_Số_lượng_khổng_lồ_2.json",
+    "chapter_name": "Chương 1365: Số lượng khổng lồ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1366_Cửu_biệt_thắng_tân_hôn.json",
+    "chapter_name": "Chương 1366: Cửu biệt thắng tân hôn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1367_Lựa_chọn_Linh_khí.json",
+    "chapter_name": "Chương 1367: Lựa chọn Linh khí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1368_Cường_giả_Linh_Tôn_1.json",
+    "chapter_name": "Chương 1368: Cường giả Linh Tôn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1369_Cường_giả_Linh_Tôn_2.json",
+    "chapter_name": "Chương 1369: Cường giả Linh Tôn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1370_Nhìn_không_thấu_hắn.json",
+    "chapter_name": "Chương 1370: Nhìn không thấu hắn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1371_Vũ_Vương_gia_nhập_1.json",
+    "chapter_name": "Chương 1371: Vũ Vương gia nhập (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1372_Vũ_Vương_gia_nhập_2.json",
+    "chapter_name": "Chương 1372: Vũ Vương gia nhập (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1373_Quyết_định_của_Hoàng_Đan_1.json",
+    "chapter_name": "Chương 1373: Quyết định của Hoàng Đan (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1374_Quyết_định_của_Hoàng_Đan_2.json",
+    "chapter_name": "Chương 1374: Quyết định của Hoàng Đan (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1375_Chuẩn_bị_bế_quan.json",
+    "chapter_name": "Chương 1375: Chuẩn bị bế quan"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1376_Hồn_anh_biến_hoá_1.json",
+    "chapter_name": "Chương 1376: Hồn anh biến hoá (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1377_Hồn_anh_biến_hoá_2.json",
+    "chapter_name": "Chương 1377: Hồn anh biến hoá (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1378_Vũ_Vương_nhị_trọng_1.json",
+    "chapter_name": "Chương 1378: Vũ Vương nhị trọng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1379_Vũ_Vương_nhị_trọng_2.json",
+    "chapter_name": "Chương 1379: Vũ Vương nhị trọng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1380_Tới_song_đao_môn.json",
+    "chapter_name": "Chương 1380: Tới song đao môn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1381_Huyết_Mị_hiển_uy_1.json",
+    "chapter_name": "Chương 1381: Huyết Mị hiển uy (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1382_Huyết_Mị_hiển_uy_2.json",
+    "chapter_name": "Chương 1382: Huyết Mị hiển uy (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1383_Diệt_song_đao_môn_1.json",
+    "chapter_name": "Chương 1383: Diệt song đao môn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1384_Diệt_song_đao_môn_2.json",
+    "chapter_name": "Chương 1384: Diệt song đao môn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1385_An_bài_hết_thảy.json",
+    "chapter_name": "Chương 1385: An bài hết thảy"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1386_Đột_nhiên_tập_kích_1.json",
+    "chapter_name": "Chương 1386: Đột nhiên tập kích (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1387_Đột_nhiên_tập_kích_2.json",
+    "chapter_name": "Chương 1387: Đột nhiên tập kích (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1388_Liên_chế_lưỡng_vương.json",
+    "chapter_name": "Chương 1388: Liên chế lưỡng vương"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1389_Hổ_viêm_thiên_vương_1.json",
+    "chapter_name": "Chương 1389: Hổ viêm thiên vương (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1390_Hổ_viêm_thiên_vương_2.json",
+    "chapter_name": "Chương 1390: Hổ viêm thiên vương (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1391_Vào_phi_linh_môn_1.json",
+    "chapter_name": "Chương 1391: Vào phi linh môn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1392_Vào_phi_linh_môn_2.json",
+    "chapter_name": "Chương 1392: Vào phi linh môn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1393_Lưu_lại_an_bài_1.json",
+    "chapter_name": "Chương 1393: Lưu lại an bài (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1394_Lưu_lại_an_bài_2.json",
+    "chapter_name": "Chương 1394: Lưu lại an bài (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1395_Vị_trí_phó_chưởng_môn.json",
+    "chapter_name": "Chương 1395: Vị trí phó chưởng môn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1396_Lại_thêm_lưỡng_vương_1.json",
+    "chapter_name": "Chương 1396: Lại thêm lưỡng vương (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1397_Lại_thêm_lưỡng_vương_2.json",
+    "chapter_name": "Chương 1397: Lại thêm lưỡng vương (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1398_Bí_mật_Thiên_Thư_1.json",
+    "chapter_name": "Chương 1398: Bí mật Thiên Thư (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1399_Bí_mật_Thiên_Thư_2.json",
+    "chapter_name": "Chương 1399: Bí mật Thiên Thư (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1400_Trong_thiên_âm.json",
+    "chapter_name": "Chương 1400: Trong thiên âm"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1401_Có_chút_kỳ_quái.json",
+    "chapter_name": "Chương 1401: Có chút kỳ quái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1402_Ngoài_dự_đoán_của_mọi_người_1.json",
+    "chapter_name": "Chương 1402: Ngoài dự đoán của mọi người (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1403_Ngoài_dự_đoán_của_mọi_người_2.json",
+    "chapter_name": "Chương 1403: Ngoài dự đoán của mọi người (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1404_Gia_tộc_lánh_đời.json",
+    "chapter_name": "Chương 1404: Gia tộc lánh đời"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1405_Vũ_kỹ_địa_cấp.json",
+    "chapter_name": "Chương 1405: Vũ kỹ địa cấp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1406_Luyện_chế_linh_khí.json",
+    "chapter_name": "Chương 1406: Luyện chế linh khí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1407_Gọi_là_Liệt_Thiên.json",
+    "chapter_name": "Chương 1407: Gọi là Liệt Thiên"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1408_Tu_luyện_trảo_ấn.json",
+    "chapter_name": "Chương 1408: Tu luyện trảo ấn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1409_Lĩnh_ngộ_hỏa_hệ.json",
+    "chapter_name": "Chương 1409: Lĩnh ngộ hỏa hệ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1410_Luận_công_ban_thưởng.json",
+    "chapter_name": "Chương 1410: Luận công ban thưởng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1411_Bắt_đầu_phân_bảo.json",
+    "chapter_name": "Chương 1411: Bắt đầu phân bảo"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1412_Hoàn_toàn_rung_động.json",
+    "chapter_name": "Chương 1412: Hoàn toàn rung động"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1413_Tài_đại_khí_thô.json",
+    "chapter_name": "Chương 1413: Tài đại khí thô"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1414_Hoàng_gia_đã_tới.json",
+    "chapter_name": "Chương 1414: Hoàng gia đã tới"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1415_Thánh_Linh_giáo_chủ.json",
+    "chapter_name": "Chương 1415: Thánh Linh giáo chủ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1416_Hộ_sơn_đại_trận.json",
+    "chapter_name": "Chương 1416: Hộ sơn đại trận"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1417_Trong_Hạo_Dương_thành.json",
+    "chapter_name": "Chương 1417: Trong Hạo Dương thành"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1418_Diệt_sát_Triệu_gia.json",
+    "chapter_name": "Chương 1418: Diệt sát Triệu gia"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1419_Trên_đường_đi_gặp_người_quen.json",
+    "chapter_name": "Chương 1419: Trên đường đi gặp người quen"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1420_Gọi_là_Tiểu_Long_Nữ.json",
+    "chapter_name": "Chương 1420: Gọi là Tiểu Long Nữ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1421_Lão_hữu_gặp_lại.json",
+    "chapter_name": "Chương 1421: Lão hữu gặp lại"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1422_Từ_nam_bán_lão.json",
+    "chapter_name": "Chương 1422: Từ nam bán lão"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1423_Lại_thu_một_đứa_con.json",
+    "chapter_name": "Chương 1423: Lại thu một đứa con"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1424_Trợn_mắt_há_mồm_1.json",
+    "chapter_name": "Chương 1424: Trợn mắt há mồm (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1425_Trợn_mắt_há_mồm_2.json",
+    "chapter_name": "Chương 1425: Trợn mắt há mồm (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1426_Trạm_cao_niệu_viễn.json",
+    "chapter_name": "Chương 1426: Trạm cao niệu viễn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1427_Lần_thứ_hai_đánh_một_trận_1.json",
+    "chapter_name": "Chương 1427: Lần thứ hai đánh một trận (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1428_Lần_thứ_hai_đánh_một_trận_2.json",
+    "chapter_name": "Chương 1428: Lần thứ hai đánh một trận (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1429_Không_thể_lay_động.json",
+    "chapter_name": "Chương 1429: Không thể lay động"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1430_Dương_Quá_gia_nhập_1.json",
+    "chapter_name": "Chương 1430: Dương Quá gia nhập (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1431_Dương_Quá_gia_nhập_2.json",
+    "chapter_name": "Chương 1431: Dương Quá gia nhập (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1432_Tiểu_Long_kinh_người.json",
+    "chapter_name": "Chương 1432: Tiểu Long kinh người"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1433_Tin_tức_lan_đến_1.json",
+    "chapter_name": "Chương 1433: Tin tức lan đến (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1434_Tin_tức_lan_đến_2.json",
+    "chapter_name": "Chương 1434: Tin tức lan đến (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1435_La_Lan_cưỡng_ép.json",
+    "chapter_name": "Chương 1435: La Lan cưỡng ép"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1436_Đoạn_tay_đoạn_chân_1.json",
+    "chapter_name": "Chương 1436: Đoạn tay đoạn chân (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1437_Đoạn_tay_đoạn_chân_2.json",
+    "chapter_name": "Chương 1437: Đoạn tay đoạn chân (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1438_Bất_Diệt_chi_uy.json",
+    "chapter_name": "Chương 1438: Bất Diệt chi uy"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1439_Thanh_Long_trảo.json",
+    "chapter_name": "Chương 1439: Thanh Long trảo"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1440_Mấy_người_vây_công_1.json",
+    "chapter_name": "Chương 1440: Mấy người vây công (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1441_Mấy_người_vây_công_2.json",
+    "chapter_name": "Chương 1441: Mấy người vây công (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1442_Vận_dụng_át_chủ_bài.json",
+    "chapter_name": "Chương 1442: Vận dụng át chủ bài"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1443_Sát_khí_ngập_trời_1.json",
+    "chapter_name": "Chương 1443: Sát khí ngập trời (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1444_Sát_khí_ngập_trời_2.json",
+    "chapter_name": "Chương 1444: Sát khí ngập trời (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1445_Đại_hồn_anh_xuất_hiện.json",
+    "chapter_name": "Chương 1445: Đại hồn anh xuất hiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1446_Lão_tông_chủ_xuất_hiện.json",
+    "chapter_name": "Chương 1446: Lão tông chủ xuất hiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1447_Đợi_kết_quả_1.json",
+    "chapter_name": "Chương 1447: Đợi kết quả (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1448_Đợi_kết_quả_2.json",
+    "chapter_name": "Chương 1448: Đợi kết quả (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1449_Bảo_vật_Triệu_gia.json",
+    "chapter_name": "Chương 1449: Bảo vật Triệu gia"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1450_Ba_ngày_sau_1.json",
+    "chapter_name": "Chương 1450: Ba ngày sau (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1451_Ba_ngày_sau_2.json",
+    "chapter_name": "Chương 1451: Ba ngày sau (2)"
   }
 ]
