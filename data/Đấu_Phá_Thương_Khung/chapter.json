@@ -2198,5 +2198,605 @@
   {
     "path": "data/Đấu_Phá_Thương_Khung/Chương_550_Oan_gia_ngõ_hẹp.json",
     "chapter_name": "Chương 550: Oan gia ngõ hẹp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_551_Đối_chọi_gay_gắt.json",
+    "chapter_name": "Chương 551: Đối chọi gay gắt!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_552_Định_đối_thủ.json",
+    "chapter_name": "Chương 552: Định đối thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_553_Đại_tái_bắt_đầu.json",
+    "chapter_name": "Chương 553: Đại tái bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_554_Bối_Cư.json",
+    "chapter_name": "Chương 554: Bối Cư!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_555_Thước_pháp.json",
+    "chapter_name": "Chương 555: Thước pháp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_556_Huyết_đại_bát_liệt.json",
+    "chapter_name": "Chương 556: Huyết đại bát liệt!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_557_Thanh_hỏa_khôi_giáp.json",
+    "chapter_name": "Chương 557: Thanh hỏa khôi giáp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_558_Liễu_Kình_xuất_chiến.json",
+    "chapter_name": "Chương 558: Liễu Kình xuất chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_559_Đại_liệt_phách_quan_trảo.json",
+    "chapter_name": "Chương 559: Đại liệt phách quan trảo!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_560_Vòng_đấu_thứ_hai.json",
+    "chapter_name": "Chương 560: Vòng đấu thứ hai!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_561_Đối_chiến_Diêu_Thịnh.json",
+    "chapter_name": "Chương 561: Đối chiến Diêu Thịnh!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_562_Phá_giải_Hắc_Thủy_Quyển.json",
+    "chapter_name": "Chương 562: Phá giải \"Hắc Thủy Quyển\""
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_563_Thắng.json",
+    "chapter_name": "Chương 563: Thắng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_564_Tỏa_sáng.json",
+    "chapter_name": "Chương 564: Tỏa sáng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_565_Một_triền_một_cương.json",
+    "chapter_name": "Chương 565: Một triền một cương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_566_Quyển_trục.json",
+    "chapter_name": "Chương 566: Quyển trục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_567_Tranh_đoạt_mười_vị_trí_dẫn_đầu.json",
+    "chapter_name": "Chương 567: Tranh đoạt mười vị trí dẫn đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_568_Ngựa_ô_và_cao_thủ_lão_thành_Cường_bảng.json",
+    "chapter_name": "Chương 568: Ngựa ô và cao thủ lão thành Cường bảng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_569_Sôi_trào.json",
+    "chapter_name": "Chương 569: Sôi trào!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_570_Bát_Cực_Băng_đối_Phách_Quang_Trảo.json",
+    "chapter_name": "Chương 570: Bát Cực Băng đối Phách Quang Trảo!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_571_Bạo.json",
+    "chapter_name": "Chương 571: Bạo!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_572_Nhất_chiêu.json",
+    "chapter_name": "Chương 572: Nhất chiêu!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_573_Đại_Liệt_Nham_cùng_Diễm_Phân_Phệ_Lãng_Xích_va_chạm.json",
+    "chapter_name": "Chương 573: Đại Liệt Nham cùng Diễm Phân Phệ Lãng Xích va chạm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_574_Vẫn_có_thể_nói.json",
+    "chapter_name": "Chương 574: Vẫn có thể nói"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_575_Kết_Thúc.json",
+    "chapter_name": "Chương 575: Kết Thúc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_576_Dưỡng_thương.json",
+    "chapter_name": "Chương 576: Dưỡng thương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_577_Thực_lực_tăng_lên.json",
+    "chapter_name": "Chương 577: Thực lực tăng lên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_578_Hắc_Yên_Quân_Phó_thống_lĩnh_Linh_Tuyền.json",
+    "chapter_name": "Chương 578: Hắc Yên Quân Phó thống lĩnh - Linh Tuyền"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_579_Chia_Ly.json",
+    "chapter_name": "Chương 579: Chia Ly"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_580_Tiến_vào_Thiên_Phần_luyện_khí_tháp.json",
+    "chapter_name": "Chương 580: Tiến vào Thiên Phần luyện khí tháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_581_Căn_nguyên_tâm_viêm.json",
+    "chapter_name": "Chương 581: Căn nguyên tâm viêm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_582_Nỗi_Đau_Luyện_Thể.json",
+    "chapter_name": "Chương 582: Nỗi Đau Luyện Thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_583_Vẫn_Lạc_Tâm_Viên.json",
+    "chapter_name": "Chương 583: Vẫn Lạc Tâm Viên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_584_Phá_Tan_Phong_Ấn.json",
+    "chapter_name": "Chương 584: Phá Tan Phong Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_585_Phá_Tháp.json",
+    "chapter_name": "Chương 585: Phá Tháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_586_Thiên_Tầng_Phong_Trận.json",
+    "chapter_name": "Chương 586: Thiên Tầng Phong Trận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_587_Kêu_gọi_bằng_hữu.json",
+    "chapter_name": "Chương 587: Kêu gọi bằng hữu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_588_Liên_thủ_phong_ấn.json",
+    "chapter_name": "Chương 588: Liên thủ phong ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_589_Phần_quyết_tàn_quyển.json",
+    "chapter_name": "Chương 589: Phần quyết tàn quyển"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_590_Hỗn_loạn_đại_chiến.json",
+    "chapter_name": "Chương 590: Hỗn loạn đại chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_591_Đối_chiến_Phạm_Lao.json",
+    "chapter_name": "Chương 591: Đối chiến Phạm Lao"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_592_Viện_thủ.json",
+    "chapter_name": "Chương 592: Viện thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_593_Thanh_hoả_đầy_trời.json",
+    "chapter_name": "Chương 593: Thanh hoả đầy trời"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_594_Hải_Tâm_Diễm.json",
+    "chapter_name": "Chương 594: Hải Tâm Diễm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_595_Tiếng_nổ_kinh_thiên.json",
+    "chapter_name": "Chương 595: Tiếng nổ kinh thiên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_596_Đồng_dạng_tâm_tư.json",
+    "chapter_name": "Chương 596: Đồng dạng tâm tư"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_597_Đuổi_tận_giết_tuyệt.json",
+    "chapter_name": "Chương 597: Đuổi tận giết tuyệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_598_Phong_ấn_vô_hiệu.json",
+    "chapter_name": "Chương 598: Phong ấn vô hiệu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_599_Tu_luyện_tác_khí_hệ.json",
+    "chapter_name": "Chương 599: Tu luyện tác khí hệ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_600_Đấu_hoả.json",
+    "chapter_name": "Chương 600: Đấu hoả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_601_Hiện_hình.json",
+    "chapter_name": "Chương 601: Hiện hình"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_602_Bản_thể.json",
+    "chapter_name": "Chương 602: Bản thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_603_Giao_phong.json",
+    "chapter_name": "Chương 603: Giao phong"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_604_Sợ_hãi.json",
+    "chapter_name": "Chương 604: Sợ hãi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_605_Đại_Hình_Phật_Nộ_Hỏa_Liên.json",
+    "chapter_name": "Chương 605: Đại Hình Phật Nộ Hỏa Liên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_606_Thôn_Phệ_Phong_Ấn.json",
+    "chapter_name": "Chương 606: Thôn Phệ - Phong Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_607_Tuyệt_Cảnh.json",
+    "chapter_name": "Chương 607: Tuyệt Cảnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_608_Xà_hiện.json",
+    "chapter_name": "Chương 608: Xà hiện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_609_Giai_đoạn_sinh_tử.json",
+    "chapter_name": "Chương 609: Giai đoạn sinh tử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_610_Thong_thả_lột_xác.json",
+    "chapter_name": "Chương 610: Thong thả lột xác"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_611_Tấn_giai_đấu_vương.json",
+    "chapter_name": "Chương 611: Tấn giai đấu vương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_612_Cục_diện_đảo_ngược.json",
+    "chapter_name": "Chương 612: Cục diện đảo ngược"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_613_Luyện_hóa_dung_hợp.json",
+    "chapter_name": "Chương 613: Luyện hóa, dung hợp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_614_Dung_hợp_thành_công.json",
+    "chapter_name": "Chương 614: Dung hợp thành công"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_615_Di_chứng_sau_khi_dung_hợp_dị_hỏa.json",
+    "chapter_name": "Chương 615: Di chứng sau khi dung hợp dị hỏa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_616_Phá_phong.json",
+    "chapter_name": "Chương 616: Phá phong"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_617_Phá_tháp_lao_ra.json",
+    "chapter_name": "Chương 617: Phá tháp lao ra"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_618_Thử_sức.json",
+    "chapter_name": "Chương 618: Thử sức"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_619_Tai_họa.json",
+    "chapter_name": "Chương 619: Tai họa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_620_Giải_quyết_phiền_phức.json",
+    "chapter_name": "Chương 620: Giải quyết phiền phức"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_621_Triệu_tập_nhân_thủ.json",
+    "chapter_name": "Chương 621: Triệu tập nhân thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_622_Thời_khắc_sinh_tử.json",
+    "chapter_name": "Chương 622: Thời khắc sinh tử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_623_Quát_lui.json",
+    "chapter_name": "Chương 623: Quát lui"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_624_Viện_binh.json",
+    "chapter_name": "Chương 624: Viện binh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_625_Đánh_chết_Phạm_Lao.json",
+    "chapter_name": "Chương 625: Đánh chết Phạm Lao"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_626_Đại_khai_sát_giới.json",
+    "chapter_name": "Chương 626: Đại khai sát giới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_627_Phệ_sinh_đan.json",
+    "chapter_name": "Chương 627: Phệ sinh đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_628_Phương_thuốc.json",
+    "chapter_name": "Chương 628: Phương thuốc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_629_Đại_chiến_đã_tới.json",
+    "chapter_name": "Chương 629: Đại chiến đã tới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_630_Cường_cường_đối_chọi.json",
+    "chapter_name": "Chương 630: Cường cường đối chọi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_631_Giao_phong.json",
+    "chapter_name": "Chương 631: Giao phong"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_632_Hỏa_liên_bình.json",
+    "chapter_name": "Chương 632: Hỏa liên bình"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_633_Trận_chiến_đồng_môn.json",
+    "chapter_name": "Chương 633: Trận chiến đồng môn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_634_Hàn_Phong_sơ_nhập_Đấu_Tông.json",
+    "chapter_name": "Chương 634: Hàn Phong sơ nhập Đấu Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_635_Phỉ_Thúy_Hỏa_Liên.json",
+    "chapter_name": "Chương 635: Phỉ Thúy Hỏa Liên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_636_Mạng_ngươi_là_của_ta.json",
+    "chapter_name": "Chương 636: Mạng ngươi là của ta!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_637_Hồn_Điện_tái_hiện.json",
+    "chapter_name": "Chương 637: Hồn Điện tái hiện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_638_U_Hải_nạp_giới.json",
+    "chapter_name": "Chương 638: U Hải nạp giới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_639_Bế_quan_dưỡng_thương.json",
+    "chapter_name": "Chương 639: Bế quan dưỡng thương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_640_Đế_ấn_quyết.json",
+    "chapter_name": "Chương 640: Đế ấn quyết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_641_Dự_định.json",
+    "chapter_name": "Chương 641: Dự định"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_642_Giao_dịch.json",
+    "chapter_name": "Chương 642: Giao dịch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_643_Tu_luyện_Khai_Sơn_Ấn.json",
+    "chapter_name": "Chương 643: Tu luyện Khai Sơn Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_644_Tiêu_Môn.json",
+    "chapter_name": "Chương 644: Tiêu Môn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_645_Ba_thế_lực_lớn.json",
+    "chapter_name": "Chương 645: Ba thế lực lớn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_646_Giao_dịch.json",
+    "chapter_name": "Chương 646: Giao dịch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_647_Kêu_gọi_giúp_đỡ.json",
+    "chapter_name": "Chương 647: Kêu gọi giúp đỡ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_648_Sưu_tầm_dược_liệu.json",
+    "chapter_name": "Chương 648: Sưu tầm dược liệu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_649_Luyện_chế_Phục_Tử_Linh_Đan.json",
+    "chapter_name": "Chương 649: Luyện chế Phục Tử Linh Đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_650_Đại_hội_đấu_giá_đan_dược.json",
+    "chapter_name": "Chương 650: Đại hội đấu giá đan dược"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_651_Kinh_sợ.json",
+    "chapter_name": "Chương 651: Kinh sợ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_652_Bán_đấu_giá_kết_thúc.json",
+    "chapter_name": "Chương 652: Bán đấu giá kết thúc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_653_Tu_phục_dược_dịch.json",
+    "chapter_name": "Chương 653: Tu phục dược dịch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_654_Dược_lão_thức_tỉnh.json",
+    "chapter_name": "Chương 654: Dược lão thức tỉnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_655_Thầy_trò_gặp_lại.json",
+    "chapter_name": "Chương 655: Thầy trò gặp lại"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_656_Tài_liệu_luyện_chế_thân_thể.json",
+    "chapter_name": "Chương 656: Tài liệu luyện chế thân thể"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_657_Tìm_phương_pháp_hóa_giải.json",
+    "chapter_name": "Chương 657: Tìm phương pháp hóa giải"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_658_Khôi_phục.json",
+    "chapter_name": "Chương 658: Khôi phục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_659_Ba_huynh_đệ_họ_Diêu.json",
+    "chapter_name": "Chương 659: Ba huynh đệ họ Diêu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_660_Chiếu_khán.json",
+    "chapter_name": "Chương 660: Chiếu khán"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_661_An_trí_Bàn_Môn.json",
+    "chapter_name": "Chương 661: An trí Bàn Môn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_662_Mười_chiêu.json",
+    "chapter_name": "Chương 662: Mười chiêu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_663_An_bình.json",
+    "chapter_name": "Chương 663: An bình"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_664_Mọi_sự_đã_sẵn_sàng.json",
+    "chapter_name": "Chương 664: Mọi sự đã sẵn sàng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_665_Rời_đi_Nội_Viện.json",
+    "chapter_name": "Chương 665: Rời đi Nội Viện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_666_Khởi_hành_quay_lại_Gia_Mã_Đế_Quốc.json",
+    "chapter_name": "Chương 666: Khởi hành quay lại Gia Mã Đế Quốc!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_667_Động_tĩnh_của_Vân_Lam_Tông.json",
+    "chapter_name": "Chương 667: Động tĩnh của Vân Lam Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_668_Ngàn_dặm_tìm_về.json",
+    "chapter_name": "Chương 668: Ngàn dặm tìm về"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_669_Trấn_Quỷ_Quan_Cố_nhân.json",
+    "chapter_name": "Chương 669: Trấn Quỷ Quan - Cố nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_670_Mộc_Thiết.json",
+    "chapter_name": "Chương 670: Mộc Thiết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_671_Chém_giết.json",
+    "chapter_name": "Chương 671: Chém giết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_672_Tông_sư_nghị_sự.json",
+    "chapter_name": "Chương 672: Tông sư nghị sự"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_673_Huyết_tẩy.json",
+    "chapter_name": "Chương 673: Huyết tẩy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_674_Huyết_Chiến.json",
+    "chapter_name": "Chương 674: Huyết Chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_675_Đã_tìm_đến_đế_đô.json",
+    "chapter_name": "Chương 675: Đã tìm đến đế đô"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_676_Đòi_nợ.json",
+    "chapter_name": "Chương 676: Đòi nợ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_677_Kỳ_nhân_chi_đạo_còn_trị_một_thân_thân.json",
+    "chapter_name": "Chương 677: Kỳ nhân chi đạo còn trị một thân thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_678_Đai_khai_sát_giới.json",
+    "chapter_name": "Chương 678: Đai khai sát giới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_679_Quét_Ngang.json",
+    "chapter_name": "Chương 679: Quét Ngang"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_680_Vân_Lam_Tông_khiếp_sợ.json",
+    "chapter_name": "Chương 680: Vân Lam Tông khiếp sợ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_681_Thế.json",
+    "chapter_name": "Chương 681: Thế"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_682_Thương_thảo.json",
+    "chapter_name": "Chương 682: Thương thảo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_683_Dàn_xếp_Tiêu_gia.json",
+    "chapter_name": "Chương 683: Dàn xếp Tiêu gia"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_684_Nữ_nhân_đối_chọi.json",
+    "chapter_name": "Chương 684: Nữ nhân đối chọi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_685_Tuyết_Mị.json",
+    "chapter_name": "Chương 685: Tuyết Mị"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_686_Tuyết_mị.json",
+    "chapter_name": "Chương 686: Tuyết mị"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_687_Phó_Nham.json",
+    "chapter_name": "Chương 687: Phó Nham"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_688_Gặp_mặt.json",
+    "chapter_name": "Chương 688: Gặp mặt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_689_Hiện_thân.json",
+    "chapter_name": "Chương 689: Hiện thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_690_Hôn_lễ.json",
+    "chapter_name": "Chương 690: Hôn lễ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_691_Hỗn_nguyên_tố_cốt_đan.json",
+    "chapter_name": "Chương 691: Hỗn nguyên tố cốt đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_692_Phủ_đệ_mới_của_Tiêu_Gia.json",
+    "chapter_name": "Chương 692: Phủ đệ mới của Tiêu Gia"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_693_Trò_chuyện_trong_đêm.json",
+    "chapter_name": "Chương 693: Trò chuyện trong đêm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_694_U_Hải_Giao_Long_thú.json",
+    "chapter_name": "Chương 694: U Hải Giao Long thú"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_695_Đại_chiến_đã_tới.json",
+    "chapter_name": "Chương 695: Đại chiến đã tới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_696_Ngày_đại_hôn.json",
+    "chapter_name": "Chương 696: Ngày đại hôn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_697_Trận_chiến_mười_chiêu.json",
+    "chapter_name": "Chương 697: Trận chiến mười chiêu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_698_Trận_chiến_10_chiêu.json",
+    "chapter_name": "Chương 698: Trận chiến 10 chiêu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_699_Chiến_Cổ_Hà.json",
+    "chapter_name": "Chương 699: Chiến Cổ Hà"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_700_Bại.json",
+    "chapter_name": "Chương 700: Bại"
   }
 ]
