@@ -1,4 +1,3 @@
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -31,31 +30,46 @@ public class TruyenCrawler {
             File dsTruyenFile = new File("data/ds_truyen.json");
             if (dsTruyenFile.exists()) {
                 try (FileReader reader = new FileReader(dsTruyenFile)) {
-                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
-                    }.getType());
+                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
             }
 
-            // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
+            // Giới hạn lấy 1 truyện có ít nhất 10 chương mới
             int storyCount = 0;
             int storyCountLimit = 1;
             int chapterCountOverLimit = 10;
             for (Element link : storyLinks) {
                 String storyUrl = link.attr("href");
+
+                // Kiểm tra xem truyện đã tồn tại và đã hoàn thành hay chưa
+                boolean storyExists = false;
+                boolean storyCompleted = false;
+                for (Map<String, String> existingStory : stories) {
+                    if (existingStory.get("url").equals(storyUrl) && "true".equals(existingStory.get("success"))) {
+                        storyExists = true;
+                        storyCompleted = true;
+                        break;
+                    }
+                }
+
+                if (storyCompleted) {
+                    continue; // Bỏ qua truyện đã hoàn thành
+                }
+
                 Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                 if (storyData != null) {
-                    // Kiểm tra xem truyện đã tồn tại chưa
-                    boolean storyExists = false;
-                    for (Map<String, String> existingStory : stories) {
-                        if (existingStory.get("name").equals(storyData.get("name"))) {
-                            storyExists = true;
-                            break;
-                        }
-                    }
                     if (!storyExists) {
                         stories.add(storyData);
+                    } else {
+                        // Cập nhật thông tin truyện nếu truyện đã tồn tại nhưng chưa hoàn thành
+                        for (Map<String, String> existingStory : stories) {
+                            if (existingStory.get("url").equals(storyUrl)) {
+                                existingStory.putAll(storyData);
+                                break;
+                            }
+                        }
                     }
                     if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
                         storyCount++;
@@ -111,35 +125,38 @@ public class TruyenCrawler {
             storyData.put("desc", desc);
             storyData.put("image", image);
             storyData.put("genres", genresString);
+            storyData.put("url", url);
 
             boolean skipCrawl = false;
-            // if ("Full".equalsIgnoreCase(status)) {
-                // Lấy trang cuối cùng
-                Element lastPageElement = doc.select("li a[title~=Cuối]").first();
-                if (lastPageElement != null) {
-                    String lastPageUrl = lastPageElement.attr("href");
-                    storyData.put("lastPageUrl", lastPageUrl);
-                    doc = Jsoup.connect(lastPageUrl).get();
-                    Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
-                    if (lastChapterElement != null) {
-                        String lastChapterUrl = lastChapterElement.attr("href");
-                        storyData.put("lastChapterUrl", lastChapterUrl);
-                        Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
-                        if (lastChapterData != null) {
-                            String lastChapterTitle = (String) lastChapterData.get("chapter_name");
-                            String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
-                            String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
-                            storyData.put("lastChapterTitle", lastChapterTitle);
-                            // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
-                            File lastChapterFile = new File(lastChapterFilePath);
-                            if (lastChapterFile.exists()) {
-                                skipCrawl = true;
-                                storyData.put("new_chapter_count", "-1");
-                            }
+            boolean isStoryCompleted = false;
+            // Lấy trang cuối cùng
+            Element lastPageElement = doc.select("li a[title~=Cuối]").first();
+            if (lastPageElement != null) {
+                String lastPageUrl = lastPageElement.attr("href");
+                storyData.put("lastPageUrl", lastPageUrl);
+                doc = Jsoup.connect(lastPageUrl).get();
+                Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
+                if (lastChapterElement != null) {
+                    String lastChapterUrl = lastChapterElement.attr("href");
+                    storyData.put("lastChapterUrl", lastChapterUrl);
+                    Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
+                    if (lastChapterData != null) {
+                        String lastChapterTitle = (String) lastChapterData.get("chapter_name");
+                        String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
+                        String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
+                        storyData.put("lastChapterTitle", lastChapterTitle);
+                        // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
+                        File lastChapterFile = new File(lastChapterFilePath);
+                        if (lastChapterFile.exists()) {
+                            skipCrawl = true;
+                            storyData.put("new_chapter_count", "-1");
+                        }
+                        if (!skipCrawl) {
+                            isStoryCompleted = true;
                         }
                     }
                 }
-            // }
+            }
 
             if (!skipCrawl) {
                 List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
@@ -154,8 +171,7 @@ public class TruyenCrawler {
                 File chapterFile = new File(chapterFilePath);
                 if (chapterFile.exists()) {
                     try (FileReader reader = new FileReader(chapterFile)) {
-                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
-                        }.getType());
+                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
@@ -171,6 +187,11 @@ public class TruyenCrawler {
                 }
 
                 storyData.put("path", chapterFilePath);
+
+                // Kiểm tra nếu đã đến chương cuối cùng
+                if (isStoryCompleted) {
+                    storyData.put("success", "true");
+                }
             } else {
                 storyData.put("path", "data/" + sanitizedStoryTitle + "/chapter.json");
             }
