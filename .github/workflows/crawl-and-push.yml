@@ -45,4 +45,3 @@ jobs:
           git add data
           git commit -m 'Update truyen.json'
           git push
-
