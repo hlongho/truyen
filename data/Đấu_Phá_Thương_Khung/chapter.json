@@ -3398,5 +3398,605 @@
   {
     "path": "data/Đấu_Phá_Thương_Khung/Chương_850_Dò_Xét.json",
     "chapter_name": "Chương 850: Dò Xét"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_851_Linh_Hồn_Phân_Thân.json",
+    "chapter_name": "Chương 851: Linh Hồn Phân Thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_852_Quả_Nhiên_Là_Ngươi.json",
+    "chapter_name": "Chương 852: Quả Nhiên Là Ngươi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_853_Đồng_môn_tái_kiến.json",
+    "chapter_name": "Chương 853: Đồng môn tái kiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_854_Ngũ_đại_Đấu_Tông.json",
+    "chapter_name": "Chương 854: Ngũ đại Đấu Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_855_Thế_cuộc_chuyển_biến.json",
+    "chapter_name": "Chương 855: Thế cuộc chuyển biến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_856_Đại_chiến_bắt_đầu.json",
+    "chapter_name": "Chương 856: Đại chiến bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_857_Hóa_Sinh_Hỏa.json",
+    "chapter_name": "Chương 857: Hóa Sinh Hỏa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_858_Thu_Phục.json",
+    "chapter_name": "Chương 858: Thu Phục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_859_Đánh_chết.json",
+    "chapter_name": "Chương 859: Đánh chết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_860_Tử_Nghiên_bạo_tẩu.json",
+    "chapter_name": "Chương 860: Tử Nghiên bạo tẩu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_861_Quát_lui.json",
+    "chapter_name": "Chương 861: Quát lui"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_862_Rời_đi.json",
+    "chapter_name": "Chương 862: Rời đi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_863_Biến_cố.json",
+    "chapter_name": "Chương 863: Biến cố"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_864_Tiêu_trừ_ẩn_họa.json",
+    "chapter_name": "Chương 864: Tiêu trừ ẩn họa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_865_Đến_Hòa_Bình_Trấn.json",
+    "chapter_name": "Chương 865: Đến Hòa Bình Trấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_866_Hân_Lam.json",
+    "chapter_name": "Chương 866: Hân Lam"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_867_Gặp_Mặt.json",
+    "chapter_name": "Chương 867: Gặp Mặt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_868_Biện_Pháp.json",
+    "chapter_name": "Chương 868: Biện Pháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_869_Tin_tức_Dị_Hỏa.json",
+    "chapter_name": "Chương 869: Tin tức Dị Hỏa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_870_Tin_Tức_Dị_Hoả_Khác.json",
+    "chapter_name": "Chương 870: Tin Tức Dị Hoả Khác!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_871_Tam_Thiên_Diễm_Viêm_Hoả.json",
+    "chapter_name": "Chương 871: Tam Thiên Diễm Viêm Hoả!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_872_Luyện_Chế.json",
+    "chapter_name": "Chương 872: Luyện Chế!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_873_Thu_Hoạch_Ngoài_Tưởng_Tượng.json",
+    "chapter_name": "Chương 873: Thu Hoạch Ngoài Tưởng Tượng!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_874_Một_Đôi_Cánh_Đầy_Bá_Đạo.json",
+    "chapter_name": "Chương 874: Một Đôi Cánh Đầy Bá Đạo!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_875_Nhất_lao_vĩnh_dật.json",
+    "chapter_name": "Chương 875: Nhất lao vĩnh dật"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_876_Đã_đến.json",
+    "chapter_name": "Chương 876: Đã đến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_877_Địa_Ma_lão_quỷ.json",
+    "chapter_name": "Chương 877: Địa Ma lão quỷ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_878_Động_thủ.json",
+    "chapter_name": "Chương 878: Động thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_879_Đối_chiến_Địa_Ma_lão_quỷ.json",
+    "chapter_name": "Chương 879: Đối chiến Địa Ma lão quỷ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_880_Kinh_tâm_động_phách.json",
+    "chapter_name": "Chương 880: Kinh tâm động phách"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_881_Điên_cuồng.json",
+    "chapter_name": "Chương 881: Điên cuồng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_882_Hủy_Diệt_Hỏa_Liên.json",
+    "chapter_name": "Chương 882: Hủy Diệt Hỏa Liên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_883_Đại_Phá_Tàn_Phá.json",
+    "chapter_name": "Chương 883: Đại Phá (Tàn Phá)"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_884_Thiên_Bách_Nhị_Lão.json",
+    "chapter_name": "Chương 884: Thiên Bách Nhị Lão"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_885_Mong_Đợi.json",
+    "chapter_name": "Chương 885: Mong Đợi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_886_Thất_Bại.json",
+    "chapter_name": "Chương 886: Thất Bại"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_887_Ngũ_Tinh_Đấu_Hoàng.json",
+    "chapter_name": "Chương 887: Ngũ Tinh Đấu Hoàng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_888_Nơi_tu_luyện.json",
+    "chapter_name": "Chương 888: Nơi tu luyện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_889_Lại_tiến_vào_đáy_tháp.json",
+    "chapter_name": "Chương 889: Lại tiến vào đáy tháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_890_Triệu_hoán.json",
+    "chapter_name": "Chương 890: Triệu hoán"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_891_Thước_pháp_tiểu_thành.json",
+    "chapter_name": "Chương 891: Thước pháp tiểu thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_892_Hài_cốt_thần_bí.json",
+    "chapter_name": "Chương 892: Hài cốt thần bí"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_893_Sinh_vật_dung_nham.json",
+    "chapter_name": "Chương 893: Sinh vật dung nham"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_894_Bộ_tộc_thằn_lằn_lửa.json",
+    "chapter_name": "Chương 894: Bộ tộc thằn lằn lửa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_895_Thiên_Hỏa_tôn_giả.json",
+    "chapter_name": "Chương 895: Thiên Hỏa tôn giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_896_Ngũ_Luân_Ly_Hỏa_Pháp.json",
+    "chapter_name": "Chương 896: Ngũ Luân Ly Hỏa Pháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_897_Sự_Tồn_Tại_Thần_Bí.json",
+    "chapter_name": "Chương 897: Sự Tồn Tại Thần Bí!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_898_Động_Tĩnh_Của_Đà_Xá_Cổ_Đế_Ngọc.json",
+    "chapter_name": "Chương 898: Động Tĩnh Của Đà Xá Cổ Đế Ngọc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_899_Tiếp_tục_thăng_cấp.json",
+    "chapter_name": "Chương 899: Tiếp tục thăng cấp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_900_Tình_báo.json",
+    "chapter_name": "Chương 900: Tình báo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_901_Thương_nghị.json",
+    "chapter_name": "Chương 901: Thương nghị"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_902_Chiêu_Tập.json",
+    "chapter_name": "Chương 902: Chiêu Tập"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_903_Liên_Minh.json",
+    "chapter_name": "Chương 903: Liên Minh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_904_Tốc_Độ_Uy_Hiếp.json",
+    "chapter_name": "Chương 904: Tốc Độ! Uy Hiếp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_905_Hiên_Hộ_Pháp.json",
+    "chapter_name": "Chương 905: Hiên Hộ Pháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_906_Hỏa_Linh_Hiển_Uy.json",
+    "chapter_name": "Chương 906: Hỏa Linh Hiển Uy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_907_Hung_Hồn_Ngưng_Tụ.json",
+    "chapter_name": "Chương 907: Hung Hồn Ngưng Tụ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_908_Nghênh_chiến.json",
+    "chapter_name": "Chương 908: Nghênh chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_909_Thu_phục_hung_hồn.json",
+    "chapter_name": "Chương 909: Thu phục hung hồn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_910_Kích_sát.json",
+    "chapter_name": "Chương 910: Kích sát"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_911_Tái_giao_thủ.json",
+    "chapter_name": "Chương 911: Tái giao thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_912_Hỏa_Liên_Sát.json",
+    "chapter_name": "Chương 912: Hỏa Liên! Sát!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_913_Người_thắng_cuối_cùng.json",
+    "chapter_name": "Chương 913: Người thắng cuối cùng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_914_Tầm_bảo.json",
+    "chapter_name": "Chương 914: Tầm bảo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_915_Thạch_động_khố_phòng.json",
+    "chapter_name": "Chương 915: Thạch động khố phòng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_916_Thiên_yêu_khôi.json",
+    "chapter_name": "Chương 916: Thiên yêu khôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_917_Dưỡng_Hồn_Tiên.json",
+    "chapter_name": "Chương 917: Dưỡng Hồn Tiên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_918_Ách_Nan_Độc_Thể_bùng_phát_sớm.json",
+    "chapter_name": "Chương 918: Ách Nan Độc Thể bùng phát sớm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_919_Phong_ấn.json",
+    "chapter_name": "Chương 919: Phong ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_920_Luyện_hóa_hung_hồn.json",
+    "chapter_name": "Chương 920: Luyện hóa hung hồn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_921_Luyện_chế_Thiên_Yêu_Khôi.json",
+    "chapter_name": "Chương 921: Luyện chế Thiên Yêu Khôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_922_Rèn_luyện.json",
+    "chapter_name": "Chương 922: Rèn luyện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_923_Luyện_chế_thành_công.json",
+    "chapter_name": "Chương 923: Luyện chế thành công"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_924_Đại_động_tĩnh.json",
+    "chapter_name": "Chương 924: Đại động tĩnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_925_Luyện_chế_thiên_hồ_dung_huyết_đan.json",
+    "chapter_name": "Chương 925: Luyện chế thiên hồ dung huyết đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_926_Uy_áp_trong_huyết_mạch.json",
+    "chapter_name": "Chương 926: Uy áp trong huyết mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_927_Đan_thành.json",
+    "chapter_name": "Chương 927: Đan thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_928_Đan_Lôi.json",
+    "chapter_name": "Chương 928: Đan Lôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_929_Sức_mạnh_của_Địa_Yêu_Khôi.json",
+    "chapter_name": "Chương 929: Sức mạnh của Địa Yêu Khôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_930_Tái_đột_phá.json",
+    "chapter_name": "Chương 930: Tái đột phá"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_931_Ly_khai.json",
+    "chapter_name": "Chương 931: Ly khai!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_932_Nhất_Điện_Nhất_Tháp_Nhị_Tông_Tam_Cốc_Tứ_Phương_Các.json",
+    "chapter_name": "Chương 932: Nhất Điện Nhất Tháp, Nhị Tông, Tam Cốc, Tứ Phương Các"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_933_Bế_Quan.json",
+    "chapter_name": "Chương 933: Bế Quan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_934_Hồng_y_thiếu_nữ.json",
+    "chapter_name": "Chương 934: Hồng y thiếu nữ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_935_Lục_giai.json",
+    "chapter_name": "Chương 935: Lục giai!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_936_Chữa_trị.json",
+    "chapter_name": "Chương 936: Chữa trị"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_937_Không_Gian_Phong_Bạo.json",
+    "chapter_name": "Chương 937: Không Gian Phong Bạo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_938_Thông_đạo_kinh_hồn.json",
+    "chapter_name": "Chương 938: Thông đạo kinh hồn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_939_Hàn_Trùng.json",
+    "chapter_name": "Chương 939: Hàn Trùng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_940_Hàn_gia_Hàn_Tuyết.json",
+    "chapter_name": "Chương 940: Hàn gia - Hàn Tuyết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_941_Yêu_Xà_Hạ_Mãng.json",
+    "chapter_name": "Chương 941: Yêu Xà Hạ Mãng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_942_Vạn_Xà_Hạp.json",
+    "chapter_name": "Chương 942: Vạn Xà Hạp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_943_Thần_bí_cường_giả.json",
+    "chapter_name": "Chương 943: Thần bí cường giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_944_Không_Gian_Chi_Lực.json",
+    "chapter_name": "Chương 944: Không Gian Chi Lực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_945_Hồng_Gia.json",
+    "chapter_name": "Chương 945: Hồng Gia"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_946_Ra_Tay.json",
+    "chapter_name": "Chương 946: Ra Tay"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_947_Thiên_Bắc_Thành.json",
+    "chapter_name": "Chương 947: Thiên Bắc Thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_948_Người_quen.json",
+    "chapter_name": "Chương 948: Người quen"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_949_Thử.json",
+    "chapter_name": "Chương 949: Thử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_950_Cửu_Chuyển_Phong_Du_Bộ.json",
+    "chapter_name": "Chương 950: Cửu Chuyển Phong Du Bộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_951_Chư_Kiền.json",
+    "chapter_name": "Chương 951: Chư Kiền"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_952_Nơi_giam_giữ_Dược_Lão.json",
+    "chapter_name": "Chương 952: Nơi giam giữ Dược Lão"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_953_Thiên_Thạch_Đài.json",
+    "chapter_name": "Chương 953: Thiên Thạch Đài"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_954_Giao_thủ.json",
+    "chapter_name": "Chương 954: Giao thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_955_Lôi_Thần_Hàng_Lâm.json",
+    "chapter_name": "Chương 955: Lôi Thần Hàng Lâm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_956_Diệt_Lôi_Chùy.json",
+    "chapter_name": "Chương 956: Diệt Lôi Chùy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_957_Biến_cố.json",
+    "chapter_name": "Chương 957: Biến cố"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_958_Không_đủ_tư_cách.json",
+    "chapter_name": "Chương 958: Không đủ tư cách"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_959_Yêu_Khôi_hiện_thân.json",
+    "chapter_name": "Chương 959: Yêu Khôi hiện thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_960_Hồng_gia_vây_giết.json",
+    "chapter_name": "Chương 960: Hồng gia vây giết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_961_Sát_phạt_quyết_đoán.json",
+    "chapter_name": "Chương 961: Sát phạt quyết đoán"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_962_Hành_động_điên_cuồng.json",
+    "chapter_name": "Chương 962: Hành động điên cuồng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_963_Tam_Thiên_Lôi_Huyễn_Thân.json",
+    "chapter_name": "Chương 963: Tam Thiên Lôi Huyễn Thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_964_Tàn_quyển.json",
+    "chapter_name": "Chương 964: Tàn quyển"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_965_Khí_thế_ngập_trời.json",
+    "chapter_name": "Chương 965: Khí thế ngập trời"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_966_Đánh_chết_Trầm_Vân.json",
+    "chapter_name": "Chương 966: Đánh chết Trầm Vân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_967_Đấu_Tông_cường_giả_tự_bạo.json",
+    "chapter_name": "Chương 967: Đấu Tông cường giả tự bạo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_968_Tê_Phượng_Sơn.json",
+    "chapter_name": "Chương 968: Tê Phượng Sơn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_969_Cửu_Tinh_Đấu_Hoàng.json",
+    "chapter_name": "Chương 969: Cửu Tinh Đấu Hoàng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_970_Long_đàm_hổ_huyệt.json",
+    "chapter_name": "Chương 970: Long đàm hổ huyệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_971_Cửu_Thiên_Lôi_Ngục_Trận.json",
+    "chapter_name": "Chương 971: Cửu Thiên Lôi Ngục Trận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_972_Lôi_Thần_Chi_Nộ.json",
+    "chapter_name": "Chương 972: Lôi Thần Chi Nộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_973_Uy_Lực_Của_Hỏa_Liên.json",
+    "chapter_name": "Chương 973: Uy Lực Của Hỏa Liên!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_974_Giết_Chết_Hồng_Thiên_Khiếu.json",
+    "chapter_name": "Chương 974: Giết Chết Hồng Thiên Khiếu!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_975_Linh_hồn_tàn_ấn.json",
+    "chapter_name": "Chương 975: Linh hồn tàn ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_976_Thiên_Sơn_Huyết_Đàm.json",
+    "chapter_name": "Chương 976: Thiên Sơn Huyết Đàm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_977_Thiên_Lôi_Tử.json",
+    "chapter_name": "Chương 977: Thiên Lôi Tử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_978_Đuổi_giết.json",
+    "chapter_name": "Chương 978: Đuổi giết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_979_Phá_giải.json",
+    "chapter_name": "Chương 979: Phá giải"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_980_Rừng_rậm_khổ_tu.json",
+    "chapter_name": "Chương 980: Rừng rậm khổ tu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_981_Thương_Lang_Vương_thất_cấp.json",
+    "chapter_name": "Chương 981: Thương Lang Vương thất cấp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_982_Ma_Thú_Giới_Tam_đại_gia_tộc.json",
+    "chapter_name": "Chương 982: Ma Thú Giới Tam đại gia tộc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_983_Rèn_luyện_phân_thân.json",
+    "chapter_name": "Chương 983: Rèn luyện phân thân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_984_Đến_Thiên_Mục_Sơn.json",
+    "chapter_name": "Chương 984: Đến Thiên Mục Sơn!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_985_Phượng_Tiểu_Thư.json",
+    "chapter_name": "Chương 985: Phượng Tiểu Thư!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_986_Lần_Đầu_Giao_Thủ.json",
+    "chapter_name": "Chương 986: Lần Đầu Giao Thủ!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_987_Nam_tử_áo_đen.json",
+    "chapter_name": "Chương 987: Nam tử áo đen"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_988_Gặp_lại_cố_nhân.json",
+    "chapter_name": "Chương 988: Gặp lại cố nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_989_Gặp_lại_Nạp_Lan_Yên_Nhiên.json",
+    "chapter_name": "Chương 989: Gặp lại Nạp Lan Yên Nhiên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_990_Vương_Trần.json",
+    "chapter_name": "Chương 990: Vương Trần"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_991_Mê_trận.json",
+    "chapter_name": "Chương 991: Mê trận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_992_Khởi_đích_huyết_án.json",
+    "chapter_name": "Chương 992: Khởi đích huyết án"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_993_Thiên_Sơn_Đài.json",
+    "chapter_name": "Chương 993: Thiên Sơn Đài"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_994_Thử_Triều_Âm_Ba_Trận.json",
+    "chapter_name": "Chương 994: Thử Triều Âm Ba Trận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_995_Sấm_Quan.json",
+    "chapter_name": "Chương 995: Sấm Quan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_996_Mộ_Thanh_Loan.json",
+    "chapter_name": "Chương 996: Mộ Thanh Loan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_997_Sóng_âm_chạm_nhau.json",
+    "chapter_name": "Chương 997: Sóng âm chạm nhau"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_998_Hướng_đi_của_Phong_Tôn_Giả.json",
+    "chapter_name": "Chương 998: Hướng đi của Phong Tôn Giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_999_Giao_dịch.json",
+    "chapter_name": "Chương 999: Giao dịch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1000_Dưới_Đáy_Huyết_Đàm.json",
+    "chapter_name": "Chương 1000: Dưới Đáy Huyết Đàm"
   }
 ]
