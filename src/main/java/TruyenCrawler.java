@@ -113,7 +113,7 @@ public class TruyenCrawler {
             storyData.put("genres", genresString);
 
             boolean skipCrawl = false;
-            if ("Full".equalsIgnoreCase(status)) {
+            // if ("Full".equalsIgnoreCase(status)) {
                 // Lấy trang cuối cùng
                 Element lastPageElement = doc.select("li a[title~=Cuối]").first();
                 if (lastPageElement != null) {
@@ -139,7 +139,7 @@ public class TruyenCrawler {
                         }
                     }
                 }
-            }
+            // }
 
             if (!skipCrawl) {
                 List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
