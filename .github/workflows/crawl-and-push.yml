@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+    # Điều này cho phép workflow có thể được kích hoạt thông qua API
 
 jobs:
   build:
@@ -56,7 +58,7 @@ jobs:
           git commit -m 'Update truyen.json'
           git push
 
-      - name: Trigger Next Workflow
+      - name: Trigger Self
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
