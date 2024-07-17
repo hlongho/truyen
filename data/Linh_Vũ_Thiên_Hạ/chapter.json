@@ -398,5 +398,405 @@
   {
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_100_Tiểu_Long_ra_tay.json",
     "chapter_name": "Chương 100: Tiểu Long ra tay"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_101_Có_động_thiên_khác.json",
+    "chapter_name": "Chương 101: Có động thiên khác"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_102_Cơ_duyên_trong_động_1.json",
+    "chapter_name": "Chương 102: Cơ duyên trong động (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_103_Cơ_duyên_trong_động_2.json",
+    "chapter_name": "Chương 103: Cơ duyên trong động (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_104_Tuyệt_học_Thiên_Linh_1.json",
+    "chapter_name": "Chương 104: Tuyệt học Thiên Linh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_105_Tuyệt_học_Thiên_Linh_2.json",
+    "chapter_name": "Chương 105: Tuyệt học Thiên Linh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_106_Linh_kỹ_bá_đạo_1.json",
+    "chapter_name": "Chương 106: Linh kỹ bá đạo (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_107_Linh_kỹ_bá_đạo_2.json",
+    "chapter_name": "Chương 107: Linh kỹ bá đạo (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_108_Linh_kỹ_bá_đạo_3.json",
+    "chapter_name": "Chương 108: Linh kỹ bá đạo (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_109_Cản_đường_ăn_cướp_1.json",
+    "chapter_name": "Chương 109: Cản đường ăn cướp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_110_Cản_đường_ăn_cướp_2.json",
+    "chapter_name": "Chương 110: Cản đường ăn cướp (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_111_Vây_công_yêu_thú_1.json",
+    "chapter_name": "Chương 111: Vây công yêu thú (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_112_Vây_công_yêu_thú_2.json",
+    "chapter_name": "Chương 112: Vây công yêu thú (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_113_Ngự_Thú_Ấn_Quyết_1.json",
+    "chapter_name": "Chương 113: Ngự Thú Ấn Quyết (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_114_Ngự_Thú_Ấn_Quyết_2.json",
+    "chapter_name": "Chương 114: Ngự Thú Ấn Quyết (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_115_Lam_Linh_cường_hãn_1.json",
+    "chapter_name": "Chương 115: Lam Linh cường hãn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_116_Lam_Linh_cường_hãn_2.json",
+    "chapter_name": "Chương 116: Lam Linh cường hãn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_117_Trên_Vân_Dương_Tông_1.json",
+    "chapter_name": "Chương 117: Trên Vân Dương Tông (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_118_Trên_Vân_Dương_Tông_2.json",
+    "chapter_name": "Chương 118: Trên Vân Dương Tông (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_119_Trên_Vân_Dương_Tông_3.json",
+    "chapter_name": "Chương 119: Trên Vân Dương Tông (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_120_Hồng_nhan_họa_thủy_1.json",
+    "chapter_name": "Chương 120: Hồng nhan họa thủy (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_121_Hồng_nhan_họa_thủy_2.json",
+    "chapter_name": "Chương 121: Hồng nhan họa thủy (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_122_Đia_điêm_bao_tang_1.json",
+    "chapter_name": "Chương 122: Địa điểm bảo tàng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_123_Đia_điêm_bao_tang_2.json",
+    "chapter_name": "Chương 123: Địa điểm bảo tàng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_124_Đia_điêm_bao_tang_3.json",
+    "chapter_name": "Chương 124: Địa điểm bảo tàng (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_125_Tranh_đoạt_bao_vật_1.json",
+    "chapter_name": "Chương 125: Tranh đoạt bảo vật (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_126_Tranh_đoạt_bao_vật_2.json",
+    "chapter_name": "Chương 126: Tranh đoạt bảo vật (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_127_Bị_nữ_nhân_ám_toán_1.json",
+    "chapter_name": "Chương 127: Bị nữ nhân ám toán (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_128_Bị_nữ_nhân_ám_toán_2.json",
+    "chapter_name": "Chương 128: Bị nữ nhân ám toán (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_129_Ma_luyên_trong_sơn_mạch_1.json",
+    "chapter_name": "Chương 129: Ma luyện trong sơn mạch (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_130_Ma_luyên_trong_sơn_mạch_2.json",
+    "chapter_name": "Chương 130: Ma luyện trong sơn mạch (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_131_Ma_luyên_trong_sơn_mạch_3.json",
+    "chapter_name": "Chương 131: Ma luyện trong sơn mạch (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_132_Nộ_hải_cuồng_khiếu_1.json",
+    "chapter_name": "Chương 132: Nộ hải cuồng khiếu (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_133_Nộ_hải_cuồng_khiếu_2.json",
+    "chapter_name": "Chương 133: Nộ hải cuồng khiếu (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_134_Gặp_ám_toán_1.json",
+    "chapter_name": "Chương 134: Gặp ám toán (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_135_Gặp_ám_toán_2.json",
+    "chapter_name": "Chương 135: Gặp ám toán (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_136_Trả_thù_huyết_tinh_1.json",
+    "chapter_name": "Chương 136: Trả thù huyết tinh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_137_Trả_thù_huyết_tinh_2.json",
+    "chapter_name": "Chương 137: Trả thù huyết tinh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_138_Trả_thù_huyết_tinh_3.json",
+    "chapter_name": "Chương 138: Trả thù huyết tinh (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_139_Lưc_lương_đôt_pha_1.json",
+    "chapter_name": "Chương 139: Lực lượng đột phá (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_140_Lưc_lương_đôt_pha_2.json",
+    "chapter_name": "Chương 140: Lực lượng đột phá (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_141_Rơi_vào_vây_công_1.json",
+    "chapter_name": "Chương 141: Rơi vào vây công (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_142_Rơi_vào_vây_công_2.json",
+    "chapter_name": "Chương 142: Rơi vào vây công (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_143_Cô_nương_nóng_bỏng_1.json",
+    "chapter_name": "Chương 143: Cô nương nóng bỏng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_144_Cô_nương_nóng_bỏng_2.json",
+    "chapter_name": "Chương 144: Cô nương nóng bỏng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_145_Ngươi_xui_xẻo_1.json",
+    "chapter_name": "Chương 145: Ngươi xui xẻo (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_146_Ngươi_xui_xẻo_2.json",
+    "chapter_name": "Chương 146: Ngươi xui xẻo (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_147_Ngươi_xui_xẻo_3.json",
+    "chapter_name": "Chương 147: Ngươi xui xẻo (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_148_Cắn_nuốt_Vũ_Sư_1.json",
+    "chapter_name": "Chương 148: Cắn nuốt Vũ Sư (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_149_Cắn_nuốt_Vũ_Sư_2.json",
+    "chapter_name": "Chương 149: Cắn nuốt Vũ Sư (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_150_Mỹ_nữ_ra_khỏi_nước_1.json",
+    "chapter_name": "Chương 150: Mỹ nữ ra khỏi nước (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_151_Mỹ_nữ_ra_khỏi_nước_2.json",
+    "chapter_name": "Chương 151: Mỹ nữ ra khỏi nước (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_152_Lạt_thủ_tồi_thảo_1.json",
+    "chapter_name": "Chương 152: Lạt thủ tồi thảo (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_153_Lạt_thủ_tồi_thảo_2.json",
+    "chapter_name": "Chương 153: Lạt thủ tồi thảo (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_154_Lại_vào_miệng_cọp_1.json",
+    "chapter_name": "Chương 154: Lại vào miệng cọp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_155_Lại_vào_miệng_cọp_2.json",
+    "chapter_name": "Chương 155: Lại vào miệng cọp (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_156_Đan_dược_ngũ_phẩm_1.json",
+    "chapter_name": "Chương 156: Đan dược ngũ phẩm (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_157_Đan_dược_ngũ_phẩm_2.json",
+    "chapter_name": "Chương 157: Đan dược ngũ phẩm (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_158_Đi_Cổ_vực_1.json",
+    "chapter_name": "Chương 158: Đi Cổ vực (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_159_Đi_Cổ_vực_2.json",
+    "chapter_name": "Chương 159: Đi Cổ vực (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_160_Ai_không_đi_lớn_1.json",
+    "chapter_name": "Chương 160: Ai không ‘đi lớn’? (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_161_Ai_không_đi_lớn_2.json",
+    "chapter_name": "Chương 161: Ai không ‘đi lớn’? (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_162_Ai_không_đi_lớn_3.json",
+    "chapter_name": "Chương 162: Ai không ‘đi lớn’? (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_163_Thạch_viên_yêu_vương_1.json",
+    "chapter_name": "Chương 163: Thạch viên yêu vương (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_164_Thạch_viên_yêu_vương_2.json",
+    "chapter_name": "Chương 164: Thạch viên yêu vương (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_165_Số_khổ_1.json",
+    "chapter_name": "Chương 165: Số khổ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_166_Số_khổ_2.json",
+    "chapter_name": "Chương 166: Số khổ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_167_Hắn_lại_là_nữ_1.json",
+    "chapter_name": "Chương 167: Hắn lại là nữ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_168_Hắn_lại_là_nữ_2.json",
+    "chapter_name": "Chương 168: Hắn lại là nữ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_169_Quyết_sờ_ngươi_1.json",
+    "chapter_name": "Chương 169: Quyết sờ ngươi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_170_Quyết_sờ_ngươi_2.json",
+    "chapter_name": "Chương 170: Quyết sờ ngươi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_171_Chưởng_môn_ấn_phù_1.json",
+    "chapter_name": "Chương 171: Chưởng môn ấn phù (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_172_Chưởng_môn_ấn_phù_2.json",
+    "chapter_name": "Chương 172: Chưởng môn ấn phù (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_173_Chớp_mắt_giết_chết.json",
+    "chapter_name": "Chương 173: Chớp mắt giết chết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_174_Ra_tay_cứu_người.json",
+    "chapter_name": "Chương 174: Ra tay cứu người"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_175_Vào_phi_linh_môn_1.json",
+    "chapter_name": "Chương 175: Vào phi linh môn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_176_Vào_phi_linh_môn_2.json",
+    "chapter_name": "Chương 176: Vào phi linh môn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_177_Ba_vị_trưởng_lão.json",
+    "chapter_name": "Chương 177: Ba vị trưởng lão"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_178_Dây_vào_rắc_rối.json",
+    "chapter_name": "Chương 178: Dây vào rắc rối"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_179_Đơn_độc_khiêu_chiến_Vũ_Sư.json",
+    "chapter_name": "Chương 179: Đơn độc khiêu chiến Vũ Sư"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_180_Làm_thịt_nó_1.json",
+    "chapter_name": "Chương 180: Làm thịt nó (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_181_Làm_thịt_nó_2.json",
+    "chapter_name": "Chương 181: Làm thịt nó (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_182_Bóng_đen_mật_mưu.json",
+    "chapter_name": "Chương 182: Bóng đen mật mưu"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_183_Bị_đánh_lén_trong_sơn_cốc.json",
+    "chapter_name": "Chương 183: Bị đánh lén trong sơn cốc"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_184_Xem_coi_ai_chết.json",
+    "chapter_name": "Chương 184: Xem coi ai chết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_185_Bế_quan_tu_luyện_1.json",
+    "chapter_name": "Chương 185: Bế quan tu luyện (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_186_Bế_quan_tu_luyện_2.json",
+    "chapter_name": "Chương 186: Bế quan tu luyện (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_187_Đau_nhức_cháy_người.json",
+    "chapter_name": "Chương 187: Đau nhức cháy người"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_188_Bách_luyện_thành_ấn.json",
+    "chapter_name": "Chương 188: Bách luyện thành ấn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_189_Khôi_lỗi_Lang_Nhân.json",
+    "chapter_name": "Chương 189: Khôi lỗi Lang Nhân"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_190_Đề_cử_chưởng_môn_1.json",
+    "chapter_name": "Chương 190: Đề cử chưởng môn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_191_Đề_cử_chưởng_môn_2.json",
+    "chapter_name": "Chương 191: Đề cử chưởng môn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_192_Vinh_đăng_chưởng_môn.json",
+    "chapter_name": "Chương 192: Vinh đăng chưởng môn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_193_Bí_mật_trong_môn.json",
+    "chapter_name": "Chương 193: Bí mật trong môn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_194_Chợ_ngầm.json",
+    "chapter_name": "Chương 194: Chợ ngầm"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_195_Vưu_vật_nhà_ai_1.json",
+    "chapter_name": "Chương 195: Vưu vật nhà ai (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_196_Vưu_vật_nhà_ai_2.json",
+    "chapter_name": "Chương 196: Vưu vật nhà ai (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_197_Thiên_Sí_Tuyết_Sư.json",
+    "chapter_name": "Chương 197: Thiên Sí Tuyết Sư"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_198_Gặp_yêu_trong_sơn_cốc.json",
+    "chapter_name": "Chương 198: Gặp yêu trong sơn cốc"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_199_Khí_tức_giao_phong.json",
+    "chapter_name": "Chương 199: Khí tức giao phong"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_200_Bày_huyết_hồn_ấn_1.json",
+    "chapter_name": "Chương 200: Bày huyết hồn ấn (1)"
   }
 ]
