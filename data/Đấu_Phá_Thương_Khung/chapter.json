@@ -4598,5 +4598,605 @@
   {
     "path": "data/Đấu_Phá_Thương_Khung/Chương_1150_Đan_hội_bắt_đầu.json",
     "chapter_name": "Chương 1150: Đan hội bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1151_Hai_cửa_ải.json",
+    "chapter_name": "Chương 1151: Hai cửa ải"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1152_Vượt_qua.json",
+    "chapter_name": "Chương 1152: Vượt qua!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1153_Lối_vào_Đan_giới.json",
+    "chapter_name": "Chương 1153: Lối vào Đan giới"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1154_Hoàng_tinh_ngàn_năm.json",
+    "chapter_name": "Chương 1154: Hoàng tinh ngàn năm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1155_Địa_tâm_hồn_tủy.json",
+    "chapter_name": "Chương 1155: Địa tâm hồn tủy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1156_Hoàng_Y_lão_giả.json",
+    "chapter_name": "Chương 1156: Hoàng Y lão giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1157_Vạn_Dược_sơn_mạch.json",
+    "chapter_name": "Chương 1157: Vạn Dược sơn mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1158_Tái_ngộ.json",
+    "chapter_name": "Chương 1158: Tái ngộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1159_Động_thủ.json",
+    "chapter_name": "Chương 1159: Động thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1160_Hạ_sát_thủ.json",
+    "chapter_name": "Chương 1160: Hạ sát thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1161_Rời_đi.json",
+    "chapter_name": "Chương 1161: Rời đi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1162_Đan_Linh_tương.json",
+    "chapter_name": "Chương 1162: Đan Linh tương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1163_Hạ_dược.json",
+    "chapter_name": "Chương 1163: Hạ dược"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1164_Giết_chóc.json",
+    "chapter_name": "Chương 1164: Giết chóc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1165_Liên_thủ.json",
+    "chapter_name": "Chương 1165: Liên thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1166_Chạy_trốn.json",
+    "chapter_name": "Chương 1166: Chạy trốn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1167_Tử_Nghiên_Hùng_Chiến.json",
+    "chapter_name": "Chương 1167: Tử Nghiên, Hùng Chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1168_Đẩy_lui.json",
+    "chapter_name": "Chương 1168: Đẩy lui"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1169_Quảng_trường_dược_liệu.json",
+    "chapter_name": "Chương 1169: Quảng trường dược liệu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1170_Điều_hòa_Địa_Tâm_Hồn_Tủy.json",
+    "chapter_name": "Chương 1170: Điều hòa Địa Tâm Hồn Tủy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1171_Tiến_vào_bát_phẩm.json",
+    "chapter_name": "Chương 1171: Tiến vào bát phẩm!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1172_Tiến_về_lối_ra.json",
+    "chapter_name": "Chương 1172: Tiến về lối ra"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1173_Rời_khỏi_Đan_giới.json",
+    "chapter_name": "Chương 1173: Rời khỏi Đan giới!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1174_Trọng_điểm.json",
+    "chapter_name": "Chương 1174: Trọng điểm!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1175_Huyết_Yêu_Diễm_Hỏa.json",
+    "chapter_name": "Chương 1175: Huyết Yêu Diễm Hỏa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1176_Bắt_đầu_luyện_đan.json",
+    "chapter_name": "Chương 1176: Bắt đầu luyện đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1177_Đan_lôi_liên_hiện.json",
+    "chapter_name": "Chương 1177: Đan lôi liên hiện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1178_Cường_giả_xuất_hiện.json",
+    "chapter_name": "Chương 1178: Cường giả xuất hiện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1179_Bát_phẩm_đan_dược.json",
+    "chapter_name": "Chương 1179: Bát phẩm đan dược"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1180_Tam_sắc_Đan_Lôi.json",
+    "chapter_name": "Chương 1180: Tam sắc Đan Lôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1181_Phóng_tay_cược_một_lần.json",
+    "chapter_name": "Chương 1181: Phóng tay cược một lần!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1182_Thăng_Linh_Đan_Pháp.json",
+    "chapter_name": "Chương 1182: Thăng Linh Đan Pháp!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1183_Ngũ_sắc_đan_lôi.json",
+    "chapter_name": "Chương 1183: Ngũ sắc đan lôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1184_Nghênh_đón_Đan_Lôi.json",
+    "chapter_name": "Chương 1184: Nghênh đón Đan Lôi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1185_Tiến_hóa_Thiên_Yêu_Khôi.json",
+    "chapter_name": "Chương 1185: Tiến hóa! Thiên Yêu Khôi!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1186_Đan_Hội_kết_thúc.json",
+    "chapter_name": "Chương 1186: Đan Hội kết thúc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1187_Huyền_Y_Thiên_Lôi_Tử.json",
+    "chapter_name": "Chương 1187: Huyền Y, Thiên Lôi Tử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1188_Nhị_nữ_đối_mặt.json",
+    "chapter_name": "Chương 1188: Nhị nữ đối mặt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1189_Long_Ấn.json",
+    "chapter_name": "Chương 1189: Long Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1190_Tinh_Vực_Tam_Thiên_Diễm_Viêm_Hỏa.json",
+    "chapter_name": "Chương 1190: Tinh Vực, Tam Thiên Diễm Viêm Hỏa!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1191_Sự_hung_hãn_của_Tam_Thiên_Diễm_Viêm_Hỏa.json",
+    "chapter_name": "Chương 1191: Sự hung hãn của Tam Thiên Diễm Viêm Hỏa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1192_Phá_vỡ_Phong_Ấn.json",
+    "chapter_name": "Chương 1192: Phá vỡ Phong Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1193_Viện_thủ_của_Hồn_Điện.json",
+    "chapter_name": "Chương 1193: Viện thủ của Hồn Điện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1194_Kịch_chiến.json",
+    "chapter_name": "Chương 1194: Kịch chiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1195_Động_thủ.json",
+    "chapter_name": "Chương 1195: Động thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1196_Phù_Ấn.json",
+    "chapter_name": "Chương 1196: Phù Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1197_Linh_hồn_giao_chiến.json",
+    "chapter_name": "Chương 1197: Linh hồn giao chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1198_Phát_nổ.json",
+    "chapter_name": "Chương 1198: Phát nổ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1199_Giằng_co.json",
+    "chapter_name": "Chương 1199: Giằng co"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1200_Hàng_phục.json",
+    "chapter_name": "Chương 1200: Hàng phục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1201_Thôn_phệ_dị_hỏa_cửu_tinh_Đấu_Tông.json",
+    "chapter_name": "Chương 1201: Thôn phệ dị hỏa, cửu tinh Đấu Tông!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1202_Hỏa_Lôi_Tử.json",
+    "chapter_name": "Chương 1202: Hỏa Lôi Tử"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1203_Tin_tức.json",
+    "chapter_name": "Chương 1203: Tin tức"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1204_Phục_Linh_Thanh_Đan.json",
+    "chapter_name": "Chương 1204: Phục Linh Thanh Đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1205_Dịch_Trần.json",
+    "chapter_name": "Chương 1205: Dịch Trần"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1206_Giao_thủ.json",
+    "chapter_name": "Chương 1206: Giao thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1207_Cám_ơn_đã_nhường.json",
+    "chapter_name": "Chương 1207: Cám ơn đã nhường"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1208_Đã_có_tin_tức.json",
+    "chapter_name": "Chương 1208: Đã có tin tức"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1209_Vong_Hồn_sơn_mạch.json",
+    "chapter_name": "Chương 1209: Vong Hồn sơn mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1210_Vạn_sự_sẵn_sàng.json",
+    "chapter_name": "Chương 1210: Vạn sự sẵn sàng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1211_Nghĩ_cách_cứu_viện_Hành_động.json",
+    "chapter_name": "Chương 1211: Nghĩ cách cứu viện - Hành động!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1212_Phệ_Thạch_Ma_Kiến.json",
+    "chapter_name": "Chương 1212: Phệ Thạch Ma Kiến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1213_Cự_điện.json",
+    "chapter_name": "Chương 1213: Cự điện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1214_Đại_chiến.json",
+    "chapter_name": "Chương 1214: Đại chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1215_Giết_chóc.json",
+    "chapter_name": "Chương 1215: Giết chóc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1216_Trích_Tinh_lão_quỷ.json",
+    "chapter_name": "Chương 1216: Trích Tinh lão quỷ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1217_Trêu_chọc.json",
+    "chapter_name": "Chương 1217: Trêu chọc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1218_Thế_cục.json",
+    "chapter_name": "Chương 1218: Thế cục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1219_Cầm_chân.json",
+    "chapter_name": "Chương 1219: Cầm chân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1220_Lưỡng_Bại_Câu_Thương.json",
+    "chapter_name": "Chương 1220: Lưỡng Bại Câu Thương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1221_Thần_Bí_Nhân.json",
+    "chapter_name": "Chương 1221: Thần Bí Nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1222_Trọng_thương.json",
+    "chapter_name": "Chương 1222: Trọng thương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1223_Tinh_Vẫn_Các.json",
+    "chapter_name": "Chương 1223: Tinh Vẫn Các"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1224_Thời_gian_trôi_nhanh.json",
+    "chapter_name": "Chương 1224: Thời gian trôi nhanh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1225_Thăng_cấp_Đấu_Tôn.json",
+    "chapter_name": "Chương 1225: Thăng cấp Đấu Tôn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1226_Thức_tỉnh.json",
+    "chapter_name": "Chương 1226: Thức tỉnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1227_Di_tích_viễn_cổ.json",
+    "chapter_name": "Chương 1227: Di tích viễn cổ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1228_Thú_Vực.json",
+    "chapter_name": "Chương 1228: Thú Vực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1229_Hài_Cốt_sơn_mạch.json",
+    "chapter_name": "Chương 1229: Hài Cốt sơn mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1230_Tìm_Kiếm.json",
+    "chapter_name": "Chương 1230: Tìm Kiếm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1231_Lăn_xuống_đi.json",
+    "chapter_name": "Chương 1231: Lăn xuống đi!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1232_Không_gian_phong_ấn.json",
+    "chapter_name": "Chương 1232: Không gian phong ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1233_Hắc_y_nhân.json",
+    "chapter_name": "Chương 1233: Hắc y nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1234_Di_tích_mở_cửa.json",
+    "chapter_name": "Chương 1234: Di tích mở cửa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1235_Kẻ_thù_xuất_hiện.json",
+    "chapter_name": "Chương 1235: Kẻ thù xuất hiện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1236_Tiến_vào_di_tích.json",
+    "chapter_name": "Chương 1236: Tiến vào di tích"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1237_Hỏa_đạo_huyền_cơ.json",
+    "chapter_name": "Chương 1237: Hỏa đạo huyền cơ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1238_Thu_phục.json",
+    "chapter_name": "Chương 1238: Thu phục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1239_Khu_rừng_từ_thời_viễn_cổ.json",
+    "chapter_name": "Chương 1239: Khu rừng từ thời viễn cổ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1240_Hồn_Anh_Yêu_Thụ.json",
+    "chapter_name": "Chương 1240: Hồn Anh Yêu Thụ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1241_Long_Hoàng_Căn_Nguyên_Quả.json",
+    "chapter_name": "Chương 1241: Long Hoàng Căn Nguyên Quả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1242_Hoàng_Hiên.json",
+    "chapter_name": "Chương 1242: Hoàng Hiên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1243_Thiên_Hoàng_tổ_hồn.json",
+    "chapter_name": "Chương 1243: Thiên Hoàng tổ hồn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1244_Tổ_hồn_so_đấu.json",
+    "chapter_name": "Chương 1244: Tổ hồn so đấu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1245_Đan_dược_từ_thời_viễn_cổ.json",
+    "chapter_name": "Chương 1245: Đan dược từ thời viễn cổ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1246_Dụ_dỗ_Đan_thú.json",
+    "chapter_name": "Chương 1246: Dụ dỗ Đan thú"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1247_Thanh_Lân.json",
+    "chapter_name": "Chương 1247: Thanh Lân?"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1248_Gặp_lại_cố_nhân.json",
+    "chapter_name": "Chương 1248: Gặp lại cố nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1249_Sự_kinh_khủng_của_Bích_Xà_Tam_Hoa_Đồng.json",
+    "chapter_name": "Chương 1249: Sự kinh khủng của Bích Xà Tam Hoa Đồng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1250_Chủ_điện.json",
+    "chapter_name": "Chương 1250: Chủ điện"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1251_Phong_ấn_biến_mất.json",
+    "chapter_name": "Chương 1251: Phong ấn biến mất"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1252_Hỗn_loạn.json",
+    "chapter_name": "Chương 1252: Hỗn loạn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1253_Tranh_đoạt_quyển_trục.json",
+    "chapter_name": "Chương 1253: Tranh đoạt quyển trục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1254_Giết_chóc.json",
+    "chapter_name": "Chương 1254: Giết chóc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1255_Hài_cốt_của_Đấu_Thánh.json",
+    "chapter_name": "Chương 1255: Hài cốt của Đấu Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1256_Hợp_tác.json",
+    "chapter_name": "Chương 1256: Hợp tác"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1257_Đại_Thiên_Tạo_Hóa_Chưởng.json",
+    "chapter_name": "Chương 1257: Đại Thiên Tạo Hóa Chưởng!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1258_Tranh_đoạt_hài_cốt.json",
+    "chapter_name": "Chương 1258: Tranh đoạt hài cốt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1259_Thu_thập_hài_cốt.json",
+    "chapter_name": "Chương 1259: Thu thập hài cốt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1260_Nhúng_tay.json",
+    "chapter_name": "Chương 1260: Nhúng tay"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1261_Tứ_ấn_chồng_lớp.json",
+    "chapter_name": "Chương 1261: Tứ ấn chồng lớp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1262_Huyết_chiến.json",
+    "chapter_name": "Chương 1262: Huyết chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1263_Viện_thủ.json",
+    "chapter_name": "Chương 1263: Viện thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1264_Hắc_Kình.json",
+    "chapter_name": "Chương 1264: Hắc Kình"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1265_Phân_biệt.json",
+    "chapter_name": "Chương 1265: Phân biệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1266_Hình_xăm_thần_bí.json",
+    "chapter_name": "Chương 1266: Hình xăm thần bí"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1267_Viễn_Cổ_Thiên_Xà.json",
+    "chapter_name": "Chương 1267: Viễn Cổ Thiên Xà"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1268_Thiên_Giai_đấu_kỹ.json",
+    "chapter_name": "Chương 1268: Thiên Giai đấu kỹ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1269_Tạo_Hóa_Thánh_Giả.json",
+    "chapter_name": "Chương 1269: Tạo Hóa Thánh Giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1270_Thân_thể_hoàn_mỹ.json",
+    "chapter_name": "Chương 1270: Thân thể hoàn mỹ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1271_Cốt_tủy_Đấu_Thánh.json",
+    "chapter_name": "Chương 1271: Cốt tủy Đấu Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1272_Cường_địch_đã_đến.json",
+    "chapter_name": "Chương 1272: Cường địch đã đến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1273_Hỗn_chiến.json",
+    "chapter_name": "Chương 1273: Hỗn chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1274_Thi_triển.json",
+    "chapter_name": "Chương 1274: Thi triển"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1275_Kết_cục_thê_thảm.json",
+    "chapter_name": "Chương 1275: Kết cục thê thảm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1276_Đại_triển_thần_uy.json",
+    "chapter_name": "Chương 1276: Đại triển thần uy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1277_Bán_Thánh.json",
+    "chapter_name": "Chương 1277: Bán Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1278_Dược_Thánh.json",
+    "chapter_name": "Chương 1278: Dược Thánh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1279_Cố_nhân_tái_kiến.json",
+    "chapter_name": "Chương 1279: Cố nhân tái kiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1280_Gặp_Gỡ.json",
+    "chapter_name": "Chương 1280: Gặp Gỡ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1281_Đi_Tới_Hoa_Tông.json",
+    "chapter_name": "Chương 1281: Đi Tới Hoa Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1282_Gặp_Lại_Vân_Vận.json",
+    "chapter_name": "Chương 1282: Gặp Lại Vân Vận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1283_Yêu_Hoa_tà_quân.json",
+    "chapter_name": "Chương 1283: Yêu Hoa tà quân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1284_Hóa_Khí_Thiên_Địa.json",
+    "chapter_name": "Chương 1284: Hóa Khí Thiên Địa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1285_Chức_Vị_Tông_Chủ.json",
+    "chapter_name": "Chương 1285: Chức Vị Tông Chủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1286_Luyện_Hóa.json",
+    "chapter_name": "Chương 1286: Luyện Hóa"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1287_Thiên_Địa_Dị_Tượng.json",
+    "chapter_name": "Chương 1287: Thiên Địa Dị Tượng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1288_Chuẩn_Thiên_Giai_Công_Pháp.json",
+    "chapter_name": "Chương 1288: Chuẩn Thiên Giai Công Pháp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1289_Xé_Rách_Phong_Ấn.json",
+    "chapter_name": "Chương 1289: Xé Rách Phong Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1290_Chặn_Đường.json",
+    "chapter_name": "Chương 1290: Chặn Đường"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1291_Chiến_Đấu_Kịch_Liệt.json",
+    "chapter_name": "Chương 1291: Chiến Đấu Kịch Liệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1292_Công_Pháp_Hiển_Uy.json",
+    "chapter_name": "Chương 1292: Công Pháp Hiển Uy"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1293_Lấy_Một_Đấu_Ba.json",
+    "chapter_name": "Chương 1293: Lấy Một Đấu Ba"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1294_Đánh_bay.json",
+    "chapter_name": "Chương 1294: Đánh bay"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1295_Cổ_Long_đảo.json",
+    "chapter_name": "Chương 1295: Cổ Long đảo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1296_Thái_Cổ_Hư_Long_tộc_phân_liệt.json",
+    "chapter_name": "Chương 1296: Thái Cổ Hư Long tộc phân liệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1297_Động_thủ.json",
+    "chapter_name": "Chương 1297: Động thủ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1298_Luyện_hóa_Long_Hoàng_tinh_tầng.json",
+    "chapter_name": "Chương 1298: Luyện hóa Long Hoàng tinh tầng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1299_Hỗn_loạn.json",
+    "chapter_name": "Chương 1299: Hỗn loạn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_1300_Thức_tỉnh.json",
+    "chapter_name": "Chương 1300: Thức tỉnh"
   }
 ]

@@ -4598,5 +4598,605 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_1153_Xích_Hỏa_Châm.json",
     "chapter_name": "Chương 1153: Xích Hỏa Châm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1154_Nữ_hoàng_phát_uy.json",
+    "chapter_name": "Chương 1154: Nữ hoàng phát uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1155_Sát_thủ_hiện_thân.json",
+    "chapter_name": "Chương 1155: Sát thủ hiện thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1156_Xong_đời_Thượng.json",
+    "chapter_name": "Chương 1156: Xong đời (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1157_Xong_đời_Hạ.json",
+    "chapter_name": "Chương 1157: Xong đời (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1158_May_mắn.json",
+    "chapter_name": "Chương 1158: May mắn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1159_Lại_thấy_tháp.json",
+    "chapter_name": "Chương 1159: Lại thấy tháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1160_Cái_bóng.json",
+    "chapter_name": "Chương 1160: Cái bóng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1161_Quỷ_Ảnh_hiện_thân.json",
+    "chapter_name": "Chương 1161: Quỷ Ảnh hiện thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1162_Hổ_gác_cổng_Thượng.json",
+    "chapter_name": "Chương 1162: Hổ gác cổng (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1163_Hổ_gác_cổng_Hạ.json",
+    "chapter_name": "Chương 1163: Hổ gác cổng (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1164_Muốn_khen_thưởng_sao.json",
+    "chapter_name": "Chương 1164: Muốn khen thưởng sao?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1165_Đánh_Hạ_Vô_Khuyết.json",
+    "chapter_name": "Chương 1165: Đánh Hạ Vô Khuyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1166_Vô_Địch_Chí_Thánh.json",
+    "chapter_name": "Chương 1166: Vô Địch Chí Thánh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1167_Phá_giải_một_kiếm_Thượng.json",
+    "chapter_name": "Chương 1167: Phá giải một kiếm (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1168_Phá_giải_một_kiếm_Hạ.json",
+    "chapter_name": "Chương 1168: Phá giải một kiếm (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1169_Lấy_làm_gương.json",
+    "chapter_name": "Chương 1169: Lấy làm gương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1170_Đánh_ta.json",
+    "chapter_name": "Chương 1170: Đánh ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1171_Ta_đánh_ngươi.json",
+    "chapter_name": "Chương 1171: Ta đánh ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1172_Cửa_ải_cuối_cùng.json",
+    "chapter_name": "Chương 1172: Cửa ải cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1173_Sinh_đồ_Nhi_cho_bản_tôn.json",
+    "chapter_name": "Chương 1173: Sinh đồ Nhi cho bản tôn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1174_Đối_kháng.json",
+    "chapter_name": "Chương 1174: Đối kháng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1175_Đừng_như_vậy_a_Thượng.json",
+    "chapter_name": "Chương 1175: Đừng như vậy a! (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1176_Đừng_như_vậy_a_Hạ.json",
+    "chapter_name": "Chương 1176: Đừng như vậy a! (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1177_Nguyên_tắc_làm_người.json",
+    "chapter_name": "Chương 1177: Nguyên tắc làm người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1178_Tai_nạn_của_Thiên_Nhân.json",
+    "chapter_name": "Chương 1178: Tai nạn của Thiên Nhân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1179_Về_Hợp_Ninh_Tinh.json",
+    "chapter_name": "Chương 1179: Về Hợp Ninh Tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1180_Xuất_phát_Lẫm_Thiên_Tông.json",
+    "chapter_name": "Chương 1180: Xuất phát Lẫm Thiên Tông"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1181_Sơn_Hà_cực_cảnh.json",
+    "chapter_name": "Chương 1181: Sơn Hà cực cảnh!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1182_Dưới_Lẫm_Thiên_Tông_Thượng.json",
+    "chapter_name": "Chương 1182: Dưới Lẫm Thiên Tông (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1183_Dưới_Lẫm_Thiên_Tông_Hạ.json",
+    "chapter_name": "Chương 1183: Dưới Lẫm Thiên Tông (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1184_Thị_vệ_hung_hăng.json",
+    "chapter_name": "Chương 1184: Thị vệ hung hăng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1185_Lăng_Hàn_ra_tay.json",
+    "chapter_name": "Chương 1185: Lăng Hàn ra tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1186_Một_núi_còn_cao_hơn_một_núi.json",
+    "chapter_name": "Chương 1186: Một núi còn cao hơn một núi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1187_Nói_giết_liền_giết.json",
+    "chapter_name": "Chương 1187: Nói giết liền giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1188_Thần_Nữ_Lô.json",
+    "chapter_name": "Chương 1188: Thần Nữ Lô"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1189_Phỏng_đoán_thần_văn.json",
+    "chapter_name": "Chương 1189: Phỏng đoán thần văn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1190_Trở_thành_đệ_tử_hạt_giống.json",
+    "chapter_name": "Chương 1190: Trở thành đệ tử hạt giống"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1191_Bản_tọa_giúp_ngươi_giải_quyết.json",
+    "chapter_name": "Chương 1191: Bản tọa giúp ngươi giải quyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1192_Con_ruồi_Thượng.json",
+    "chapter_name": "Chương 1192: Con ruồi (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1193_Con_ruồi_Hạ.json",
+    "chapter_name": "Chương 1193: Con ruồi (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1194_Ghen.json",
+    "chapter_name": "Chương 1194: Ghen"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1195_Bí_mật_của_Cửu_Xà.json",
+    "chapter_name": "Chương 1195: Bí mật của Cửu Xà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1196_Cùng_nữ_hoàng_đàm_luận_cảm_tình.json",
+    "chapter_name": "Chương 1196: Cùng nữ hoàng đàm luận cảm tình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1197_Thượng_Cổ_Thiên_Tộc.json",
+    "chapter_name": "Chương 1197: Thượng Cổ Thiên Tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1198_Thiên_kiêu_tụ_hội.json",
+    "chapter_name": "Chương 1198: Thiên kiêu tụ hội"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1199_Thưởng_trà_luận_đạo.json",
+    "chapter_name": "Chương 1199: Thưởng trà luận đạo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1200_Đồ_đệ_ra_trận.json",
+    "chapter_name": "Chương 1200: Đồ đệ ra trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1201_Vũ_Hoàng_vẫn_khí_phách_như_cũ_Thượng.json",
+    "chapter_name": "Chương 1201: Vũ Hoàng vẫn khí phách như cũ (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1202_Vũ_Hoàng_vẫn_khí_phách_như_cũ_Hạ.json",
+    "chapter_name": "Chương 1202: Vũ Hoàng vẫn khí phách như cũ (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1203_Hành_vi_tiểu_nhân.json",
+    "chapter_name": "Chương 1203: Hành vi tiểu nhân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1204_Vương_giả_chi_uy.json",
+    "chapter_name": "Chương 1204: Vương giả chi uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1205_Lăng_Hàn_là_ai.json",
+    "chapter_name": "Chương 1205: Lăng Hàn là ai?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1206_Nhường_ngươi_ba_chiêu.json",
+    "chapter_name": "Chương 1206: Nhường ngươi ba chiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1207_Ngô_sư_đệ.json",
+    "chapter_name": "Chương 1207: Ngô sư đệ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1208_Thủ_đoạn_đều_ra.json",
+    "chapter_name": "Chương 1208: Thủ đoạn đều ra"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1209_Nơi_chốn_áp_chế_Thượng.json",
+    "chapter_name": "Chương 1209: Nơi chốn áp chế (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1210_Nơi_chốn_áp_chế_Hạ.json",
+    "chapter_name": "Chương 1210: Nơi chốn áp chế (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1211_Phá_vỡ_Vương_Triều.json",
+    "chapter_name": "Chương 1211: Phá vỡ Vương Triều"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1212_Dương_Hạo_tới.json",
+    "chapter_name": "Chương 1212: Dương Hạo tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1213_Chiến_đấu_tới_cùng.json",
+    "chapter_name": "Chương 1213: Chiến đấu tới cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1214_Người_yếu_phản_kích.json",
+    "chapter_name": "Chương 1214: Người yếu phản kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1215_Nữ_Hoàng_hộ_phu.json",
+    "chapter_name": "Chương 1215: Nữ Hoàng hộ phu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1216_Đừng_để_con_chó_này_cắn_loạn_nữa.json",
+    "chapter_name": "Chương 1216: Đừng để con chó này cắn loạn nữa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1217_Cốc_Môn.json",
+    "chapter_name": "Chương 1217: Cốc Môn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1218_Không_có_hứng_thú_Thượng.json",
+    "chapter_name": "Chương 1218: Không có hứng thú (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1219_Không_có_hứng_thú_Hạ.json",
+    "chapter_name": "Chương 1219: Không có hứng thú (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1220_Thiện_duyên.json",
+    "chapter_name": "Chương 1220: Thiện duyên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1221_Hù_dọa_ngốc_Hàn_Hỏa.json",
+    "chapter_name": "Chương 1221: Hù dọa ngốc Hàn Hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1222_Đã_quên_cảnh_cáo_lần_trước_sao.json",
+    "chapter_name": "Chương 1222: Đã quên cảnh cáo lần trước sao?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1223_Thương_cảm_Cái_Vịnh_Tư.json",
+    "chapter_name": "Chương 1223: Thương cảm Cái Vịnh Tư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1224_Thiên_Nguyên_Chân_Dịch.json",
+    "chapter_name": "Chương 1224: Thiên Nguyên Chân Dịch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1225_Tử_Vong_Cốc.json",
+    "chapter_name": "Chương 1225: Tử Vong Cốc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1226_Mùi_hoa.json",
+    "chapter_name": "Chương 1226: Mùi hoa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1227_Trùng.json",
+    "chapter_name": "Chương 1227: Trùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1228_Nhân_Uân_Đoạt_Hồn_Hoa_Thượng.json",
+    "chapter_name": "Chương 1228: Nhân Uân Đoạt Hồn Hoa (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1229_Nhân_Uân_Đoạt_Hồn_Hoa_Hạ.json",
+    "chapter_name": "Chương 1229: Nhân Uân Đoạt Hồn Hoa (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1230_Lo_chuyện_bao_đồng.json",
+    "chapter_name": "Chương 1230: Lo chuyện bao đồng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1231_Hợp_tác.json",
+    "chapter_name": "Chương 1231: Hợp tác"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1232_Không_ngại_lão_nương_đồng_thời_đi_chứ.json",
+    "chapter_name": "Chương 1232: Không ngại lão nương đồng thời đi chứ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1233_Chiến_bầy_hổ.json",
+    "chapter_name": "Chương 1233: Chiến bầy hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1234_Mở_đan_thất.json",
+    "chapter_name": "Chương 1234: Mở đan thất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1235_Cuồng_Dã_Huyết_Linh_Đan.json",
+    "chapter_name": "Chương 1235: Cuồng Dã Huyết Linh Đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1236_Gặp_gỡ_bất_ngờ.json",
+    "chapter_name": "Chương 1236: Gặp gỡ bất ngờ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1237_Còn_có_ai_muốn_ngăn_trở_ta_không.json",
+    "chapter_name": "Chương 1237: Còn có ai muốn ngăn trở ta không?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1238_Giết_Sa_Nguyên.json",
+    "chapter_name": "Chương 1238: Giết Sa Nguyên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1239_Hồng_Vũ_Thần_Vương_Thụ.json",
+    "chapter_name": "Chương 1239: Hồng Vũ Thần Vương Thụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1240_Sâm_tinh.json",
+    "chapter_name": "Chương 1240: Sâm tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1241_Bảo_sâm_vô_sỉ.json",
+    "chapter_name": "Chương 1241: Bảo sâm vô sỉ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1242_Thần_dịch_hiện.json",
+    "chapter_name": "Chương 1242: Thần dịch hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1243_Trong_vạn_quân_lấy_thần_dịch.json",
+    "chapter_name": "Chương 1243: Trong vạn quân lấy thần dịch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1244_Ba_giọt.json",
+    "chapter_name": "Chương 1244: Ba giọt!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1245_Giao_thần_dịch_ra_Thượng.json",
+    "chapter_name": "Chương 1245: Giao thần dịch ra (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1246_Giao_thần_dịch_ra_Hạ.json",
+    "chapter_name": "Chương 1246: Giao thần dịch ra (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1247_Tiện_sâm_ra_điều_kiện.json",
+    "chapter_name": "Chương 1247: Tiện sâm ra điều kiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1248_Mười_cái_râu_nhân_sâm.json",
+    "chapter_name": "Chương 1248: Mười cái râu nhân sâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1249_Mở_ra_kho_báu.json",
+    "chapter_name": "Chương 1249: Mở ra kho báu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1250_Bí_pháp_đầy_trời.json",
+    "chapter_name": "Chương 1250: Bí pháp đầy trời"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1251_Đoạt_xá.json",
+    "chapter_name": "Chương 1251: Đoạt xá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1252_Sáu_Vương_giả_liên_thủ.json",
+    "chapter_name": "Chương 1252: Sáu Vương giả liên thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1253_Không_địch_lại.json",
+    "chapter_name": "Chương 1253: Không địch lại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1254_Ngàn_vạn_năm_bố_cục_Thượng.json",
+    "chapter_name": "Chương 1254: Ngàn vạn năm bố cục (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1255_Ngàn_vạn_năm_bố_cục_Hạ.json",
+    "chapter_name": "Chương 1255: Ngàn vạn năm bố cục (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1256_Vũ_Hoàng_không_thấy.json",
+    "chapter_name": "Chương 1256: Vũ Hoàng không thấy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1257_Vu_cáo.json",
+    "chapter_name": "Chương 1257: Vu cáo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1258_Phân_tích.json",
+    "chapter_name": "Chương 1258: Phân tích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1259_Đối_nghịch.json",
+    "chapter_name": "Chương 1259: Đối nghịch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1260_Hoa_Môn_xuất_thủ.json",
+    "chapter_name": "Chương 1260: Hoa Môn xuất thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1261_Trở_mặt.json",
+    "chapter_name": "Chương 1261: Trở mặt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1262_Ngày_đấu_giá.json",
+    "chapter_name": "Chương 1262: Ngày đấu giá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1263_Thất_bại_Thượng.json",
+    "chapter_name": "Chương 1263: Thất bại? (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1264_Thất_bại_Hạ.json",
+    "chapter_name": "Chương 1264: Thất bại? (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1265_Cứng_cỏi_mà_nói.json",
+    "chapter_name": "Chương 1265: Cứng cỏi mà nói"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1266_Độc_thủ_hiện.json",
+    "chapter_name": "Chương 1266: Độc thủ hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1267_Rắn_chuột_một_ổ.json",
+    "chapter_name": "Chương 1267: Rắn chuột một ổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1268_Cho_trẫm_phúc_thẩm.json",
+    "chapter_name": "Chương 1268: Cho trẫm phúc thẩm!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1269_Thượng_Nhân_hiện.json",
+    "chapter_name": "Chương 1269: Thượng Nhân hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1270_Nữu_tới_rồi.json",
+    "chapter_name": "Chương 1270: Nữu tới rồi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1271_Hổ_Nữu_tức_giận_Thượng.json",
+    "chapter_name": "Chương 1271: Hổ Nữu tức giận (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1272_Hổ_Nữu_tức_giận_Hạ.json",
+    "chapter_name": "Chương 1272: Hổ Nữu tức giận (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1273_Xuất_thủ_hộ_đồ.json",
+    "chapter_name": "Chương 1273: Xuất thủ hộ đồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1274_Còn_có_ai_muốn_hại_Lăng_Hàn_của_Nữu.json",
+    "chapter_name": "Chương 1274: Còn có ai muốn hại Lăng Hàn của Nữu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1275_Diệt_khẩu.json",
+    "chapter_name": "Chương 1275: Diệt khẩu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1276_Tiên_Vực.json",
+    "chapter_name": "Chương 1276: Tiên Vực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1277_Vị_trí_của_Ngũ_Tông.json",
+    "chapter_name": "Chương 1277: Vị trí của Ngũ Tông"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1278_Dung_hợp_lực_lượng_Lôi_đình.json",
+    "chapter_name": "Chương 1278: Dung hợp lực lượng Lôi đình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1279_Tổ_địa_Cửu_Xà_Thượng.json",
+    "chapter_name": "Chương 1279: Tổ địa Cửu Xà (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1280_Tổ_địa_Cửu_Xà_Hạ.json",
+    "chapter_name": "Chương 1280: Tổ địa Cửu Xà (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1281_Tỷ_thí_Đan_Thuật.json",
+    "chapter_name": "Chương 1281: Tỷ thí Đan Thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1282_Ta_đến.json",
+    "chapter_name": "Chương 1282: Ta đến!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1283_Bò_ra_con_đường_này.json",
+    "chapter_name": "Chương 1283: Bò ra con đường này"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1284_So_luyện_Lôi_Bạo_Đan.json",
+    "chapter_name": "Chương 1284: So luyện Lôi Bạo Đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1285_Đan_Sư_cấp_bảy_giá_lâm.json",
+    "chapter_name": "Chương 1285: Đan Sư cấp bảy giá lâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1286_Lại_thắng_Thượng.json",
+    "chapter_name": "Chương 1286: Lại thắng (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1287_Lại_thắng_Hạ.json",
+    "chapter_name": "Chương 1287: Lại thắng (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1288_Chơi_Thiên_Kiếp.json",
+    "chapter_name": "Chương 1288: Chơi Thiên Kiếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1289_Cấp_tám.json",
+    "chapter_name": "Chương 1289: Cấp tám!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1290_Hàn_Tâm_Nghiên.json",
+    "chapter_name": "Chương 1290: Hàn Tâm Nghiên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1291_Viết_chữ_phục.json",
+    "chapter_name": "Chương 1291: Viết chữ phục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1292_Lăng_gia_quả_phụ.json",
+    "chapter_name": "Chương 1292: Lăng gia quả phụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1293_Phu_nhân_cho_mời.json",
+    "chapter_name": "Chương 1293: Phu nhân cho mời"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1294_Lại_thấy_yêu_tinh.json",
+    "chapter_name": "Chương 1294: Lại thấy yêu tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1295_Khách_khanh_trưởng_lão.json",
+    "chapter_name": "Chương 1295: Khách khanh trưởng lão"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1296_Người_ngọc_nơi_nào_Thượng.json",
+    "chapter_name": "Chương 1296: Người ngọc nơi nào? (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1297_Người_ngọc_nơi_nào_Hạ.json",
+    "chapter_name": "Chương 1297: Người ngọc nơi nào? (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1298_Thiên_Phượng_Thần_Nữ_hạ_lạc.json",
+    "chapter_name": "Chương 1298: Thiên Phượng Thần Nữ hạ lạc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1299_Chiến_trường_hai_giới.json",
+    "chapter_name": "Chương 1299: Chiến trường hai giới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1300_Thỏ_gia.json",
+    "chapter_name": "Chương 1300: Thỏ gia?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1301_Giới_Linh_Thạch.json",
+    "chapter_name": "Chương 1301: Giới Linh Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1302_Kẻ_cướp_bóc.json",
+    "chapter_name": "Chương 1302: Kẻ cướp bóc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1303_Tàng_bảo_đồ.json",
+    "chapter_name": "Chương 1303: Tàng bảo đồ"
   }
 ]
