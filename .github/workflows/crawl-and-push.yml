@@ -2,7 +2,7 @@ name: Crawl and Push
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
+    - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
   push:
     branches:
       - main
