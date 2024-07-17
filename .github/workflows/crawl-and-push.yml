@@ -45,3 +45,12 @@ jobs:
           git add data
           git commit -m 'Update truyen.json'
           git push
+
+      - name: Trigger Next Workflow
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          curl -X POST -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+          https://api.github.com/repos/hlongho/truyen/actions/workflows/crawl-and-push.yml/dispatches \
+          -d '{"ref":"main"}'
