@@ -3998,5 +3998,605 @@
   {
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1001_Đánh_chết_lục_soái.json",
     "chapter_name": "Chương 1001: Đánh chết lục soái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1002_Một_đường_cuồng_trốn.json",
+    "chapter_name": "Chương 1002: Một đường cuồng trốn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1003_Bị_thương_nặng.json",
+    "chapter_name": "Chương 1003: Bị thương nặng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1004_Mượn_lực_lượng.json",
+    "chapter_name": "Chương 1004: Mượn lực lượng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1005_Đánh_chết_võ_vương_1.json",
+    "chapter_name": "Chương 1005: Đánh chết võ vương (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1006_Đánh_chết_võ_vương_2.json",
+    "chapter_name": "Chương 1006: Đánh chết võ vương (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1007_Uống_địa_linh_dịch.json",
+    "chapter_name": "Chương 1007: Uống địa linh dịch"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1008_Điên_cuồng_đột_phá.json",
+    "chapter_name": "Chương 1008: Điên cuồng đột phá!"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1009_Thiếu_gia_nhà_ngươi.json",
+    "chapter_name": "Chương 1009: Thiếu gia nhà ngươi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1010_Trên_đường_đi_gặp_phiền_toái.json",
+    "chapter_name": "Chương 1010: Trên đường đi gặp phiền toái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1011_Hắn_là_võ_soái.json",
+    "chapter_name": "Chương 1011: Hắn là võ soái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1012_Một_ít_tin_tức.json",
+    "chapter_name": "Chương 1012: Một ít tin tức"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1013_Rời_khỏi_Lưu_gia_1.json",
+    "chapter_name": "Chương 1013: Rời khỏi Lưu gia (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1014_Rời_khỏi_Lưu_gia_2.json",
+    "chapter_name": "Chương 1014: Rời khỏi Lưu gia (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1015_Ngũ_Hợp_cương_trận.json",
+    "chapter_name": "Chương 1015: Ngũ Hợp cương trận"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1016_Liên_thủ_phá_trận.json",
+    "chapter_name": "Chương 1016: Liên thủ phá trận"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1017_Giao_chiến_kịch_liệt.json",
+    "chapter_name": "Chương 1017: Giao chiến kịch liệt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1018_Thu_lấy_hồn_anh.json",
+    "chapter_name": "Chương 1018: Thu lấy hồn anh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1019_Bản_tính_thổ_phỉ.json",
+    "chapter_name": "Chương 1019: Bản tính thổ phỉ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1020_Già_gian_giảo_trẻ_xảo_quyệt.json",
+    "chapter_name": "Chương 1020: Già gian giảo, trẻ xảo quyệt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1021_Của_cải_trong_mật_thất.json",
+    "chapter_name": "Chương 1021: Của cải trong mật thất"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1022_Người_của_Lưu_gia_tới_1.json",
+    "chapter_name": "Chương 1022: Người của Lưu gia tới (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1023_Người_của_Lưu_gia_tới_2.json",
+    "chapter_name": "Chương 1023: Người của Lưu gia tới (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1024_Tại_sao_là_ngươi.json",
+    "chapter_name": "Chương 1024: Tại sao là ngươi?"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1025_Lại_lĩnh_ngộ.json",
+    "chapter_name": "Chương 1025: Lại lĩnh ngộ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1026_Trong_Vân_Dương_tông.json",
+    "chapter_name": "Chương 1026: Trong Vân Dương tông"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1027_Võ_soái_tứ_trọng.json",
+    "chapter_name": "Chương 1027: Võ soái tứ trọng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1028_Tiểu_Long_hóa_rồng.json",
+    "chapter_name": "Chương 1028: Tiểu Long hóa rồng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1029_Tiểu_Long_biến_hóa.json",
+    "chapter_name": "Chương 1029: Tiểu Long biến hóa"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1030_Trong_Thiên_Tinh_thành.json",
+    "chapter_name": "Chương 1030: Trong Thiên Tinh thành"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1031_Gặp_lại_người_quen.json",
+    "chapter_name": "Chương 1031: Gặp lại người quen"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1032_Bắt_đầu_động_thủ.json",
+    "chapter_name": "Chương 1032: Bắt đầu động thủ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1033_Đánh_chết_linh_soái.json",
+    "chapter_name": "Chương 1033: Đánh chết linh soái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1034_Hồn_Linh_khải_giáp.json",
+    "chapter_name": "Chương 1034: Hồn Linh khải giáp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1035_Ngươi_muốn_chết.json",
+    "chapter_name": "Chương 1035: Ngươi muốn chết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1036_Lão_giả_tóc_xanh.json",
+    "chapter_name": "Chương 1036: Lão giả tóc xanh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1037_Huyền_cấp_cao_giai.json",
+    "chapter_name": "Chương 1037: Huyền cấp cao giai"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1038_Thiên_tinh_tông_1.json",
+    "chapter_name": "Chương 1038: Thiên tinh tông (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1039_Thiên_tinh_tông_2.json",
+    "chapter_name": "Chương 1039: Thiên tinh tông (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1040_Phệ_hồn_ác_anh_1.json",
+    "chapter_name": "Chương 1040: Phệ hồn ác anh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1041_Phệ_hồn_ác_anh_2.json",
+    "chapter_name": "Chương 1041: Phệ hồn ác anh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1042_Mọi_người_thương_nghị_1.json",
+    "chapter_name": "Chương 1042: Mọi người thương nghị (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1043_Mọi_người_thương_nghị_2.json",
+    "chapter_name": "Chương 1043: Mọi người thương nghị (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1044_Sở_hữu_khải_giáp.json",
+    "chapter_name": "Chương 1044: Sở hữu khải giáp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1045_Nam_thúc_triệu_kiến_1.json",
+    "chapter_name": "Chương 1045: Nam thúc triệu kiến (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1046_Nam_thúc_triệu_kiến_2.json",
+    "chapter_name": "Chương 1046: Nam thúc triệu kiến (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1047_Các_hạ_là_ai_1.json",
+    "chapter_name": "Chương 1047: Các hạ là ai? (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1048_Các_hạ_là_ai_2.json",
+    "chapter_name": "Chương 1048: Các hạ là ai? (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1049_Đình_viện_xuân_quang.json",
+    "chapter_name": "Chương 1049: Đình viện xuân quang"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1050_Cuối_cùng_cũng_tới_rồi_1.json",
+    "chapter_name": "Chương 1050: Cuối cùng cũng tới rồi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1051_Cuối_cùng_cũng_tới_rồi_2.json",
+    "chapter_name": "Chương 1051: Cuối cùng cũng tới rồi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1052_Một_đám_tạp_mao.json",
+    "chapter_name": "Chương 1052: Một đám tạp mao"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1053_Cương_phong_ngự_trận_1.json",
+    "chapter_name": "Chương 1053: Cương phong ngự trận (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1054_Cương_phong_ngự_trận_2.json",
+    "chapter_name": "Chương 1054: Cương phong ngự trận (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1055_Mu_nôi_no_1.json",
+    "chapter_name": "Chương 1055: Mụ nội nó (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1056_Mu_nôi_no_2.json",
+    "chapter_name": "Chương 1056: Mụ nội nó (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1057_Diêm_Băng_song_suât.json",
+    "chapter_name": "Chương 1057: Diễm Băng song suất"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1058_Con_bai_chưa_lât.json",
+    "chapter_name": "Chương 1058: Con bài chưa lật"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1059_Viêm_Hoa_thu_anh_1.json",
+    "chapter_name": "Chương 1059: Viêm Hỏa thú ảnh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1060_Viêm_Hoa_thu_anh_2.json",
+    "chapter_name": "Chương 1060: Viêm Hỏa thú ảnh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1061_Lương_bai_câu_thương.json",
+    "chapter_name": "Chương 1061: Lưỡng bại câu thương"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1062_Đông_lao_thuc_đây_1.json",
+    "chapter_name": "Chương 1062: Đông lão thúc đẩy (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1063_Đông_lao_thuc_đây_2.json",
+    "chapter_name": "Chương 1063: Đông lão thúc đẩy (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1064_Diêt_môt_trôn_môt.json",
+    "chapter_name": "Chương 1064: Diệt một, trốn một"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1065_Cương_gia_thân_bi_1.json",
+    "chapter_name": "Chương 1065: Cường giả thần bí (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1066_Cương_gia_thân_bi_2.json",
+    "chapter_name": "Chương 1066: Cường giả thần bí (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1067_Băng_Môc_vương_gia.json",
+    "chapter_name": "Chương 1067: Băng Mộc vương giả"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1068_Ta_la_Vu_Tôn_1.json",
+    "chapter_name": "Chương 1068: Ta là Vũ Tôn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1069_Ta_la_Vu_Tôn_2.json",
+    "chapter_name": "Chương 1069: Ta là Vũ Tôn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1070_Nam_thuc_hiên_thân.json",
+    "chapter_name": "Chương 1070: Nam thúc hiện thân"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1071_Bât_ngơ_1.json",
+    "chapter_name": "Chương 1071: Bất ngờ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1072_Bât_ngơ_2.json",
+    "chapter_name": "Chương 1072: Bất ngờ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1073_Toan_bô_chưa_thương.json",
+    "chapter_name": "Chương 1073: Toàn bộ chữa thương"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1074_Hai_ngươi_noi_chuyên_1.json",
+    "chapter_name": "Chương 1074: Hai người nói chuyện (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1075_Hai_ngươi_noi_chuyên_2.json",
+    "chapter_name": "Chương 1075: Hai người nói chuyện (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1076_Điên_cuông_đôt_pha.json",
+    "chapter_name": "Chương 1076: Điên cuồng đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1077_Ta_phi_1.json",
+    "chapter_name": "Chương 1077: Ta phi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1078_Ta_phi_2.json",
+    "chapter_name": "Chương 1078: Ta phi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1079_Thâp_đai_cương_gia_1.json",
+    "chapter_name": "Chương 1079: Thập đại cường giả (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1080_Thâp_đai_cương_gia_2.json",
+    "chapter_name": "Chương 1080: Thập đại cường giả (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1081_Nam_thuc_đê_nghi.json",
+    "chapter_name": "Chương 1081: Nam thúc đề nghị"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1082_Đi_vê_thanh_Cư_Giang_1.json",
+    "chapter_name": "Chương 1082: Đi về thành Cự Giang (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1083_Đi_vê_thanh_Cư_Giang_2.json",
+    "chapter_name": "Chương 1083: Đi về thành Cự Giang (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1084_Chia_khoa_bi_canh.json",
+    "chapter_name": "Chương 1084: Chìa khóa bí cảnh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1085_Thiên_Đia_cac_1.json",
+    "chapter_name": "Chương 1085: Thiên Địa các (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1086_Thiên_Đia_cac_2.json",
+    "chapter_name": "Chương 1086: Thiên Địa các (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1087_Dương_qua_mac_sâu.json",
+    "chapter_name": "Chương 1087: Dương quá, mạc sầu"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1088_Khôi_lôi_thât_giai_1.json",
+    "chapter_name": "Chương 1088: Khôi lỗi thất giai (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1089_Khôi_lôi_thât_giai_2.json",
+    "chapter_name": "Chương 1089: Khôi lỗi thất giai (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1090_Chup_Vu_Linh_khi.json",
+    "chapter_name": "Chương 1090: Chụp Vũ Linh khí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1091_Rôt_cuôc_cung_đên_1.json",
+    "chapter_name": "Chương 1091: Rốt cuộc cũng đến (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1092_Rôt_cuôc_cung_đên_2.json",
+    "chapter_name": "Chương 1092: Rốt cuộc cũng đến (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1093_Cương_han_ra_tay.json",
+    "chapter_name": "Chương 1093: Cường hãn ra tay"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1094_Lao_Sơn_nhi_lao_1.json",
+    "chapter_name": "Chương 1094: Lao Sơn nhị lão (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1095_Lao_Sơn_nhi_lao_2.json",
+    "chapter_name": "Chương 1095: Lao Sơn nhị lão (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1096_Lai_lich_Bi_canh.json",
+    "chapter_name": "Chương 1096: Lai lịch Bí cảnh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1097_Găp_lai_ngươi_quen_1.json",
+    "chapter_name": "Chương 1097: Gặp lại người quen (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1098_Găp_lai_ngươi_quen_2.json",
+    "chapter_name": "Chương 1098: Gặp lại người quen (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1099_Thi_huyêt_linh_phong_1.json",
+    "chapter_name": "Chương 1099: Thị huyết linh phong (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1100_Thi_huyêt_linh_phong_2.json",
+    "chapter_name": "Chương 1100: Thị huyết linh phong (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1101_Chữa_thương_như_vậy.json",
+    "chapter_name": "Chương 1101: Chữa thương như vậy"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1102_Ba_người_tương_đối_1.json",
+    "chapter_name": "Chương 1102: Ba người tương đối (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1103_Ba_người_tương_đối_2.json",
+    "chapter_name": "Chương 1103: Ba người tương đối (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1104_Nghiên_cứu_khôi_lỗi.json",
+    "chapter_name": "Chương 1104: Nghiên cứu khôi lỗi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1105_Năng_lượng_trong_não_hải_1.json",
+    "chapter_name": "Chương 1105: Năng lượng trong não hải (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1106_Năng_lượng_trong_não_hải_2.json",
+    "chapter_name": "Chương 1106: Năng lượng trong não hải (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1107_Sửa_chữa_khôi_lỗi_1.json",
+    "chapter_name": "Chương 1107: Sửa chữa khôi lỗi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1108_Sửa_chữa_khôi_lỗi_2.json",
+    "chapter_name": "Chương 1108: Sửa chữa khôi lỗi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1109_Đến_vạn_hạp_quật.json",
+    "chapter_name": "Chương 1109: Đến vạn hạp quật"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1110_Đoạn_hồn_khoái_kiếm_1.json",
+    "chapter_name": "Chương 1110: Đoạn hồn khoái kiếm (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1111_Đoạn_hồn_khoái_kiếm_2.json",
+    "chapter_name": "Chương 1111: Đoạn hồn khoái kiếm (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1112_Vạn_thiên_linh_phong_1.json",
+    "chapter_name": "Chương 1112: Vạn thiên linh phong (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1113_Vạn_thiên_linh_phong_2.json",
+    "chapter_name": "Chương 1113: Vạn thiên linh phong (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1114_Tổ_của_Mẫu_Hoàng_Phong.json",
+    "chapter_name": "Chương 1114: Tổ của Mẫu Hoàng Phong"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1115_Cường_giả_đông_đảo_1.json",
+    "chapter_name": "Chương 1115: Cường giả đông đảo (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1116_Cường_giả_đông_đảo_2.json",
+    "chapter_name": "Chương 1116: Cường giả đông đảo (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1117_Linh_Phong_lục_giai_1.json",
+    "chapter_name": "Chương 1117: Linh Phong lục giai (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1118_Linh_Phong_lục_giai_2.json",
+    "chapter_name": "Chương 1118: Linh Phong lục giai (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1119_Mẫu_Hoàng_Phong_xuất_hiện.json",
+    "chapter_name": "Chương 1119: Mẫu Hoàng Phong xuất hiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1120_Thực_lực_của_Mẫu_Hoàng_Phong_1.json",
+    "chapter_name": "Chương 1120: Thực lực của Mẫu Hoàng Phong (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1121_Thực_lực_của_Mẫu_Hoàng_Phong_2.json",
+    "chapter_name": "Chương 1121: Thực lực của Mẫu Hoàng Phong (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1122_Hồn_anh_thất_giai.json",
+    "chapter_name": "Chương 1122: Hồn anh thất giai"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1123_Đông_lão_quyết_đoán_1.json",
+    "chapter_name": "Chương 1123: Đông lão quyết đoán (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1124_Đông_lão_quyết_đoán_2.json",
+    "chapter_name": "Chương 1124: Đông lão quyết đoán (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1125_Lần_nữa_đột_phá.json",
+    "chapter_name": "Chương 1125: Lần nữa đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1126_Đối_chiến_cửu_Suất_1.json",
+    "chapter_name": "Chương 1126: Đối chiến cửu Suất (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1127_Đối_chiến_cửu_Suất_2.json",
+    "chapter_name": "Chương 1127: Đối chiến cửu Suất (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1128_Chà_đạp_cửu_suất.json",
+    "chapter_name": "Chương 1128: Chà đạp cửu suất"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1129_Chà_đạp_Vũ_Suất_cửu_trọng_1.json",
+    "chapter_name": "Chương 1129: Chà đạp Vũ Suất cửu trọng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1130_Chà_đạp_Vũ_Suất_cửu_trọng_2.json",
+    "chapter_name": "Chương 1130: Chà đạp Vũ Suất cửu trọng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1131_Linh_Vũ_song_quái.json",
+    "chapter_name": "Chương 1131: Linh Vũ song quái"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1132_Đệ_tử_Thiên_các_1.json",
+    "chapter_name": "Chương 1132: Đệ tử Thiên các (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1133_Đệ_tử_Thiên_các_2.json",
+    "chapter_name": "Chương 1133: Đệ tử Thiên các (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1134_Bị_vây_quanh_1.json",
+    "chapter_name": "Chương 1134: Bị vây quanh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1135_Bị_vây_quanh_2.json",
+    "chapter_name": "Chương 1135: Bị vây quanh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1136_Ngọa_hổ_tàng_long.json",
+    "chapter_name": "Chương 1136: Ngọa hổ tàng long"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1137_Bị_vây_công_1.json",
+    "chapter_name": "Chương 1137: Bị vây công (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1138_Bị_vây_công_2.json",
+    "chapter_name": "Chương 1138: Bị vây công (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1139_Bị_vây_công_3.json",
+    "chapter_name": "Chương 1139: Bị vây công (3)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1140_Mạo_hiểm_thử_một_lần_1.json",
+    "chapter_name": "Chương 1140: Mạo hiểm thử một lần (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1141_Mạo_hiểm_thử_một_lần_2.json",
+    "chapter_name": "Chương 1141: Mạo hiểm thử một lần (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1142_Cường_hãn_phản_công.json",
+    "chapter_name": "Chương 1142: Cường hãn phản công"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1143_Nghênh_ngang_rời_đi_1.json",
+    "chapter_name": "Chương 1143: Nghênh ngang rời đi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1144_Nghênh_ngang_rời_đi_2.json",
+    "chapter_name": "Chương 1144: Nghênh ngang rời đi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1145_Kiểm_tra_thu_hoạch_1.json",
+    "chapter_name": "Chương 1145: Kiểm tra thu hoạch (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1146_Kiểm_tra_thu_hoạch_21.json",
+    "chapter_name": "Chương 1146: Kiểm tra thu hoạch (21)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1147_Đêm_khuya_giết_người.json",
+    "chapter_name": "Chương 1147: Đêm khuya giết người"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1148_Linh_lực_lại_đột_phá_1.json",
+    "chapter_name": "Chương 1148: Linh lực lại đột phá (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1149_Linh_lực_lại_đột_phá_2.json",
+    "chapter_name": "Chương 1149: Linh lực lại đột phá (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1150_Điên_cuồng_trả_thù.json",
+    "chapter_name": "Chương 1150: Điên cuồng trả thù"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_1151_Điệu_hổ_ly_sơn_1.json",
+    "chapter_name": "Chương 1151: Điệu hổ ly sơn (1)"
   }
 ]
