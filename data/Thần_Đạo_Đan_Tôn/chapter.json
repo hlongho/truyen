@@ -5798,5 +5798,605 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_1455_Kết_thúc_sớm_công_việc.json",
     "chapter_name": "Chương 1455: Kết thúc sớm công việc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1456_Đại_sư.json",
+    "chapter_name": "Chương 1456: Đại sư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1457_Cái_thông_minh_kém_này_là_ai_a.json",
+    "chapter_name": "Chương 1457: Cái thông minh kém này là ai a?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1458_Tử_Ngọc_Cửu_Đạo_Thụ.json",
+    "chapter_name": "Chương 1458: Tử Ngọc Cửu Đạo Thụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1459_Tiên_Kiếm_thông_linh.json",
+    "chapter_name": "Chương 1459: Tiên Kiếm thông linh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1460_Thái_Dương_Cung.json",
+    "chapter_name": "Chương 1460: Thái Dương Cung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1461_Dạy_ngươi_một_chiêu_kiếm_bí_pháp_Thượng.json",
+    "chapter_name": "Chương 1461: Dạy ngươi một chiêu kiếm bí pháp (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1462_Dạy_ngươi_một_chiêu_kiếm_bí_pháp_Hạ.json",
+    "chapter_name": "Chương 1462: Dạy ngươi một chiêu kiếm bí pháp (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1463_Thánh_Vương_đại_dược.json",
+    "chapter_name": "Chương 1463: Thánh Vương đại dược"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1464_Cổ_Đạo_Thanh_Liên.json",
+    "chapter_name": "Chương 1464: Cổ Đạo Thanh Liên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1465_Chiến_Lâm_Tử_Hoành.json",
+    "chapter_name": "Chương 1465: Chiến Lâm Tử Hoành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1466_Tự_bạo.json",
+    "chapter_name": "Chương 1466: Tự bạo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1467_Chắp_tay_nhường_cho.json",
+    "chapter_name": "Chương 1467: Chắp tay nhường cho"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1468_Thánh_dược_vừa_giống_nhau_lại_không_giống_nhau.json",
+    "chapter_name": "Chương 1468: Thánh dược vừa giống nhau lại không giống nhau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1469_Ma_Già_La_Chi_Hoa_Thượng.json",
+    "chapter_name": "Chương 1469: Ma Già La Chi Hoa (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1470_Ma_Già_La_Chi_Hoa_Hạ.json",
+    "chapter_name": "Chương 1470: Ma Già La Chi Hoa (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1471_Yêu_thú_Minh_Giới_hiện.json",
+    "chapter_name": "Chương 1471: Yêu thú Minh Giới hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1472_Ngươi_nhìn_thấy_chó_của_ta_sao.json",
+    "chapter_name": "Chương 1472: Ngươi nhìn thấy chó của ta sao?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1473_Lão_giả_da_người_quỷ_dị.json",
+    "chapter_name": "Chương 1473: Lão giả da người quỷ dị"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1474_Phát_điên.json",
+    "chapter_name": "Chương 1474: Phát điên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1475_Tầng_thứ_chín.json",
+    "chapter_name": "Chương 1475: Tầng thứ chín"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1476_Đại_Hắc_Cẩu.json",
+    "chapter_name": "Chương 1476: Đại Hắc Cẩu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1477_Chín_thế_thân.json",
+    "chapter_name": "Chương 1477: Chín thế thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1478_Về_Hợp_Ninh_Tinh_Thượng.json",
+    "chapter_name": "Chương 1478: Về Hợp Ninh Tinh (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1479_Về_Hợp_Ninh_Tinh_Hạ.json",
+    "chapter_name": "Chương 1479: Về Hợp Ninh Tinh (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1480_Dừng_lại_sinh_phong_ba.json",
+    "chapter_name": "Chương 1480: Dừng lại, sinh phong ba"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1481_Vương_Gia_Thập_Nhất_Hổ.json",
+    "chapter_name": "Chương 1481: Vương Gia Thập Nhất Hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1482_Lôi_Động.json",
+    "chapter_name": "Chương 1482: Lôi Động"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1483_Diệt_Sát_Lệnh_chữ_Thiên.json",
+    "chapter_name": "Chương 1483: Diệt Sát Lệnh chữ Thiên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1484_Để_thử_xem.json",
+    "chapter_name": "Chương 1484: Để thử xem"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1485_Gặp_lại_Hướng_Thừa_Duẫn.json",
+    "chapter_name": "Chương 1485: Gặp lại Hướng Thừa Duẫn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1486_Cho_thể_diện_mà_không_cần_Thượng.json",
+    "chapter_name": "Chương 1486: Cho thể diện mà không cần (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1487_Cho_thể_diện_mà_không_cần_Hạ.json",
+    "chapter_name": "Chương 1487: Cho thể diện mà không cần (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1488_Một_quyền_lùi_mười_dăm.json",
+    "chapter_name": "Chương 1488: Một quyền lùi mười dặm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1489_Kinh_ngạc.json",
+    "chapter_name": "Chương 1489: Kinh ngạc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1490_Lại_một_vị_Tinh_Thần_Cảnh.json",
+    "chapter_name": "Chương 1490: Lại một vị Tinh Thần Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1491_Một_kiếm_chém_tới.json",
+    "chapter_name": "Chương 1491: Một kiếm chém tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1492_Bị_ai_đánh.json",
+    "chapter_name": "Chương 1492: Bị ai đánh?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1493_Lại_muốn_gài_bẫy_bổn_tướng_Thượng.json",
+    "chapter_name": "Chương 1493: Lại muốn gài bẫy bổn tướng (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1494_Lại_muốn_gài_bẫy_bổn_tướng_Hạ.json",
+    "chapter_name": "Chương 1494: Lại muốn gài bẫy bổn tướng (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1495_Cố_sự_của_Từ_lão_đầu.json",
+    "chapter_name": "Chương 1495: Cố sự của Từ lão đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1496_Tặng_quan_tài.json",
+    "chapter_name": "Chương 1496: Tặng quan tài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1497_Xâm_lấn_quy_mô_lớn.json",
+    "chapter_name": "Chương 1497: Xâm lấn quy mô lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1498_Thành_phá.json",
+    "chapter_name": "Chương 1498: Thành phá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1499_Phá_vòng_vây_giết_vào.json",
+    "chapter_name": "Chương 1499: Phá vòng vây giết vào"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1500_Kẻ_phản_bội_Thượng.json",
+    "chapter_name": "Chương 1500: Kẻ phản bội (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1501_Kẻ_phản_bội_Hạ.json",
+    "chapter_name": "Chương 1501: Kẻ phản bội (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1502_Giết_không_tha.json",
+    "chapter_name": "Chương 1502: Giết không tha"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1503_Phi_Hỏa_Đan_phát_uy.json",
+    "chapter_name": "Chương 1503: Phi Hỏa Đan phát uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1504_Buộc_ta_phóng_đại_chiêu.json",
+    "chapter_name": "Chương 1504: Buộc ta phóng đại chiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1505_Toàn_bi_lưa_rôi.json",
+    "chapter_name": "Chương 1505: Toàn bị lừa rồi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1506_Sức_khôi_phục_khủng_bố_Thượng.json",
+    "chapter_name": "Chương 1506: Sức khôi phục khủng bố (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1507_Sức_khôi_phục_khủng_bố_Hạ.json",
+    "chapter_name": "Chương 1507: Sức khôi phục khủng bố (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1508_Ly_gián.json",
+    "chapter_name": "Chương 1508: Ly gián"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1509_Nhập_ma_thì_đã_làm_sao.json",
+    "chapter_name": "Chương 1509: Nhập ma thì đã làm sao"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1510_Dục_hỏa_trùng_sinh_cuối_cùng_cũng_có_cường_viện.json",
+    "chapter_name": "Chương 1510: Dục hỏa trùng sinh, cuối cùng cũng có cường viện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1511_Cùng_đường_bí_lối.json",
+    "chapter_name": "Chương 1511: Cùng đường bí lối"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1512_Trẫm_không_thể_nhẫn_nhịn.json",
+    "chapter_name": "Chương 1512: Trẫm không thể nhẫn nhịn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1513_Nữ_hoàng_tức_giận_Thượng.json",
+    "chapter_name": "Chương 1513: Nữ hoàng tức giận (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1514_Nữ_hoàng_tức_giận_Hạ.json",
+    "chapter_name": "Chương 1514: Nữ hoàng tức giận (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1515_Nữ_hoàng_cung_có_thể_nhu_tình_như_nước.json",
+    "chapter_name": "Chương 1515: Nữ hoàng cũng có thể nhu tình như nước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1516_Năm_mươi_năm.json",
+    "chapter_name": "Chương 1516: Năm mươi năm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1517_Trở_về.json",
+    "chapter_name": "Chương 1517: Trở về"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1518_Vỏ_quýt_dày_có_móng_tay_nhọn.json",
+    "chapter_name": "Chương 1518: Vỏ quýt dày có móng tay nhọn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1519_Có_biến_hóa.json",
+    "chapter_name": "Chương 1519: Có biến hóa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1520_Mộc_Đồ_Tinh.json",
+    "chapter_name": "Chương 1520: Mộc Đồ Tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1521_Dưới_Tử_Phong_Sơn_Thượng.json",
+    "chapter_name": "Chương 1521: Dưới Tử Phong Sơn (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1522_Dưới_Tử_Phong_Sơn_Hạ.json",
+    "chapter_name": "Chương 1522: Dưới Tử Phong Sơn (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1523_Vương_giả_không_chú_trọng.json",
+    "chapter_name": "Chương 1523: Vương giả không chú trọng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1524_Khổ_chủ_đến_rồi.json",
+    "chapter_name": "Chương 1524: Khổ chủ đến rồi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1525_Tất_cả_đều_là_Vương_giả.json",
+    "chapter_name": "Chương 1525: Tất cả đều là Vương giả!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1526_Tinh_vực_nhỏ.json",
+    "chapter_name": "Chương 1526: Tinh vực nhỏ?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1527_Vương_giả_đối_đầu_Thượng.json",
+    "chapter_name": "Chương 1527: Vương giả đối đầu (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1528_Vương_giả_đối_đầu_Hạ.json",
+    "chapter_name": "Chương 1528: Vương giả đối đầu (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1529_Hoan_toan_thât_bai.json",
+    "chapter_name": "Chương 1529: Hoàn toàn thất bại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1530_Vương_giả_cấp_ba.json",
+    "chapter_name": "Chương 1530: Vương giả cấp ba!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1531_Ăn_tảng_đá.json",
+    "chapter_name": "Chương 1531: Ăn tảng đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1532_Duyên_sâu_cùng_Cổ_Đạo_Nhất.json",
+    "chapter_name": "Chương 1532: Duyên sâu cùng Cổ Đạo Nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1533_Vợ_chồng_hài_hòa_êm_ái.json",
+    "chapter_name": "Chương 1533: Vợ chồng hài hòa êm ái"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1534_Cơ_duyên_của_Trầm_Uyên_Cốc_Thượng.json",
+    "chapter_name": "Chương 1534: Cơ duyên của Trầm Uyên Cốc (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1535_Cơ_duyên_của_Trầm_Uyên_Cốc_Hạ.json",
+    "chapter_name": "Chương 1535: Cơ duyên của Trầm Uyên Cốc (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1536_Vương_giả_tập_hợp.json",
+    "chapter_name": "Chương 1536: Vương giả tập hợp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1537_Đại_Hắc_Cẩu_siêu_năng_gây_sự.json",
+    "chapter_name": "Chương 1537: Đại Hắc Cẩu siêu năng gây sự"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1538_Chuẩn_Thánh_khí.json",
+    "chapter_name": "Chương 1538: Chuẩn Thánh khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1539_Một_đường_nghiền_ép.json",
+    "chapter_name": "Chương 1539: Một đường nghiền ép"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1540_Chất_vấn.json",
+    "chapter_name": "Chương 1540: Chất vấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1541_Giai_đoạn_thứ_nhất_kết_thúc.json",
+    "chapter_name": "Chương 1541: Giai đoạn thứ nhất kết thúc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1542_Mười_đại_Vương_giả_Thượng.json",
+    "chapter_name": "Chương 1542: Mười đại Vương giả (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1543_Mười_đại_Vương_giả_Hạ.json",
+    "chapter_name": "Chương 1543: Mười đại Vương giả (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1544_Chiến_Cổ_Đạo_Nhất.json",
+    "chapter_name": "Chương 1544: Chiến Cổ Đạo Nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1545_Thiên_Ý_Đao.json",
+    "chapter_name": "Chương 1545: Thiên Ý Đao"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1546_Thần_thông_vô_tận.json",
+    "chapter_name": "Chương 1546: Thần thông vô tận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1547_Đạo_quang.json",
+    "chapter_name": "Chương 1547: Đạo quang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1548_Mười_đời_thần_thông_Thượng.json",
+    "chapter_name": "Chương 1548: Mười đời thần thông (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1549_Mười_đời_thần_thông_Hạ.json",
+    "chapter_name": "Chương 1549: Mười đời thần thông (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1550_Cổ_Đạo_Nhất_nổi_giận.json",
+    "chapter_name": "Chương 1550: Cổ Đạo Nhất nổi giận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1551_Nỗ_lực_cuối_cùng.json",
+    "chapter_name": "Chương 1551: Nỗ lực cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1552_Mượn_sừng_rồng.json",
+    "chapter_name": "Chương 1552: Mượn sừng rồng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1553_Kẹo_hồ_Lô.json",
+    "chapter_name": "Chương 1553: Kẹo hồ Lô"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1554_Bắt_làm_sao.json",
+    "chapter_name": "Chương 1554: Bắt làm sao?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1555_Tạo_hóa_lớn.json",
+    "chapter_name": "Chương 1555: Tạo hóa lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1556_Cửu_Thiên_Hỏa_Thượng.json",
+    "chapter_name": "Chương 1556: Cửu Thiên Hỏa (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1557_Cửu_Thiên_Hỏa_Hạ.json",
+    "chapter_name": "Chương 1557: Cửu Thiên Hỏa (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1558_Song_trọng_thiên_kiếp.json",
+    "chapter_name": "Chương 1558: Song trọng thiên kiếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1559_Tình_thế_chắc_chắn_phải_chết.json",
+    "chapter_name": "Chương 1559: Tình thế chắc chắn phải chết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1560_Trong_tử_cầu_sinh.json",
+    "chapter_name": "Chương 1560: Trong tử cầu sinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1561_Thu_đồ_đệ.json",
+    "chapter_name": "Chương 1561: Thu đồ đệ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1562_Thiên_kiêu_đứng_đầu_vạn_cổ_Thượng.json",
+    "chapter_name": "Chương 1562: Thiên kiêu đứng đầu vạn cổ (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1563_Thiên_kiêu_đứng_đầu_vạn_cổ_Hạ.json",
+    "chapter_name": "Chương 1563: Thiên kiêu đứng đầu vạn cổ (Hạ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1564_Ra_oai_phủ_đầu.json",
+    "chapter_name": "Chương 1564: Ra oai phủ đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1565_Phản_kháng.json",
+    "chapter_name": "Chương 1565: Phản kháng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1566_Cứng_đầu.json",
+    "chapter_name": "Chương 1566: Cứng đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1567_Lại_đánh_không_lại.json",
+    "chapter_name": "Chương 1567: Lại đánh không lại!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1568_Ngã_khuôn_máu_Thượng.json",
+    "chapter_name": "Chương 1568: Ngã khuôn máu (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1569_Ngã_khuôn_máu_Hạ.json",
+    "chapter_name": "Chương 1569: Ngã khuôn máu (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1570_Doạ_thảm.json",
+    "chapter_name": "Chương 1570: Doạ thảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1571_Tiên_Tổ_Văn_Tâm.json",
+    "chapter_name": "Chương 1571: Tiên Tổ Văn Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1572_Mị_lực_của_Nữ_hoàng.json",
+    "chapter_name": "Chương 1572: Mị lực của Nữ hoàng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1573_Một_trận_chiến_gian_nan.json",
+    "chapter_name": "Chương 1573: Một trận chiến gian nan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1574_Hóa_giải_Thượng.json",
+    "chapter_name": "Chương 1574: Hóa giải (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1575_Hóa_giải_Hạ.json",
+    "chapter_name": "Chương 1575: Hóa giải (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1576_Lựa_chọn_trận_pháp.json",
+    "chapter_name": "Chương 1576: Lựa chọn trận pháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1577_Mười_toà_sát_trận.json",
+    "chapter_name": "Chương 1577: Mười toà sát trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1578_Sát_trận_phát_uy.json",
+    "chapter_name": "Chương 1578: Sát trận phát uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1579_Lại_thắng.json",
+    "chapter_name": "Chương 1579: Lại thắng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1580_Thánh_Nhân_truyền_gọi_Thượng.json",
+    "chapter_name": "Chương 1580: Thánh Nhân truyền gọi (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1581_Thánh_Nhân_truyền_gọi_Hạ.json",
+    "chapter_name": "Chương 1581: Thánh Nhân truyền gọi (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1582_Dã_man_phá_trận.json",
+    "chapter_name": "Chương 1582: Dã man phá trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1583_Đột_phá_Hằng_Hà_Cảnh.json",
+    "chapter_name": "Chương 1583: Đột phá Hằng Hà Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1584_Cây_già_nở_hoa.json",
+    "chapter_name": "Chương 1584: Cây già nở hoa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1585_Đánh_đòn_cảnh_cáo.json",
+    "chapter_name": "Chương 1585: Đánh đòn cảnh cáo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1586_Lưu_người.json",
+    "chapter_name": "Chương 1586: Lưu người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1587_Ân_đền_oán_trả_Thượng.json",
+    "chapter_name": "Chương 1587: Ân đền oán trả (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1588_Ân_đền_oán_trả_Hạ.json",
+    "chapter_name": "Chương 1588: Ân đền oán trả (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1589_Không_nói_lý.json",
+    "chapter_name": "Chương 1589: Không nói lý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1590_Đen_đủi.json",
+    "chapter_name": "Chương 1590: Đen đủi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1591_Trâu_hoang_va_chạm.json",
+    "chapter_name": "Chương 1591: Trâu hoang va chạm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1592_Va_không_sợ_ngươi.json",
+    "chapter_name": "Chương 1592: Va không sợ ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1593_Ba_chiêu_phân_thắng_thua.json",
+    "chapter_name": "Chương 1593: Ba chiêu phân thắng thua"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1594_Thẳng_tiến_trận_chung_kết.json",
+    "chapter_name": "Chương 1594: Thẳng tiến trận chung kết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1595_Lòng_dạ_đàn_bà_là_độc_ác_nhất_Thượng.json",
+    "chapter_name": "Chương 1595: Lòng dạ đàn bà là độc ác nhất (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1596_Lòng_dạ_đàn_bà_là_độc_ác_nhất_Hạ.json",
+    "chapter_name": "Chương 1596: Lòng dạ đàn bà là độc ác nhất (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1597_Thoát_vây.json",
+    "chapter_name": "Chương 1597: Thoát vây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1598_Đến_chiến.json",
+    "chapter_name": "Chương 1598: Đến chiến!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1599_Chiến_đấu_cuối_cùng.json",
+    "chapter_name": "Chương 1599: Chiến đấu cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1600_Lực_lượng_Tiên_Nguyên.json",
+    "chapter_name": "Chương 1600: Lực lượng Tiên Nguyên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1601_Đổi_trắng_thay_đen_Thượng.json",
+    "chapter_name": "Chương 1601: Đổi trắng thay đen (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1602_Đổi_trắng_thay_đen_Hạ.json",
+    "chapter_name": "Chương 1602: Đổi trắng thay đen (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1603_Không_khuất_phục_Không_phục.json",
+    "chapter_name": "Chương 1603: Không khuất phục! Không phục!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1604_Đào_hầm_cho_Cổ_Đạo_Nhất.json",
+    "chapter_name": "Chương 1604: Đào hầm cho Cổ Đạo Nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1605_Đại_Thánh_thu_đồ_đệ.json",
+    "chapter_name": "Chương 1605: Đại Thánh thu đồ đệ"
   }
 ]
