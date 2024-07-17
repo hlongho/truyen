@@ -36,7 +36,7 @@ public class TruyenCrawler {
                 }
             }
 
-            // Giới hạn lấy 1 truyện có ít nhất 10 chương mới
+            // Giới hạn lấy 3 truyện có ít nhất 10 chương mới
             int storyCount = 0;
             int storyCountLimit = 3;
             int chapterCountOverLimit = 10;
@@ -46,10 +46,15 @@ public class TruyenCrawler {
                 // Kiểm tra xem truyện đã tồn tại và đã hoàn thành hay chưa
                 boolean storyExists = false;
                 boolean storyCompleted = false;
-                for (Map<String, String> existingStory : stories) {
-                    if (existingStory.get("url").equals(storyUrl) && "true".equals(existingStory.get("success"))) {
+                int existingStoryIndex = -1;
+                for (int i = 0; i < stories.size(); i++) {
+                    Map<String, String> existingStory = stories.get(i);
+                    if (existingStory.get("url").equals(storyUrl)) {
                         storyExists = true;
-                        storyCompleted = true;
+                        existingStoryIndex = i;
+                        if ("true".equals(existingStory.get("success"))) {
+                            storyCompleted = true;
+                        }
                         break;
                     }
                 }
@@ -60,17 +65,14 @@ public class TruyenCrawler {
 
                 Map<String, String> storyData = crawlAndSaveStory(storyUrl);
                 if (storyData != null) {
-                    if (!storyExists) {
-                        stories.add(storyData);
+                    if (storyExists) {
+                        // Cập nhật thông tin truyện nếu truyện đã tồn tại
+                        stories.set(existingStoryIndex, storyData);
                     } else {
-                        // Cập nhật thông tin truyện nếu truyện đã tồn tại nhưng chưa hoàn thành
-                        for (Map<String, String> existingStory : stories) {
-                            if (existingStory.get("url").equals(storyUrl)) {
-                                existingStory.putAll(storyData);
-                                break;
-                            }
-                        }
+                        // Thêm thông tin truyện mới
+                        stories.add(storyData);
                     }
+
                     if (storyData.containsKey("new_chapter_count") && Integer.parseInt(storyData.get("new_chapter_count")) >= chapterCountOverLimit) {
                         storyCount++;
                     }
