@@ -1598,5 +1598,405 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_401_Không_có_ý_gây_rối.json",
     "chapter_name": "Chương 401: Không có ý gây rối"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_402_Cửu_Vân_Trưởng_Lão.json",
+    "chapter_name": "Chương 402: Cửu Vân Trưởng Lão"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_403_Linh_thảo_hiện.json",
+    "chapter_name": "Chương 403: Linh thảo hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_404_Trận_đạo_sơ_thành.json",
+    "chapter_name": "Chương 404: Trận đạo sơ thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_405_Lại_chiêu_hận_đến.json",
+    "chapter_name": "Chương 405: Lại chiêu hận đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_406_Cành_cây_nghênh_địch.json",
+    "chapter_name": "Chương 406: Cành cây nghênh địch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_407_Chiến_Nguyên_Tâm.json",
+    "chapter_name": "Chương 407: Chiến Nguyên Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_408_Đạo_kiếm_khí_thứ_tám.json",
+    "chapter_name": "Chương 408: Đạo kiếm khí thứ tám"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_409_Kim_Huyết_Ma_Viên.json",
+    "chapter_name": "Chương 409: Kim Huyết Ma Viên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_410_Không_ngốc_a.json",
+    "chapter_name": "Chương 410: Không ngốc a"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_411_Đắc_thủ_Thiên_Vận_Thạch.json",
+    "chapter_name": "Chương 411: Đắc thủ Thiên Vận Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_412_Vũ_Hoàng_tái_hiện.json",
+    "chapter_name": "Chương 412: Vũ Hoàng tái hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_413_Núi_lở_hiện_Ma_Hồ.json",
+    "chapter_name": "Chương 413: Núi lở hiện Ma Hồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_414_Hỗn_Độn_Nguyên_Thạch.json",
+    "chapter_name": "Chương 414: Hỗn Độn Nguyên Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_415_Dung_hợp_ma_khu.json",
+    "chapter_name": "Chương 415: Dung hợp ma khu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_416_Âm_thảm.json",
+    "chapter_name": "Chương 416: Âm thảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_417_Tìm_bồi_luyện.json",
+    "chapter_name": "Chương 417: Tìm bồi luyện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_418_Con_đường_manh_nhât.json",
+    "chapter_name": "Chương 418: Con đường mạnh nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_419_Luyện_hóa_Thiên_Vận_Thạch.json",
+    "chapter_name": "Chương 419: Luyện hóa Thiên Vận Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_420_Oanh_đi.json",
+    "chapter_name": "Chương 420: Oanh đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_421_Đánh_chó.json",
+    "chapter_name": "Chương 421: Đánh chó"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_422_Thu_lấy_linh_dược.json",
+    "chapter_name": "Chương 422: Thu lấy linh dược"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_423_Chiến_Yêu_Hồi_Nguyệt.json",
+    "chapter_name": "Chương 423: Chiến Yêu Hồi Nguyệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_424_Thắng_hiểm.json",
+    "chapter_name": "Chương 424: Thắng hiểm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_425_Trở_về_Cực_Dương_Thành.json",
+    "chapter_name": "Chương 425: Trở về Cực Dương Thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_426_Thiên_Đô_Lôi_Cương_Trận.json",
+    "chapter_name": "Chương 426: Thiên Đô Lôi Cương Trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_427_Chân_đạp_Quý_Đức_Dung.json",
+    "chapter_name": "Chương 427: Chân đạp Quý Đức Dung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_428_Lại_tìm_Thủy_Cô_Thành.json",
+    "chapter_name": "Chương 428: Lại tìm Thủy Cô Thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_429_Chộp_tới_làm_công.json",
+    "chapter_name": "Chương 429: Chộp tới làm công"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_430_Đặc_huấn.json",
+    "chapter_name": "Chương 430: Đặc huấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_431_Đệ_đệ_của_Chư_Toàn_Nhi.json",
+    "chapter_name": "Chương 431: Đệ đệ của Chư Toàn Nhi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_432_Thành_quả_đặc_huấn.json",
+    "chapter_name": "Chương 432: Thành quả đặc huấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_433_Bắt_đầu_báo_danh.json",
+    "chapter_name": "Chương 433: Bắt đầu báo danh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_434_Kiểm_tra_sức_chiến_đấu.json",
+    "chapter_name": "Chương 434: Kiểm tra sức chiến đấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_435_Sức_chiến_đấu_của_Hổ_Nữu.json",
+    "chapter_name": "Chương 435: Sức chiến đấu của Hổ Nữu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_436_Giá_trị_sức_chiến_đấu_của_Lăng_Hàn.json",
+    "chapter_name": "Chương 436: Giá trị sức chiến đấu của Lăng Hàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_437_Đào_thải_chiến.json",
+    "chapter_name": "Chương 437: Đào thải chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_438_Xếp_hạng_kết_thúc.json",
+    "chapter_name": "Chương 438: Xếp hạng kết thúc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_439_Đại_tin_tức.json",
+    "chapter_name": "Chương 439: Đại tin tức"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_440_Tiến_vào_Thần_Thai.json",
+    "chapter_name": "Chương 440: Tiến vào Thần Thai"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_441_Ở_đâu_bị_đạo_thương.json",
+    "chapter_name": "Chương 441: Ở đâu bị đạo thương?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_442_Đăng_võ_đài_tham_chiến.json",
+    "chapter_name": "Chương 442: Đăng võ đài tham chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_443_Ung_dung_thắng_lợi.json",
+    "chapter_name": "Chương 443: Ung dung thắng lợi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_444_Tuyệt_chiêu_của_Lỗ_Dương.json",
+    "chapter_name": "Chương 444: Tuyệt chiêu của Lỗ Dương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_445_Tiến_vào_trận_chung_kết.json",
+    "chapter_name": "Chương 445: Tiến vào trận chung kết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_446_Ác_chiến_Trương_Tam.json",
+    "chapter_name": "Chương 446: Ác chiến Trương Tam"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_447_Chìa_khoá_bị_cướp.json",
+    "chapter_name": "Chương 447: Chìa khoá bị cướp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_448_Hỗn_chiến.json",
+    "chapter_name": "Chương 448: Hỗn chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_449_Lai_lịch_của_Nghiêm_Thiên_Chiếu.json",
+    "chapter_name": "Chương 449: Lai lịch của Nghiêm Thiên Chiếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_450_Bụi_bậm_lắng_xuống.json",
+    "chapter_name": "Chương 450: Bụi bậm lắng xuống"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_451_Quý_nhân_Trung_Châu_đến.json",
+    "chapter_name": "Chương 451: Quý nhân Trung Châu đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_452_Hậu_duệ_của_đồ_đệ.json",
+    "chapter_name": "Chương 452: Hậu duệ của đồ đệ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_453_Đan_sư_Thiên_Cấp_thì_làm_sao.json",
+    "chapter_name": "Chương 453: Đan sư Thiên Cấp thì làm sao"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_454_Mở_lô_luyện_đan.json",
+    "chapter_name": "Chương 454: Mở lô luyện đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_455_Đan_Kiếp_hiện.json",
+    "chapter_name": "Chương 455: Đan Kiếp hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_456_Đan_sư_Thiên_Cấp_Lăng_Hàn.json",
+    "chapter_name": "Chương 456: Đan sư Thiên Cấp… Lăng Hàn!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_457_Từng_cái_sắp_xếp.json",
+    "chapter_name": "Chương 457: Từng cái sắp xếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_458_Đến_bí_cốc.json",
+    "chapter_name": "Chương 458: Đến bí cốc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_459_Đông_vực_thiên_kiêu.json",
+    "chapter_name": "Chương 459: Đông vực thiên kiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_460_Hung_hăng_Văn_Nhất_Kiếm.json",
+    "chapter_name": "Chương 460: Hung hăng Văn Nhất Kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_461_Trừng_phạt.json",
+    "chapter_name": "Chương 461: Trừng phạt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_462_Vào_bí_cảnh.json",
+    "chapter_name": "Chương 462: Vào bí cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_463_Thạch_linh.json",
+    "chapter_name": "Chương 463: Thạch linh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_464_Đạo_kiếm_khí_thứ_mười.json",
+    "chapter_name": "Chương 464: Đạo kiếm khí thứ mười"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_465_Thạch_linh_lên_cấp.json",
+    "chapter_name": "Chương 465: Thạch linh lên cấp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_466_Thu_phục_Thạch_linh.json",
+    "chapter_name": "Chương 466: Thu phục Thạch linh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_467_Trận_pháp_đặc_biệt.json",
+    "chapter_name": "Chương 467: Trận pháp đặc biệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_468_Cốt_văn.json",
+    "chapter_name": "Chương 468: Cốt văn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_469_Câu_cá.json",
+    "chapter_name": "Chương 469: Câu cá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_470_Đại_khai_sát_giới.json",
+    "chapter_name": "Chương 470: Đại khai sát giới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_471_Đại_Yêu_hiện.json",
+    "chapter_name": "Chương 471: Đại Yêu hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_472_Thạch_linh_kiến_công.json",
+    "chapter_name": "Chương 472: Thạch linh kiến công"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_473_Dám_cướp_đồ.json",
+    "chapter_name": "Chương 473: Dám cướp đồ?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_474_Kiến_trúc_dưới_đáy_hồ.json",
+    "chapter_name": "Chương 474: Kiến trúc dưới đáy hồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_475_Thần_miếu.json",
+    "chapter_name": "Chương 475: Thần miếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_476_Hấp_Huyết_Trùng.json",
+    "chapter_name": "Chương 476: Hấp Huyết Trùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_477_Dĩ_chúng_chi_danh.json",
+    "chapter_name": "Chương 477: Dĩ chúng chi danh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_478_Tiểu_Hắc_miếu.json",
+    "chapter_name": "Chương 478: Tiểu Hắc miếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_479_Hai_Ngũ_Hành_Chi_Linh.json",
+    "chapter_name": "Chương 479: Hai Ngũ Hành Chi Linh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_480_Lông_đỏ_kỳ_quái.json",
+    "chapter_name": "Chương 480: Lông đỏ kỳ quái"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_481_Giết_quái_vật_bất_tử.json",
+    "chapter_name": "Chương 481: Giết quái vật bất tử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_482_Thần_miếu_cuối_cùng.json",
+    "chapter_name": "Chương 482: Thần miếu cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_483_Gắng_chống_đỡ_hai_đại_Sinh_Hoa.json",
+    "chapter_name": "Chương 483: Gắng chống đỡ hai đại Sinh Hoa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_484_Siêu_cấp_Trùng_Vương.json",
+    "chapter_name": "Chương 484: Siêu cấp Trùng Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_485_Thoát_thân.json",
+    "chapter_name": "Chương 485: Thoát thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_486_Ngọn_nguồn.json",
+    "chapter_name": "Chương 486: Ngọn nguồn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_487_Linh_dịch.json",
+    "chapter_name": "Chương 487: Linh dịch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_488_Khảo_nghiệm_nơi_cửa_thành.json",
+    "chapter_name": "Chương 488: Khảo nghiệm nơi cửa thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_489_Cửa_thứ_nhất.json",
+    "chapter_name": "Chương 489: Cửa thứ nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_490_Chọn_đối_thủ.json",
+    "chapter_name": "Chương 490: Chọn đối thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_491_Mỗi_người_có_thủ_đoạn.json",
+    "chapter_name": "Chương 491: Mỗi người có thủ đoạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_492_Cửu_Long_Phách_Thể_Quyết.json",
+    "chapter_name": "Chương 492: Cửu Long Phách Thể Quyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_493_Thanh_Diễm_Điêu.json",
+    "chapter_name": "Chương 493: Thanh Diễm Điêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_494_Trộm_trứng.json",
+    "chapter_name": "Chương 494: Trộm trứng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_495_Đánh_lén.json",
+    "chapter_name": "Chương 495: Đánh lén"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_496_Lấy_ngựa_chết_làm_ngựa_sống.json",
+    "chapter_name": "Chương 496: Lấy ngựa chết làm ngựa sống"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_497_Phá_trận.json",
+    "chapter_name": "Chương 497: Phá trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_498_Phù_bậc_thang_đá.json",
+    "chapter_name": "Chương 498: Phù bậc thang đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_499_Luyện_Thể.json",
+    "chapter_name": "Chương 499: Luyện Thể"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_500_Ba_thú_dị_tượng.json",
+    "chapter_name": "Chương 500: Ba thú dị tượng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_501_Bù_đắp_thần_quyết.json",
+    "chapter_name": "Chương 501: Bù đắp thần quyết"
   }
 ]
