@@ -1,9 +1,5 @@
 name: Crawl and Push
 
-permissions:
-  contents: write
-  actions: write
-
 on:
   # schedule:
   #   - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
@@ -19,6 +15,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Sử dụng cache để lưu trữ Java dependencies
+      - name: Cache Java dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.m2/repository  # Đường dẫn của Maven repository
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}  # Key để xác định cache
+          restore-keys: |
+            ${{ runner.os }}-maven-
+
+      # Bước setup Java chỉ thực hiện khi không có cache
       - name: Set Up Java
         uses: actions/setup-java@v3.12.0
         with:
