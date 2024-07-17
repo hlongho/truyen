@@ -1598,5 +1598,605 @@
   {
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_400_Bi_mât_Vũ_đan_1.json",
     "chapter_name": "Chương 400: Bí mật Vũ đan (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_401_Bi_mât_Vũ_đan_2.json",
+    "chapter_name": "Chương 401: Bí mật Vũ đan (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_402_Tiên_canh_1.json",
+    "chapter_name": "Chương 402: Tiên cảnh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_403_Tiên_canh_2.json",
+    "chapter_name": "Chương 403: Tiên cảnh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_404_Hoang_Sa_yêu_mang.json",
+    "chapter_name": "Chương 404: Hoàng Sa yêu mãng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_405_Đâu_thang_ưng_chiên_1.json",
+    "chapter_name": "Chương 405: Đầu tháng ứng chiến (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_406_Đâu_thang_ưng_chiên_2.json",
+    "chapter_name": "Chương 406: Đầu tháng ứng chiến (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_407_Thân_phân_cua_Tiêu_Long.json",
+    "chapter_name": "Chương 407: Thân phận của Tiểu Long"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_408_Đồ_chơi_gì_vậy_1.json",
+    "chapter_name": "Chương 408: Đồ chơi gì vậy? (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_409_Đồ_chơi_gì_vậy_2.json",
+    "chapter_name": "Chương 409: Đồ chơi gì vậy? (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_410_Dung_yêu_đan.json",
+    "chapter_name": "Chương 410: Dùng yêu đan"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_411_Phu_quang_lươc_anh_1.json",
+    "chapter_name": "Chương 411: Phù quang lược ảnh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_412_Phu_quang_lươc_anh_2.json",
+    "chapter_name": "Chương 412: Phù quang lược ảnh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_413_Cương_gia_hôi_tu.json",
+    "chapter_name": "Chương 413: Cường giả hội tụ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_414_Đôi_choi_gay_găt_1.json",
+    "chapter_name": "Chương 414: Đối chọi gay gắt (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_415_Đôi_choi_gay_găt_2.json",
+    "chapter_name": "Chương 415: Đối chọi gay gắt (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_416_Chung_nhân_chu_muc.json",
+    "chapter_name": "Chương 416: Chúng nhân chú mục"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_417_Xem_ai_phê_ai_1.json",
+    "chapter_name": "Chương 417: Xem ai phế ai (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_418_Xem_ai_phê_ai_2.json",
+    "chapter_name": "Chương 418: Xem ai phế ai (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_419_Phong_ngư_kinh_khung.json",
+    "chapter_name": "Chương 419: Phòng ngự kinh khủng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_420_Chiên_thăng_tuyêt_đôi_1.json",
+    "chapter_name": "Chương 420: Chiến thắng tuyệt đối (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_421_Chiên_thăng_tuyêt_đôi_2.json",
+    "chapter_name": "Chương 421: Chiến thắng tuyệt đối (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_422_Tỏ_tỉnh_trước_công_chúng.json",
+    "chapter_name": "Chương 422: Tỏ tỉnh trước công chúng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_423_Dung_tung_đô_đê_1.json",
+    "chapter_name": "Chương 423: Dung túng đồ đệ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_424_Dung_tung_đô_đê_2.json",
+    "chapter_name": "Chương 424: Dung túng đồ đệ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_425_Tiên_canh.json",
+    "chapter_name": "Chương 425: Tiên cảnh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_426_Chô_tôt_cua_tiên_canh_1.json",
+    "chapter_name": "Chương 426: Chỗ tốt của tiên cảnh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_427_Chô_tôt_cua_tiên_canh_2.json",
+    "chapter_name": "Chương 427: Chỗ tốt của tiên cảnh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_428_Thành_tựu_một_tháng.json",
+    "chapter_name": "Chương 428: Thành tựu một tháng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_429_Bảo_vật_mật_địa.json",
+    "chapter_name": "Chương 429: Bảo vật mật địa"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_430_Thế_cục_biến_hóa_1.json",
+    "chapter_name": "Chương 430: Thế cục biến hóa (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_431_Thế_cục_biến_hóa_2.json",
+    "chapter_name": "Chương 431: Thế cục biến hóa (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_432_Đóng_ảo_cảnh.json",
+    "chapter_name": "Chương 432: Đóng ảo cảnh"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_433_Vân_Hành_vũ_thi_1.json",
+    "chapter_name": "Chương 433: Vân Hành vũ thi (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_434_Vân_Hành_vũ_thi_2.json",
+    "chapter_name": "Chương 434: Vân Hành vũ thi (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_435_Long_bang_cương_han.json",
+    "chapter_name": "Chương 435: Long bảng cường hãn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_436_Thi_đâu_băt_đâu_1.json",
+    "chapter_name": "Chương 436: Thi đấu bắt đầu (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_437_Thi_đâu_băt_đâu_2.json",
+    "chapter_name": "Chương 437: Thi đấu bắt đầu (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_438_Bat_trao_yêu_giap.json",
+    "chapter_name": "Chương 438: Bát trảo yêu giáp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_439_Nhât_trong_tâng_năm_1.json",
+    "chapter_name": "Chương 439: Nhất trọng tầng năm (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_440_Nhât_trong_tâng_năm_2.json",
+    "chapter_name": "Chương 440: Nhất trọng tầng năm (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_441_Lai_lich_cua_mât_đia.json",
+    "chapter_name": "Chương 441: Lai lịch của mật địa"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_442_Trươc_khi_đi_vao_mât_đia_1.json",
+    "chapter_name": "Chương 442: Trước khi đi vào mật địa (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_443_Trươc_khi_đi_vao_mât_đia_2.json",
+    "chapter_name": "Chương 443: Trước khi đi vào mật địa (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_444_Tu_luyên_nhanh_chong.json",
+    "chapter_name": "Chương 444: Tu luyện nhanh chóng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_445_Trong_mât_đia_1.json",
+    "chapter_name": "Chương 445: Trong mật địa (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_446_Trong_mât_đia_2.json",
+    "chapter_name": "Chương 446: Trong mật địa (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_447_Mât_đia_nguy_hiêm.json",
+    "chapter_name": "Chương 447: Mật địa nguy hiểm"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_448_Cho_ngươi_ê_răng_1.json",
+    "chapter_name": "Chương 448: Cho ngươi ê răng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_449_Cho_ngươi_ê_răng_2.json",
+    "chapter_name": "Chương 449: Cho ngươi ê răng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_450_Co_chut_mơ_am.json",
+    "chapter_name": "Chương 450: Có chút mờ ám"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_451_Bi_tâp_kich_1.json",
+    "chapter_name": "Chương 451: Bị tập kích (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_452_Bi_tâp_kich_2.json",
+    "chapter_name": "Chương 452: Bị tập kích (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_453_Chông_lai_Vu_Tướng.json",
+    "chapter_name": "Chương 453: Chống lại Vũ Tướng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_454_Linh_hôn_ngưng_vât.json",
+    "chapter_name": "Chương 454: Linh hồn ngưng vật"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_455_Thương_cô_đai_trân_1.json",
+    "chapter_name": "Chương 455: Thượng cổ đại trận (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_456_Thương_cô_đai_trân_2.json",
+    "chapter_name": "Chương 456: Thượng cổ đại trận (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_457_Cương_gia_thân_bi.json",
+    "chapter_name": "Chương 457: Cường giả thần bí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_458_Năng_lương_thân_bi_1.json",
+    "chapter_name": "Chương 458: Năng lượng thần bí (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_459_Năng_lương_thân_bi_2.json",
+    "chapter_name": "Chương 459: Năng lượng thần bí (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_460_Song_song_đôt_pha.json",
+    "chapter_name": "Chương 460: Song song đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_461_Tiêu_đao_thân_bi_1.json",
+    "chapter_name": "Chương 461: Tiểu đao thần bí (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_462_Tiêu_đao_thân_bi_2.json",
+    "chapter_name": "Chương 462: Tiểu đao thần bí (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_463_Yêu_vương_thân_bi.json",
+    "chapter_name": "Chương 463: Yêu vương thần bí"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_464_Cửu_vĩ_yêu_hồ_1.json",
+    "chapter_name": "Chương 464: Cửu vĩ yêu hồ (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_465_Cửu_vĩ_yêu_hồ_2.json",
+    "chapter_name": "Chương 465: Cửu vĩ yêu hồ (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_466_Hai_điều_kiện.json",
+    "chapter_name": "Chương 466: Hai điều kiện"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_467_Nàng_là_yêu_nghiệt.json",
+    "chapter_name": "Chương 467: Nàng là yêu nghiệt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_468_Trong_thánh_trì_1.json",
+    "chapter_name": "Chương 468: Trong thánh trì (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_469_Trong_thánh_trì_2.json",
+    "chapter_name": "Chương 469: Trong thánh trì (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_470_Thôn_phệ_năng_lượng.json",
+    "chapter_name": "Chương 470: Thôn phệ năng lượng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_471_Thúy_Ngọc_đột_phá.json",
+    "chapter_name": "Chương 471: Thúy Ngọc đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_472_Bắt_đầu_đột_phá.json",
+    "chapter_name": "Chương 472: Bắt đầu đột phá"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_473_Thánh_quả_chín_1.json",
+    "chapter_name": "Chương 473: Thánh quả chín (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_474_Thánh_quả_chín_2.json",
+    "chapter_name": "Chương 474: Thánh quả chín (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_475_Yêu_thú_ngũ_giai.json",
+    "chapter_name": "Chương 475: Yêu thú ngũ giai"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_476_Ngươi_muốn_cướp_sao.json",
+    "chapter_name": "Chương 476: Ngươi muốn cướp sao?"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_477_Không_còn_như_xưa_1.json",
+    "chapter_name": "Chương 477: Không còn như xưa (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_478_Không_còn_như_xưa_2.json",
+    "chapter_name": "Chương 478: Không còn như xưa (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_479_Huyền_cấp_trung_giai.json",
+    "chapter_name": "Chương 479: Huyền cấp trung giai"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_480_Bế_quan_luyện_hóa.json",
+    "chapter_name": "Chương 480: Bế quan luyện hóa"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_481_Chuẩn_bị_đột_phá_1.json",
+    "chapter_name": "Chương 481: Chuẩn bị đột phá (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_482_Chuẩn_bị_đột_phá_2.json",
+    "chapter_name": "Chương 482: Chuẩn bị đột phá (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_483_Cửu_trọng_đỉnh_phong.json",
+    "chapter_name": "Chương 483: Cửu trọng đỉnh phong"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_484_Vũ_kỹ.json",
+    "chapter_name": "Chương 484: Vũ kỹ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_485_Ảm_Nhiên_Tiêu_Linh_chưởng_1.json",
+    "chapter_name": "Chương 485: Ảm Nhiên Tiêu Linh chưởng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_486_Ảm_Nhiên_Tiêu_Linh_chưởng_2.json",
+    "chapter_name": "Chương 486: Ảm Nhiên Tiêu Linh chưởng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_487_Uy_lực_khủng_bố.json",
+    "chapter_name": "Chương 487: Uy lực khủng bố"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_488_Biến_thành_người.json",
+    "chapter_name": "Chương 488: Biến thành người"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_489_Rời_khỏi_mật_địa_1.json",
+    "chapter_name": "Chương 489: Rời khỏi mật địa (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_490_Rời_khỏi_mật_địa_2.json",
+    "chapter_name": "Chương 490: Rời khỏi mật địa (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_491_Moi_ngươi_kinh_ngac.json",
+    "chapter_name": "Chương 491: Mọi người kinh ngạc"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_492_Tam_tông_Tư_môn.json",
+    "chapter_name": "Chương 492: Tam tông Tứ môn"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_493_Chi_la_môt_cai_nhâc_tay_1.json",
+    "chapter_name": "Chương 493: Chỉ là một cái nhấc tay (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_494_Chi_la_môt_cai_nhâc_tay_2.json",
+    "chapter_name": "Chương 494: Chỉ là một cái nhấc tay (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_495_Yêu_đương_vung_trôm.json",
+    "chapter_name": "Chương 495: Yêu đương vụng trộm"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_496_Moi_ngươi_chơ_mong_1.json",
+    "chapter_name": "Chương 496: Mọi người chờ mong (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_497_Moi_ngươi_chơ_mong_2.json",
+    "chapter_name": "Chương 497: Mọi người chờ mong (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_498_Đâu_tôc_đô.json",
+    "chapter_name": "Chương 498: Đấu tốc độ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_499_Môt_chiêu_đanh_bai_1.json",
+    "chapter_name": "Chương 499: Một chiêu đánh bại (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_500_Môt_chiêu_đanh_bai_2.json",
+    "chapter_name": "Chương 500: Một chiêu đánh bại (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_501_Manh_me_đanh_bai.json",
+    "chapter_name": "Chương 501: Mạnh mẽ đánh bại"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_502_Quyêt_đâu_cương_han_1.json",
+    "chapter_name": "Chương 502: Quyết đấu cường hãn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_503_Quyêt_đâu_cương_han_2.json",
+    "chapter_name": "Chương 503: Quyết đấu cường hãn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_504_Cha_ta_tim_ngươi.json",
+    "chapter_name": "Chương 504: Cha ta tìm ngươi"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_505_Thân_phân_bi_vach_trân_1.json",
+    "chapter_name": "Chương 505: Thân phận bị vạch trần (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_506_Thân_phân_bi_vach_trân_2.json",
+    "chapter_name": "Chương 506: Thân phận bị vạch trần (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_507_Noi_chuyên_vê_chô_tôt.json",
+    "chapter_name": "Chương 507: Nói chuyện về chỗ tốt"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_508_Tu_luyên_Han_Băng_Ân_1.json",
+    "chapter_name": "Chương 508: Tu luyện Hàn Băng Ấn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_509_Tu_luyên_Han_Băng_Ân_2.json",
+    "chapter_name": "Chương 509: Tu luyện Hàn Băng Ấn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_510_Cương_gia_Vu_Vương.json",
+    "chapter_name": "Chương 510: Cường giả Vũ Vương"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_511_Đôt_pha_Vu_Tương_1.json",
+    "chapter_name": "Chương 511: Đột phá Vũ Tướng (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_512_Đôt_pha_Vu_Tương_2.json",
+    "chapter_name": "Chương 512: Đột phá Vũ Tướng (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_513_Kim_đao_đôt_biên.json",
+    "chapter_name": "Chương 513: Kim đao đột biến"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_514_Sat_khi_ngâp_trơi_1.json",
+    "chapter_name": "Chương 514: Sát khí ngập trời (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_515_Đến_thiên_kiêm_thanh_1.json",
+    "chapter_name": "Chương 515: Đến thiên kiếm thành (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_516_Đến_thiên_kiêm_thanh_2.json",
+    "chapter_name": "Chương 516: Đến thiên kiếm thành (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_517_Cô_Phong_trương_lão_1.json",
+    "chapter_name": "Chương 517: Cổ Phong trưởng lão (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_518_Cô_Phong_trương_lão_2.json",
+    "chapter_name": "Chương 518: Cổ Phong trưởng lão (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_519_Chô_tôt_cua_quan_quân.json",
+    "chapter_name": "Chương 519: Chỗ tốt của quán quân"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_520_Trên_đương_đi_găp_đua_giơn_1.json",
+    "chapter_name": "Chương 520: Trên đường đi gặp đùa giỡn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_521_Trên_đương_đi_găp_đua_giơn_2.json",
+    "chapter_name": "Chương 521: Trên đường đi gặp đùa giỡn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_522_Tai_ngô_cô_nhân.json",
+    "chapter_name": "Chương 522: Tái ngộ cố nhân"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_523_Hai_nang_phân_cao_thâp.json",
+    "chapter_name": "Chương 523: Hai nàng phân cao thấp"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_524_Môt_chiêu_đanh_bai_1.json",
+    "chapter_name": "Chương 524: Một chiêu đánh bại (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_525_Môt_chiêu_đanh_bai_2.json",
+    "chapter_name": "Chương 525: Một chiêu đánh bại (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_526_Đai_hôi_khai_mac.json",
+    "chapter_name": "Chương 526: Đại hội khai mạc"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_527_Thiên_Kiêm_môn_1.json",
+    "chapter_name": "Chương 527: Thiên Kiếm môn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_528_Thiên_Kiêm_môn_2.json",
+    "chapter_name": "Chương 528: Thiên Kiếm môn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_529_Tông_chu_Van_Thu_Tông.json",
+    "chapter_name": "Chương 529: Tông chủ Vạn Thú Tông"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_530_Đai_hôi_băt_đâu_1.json",
+    "chapter_name": "Chương 530: Đại hội bắt đầu (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_531_Đai_hôi_băt_đâu_2.json",
+    "chapter_name": "Chương 531: Đại hội bắt đầu (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_532_Yêu_thu_ban_mang.json",
+    "chapter_name": "Chương 532: Yêu thú bản mạng"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_533_Chơi_đua_yêu_thu_sao_1.json",
+    "chapter_name": "Chương 533: Chơi đùa yêu thú sao? (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_534_Chơi_đua_yêu_thu_sao_2.json",
+    "chapter_name": "Chương 534: Chơi đùa yêu thú sao? (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_535_Bắt_đầu.json",
+    "chapter_name": "Chương 535: Bắt đầu"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_536_Manh_me_tân_câp_1.json",
+    "chapter_name": "Chương 536: Mạnh mẽ tấn cấp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_537_Manh_me_tân_câp_2.json",
+    "chapter_name": "Chương 537: Mạnh mẽ tấn cấp (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_538_Phi_vân_kiêm_quyêt.json",
+    "chapter_name": "Chương 538: Phi vân kiếm quyết"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_539_Tiên_đăt_cươc_lơn_1.json",
+    "chapter_name": "Chương 539: Tiền đặt cược lớn (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_540_Tiên_đăt_cươc_lơn_2.json",
+    "chapter_name": "Chương 540: Tiền đặt cược lớn (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_541_Thi_triên_con_bai_chưa_lât.json",
+    "chapter_name": "Chương 541: Thi triển con bài chưa lật"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_542_Thu_tiên_đăt_cươc.json",
+    "chapter_name": "Chương 542: Thu tiền đặt cược"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_543_Đâu_vơi_Lam_Linh_1.json",
+    "chapter_name": "Chương 543: Đấu với Lam Linh (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_544_Đâu_vơi_Lam_Linh_2.json",
+    "chapter_name": "Chương 544: Đấu với Lam Linh (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_545_Ngu_giai_trung_ky.json",
+    "chapter_name": "Chương 545: Ngũ giai trung kỳ"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_546_Khăc_chê_yêu_thu_1.json",
+    "chapter_name": "Chương 546: Khắc chế yêu thú (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_547_Khăc_chê_yêu_thu_2.json",
+    "chapter_name": "Chương 547: Khắc chế yêu thú (2)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_548_Thanh_niên_gay_go.json",
+    "chapter_name": "Chương 548: Thanh niên gày gò"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_549_Trưc_tiêp_tân_câp_1.json",
+    "chapter_name": "Chương 549: Trực tiếp tấn cấp (1)"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_550_Trưc_tiêp_tân_câp_2.json",
+    "chapter_name": "Chương 550: Trực tiếp tấn cấp (2)"
   }
 ]
