@@ -1,5 +1,9 @@
 name: Crawl and Push
 
+permissions:
+  contents: write
+  actions: write
+
 on:
   schedule:
     - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
