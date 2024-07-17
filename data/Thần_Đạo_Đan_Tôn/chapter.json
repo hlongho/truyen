@@ -2798,5 +2798,605 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_702_Một_mũi_tên_quyết_định.json",
     "chapter_name": "Chương 702: Một mũi tên quyết định"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_703_Ngôi_sao_chân_chính.json",
+    "chapter_name": "Chương 703: Ngôi sao chân chính"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_704_Tầm_Kim_Thử.json",
+    "chapter_name": "Chương 704: Tầm Kim Thử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_705_Thu_phục.json",
+    "chapter_name": "Chương 705: Thu phục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_706_Bảo_dược_quái_lạ.json",
+    "chapter_name": "Chương 706: Bảo dược quái lạ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_707_Mồi_nhử.json",
+    "chapter_name": "Chương 707: Mồi nhử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_708_Bị_đùa_giỡn.json",
+    "chapter_name": "Chương 708: Bị đùa giỡn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_709_Chiến_Từ_Tu_Nhiên.json",
+    "chapter_name": "Chương 709: Chiến Từ Tu Nhiên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_710_Phá_đao_Tuyệt_Đao.json",
+    "chapter_name": "Chương 710: Phá đao? Tuyệt Đao!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_711_Đều_lui_một_bước.json",
+    "chapter_name": "Chương 711: Đều lui một bước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_712_Bảo_Châu_van_năm.json",
+    "chapter_name": "Chương 712: Bảo Châu vạn năm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_713_Ba_loại_người.json",
+    "chapter_name": "Chương 713: Ba loại người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_714_Đánh_nổ.json",
+    "chapter_name": "Chương 714: Đánh nổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_715_Thu_nạp.json",
+    "chapter_name": "Chương 715: Thu nạp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_716_Đây_là_một_thú_viên.json",
+    "chapter_name": "Chương 716: Đây là một thú viên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_717_Bia_đá_lưu_danh.json",
+    "chapter_name": "Chương 717: Bia đá lưu danh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_718_Từng_bước_phát_quang.json",
+    "chapter_name": "Chương 718: Từng bước phát quang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_719_Trên_bảng_đệ_nhất.json",
+    "chapter_name": "Chương 719: Trên bảng đệ nhất!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_720_Lại_một_cái_đệ_nhất.json",
+    "chapter_name": "Chương 720: Lại một cái đệ nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_721_Trận_kiếm.json",
+    "chapter_name": "Chương 721: Trận kiếm?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_722_Cương_nhu_cùng_tồn_tại.json",
+    "chapter_name": "Chương 722: Cương nhu cùng tồn tại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_723_Biến_hóa_tùy_ý.json",
+    "chapter_name": "Chương 723: Biến hóa tùy ý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_724_Tích_Sinh_Kiếm.json",
+    "chapter_name": "Chương 724: Tích Sinh Kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_725_Làm_rất_đẹp_đẽ.json",
+    "chapter_name": "Chương 725: Làm rất đẹp đẽ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_726_Huy_hoàng_kinh_người.json",
+    "chapter_name": "Chương 726: Huy hoàng kinh người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_727_Tái_chiến_Cổ_Minh.json",
+    "chapter_name": "Chương 727: Tái chiến Cổ Minh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_728_Huyết_mạch_Địa_Long.json",
+    "chapter_name": "Chương 728: Huyết mạch Địa Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_729_Chặn_ngang_một_tay.json",
+    "chapter_name": "Chương 729: Chặn ngang một tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_730_Thoát_khỏi.json",
+    "chapter_name": "Chương 730: Thoát khỏi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_731_Lang_Gia_Thư_Các.json",
+    "chapter_name": "Chương 731: Lang Gia Thư Các"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_732_Đắc_thủ.json",
+    "chapter_name": "Chương 732: Đắc thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_733_Chém_Chu.json",
+    "chapter_name": "Chương 733: Chém Chu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_734_Vô_sỉ_không_giới_hạn.json",
+    "chapter_name": "Chương 734: Vô sỉ không giới hạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_735_Song_giết.json",
+    "chapter_name": "Chương 735: Song giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_736_Tái_chiến_Tuyệt_Đao.json",
+    "chapter_name": "Chương 736: Tái chiến Tuyệt Đao"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_737_Hỏa_Diễm_Vương_ra_tay.json",
+    "chapter_name": "Chương 737: Hỏa Diễm Vương ra tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_738_Phúc_Địa_Ấn.json",
+    "chapter_name": "Chương 738: Phúc Địa Ấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_739_Trưng_binh.json",
+    "chapter_name": "Chương 739: Trưng binh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_740_Lính_mới.json",
+    "chapter_name": "Chương 740: Lính mới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_741_Sinh_ba.json",
+    "chapter_name": "Chương 741: Sinh ba"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_742_Ngư_gia_Thất_Tổ.json",
+    "chapter_name": "Chương 742: Ngư gia Thất Tổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_743_Hải_Nữu_tái_hiện.json",
+    "chapter_name": "Chương 743: Hải Nữu tái hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_744_Đây_là_con_trai_của_ngươi.json",
+    "chapter_name": "Chương 744: Đây là con trai của ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_745_Thật_sự_làm_cha.json",
+    "chapter_name": "Chương 745: Thật sự làm cha"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_746_Cường_địch_tiềm_ẩn.json",
+    "chapter_name": "Chương 746: Cường địch tiềm ẩn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_747_Về_Bắc_Vực.json",
+    "chapter_name": "Chương 747: Về Bắc Vực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_748_Một_đêm_này.json",
+    "chapter_name": "Chương 748: Một đêm này"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_749_Hào_khí_ra_tay.json",
+    "chapter_name": "Chương 749: Hào khí ra tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_750_Đăng_cơ.json",
+    "chapter_name": "Chương 750: Đăng cơ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_751_Quân_lâm_Đông_Nguyệt_Tông.json",
+    "chapter_name": "Chương 751: Quân lâm Đông Nguyệt Tông"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_752_Kết_thúc_ân_oán.json",
+    "chapter_name": "Chương 752: Kết thúc ân oán"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_753_Trầm_Hương_Cốc.json",
+    "chapter_name": "Chương 753: Trầm Hương Cốc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_754_Lôi_Hà.json",
+    "chapter_name": "Chương 754: Lôi Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_755_Ngũ_giác_đều_mất_Thượng.json",
+    "chapter_name": "Chương 755: Ngũ giác đều mất (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_756_Ngũ_giác_đều_mất_Hạ.json",
+    "chapter_name": "Chương 756: Ngũ giác đều mất (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_757_Tượng_đá_biết_nói_chuyện.json",
+    "chapter_name": "Chương 757: Tượng đá biết nói chuyện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_758_Lôi_Hỏa_Đại_Đế.json",
+    "chapter_name": "Chương 758: Lôi Hỏa Đại Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_759_Băng_Long_Oanh_Địa_Trận.json",
+    "chapter_name": "Chương 759: Băng Long Oanh Địa Trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_760_Thi_Nhị.json",
+    "chapter_name": "Chương 760: Thi Nhị"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_761_Lão_thi_van_năm.json",
+    "chapter_name": "Chương 761: Lão thi vạn năm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_762_Thi_Nhị_mạnh_mẽ.json",
+    "chapter_name": "Chương 762: Thi Nhị mạnh mẽ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_763_Bạch_Cốt_Chùy.json",
+    "chapter_name": "Chương 763: Bạch Cốt Chùy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_764_Vấn_đề_lộ_ra.json",
+    "chapter_name": "Chương 764: Vấn đề lộ ra"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_765_Giết_gà_Thượng.json",
+    "chapter_name": "Chương 765: Giết gà (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_766_Giết_gà_Hạ.json",
+    "chapter_name": "Chương 766: Giết gà (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_767_Người_Tiên_Vu_đến.json",
+    "chapter_name": "Chương 767: Người Tiên Vu đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_768_Thiên_uy_bất_khả_phạm.json",
+    "chapter_name": "Chương 768: Thiên uy bất khả phạm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_769_Hư_ảnh_Chân_Long.json",
+    "chapter_name": "Chương 769: Hư ảnh Chân Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_770_Trẫm_muốn_Đồ_Long.json",
+    "chapter_name": "Chương 770: Trẫm muốn Đồ Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_771_Quốc_thế_của_ngươi_không_đúng.json",
+    "chapter_name": "Chương 771: Quốc thế của ngươi không đúng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_772_Đồ_Đằng.json",
+    "chapter_name": "Chương 772: Đồ Đằng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_773_Uy_lực_của_trận_pháp.json",
+    "chapter_name": "Chương 773: Uy lực của trận pháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_774_Thần_Minh_hai_giới_Thượng.json",
+    "chapter_name": "Chương 774: Thần Minh hai giới (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_775_Thần_Minh_hai_giới_Hạ.json",
+    "chapter_name": "Chương 775: Thần Minh hai giới (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_776_Đại_chiến_động_một_cái_liền_bùng_nổ.json",
+    "chapter_name": "Chương 776: Đại chiến động một cái liền bùng nổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_777_Đánh_lén.json",
+    "chapter_name": "Chương 777: Đánh lén"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_778_Lá_bài_tẩy_của_Phá_Hư_Cảnh.json",
+    "chapter_name": "Chương 778: Lá bài tẩy của Phá Hư Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_779_Trước_uống_trà_lại_giết_người.json",
+    "chapter_name": "Chương 779: Trước uống trà lại giết người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_780_Xương_tay_Thần_linh.json",
+    "chapter_name": "Chương 780: Xương tay Thần linh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_781_Cướp_đoạt_Thượng.json",
+    "chapter_name": "Chương 781: Cướp đoạt (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_782_Cướp_đoạt_Hạ.json",
+    "chapter_name": "Chương 782: Cướp đoạt (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_783_Thiên_tài_của_Thần_giới.json",
+    "chapter_name": "Chương 783: Thiên tài của Thần giới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_784_Cường_giả_Đông_Vực_đánh_tới.json",
+    "chapter_name": "Chương 784: Cường giả Đông Vực đánh tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_785_Toàn_bộ_quyết_định.json",
+    "chapter_name": "Chương 785: Toàn bộ quyết định"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_786_Đến_Khung_Vân_Đảo.json",
+    "chapter_name": "Chương 786: Đến Khung Vân Đảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_787_Hạ_mã_uy.json",
+    "chapter_name": "Chương 787: Hạ mã uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_788_Ngược_lại_đem_một_quân.json",
+    "chapter_name": "Chương 788: Ngược lại đem một quân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_789_Lại_gài_bẫy_một_cái_Thượng.json",
+    "chapter_name": "Chương 789: Lại gài bẫy một cái (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_790_Lại_gài_bẫy_một_cái_Hạ.json",
+    "chapter_name": "Chương 790: Lại gài bẫy một cái (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_791_Đạt_thành_nhận_thức_chung.json",
+    "chapter_name": "Chương 791: Đạt thành nhận thức chung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_792_Mau_mau_sinh_tiếp_một_đứa.json",
+    "chapter_name": "Chương 792: Mau mau sinh tiếp một đứa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_793_Chặn_mười_chiêu.json",
+    "chapter_name": "Chương 793: Chặn mười chiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_794_Nhân_tộc_cung_có_thể_phách_như_vậy.json",
+    "chapter_name": "Chương 794: Nhân tộc cũng có thể phách như vậy?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_795_Lĩnh_ngộ_Kiếm_Tâm.json",
+    "chapter_name": "Chương 795: Lĩnh ngộ Kiếm Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_796_Tiên_Vu_tộc_cầu_hôn.json",
+    "chapter_name": "Chương 796: Tiên Vu tộc cầu hôn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_797_Hai_lựa_chọn.json",
+    "chapter_name": "Chương 797: Hai lựa chọn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_798_Văn_Nhân_Kiệt_Thượng.json",
+    "chapter_name": "Chương 798: Văn Nhân Kiệt (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_799_Văn_Nhân_Kiệt_Hạ.json",
+    "chapter_name": "Chương 799: Văn Nhân Kiệt (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_800_Người_Tây_Hải_đến.json",
+    "chapter_name": "Chương 800: Người Tây Hải đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_801_Huyết_Hà.json",
+    "chapter_name": "Chương 801: Huyết Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_802_Huyết_Long_Thảo.json",
+    "chapter_name": "Chương 802: Huyết Long Thảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_803_Thu_hoạch_tràn_đầy.json",
+    "chapter_name": "Chương 803: Thu hoạch tràn đầy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_804_Phục_kích.json",
+    "chapter_name": "Chương 804: Phục kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_805_Tuyệt_sát_Cổ_Minh.json",
+    "chapter_name": "Chương 805: Tuyệt sát Cổ Minh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_806_Sơn_Hà_Phủ.json",
+    "chapter_name": "Chương 806: Sơn Hà Phủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_807_Tử_Linh_Chi_Hoa.json",
+    "chapter_name": "Chương 807: Tử Linh Chi Hoa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_808_Huyết_Hòe_Thụ_Nhân_Thượng.json",
+    "chapter_name": "Chương 808: Huyết Hòe Thụ Nhân (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_809_Huyết_Hòe_Thụ_Nhân_Hạ.json",
+    "chapter_name": "Chương 809: Huyết Hòe Thụ Nhân (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_810_Chân_Long_huyết_thạch.json",
+    "chapter_name": "Chương 810: Chân Long huyết thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_811_Bọ_Chét_Vương.json",
+    "chapter_name": "Chương 811: Bọ Chét Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_812_Cuối_cùng_ngộ_Kiếm_Tâm.json",
+    "chapter_name": "Chương 812: Cuối cùng ngộ Kiếm Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_813_Mặc_gia_thiên_kiêu.json",
+    "chapter_name": "Chương 813: Mặc gia thiên kiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_814_Liều_mạng_cận_chiến.json",
+    "chapter_name": "Chương 814: Liều mạng cận chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_815_Xông_vào.json",
+    "chapter_name": "Chương 815: Xông vào"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_816_Cái_tròng.json",
+    "chapter_name": "Chương 816: Cái tròng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_817_Răng_của_Chân_Long.json",
+    "chapter_name": "Chương 817: Răng của Chân Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_818_Á_Long_tái_hiện.json",
+    "chapter_name": "Chương 818: Á Long tái hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_819_Thu_đồ_đệ.json",
+    "chapter_name": "Chương 819: Thu đồ đệ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_820_Long_uy_kiến_công_Thượng.json",
+    "chapter_name": "Chương 820: Long uy kiến công (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_821_Long_uy_kiến_công_Hạ.json",
+    "chapter_name": "Chương 821: Long uy kiến công (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_822_Chân_Long_Thiên_Tử.json",
+    "chapter_name": "Chương 822: Chân Long Thiên Tử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_823_Tổ_tông_nhà_ngươi.json",
+    "chapter_name": "Chương 823: Tổ tông nhà ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_824_Về_Hoàng_Đô.json",
+    "chapter_name": "Chương 824: Về Hoàng Đô"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_825_Cường_giả_đánh_tới.json",
+    "chapter_name": "Chương 825: Cường giả đánh tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_826_Trấn_áp.json",
+    "chapter_name": "Chương 826: Trấn áp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_827_Dực_Song_Song_ra_tay.json",
+    "chapter_name": "Chương 827: Dực Song Song ra tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_828_Bức_lui.json",
+    "chapter_name": "Chương 828: Bức lui"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_829_Thái_Âm_Vương_chiến_Dực_Song_Song.json",
+    "chapter_name": "Chương 829: Thái Âm Vương chiến Dực Song Song"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_830_Ma_Đế_quay_đầu_trở_lại_Thượng.json",
+    "chapter_name": "Chương 830: Ma Đế quay đầu trở lại (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_831_Ma_Đế_quay_đầu_trở_lại_Hạ.json",
+    "chapter_name": "Chương 831: Ma Đế quay đầu trở lại (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_832_Chống_Hàn_Thành.json",
+    "chapter_name": "Chương 832: Chống Hàn Thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_833_Khắp_nơi_có_vai_hề.json",
+    "chapter_name": "Chương 833: Khắp nơi có vai hề"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_834_Người_sáng_lập_Hàn_Phong_Hội.json",
+    "chapter_name": "Chương 834: Người sáng lập Hàn Phong Hội"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_835_Sửa_cái_tên.json",
+    "chapter_name": "Chương 835: Sửa cái tên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_836_Tức_đến_ngất_đi.json",
+    "chapter_name": "Chương 836: Tức đến ngất đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_837_Giết_vào_Thiên_Kiếm_Tông.json",
+    "chapter_name": "Chương 837: Giết vào Thiên Kiếm Tông"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_838_Đổ_ước.json",
+    "chapter_name": "Chương 838: Đổ ước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_839_Kì_binh_Thượng.json",
+    "chapter_name": "Chương 839: Kì binh (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_840_Kì_binh_Hạ.json",
+    "chapter_name": "Chương 840: Kì binh (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_841_Liên_tiếp_bại.json",
+    "chapter_name": "Chương 841: Liên tiếp bại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_842_Ta_đến.json",
+    "chapter_name": "Chương 842: Ta đến!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_843_Thân_thể_không_hư.json",
+    "chapter_name": "Chương 843: Thân thể không hư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_844_Hoá_trang_lên_sân_khấu.json",
+    "chapter_name": "Chương 844: Hoá trang lên sân khấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_845_Đại_quyết_chiến.json",
+    "chapter_name": "Chương 845: Đại quyết chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_846_Doạ_chạy_Đệ_Tam_Sát_Trận.json",
+    "chapter_name": "Chương 846: Doạ chạy Đệ Tam Sát Trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_847_Đệ_Nhất_Sát_Trận.json",
+    "chapter_name": "Chương 847: Đệ Nhất Sát Trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_848_Thuyền_lớn_từ_trong_hư_không_đến_Thượng.json",
+    "chapter_name": "Chương 848: Thuyền lớn từ trong hư không đến (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_849_Thuyền_lớn_từ_trong_hư_không_đến_Hạ.json",
+    "chapter_name": "Chương 849: Thuyền lớn từ trong hư không đến (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_850_Vong_hồn.json",
+    "chapter_name": "Chương 850: Vong hồn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_851_Cùng_ta_uống_chén_trà.json",
+    "chapter_name": "Chương 851: Cùng ta uống chén trà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_852_Luân_Hồi.json",
+    "chapter_name": "Chương 852: Luân Hồi"
   }
 ]
