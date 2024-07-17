@@ -5,8 +5,8 @@ permissions:
   actions: write
 
 on:
-  schedule:
-    - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
+  # schedule:
+  #   - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
   push:
     branches:
       - main
@@ -56,5 +56,5 @@ jobs:
         run: |
           curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          https://api.github.com/repos/hlongho/truyen/actions/workflows/crawl-and-push.yml/dispatches \
+          https://api.github.com/repos/hlongho/truyen/actions/workflows/107210601/dispatches \
           -d '{"ref":"main"}'
