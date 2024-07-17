@@ -1198,5 +1198,405 @@
   {
     "path": "data/Đấu_Phá_Thương_Khung/Chương_300_Vòng_thi_đấu_thứ_nhất_bắt_đầu.json",
     "chapter_name": "Chương 300: Vòng thi đấu thứ nhất bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_301_Kinh_tâm_động_phách.json",
+    "chapter_name": "Chương 301: Kinh tâm động phách"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_302_Trắc_nghiệmngười_áo_xám_thần_bí.json",
+    "chapter_name": "Chương 302: Trắc nghiệm,người áo xám thần bí"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_303_Quá_mức_đơn_giản.json",
+    "chapter_name": "Chương 303: Quá mức đơn giản"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_304_Có_vấn_đề.json",
+    "chapter_name": "Chương 304: Có vấn đề"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_305_Ngăn_cơn_sóng_dữđại_hội_tạm_dừng.json",
+    "chapter_name": "Chương 305: Ngăn cơn sóng dữ,đại hội tạm dừng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_306_Quỷ_bí_hắc_bào_nhân.json",
+    "chapter_name": "Chương 306: Quỷ bí hắc bào nhân"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_307_Chân_tướng.json",
+    "chapter_name": "Chương 307: Chân tướng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_308_Viêm_Lợi.json",
+    "chapter_name": "Chương 308: Viêm Lợi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_309_Tiền_từ_trên_trời_rơi_xuống.json",
+    "chapter_name": "Chương 309: Tiền từ trên trời rơi xuống"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_310_Tam_văn_thanh_linh_đan.json",
+    "chapter_name": "Chương 310: Tam văn thanh linh đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_311_Vòng_cuối_cùng_Bắt_đầu.json",
+    "chapter_name": "Chương 311: Vòng cuối cùng! Bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_312_Các_Lộ_Thần_Thông.json",
+    "chapter_name": "Chương 312: Các Lộ Thần Thông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_313_Thất_Bại.json",
+    "chapter_name": "Chương 313: Thất Bại"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_314_Quán_Quân_Là_Ta.json",
+    "chapter_name": "Chương 314: Quán Quân Là Ta"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_315_Tái_Độ_Quật_Khởi.json",
+    "chapter_name": "Chương 315: Tái Độ - Quật Khởi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_316_Tử_Tâm_Phá_Chướng_Đan.json",
+    "chapter_name": "Chương 316: Tử Tâm Phá Chướng Đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_317_Nổ_Đỉnh.json",
+    "chapter_name": "Chương 317: Nổ Đỉnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_318_Người_Thắng_Cuối_Cùng.json",
+    "chapter_name": "Chương 318: Người Thắng Cuối Cùng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_319_Đánh_Giá.json",
+    "chapter_name": "Chương 319: Đánh Giá"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_320_Đại_Hội_Kết_Thúc.json",
+    "chapter_name": "Chương 320: Đại Hội Kết Thúc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_321_Lĩnh_Thưởng.json",
+    "chapter_name": "Chương 321: Lĩnh Thưởng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_322_Thất_Huyễn_Thanh_Linh_Tiên_Tới_Tay.json",
+    "chapter_name": "Chương 322: Thất Huyễn Thanh Linh Tiên Tới Tay"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_323_Dược_Lão_Thức_Tỉnh.json",
+    "chapter_name": "Chương 323: Dược Lão Thức Tỉnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_324_Da_Đàm.json",
+    "chapter_name": "Chương 324: Dạ Đàm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_325_Phục_Dụng_Tam_Văn_Thanh_Linh_Đan.json",
+    "chapter_name": "Chương 325: Phục Dụng Tam Văn Thanh Linh Đan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_326_Tấn_Giai_Đại_Đấu_Sư.json",
+    "chapter_name": "Chương 326: Tấn Giai Đại Đấu Sư"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_327_Phó_Thác.json",
+    "chapter_name": "Chương 327: Phó Thác"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_328_Tiêu_Gia_Tiêu_Viêm.json",
+    "chapter_name": "Chương 328: Tiêu Gia - Tiêu Viêm"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_329_Ba_Năm_ước_Hẹn.json",
+    "chapter_name": "Chương 329: Ba Năm ước Hẹn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_330_Nạp_Lan_Yên_Nhiên_Bại.json",
+    "chapter_name": "Chương 330: Nạp Lan Yên Nhiên Bại?"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_331_Thực_Lực_Chân_Chính_Của_Song_Phương.json",
+    "chapter_name": "Chương 331: Thực Lực Chân Chính Của Song Phương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_332_Chiến_Đấu_Ác_Liệt.json",
+    "chapter_name": "Chương 332: Chiến Đấu Ác Liệt"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_333_Gió_Nổi_Lên_Thái_Dương_Lặn.json",
+    "chapter_name": "Chương 333: Gió Nổi Lên - Thái Dương Lặn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_334_bộc_lộ.json",
+    "chapter_name": "Chương 334: bộc lộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_335_Tiểu_Hình_Phật_Nộ_Hỏa_Liên.json",
+    "chapter_name": "Chương 335: Tiểu Hình Phật Nộ Hỏa Liên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_336_Kết_thúc.json",
+    "chapter_name": "Chương 336: Kết thúc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_337_Phong_Ba_Tái_Khởi.json",
+    "chapter_name": "Chương 337: Phong Ba Tái Khởi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_338_Trốn_Không_Khỏi_Phiền_Toái.json",
+    "chapter_name": "Chương 338: Trốn Không Khỏi Phiền Toái"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_339_Hết_Sức_Căng_Thẳng.json",
+    "chapter_name": "Chương 339: Hết Sức Căng Thẳng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_340_Ba_Gã_Đấu_Vương_Cường_Giả.json",
+    "chapter_name": "Chương 340: Ba Gã Đấu Vương Cường Giả"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_341_Đại_chiến.json",
+    "chapter_name": "Chương 341: Đại chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_342_Thất_Thải_Thôn_Thiên_Mãng_Xuất_Trường.json",
+    "chapter_name": "Chương 342: Thất Thải Thôn Thiên Mãng Xuất Trường"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_343_Bi_Kịch_Của_Vân_Lăng.json",
+    "chapter_name": "Chương 343: Bi Kịch Của Vân Lăng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_344_Vân_Yên_Phúc_Nhật_Trận.json",
+    "chapter_name": "Chương 344: Vân Yên Phúc Nhật Trận"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_345_Thần_Bí_Đấu_Hoàng_Xuất_Trướng.json",
+    "chapter_name": "Chương 345: Thần Bí Đấu Hoàng Xuất Trướng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_346_Đấu_Hoàng_Lăng_Ảnh.json",
+    "chapter_name": "Chương 346: Đấu Hoàng Lăng Ảnh"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_347_Con_Bài_Chưa_Lật_Của_Vân_Lam_Tông.json",
+    "chapter_name": "Chương 347: Con Bài Chưa Lật Của Vân Lam Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_348_Tiền_Nhiệm_Tông_Chủ_Vân_Lam_TôngĐấu_Tông_Vân_Sơn.json",
+    "chapter_name": "Chương 348: Tiền Nhiệm Tông Chủ Vân Lam Tông-Đấu Tông Vân Sơn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_349_Xuống_Núi.json",
+    "chapter_name": "Chương 349: Xuống Núi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_350_Phân_Biệt_Cùng_Giao_Dịch.json",
+    "chapter_name": "Chương 350: Phân Biệt Cùng Giao Dịch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_351_Đường_Về_Nhà.json",
+    "chapter_name": "Chương 351: Đường Về Nhà"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_352_Biến_Cố_Tiêu_Gia.json",
+    "chapter_name": "Chương 352: Biến Cố Tiêu Gia"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_353_Một_Tên_Không_Lưu.json",
+    "chapter_name": "Chương 353: Một Tên Không Lưu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_354_Hắn_phải_chết.json",
+    "chapter_name": "Chương 354: Hắn phải chết"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_355_Dàn_xếp_Tiêu_gia.json",
+    "chapter_name": "Chương 355: Dàn xếp Tiêu gia"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_356_Trở_Lại_Vân_Lam_Tông.json",
+    "chapter_name": "Chương 356: Trở Lại Vân Lam Tông"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_357_Dược_Nham_Vân_Chi.json",
+    "chapter_name": "Chương 357: Dược Nham - Vân Chi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_358_Đánh_Chết_Vân_Lăng.json",
+    "chapter_name": "Chương 358: Đánh Chết Vân Lăng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_359_Sinh_tử_chi_cục.json",
+    "chapter_name": "Chương 359: Sinh tử chi cục"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_360_Sinh_Tử_môn.json",
+    "chapter_name": "Chương 360: Sinh Tử môn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_361_Đấu_tông_cường_giả_đại_chiến.json",
+    "chapter_name": "Chương 361: Đấu tông cường giả đại chiến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_362_Đại_đào_vong_bắt_đầu.json",
+    "chapter_name": "Chương 362: Đại đào vong bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_363_Dưỡng_thương.json",
+    "chapter_name": "Chương 363: Dưỡng thương"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_364_Lần_lượt_đề_thăng_Thăng_cấp.json",
+    "chapter_name": "Chương 364: Lần lượt đề thăng ! Thăng cấp"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_365_Thiên_Hỏa_Tam_Huyền_Biến.json",
+    "chapter_name": "Chương 365: Thiên Hỏa Tam Huyền Biến!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_366_Bí_pháp_diệu_dụng.json",
+    "chapter_name": "Chương 366: Bí pháp diệu dụng"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_367_Huyết_tanh_trả_thù.json",
+    "chapter_name": "Chương 367: Huyết tanh trả thù!"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_368_Vây_giêt_trong_Ma_thu_sơn_mach.json",
+    "chapter_name": "Chương 368: Vây giết trong Ma thú sơn mạch"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_369_Đôt_ngôt_xuât_hiên_viên_binh_.json",
+    "chapter_name": "Chương 369: Đột ngột xuất hiện viện binh !"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_370_Chay_thoat_.json",
+    "chapter_name": "Chương 370: Chạy thoát !"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_371_Đại_Lĩnh_thành.json",
+    "chapter_name": "Chương 371: Đại Lĩnh thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_372_Chuẩn_bị_trước_khi_rời_đi.json",
+    "chapter_name": "Chương 372: Chuẩn bị trước khi rời đi"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_373_Hắc_Giác_vực.json",
+    "chapter_name": "Chương 373: Hắc Giác vực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_374_Bại_lộ.json",
+    "chapter_name": "Chương 374: Bại lộ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_375_Rời_khỏi_Gia_Mã_đế_quốc.json",
+    "chapter_name": "Chương 375: Rời khỏi Gia Mã đế quốc"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_376_Thần_Bí_Thế_Lực_Hồn_Điện.json",
+    "chapter_name": "Chương 376: Thần Bí Thế Lực - Hồn Điện?"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_377_Già_Nam_Học_Viện_Tiêu_Gia_Có_Một_Thiếu_Nữ_Trưởng_Thành.json",
+    "chapter_name": "Chương 377: Già Nam Học Viện - Tiêu Gia Có Một Thiếu Nữ Trưởng Thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_378_Hắc_vực_đại_bình_nguyên.json",
+    "chapter_name": "Chương 378: Hắc vực đại bình nguyên"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_379_Không_cần_từ_bi_ở_hỗn_loạn_vực.json",
+    "chapter_name": "Chương 379: Không cần từ bi ở hỗn loạn vực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_380_Hắc_bảng_hắc_phong_bạo.json",
+    "chapter_name": "Chương 380: Hắc bảng, hắc phong bạo"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_381_Hắc_Ấn_thành.json",
+    "chapter_name": "Chương 381: Hắc Ấn thành"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_382_Kinh_tế_Tiêu_Viêm_quẫn_bách.json",
+    "chapter_name": "Chương 382: Kinh tế Tiêu Viêm quẫn bách"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_383_Luyện_đan_thoát_bần.json",
+    "chapter_name": "Chương 383: Luyện đan thoát bần"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_384_Phòng_đấu_giá_Hắc_Ấn.json",
+    "chapter_name": "Chương 384: Phòng đấu giá Hắc Ấn"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_385_Đấu_giá_hội_bắt_đầu.json",
+    "chapter_name": "Chương 385: Đấu giá hội bắt đầu"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_386_Phi_hành_đấu_kĩLôi_bức_thiên_dực.json",
+    "chapter_name": "Chương 386: Phi hành đấu kĩ-Lôi bức thiên dực"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_387_Lôi_Bức_Thiên_Dực_đích_tranh_đoạt_cùng_tàn_phá_địa_đồ.json",
+    "chapter_name": "Chương 387: Lôi Bức Thiên Dực đích tranh đoạt cùng tàn phá địa đồ"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_388_Biến_cố_tràn_lan.json",
+    "chapter_name": "Chương 388: Biến cố tràn lan"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_389_Địa_giai_thân_pháp_đấu_kĩ_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 389: Địa giai thân pháp đấu kĩ: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_390_Trọng_đầu_hí_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 390: Trọng đầu hí: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_391_Thất_Phẩm_Đan_Dược_Âm_Dương_Huyền_Long_Đan_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 391: Thất Phẩm Đan Dược - Âm Dương Huyền Long Đan!: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_392_Theo_đuôi_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 392: Theo đuôi: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_393_Mai_phục_chặn_giết_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 393: Mai phục chặn giết: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_394_Đại_lộ_chiến_đấu_kịch_liệt_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 394: Đại lộ chiến đấu kịch liệt: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_395_Trai_cò_đánh_nhauTiêu_Viêm_đắc_lợi_Tam_thiên_lôi_động.json",
+    "chapter_name": "Chương 395: Trai cò đánh nhau,Tiêu Viêm đắc lợi: Tam thiên lôi động"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_396_Thiên_hỏa_tam_huyền_biến_đệ_nhất_trọng_Thanh_liên_biến.json",
+    "chapter_name": "Chương 396: Thiên hỏa tam huyền biến đệ nhất trọng: Thanh liên biến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_397_Thu_hoạch_Thanh_liên_biến.json",
+    "chapter_name": "Chương 397: Thu hoạch!: Thanh liên biến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_398_Nuốt_phục_Âm_Dương_Huyền_Long_Đan_Thanh_liên_biến.json",
+    "chapter_name": "Chương 398: Nuốt phục Âm Dương Huyền Long Đan!: Thanh liên biến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_399_Hòa_Bình_trấn_Thanh_liên_biến.json",
+    "chapter_name": "Chương 399: Hòa Bình trấn: Thanh liên biến"
+  },
+  {
+    "path": "data/Đấu_Phá_Thương_Khung/Chương_400_Già_Nam_học_viện_chấp_pháp_đội_Thanh_liên_biến.json",
+    "chapter_name": "Chương 400: Già Nam học viện chấp pháp đội: Thanh liên biến"
   }
 ]
