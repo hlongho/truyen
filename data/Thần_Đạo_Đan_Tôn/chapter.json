@@ -16798,5 +16798,805 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_4208_Ngươi_Dám_Trốn_Thử_Xem.json",
     "chapter_name": "Chương 4208: Ngươi Dám Trốn Thử Xem"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4209_Đường_Nghiêm_Nổi_Giận.json",
+    "chapter_name": "Chương 4209: Đường Nghiêm Nổi Giận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4210_Sinh_Biến.json",
+    "chapter_name": "Chương 4210: Sinh Biến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4211_Đột_phá_Trúc_Cực_Cơ.json",
+    "chapter_name": "Chương 4211: Đột phá Trúc Cực Cơ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4212_Chiến_Chú_Đỉnh.json",
+    "chapter_name": "Chương 4212: Chiến Chú Đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4213_Cự_Đầu_Thứ_Tư.json",
+    "chapter_name": "Chương 4213: Cự Đầu Thứ Tư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4214_Đối_Thủ_Ngươi_Sắp_Gặp_Được.json",
+    "chapter_name": "Chương 4214: Đối Thủ Ngươi Sắp Gặp Được"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4215_Ngày_Quyết_Chiến.json",
+    "chapter_name": "Chương 4215: Ngày Quyết Chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4216_Thu_Bảo.json",
+    "chapter_name": "Chương 4216: Thu Bảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4217_Đột_Phá_Vẫn_Đánh.json",
+    "chapter_name": "Chương 4217: Đột Phá? Vẫn Đánh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4218_Xích_Đô_Úy.json",
+    "chapter_name": "Chương 4218: Xích Đô Úy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4219_Tra_Án.json",
+    "chapter_name": "Chương 4219: Tra Án"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4220_Tìm_Ra_Hung_Thủ.json",
+    "chapter_name": "Chương 4220: Tìm Ra Hung Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4221_Dừng_Lại.json",
+    "chapter_name": "Chương 4221: Dừng Lại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4222_Lại_Có_Vụ_Án_Mới.json",
+    "chapter_name": "Chương 4222: Lại Có Vụ Án Mới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4223_Cạm_Bẫy.json",
+    "chapter_name": "Chương 4223: Cạm Bẫy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4224_Hung_Phạm.json",
+    "chapter_name": "Chương 4224: Hung Phạm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4225_Hút_Chết_Chính_Mình.json",
+    "chapter_name": "Chương 4225: Hút Chết Chính Mình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4226_Uy_Hiếp_Không_Biết_Tên.json",
+    "chapter_name": "Chương 4226: Uy Hiếp Không Biết Tên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4227_Tàng_Bảo_Đồ.json",
+    "chapter_name": "Chương 4227: Tàng Bảo Đồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4228_Kim_Dạ_Tuyết.json",
+    "chapter_name": "Chương 4228: Kim Dạ Tuyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4229_Đúng_Dịp.json",
+    "chapter_name": "Chương 4229: Đúng Dịp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4230_Phá_Trận.json",
+    "chapter_name": "Chương 4230: Phá Trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4231_Ưu_Thế_Thời_Gian.json",
+    "chapter_name": "Chương 4231: Ưu Thế Thời Gian"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4232_Thư_Khố.json",
+    "chapter_name": "Chương 4232: Thư Khố"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4233_Địa_Vị_Của_Kim_gia.json",
+    "chapter_name": "Chương 4233: Địa Vị Của Kim gia"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4234_Truyền_Thừa.json",
+    "chapter_name": "Chương 4234: Truyền Thừa!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4235_Đan_lô_cực_giai.json",
+    "chapter_name": "Chương 4235: Đan lô cực giai"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4236_Vây_công.json",
+    "chapter_name": "Chương 4236: Vây công"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4237_Thoát_thân.json",
+    "chapter_name": "Chương 4237: Thoát thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4238_Đột_phá_chú_đỉnh.json",
+    "chapter_name": "Chương 4238: Đột phá chú đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4239_Đánh_không_vỡ.json",
+    "chapter_name": "Chương 4239: Đánh không vỡ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4240_Xử_lý_toàn_bộ.json",
+    "chapter_name": "Chương 4240: Xử lý toàn bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4241_Về_nhà.json",
+    "chapter_name": "Chương 4241: Về nhà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4242_Trở_lại_hạt_nhân_phủ.json",
+    "chapter_name": "Chương 4242: Trở lại hạt nhân phủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4243_Tính_nợ_cũ.json",
+    "chapter_name": "Chương 4243: Tính nợ cũ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4244_Công_văn.json",
+    "chapter_name": "Chương 4244: Công văn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4245_Xuất_chinh.json",
+    "chapter_name": "Chương 4245: Xuất chinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4246_Toàn_quân_bị_diệt.json",
+    "chapter_name": "Chương 4246: Toàn quân bị diệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4247_To_gan_lớn_mật.json",
+    "chapter_name": "Chương 4247: To gan lớn mật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4248_Sát_cục.json",
+    "chapter_name": "Chương 4248: Sát cục?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4249_Ngươi_là_nô_ta_là_chủ.json",
+    "chapter_name": "Chương 4249: Ngươi là nô, ta là chủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4250_Giết_thì_giết.json",
+    "chapter_name": "Chương 4250: Giết thì giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4251_Giết_Tôn.json",
+    "chapter_name": "Chương 4251: Giết Tôn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4252_Thanh_Long_Hoàng_Triều_Hủy_Diệt.json",
+    "chapter_name": "Chương 4252: Thanh Long Hoàng Triều Hủy Diệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4253_Cửu_Dương_Thánh_Nhân.json",
+    "chapter_name": "Chương 4253: Cửu Dương Thánh Nhân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4254_Tiểu_nhân_tham_lam.json",
+    "chapter_name": "Chương 4254: Tiểu nhân tham lam"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4255_Thanh_Hà_Bí_Cảnh.json",
+    "chapter_name": "Chương 4255: Thanh Hà Bí Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4256_Âm_hồn.json",
+    "chapter_name": "Chương 4256: Âm hồn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4257_Hào_Quang_Bổ_Thân.json",
+    "chapter_name": "Chương 4257: Hào Quang Bổ Thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4258_Bố_trí_lôi_đài.json",
+    "chapter_name": "Chương 4258: Bố trí lôi đài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4259_Thiên_tài_mỹ_nữ_tụ_tập.json",
+    "chapter_name": "Chương 4259: Thiên tài, mỹ nữ tụ tập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4260_Tranh_chức_đội_trưởng.json",
+    "chapter_name": "Chương 4260: Tranh chức đội trưởng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4261_Tứ_đỉnh.json",
+    "chapter_name": "Chương 4261: Tứ đỉnh!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4262_Khuyên_can.json",
+    "chapter_name": "Chương 4262: Khuyên can"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4263_Con_ếch_lục_đỉnh.json",
+    "chapter_name": "Chương 4263: Con ếch lục đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4264_Yêu_hạch.json",
+    "chapter_name": "Chương 4264: Yêu hạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4265_Thú_triều.json",
+    "chapter_name": "Chương 4265: Thú triều"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4266_Chạy_trốn.json",
+    "chapter_name": "Chương 4266: Chạy trốn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4267_Long_tiên_thảo_linh_thạch_nhũ.json",
+    "chapter_name": "Chương 4267: Long tiên thảo, linh thạch nhũ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4268_Tốt_nhất_đừng_chọc_ta.json",
+    "chapter_name": "Chương 4268: Tốt nhất đừng chọc ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4269_Đồ_Thần_thuật.json",
+    "chapter_name": "Chương 4269: Đồ Thần thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4270_Đỉnh_tâm_đan.json",
+    "chapter_name": "Chương 4270: Đỉnh tâm đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4271_Hãm_hại_chính_mình.json",
+    "chapter_name": "Chương 4271: Hãm hại chính mình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4272_Tam_tương_bảo_bình_trận.json",
+    "chapter_name": "Chương 4272: Tam tương bảo bình trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4273_Cầu_đan.json",
+    "chapter_name": "Chương 4273: Cầu đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4274_Huyễn_vân_miêu.json",
+    "chapter_name": "Chương 4274: Huyễn vân miêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4275_Vùng_đất_truyền_thuyết.json",
+    "chapter_name": "Chương 4275: Vùng đất truyền thuyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4276_Giếng_cạn_không_đáy.json",
+    "chapter_name": "Chương 4276: Giếng cạn không đáy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4277_Huyệt_cư_nhân.json",
+    "chapter_name": "Chương 4277: Huyệt cư nhân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4278_Diễn_hồn_thuật.json",
+    "chapter_name": "Chương 4278: Diễn hồn thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4279_Phản_kích.json",
+    "chapter_name": "Chương 4279: Phản kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4280_Chọc_giận.json",
+    "chapter_name": "Chương 4280: Chọc giận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4281_Trận_vây_khốn_sinh_đan.json",
+    "chapter_name": "Chương 4281: Trận vây khốn sinh đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4282_Giáo_chủ_xuất_thủ.json",
+    "chapter_name": "Chương 4282: Giáo chủ xuất thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4283_Sinh_tử_đấu.json",
+    "chapter_name": "Chương 4283: Sinh tử đấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4284_Ngũ_đỉnh.json",
+    "chapter_name": "Chương 4284: Ngũ đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4285_Quỳ_xuống.json",
+    "chapter_name": "Chương 4285: Quỳ xuống"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4286_Đánh_giết_chính_diện.json",
+    "chapter_name": "Chương 4286: Đánh giết chính diện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4287_Đạo_tử_hậu_tuyển_giả.json",
+    "chapter_name": "Chương 4287: Đạo tử hậu tuyển giả"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4288_Chiến_lâm_thất.json",
+    "chapter_name": "Chương 4288: Chiến lâm thất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4289_Thiêu_đốt_đế_huyết.json",
+    "chapter_name": "Chương 4289: Thiêu đốt đế huyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4290_Ác_khách.json",
+    "chapter_name": "Chương 4290: Ác khách"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4291_Chủ_nhân_nhà_ta_triệu_kiến.json",
+    "chapter_name": "Chương 4291: Chủ nhân nhà ta triệu kiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4292_Liễu_lão_quái.json",
+    "chapter_name": "Chương 4292: Liễu lão quái"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4293_Thưởng_thức.json",
+    "chapter_name": "Chương 4293: Thưởng thức"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4294_Động_Phủ_Của_Hóa_Linh_Chân_Quân.json",
+    "chapter_name": "Chương 4294: Động Phủ Của Hóa Linh Chân Quân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4295_Phản_kích.json",
+    "chapter_name": "Chương 4295: Phản kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4296_Diệt_Sát_Sinh_Đan.json",
+    "chapter_name": "Chương 4296: Diệt Sát Sinh Đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4297_Nắm_tay.json",
+    "chapter_name": "Chương 4297: Nắm tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4298_Chiến_Lục_Kỳ.json",
+    "chapter_name": "Chương 4298: Chiến Lục Kỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4299_Nón_xanh.json",
+    "chapter_name": "Chương 4299: Nón xanh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4300_Bị_vây.json",
+    "chapter_name": "Chương 4300: Bị vây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4301_Đếm_tới_mười.json",
+    "chapter_name": "Chương 4301: Đếm tới mười"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4302_Liệt_diễm_đồ_Sát.json",
+    "chapter_name": "Chương 4302: Liệt diễm đồ Sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4303_Thăng_long_thịnh_hội.json",
+    "chapter_name": "Chương 4303: Thăng long thịnh hội"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4304_Bạch_Liên_Thánh_Địa.json",
+    "chapter_name": "Chương 4304: Bạch Liên Thánh Địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4305_Hoang_nguyên.json",
+    "chapter_name": "Chương 4305: Hoang nguyên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4306_Khoác_lác.json",
+    "chapter_name": "Chương 4306: Khoác lác"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4307_Khó_lòng_phòng_bị.json",
+    "chapter_name": "Chương 4307: Khó lòng phòng bị"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4308_Sa_mạc_vô_tận.json",
+    "chapter_name": "Chương 4308: Sa mạc vô tận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4309_Đánh_yểm_trợ.json",
+    "chapter_name": "Chương 4309: Đánh yểm trợ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4310_Giải_vây.json",
+    "chapter_name": "Chương 4310: Giải vây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4311_Mở_rộng_đội_ngũ.json",
+    "chapter_name": "Chương 4311: Mở rộng đội ngũ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4312_Hung_thủ_thần_bí.json",
+    "chapter_name": "Chương 4312: Hung thủ thần bí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4313_Sa_nữ.json",
+    "chapter_name": "Chương 4313: Sa nữ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4314_Nhận_chủ.json",
+    "chapter_name": "Chương 4314: Nhận chủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4315_Lục_đỉnh.json",
+    "chapter_name": "Chương 4315: Lục đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4316_Băng_cốc_băng_hổ.json",
+    "chapter_name": "Chương 4316: Băng cốc, băng hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4317_Tái_chiến_lục_kỳ.json",
+    "chapter_name": "Chương 4317: Tái chiến lục kỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4318_Hợp_kích_băng_hổ.json",
+    "chapter_name": "Chương 4318: Hợp kích băng hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4319_Đánh_ngã.json",
+    "chapter_name": "Chương 4319: Đánh ngã"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4320_Giải_thể.json",
+    "chapter_name": "Chương 4320: Giải thể"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4321_Lôi_Đình_Đại_Tế_Tự.json",
+    "chapter_name": "Chương 4321: Lôi Đình Đại Tế Tự"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4322_Tiên_hà.json",
+    "chapter_name": "Chương 4322: Tiên hà?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4323_Luyện_hóa_tia_sáng_lôi_đình.json",
+    "chapter_name": "Chương 4323: Luyện hóa tia sáng lôi đình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4324_Lôi_Thần.json",
+    "chapter_name": "Chương 4324: Lôi Thần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4325_Chu_Gia_Thiết_Yến.json",
+    "chapter_name": "Chương 4325: Chu Gia Thiết Yến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4326_Dẫn_kiến.json",
+    "chapter_name": "Chương 4326: Dẫn kiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4327_Đảo_khách_thành_chủ.json",
+    "chapter_name": "Chương 4327: Đảo khách thành chủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4328_Liệp_Thiên_Nỏ.json",
+    "chapter_name": "Chương 4328: Liệp Thiên Nỏ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4329_Một_tiễn_miểu_sát.json",
+    "chapter_name": "Chương 4329: Một tiễn miểu sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4330_Thắng_thảm.json",
+    "chapter_name": "Chương 4330: Thắng thảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4331_Vật_chất_thần_tính.json",
+    "chapter_name": "Chương 4331: Vật chất thần tính"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4332_Phong_thần_thối.json",
+    "chapter_name": "Chương 4332: Phong thần thối"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4333_Đột_phá.json",
+    "chapter_name": "Chương 4333: Đột phá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4334_Một_kích_mà_thôi.json",
+    "chapter_name": "Chương 4334: Một kích mà thôi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4335_Ngả_bài.json",
+    "chapter_name": "Chương 4335: Ngả bài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4336_Hắc_Thiên_Miếu.json",
+    "chapter_name": "Chương 4336: Hắc Thiên Miếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4337_Tiểu_nhân_vật_phản_kích.json",
+    "chapter_name": "Chương 4337: Tiểu nhân vật phản kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4338_Thong_dong_rời_đi.json",
+    "chapter_name": "Chương 4338: Thong dong rời đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4339_Hàng_Long_Phục_Hổ.json",
+    "chapter_name": "Chương 4339: Hàng Long Phục Hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4340_Ngọn_đèn.json",
+    "chapter_name": "Chương 4340: Ngọn đèn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4341_Thánh_Nhân_Thi_Dầu.json",
+    "chapter_name": "Chương 4341: Thánh Nhân Thi Dầu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4342_Ý_chí_tà_ác.json",
+    "chapter_name": "Chương 4342: Ý chí tà ác"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4343_Phật_Tổ_A_Hàm.json",
+    "chapter_name": "Chương 4343: Phật Tổ A Hàm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4344_Gặp_lại_Hồng_Thiên_Bộ.json",
+    "chapter_name": "Chương 4344: Gặp lại Hồng Thiên Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4345_Trận_chiến_cuối_cùng.json",
+    "chapter_name": "Chương 4345: Trận chiến cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4346_Chém_giết.json",
+    "chapter_name": "Chương 4346: Chém giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4347_Phong_Kế_Hành.json",
+    "chapter_name": "Chương 4347: Phong Kế Hành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4348_Siêu_độ_vong_hồn.json",
+    "chapter_name": "Chương 4348: Siêu độ vong hồn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4349_Bí_thuật_phật_tộc.json",
+    "chapter_name": "Chương 4349: Bí thuật phật tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4350_Chân_thật_và_ảo_cảnh.json",
+    "chapter_name": "Chương 4350: Chân thật và ảo cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4351_Huyễn_Cảnh_Hắc_Mang.json",
+    "chapter_name": "Chương 4351: Huyễn Cảnh Hắc Mang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4352_Thánh_Thuật.json",
+    "chapter_name": "Chương 4352: Thánh Thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4353_Cắt_ngang.json",
+    "chapter_name": "Chương 4353: Cắt ngang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4354_Đế_Vương_Trong_Tiên_Đỉnh.json",
+    "chapter_name": "Chương 4354: Đế Vương Trong Tiên Đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4355_Chiến_Phong_Kế_Hành.json",
+    "chapter_name": "Chương 4355: Chiến Phong Kế Hành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4356_Nghiệp_hỏa.json",
+    "chapter_name": "Chương 4356: Nghiệp hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4357_Thánh_vẫn.json",
+    "chapter_name": "Chương 4357: Thánh vẫn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4358_Quan_tài.json",
+    "chapter_name": "Chương 4358: Quan tài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4359_Da_người.json",
+    "chapter_name": "Chương 4359: Da người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4360_Chuẩn_Đế_Đa_Gia.json",
+    "chapter_name": "Chương 4360: Chuẩn Đế Đa Gia"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4361_Ba_Đạo_Đạo_Tiên_Hà.json",
+    "chapter_name": "Chương 4361: Ba Đạo Đạo Tiên Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4362_Vạn_Thú_Lĩnh.json",
+    "chapter_name": "Chương 4362: Vạn Thú Lĩnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4363_Anh_hùng.json",
+    "chapter_name": "Chương 4363: Anh hùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4364_Bị_thương.json",
+    "chapter_name": "Chương 4364: Bị thương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4365_Thua_chạy.json",
+    "chapter_name": "Chương 4365: Thua chạy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4366_Đạo_thứ_sáu.json",
+    "chapter_name": "Chương 4366: Đạo thứ sáu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4367_Đại_dược_chân_ngã_cảnh.json",
+    "chapter_name": "Chương 4367: Đại dược chân ngã cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4368_Thong_dong_rời_đi.json",
+    "chapter_name": "Chương 4368: Thong dong rời đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4369_Cửu_đỉnh.json",
+    "chapter_name": "Chương 4369: Cửu đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4370_Lấy_đồ_Trong_túi.json",
+    "chapter_name": "Chương 4370: Lấy đồ Trong túi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4371_Chiến_Đổng_Vĩnh_Ninh.json",
+    "chapter_name": "Chương 4371: Chiến Đổng Vĩnh Ninh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4372_Xử_lý.json",
+    "chapter_name": "Chương 4372: Xử lý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4373_Huyền_quy_điện.json",
+    "chapter_name": "Chương 4373: Huyền quy điện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4374_Cổ_cung.json",
+    "chapter_name": "Chương 4374: Cổ cung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4375_Bút_ký.json",
+    "chapter_name": "Chương 4375: Bút ký"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4376_Lại_lấy_được_một_đạo_tiên_hà.json",
+    "chapter_name": "Chương 4376: Lại lấy được một đạo tiên hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4377_Trương_Hữu_Huyền.json",
+    "chapter_name": "Chương 4377: Trương Hữu Huyền"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4378_Tru_tà_thần_lôi.json",
+    "chapter_name": "Chương 4378: Tru tà thần lôi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4379_Thập_đỉnh.json",
+    "chapter_name": "Chương 4379: Thập đỉnh!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4380_Phùng_gia.json",
+    "chapter_name": "Chương 4380: Phùng gia"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4381_Bại_Sinh_Đan.json",
+    "chapter_name": "Chương 4381: Bại Sinh Đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4382_Tiết_lộ_thân_phận.json",
+    "chapter_name": "Chương 4382: Tiết lộ thân phận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4383_Đổng_gia_bị_diệt.json",
+    "chapter_name": "Chương 4383: Đổng gia bị diệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4384_Phùng_gia_xuất_thủ.json",
+    "chapter_name": "Chương 4384: Phùng gia xuất thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4385_Truy_sát.json",
+    "chapter_name": "Chương 4385: Truy sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4386_Hèn_nhát.json",
+    "chapter_name": "Chương 4386: Hèn nhát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4387_Tiên_hà_thứ_mười.json",
+    "chapter_name": "Chương 4387: Tiên hà thứ mười"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4388_Đỉnh_nát.json",
+    "chapter_name": "Chương 4388: Đỉnh nát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4389_Thập_đỉnh_hợp_nhất.json",
+    "chapter_name": "Chương 4389: Thập đỉnh hợp nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4390_Chém_giết_Sinh_Đan_Hậu_Kỳ.json",
+    "chapter_name": "Chương 4390: Chém giết Sinh Đan Hậu Kỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4391_Lại_diệt_một_người.json",
+    "chapter_name": "Chương 4391: Lại diệt một người"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4392_Ba_mươi_năm_hà_đông_ba_mươi_năm_hà_tây.json",
+    "chapter_name": "Chương 4392: Ba mươi năm hà đông, ba mươi năm hà tây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4393_Dùng_toàn_lực.json",
+    "chapter_name": "Chương 4393: Dùng toàn lực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4394_Át_chủ_bài_va_chạm.json",
+    "chapter_name": "Chương 4394: Át chủ bài va chạm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4395_Oanh_bại.json",
+    "chapter_name": "Chương 4395: Oanh bại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4396_Rời_đi.json",
+    "chapter_name": "Chương 4396: Rời đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4397_Bao_che_khuyết_điểm.json",
+    "chapter_name": "Chương 4397: Bao che khuyết điểm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4398_Người_Tây_Thiên_Vực_Tới.json",
+    "chapter_name": "Chương 4398: Người Tây Thiên Vực Tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4399_Lăng_Hàn_Xuất_Thủ.json",
+    "chapter_name": "Chương 4399: Lăng Hàn Xuất Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4400_Mười_chiêu.json",
+    "chapter_name": "Chương 4400: Mười chiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4401_Uy_thế_vô_địch.json",
+    "chapter_name": "Chương 4401: Uy thế vô địch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4402_Hợp_đỉnh_trong_truyền_thuyết.json",
+    "chapter_name": "Chương 4402: Hợp đỉnh trong truyền thuyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4403_Thực_lực_của_sắc_trư.json",
+    "chapter_name": "Chương 4403: Thực lực của sắc trư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4404_Lại_đánh_bại_lục_kỳ.json",
+    "chapter_name": "Chương 4404: Lại đánh bại lục kỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4405_Độ_hóa.json",
+    "chapter_name": "Chương 4405: Độ hóa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4406_Lại_tới_khiêu_chiến.json",
+    "chapter_name": "Chương 4406: Lại tới khiêu chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4407_Thất_bại_thảm_hại.json",
+    "chapter_name": "Chương 4407: Thất bại thảm hại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4408_Đế_tử.json",
+    "chapter_name": "Chương 4408: Đế tử"
   }
 ]
