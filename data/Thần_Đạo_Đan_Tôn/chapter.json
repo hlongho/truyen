@@ -7198,5 +7198,805 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_1804_Không_chịu_nổi_một_kích.json",
     "chapter_name": "Chương 1804: Không chịu nổi một kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1805_Mặt_dày_vô_sỉ.json",
+    "chapter_name": "Chương 1805: Mặt dày vô sỉ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1806_Khi_có_trọng_thưởng.json",
+    "chapter_name": "Chương 1806: Khi có trọng thưởng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1807_Nhiệm_vụ_đến.json",
+    "chapter_name": "Chương 1807: Nhiệm vụ đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1808_Nhẹ_nhàng_giải_quyết.json",
+    "chapter_name": "Chương 1808: Nhẹ nhàng giải quyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1809_Một_lưới_bắt_hết.json",
+    "chapter_name": "Chương 1809: Một lưới bắt hết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1810_Giang_Vô_Thương.json",
+    "chapter_name": "Chương 1810: Giang Vô Thương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1811_Quyển_trục_không_mở_ra_được.json",
+    "chapter_name": "Chương 1811: Quyển trục không mở ra được"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1812_Thống_lĩnh_Mạo_Đại.json",
+    "chapter_name": "Chương 1812: Thống lĩnh Mạo Đại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1813_Cái_gì_là_Trảm_Trần.json",
+    "chapter_name": "Chương 1813: Cái gì là Trảm Trần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1814_Đại_biểu.json",
+    "chapter_name": "Chương 1814: Đại biểu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1815_Chiêu_hàng.json",
+    "chapter_name": "Chương 1815: Chiêu hàng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1816_Tiểu_nhân_ám_toán.json",
+    "chapter_name": "Chương 1816: Tiểu nhân ám toán"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1817_Chiến_với_đội_Thanh_Long.json",
+    "chapter_name": "Chương 1817: Chiến với đội Thanh Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1818_Lập_kế_hoạch.json",
+    "chapter_name": "Chương 1818: Lập kế hoạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1819_Hắc_Nguyệt_thành.json",
+    "chapter_name": "Chương 1819: Hắc Nguyệt thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1820_Tỷ_đệ_hung_dữ.json",
+    "chapter_name": "Chương 1820: Tỷ đệ hung dữ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1821_Tỷ_lệ_đền_tiền.json",
+    "chapter_name": "Chương 1821: Tỷ lệ đền tiền"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1822_Yêu_cầu_leo_lên_đảo_Tiên_Vân.json",
+    "chapter_name": "Chương 1822: Yêu cầu leo lên đảo Tiên Vân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1823_Kỷ_lục_khiến_người_tuyệt_vọng.json",
+    "chapter_name": "Chương 1823: Kỷ lục khiến người tuyệt vọng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1824_Nữ_Hoàng_ra_tay_chín_mươi_hai_mắt.json",
+    "chapter_name": "Chương 1824: Nữ Hoàng ra tay, chín mươi hai mắt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1825_Lên_đảo.json",
+    "chapter_name": "Chương 1825: Lên đảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1826_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 1826: Oan gia ngõ hẹp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1827_Dã_chiến.json",
+    "chapter_name": "Chương 1827: Dã chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1828_Đồng_Lâm_đâu.json",
+    "chapter_name": "Chương 1828: Đồng Lâm đâu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1829_Kẻ_xui_xẻo.json",
+    "chapter_name": "Chương 1829: Kẻ xui xẻo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1830_Một_chiêu.json",
+    "chapter_name": "Chương 1830: Một chiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1831_Trưởng_Tôn_Lương_ra_tay.json",
+    "chapter_name": "Chương 1831: Trưởng Tôn Lương ra tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1832_Hóa_thù_thành_bạn.json",
+    "chapter_name": "Chương 1832: Hóa thù thành bạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1833_Lão_tổ_Đồng_gia_xin_lỗi.json",
+    "chapter_name": "Chương 1833: Lão tổ Đồng gia xin lỗi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1834_Là_quý_khách_nào.json",
+    "chapter_name": "Chương 1834: Là quý khách nào?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1835_Rốt_cuộc_thành_Thánh_Vương.json",
+    "chapter_name": "Chương 1835: Rốt cuộc thành Thánh Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1836_Người_từ_Bách_Hoành_thành_đến.json",
+    "chapter_name": "Chương 1836: Người từ Bách Hoành thành đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1837_Lại_một_Vương_giả.json",
+    "chapter_name": "Chương 1837: Lại một Vương giả"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1838_Trưởng_Tôn_thua_Lăng_Hàn_lên.json",
+    "chapter_name": "Chương 1838: Trưởng Tôn thua, Lăng Hàn lên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1839_Làm_banh_đá.json",
+    "chapter_name": "Chương 1839: Làm banh đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1840_Ta_tên_Đinh_Khiếu_Trần.json",
+    "chapter_name": "Chương 1840: Ta tên Đinh Khiếu Trần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1841_Chiêu_lãm.json",
+    "chapter_name": "Chương 1841: Chiêu lãm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1842_Chơi_vố_lớn.json",
+    "chapter_name": "Chương 1842: Chơi vố lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1843_Hai_kẻ_hố_hàng_lập_kế_hoạch.json",
+    "chapter_name": "Chương 1843: Hai kẻ hố hàng lập kế hoạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1844_So_ai_chọc_tức_người.json",
+    "chapter_name": "Chương 1844: So ai chọc tức người?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1845_Trò_hay_trình_diễn.json",
+    "chapter_name": "Chương 1845: Trò hay trình diễn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1846_Không_đề_Thượng.json",
+    "chapter_name": "Chương 1846: Không đề (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1847_Không_đề_Hạ.json",
+    "chapter_name": "Chương 1847: Không đề (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1848_Quá_siêu_phàm_Thượng.json",
+    "chapter_name": "Chương 1848: Quá siêu phàm (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1849_Quá_siêu_phàm_Hạ.json",
+    "chapter_name": "Chương 1849: Quá siêu phàm (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1850_Không_đề_Thượng.json",
+    "chapter_name": "Chương 1850: Không đề (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1851_Không_đề_Hạ.json",
+    "chapter_name": "Chương 1851: Không đề (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1852_Tới_Trảm_Trần_uyên_Thượng.json",
+    "chapter_name": "Chương 1852: Tới Trảm Trần uyên (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1853_Tới_Trảm_Trần_uyên_Hạ.json",
+    "chapter_name": "Chương 1853: Tới Trảm Trần uyên (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1854_Lại_thêm_mấy_Vương_giả.json",
+    "chapter_name": "Chương 1854: Lại thêm mấy Vương giả"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1855_Bắc_Huyền_Minh.json",
+    "chapter_name": "Chương 1855: Bắc Huyền Minh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1856_Trảm_Trần_uyên_mở_ra.json",
+    "chapter_name": "Chương 1856: Trảm Trần uyên mở ra"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1857_Không_đề.json",
+    "chapter_name": "Chương 1857: Không đề"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1858_Tích_lũy_kinh_nghiệm_Thượng.json",
+    "chapter_name": "Chương 1858: Tích lũy kinh nghiệm (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1859_Tích_lũy_kinh_nghiệm_Hạ.json",
+    "chapter_name": "Chương 1859: Tích lũy kinh nghiệm (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1860_Tranh_phạt.json",
+    "chapter_name": "Chương 1860: Tranh phạt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1861_Mẫu_Hà.json",
+    "chapter_name": "Chương 1861: Mẫu Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1862_Trảm_Trần_giữa_hồ.json",
+    "chapter_name": "Chương 1862: Trảm Trần giữa hồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1863_Trùng_kích_Trảm_Trần_Thượng.json",
+    "chapter_name": "Chương 1863: Trùng kích Trảm Trần (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1864_Trùng_kích_Trảm_Trần_Hạ.json",
+    "chapter_name": "Chương 1864: Trùng kích Trảm Trần (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1865_Trảm_Thiên_địa.json",
+    "chapter_name": "Chương 1865: Trảm Thiên địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1866_Trảm_Trần.json",
+    "chapter_name": "Chương 1866: Trảm Trần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1867_Lại_hiện_Tiên_Vương.json",
+    "chapter_name": "Chương 1867: Lại hiện Tiên Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1868_Luyện_hóa_Mẫu_Thủy_Thượng.json",
+    "chapter_name": "Chương 1868: Luyện hóa Mẫu Thủy (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1869_Luyện_hóa_Mẫu_Thủy_Hạ.json",
+    "chapter_name": "Chương 1869: Luyện hóa Mẫu Thủy (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1870_Quy_tắc_nghiền_áp.json",
+    "chapter_name": "Chương 1870: Quy tắc nghiền áp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1871_Tam_giới_tháp.json",
+    "chapter_name": "Chương 1871: Tam giới tháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1872_Không_có_thiệp_mời_nên_xử_lý_thế_nào_Thượng.json",
+    "chapter_name": "Chương 1872: Không có thiệp mời nên xử lý thế nào? (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1873_Không_có_thiệp_mời_nên_xử_lý_thế_nào_Hạ.json",
+    "chapter_name": "Chương 1873: Không có thiệp mời nên xử lý thế nào? (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1874_Trợ_giúp_luyện_đan.json",
+    "chapter_name": "Chương 1874: Trợ giúp luyện đan"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1875_Tận_diệt.json",
+    "chapter_name": "Chương 1875: Tận diệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1876_Tán_gái_như_vậy_Thượng.json",
+    "chapter_name": "Chương 1876: Tán gái như vậy (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1877_Tán_gái_như_vậy_Hạ.json",
+    "chapter_name": "Chương 1877: Tán gái như vậy (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1879_Tiếp_được_một_đao_của_ta.json",
+    "chapter_name": "Chương 1879: Tiếp được một đao của ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1880_Không_đề.json",
+    "chapter_name": "Chương 1880: Không đề"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1881_Không_tiếp_địa_khí.json",
+    "chapter_name": "Chương 1881: Không tiếp địa khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1882_Phó_Cao_Vân_Thượng.json",
+    "chapter_name": "Chương 1882: Phó Cao Vân (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1883_Phó_Cao_Vân_Hạ.json",
+    "chapter_name": "Chương 1883: Phó Cao Vân (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1884_Bắc_Huyền_Minh_khiêu_chiến.json",
+    "chapter_name": "Chương 1884: Bắc Huyền Minh khiêu chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1885_Cân_nhắc_một_chút_Lăng_huynh_đệ_của_ta.json",
+    "chapter_name": "Chương 1885: Cân nhắc một chút, Lăng huynh đệ của ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1886_Học_luyện_đan_cùng_lão_phu.json",
+    "chapter_name": "Chương 1886: Học luyện đan cùng lão phu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1887_Học_luyện_tiên_đan_Thượng.json",
+    "chapter_name": "Chương 1887: Học luyện tiên đan (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1888_Học_luyện_tiên_đan_Hạ.json",
+    "chapter_name": "Chương 1888: Học luyện tiên đan (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1889_Không_đề.json",
+    "chapter_name": "Chương 1889: Không đề"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1890_Tổ_miếu_Đinh_gia_lại_gặp_nạn.json",
+    "chapter_name": "Chương 1890: Tổ miếu Đinh gia lại gặp nạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1891_Chiến_Đinh_Diệu_Long.json",
+    "chapter_name": "Chương 1891: Chiến Đinh Diệu Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1892_Vạn_Quỷ_linh_Thượng.json",
+    "chapter_name": "Chương 1892: Vạn Quỷ linh (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1893_Vạn_Quỷ_linh_Hạ.json",
+    "chapter_name": "Chương 1893: Vạn Quỷ linh (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1894_Cường_giả_Dương_Hồn_tới.json",
+    "chapter_name": "Chương 1894: Cường giả Dương Hồn tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1895_Đại_Hắc_Cẩu_mời.json",
+    "chapter_name": "Chương 1895: Đại Hắc Cẩu mời"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1896_Dược_viên.json",
+    "chapter_name": "Chương 1896: Dược viên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1897_Thất_mệnh_thiên_vân.json",
+    "chapter_name": "Chương 1897: Thất mệnh thiên vân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1898_Tiên_dục_trì_Thượng.json",
+    "chapter_name": "Chương 1898: Tiên dục trì (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1899_Tiên_dục_trì_Hạ.json",
+    "chapter_name": "Chương 1899: Tiên dục trì (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1900_Rảo_bước_vào_Nhị_Trảm.json",
+    "chapter_name": "Chương 1900: Rảo bước vào Nhị Trảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1901_Miểu_sát_Tam_Trảm.json",
+    "chapter_name": "Chương 1901: Miểu sát Tam Trảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1902_Một_vật_khắc_một_vận.json",
+    "chapter_name": "Chương 1902: Một vật khắc một vận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1903_Diệt_Đinh_gia_Thượng.json",
+    "chapter_name": "Chương 1903: Diệt Đinh gia (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1904_Diệt_Đinh_gia_Hạ.json",
+    "chapter_name": "Chương 1904: Diệt Đinh gia (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1905_Ly_Hận_thành.json",
+    "chapter_name": "Chương 1905: Ly Hận thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1906_Nữ_nhân_bưu_hãn.json",
+    "chapter_name": "Chương 1906: Nữ nhân bưu hãn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1907_Chuyện_nhục_nhã_bò_qua_háng.json",
+    "chapter_name": "Chương 1907: Chuyện nhục nhã bò qua háng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1908_Vạ_lây_Thượng.json",
+    "chapter_name": "Chương 1908: Vạ lây (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1909_Vạ_lây_Hạ.json",
+    "chapter_name": "Chương 1909: Vạ lây (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1910_Tiên_ma_kiếm_phát_huy.json",
+    "chapter_name": "Chương 1910: Tiên ma kiếm phát huy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1911_Ra_oai_phủ_đầu.json",
+    "chapter_name": "Chương 1911: Ra oai phủ đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1912_Đánh_đàn.json",
+    "chapter_name": "Chương 1912: Đánh đàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1913_Tranh_giành_danh_ngạch_Thượng.json",
+    "chapter_name": "Chương 1913: Tranh giành danh ngạch (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1914_Tranh_giành_danh_ngạch_Hạ.json",
+    "chapter_name": "Chương 1914: Tranh giành danh ngạch (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1915_Chơi_xấu.json",
+    "chapter_name": "Chương 1915: Chơi xấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1916_Nam_Đấu_Thạch_Dương_Thủy.json",
+    "chapter_name": "Chương 1916: Nam Đấu Thạch Dương Thủy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1917_Ăn_trộm.json",
+    "chapter_name": "Chương 1917: Ăn trộm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1918_Biến_cố_Thượng.json",
+    "chapter_name": "Chương 1918: Biến cố (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1919_Biến_cố_Hạ.json",
+    "chapter_name": "Chương 1919: Biến cố (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1920_Thuyết_khách.json",
+    "chapter_name": "Chương 1920: Thuyết khách"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1921_Phó_Thông_Hải.json",
+    "chapter_name": "Chương 1921: Phó Thông Hải"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1922_Tố_Nữ_môn.json",
+    "chapter_name": "Chương 1922: Tố Nữ môn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1923_Dịch_Hỏa_thuật_Thượng.json",
+    "chapter_name": "Chương 1923: Dịch Hỏa thuật (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1924_Dịch_Hỏa_thuật_Hạ.json",
+    "chapter_name": "Chương 1924: Dịch Hỏa thuật (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1925_Tu_bổ_pháp_quyết.json",
+    "chapter_name": "Chương 1925: Tu bổ pháp quyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1926_Nhu_yêu_nữ.json",
+    "chapter_name": "Chương 1926: Nhu yêu nữ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1927_Lấy_thân_báo_đáp_đi.json",
+    "chapter_name": "Chương 1927: Lấy thân báo đáp đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1928_Cửu_Chuyển_mị_thế.json",
+    "chapter_name": "Chương 1928: Cửu Chuyển mị thế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1929_Đến_thăm_và_khiêu_chiến_Thượng.json",
+    "chapter_name": "Chương 1929: Đến thăm và khiêu chiến (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1930_Đến_thăm_và_khiêu_chiến_Hạ.json",
+    "chapter_name": "Chương 1930: Đến thăm và khiêu chiến (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1931_Hai_quái_vật.json",
+    "chapter_name": "Chương 1931: Hai quái vật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1932_Dạy_dỗ.json",
+    "chapter_name": "Chương 1932: Dạy dỗ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1933_Thánh_tử_chính_thức.json",
+    "chapter_name": "Chương 1933: Thánh tử chính thức"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1934_Uy_của_Lạc_Trường_Phong_Thượng.json",
+    "chapter_name": "Chương 1934: Uy của Lạc Trường Phong (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1935_Uy_của_Lạc_Trường_Phong_Hạ.json",
+    "chapter_name": "Chương 1935: Uy của Lạc Trường Phong (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1936_Khuyên_bảo.json",
+    "chapter_name": "Chương 1936: Khuyên bảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1937_Tai_họa_bất_ngờ.json",
+    "chapter_name": "Chương 1937: Tai họa bất ngờ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1938_Lửa_thiêu_mông_Thượng.json",
+    "chapter_name": "Chương 1938: Lửa thiêu mông (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1939_Lửa_thiêu_mông_Hạ.json",
+    "chapter_name": "Chương 1939: Lửa thiêu mông (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1940_Phân_rõ_giới_hạn.json",
+    "chapter_name": "Chương 1940: Phân rõ giới hạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1941_Bí_cảnh_mở_ra.json",
+    "chapter_name": "Chương 1941: Bí cảnh mở ra"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1942_Nữ_kỵ_sĩ_thần_bí.json",
+    "chapter_name": "Chương 1942: Nữ kỵ sĩ thần bí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1943_Côn_Bằng_cung_Tiên_Vương_đại_giáo.json",
+    "chapter_name": "Chương 1943: Côn Bằng cung. Tiên Vương đại giáo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1944_Trùng_hợp_Thượng.json",
+    "chapter_name": "Chương 1944: Trùng hợp (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1945_Trùng_hợp_Hạ.json",
+    "chapter_name": "Chương 1945: Trùng hợp (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1946_Tiên_dược_vi_thỏ.json",
+    "chapter_name": "Chương 1946: Tiên dược vi thỏ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1947_Ăn_thiệt_thòi.json",
+    "chapter_name": "Chương 1947: Ăn thiệt thòi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1948_Bạch_Ma_Thụ.json",
+    "chapter_name": "Chương 1948: Bạch Ma Thụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1949_Lấy_oán_trả_ơn_không_thể_nhẫn_nhịn.json",
+    "chapter_name": "Chương 1949: Lấy oán trả ơn, không thể nhẫn nhịn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1950_Thu_ma_thụ.json",
+    "chapter_name": "Chương 1950: Thu ma thụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1951_Người_giấy.json",
+    "chapter_name": "Chương 1951: Người giấy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1952_Mục_tiêu_ngươi_cao_bao_nhiêu.json",
+    "chapter_name": "Chương 1952: Mục tiêu ngươi cao bao nhiêu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1953_Ngũ_trảm.json",
+    "chapter_name": "Chương 1953: Ngũ trảm!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1954_Đánh_lén_vô_sỉ.json",
+    "chapter_name": "Chương 1954: Đánh lén vô sỉ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1955_Rác_rưởi.json",
+    "chapter_name": "Chương 1955: Rác rưởi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1956_Chiến_thú_hiển_uy.json",
+    "chapter_name": "Chương 1956: Chiến thú hiển uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1957_Khảo_vấn_đạo_tâm.json",
+    "chapter_name": "Chương 1957: Khảo vấn đạo tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1958_Bẩy_rập.json",
+    "chapter_name": "Chương 1958: Bẩy rập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1959_Ngộ_Thượng.json",
+    "chapter_name": "Chương 1959: Ngộ (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1960_Ngộ_Hạ.json",
+    "chapter_name": "Chương 1960: Ngộ (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1961_Nhiều_người_như_vậy.json",
+    "chapter_name": "Chương 1961: Nhiều người như vậy!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1962_Tiếp_cận.json",
+    "chapter_name": "Chương 1962: Tiếp cận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1963_Thiên_Đạo_Ngọc.json",
+    "chapter_name": "Chương 1963: Thiên Đạo Ngọc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1964_Tay_run.json",
+    "chapter_name": "Chương 1964: Tay run"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1965_Tranh_đoạt_trọng_khí.json",
+    "chapter_name": "Chương 1965: Tranh đoạt trọng khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1966_Thay_đổi_trong_nháy_mắt.json",
+    "chapter_name": "Chương 1966: Thay đổi trong nháy mắt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1967_Bị_gài_bẫy.json",
+    "chapter_name": "Chương 1967: Bị gài bẫy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1968_Bảo_sơn_mở_cửa.json",
+    "chapter_name": "Chương 1968: Bảo sơn mở cửa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1969_Tìm_kiếm.json",
+    "chapter_name": "Chương 1969: Tìm kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1970_Tiên_dược_lại_xuất_hiện.json",
+    "chapter_name": "Chương 1970: Tiên dược lại xuất hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1971_Công_thành.json",
+    "chapter_name": "Chương 1971: Công thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1972_Đột_phá_tam_trảm.json",
+    "chapter_name": "Chương 1972: Đột phá tam trảm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1973_Đế_giả_Thượng.json",
+    "chapter_name": "Chương 1973: Đế giả? (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1974_Đế_giả_Hạ.json",
+    "chapter_name": "Chương 1974: Đế giả? (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1975_Hoàng_giả_liên_thủ.json",
+    "chapter_name": "Chương 1975: Hoàng giả liên thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1976_Đại_chiến_hoàn_toàn_mới.json",
+    "chapter_name": "Chương 1976: Đại chiến hoàn toàn mới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1977_Chém.json",
+    "chapter_name": "Chương 1977: Chém"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1978_Sống_quỳ.json",
+    "chapter_name": "Chương 1978: Sống quỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1979_Lại_bạo_sạch.json",
+    "chapter_name": "Chương 1979: Lại bạo sạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1980_Thu_Thiên_Đạo_Ngọc.json",
+    "chapter_name": "Chương 1980: Thu Thiên Đạo Ngọc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1981_Ai_mang_xấu_ai_Thượng.json",
+    "chapter_name": "Chương 1981: Ai mang xấu ai (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1982_Ai_mang_xấu_ai_Hạ.json",
+    "chapter_name": "Chương 1982: Ai mang xấu ai (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1983_Tâm_trả_thù.json",
+    "chapter_name": "Chương 1983: Tâm trả thù"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1984_To_gan_lớn_mật_như_vậy.json",
+    "chapter_name": "Chương 1984: To gan lớn mật như vậy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1985_Xông_họa_không_nhỏ.json",
+    "chapter_name": "Chương 1985: Xông họa không nhỏ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1986_Lại_là_Lăng_Hàn.json",
+    "chapter_name": "Chương 1986: Lại là Lăng Hàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1987_Địa_vị_đại_hắc_cẩu.json",
+    "chapter_name": "Chương 1987: Địa vị đại hắc cẩu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1988_Thiên_Hỏa_Tiên_Vương.json",
+    "chapter_name": "Chương 1988: Thiên Hỏa Tiên Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1989_Thiên_tài_như_mây_ngươi_xếp_thứ_mấy.json",
+    "chapter_name": "Chương 1989: Thiên tài như mây, ngươi xếp thứ mấy?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1990_Luyện_hóa_Tiên_Vương_tâm_Thượng.json",
+    "chapter_name": "Chương 1990: Luyện hóa Tiên Vương tâm (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1991_Luyện_hóa_Tiên_Vương_tâm_Hạ.json",
+    "chapter_name": "Chương 1991: Luyện hóa Tiên Vương tâm (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1992_Vòng_vây.json",
+    "chapter_name": "Chương 1992: Vòng vây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1993_Phó_gia_sẵn_sàng_nghênh_tiếp.json",
+    "chapter_name": "Chương 1993: Phó gia sẵn sàng nghênh tiếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1994_Tiếp_được_không.json",
+    "chapter_name": "Chương 1994: Tiếp được không?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1995_Có_vấn_đề_gì_cứ_đến_Côn_Bằng_Cung_của_ta_nói.json",
+    "chapter_name": "Chương 1995: Có vấn đề gì cứ đến Côn Bằng Cung của ta nói"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1996_Một_kích_chém_giết.json",
+    "chapter_name": "Chương 1996: Một kích chém giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1997_Lôi_Vân_Tiên_Vương_ha_ha.json",
+    "chapter_name": "Chương 1997: Lôi Vân Tiên Vương, ha ha"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1998_Đi_ngang_qua_mà_thôi_Thượng.json",
+    "chapter_name": "Chương 1998: Đi ngang qua mà thôi (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_1999_Đi_ngang_qua_mà_thôi_Hạ.json",
+    "chapter_name": "Chương 1999: Đi ngang qua mà thôi (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2000_Ăn_thịt_cũng_có_thể_gây_phiền_toái.json",
+    "chapter_name": "Chương 2000: Ăn thịt cũng có thể gây phiền toái"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2001_Ta_là_người_rất_dễ_nói_chuyện.json",
+    "chapter_name": "Chương 2001: Ta là người rất dễ nói chuyện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2002_Cạnh_tranh_khác_thường.json",
+    "chapter_name": "Chương 2002: Cạnh tranh khác thường"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2003_Lão_hóa.json",
+    "chapter_name": "Chương 2003: Lão hóa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2004_Trộm_đồ.json",
+    "chapter_name": "Chương 2004: Trộm đồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_2005_Phòng_tu_luyện_thời_gian.json",
+    "chapter_name": "Chương 2005: Phòng tu luyện thời gian"
   }
 ]
