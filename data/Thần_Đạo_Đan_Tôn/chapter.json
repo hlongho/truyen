@@ -19998,5 +19998,805 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_5008_Vào_Trận_Pháp.json",
     "chapter_name": "Chương 5008: Vào Trận Pháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5009_Chia_Ra_Hành_Động.json",
+    "chapter_name": "Chương 5009: Chia Ra Hành Động"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5010_Càn_Quét.json",
+    "chapter_name": "Chương 5010: Càn Quét"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5011_Cỏ_Dại.json",
+    "chapter_name": "Chương 5011: Cỏ Dại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5012_Hôn_Kỳ.json",
+    "chapter_name": "Chương 5012: Hôn Kỳ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5013_Thập_Ngũ_Tinh.json",
+    "chapter_name": "Chương 5013: Thập Ngũ Tinh!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5014_Thánh_Hỏa.json",
+    "chapter_name": "Chương 5014: Thánh Hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5015_Thánh_Nhân_Mộ_Địa.json",
+    "chapter_name": "Chương 5015: Thánh Nhân Mộ Địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5016_Tinh_Cầu_Vỡ_Vụn.json",
+    "chapter_name": "Chương 5016: Tinh Cầu Vỡ Vụn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5017_Sai_Khiến.json",
+    "chapter_name": "Chương 5017: Sai Khiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5018_Thực_Lực.json",
+    "chapter_name": "Chương 5018: Thực Lực!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5019_Chiến_Các_Đế_Tử.json",
+    "chapter_name": "Chương 5019: Chiến Các Đế Tử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5020_Hiển_Lộ_Uy_Phong.json",
+    "chapter_name": "Chương 5020: Hiển Lộ Uy Phong"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5021_Thánh_Dược_Và_Tay_Gãy.json",
+    "chapter_name": "Chương 5021: Thánh Dược Và Tay Gãy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5022_Huyết_Trùng.json",
+    "chapter_name": "Chương 5022: Huyết Trùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5023_Biển_Trùng.json",
+    "chapter_name": "Chương 5023: Biển Trùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5024_Tận_Diệt.json",
+    "chapter_name": "Chương 5024: Tận Diệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5025_Thánh_Thú.json",
+    "chapter_name": "Chương 5025: Thánh Thú"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5026_Hạt_Giống_Quy_Tắc.json",
+    "chapter_name": "Chương 5026: Hạt Giống Quy Tắc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5027_Nữ_Sát_Thủ.json",
+    "chapter_name": "Chương 5027: Nữ Sát Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5028_Giảo_Sát.json",
+    "chapter_name": "Chương 5028: Giảo Sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5029_Thi_Tháp.json",
+    "chapter_name": "Chương 5029: Thi Tháp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5030_Tháp_Sập.json",
+    "chapter_name": "Chương 5030: Tháp Sập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5031_Tháp_Sập.json",
+    "chapter_name": "Chương 5031: Tháp Sập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5032_Người_Hắc_Quỳ_Tộc.json",
+    "chapter_name": "Chương 5032: Người Hắc Quỳ Tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5033_Con_Ruột_Của_Ma_Đế.json",
+    "chapter_name": "Chương 5033: Con Ruột Của Ma Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5034_Đồng_Minh.json",
+    "chapter_name": "Chương 5034: Đồng Minh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5035_Dư_Uy.json",
+    "chapter_name": "Chương 5035: Dư Uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5036_Chuẩn_Bị_Cuối_Cùng.json",
+    "chapter_name": "Chương 5036: Chuẩn Bị Cuối Cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5037_Gặp_Lại_Đế_Vô_Cực.json",
+    "chapter_name": "Chương 5037: Gặp Lại Đế Vô Cực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5038_Xung_Kích_Tứ_Cực_cảnh.json",
+    "chapter_name": "Chương 5038: Xung Kích Tứ Cực cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5039_Cuối_Cùng_Cũng_Thành_Tôn_Giả.json",
+    "chapter_name": "Chương 5039: Cuối Cùng Cũng Thành Tôn Giả"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5040_Hôn_Lễ_Bắt_Đầu.json",
+    "chapter_name": "Chương 5040: Hôn Lễ Bắt Đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5041_Ta_Phản_Đối.json",
+    "chapter_name": "Chương 5041: Ta Phản Đối"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5042_Ta_Tới.json",
+    "chapter_name": "Chương 5042: Ta Tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5043_Lăng_Hàn_Thành_Tôn.json",
+    "chapter_name": "Chương 5043: Lăng Hàn Thành Tôn!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5044_Chiến_Bán_Thánh.json",
+    "chapter_name": "Chương 5044: Chiến Bán Thánh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5045_Bách_Lý_Thiên_Bại.json",
+    "chapter_name": "Chương 5045: Bách Lý Thiên Bại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5046_Tứ_Cực_chống_trời.json",
+    "chapter_name": "Chương 5046: Tứ Cực chống trời"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5047_Cướp_cô_dâu_mà_đi.json",
+    "chapter_name": "Chương 5047: Cướp cô dâu mà đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5048_Cửu_Dương_Thánh_Địa_trọng_lập.json",
+    "chapter_name": "Chương 5048: Cửu Dương Thánh Địa trọng lập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5049_Đi_tới_biên_giới_vũ_trụ.json",
+    "chapter_name": "Chương 5049: Đi tới biên giới vũ trụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5050_Thánh_Nhân_ám_sát.json",
+    "chapter_name": "Chương 5050: Thánh Nhân ám sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5051_Hư_Không_Đế_tộc.json",
+    "chapter_name": "Chương 5051: Hư Không Đế tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5052_Bày_trận.json",
+    "chapter_name": "Chương 5052: Bày trận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5053_Thành_Tổ_Vương.json",
+    "chapter_name": "Chương 5053: Thành Tổ Vương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5054_Giả_danh_lừa_bịp.json",
+    "chapter_name": "Chương 5054: Giả danh lừa bịp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5055_Lăng_Hàn_giả.json",
+    "chapter_name": "Chương 5055: Lăng Hàn giả"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5056_Đánh_bạc_tinh_vực.json",
+    "chapter_name": "Chương 5056: Đánh bạc tinh vực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5057_Phản_khiêu_chiến.json",
+    "chapter_name": "Chương 5057: Phản khiêu chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5058_Binh_lâm_thành_hạ.json",
+    "chapter_name": "Chương 5058: Binh lâm thành hạ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5059_Thánh_Sư.json",
+    "chapter_name": "Chương 5059: Thánh Sư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5060_Kinh_biến.json",
+    "chapter_name": "Chương 5060: Kinh biến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5061_Đế_tàng.json",
+    "chapter_name": "Chương 5061: Đế tàng?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5062_Thánh_Hỏa_trùng.json",
+    "chapter_name": "Chương 5062: Thánh Hỏa trùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5063_Đốt_cây.json",
+    "chapter_name": "Chương 5063: Đốt cây"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5064_Đế_tượng.json",
+    "chapter_name": "Chương 5064: Đế tượng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5065_Tuổi_thơ_của_Đại_Đế.json",
+    "chapter_name": "Chương 5065: Tuổi thơ của Đại Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5066_Giao_ra_Đế_kinh_và_Đế_binh.json",
+    "chapter_name": "Chương 5066: Giao ra Đế kinh và Đế binh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5067_Một_đấu_mười.json",
+    "chapter_name": "Chương 5067: Một đấu mười"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5068_Đánh_nát_các_ngươi.json",
+    "chapter_name": "Chương 5068: Đánh nát các ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5069_Giết_sạch_sành_sanh.json",
+    "chapter_name": "Chương 5069: Giết sạch sành sanh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5070_Ngày_Thánh_vẫn.json",
+    "chapter_name": "Chương 5070: Ngày Thánh vẫn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5071_Chuẩn_Đế_Cát_Thiên_Thu.json",
+    "chapter_name": "Chương 5071: Chuẩn Đế Cát Thiên Thu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5072_Liễu_Tâm_Hà.json",
+    "chapter_name": "Chương 5072: Liễu Tâm Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5073_Mười_hai_tuyệt_địa.json",
+    "chapter_name": "Chương 5073: Mười hai tuyệt địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5074_Nữ_Đế.json",
+    "chapter_name": "Chương 5074: Nữ Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5075_Phục_kích.json",
+    "chapter_name": "Chương 5075: Phục kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5076_Liễu_Tâm_Hà.json",
+    "chapter_name": "Chương 5076: Liễu Tâm Hà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5077_Đọ_sức_đại_cơ_duyên.json",
+    "chapter_name": "Chương 5077: Đọ sức đại cơ duyên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5078_Bách_Lý_Hào_Kiệt.json",
+    "chapter_name": "Chương 5078: Bách Lý Hào Kiệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5079_Thêm_Con_Đường_Phía_Trước.json",
+    "chapter_name": "Chương 5079: Thêm Con Đường Phía Trước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5080_Ký_Hiệu_Thứ_Mười.json",
+    "chapter_name": "Chương 5080: Ký Hiệu Thứ Mười"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5081_Bốn_Vị_Đại_Đế.json",
+    "chapter_name": "Chương 5081: Bốn Vị Đại Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5082_Bại_Thiên_Kiếp.json",
+    "chapter_name": "Chương 5082: Bại Thiên Kiếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5083_Đế_Binh_Xuất_Hiện.json",
+    "chapter_name": "Chương 5083: Đế Binh Xuất Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5084_Cửa_Đá.json",
+    "chapter_name": "Chương 5084: Cửa Đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5085_Xua_Đuổi.json",
+    "chapter_name": "Chương 5085: Xua Đuổi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5086_Hạt_Giống_Thánh_Hỏa.json",
+    "chapter_name": "Chương 5086: Hạt Giống Thánh Hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5087_Đến_Đây.json",
+    "chapter_name": "Chương 5087: Đến Đây!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5088_Biển_Cả_Trong_Tinh_Không.json",
+    "chapter_name": "Chương 5088: Biển Cả Trong Tinh Không"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5089_Yêu_Cầu.json",
+    "chapter_name": "Chương 5089: Yêu Cầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5090_Hải_Hoàng.json",
+    "chapter_name": "Chương 5090: Hải Hoàng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5091_Chân_Tướng.json",
+    "chapter_name": "Chương 5091: Chân Tướng!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5092_Phản_Bội.json",
+    "chapter_name": "Chương 5092: Phản Bội"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5093_Dương_Gian_Sụp_Đổ.json",
+    "chapter_name": "Chương 5093: Dương Gian Sụp Đổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5094_Mai_Phục.json",
+    "chapter_name": "Chương 5094: Mai Phục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5095_Ghen_Ghét.json",
+    "chapter_name": "Chương 5095: Ghen Ghét"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5096_Tứ_Cực_Đỉnh_Phong.json",
+    "chapter_name": "Chương 5096: Tứ Cực Đỉnh Phong"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5097_Khẩu_Vị_Lớn.json",
+    "chapter_name": "Chương 5097: Khẩu Vị Lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5098_Phật_Thổ.json",
+    "chapter_name": "Chương 5098: Phật Thổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5099_Kiểm_Tra.json",
+    "chapter_name": "Chương 5099: Kiểm Tra"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5100_Nịnh_Bợ.json",
+    "chapter_name": "Chương 5100: Nịnh Bợ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5101_Thành_Phúc_Long.json",
+    "chapter_name": "Chương 5101: Thành Phúc Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5102_Thực_Linh_Thể.json",
+    "chapter_name": "Chương 5102: Thực Linh Thể"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5103_Ta_Muốn_Đi_Ngủ.json",
+    "chapter_name": "Chương 5103: Ta Muốn Đi Ngủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5104_Thay_Đổi_Chủ_Ý.json",
+    "chapter_name": "Chương 5104: Thay Đổi Chủ Ý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5105_Ngẫu_Nhiên_Gặp_Tiên_Dược.json",
+    "chapter_name": "Chương 5105: Ngẫu Nhiên Gặp Tiên Dược"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5106_Lại_Thăng_Một_Cấp.json",
+    "chapter_name": "Chương 5106: Lại Thăng Một Cấp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5107_Ta_Lại_Đột_Phá.json",
+    "chapter_name": "Chương 5107: Ta Lại Đột Phá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5108_Tranh_Tài_Bắt_Đầu.json",
+    "chapter_name": "Chương 5108: Tranh Tài Bắt Đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5109_Giải_Quyết.json",
+    "chapter_name": "Chương 5109: Giải Quyết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5110_Từng_Bước_Tiếp_Cận.json",
+    "chapter_name": "Chương 5110: Từng Bước Tiếp Cận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5111_Gợn_Sóng.json",
+    "chapter_name": "Chương 5111: Gợn Sóng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5112_Bức_Cung.json",
+    "chapter_name": "Chương 5112: Bức Cung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5113_Chờ_Ta_Ba_Ngày.json",
+    "chapter_name": "Chương 5113: Chờ Ta Ba Ngày"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5114_Lục_Đỉnh.json",
+    "chapter_name": "Chương 5114: Lục Đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5115_Thể_Chất_Đặc_Thù.json",
+    "chapter_name": "Chương 5115: Thể Chất Đặc Thù"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5116_Giả_Và_Thật.json",
+    "chapter_name": "Chương 5116: Giả Và Thật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5117_Mạc_Thái_Bình.json",
+    "chapter_name": "Chương 5117: Mạc Thái Bình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5118_Không_Hối_Hận.json",
+    "chapter_name": "Chương 5118: Không Hối Hận?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5119_Khóc_Chết.json",
+    "chapter_name": "Chương 5119: Khóc Chết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5120_Ngự_Hải_Vương_Tử.json",
+    "chapter_name": "Chương 5120: Ngự Hải Vương Tử?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5121_Nư_Tử_Áo_Trắng.json",
+    "chapter_name": "Chương 5121: Nữ Tử Áo Trắng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5122_Quát_Tháo.json",
+    "chapter_name": "Chương 5122: Quát Tháo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5123_Quan_Tâm.json",
+    "chapter_name": "Chương 5123: Quan Tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5124_Tiến_Vào_Tịnh_Địa.json",
+    "chapter_name": "Chương 5124: Tiến Vào Tịnh Địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5125_Tìm_Kiếm.json",
+    "chapter_name": "Chương 5125: Tìm Kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5126_Tranh_Tài_Cuối_Cùng.json",
+    "chapter_name": "Chương 5126: Tranh Tài Cuối Cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5127_Không_Được_Chọn.json",
+    "chapter_name": "Chương 5127: Không Được Chọn?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5128_Chiếu_Rọi_Bản_Thân.json",
+    "chapter_name": "Chương 5128: Chiếu Rọi Bản Thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5129_Hóa_Thân_Chiến.json",
+    "chapter_name": "Chương 5129: Hóa Thân Chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5130_Ba_Lựa_Chọn.json",
+    "chapter_name": "Chương 5130: Ba Lựa Chọn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5131_Chúng_Sinh_Trì.json",
+    "chapter_name": "Chương 5131: Chúng Sinh Trì!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5132_Để_Lộ_Thân_Phận.json",
+    "chapter_name": "Chương 5132: Để Lộ Thân Phận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5133_Ra_Tay_Đánh_Nhau.json",
+    "chapter_name": "Chương 5133: Ra Tay Đánh Nhau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5134_Chiến_Thánh_Nhân_Cửu_Tinh.json",
+    "chapter_name": "Chương 5134: Chiến Thánh Nhân Cửu Tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5135_Đốt_Cháy_Thánh_hỏa.json",
+    "chapter_name": "Chương 5135: Đốt Cháy Thánh hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5136_Thánh_Nhân_Mạnh_Nhất.json",
+    "chapter_name": "Chương 5136: Thánh Nhân Mạnh Nhất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5137_Đá_Nát.json",
+    "chapter_name": "Chương 5137: Đá Nát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5138_Đế_Binh_Xuất_Hiện.json",
+    "chapter_name": "Chương 5138: Đế Binh Xuất Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5139_Thánh_Nhân_Lăng_Hàn.json",
+    "chapter_name": "Chương 5139: Thánh Nhân, Lăng Hàn!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5140_Đại_Thế.json",
+    "chapter_name": "Chương 5140: Đại Thế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5141_Khô_Lâu_Thánh_Binh_Đánh_Tới.json",
+    "chapter_name": "Chương 5141: Khô Lâu Thánh Binh Đánh Tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5142_Đối_Kháng.json",
+    "chapter_name": "Chương 5142: Đối Kháng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5143_Đại_Quân_Áp_Cảnh.json",
+    "chapter_name": "Chương 5143: Đại Quân Áp Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5144_Buông_Tay_Đánh_Cược_Một_Lần.json",
+    "chapter_name": "Chương 5144: Buông Tay Đánh Cược Một Lần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5145_Trấn_Bách_Lý.json",
+    "chapter_name": "Chương 5145: Trấn Bách Lý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5146_Lại_Tới.json",
+    "chapter_name": "Chương 5146: Lại Tới!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5147_Uy_Hiếp.json",
+    "chapter_name": "Chương 5147: Uy Hiếp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5148_Mưa_Gió_Nổi_Lên.json",
+    "chapter_name": "Chương 5148: Mưa Gió Nổi Lên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5149_Địch_Đến.json",
+    "chapter_name": "Chương 5149: Địch Đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5150_Tử_Chiến_Đến_Cùng.json",
+    "chapter_name": "Chương 5150: Tử Chiến Đến Cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5151_Đại_Đế_Xuất_Thủ.json",
+    "chapter_name": "Chương 5151: Đại Đế Xuất Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5152_Khí_Lực_Va_Chạm_Với_Đại_Đế.json",
+    "chapter_name": "Chương 5152: Khí Lực Va Chạm Với Đại Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5153_Đa_Gia_Phật_Triệu_Hoán.json",
+    "chapter_name": "Chương 5153: Đa Gia Phật Triệu Hoán"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5154_Vực_Sâu_Nguyên_Thủy.json",
+    "chapter_name": "Chương 5154: Vực Sâu Nguyên Thủy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5155_Phát_Hiện.json",
+    "chapter_name": "Chương 5155: Phát Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5156_Thủy_Nguyên_Đại_Dược.json",
+    "chapter_name": "Chương 5156: Thủy Nguyên Đại Dược"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5157_Bão_Cát.json",
+    "chapter_name": "Chương 5157: Bão Cát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5158_Khách_Đến_Thăm.json",
+    "chapter_name": "Chương 5158: Khách Đến Thăm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5159_Thủy_Nguyên_Chiến_Giáp.json",
+    "chapter_name": "Chương 5159: Thủy Nguyên Chiến Giáp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5160_Đại_Đạo_Quang.json",
+    "chapter_name": "Chương 5160: Đại Đạo Quang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5161_Đệ_Nhất_Thần_thú.json",
+    "chapter_name": "Chương 5161: Đệ Nhất Thần thú"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5162_Xâm_Nhập.json",
+    "chapter_name": "Chương 5162: Xâm Nhập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5163_Chân_Long_Đại_Đế.json",
+    "chapter_name": "Chương 5163: Chân Long Đại Đế?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5164_Trở_Về.json",
+    "chapter_name": "Chương 5164: Trở Về"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5165_Hung_Danh_Hiển_Hách.json",
+    "chapter_name": "Chương 5165: Hung Danh Hiển Hách"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5166_Âm_Thánh_Thành_Chuỗi.json",
+    "chapter_name": "Chương 5166: Âm Thánh Thành Chuỗi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5167_Chiến_Giáp_Phát_Uy.json",
+    "chapter_name": "Chương 5167: Chiến Giáp Phát Uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5168_Thể_Phách_Kinh_Khủng.json",
+    "chapter_name": "Chương 5168: Thể Phách Kinh Khủng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5170_Đánh_nát.json",
+    "chapter_name": "Chương 5170: Đánh nát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5171_Nguy_Cơ_Lớn_Nhất.json",
+    "chapter_name": "Chương 5171: Nguy Cơ Lớn Nhất?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5172_Lại_Đến_Chiến_Thần_cung.json",
+    "chapter_name": "Chương 5172: Lại Đến Chiến Thần cung"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5173_Quét_Ngang.json",
+    "chapter_name": "Chương 5173: Quét Ngang"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5174_Đệ_Nhất_Tiện_Thánh.json",
+    "chapter_name": "Chương 5174: Đệ Nhất Tiện Thánh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5175_Vơ_Vét.json",
+    "chapter_name": "Chương 5175: Vơ Vét"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5176_Cung_Điện_Đại_Đế_Trong_Âm_Phủ.json",
+    "chapter_name": "Chương 5176: Cung Điện Đại Đế Trong Âm Phủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5177_Đại_Đế_Sa_Đọa.json",
+    "chapter_name": "Chương 5177: Đại Đế Sa Đọa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5178_Chuẩn_Đế_Nhắn_Lại.json",
+    "chapter_name": "Chương 5178: Chuẩn Đế Nhắn Lại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5179_Thần_Thú_Mộ_Địa.json",
+    "chapter_name": "Chương 5179: Thần Thú Mộ Địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5180_Giết_Lục_Tầm.json",
+    "chapter_name": "Chương 5180: Giết Lục Tầm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5181_Phục_Sinh_Tinh_Cầu.json",
+    "chapter_name": "Chương 5181: Phục Sinh Tinh Cầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5182_Gặp_Lại_Đồng_Minh.json",
+    "chapter_name": "Chương 5182: Gặp Lại Đồng Minh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5183_Thi_Thể_Thần_Thú_Đâu.json",
+    "chapter_name": "Chương 5183: Thi Thể Thần Thú Đâu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5184_Âm_Phủ_Giết_Tới.json",
+    "chapter_name": "Chương 5184: Âm Phủ Giết Tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5185_Đại_Đế_Chiến.json",
+    "chapter_name": "Chương 5185: Đại Đế Chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5186_Đại_Đế_Nhiều_Lần_Hiện_Thân.json",
+    "chapter_name": "Chương 5186: Đại Đế Nhiều Lần Hiện Thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5187_Âm_Phủ_Xuất_Kích.json",
+    "chapter_name": "Chương 5187: Âm Phủ Xuất Kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5188_Đào_Vong.json",
+    "chapter_name": "Chương 5188: Đào Vong"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5189_Vào_Thành.json",
+    "chapter_name": "Chương 5189: Vào Thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5190_Khu_Mỏ_Quặng.json",
+    "chapter_name": "Chương 5190: Khu Mỏ Quặng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5191_Thẩm_Vấn.json",
+    "chapter_name": "Chương 5191: Thẩm Vấn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5192_Thiếu_Niên.json",
+    "chapter_name": "Chương 5192: Thiếu Niên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5193_Thao_Túng_Thời_Gian.json",
+    "chapter_name": "Chương 5193: Thao Túng Thời Gian"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_51945198.json",
+    "chapter_name": "Chương 5194-5198"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5199_Chín_Thành_Tranh_Bá.json",
+    "chapter_name": "Chương 5199: Chín Thành Tranh Bá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5200_Xấu_Hổ.json",
+    "chapter_name": "Chương 5200: Xấu Hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5201_Giẫm_Chết.json",
+    "chapter_name": "Chương 5201: Giẫm Chết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5202_Giết_Thú.json",
+    "chapter_name": "Chương 5202: Giết Thú"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5203_Kéo_Thù_Hận.json",
+    "chapter_name": "Chương 5203: Kéo Thù Hận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5204_Cố_Sự.json",
+    "chapter_name": "Chương 5204: Cố Sự"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5205_Đổ_Ước.json",
+    "chapter_name": "Chương 5205: Đổ Ước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5206_Hiểu_lầm.json",
+    "chapter_name": "Chương 5206: Hiểu lầm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5207_Liên_Danh_Khiêu_Chiến.json",
+    "chapter_name": "Chương 5207: Liên Danh Khiêu Chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5208_Như_Cắt_Rơm_Rạ.json",
+    "chapter_name": "Chương 5208: Như Cắt Rơm Rạ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5209_Hắc_Quang_Trong_Kiếm.json",
+    "chapter_name": "Chương 5209: Hắc Quang Trong Kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5210_Ngang_Hàng_Chuẩn_Đế.json",
+    "chapter_name": "Chương 5210: Ngang Hàng Chuẩn Đế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5211_Cửu_Môn_Đồ_Lại_Xuất_Hiện.json",
+    "chapter_name": "Chương 5211: : Cửu Môn Đồ Lại Xuất Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5212_Cửu_Vương_Giống_Nhau.json",
+    "chapter_name": "Chương 5212: Cửu Vương Giống Nhau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_5213_Ngươi_Nhận_Lầm_Người.json",
+    "chapter_name": "Chương 5213: Ngươi Nhận Lầm Người"
   }
 ]
