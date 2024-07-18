@@ -219,6 +219,7 @@ public class TruyenCrawlerByUrl {
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
                 for (Element chapter : chapters) {
+
                     String chapterUrl = chapter.attr("href");
                     Map<String, Object> chapterData = crawlChapter(chapterUrl);
                     if (chapterData != null && !chapterData.isEmpty()) {
@@ -265,6 +266,7 @@ public class TruyenCrawlerByUrl {
     public static Map<String, Object> crawlChapter(String url) {
         Map<String, Object> chapterData = new HashMap<>();
         try {
+            Thread.sleep(1000);
             Document doc = Jsoup.connect(url).get();
 
             String chapterTitle = doc.select(".chapter-title").text();
@@ -276,6 +278,7 @@ public class TruyenCrawlerByUrl {
 
         } catch (IOException e) {
             e.printStackTrace();
+        } catch (InterruptedException ex) {
         }
         return chapterData;
     }
