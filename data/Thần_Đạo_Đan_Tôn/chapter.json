@@ -12798,5 +12798,805 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_3208_Đổ_thạch.json",
     "chapter_name": "Chương 3208: Đổ thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3209_Mở_đá.json",
+    "chapter_name": "Chương 3209: Mở đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3210_Thật_ra_hàng.json",
+    "chapter_name": "Chương 3210: Thật ra hàng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3211_Lật_bàn_1.json",
+    "chapter_name": "Chương 3211: Lật bàn (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3212_Lật_bàn_2.json",
+    "chapter_name": "Chương 3212: Lật bàn (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3213_Cược_mệnh.json",
+    "chapter_name": "Chương 3213: Cược mệnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3214_Có_chơi_có_chịu_giết.json",
+    "chapter_name": "Chương 3214: Có chơi có chịu, giết!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3215_Ngày_mai_tái_đấu.json",
+    "chapter_name": "Chương 3215: Ngày mai tái đấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3216_Tái_đấu_Bào_Phong_Vũ.json",
+    "chapter_name": "Chương 3216: Tái đấu Bào Phong Vũ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3217_Ba_khối_nguyên_thạch_1.json",
+    "chapter_name": "Chương 3217: Ba khối nguyên thạch (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3218_Ba_khối_nguyên_thạch_2.json",
+    "chapter_name": "Chương 3218: Ba khối nguyên thạch (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3219_Thái_độ_phách_lối.json",
+    "chapter_name": "Chương 3219: Thái độ phách lối"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3220_Bá_đạo_Nhạc_Thừa_Vọng.json",
+    "chapter_name": "Chương 3220: Bá đạo Nhạc Thừa Vọng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3221_Huyền_Lai_đại_sư.json",
+    "chapter_name": "Chương 3221: Huyền Lai đại sư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3222_Ba_cục_hai_thắng.json",
+    "chapter_name": "Chương 3222: Ba cục hai thắng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3223_Thế_hoà_1.json",
+    "chapter_name": "Chương 3223: Thế hoà (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3224_Thế_hoà_2.json",
+    "chapter_name": "Chương 3224: Thế hoà (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3225_Đao_gãy.json",
+    "chapter_name": "Chương 3225: Đao gãy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3226_Thất_Bộ.json",
+    "chapter_name": "Chương 3226: Thất Bộ?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3227_Tranh.json",
+    "chapter_name": "Chương 3227: Tranh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3228_Ai_mặt_mũi_cung_không_bán.json",
+    "chapter_name": "Chương 3228: Ai mặt mũi cũng không bán"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3229_Yếu_kém_một_vòng_1.json",
+    "chapter_name": "Chương 3229: Yếu kém một vòng (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3230_Yếu_kém_một_vòng_2.json",
+    "chapter_name": "Chương 3230: Yếu kém một vòng (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3231_Toàn_bộ_xử_lý.json",
+    "chapter_name": "Chương 3231: Toàn bộ xử lý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3232_Không_thành_kế.json",
+    "chapter_name": "Chương 3232: Không thành kế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3233_Ký_hiệu_cấp_chín_đủ.json",
+    "chapter_name": "Chương 3233: Ký hiệu cấp chín đủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3234_Thâm_nhập_dưới_đất.json",
+    "chapter_name": "Chương 3234: Thâm nhập dưới đất"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3235_Đá_dò_đường_1.json",
+    "chapter_name": "Chương 3235: Đá dò đường (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3236_Đá_dò_đường_2.json",
+    "chapter_name": "Chương 3236: Đá dò đường (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3237_Lại_một_cái_vị_diện.json",
+    "chapter_name": "Chương 3237: Lại một cái vị diện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3238_Ký_hiệu_cấp_chín_phát_uy.json",
+    "chapter_name": "Chương 3238: Ký hiệu cấp chín phát uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3239_Giết_lùi.json",
+    "chapter_name": "Chương 3239: Giết lùi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3240_Gọi_viện_binh.json",
+    "chapter_name": "Chương 3240: Gọi viện binh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3241_Ta_co_thê_lại_đánh_ba_trận_không_1.json",
+    "chapter_name": "Chương 3241: Ta có thể lại đánh ba trận không? (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3242_Ta_co_thê_lại_đánh_ba_trận_không_2.json",
+    "chapter_name": "Chương 3242: Ta có thể lại đánh ba trận không? (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3243_Lại_so.json",
+    "chapter_name": "Chương 3243: Lại so"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3244_Ngoại_nhân.json",
+    "chapter_name": "Chương 3244: Ngoại nhân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3245_Tân_Khí_Hổ_giết_tới_bốn_canh_xong.json",
+    "chapter_name": "Chương 3245: Tân Khí Hổ giết tới (bốn canh xong)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3246_Thoát_thân.json",
+    "chapter_name": "Chương 3246: Thoát thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3247_Kinh_người_liên_hệ_1.json",
+    "chapter_name": "Chương 3247: Kinh người liên hệ (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3248_Kinh_người_liên_hệ_2.json",
+    "chapter_name": "Chương 3248: Kinh người liên hệ (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3249_Bộ_phận_chân_tướng.json",
+    "chapter_name": "Chương 3249: Bộ phận chân tướng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3250_Quyết_định.json",
+    "chapter_name": "Chương 3250: Quyết định"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3251_Viễn_cổ_phiến_đá.json",
+    "chapter_name": "Chương 3251: Viễn cổ phiến đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3252_Phí_Bạch_Trư.json",
+    "chapter_name": "Chương 3252: Phí Bạch Trư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3253_Địch_đến.json",
+    "chapter_name": "Chương 3253: Địch đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3254_Kêu_gọi_giúp_đỡ_1.json",
+    "chapter_name": "Chương 3254: Kêu gọi giúp đỡ (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3255_Kêu_gọi_giúp_đỡ_2.json",
+    "chapter_name": "Chương 3255: Kêu gọi giúp đỡ (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3256_Tam_Bộ.json",
+    "chapter_name": "Chương 3256: Tam Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3257_Muốn_thử_xem_chiến_lực.json",
+    "chapter_name": "Chương 3257: Muốn thử xem chiến lực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3258_Bạch_Diễm_Thiên_Tôn.json",
+    "chapter_name": "Chương 3258: Bạch Diễm Thiên Tôn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3259_Các_hạ_nhận_biết_Phí_thiếu.json",
+    "chapter_name": "Chương 3259: Các hạ nhận biết Phí thiếu?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3260_Ngồi_đợi_phế_vật_1.json",
+    "chapter_name": "Chương 3260: Ngồi đợi phế vật (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3261_Ngồi_đợi_phế_vật_2.json",
+    "chapter_name": "Chương 3261: Ngồi đợi phế vật (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3262_Chiến_Ngũ_Bộ.json",
+    "chapter_name": "Chương 3262: Chiến Ngũ Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3263_Oanh_sát_Phí_Vũ.json",
+    "chapter_name": "Chương 3263: Oanh sát Phí Vũ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3264_Dẫn_hỏa.json",
+    "chapter_name": "Chương 3264: Dẫn hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3265_Tái_chiến_Tân_Khí_Hổ.json",
+    "chapter_name": "Chương 3265: Tái chiến Tân Khí Hổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3266_Bốn_ký_hiệu_cấp_một.json",
+    "chapter_name": "Chương 3266: Bốn ký hiệu cấp một"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3267_Nhiệm_vụ.json",
+    "chapter_name": "Chương 3267: Nhiệm vụ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3268_Đánh_tráo_1.json",
+    "chapter_name": "Chương 3268: Đánh tráo (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3269_Đánh_tráo_2.json",
+    "chapter_name": "Chương 3269: Đánh tráo (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3270_Hoàn_thành.json",
+    "chapter_name": "Chương 3270: Hoàn thành"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3271_Thành_công_thôi_diễn.json",
+    "chapter_name": "Chương 3271: Thành công thôi diễn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3272_Luận_bàn.json",
+    "chapter_name": "Chương 3272: Luận bàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3273_Bố_cục.json",
+    "chapter_name": "Chương 3273: Bố cục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3274_Hợp_Thể.json",
+    "chapter_name": "Chương 3274: Hợp Thể"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3275_Đánh_nổ.json",
+    "chapter_name": "Chương 3275: Đánh nổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3276_Ngoại_Vực_chiến_trường_mở_lại.json",
+    "chapter_name": "Chương 3276: Ngoại Vực chiến trường mở lại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3277_Lăng_Hi_trở_về_1.json",
+    "chapter_name": "Chương 3277: Lăng Hi trở về (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3278_Lăng_Hi_trở_về_2.json",
+    "chapter_name": "Chương 3278: Lăng Hi trở về (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3279_Hôn_lễ_binh_tập.json",
+    "chapter_name": "Chương 3279: Hôn lễ, binh tập"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3280_Hành_động_trảm_thủ.json",
+    "chapter_name": "Chương 3280: Hành động trảm thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3281_In_dấu_tay.json",
+    "chapter_name": "Chương 3281: In dấu tay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3282_Người_tự_nguyện.json",
+    "chapter_name": "Chương 3282: Người tự nguyện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3283_Chém_đầu.json",
+    "chapter_name": "Chương 3283: Chém đầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3284_Công_thành_lui_thân.json",
+    "chapter_name": "Chương 3284: Công thành lui thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3285_Hùng_hổ_dọa_người_1.json",
+    "chapter_name": "Chương 3285: Hùng hổ dọa người (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3286_Hùng_hổ_dọa_người_2.json",
+    "chapter_name": "Chương 3286: Hùng hổ dọa người (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3287_Bạch_Mễ_Phạn.json",
+    "chapter_name": "Chương 3287: Bạch Mễ Phạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3288_Cha_ngươi_tên_gì.json",
+    "chapter_name": "Chương 3288: Cha ngươi tên gì"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3289_Giết_cái_vừa_đi_vừa_về_bốn_canh_xong.json",
+    "chapter_name": "Chương 3289: Giết cái vừa đi vừa về (bốn canh xong)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3290_Thế_yếu.json",
+    "chapter_name": "Chương 3290: Thế yếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3291_Diễn_hóa_vị_diện.json",
+    "chapter_name": "Chương 3291: Diễn hóa vị diện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3292_Vị_diện_trấn_áp.json",
+    "chapter_name": "Chương 3292: Vị diện trấn áp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3293_Bị_bán_đứng_rồi_1.json",
+    "chapter_name": "Chương 3293: Bị bán đứng rồi? (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3294_Bị_bán_đứng_rồi_2.json",
+    "chapter_name": "Chương 3294: Bị bán đứng rồi? (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3295_Thất_Bộ_xuất_thế.json",
+    "chapter_name": "Chương 3295: Thất Bộ xuất thế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3296_Bí_mật_kinh_thiên.json",
+    "chapter_name": "Chương 3296: Bí mật kinh thiên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3297_Thiên_Mệnh_Tử.json",
+    "chapter_name": "Chương 3297: Thiên Mệnh Tử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3298_Phong_Vô_Định.json",
+    "chapter_name": "Chương 3298: Phong Vô Định"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3299_Xuất_khí.json",
+    "chapter_name": "Chương 3299: Xuất khí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3300_Ai_co_thê_ngăn.json",
+    "chapter_name": "Chương 3300: Ai có thể ngăn?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3301_Ai_mới_là_thiên_tuyển_1.json",
+    "chapter_name": "Chương 3301: Ai mới là thiên tuyển (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3302_Ai_mới_là_thiên_tuyển_2.json",
+    "chapter_name": "Chương 3302: Ai mới là thiên tuyển (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3303_Luận_bàn_cái_rắm.json",
+    "chapter_name": "Chương 3303: Luận bàn cái rắm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3304_Quay_về.json",
+    "chapter_name": "Chương 3304: Quay về"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3305_Ta_là_Tông_Sư.json",
+    "chapter_name": "Chương 3305: Ta là Tông Sư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3306_Lại_cướp_một_lần.json",
+    "chapter_name": "Chương 3306: Lại cướp một lần"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3307_Xung_kích_Tứ_Bộ.json",
+    "chapter_name": "Chương 3307: Xung kích Tứ Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3308_Nghiền_ép_1.json",
+    "chapter_name": "Chương 3308: Nghiền ép (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3309_Nghiền_ép_2.json",
+    "chapter_name": "Chương 3309: Nghiền ép (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3310_Ke_đuôi_giêt.json",
+    "chapter_name": "Chương 3310: Kẻ đuổi giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3311_Kề_vai_chiến_đấu.json",
+    "chapter_name": "Chương 3311: Kề vai chiến đấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3312_Thủ_vững.json",
+    "chapter_name": "Chương 3312: Thủ vững"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3313_Lấy_tính_mạng_ngươi.json",
+    "chapter_name": "Chương 3313: Lấy tính mạng ngươi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3314_Sát_cục.json",
+    "chapter_name": "Chương 3314: Sát cục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3315_Lại_một_lần_nữa_hành_trình.json",
+    "chapter_name": "Chương 3315: Lại một lần nữa hành trình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3316_Bí_mật_tiết_ra_ngoài_1.json",
+    "chapter_name": "Chương 3316: Bí mật tiết ra ngoài (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3317_Bí_mật_tiết_ra_ngoài_2.json",
+    "chapter_name": "Chương 3317: Bí mật tiết ra ngoài (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3318_Biện.json",
+    "chapter_name": "Chương 3318: Biện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3319_Ngàn_người_chỉ_trỏ.json",
+    "chapter_name": "Chương 3319: Ngàn người chỉ trỏ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3320_Ngươi_tới_ta_đi.json",
+    "chapter_name": "Chương 3320: Ngươi tới ta đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3321_Đại_nhân_vật_đều_đến.json",
+    "chapter_name": "Chương 3321: Đại nhân vật đều đến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3322_Thất_Bộ_xuất_thủ.json",
+    "chapter_name": "Chương 3322: Thất Bộ xuất thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3323_Đánh_nổ_Thất_Bộ_phân_thân.json",
+    "chapter_name": "Chương 3323: Đánh nổ Thất Bộ phân thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3324_Thất_Bộ_nổi_giận_1.json",
+    "chapter_name": "Chương 3324: Thất Bộ nổi giận (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3325_Thất_Bộ_nổi_giận_2.json",
+    "chapter_name": "Chương 3325: Thất Bộ nổi giận (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3326_Thiên_hạ_đều_là_địch.json",
+    "chapter_name": "Chương 3326: Thiên hạ đều là địch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3327_Từng_bước_khó_đi.json",
+    "chapter_name": "Chương 3327: Từng bước khó đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3328_Chiến_đấu_không_ngừng.json",
+    "chapter_name": "Chương 3328: Chiến đấu không ngừng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3329_Đại_dược_hồng_sắc.json",
+    "chapter_name": "Chương 3329: Đại dược hồng sắc?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3330_Chỉ_đạo.json",
+    "chapter_name": "Chương 3330: Chỉ đạo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3331_Rung_động_1.json",
+    "chapter_name": "Chương 3331: Rung động (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3332_Rung_động_2.json",
+    "chapter_name": "Chương 3332: Rung động (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3333_Oanh_sát.json",
+    "chapter_name": "Chương 3333: Oanh sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3334_Kinh_biến.json",
+    "chapter_name": "Chương 3334: Kinh biến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3335_Đến_cùng_là_ai.json",
+    "chapter_name": "Chương 3335: Đến cùng là ai?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3336_Lăng_gia_hạ_lạc.json",
+    "chapter_name": "Chương 3336: Lăng gia hạ lạc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3337_Con_cháu_đời_sau.json",
+    "chapter_name": "Chương 3337: Con cháu đời sau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3338_Biến_cố.json",
+    "chapter_name": "Chương 3338: Biến cố"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3339_Tìm_được_1.json",
+    "chapter_name": "Chương 3339: Tìm được (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3340_Tìm_được_2.json",
+    "chapter_name": "Chương 3340: Tìm được (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3341_Đúng_là_con_cháu_nhà_mình.json",
+    "chapter_name": "Chương 3341: Đúng là con cháu nhà mình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3342_Đợi_thêm_nửa_canh_giờ.json",
+    "chapter_name": "Chương 3342: Đợi thêm nửa canh giờ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3343_Lăng_gia_không_ngã.json",
+    "chapter_name": "Chương 3343: Lăng gia không ngã"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3344_Lý_tưởng.json",
+    "chapter_name": "Chương 3344: Lý tưởng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3345_Luyện_tâm.json",
+    "chapter_name": "Chương 3345: Luyện tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3346_Các_ngươi_đều_sai_1.json",
+    "chapter_name": "Chương 3346: Các ngươi đều sai (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3347_Các_ngươi_đều_sai_2.json",
+    "chapter_name": "Chương 3347: Các ngươi đều sai (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3348_Tâm_cảnh_sinh_biến.json",
+    "chapter_name": "Chương 3348: Tâm cảnh sinh biến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3349_Quét_bay.json",
+    "chapter_name": "Chương 3349: Quét bay"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3350_Bức_ra_nguyên_hình.json",
+    "chapter_name": "Chương 3350: Bức ra nguyên hình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3351_Phát_hiện_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 3351: Phát hiện ngoài ý muốn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3352_Tin_tức_nhi_nữ.json",
+    "chapter_name": "Chương 3352: Tin tức nhi nữ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3353_Thiên_Tôn_đều_tới.json",
+    "chapter_name": "Chương 3353: Thiên Tôn đều tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3354_Một_quyền_giải_quyết_1.json",
+    "chapter_name": "Chương 3354: Một quyền giải quyết (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3355_Một_quyền_giải_quyết_2.json",
+    "chapter_name": "Chương 3355: Một quyền giải quyết (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3356_Cướp_đoạt_hạch_tâm.json",
+    "chapter_name": "Chương 3356: Cướp đoạt hạch tâm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3357_Khối_vụn.json",
+    "chapter_name": "Chương 3357: Khối vụn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3358_Ngũ_Bộ.json",
+    "chapter_name": "Chương 3358: Ngũ Bộ!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3359_Chiến_Phá_Nhạc.json",
+    "chapter_name": "Chương 3359: Chiến Phá Nhạc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3360_Công_thành_lui_thân.json",
+    "chapter_name": "Chương 3360: Công thành lui thân"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3361_Thân_phận_của_Tuyệt_Hỏa.json",
+    "chapter_name": "Chương 3361: Thân phận của Tuyệt Hỏa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3362_Thất_Bộ_va_chạm_1.json",
+    "chapter_name": "Chương 3362: Thất Bộ va chạm (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3363_Thất_Bộ_va_chạm_2.json",
+    "chapter_name": "Chương 3363: Thất Bộ va chạm (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3364_Không_địch_lại_tán_tiền.json",
+    "chapter_name": "Chương 3364: Không địch lại, tán tiền"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3365_Thấy_phải.json",
+    "chapter_name": "Chương 3365: Thấy phải"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3366_Đối_chiến_Thất_Bộ.json",
+    "chapter_name": "Chương 3366: Đối chiến Thất Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3367_Trấn_áp.json",
+    "chapter_name": "Chương 3367: Trấn áp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3368_Dọa_chạy.json",
+    "chapter_name": "Chương 3368: Dọa chạy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3369_Chấn_kinh.json",
+    "chapter_name": "Chương 3369: Chấn kinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3370_Diệt_Tuyệt_chợt_hiện_1.json",
+    "chapter_name": "Chương 3370: Diệt Tuyệt chợt hiện (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3371_Diệt_Tuyệt_chợt_hiện_2.json",
+    "chapter_name": "Chương 3371: Diệt Tuyệt chợt hiện (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3372_Tường.json",
+    "chapter_name": "Chương 3372: Tường"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3373_Kỳ_tích.json",
+    "chapter_name": "Chương 3373: Kỳ tích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3374_Thanh_âm_thần_bí.json",
+    "chapter_name": "Chương 3374: Thanh âm thần bí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3375_Nguyên_lai.json",
+    "chapter_name": "Chương 3375: Nguyên lai..."
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3376_Thế_giới_ý_chí.json",
+    "chapter_name": "Chương 3376: Thế giới ý chí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3377_Loại_lực_lượng_thứ_tám.json",
+    "chapter_name": "Chương 3377: Loại lực lượng thứ tám"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3378_Trở_về_1.json",
+    "chapter_name": "Chương 3378: Trở về (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3379_Trở_về_2.json",
+    "chapter_name": "Chương 3379: Trở về (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3380_Một_quyền.json",
+    "chapter_name": "Chương 3380: Một quyền"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3381_Giết.json",
+    "chapter_name": "Chương 3381: Giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3382_Oan_uổng.json",
+    "chapter_name": "Chương 3382: Oan uổng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3383_Giết_đến_tận_cửa.json",
+    "chapter_name": "Chương 3383: Giết đến tận cửa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3384_Con_rệp.json",
+    "chapter_name": "Chương 3384: Con rệp"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3385_Khăng_khăng.json",
+    "chapter_name": "Chương 3385: Khăng khăng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3386_Một_kích_uy.json",
+    "chapter_name": "Chương 3386: Một kích uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3387_Một_trận_chiến_thành_thần_1.json",
+    "chapter_name": "Chương 3387: Một trận chiến thành thần (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3388_Một_trận_chiến_thành_thần_2.json",
+    "chapter_name": "Chương 3388: Một trận chiến thành thần (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3389_Phòng_ngự_cực_hạn.json",
+    "chapter_name": "Chương 3389: Phòng ngự cực hạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3390_Kinh_trốn.json",
+    "chapter_name": "Chương 3390: Kinh trốn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3391_Chém_giết.json",
+    "chapter_name": "Chương 3391: Chém giết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3392_Sơ_hở.json",
+    "chapter_name": "Chương 3392: Sơ hở"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3393_Tuyến_an_toàn.json",
+    "chapter_name": "Chương 3393: Tuyến an toàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3394_Chữa_thương.json",
+    "chapter_name": "Chương 3394: Chữa thương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3395_Tấm_lòng_Bồ_Tát.json",
+    "chapter_name": "Chương 3395: Tấm lòng Bồ Tát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3396_Một_nhân_tình.json",
+    "chapter_name": "Chương 3396: Một nhân tình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3397_Không_đồng_ý.json",
+    "chapter_name": "Chương 3397: Không đồng ý"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3398_Bênh_vực.json",
+    "chapter_name": "Chương 3398: Bênh vực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3399_Yêu_thú_đến_đông_đủ.json",
+    "chapter_name": "Chương 3399: Yêu thú đến đông đủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3400_Bạch_xà.json",
+    "chapter_name": "Chương 3400: Bạch xà"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3401_Giúp_ta.json",
+    "chapter_name": "Chương 3401: Giúp ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3402_Thu_đồ_đệ.json",
+    "chapter_name": "Chương 3402: Thu đồ đệ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3403_Phát_hiện.json",
+    "chapter_name": "Chương 3403: Phát hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3404_Giật_mình.json",
+    "chapter_name": "Chương 3404: Giật mình"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3405_Ngoại_tôn_nữ.json",
+    "chapter_name": "Chương 3405: Ngoại tôn nữ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3406_Bí_ẩn_sinh_mệnh.json",
+    "chapter_name": "Chương 3406: Bí ẩn sinh mệnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3407_Mật_mã.json",
+    "chapter_name": "Chương 3407: Mật mã"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3408_Đi_gây_sự.json",
+    "chapter_name": "Chương 3408: Đi gây sự"
   }
 ]
