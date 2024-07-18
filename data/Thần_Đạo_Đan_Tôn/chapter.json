@@ -15198,5 +15198,805 @@
   {
     "path": "data/Thần_Đạo_Đan_Tôn/Chương_3808_Yêu_tộc_lại_gây_phiền_phức_2.json",
     "chapter_name": "Chương 3808: Yêu tộc lại gây phiền phức (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3809_Kim_Tam_Ngân_đến_thăm.json",
+    "chapter_name": "Chương 3809: Kim Tam Ngân đến thăm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3810_Áp_giải.json",
+    "chapter_name": "Chương 3810: Áp giải"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3811_Yêu_tộc_đả_thương.json",
+    "chapter_name": "Chương 3811: Yêu tộc đả thương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3812_Thực_lực_của_yêu_tộc.json",
+    "chapter_name": "Chương 3812: Thực lực của yêu tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3813_Quyết_định_1.json",
+    "chapter_name": "Chương 3813: Quyết định (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3814_Quyết_định_2.json",
+    "chapter_name": "Chương 3814: Quyết định (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3815_Bản_chất_kiêu_hùng.json",
+    "chapter_name": "Chương 3815: Bản chất kiêu hùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3816_Huyết_Xích_La.json",
+    "chapter_name": "Chương 3816: Huyết Xích La"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3817_Dâng_thư_hàng.json",
+    "chapter_name": "Chương 3817: Dâng thư hàng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3818_Đề_nghị_mê_người_1.json",
+    "chapter_name": "Chương 3818: Đề nghị mê người (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3819_Đề_nghị_mê_người_2.json",
+    "chapter_name": "Chương 3819: Đề nghị mê người (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3820_Đoàn_thiên_tài_của_yêu_tộc.json",
+    "chapter_name": "Chương 3820: Đoàn thiên tài của yêu tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3821_Đột_phá_Cực_Cốt.json",
+    "chapter_name": "Chương 3821: Đột phá Cực Cốt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3822_Yêu_cầu_quá_đáng.json",
+    "chapter_name": "Chương 3822: Yêu cầu quá đáng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3823_Không_có_tiền_cược_không_đánh_1.json",
+    "chapter_name": "Chương 3823: Không có tiền cược không đánh (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3824_Không_có_tiền_cược_không_đánh_2.json",
+    "chapter_name": "Chương 3824: Không có tiền cược không đánh (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3825_Một_hạt_ngọc.json",
+    "chapter_name": "Chương 3825: Một hạt ngọc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3826_Chiến_đấu_cùng_Báo_Thái_Công.json",
+    "chapter_name": "Chương 3826: Chiến đấu cùng Báo Thái Công"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3827_Phong_Vân_Phiêu.json",
+    "chapter_name": "Chương 3827: Phong Vân Phiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3828_Không_chấp_nhận_uy_hiếp_1.json",
+    "chapter_name": "Chương 3828: Không chấp nhận uy hiếp (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3829_Không_chấp_nhận_uy_hiếp_2.json",
+    "chapter_name": "Chương 3829: Không chấp nhận uy hiếp (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3830_Hóa_ra_ngươi_là_Cực_Cốt_Cảnh.json",
+    "chapter_name": "Chương 3830: Hóa ra ngươi là Cực Cốt Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3831_Bạch_hổ_viễn_cổ_đấu_với_yêu_hầu.json",
+    "chapter_name": "Chương 3831: Bạch hổ viễn cổ đấu với yêu hầu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3832_Bại_lộ.json",
+    "chapter_name": "Chương 3832: Bại lộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3833_Chiến_thư_1.json",
+    "chapter_name": "Chương 3833: Chiến thư (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3834_Chiến_thư_2.json",
+    "chapter_name": "Chương 3834: Chiến thư (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3835_Tuyệt_đối_công_bằng.json",
+    "chapter_name": "Chương 3835: Tuyệt đối công bằng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3836_Ứng_chiến.json",
+    "chapter_name": "Chương 3836: Ứng chiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3837_Tàn_ngược.json",
+    "chapter_name": "Chương 3837: Tàn ngược"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3838_Kế_ly_gián_1.json",
+    "chapter_name": "Chương 3838: Kế ly gián (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3839_Kế_ly_gián_2.json",
+    "chapter_name": "Chương 3839: Kế ly gián (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3840_Uy_hiếp_lại_tăng_thêm.json",
+    "chapter_name": "Chương 3840: Uy hiếp lại tăng thêm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3841_Uy_hiếp_ngược_lại.json",
+    "chapter_name": "Chương 3841: Uy hiếp ngược lại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3842_Lần_thứ_hai_thiên_địa_bắt_đầu_biến_hóa_kịch_liệt.json",
+    "chapter_name": "Chương 3842: Lần thứ hai thiên địa bắt đầu biến hóa kịch liệt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3843_Thiên_Văn_Ngọc.json",
+    "chapter_name": "Chương 3843: Thiên Văn Ngọc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3844_Buông_vật_trong_tay_1.json",
+    "chapter_name": "Chương 3844: Buông vật trong tay (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3845_Buông_vật_trong_tay_2.json",
+    "chapter_name": "Chương 3845: Buông vật trong tay (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3846_Vũ_khí_tinh_thần_lực.json",
+    "chapter_name": "Chương 3846: Vũ khí tinh thần lực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3847_Cầu_gỗ.json",
+    "chapter_name": "Chương 3847: Cầu gỗ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3848_Pháp_khí_cấp_nhị_tinh.json",
+    "chapter_name": "Chương 3848: Pháp khí cấp nhị tinh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3849_Lại_một_một_gia_tộc_ẩn_thế_1.json",
+    "chapter_name": "Chương 3849: Lại một một gia tộc ẩn thế (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3850_Lại_một_một_gia_tộc_ẩn_thế_2.json",
+    "chapter_name": "Chương 3850: Lại một một gia tộc ẩn thế (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3851_Điện_tế_tự.json",
+    "chapter_name": "Chương 3851: Điện tế tự"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3852_Đập_chết.json",
+    "chapter_name": "Chương 3852: Đập chết"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3853_Xử_lý_toàn_bộ.json",
+    "chapter_name": "Chương 3853: Xử lý toàn bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3854_Thiêu_chút_đa_làm_hỏng_đại_sự_của_ta_1.json",
+    "chapter_name": "Chương 3854: Thiếu chút đã làm hỏng đại sự của ta (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3855_Thiêu_chút_đa_làm_hỏng_đại_sự_của_ta_2.json",
+    "chapter_name": "Chương 3855: Thiếu chút đã làm hỏng đại sự của ta (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3856_Chân_tướng_hâu_trương.json",
+    "chapter_name": "Chương 3856: Chân tướng hậu trường"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3857_Tinh_thần_lực_quyết_đấu.json",
+    "chapter_name": "Chương 3857: Tinh thần lực quyết đấu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3858_Kiêng_kị_lân_nhau.json",
+    "chapter_name": "Chương 3858: Kiêng kị lẫn nhau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3859_Cầu_gãy_1.json",
+    "chapter_name": "Chương 3859: Cầu gãy (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3860_Cầu_gãy_2.json",
+    "chapter_name": "Chương 3860: Cầu gãy (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3861_Hung_nhân_xuất_thế.json",
+    "chapter_name": "Chương 3861: Hung nhân xuất thế"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3862_Thế_gian_biến_đổi_lớn.json",
+    "chapter_name": "Chương 3862: Thế gian biến đổi lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3863_Thôi_Trường_Vận_khiêu_chiến_1.json",
+    "chapter_name": "Chương 3863: Thôi Trường Vận khiêu chiến (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3864_Thôi_Trường_Vận_khiêu_chiến_2.json",
+    "chapter_name": "Chương 3864: Thôi Trường Vận khiêu chiến (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3865_Liền_hành_hạ.json",
+    "chapter_name": "Chương 3865: Liền hành hạ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3866_Một_kích_bạo_nát.json",
+    "chapter_name": "Chương 3866: Một kích bạo nát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3867_Cương_gia_tiên_đô_Hiện.json",
+    "chapter_name": "Chương 3867: Cường giả tiên đồ Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3868_Trận_linh_Thanh_Long_trận_1.json",
+    "chapter_name": "Chương 3868: Trận linh Thanh Long trận (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3869_Trận_linh_Thanh_Long_trận_2.json",
+    "chapter_name": "Chương 3869: Trận linh Thanh Long trận (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3870_Nhị_cốt.json",
+    "chapter_name": "Chương 3870: Nhị cốt!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3871_Lơi_đồn_đại_nổi_lên_bốn_phía.json",
+    "chapter_name": "Chương 3871: Lời đồn đại nổi lên bốn phía"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3872_Trúc_ba_cơ_sở_1.json",
+    "chapter_name": "Chương 3872: Trúc ba cơ sở (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3873_Trúc_ba_cơ_sở_2.json",
+    "chapter_name": "Chương 3873: Trúc ba cơ sở (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3874_Hồng_Thiên_Lượng_lại_bại.json",
+    "chapter_name": "Chương 3874: Hồng Thiên Lượng lại bại"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3875_Hoàng_tử_xuất_thủ.json",
+    "chapter_name": "Chương 3875: Hoàng tử xuất thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3876_Nửa_cái_chữ_cổ.json",
+    "chapter_name": "Chương 3876: Nửa cái chữ cổ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3877_Hồng_Thiên_Bộ_đến_1.json",
+    "chapter_name": "Chương 3877: Hồng Thiên Bộ đến (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3878_Hồng_Thiên_Bộ_đến_2.json",
+    "chapter_name": "Chương 3878: Hồng Thiên Bộ đến (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3879_Ngươi_không_xưng_đê_đăt_song_song_vơi_ta.json",
+    "chapter_name": "Chương 3879: Ngươi không xứng để đặt song song với ta"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3880_Chiến_Hồng_Thiên_Bộ.json",
+    "chapter_name": "Chương 3880: Chiến Hồng Thiên Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3881_Lưỡng_bại_câu_thương_1.json",
+    "chapter_name": "Chương 3881: Lưỡng bại câu thương (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3882_Lưỡng_bại_câu_thương_2.json",
+    "chapter_name": "Chương 3882: Lưỡng bại câu thương (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3883_Tị_nạn.json",
+    "chapter_name": "Chương 3883: Tị nạn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3884_Đổ_thừa_không_đi.json",
+    "chapter_name": "Chương 3884: Đổ thừa không đi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3885_Tạo_dựng_Tuyệt_Đối_Công_Bằng_cỡ_lớn.json",
+    "chapter_name": "Chương 3885: Tạo dựng Tuyệt Đối Công Bằng cỡ lớn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3886_Lục_gia_đánh_tới_1.json",
+    "chapter_name": "Chương 3886: Lục gia đánh tới (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3887_Lục_gia_đánh_tới_2.json",
+    "chapter_name": "Chương 3887: Lục gia đánh tới (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3888_Giết_sạch_sành_sanh.json",
+    "chapter_name": "Chương 3888: Giết sạch sành sanh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3889_Ta_mang_ngươi_tơi.json",
+    "chapter_name": "Chương 3889: Ta mang ngươi tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3890_Lưu_Long.json",
+    "chapter_name": "Chương 3890: Lưu Long"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3891_Kim_Quân_Thánh_1.json",
+    "chapter_name": "Chương 3891: Kim Quân Thánh (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3892_Kim_Quân_Thánh_2.json",
+    "chapter_name": "Chương 3892: Kim Quân Thánh (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3893_Hoàn_toàn_nghiền_ép.json",
+    "chapter_name": "Chương 3893: Hoàn toàn nghiền ép"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3894_Tam_cốt.json",
+    "chapter_name": "Chương 3894: Tam cốt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3895_Băng_Giao_tri.json",
+    "chapter_name": "Chương 3895: Băng Giao trì"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3896_Tên_điên_cuồng_nhân_mỹ_nữ_Thượng_1.json",
+    "chapter_name": "Chương 3896: Tên điên, cuồng nhân, mỹ nữ (Thượng) (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3897_Tên_điên_cuồng_nhân_mỹ_nữ_Thượng_2.json",
+    "chapter_name": "Chương 3897: Tên điên, cuồng nhân, mỹ nữ (Thượng) (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3898_Thi_địa.json",
+    "chapter_name": "Chương 3898: Thi địa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3899_Đại_Tri_Chu.json",
+    "chapter_name": "Chương 3899: Đại Tri Chu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3900_Người_chết_Phục_sinh.json",
+    "chapter_name": "Chương 3900: Người chết... Phục sinh?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3901_Tượng_đá_trấn_áp_1.json",
+    "chapter_name": "Chương 3901: Tượng đá trấn áp (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3902_Tượng_đá_trấn_áp_2.json",
+    "chapter_name": "Chương 3902: Tượng đá trấn áp (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3903_Kịch_chiến_Đồng_Miêu.json",
+    "chapter_name": "Chương 3903: Kịch chiến Đồng Miêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3904_Bụi_xương.json",
+    "chapter_name": "Chương 3904: Bụi xương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3905_Bích_hoạ_bí.json",
+    "chapter_name": "Chương 3905: Bích hoạ bí"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3906_Ai_hố_ai_1.json",
+    "chapter_name": "Chương 3906: Ai hố ai (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3907_Ai_hố_ai_2.json",
+    "chapter_name": "Chương 3907: Ai hố ai (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3908_Tứ_cốt.json",
+    "chapter_name": "Chương 3908: Tứ cốt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3909_Thế_cục.json",
+    "chapter_name": "Chương 3909: Thế cục"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3910_Đánh_cờ_1.json",
+    "chapter_name": "Chương 3910: Đánh cờ (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3911_Đánh_cờ_2.json",
+    "chapter_name": "Chương 3911: Đánh cờ (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3912_Đánh_cờ_3.json",
+    "chapter_name": "Chương 3912: Đánh cờ (3)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3913_Vương_tọa.json",
+    "chapter_name": "Chương 3913: Vương tọa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3914_Đánh_cược_bảo_thuật.json",
+    "chapter_name": "Chương 3914: Đánh cược bảo thuật"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3915_Thiên_Hận_thể_1.json",
+    "chapter_name": "Chương 3915: Thiên Hận thể (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3916_Thiên_Hận_thể_2.json",
+    "chapter_name": "Chương 3916: Thiên Hận thể (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3917_Vượt_lên_trước_một_bước.json",
+    "chapter_name": "Chương 3917: Vượt lên trước một bước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3918_Chín_người_ứng_cử.json",
+    "chapter_name": "Chương 3918: Chín người ứng cử"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3919_Trạm_cuối_cùng.json",
+    "chapter_name": "Chương 3919: Trạm cuối cùng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3920_Độ_phù_hợp_1.json",
+    "chapter_name": "Chương 3920: Độ phù hợp (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3921_Độ_phù_hợp_2.json",
+    "chapter_name": "Chương 3921: Độ phù hợp (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3922_Bí_quá_hoá_liều.json",
+    "chapter_name": "Chương 3922: Bí quá hoá liều"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3923_Thất_cốt.json",
+    "chapter_name": "Chương 3923: Thất cốt!"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3924_Đuổi_kịp_1.json",
+    "chapter_name": "Chương 3924: Đuổi kịp (1)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3925_Đuổi_kịp_2.json",
+    "chapter_name": "Chương 3925: Đuổi kịp (2)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3926_Lấy_một_địch_tám.json",
+    "chapter_name": "Chương 3926: Lấy một địch tám"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3927_Chiến_Thần_tam_thức.json",
+    "chapter_name": "Chương 3927: Chiến Thần tam thức"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3928_Chiến_Khai_Khiếu.json",
+    "chapter_name": "Chương 3928: Chiến Khai Khiếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3929_Thất_Oa_bị_đoạt_mất_Thượng.json",
+    "chapter_name": "Chương 3929: Thất Oa bị đoạt mất (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3930_Thất_Oa_bị_đoạt_mất_Hạ.json",
+    "chapter_name": "Chương 3930: Thất Oa bị đoạt mất (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3931_Bênh_vực_kẻ_yếu.json",
+    "chapter_name": "Chương 3931: Bênh vực kẻ yếu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3932_Bậc_thang_thứ_năm_trong_Tiên_Đồ.json",
+    "chapter_name": "Chương 3932: Bậc thang thứ năm trong Tiên Đồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3933_Mưa_gió_nổi_lên.json",
+    "chapter_name": "Chương 3933: Mưa gió nổi lên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3934_Cướp_sinh_ý_Thượng.json",
+    "chapter_name": "Chương 3934: Cướp sinh ý (Thượng)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3935_Cướp_sinh_ý_Hạ.json",
+    "chapter_name": "Chương 3935: Cướp sinh ý (Hạ)"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3936_Liên_Tục_Đắc_Thủ.json",
+    "chapter_name": "Chương 3936: Liên Tục Đắc Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3937_Người_Hiềm_Nghi.json",
+    "chapter_name": "Chương 3937: Người Hiềm Nghi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3938_Bị_Để_Mắt_Tới.json",
+    "chapter_name": "Chương 3938: Bị Để Mắt Tới"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3939_Minh_Văn_Đầu_Tiên.json",
+    "chapter_name": "Chương 3939: Minh Văn Đầu Tiên"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3940_Tái_Chiến_Bạch_Hoành_Tài.json",
+    "chapter_name": "Chương 3940: Tái Chiến Bạch Hoành Tài"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3941_Minh_Văn_Của_Lăng_Hàn.json",
+    "chapter_name": "Chương 3941: Minh Văn Của Lăng Hàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3942_Viện_Binh_Xuất_Thủ.json",
+    "chapter_name": "Chương 3942: Viện Binh Xuất Thủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3943_Trận_Linh_Lại_Xuất_Hiện.json",
+    "chapter_name": "Chương 3943: Trận Linh Lại Xuất Hiện"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3944_Ngoại_Vụ_Phủ.json",
+    "chapter_name": "Chương 3944: Ngoại Vụ Phủ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3945_Khai_Trương_Đại_Cát.json",
+    "chapter_name": "Chương 3945: Khai Trương Đại Cát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3946_Xung_Kích_Nhị_Văn.json",
+    "chapter_name": "Chương 3946: Xung Kích Nhị Văn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3947_Tam_Hoàng_Tử_Tới_Chơi.json",
+    "chapter_name": "Chương 3947: Tam Hoàng Tử Tới Chơi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3948_Không_Nể_Mặt_Mũi.json",
+    "chapter_name": "Chương 3948: Không Nể Mặt Mũi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3949_Đến_Thăm_Thái_Hoa_Tông.json",
+    "chapter_name": "Chương 3949: Đến Thăm Thái Hoa Tông"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3950_Giam_Lỏng.json",
+    "chapter_name": "Chương 3950: Giam Lỏng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3951_Bắt_Trộm.json",
+    "chapter_name": "Chương 3951: Bắt Trộm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3952_Công_Tôn_Lương.json",
+    "chapter_name": "Chương 3952: Công Tôn Lương"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3953_Cự_Tượng_Phát_Uy.json",
+    "chapter_name": "Chương 3953: Cự Tượng Phát Uy"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3954_Đánh_Nát_Tiên_Đạo_Cơ_Thạch.json",
+    "chapter_name": "Chương 3954: Đánh Nát Tiên Đạo Cơ Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3955_Cường_Giả_Chú_Đỉnh.json",
+    "chapter_name": "Chương 3955: Cường Giả Chú Đỉnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3956_Muốn_Giết_Huynh_Đệ_Lão_Tôn.json",
+    "chapter_name": "Chương 3956: Muốn Giết Huynh Đệ Lão Tôn?"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3957_Chuyện_Xưa_Hai_Ngàn_Năm_Trước.json",
+    "chapter_name": "Chương 3957: Chuyện Xưa Hai Ngàn Năm Trước"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3958_Lại_Triệu_Kiến.json",
+    "chapter_name": "Chương 3958: Lại Triệu Kiến"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3959_Trận_Pháp_Bảo_Điển.json",
+    "chapter_name": "Chương 3959: Trận Pháp Bảo Điển"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3960_Da_Hư_Không_Thú.json",
+    "chapter_name": "Chương 3960: Da Hư Không Thú"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3961_Gõ_Ám_Côn.json",
+    "chapter_name": "Chương 3961: Gõ Ám Côn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3962_Một_Đêm_Biến_Hóa.json",
+    "chapter_name": "Chương 3962: Một Đêm Biến Hóa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3963_Uy_Thế_Của_Sinh_Đan_Cảnh.json",
+    "chapter_name": "Chương 3963: Uy Thế Của Sinh Đan Cảnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3964_Mưa_Máu_Quỷ_Dị.json",
+    "chapter_name": "Chương 3964: Mưa Máu Quỷ Dị"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3965_Không_Đánh_Tự_Lui.json",
+    "chapter_name": "Chương 3965: Không Đánh Tự Lui"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3966_Cố_Ý_Lừa_Gạt.json",
+    "chapter_name": "Chương 3966: Cố Ý Lừa Gạt"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3967_Thói_Đời_Nóng_Lạnh.json",
+    "chapter_name": "Chương 3967: Thói Đời Nóng Lạnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3968_Đập_Phá_Quán.json",
+    "chapter_name": "Chương 3968: Đập Phá Quán"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3969_Tranh_Giành_Vị_Trí_Đệ_Nhất_Thiên_Kiêu.json",
+    "chapter_name": "Chương 3969: Tranh Giành Vị Trí Đệ Nhất Thiên Kiêu"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3970_Hải_Tộc.json",
+    "chapter_name": "Chương 3970: Hải Tộc"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3971_Tiên_Đạo_Cơ.json",
+    "chapter_name": "Chương 3971: Tiên Đạo Cơ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3972_Hồng_Thiên_Bộ_Truy_Sát.json",
+    "chapter_name": "Chương 3972: Hồng Thiên Bộ Truy Sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3973_Tranh_Thuyền.json",
+    "chapter_name": "Chương 3973: Tranh Thuyền"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3974_Sương_Mù.json",
+    "chapter_name": "Chương 3974: Sương Mù"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3975_Truyền_Thuyết_Trên_Biển.json",
+    "chapter_name": "Chương 3975: Truyền Thuyết Trên Biển"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3976_Nhân_Ngư.json",
+    "chapter_name": "Chương 3976: Nhân Ngư"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3977_Lên_Đảo.json",
+    "chapter_name": "Chương 3977: Lên Đảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3978_Phục_Kích.json",
+    "chapter_name": "Chương 3978: Phục Kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3979_Chân_Núi.json",
+    "chapter_name": "Chương 3979: Chân Núi"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3980_Mộc_Phạt_Đá_Lăn.json",
+    "chapter_name": "Chương 3980: Mộc Phạt, Đá Lăn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3981_Tìm_Nơi_Trút_Giận.json",
+    "chapter_name": "Chương 3981: Tìm Nơi Trút Giận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3982_Tập_Sát.json",
+    "chapter_name": "Chương 3982: Tập Sát"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3983_Vượt_Qua.json",
+    "chapter_name": "Chương 3983: Vượt Qua"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3984_Đổi_Đá.json",
+    "chapter_name": "Chương 3984: Đổi Đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3985_Sinh_Vật_Trong_Hồ.json",
+    "chapter_name": "Chương 3985: Sinh Vật Trong Hồ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3986_Trưng_Dụng.json",
+    "chapter_name": "Chương 3986: Trưng Dụng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3987_Hang_Rắn.json",
+    "chapter_name": "Chương 3987: Hang Rắn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3988_Trộm_Bảo.json",
+    "chapter_name": "Chương 3988: Trộm Bảo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3989_Tiết_Lộ_Chân_Tướng.json",
+    "chapter_name": "Chương 3989: Tiết Lộ Chân Tướng"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3990_Kéo_Thù_Hận.json",
+    "chapter_name": "Chương 3990: Kéo Thù Hận"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3991_Va_Chạm_Khí_Lực.json",
+    "chapter_name": "Chương 3991: Va Chạm Khí Lực"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3992_Bẫy_Liên_Hoàn.json",
+    "chapter_name": "Chương 3992: Bẫy Liên Hoàn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3993_Lấy_Băng_Nguyên_Thạch.json",
+    "chapter_name": "Chương 3993: Lấy Băng Nguyên Thạch"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3994_Ruộng_Hoa.json",
+    "chapter_name": "Chương 3994: Ruộng Hoa"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3995_Tu_Vi_Tăng_Mạnh.json",
+    "chapter_name": "Chương 3995: Tu Vi Tăng Mạnh"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3996_Thất_Văn.json",
+    "chapter_name": "Chương 3996: Thất Văn"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3997_Thổi_Hơi_Thành_Kiếm.json",
+    "chapter_name": "Chương 3997: Thổi Hơi Thành Kiếm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3998_Bắt_Đầu_Phản_Kích.json",
+    "chapter_name": "Chương 3998: Bắt Đầu Phản Kích"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_3999_Quỳ_Xuống.json",
+    "chapter_name": "Chương 3999: Quỳ Xuống"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4000_Xử_Lý_Toàn_Bộ.json",
+    "chapter_name": "Chương 4000: Xử Lý Toàn Bộ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4001_Ruộng_Rau.json",
+    "chapter_name": "Chương 4001: Ruộng Rau"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4002_Lấy_Một_Địch_Trăm.json",
+    "chapter_name": "Chương 4002: Lấy Một Địch Trăm"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4003_Một_Vấn_Đề.json",
+    "chapter_name": "Chương 4003: Một Vấn Đề"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4004_Chọn_Một_Tượng_Đá.json",
+    "chapter_name": "Chương 4004: Chọn Một Tượng Đá"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4005_Phương_Pháp_Bài_Trừ.json",
+    "chapter_name": "Chương 4005: Phương Pháp Bài Trừ"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4006_Chân_Huyết_Hải.json",
+    "chapter_name": "Chương 4006: Chân Huyết Hải"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4007_Quan_Sát_Ngộ_Đạo.json",
+    "chapter_name": "Chương 4007: Quan Sát Ngộ Đạo"
+  },
+  {
+    "path": "data/Thần_Đạo_Đan_Tôn/Chương_4008_Thiên_Thạch.json",
+    "chapter_name": "Chương 4008: Thiên Thạch"
   }
 ]
