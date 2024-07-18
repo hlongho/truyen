@@ -210,7 +210,25 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
-        int chapterCountLimit = 200; // giới hạn số chương tải cho mỗi truyện
+        int chapterCountLimit = 400; // giới hạn số chương tải cho mỗi truyện
+
+        // Đọc danh sách các chương hiện có từ chapter.json
+        List<Map<String, String>> existingChapters = new ArrayList<>();
+        String chapterFileExistPath = "data/" + storyFolderName + "/chapter.json";
+        File chapterExistFile = new File(chapterFileExistPath);
+        if (chapterExistFile.exists()) {
+            try (FileReader reader = new FileReader(chapterExistFile)) {
+                existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+        // Chuyển danh sách các chương hiện có sang dạng Map để dễ kiểm tra
+        Map<String, Boolean> existingChapterUrls = new HashMap<>();
+        for (Map<String, String> existingChapter : existingChapters) {
+            existingChapterUrls.put(existingChapter.get("url"), true);
+        }
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
@@ -218,6 +236,12 @@ public class TruyenCrawler {
                 Elements chapters = doc.select(".list-chapter a");
                 for (Element chapter : chapters) {
                     String chapterUrl = chapter.attr("href");
+
+                    // Kiểm tra xem chương đã tồn tại trong chapter.json chưa
+                    if (existingChapterUrls.containsKey(chapterUrl)) {
+                        continue; // Bỏ qua chương đã tồn tại
+                    }
+
                     Map<String, Object> chapterData = crawlChapter(chapterUrl);
                     if (chapterData != null && !chapterData.isEmpty()) {
                         String chapterTitle = (String) chapterData.get("chapter_name");
@@ -233,6 +257,7 @@ public class TruyenCrawler {
                             Map<String, String> chapterInfo = new HashMap<>();
                             chapterInfo.put("chapter_name", chapterTitle);
                             chapterInfo.put("path", chapterFilePath);
+                            chapterInfo.put("url", chapterUrl); // Thêm URL của chương
                             chapterContents.add(chapterInfo);
 
                             chapterCount++;
@@ -263,6 +288,12 @@ public class TruyenCrawler {
     public static Map<String, Object> crawlChapter(String url) {
         Map<String, Object> chapterData = new HashMap<>();
         try {
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
             Document doc = Jsoup.connect(url).get();
 
             String chapterTitle = doc.select(".chapter-title").text();
