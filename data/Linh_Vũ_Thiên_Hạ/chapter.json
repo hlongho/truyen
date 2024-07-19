@@ -448,5 +448,30 @@
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_90_Không_cẩn_thận_đột_phá.json",
     "chapter_name": "Chương 90: Không cẩn thận đột phá",
     "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-90/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_91_Nướng_lợn_rừng.json",
+    "chapter_name": "Chương 91: Nướng lợn rừng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-91/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_92_Tiểu_tử_ngươi_đúng_là_một_tay_đầu_bếp.json",
+    "chapter_name": "Chương 92: Tiểu tử ngươi đúng là một tay đầu bếp",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-92/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_93_Sơn_mạch_Vụ_Đô.json",
+    "chapter_name": "Chương 93: Sơn mạch Vụ Đô",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-93/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_94_Thiên_Tàm_Bảo_Giáp.json",
+    "chapter_name": "Chương 94: Thiên Tàm Bảo Giáp",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-94/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_95_Kịch_chiến_uy_hiếp.json",
+    "chapter_name": "Chương 95: Kịch chiến, uy hiếp",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-95/"
   }
 ]
