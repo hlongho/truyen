@@ -127,6 +127,7 @@ public class TruyenCrawler {
             storyData.put("image", image);
             storyData.put("genres", genresString);
             storyData.put("url", url);
+            storyData.put("success", "false"); // Thiết lập mặc định là false
 
             boolean skipCrawl = false;
             String lastChapterUrl = null;
@@ -188,6 +189,11 @@ public class TruyenCrawler {
                 storyData.put("path", chapterFilePath);
             } else {
                 storyData.put("path", "data/" + sanitizedStoryTitle + "/chapter.json");
+            }
+
+            // Nếu đã crawl chương cuối, cập nhật trạng thái "success" cho truyện
+            if (storyData.containsKey("lastChapterUrl") && storyData.get("lastChapterUrl").equals(lastChapterUrl)) {
+                storyData.put("success", "true");
             }
 
         } catch (IOException e) {
@@ -286,11 +292,6 @@ public class TruyenCrawler {
             }
         }
 
-        // Nếu đã crawl chương cuối, cập nhật trạng thái "success" cho truyện
-        if (storyCompleted) {
-            updateStorySuccessStatus("data/ds_truyen.json", storyUrl);
-        }
-
         return chapterContents;
     }
 
@@ -342,30 +343,5 @@ public class TruyenCrawler {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    public static void updateStorySuccessStatus(String dsTruyenFilePath, String storyUrl) {
-        List<Map<String, String>> stories = new ArrayList<>();
-        File dsTruyenFile = new File(dsTruyenFilePath);
-        if (dsTruyenFile.exists()) {
-            try (FileReader reader = new FileReader(dsTruyenFile)) {
-                stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-
-        for (Map<String, String> story : stories) {
-            if (story.get("url").equals(storyUrl)) {
-                if (!story.containsKey("success") || !"true".equals(story.get("success"))) {
-                    if ("Full".equals(story.get("status"))) {
-                        story.put("success", "true");
-                    }
-                }
-                break;
-            }
-        }
-
-        saveStoriesToJson(stories, dsTruyenFilePath);
     }
 }
