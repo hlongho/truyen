@@ -132,13 +132,31 @@ public class TruyenCrawler {
             boolean skipCrawl = false;
             String lastChapterUrl = null;
 
-            // Lấy trang cuối cùng
-            Element lastPageElement = doc.select("ul.pagination li a[title~=Cuối]").first(); // Sửa lại selector cho đúng với cấu trúc HTML của trang web
+            // Bước 1: Lấy trang cuối cùng từ phân trang
+            Element lastPageElement = doc.select("ul.pagination li a[title~=(?i)Cuối]").first();
             if (lastPageElement != null) {
                 String lastPageUrl = lastPageElement.attr("href");
                 storyData.put("lastPageUrl", lastPageUrl);
                 doc = Jsoup.connect(lastPageUrl).get();
+
+                // Bước 2: Tìm số trang lớn nhất trong phần phân trang mới
+                Elements pageElements = doc.select("ul.pagination li a");
+                int maxPageNumber = 0;
+                for (Element pageElement : pageElements) {
+                    String pageTitle = pageElement.text();
+                    if (pageTitle.matches("\\d+")) {
+                        int pageNumber = Integer.parseInt(pageTitle);
+                        if (pageNumber > maxPageNumber) {
+                            maxPageNumber = pageNumber;
+                        }
+                    }
+                }
+
+                // Bước 3: Truy cập vào trang chứa số trang lớn nhất để tìm chương cuối cùng
+                String finalPageUrl = url + "trang-" + maxPageNumber + "/#list-chapter";
+                doc = Jsoup.connect(finalPageUrl).get();
                 Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
+
                 if (lastChapterElement != null) {
                     lastChapterUrl = lastChapterElement.attr("href");
                     storyData.put("lastChapterUrl", lastChapterUrl);
