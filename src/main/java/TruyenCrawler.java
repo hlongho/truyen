@@ -83,10 +83,7 @@ public class TruyenCrawler {
             }
 
             // Lưu danh sách truyện vào file JSON
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            try (FileWriter writer = new FileWriter("data/ds_truyen.json")) {
-                gson.toJson(stories, writer);
-            }
+            saveStoriesToJson(stories, "data/ds_truyen.json");
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -130,7 +127,8 @@ public class TruyenCrawler {
             storyData.put("url", url);
 
             boolean skipCrawl = false;
-            boolean isStoryCompleted = false;
+            String lastChapterUrl = null;
+
             // Lấy trang cuối cùng
             Element lastPageElement = doc.select("li a[title~=Cuối]").first();
             if (lastPageElement != null) {
@@ -139,7 +137,7 @@ public class TruyenCrawler {
                 doc = Jsoup.connect(lastPageUrl).get();
                 Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
                 if (lastChapterElement != null) {
-                    String lastChapterUrl = lastChapterElement.attr("href");
+                    lastChapterUrl = lastChapterElement.attr("href");
                     storyData.put("lastChapterUrl", lastChapterUrl);
                     Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
                     if (lastChapterData != null) {
@@ -153,15 +151,12 @@ public class TruyenCrawler {
                             skipCrawl = true;
                             storyData.put("new_chapter_count", "-1");
                         }
-                        if (!skipCrawl) {
-                            isStoryCompleted = true;
-                        }
                     }
                 }
             }
 
             if (!skipCrawl) {
-                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle);
+                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle, lastChapterUrl);
 
                 // Kiểm tra số chương mới được lưu
                 int newChapterCount = chapterContents.size();
@@ -189,11 +184,6 @@ public class TruyenCrawler {
                 }
 
                 storyData.put("path", chapterFilePath);
-
-                // Kiểm tra nếu đã đến chương cuối cùng
-                if (isStoryCompleted) {
-                    storyData.put("success", "true");
-                }
             } else {
                 storyData.put("path", "data/" + sanitizedStoryTitle + "/chapter.json");
             }
@@ -206,18 +196,18 @@ public class TruyenCrawler {
         return storyData;
     }
 
-    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName) {
+    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName, String lastChapterUrl) {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
-        int chapterCountLimit = 5; // giới hạn số chương tải cho mỗi truyện
+        int chapterCountLimit = 100; // giới hạn số chương tải cho mỗi truyện
 
         // Đọc danh sách các chương hiện có từ chapter.json
         List<Map<String, String>> existingChapters = new ArrayList<>();
         String chapterFileExistPath = "data/" + storyFolderName + "/chapter.json";
         File chapterExistFile = new File(chapterFileExistPath);
         if (chapterExistFile.exists()) {
-            try (FileReader reader = new FileReader(chapterExistFile)) {
+            try (FileReader reader = new FileReader(chapterFileExistPath)) {
                 existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
             } catch (IOException e) {
                 e.printStackTrace();
@@ -229,6 +219,8 @@ public class TruyenCrawler {
         for (Map<String, String> existingChapter : existingChapters) {
             existingChapterUrls.put(existingChapter.get("url"), true);
         }
+
+        boolean storyCompleted = false;
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
@@ -266,6 +258,11 @@ public class TruyenCrawler {
                             }
                         }
                     }
+
+                    // Kiểm tra nếu đây là chương cuối cùng
+                    if (chapterUrl.equals(lastChapterUrl)) {
+                        storyCompleted = true;
+                    }
                 }
 
                 // Kiểm tra xem có trang tiếp theo không
@@ -282,6 +279,11 @@ public class TruyenCrawler {
             }
         }
 
+        // Nếu đã crawl chương cuối, cập nhật trạng thái "success" cho truyện
+        if (storyCompleted) {
+            updateStorySuccessStatus("data/ds_truyen.json", storyUrl);
+        }
+
         return chapterContents;
     }
 
@@ -291,7 +293,6 @@ public class TruyenCrawler {
             try {
                 Thread.sleep(3000);
             } catch (InterruptedException e) {
-                // TODO Auto-generated catch block
                 e.printStackTrace();
             }
             Document doc = Jsoup.connect(url).get();
@@ -320,5 +321,35 @@ public class TruyenCrawler {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void saveStoriesToJson(List<Map<String, String>> stories, String filePath) {
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        try (FileWriter writer = new FileWriter(filePath)) {
+            gson.toJson(stories, writer);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void updateStorySuccessStatus(String filePath, String storyUrl) {
+        List<Map<String, String>> stories = new ArrayList<>();
+        File dsTruyenFile = new File(filePath);
+        if (dsTruyenFile.exists()) {
+            try (FileReader reader = new FileReader(dsTruyenFile)) {
+                stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+        for (Map<String, String> story : stories) {
+            if (story.get("url").equals(storyUrl)) {
+                story.put("success", "true");
+                break;
+            }
+        }
+
+        saveStoriesToJson(stories, filePath);
     }
 }
