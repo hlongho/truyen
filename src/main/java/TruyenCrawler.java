@@ -133,7 +133,7 @@ public class TruyenCrawler {
             String lastChapterUrl = null;
 
             // Lấy trang cuối cùng
-            Element lastPageElement = doc.select("li a[title~=Cuối]").first();
+            Element lastPageElement = doc.select("ul.pagination li a[title~=Cuối]").first(); // Sửa lại selector cho đúng với cấu trúc HTML của trang web
             if (lastPageElement != null) {
                 String lastPageUrl = lastPageElement.attr("href");
                 storyData.put("lastPageUrl", lastPageUrl);
