@@ -2,6 +2,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -269,6 +271,11 @@ public class TruyenCrawler {
                 Element nextPageElement = doc.select("li.active + li a").first(); // Chọn thẻ <a> của trang tiếp theo
                 if (nextPageElement != null) {
                     nextPageUrl = nextPageElement.attr("abs:href"); // Sử dụng abs:href để lấy URL đầy đủ
+
+                    // Kiểm tra xem URL có hợp lệ không
+                    if (!isValidUrl(nextPageUrl)) {
+                        nextPageUrl = null; // Nếu không hợp lệ, ngừng quá trình crawl
+                    }
                 } else {
                     nextPageUrl = null;
                 }
@@ -285,6 +292,15 @@ public class TruyenCrawler {
         }
 
         return chapterContents;
+    }
+
+    public static boolean isValidUrl(String url) {
+        try {
+            new URL(url);
+            return true;
+        } catch (MalformedURLException e) {
+            return false;
+        }
     }
 
     public static Map<String, Object> crawlChapter(String url) {
@@ -310,13 +326,9 @@ public class TruyenCrawler {
         return chapterData;
     }
 
-    public static void saveChapterToJsonFile(Map<String, Object> chapterData, String chapterFilePath) {
-        // Tạo thư mục nếu chưa tồn tại
-        File file = new File(chapterFilePath);
-        file.getParentFile().mkdirs();
-
+    public static void saveChapterToJsonFile(Map<String, Object> chapterData, String filePath) {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        try (FileWriter writer = new FileWriter(chapterFilePath)) {
+        try (FileWriter writer = new FileWriter(filePath)) {
             gson.toJson(chapterData, writer);
         } catch (IOException e) {
             e.printStackTrace();
@@ -332,9 +344,9 @@ public class TruyenCrawler {
         }
     }
 
-    public static void updateStorySuccessStatus(String filePath, String storyUrl) {
+    public static void updateStorySuccessStatus(String dsTruyenFilePath, String storyUrl) {
         List<Map<String, String>> stories = new ArrayList<>();
-        File dsTruyenFile = new File(filePath);
+        File dsTruyenFile = new File(dsTruyenFilePath);
         if (dsTruyenFile.exists()) {
             try (FileReader reader = new FileReader(dsTruyenFile)) {
                 stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
@@ -350,6 +362,6 @@ public class TruyenCrawler {
             }
         }
 
-        saveStoriesToJson(stories, filePath);
+        saveStoriesToJson(stories, dsTruyenFilePath);
     }
 }
