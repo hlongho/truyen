@@ -23,5 +23,30 @@
     "path": "data/Nguyên_Tôn/Chương_5_Tề_nhạc_liễu_khê.json",
     "chapter_name": "Chương 5: Tề nhạc, liễu khê",
     "url": "https://truyenfull.vn/nguyen-ton/chuong-5/"
+  },
+  {
+    "path": "data/Nguyên_Tôn/Chương_6_Từ_đường_đất_tổ.json",
+    "chapter_name": "Chương 6: Từ đường đất tổ",
+    "url": "https://truyenfull.vn/nguyen-ton/chuong-6/"
+  },
+  {
+    "path": "data/Nguyên_Tôn/Chương_7_Vùng_đất_thần_bí.json",
+    "chapter_name": "Chương 7: Vùng đất thần bí",
+    "url": "https://truyenfull.vn/nguyen-ton/chuong-7/"
+  },
+  {
+    "path": "data/Nguyên_Tôn/Chương_8_Tìm_bát_mạch.json",
+    "chapter_name": "Chương 8: Tìm bát mạch",
+    "url": "https://truyenfull.vn/nguyen-ton/chuong-8/"
+  },
+  {
+    "path": "data/Nguyên_Tôn/Chương_9_Bát_mạch_xuất_hiện.json",
+    "chapter_name": "Chương 9: Bát mạch xuất hiện",
+    "url": "https://truyenfull.vn/nguyen-ton/chuong-9/"
+  },
+  {
+    "path": "data/Nguyên_Tôn/Chương_10_Nhận_được_cơ_duyên.json",
+    "chapter_name": "Chương 10: Nhận được cơ duyên",
+    "url": "https://truyenfull.vn/nguyen-ton/chuong-10/"
   }
 ]
