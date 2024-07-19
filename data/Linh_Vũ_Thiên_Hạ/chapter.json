@@ -3873,5 +3873,505 @@
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_776_Phi_thiên_ngô_công_2.json",
     "chapter_name": "Chương 776: Phi thiên ngô công (2)",
     "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-776/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_777_Là_một_tai_họa.json",
+    "chapter_name": "Chương 777: Là một tai họa",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-777/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_778_Đột_phá_cửu_trọng_1.json",
+    "chapter_name": "Chương 778: Đột phá cửu trọng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-778/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_779_Đột_phá_cửu_trọng_2.json",
+    "chapter_name": "Chương 779: Đột phá cửu trọng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-779/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_780_Lục_đường_xác_định_vị_trí_1.json",
+    "chapter_name": "Chương 780: Lục đường xác định vị trí (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-780/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_781_Lục_đường_xác_định_vị_trí_2.json",
+    "chapter_name": "Chương 781: Lục đường xác định vị trí (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-781/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_782_Vân_Linh_thương_hành.json",
+    "chapter_name": "Chương 782: Vân Linh thương hành",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-782/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_783_Lôi_trưởng_lão_1.json",
+    "chapter_name": "Chương 783: Lôi trưởng lão (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-783/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_784_Lôi_trưởng_lão_2.json",
+    "chapter_name": "Chương 784: Lôi trưởng lão (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-784/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_785_Yêu_Linh_đan_xuất.json",
+    "chapter_name": "Chương 785: Yêu Linh đan xuất",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-785/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_786_Già_trẻ_thương_nghị.json",
+    "chapter_name": "Chương 786: Già trẻ thương nghị",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-786/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_787_Hai_người_bày_trận_1.json",
+    "chapter_name": "Chương 787: Hai người bày trận (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-787/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_788_Hai_người_bày_trận_2.json",
+    "chapter_name": "Chương 788: Hai người bày trận (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-788/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_789_Yêu_Hoàng_nhất_mạch.json",
+    "chapter_name": "Chương 789: Yêu Hoàng nhất mạch",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-789/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_790_Rốt_cục_đã_tới.json",
+    "chapter_name": "Chương 790: Rốt cục đã tới",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-790/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_791_Bị_vây_trong_trận.json",
+    "chapter_name": "Chương 791: Bị vây trong trận",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-791/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_792_Mê_Lâm_sát_khí_1.json",
+    "chapter_name": "Chương 792: Mê Lâm sát khí (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-792/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_793_Mê_Lâm_sát_khí_2.json",
+    "chapter_name": "Chương 793: Mê Lâm sát khí (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-793/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_794_Phá_trận_chạy_ra.json",
+    "chapter_name": "Chương 794: Phá trận chạy ra",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-794/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_795_Yêu_thú_đại_quân.json",
+    "chapter_name": "Chương 795: Yêu thú đại quân",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-795/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_796_Đại_chiến_bắt_đầu.json",
+    "chapter_name": "Chương 796: Đại chiến bắt đầu",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-796/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_797_Tiếp_tục_kháng_Vũ_soái.json",
+    "chapter_name": "Chương 797: Tiếp tục kháng Vũ soái",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-797/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_798_Vũ_giả_tam_hệ.json",
+    "chapter_name": "Chương 798: Vũ giả tam hệ?",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-798/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_799_Đánh_chết_dưới_chưởng.json",
+    "chapter_name": "Chương 799: Đánh chết dưới chưởng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-799/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_800_Huyết_Lục_ra_tay.json",
+    "chapter_name": "Chương 800: Huyết Lục ra tay",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-800/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_801_Huyết_Lục_giương_oai.json",
+    "chapter_name": "Chương 801: Huyết Lục giương oai!",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-801/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_802_Cuộc_chiến_nhất_chiêu.json",
+    "chapter_name": "Chương 802: Cuộc chiến nhất chiêu",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-802/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_803_Liệt_không_cửu_kích.json",
+    "chapter_name": "Chương 803: Liệt không cửu kích",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-803/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_804_Ngàn_cân_treo_sợi_tóc.json",
+    "chapter_name": "Chương 804: Ngàn cân treo sợi tóc",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-804/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_805_Bạch_Oánh_ra_tay_1.json",
+    "chapter_name": "Chương 805: Bạch Oánh ra tay (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-805/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_806_Bạch_Oánh_ra_tay_2.json",
+    "chapter_name": "Chương 806: Bạch Oánh ra tay (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-806/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_807_Âm_ba_vũ_kỹ.json",
+    "chapter_name": "Chương 807: Âm ba vũ kỹ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-807/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_808_Thôi_mệnh_phán_quan.json",
+    "chapter_name": "Chương 808: Thôi mệnh phán quan",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-808/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_809_Rôt_cuôc_cung_chay_tơi.json",
+    "chapter_name": "Chương 809: Rốt cuộc cũng chạy tới",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-809/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_810_Linh_hôn_ly_thê_1.json",
+    "chapter_name": "Chương 810: Linh hồn ly thể (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-810/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_811_Linh_hôn_ly_thê_2.json",
+    "chapter_name": "Chương 811: Linh hồn ly thể (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-811/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_812_Kiểm_kê_thương_vong_1.json",
+    "chapter_name": "Chương 812: Kiểm kê thương vong (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-812/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_813_Kiểm_kê_thương_vong_2.json",
+    "chapter_name": "Chương 813: Kiểm kê thương vong (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-813/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_814_Thanh_danh_hiên_hach.json",
+    "chapter_name": "Chương 814: Thanh danh hiển hách",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-814/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_815_Điên_cuông_thôn_phê.json",
+    "chapter_name": "Chương 815: Điên cuồng thôn phệ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-815/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_816_Trong_Linh_Thiên_môn_1.json",
+    "chapter_name": "Chương 816: Trong Linh Thiên môn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-816/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_817_Trong_Linh_Thiên_môn_2.json",
+    "chapter_name": "Chương 817: Trong Linh Thiên môn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-817/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_818_Đôt_pha_xuât_quan_1.json",
+    "chapter_name": "Chương 818: Đột phá, xuất quan (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-818/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_819_Đôt_pha_xuât_quan_2.json",
+    "chapter_name": "Chương 819: Đột phá, xuất quan (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-819/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_820_Đơi_Cương_Tư_tơi.json",
+    "chapter_name": "Chương 820: Đới Cương Tử tới",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-820/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_821_Hai_dang_thuôc_dân_1.json",
+    "chapter_name": "Chương 821: Hai dạng thuốc dẫn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-821/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_822_Hai_dang_thuôc_dân_2.json",
+    "chapter_name": "Chương 822: Hai dạng thuốc dẫn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-822/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_823_Lư_Tiêu_Linh_tơi.json",
+    "chapter_name": "Chương 823: Lữ Tiểu Linh tới",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-823/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_824_Đai_điên_Vu_Tinh_1.json",
+    "chapter_name": "Chương 824: Đại điện Vụ Tinh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-824/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_825_Đai_điên_Vu_Tinh_2.json",
+    "chapter_name": "Chương 825: Đại điện Vụ Tinh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-825/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_826_Chuân_bi_đông_thu.json",
+    "chapter_name": "Chương 826: Chuẩn bị động thủ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-826/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_827_Chư_chêt_viêt_thê_nao_1.json",
+    "chapter_name": "Chương 827: Chữ chết viết thế nào (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-827/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_828_Chư_chêt_viêt_thê_nao_2.json",
+    "chapter_name": "Chương 828: Chữ chết viết thế nào (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-828/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_829_Linh_hôn_đoat_xa_1.json",
+    "chapter_name": "Chương 829: Linh hồn đoạt xá (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-829/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_830_Linh_hôn_đoat_xa_2.json",
+    "chapter_name": "Chương 830: Linh hồn đoạt xá (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-830/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_831_Chuẩn_bị_bài_tẩy.json",
+    "chapter_name": "Chương 831: Chuẩn bị bài tẩy",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-831/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_832_Chu_tước_huyền_vũ_1.json",
+    "chapter_name": "Chương 832: Chu tước huyền vũ (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-832/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_833_Chu_tước_huyền_vũ_2.json",
+    "chapter_name": "Chương 833: Chu tước huyền vũ (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-833/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_834_Lại_là_Linh_Hồn_Đoạt_Xá_1.json",
+    "chapter_name": "Chương 834: Lại là Linh Hồn Đoạt Xá (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-834/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_835_Lại_là_Linh_Hồn_Đoạt_Xá_2.json",
+    "chapter_name": "Chương 835: Lại là Linh Hồn Đoạt Xá (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-835/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_836_Giao_phong_trong_não_hải_1.json",
+    "chapter_name": "Chương 836: Giao phong trong não hải (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-836/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_837_Giao_phong_trong_não_hải_2.json",
+    "chapter_name": "Chương 837: Giao phong trong não hải (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-837/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_838_Linh_hồn_tăng_cường.json",
+    "chapter_name": "Chương 838: Linh hồn tăng cường",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-838/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_839_An_trí_Quỷ_Vũ_Tông_1.json",
+    "chapter_name": "Chương 839: An trí Quỷ Vũ Tông (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-839/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_840_An_trí_Quỷ_Vũ_Tông_2.json",
+    "chapter_name": "Chương 840: An trí Quỷ Vũ Tông (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-840/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_841_Tẩy_kiếp_thiên_tinh_1.json",
+    "chapter_name": "Chương 841: Tẩy kiếp thiên tinh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-841/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_842_Tẩy_kiếp_thiên_tinh_2.json",
+    "chapter_name": "Chương 842: Tẩy kiếp thiên tinh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-842/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_843_Xử_lý_việc_vặt.json",
+    "chapter_name": "Chương 843: Xử lý việc vặt",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-843/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_844_Lam_vũ_linh_ưng_1.json",
+    "chapter_name": "Chương 844: Lam vũ linh ưng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-844/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_845_Lam_vũ_linh_ưng_2.json",
+    "chapter_name": "Chương 845: Lam vũ linh ưng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-845/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_846_Lữ_Chính_Cường_tới_1.json",
+    "chapter_name": "Chương 846: Lữ Chính Cường tới (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-846/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_847_Lữ_Chính_Cường_tới_2.json",
+    "chapter_name": "Chương 847: Lữ Chính Cường tới (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-847/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_848_Một_mình_nói_chuyện.json",
+    "chapter_name": "Chương 848: Một mình nói chuyện",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-848/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_849_Già_gian_trẻ_xảo_1.json",
+    "chapter_name": "Chương 849: Già gian trẻ xảo (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-849/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_850_Già_gian_trẻ_xảo_2.json",
+    "chapter_name": "Chương 850: Già gian trẻ xảo (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-850/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_851_Món_đồ_chơi_lưu_manh_1.json",
+    "chapter_name": "Chương 851: Món đồ chơi lưu manh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-851/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_852_Món_đồ_chơi_lưu_manh_2.json",
+    "chapter_name": "Chương 852: Món đồ chơi lưu manh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-852/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_853_Xuất_phát_tới_Vụ_Tinh_Hải.json",
+    "chapter_name": "Chương 853: Xuất phát tới Vụ Tinh Hải",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-853/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_854_Thôn_phệ_song_linh_1.json",
+    "chapter_name": "Chương 854: Thôn phệ song linh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-854/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_855_Thôn_phệ_song_linh_2.json",
+    "chapter_name": "Chương 855: Thôn phệ song linh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-855/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_856_Yêu_hoàng_Linh_hoàng_1.json",
+    "chapter_name": "Chương 856: Yêu hoàng Linh hoàng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-856/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_857_Yêu_hoàng_Linh_hoàng_2.json",
+    "chapter_name": "Chương 857: Yêu hoàng Linh hoàng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-857/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_858_Gặp_thiên_quỷ_tông.json",
+    "chapter_name": "Chương 858: Gặp thiên quỷ tông",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-858/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_859_Đánh_lén_lúc_hoàng_hôn_1.json",
+    "chapter_name": "Chương 859: Đánh lén lúc hoàng hôn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-859/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_860_Đánh_lén_lúc_hoàng_hôn_2.json",
+    "chapter_name": "Chương 860: Đánh lén lúc hoàng hôn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-860/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_861_Đến_vụ_tinh_hải.json",
+    "chapter_name": "Chương 861: Đến vụ tinh hải",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-861/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_862_Một_chiêu_kích_sát_1.json",
+    "chapter_name": "Chương 862: Một chiêu kích sát (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-862/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_863_Một_chiêu_kích_sát_2.json",
+    "chapter_name": "Chương 863: Một chiêu kích sát (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-863/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_864_Băt_đâu_mơ_ra_1.json",
+    "chapter_name": "Chương 864: Bắt đầu mở ra (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-864/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_865_Băt_đâu_mơ_ra_2.json",
+    "chapter_name": "Chương 865: Bắt đầu mở ra (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-865/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_866_Tiên_vao_Vu_Tinh_Hai.json",
+    "chapter_name": "Chương 866: Tiến vào Vụ Tinh Hải",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-866/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_867_Tư_dưc_yêu_sa_1.json",
+    "chapter_name": "Chương 867: Tứ dực yêu sa (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-867/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_868_Tư_dưc_yêu_sa_2.json",
+    "chapter_name": "Chương 868: Tứ dực yêu sa (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-868/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_869_Co_ngươi_cươp_đoat.json",
+    "chapter_name": "Chương 869: Có người cướp đoạt",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-869/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_870_Tranh_đoat_linh_qua_1.json",
+    "chapter_name": "Chương 870: Tranh đoạt linh quả (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-870/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_871_Tranh_đoat_linh_qua_2.json",
+    "chapter_name": "Chương 871: Tranh đoạt linh quả (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-871/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_872_Ăn_vao_linh_qua.json",
+    "chapter_name": "Chương 872: Ăn vào linh quả",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-872/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_873_Linh_hồn_thổ_phi_1.json",
+    "chapter_name": "Chương 873: Linh hồn thổ phi (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-873/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_874_Linh_hồn_thổ_phi_2.json",
+    "chapter_name": "Chương 874: Linh hồn thổ phi (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-874/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_875_Bao_vât_xuât_thê.json",
+    "chapter_name": "Chương 875: Bảo vật xuất thế",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-875/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_876_Thiên_đôc_yêu_long_1.json",
+    "chapter_name": "Chương 876: Thiên độc yêu long (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-876/"
   }
 ]
