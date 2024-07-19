@@ -210,7 +210,7 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
-        int chapterCountLimit = 400; // giới hạn số chương tải cho mỗi truyện
+        int chapterCountLimit = 100; // giới hạn số chương tải cho mỗi truyện
 
         // Đọc danh sách các chương hiện có từ chapter.json
         List<Map<String, String>> existingChapters = new ArrayList<>();
