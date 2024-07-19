@@ -1073,5 +1073,1005 @@
     "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_215_Vô_Đề.json",
     "chapter_name": "Chương 215: Vô Đề",
     "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-215/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_216_Đại_địch.json",
+    "chapter_name": "Chương 216: Đại địch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-216/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_217_Hi_vọng.json",
+    "chapter_name": "Chương 217: Hi vọng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-217/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_218_Mười_Động_Thiên.json",
+    "chapter_name": "Chương 218: Mười Động Thiên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-218/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_219_Thiếu_niên_Chí_Tôn.json",
+    "chapter_name": "Chương 219: Thiếu niên Chí Tôn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-219/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_220_Quét_ngang.json",
+    "chapter_name": "Chương 220: Quét ngang",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-220/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_221_Chấn_động_Hoang_Vực.json",
+    "chapter_name": "Chương 221: Chấn động Hoang Vực",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-221/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_222_Tôn_Giả_Thần_Sơn.json",
+    "chapter_name": "Chương 222: Tôn Giả Thần Sơn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-222/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_223_Thập_Hung_Di_Thuật.json",
+    "chapter_name": "Chương 223: Thập Hung Di Thuật",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-223/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_224_Thành_Giao.json",
+    "chapter_name": "Chương 224: Thành Giao",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-224/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_225_Cực_Cảnh_Tẩy_Lễ.json",
+    "chapter_name": "Chương 225: Cực Cảnh Tẩy Lễ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-225/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_226_Tái_Diễn.json",
+    "chapter_name": "Chương 226: Tái Diễn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-226/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_227_Lại_Biến_Hóa.json",
+    "chapter_name": "Chương 227: Lại Biến Hóa",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-227/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_228_Thành_Công_Cực_Điểm.json",
+    "chapter_name": "Chương 228: Thành Công Cực Điểm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-228/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_229_Sơ_Văn.json",
+    "chapter_name": "Chương 229: Sơ Văn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-229/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_230_Võ_Vương_Phủ.json",
+    "chapter_name": "Chương 230: Võ Vương Phủ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-230/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_231_Đơn_Giản_Và_Trực_Tiếp.json",
+    "chapter_name": "Chương 231: Đơn Giản Và Trực Tiếp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-231/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_232_Bố_trí_ổn_thỏa.json",
+    "chapter_name": "Chương 232: Bố trí ổn thỏa",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-232/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_233_Thiên_Thần_Sơn.json",
+    "chapter_name": "Chương 233: Thiên Thần Sơn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-233/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_234_Xung_đột_và_cường_thế.json",
+    "chapter_name": "Chương 234: Xung đột và cường thế",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-234/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_235_Bắc_Hải.json",
+    "chapter_name": "Chương 235: Bắc Hải",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-235/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_236_Vùng_đất_tử_vong.json",
+    "chapter_name": "Chương 236: Vùng đất tử vong",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-236/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_237_Câu_đố_còn_sót_lại_từ_Thượng_Cổ.json",
+    "chapter_name": "Chương 237: Câu đố còn sót lại từ Thượng Cổ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-237/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_238_Máu_nhuộm_biển_xanh.json",
+    "chapter_name": "Chương 238: Máu nhuộm biển xanh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-238/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_239_Xé_đôi.json",
+    "chapter_name": "Chương 239: Xé đôi",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-239/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_240_Hang_ổ_thật_sự.json",
+    "chapter_name": "Chương 240: Hang ổ thật sự",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-240/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_241_Phiêu_lưu_vạn_cổ.json",
+    "chapter_name": "Chương 241: Phiêu lưu vạn cổ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-241/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_242_Hậu_nhân_Hải_Thần.json",
+    "chapter_name": "Chương 242: Hậu nhân Hải Thần",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-242/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_243_Hỗn_chiến.json",
+    "chapter_name": "Chương 243: Hỗn chiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-243/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_244_Tỉnh_ngộ.json",
+    "chapter_name": "Chương 244: Tỉnh ngộ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-244/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_245_Thân_thể_thành_linh.json",
+    "chapter_name": "Chương 245: Thân thể thành linh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-245/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_246_Con_đường_chân_chính.json",
+    "chapter_name": "Chương 246: Con đường chân chính",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-246/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_247_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 247: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-247/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_248_Thánh_Chiến_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 248: Thánh Chiến: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-248/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_249_Đắp_lại_chân_ngã_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 249: Đắp lại chân ngã: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-249/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_250_Xuất_quan_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 250: Xuất quan: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-250/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_251_Chiến_quần_hùng_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 251: Chiến quần hùng: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-251/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_252_Thiếu_niên_thiên_kiêu_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 252: Thiếu niên thiên kiêu: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-252/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_253_Đại_quyết_chiến_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 253: Đại quyết chiến: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-253/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_254_Thần_tàng_Côn_Bằng_mở_ra_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 254: Thần tàng Côn Bằng mở ra: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-254/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_255_Đoạt_bảo_Đối_thủ_xinh_đẹp.json",
+    "chapter_name": "Chương 255: Đoạt bảo: Đối thủ xinh đẹp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-255/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_256_Bảo_tàng.json",
+    "chapter_name": "Chương 256: Bảo tàng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-256/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_257_Thiên_Hoang.json",
+    "chapter_name": "Chương 257: Thiên Hoang",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-257/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_258_Phù_cốt_Côn_Bằng.json",
+    "chapter_name": "Chương 258: Phù cốt Côn Bằng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-258/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_259_Huyết_chiến_bát_Phương.json",
+    "chapter_name": "Chương 259: Huyết chiến bát Phương",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-259/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_260_Giải_thoát.json",
+    "chapter_name": "Chương 260: Giải thoát",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-260/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_261_Bảo_thuật_chân_chính_đến_từ_Hóa_Ma_Động.json",
+    "chapter_name": "Chương 261: Bảo thuật chân chính đến từ Hóa Ma Động",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-261/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_262_Kết_thúc_ở_Cấm_Kỵ_Hải.json",
+    "chapter_name": "Chương 262: Kết thúc ở Cấm Kỵ Hải",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-262/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_263_Trở_về.json",
+    "chapter_name": "Chương 263: Trở về",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-263/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_264_Thập_Ngũ_gia.json",
+    "chapter_name": "Chương 264: Thập Ngũ gia",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-264/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_265_Đại_Ma_Thần.json",
+    "chapter_name": "Chương 265: Đại Ma Thần",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-265/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_266_Nổi_giận.json",
+    "chapter_name": "Chương 266: Nổi giận",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-266/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_267_Gia_pháp.json",
+    "chapter_name": "Chương 267: Gia pháp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-267/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_268_Quả_quyết.json",
+    "chapter_name": "Chương 268: Quả quyết",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-268/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_269_Võ_Vương.json",
+    "chapter_name": "Chương 269: Võ Vương",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-269/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_270_Quyết_đấu_ở_Hoàng_Đô.json",
+    "chapter_name": "Chương 270: Quyết đấu ở Hoàng Đô",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-270/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_271_Thần_tiễn_vô_song.json",
+    "chapter_name": "Chương 271: Thần tiễn vô song",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-271/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_272_Vũ_Vương.json",
+    "chapter_name": "Chương 272: Vũ Vương",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-272/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_273_Thạch_Tử_Đằng.json",
+    "chapter_name": "Chương 273: Thạch Tử Đằng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-273/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_274_Thần_khí.json",
+    "chapter_name": "Chương 274: Thần khí",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-274/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_275_Lực_ép_Vũ_tộc.json",
+    "chapter_name": "Chương 275: Lực ép Vũ tộc",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-275/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_276_Sinh_linh_Thần_Sơn.json",
+    "chapter_name": "Chương 276: Sinh linh Thần Sơn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-276/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_277_Đại_chiến_ở_Hoàng_Đô_kết_thúc.json",
+    "chapter_name": "Chương 277: Đại chiến ở Hoàng Đô kết thúc",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-277/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_278_Trở_về_từ_hải_ngoại.json",
+    "chapter_name": "Chương 278: Trở về từ hải ngoại",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-278/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_279_Lại_trở_về_rồi.json",
+    "chapter_name": "Chương 279: Lại trở về rồi",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-279/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_280_Hồ_Ly_Tinh.json",
+    "chapter_name": "Chương 280: Hồ Ly Tinh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-280/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_281_Quyết_định_cường_thế.json",
+    "chapter_name": "Chương 281: Quyết định cường thế",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-281/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_282_Phòng_đấu_giá_Cốt_Cổ.json",
+    "chapter_name": "Chương 282: Phòng đấu giá Cốt Cổ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-282/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_283_Thu_hoạch_cực_lớn.json",
+    "chapter_name": "Chương 283: Thu hoạch cực lớn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-283/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_284_Kỳ_trân_dị_bảo.json",
+    "chapter_name": "Chương 284: Kỳ trân dị bảo",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-284/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_285_Bất_Diệt_Kim_Thân.json",
+    "chapter_name": "Chương 285: Bất Diệt Kim Thân",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-285/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_286_Thần_vật_khó_nắm.json",
+    "chapter_name": "Chương 286: Thần vật khó nắm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-286/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_287_Trùng_Đồng.json",
+    "chapter_name": "Chương 287: Trùng Đồng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-287/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_288_Có_bệnh_thì_phải_trị.json",
+    "chapter_name": "Chương 288: Có bệnh thì phải trị",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-288/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_289_Anh_kiệt_tụ_hội.json",
+    "chapter_name": "Chương 289: Anh kiệt tụ hội",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-289/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_290_Tiên_tử_đến_từ_vực_ngoại.json",
+    "chapter_name": "Chương 290: Tiên tử đến từ vực ngoại",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-290/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_291_Ma_nữ_lại_xuất_hiện.json",
+    "chapter_name": "Chương 291: Ma nữ lại xuất hiện",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-291/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_292_Chiến_tiên_tử.json",
+    "chapter_name": "Chương 292: Chiến tiên tử",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-292/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_293_Tập_hợp_các_lá_bài_tẩy.json",
+    "chapter_name": "Chương 293: Tập hợp các lá bài tẩy",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-293/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_294_Phong_ba.json",
+    "chapter_name": "Chương 294: Phong ba",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-294/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_295_Trấn_áp_Ma_Chu.json",
+    "chapter_name": "Chương 295: Trấn áp Ma Chu",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-295/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_296_Xung_đột_càng_trầm_trọng_hơn.json",
+    "chapter_name": "Chương 296: Xung đột càng trầm trọng hơn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-296/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_297_Không_khoan_nhượng.json",
+    "chapter_name": "Chương 297: Không khoan nhượng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-297/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_298_Lao_tù_Hoang_Vực.json",
+    "chapter_name": "Chương 298: Lao tù Hoang Vực",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-298/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_299_Tặng_đầu_người.json",
+    "chapter_name": "Chương 299: Tặng đầu người",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-299/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_300_Vũ_tộc_phẫn_nộ.json",
+    "chapter_name": "Chương 300: Vũ tộc phẫn nộ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-300/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_301_Cường_thế_thẳng_tiến.json",
+    "chapter_name": "Chương 301: Cường thế thẳng tiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-301/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_302_Bát_Hung_kiếm.json",
+    "chapter_name": "Chương 302: Bát Hung kiếm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-302/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_303_Đại_náo_Vũ_Vương_phủ.json",
+    "chapter_name": "Chương 303: Đại náo Vũ Vương phủ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-303/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_304_Vũ_Đạo_Cửu_Trùng_Thiên.json",
+    "chapter_name": "Chương 304: Vũ Đạo Cửu Trùng Thiên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-304/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_305_Ảnh_chiếu_Vũ_Thần.json",
+    "chapter_name": "Chương 305: Ảnh chiếu Vũ Thần",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-305/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_306_Đến_tột_cùng_là_người_nào.json",
+    "chapter_name": "Chương 306: Đến tột cùng là người nào",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-306/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_307_Phân_rõ_ra.json",
+    "chapter_name": "Chương 307: Phân rõ ra",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-307/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_308_Pháp_chỉ_thê_thảm.json",
+    "chapter_name": "Chương 308: Pháp chỉ thê thảm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-308/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_309_Một_mình_tiến_vào_Võ_Vương_phủ.json",
+    "chapter_name": "Chương 309: Một mình tiến vào Võ Vương phủ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-309/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_310_Ta_tên_Thạch_Hạo.json",
+    "chapter_name": "Chương 310: Ta tên Thạch Hạo",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-310/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_311_Chiêu_cáo_với_thiên_hạ.json",
+    "chapter_name": "Chương 311: Chiêu cáo với thiên hạ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-311/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_312_Chiến_Thạch_Tử_Đằng.json",
+    "chapter_name": "Chương 312: Chiến Thạch Tử Đằng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-312/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_313_Đánh_bại.json",
+    "chapter_name": "Chương 313: Đánh bại",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-313/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_314_Không_thể_chiến_một_trận.json",
+    "chapter_name": "Chương 314: Không thể chiến một trận",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-314/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_315_Song_tiên.json",
+    "chapter_name": "Chương 315: Song tiên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-315/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_316_Hỗn_Thiên.json",
+    "chapter_name": "Chương 316: Hỗn Thiên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-316/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_317_Hoàng_cung.json",
+    "chapter_name": "Chương 317: Hoàng cung",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-317/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_318_Bễ_nghễ.json",
+    "chapter_name": "Chương 318: Bễ nghễ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-318/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_319_Cánh_tay_trái_của_Thần.json",
+    "chapter_name": "Chương 319: Cánh tay trái của Thần",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-319/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_320_Tiểu_tổ_tông.json",
+    "chapter_name": "Chương 320: Tiểu tổ tông",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-320/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_321_Uy_hiếp_sinh_linh_thuần_huyết.json",
+    "chapter_name": "Chương 321: Uy hiếp sinh linh thuần huyết",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-321/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_322_Thiếu_niên_hung_tàn.json",
+    "chapter_name": "Chương 322: Thiếu niên hung tàn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-322/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_323_Diệt_Ma_Chu.json",
+    "chapter_name": "Chương 323: Diệt Ma Chu",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-323/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_324_Chém_tôn_giả.json",
+    "chapter_name": "Chương 324: Chém tôn giả",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-324/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_325_Trận_chiến_huy_hoàng_khép_lại.json",
+    "chapter_name": "Chương 325: Trận chiến huy hoàng khép lại",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-325/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_326_Hoang_Thiên_hầu.json",
+    "chapter_name": "Chương 326: Hoang Thiên hầu",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-326/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_327_Cổ_điện.json",
+    "chapter_name": "Chương 327: Cổ điện",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-327/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_328_Tổ_địa_của_Hỏa_tộc.json",
+    "chapter_name": "Chương 328: Tổ địa của Hỏa tộc",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-328/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_329_Khu_vực_đỏ_đậm.json",
+    "chapter_name": "Chương 329: Khu vực đỏ đậm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-329/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_330_Thần_phủ.json",
+    "chapter_name": "Chương 330: Thần phủ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-330/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_331_Đột_phá_cực_cảnh_ở_Thần_Điện.json",
+    "chapter_name": "Chương 331: Đột phá cực cảnh ở Thần Điện",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-331/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_332_Thăng_hoa_đến_cực_điểm.json",
+    "chapter_name": "Chương 332: Thăng hoa đến cực điểm",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-332/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_333_Kẻ_chặn_đường_đều_chém.json",
+    "chapter_name": "Chương 333: Kẻ chặn đường đều chém",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-333/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_334_Minh_Văn.json",
+    "chapter_name": "Chương 334: Minh Văn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-334/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_335_Một_tờ_kinh_thư.json",
+    "chapter_name": "Chương 335: Một tờ kinh thư",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-335/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_336_Phương_thuốc_cổ_xưa.json",
+    "chapter_name": "Chương 336: Phương thuốc cổ xưa",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-336/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_337_Thạch_Nghị_ứng_chiến.json",
+    "chapter_name": "Chương 337: Thạch Nghị ứng chiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-337/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_338_Trùng_Đồng_ước_chiến.json",
+    "chapter_name": "Chương 338: Trùng Đồng ước chiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-338/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_339_Cách_không_đối_lập.json",
+    "chapter_name": "Chương 339: Cách không đối lập",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-339/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_340_Liên_tiếp_phá_kỷ_lục.json",
+    "chapter_name": "Chương 340: Liên tiếp phá kỷ lục",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-340/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_341_Hồ_Ma_Linh.json",
+    "chapter_name": "Chương 341: Hồ Ma Linh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-341/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_342_Kim_thân_bất_hoại.json",
+    "chapter_name": "Chương 342: Kim thân bất hoại",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-342/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_343_Cuộc_chiến_của_thiếu_niên_Chí_Tôn.json",
+    "chapter_name": "Chương 343: Cuộc chiến của thiếu niên Chí Tôn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-343/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_344_Chiến_trường_Thiên_Không.json",
+    "chapter_name": "Chương 344: Chiến trường Thiên Không",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-344/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_345_Tiến_hành_từng_bước.json",
+    "chapter_name": "Chương 345: Tiến hành từng bước",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-345/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_346_Ân_tình_của_Hỏa_Hoàng.json",
+    "chapter_name": "Chương 346: Ân tình của Hỏa Hoàng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-346/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_347_Mồi_câu.json",
+    "chapter_name": "Chương 347: Mồi câu",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-347/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_348_Thu_hoạch_to_lớn.json",
+    "chapter_name": "Chương 348: Thu hoạch to lớn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-348/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_349_Xuất_quan.json",
+    "chapter_name": "Chương 349: Xuất quan",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-349/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_350_Chu_Tước.json",
+    "chapter_name": "Chương 350: Chu Tước",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-350/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_351_Lai_lịch.json",
+    "chapter_name": "Chương 351: Lai lịch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-351/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_352_Thánh_Hoàng_cung.json",
+    "chapter_name": "Chương 352: Thánh Hoàng cung",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-352/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_353_Dục_hỏa_luyện_kim_thân.json",
+    "chapter_name": "Chương 353: Dục hỏa luyện kim thân*",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-353/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_354_Bốn_kích_của_Thái_Cổ_Chu_Tước.json",
+    "chapter_name": "Chương 354: Bốn kích của Thái Cổ Chu Tước",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-354/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_355_Hồ_Niết_Bàn.json",
+    "chapter_name": "Chương 355: Hồ Niết Bàn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-355/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_356_Chí_Tôn_cốt_tái_sinh.json",
+    "chapter_name": "Chương 356: Chí Tôn cốt tái sinh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-356/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_357_Cốt_uy.json",
+    "chapter_name": "Chương 357: Cốt uy",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-357/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_358_Bức_tường_Thần_Ma.json",
+    "chapter_name": "Chương 358: Bức tường Thần Ma",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-358/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_359_Vừa_thấy_bí_ẩn.json",
+    "chapter_name": "Chương 359: Vừa thấy bí ẩn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-359/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_360_Tôi_luyện.json",
+    "chapter_name": "Chương 360: Tôi luyện",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-360/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_361_Thiếu_niên_vực_ngoại_tụ_hợp.json",
+    "chapter_name": "Chương 361: Thiếu niên vực ngoại tụ hợp",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-361/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_362_Đệ_tử_Bổ_Thiên.json",
+    "chapter_name": "Chương 362: Đệ tử Bổ Thiên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-362/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_363_Lựa_chọn.json",
+    "chapter_name": "Chương 363: Lựa chọn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-363/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_364_Sát_cơ.json",
+    "chapter_name": "Chương 364: Sát cơ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-364/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_365_Ngông_nghênh_giết_sạch.json",
+    "chapter_name": "Chương 365: Ngông nghênh giết sạch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-365/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_366_Thiên_hạ_hữu_địch.json",
+    "chapter_name": "Chương 366: Thiên hạ hữu địch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-366/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_367_Gia_đình.json",
+    "chapter_name": "Chương 367: Gia đình",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-367/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_368_Hứng_thú_trẻ_con.json",
+    "chapter_name": "Chương 368: Hứng thú trẻ con",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-368/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_369_Bão_táp_nổi_lên.json",
+    "chapter_name": "Chương 369: Bão táp nổi lên",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-369/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_370_Ngày_quyết_chiến.json",
+    "chapter_name": "Chương 370: Ngày quyết chiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-370/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_371_Mở_ra_chiến_trường_phủ_đầy_bụi.json",
+    "chapter_name": "Chương 371: Mở ra chiến trường phủ đầy bụi",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-371/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_372_Chu_Tước_vs_Kỳ_Lân.json",
+    "chapter_name": "Chương 372: Chu Tước vs Kỳ Lân",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-372/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_373_Cuộc_chiến_giữa_hai_người_mang_họ_Thạch.json",
+    "chapter_name": "Chương 373: Cuộc chiến giữa hai người mang họ Thạch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-373/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_374_Uy_lực_của_Trùng_Đồng.json",
+    "chapter_name": "Chương 374: Uy lực của Trùng Đồng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-374/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_375_Cực_tốc.json",
+    "chapter_name": "Chương 375: Cực tốc",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-375/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_376_Thiên_kiêu_quyết_chiến.json",
+    "chapter_name": "Chương 376: Thiên kiêu quyết chiến",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-376/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_377_Thần_thông_ra_hết_quyết_sinh_tử.json",
+    "chapter_name": "Chương 377: Thần thông ra hết quyết sinh tử",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-377/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_378_Vá_trời_Bổ_Thiên.json",
+    "chapter_name": "Chương 378: Vá trời (Bổ Thiên)",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-378/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_379_Thượng_Thương_kiếp_quang.json",
+    "chapter_name": "Chương 379: Thượng Thương kiếp quang",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-379/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_380_Chém_Trùng_Đồng_giả.json",
+    "chapter_name": "Chương 380: Chém Trùng Đồng giả",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-380/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_381_Khen_thưởng_phong_phú.json",
+    "chapter_name": "Chương 381: Khen thưởng phong phú",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-381/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_382_Chàng_trai_bên_trong_lửa_thần.json",
+    "chapter_name": "Chương 382: Chàng trai bên trong lửa thần",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-382/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_383_Hỗn_loạn.json",
+    "chapter_name": "Chương 383: Hỗn loạn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-383/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_384_Tế_sống.json",
+    "chapter_name": "Chương 384: Tế sống",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-384/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_385_Kiếm_ý_của_thánh_nhân.json",
+    "chapter_name": "Chương 385: Kiếm ý của thánh nhân",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-385/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_386_Tôn_giả_cùng_ra_tay.json",
+    "chapter_name": "Chương 386: Tôn giả cùng ra tay",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-386/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_387_Càn_quét.json",
+    "chapter_name": "Chương 387: Càn quét",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-387/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_388_Không_sợ_Bổ_Thiên_giáo.json",
+    "chapter_name": "Chương 388: Không sợ Bổ Thiên giáo",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-388/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_389_Tập_kích_Vực_Sứ.json",
+    "chapter_name": "Chương 389: Tập kích Vực Sứ",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-389/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_390_Pháp_khí_Hỗn_Độn.json",
+    "chapter_name": "Chương 390: Pháp khí Hỗn Độn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-390/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_391_Đoạt_tạo_hóa_Thần_Linh.json",
+    "chapter_name": "Chương 391: Đoạt tạo hóa Thần Linh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-391/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_392_Chí_bảo.json",
+    "chapter_name": "Chương 392: Chí bảo",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-392/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_393_Thần_phạt.json",
+    "chapter_name": "Chương 393: Thần phạt",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-393/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_394_Cô_gái_bí_ẩn.json",
+    "chapter_name": "Chương 394: Cô gái bí ẩn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-394/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_395_Vương_mười_bốn_tuổi.json",
+    "chapter_name": "Chương 395: Vương mười bốn tuổi",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-395/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_396_Liệt_Trận.json",
+    "chapter_name": "Chương 396: Liệt Trận",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-396/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_397_Một_cọng_cỏ_chém_cả_ngôi_sao.json",
+    "chapter_name": "Chương 397: Một cọng cỏ chém cả ngôi sao",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-397/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_398_Thần_thụ_Tế_Linh.json",
+    "chapter_name": "Chương 398: Thần thụ Tế Linh",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-398/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_399_Sinh_linh_vực_ngoại_gặp_mặt.json",
+    "chapter_name": "Chương 399: Sinh linh vực ngoại gặp mặt",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-399/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_400_Bá_đạo.json",
+    "chapter_name": "Chương 400: Bá đạo",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-400/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_401_Không_gì_địch_nổi.json",
+    "chapter_name": "Chương 401: Không gì địch nổi",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-401/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_402_Quần_hùng_tập_trung.json",
+    "chapter_name": "Chương 402: Quần hùng tập trung",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-402/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_403_Cầm_Thú_đại_phát_thần_uy.json",
+    "chapter_name": "Chương 403: Cầm - Thú đại phát thần uy",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-403/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_404_Người_thân_Bất_Lão_sơn.json",
+    "chapter_name": "Chương 404: \"Người thân\" Bất Lão sơn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-404/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_405_Thạch_Hạo_tái_hiện.json",
+    "chapter_name": "Chương 405: Thạch Hạo tái hiện",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-405/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_406_Chém_Vương.json",
+    "chapter_name": "Chương 406: Chém Vương",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-406/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_407_Ngang_tàn_tới_cùng.json",
+    "chapter_name": "Chương 407: Ngang tàn tới cùng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-407/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_408_Vòng_Ngũ_Hành.json",
+    "chapter_name": "Chương 408: Vòng Ngũ Hành",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-408/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_409_Tư_thế_vô_địch.json",
+    "chapter_name": "Chương 409: Tư thế vô địch",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-409/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_410_Tìm_kiếm_phương_pháp_đột_phá.json",
+    "chapter_name": "Chương 410: Tìm kiếm phương pháp đột phá",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-410/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_411_Truyền_thừa_của_tổ_địa_Thạch_tộc.json",
+    "chapter_name": "Chương 411: Truyền thừa của tổ địa Thạch tộc",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-411/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_412_Linh_dược_quan_trọng.json",
+    "chapter_name": "Chương 412: Linh dược quan trọng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-412/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_413_Kim_Sí_Đại_Bằng.json",
+    "chapter_name": "Chương 413: Kim Sí Đại Bằng",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-413/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_414_Ngoài_Ý_Muốn.json",
+    "chapter_name": "Chương 414: Ngoài Ý Muốn",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-414/"
+  },
+  {
+    "path": "data/Thế_Giới_Hoàn_Mỹ/Chương_415_Dược_Đô.json",
+    "chapter_name": "Chương 415: Dược Đô",
+    "url": "https://truyenfull.vn/the-gioi-hoan-my/chuong-415/"
   }
 ]
