@@ -357,7 +357,11 @@ public class TruyenCrawler {
 
         for (Map<String, String> story : stories) {
             if (story.get("url").equals(storyUrl)) {
-                story.put("success", "true");
+                if (!story.containsKey("success") || !"true".equals(story.get("success"))) {
+                    if ("Full".equals(story.get("status"))) {
+                        story.put("success", "true");
+                    }
+                }
                 break;
             }
         }
