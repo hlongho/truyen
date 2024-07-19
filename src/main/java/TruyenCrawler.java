@@ -210,7 +210,7 @@ public class TruyenCrawler {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
-        int chapterCountLimit = 100; // giới hạn số chương tải cho mỗi truyện
+        int chapterCountLimit = 5; // giới hạn số chương tải cho mỗi truyện
 
         // Đọc danh sách các chương hiện có từ chapter.json
         List<Map<String, String>> existingChapters = new ArrayList<>();
@@ -289,7 +289,7 @@ public class TruyenCrawler {
         Map<String, Object> chapterData = new HashMap<>();
         try {
             try {
-                Thread.sleep(2000);
+                Thread.sleep(3000);
             } catch (InterruptedException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
