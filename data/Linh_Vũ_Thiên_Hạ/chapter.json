@@ -873,5 +873,505 @@
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_175_Vào_phi_linh_môn_1.json",
     "chapter_name": "Chương 175: Vào phi linh môn (1)",
     "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-175/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_176_Vào_phi_linh_môn_2.json",
+    "chapter_name": "Chương 176: Vào phi linh môn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-176/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_177_Ba_vị_trưởng_lão.json",
+    "chapter_name": "Chương 177: Ba vị trưởng lão",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-177/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_178_Dây_vào_rắc_rối.json",
+    "chapter_name": "Chương 178: Dây vào rắc rối",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-178/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_179_Đơn_độc_khiêu_chiến_Vũ_Sư.json",
+    "chapter_name": "Chương 179: Đơn độc khiêu chiến Vũ Sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-179/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_180_Làm_thịt_nó_1.json",
+    "chapter_name": "Chương 180: Làm thịt nó (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-180/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_181_Làm_thịt_nó_2.json",
+    "chapter_name": "Chương 181: Làm thịt nó (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-181/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_182_Bóng_đen_mật_mưu.json",
+    "chapter_name": "Chương 182: Bóng đen mật mưu",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-182/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_183_Bị_đánh_lén_trong_sơn_cốc.json",
+    "chapter_name": "Chương 183: Bị đánh lén trong sơn cốc",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-183/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_184_Xem_coi_ai_chết.json",
+    "chapter_name": "Chương 184: Xem coi ai chết",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-184/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_185_Bế_quan_tu_luyện_1.json",
+    "chapter_name": "Chương 185: Bế quan tu luyện (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-185/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_186_Bế_quan_tu_luyện_2.json",
+    "chapter_name": "Chương 186: Bế quan tu luyện (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-186/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_187_Đau_nhức_cháy_người.json",
+    "chapter_name": "Chương 187: Đau nhức cháy người",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-187/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_188_Bách_luyện_thành_ấn.json",
+    "chapter_name": "Chương 188: Bách luyện thành ấn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-188/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_189_Khôi_lỗi_Lang_Nhân.json",
+    "chapter_name": "Chương 189: Khôi lỗi Lang Nhân",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-189/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_190_Đề_cử_chưởng_môn_1.json",
+    "chapter_name": "Chương 190: Đề cử chưởng môn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-190/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_191_Đề_cử_chưởng_môn_2.json",
+    "chapter_name": "Chương 191: Đề cử chưởng môn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-191/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_192_Vinh_đăng_chưởng_môn.json",
+    "chapter_name": "Chương 192: Vinh đăng chưởng môn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-192/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_193_Bí_mật_trong_môn.json",
+    "chapter_name": "Chương 193: Bí mật trong môn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-193/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_194_Chợ_ngầm.json",
+    "chapter_name": "Chương 194: Chợ ngầm",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-194/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_195_Vưu_vật_nhà_ai_1.json",
+    "chapter_name": "Chương 195: Vưu vật nhà ai (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-195/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_196_Vưu_vật_nhà_ai_2.json",
+    "chapter_name": "Chương 196: Vưu vật nhà ai (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-196/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_197_Thiên_Sí_Tuyết_Sư.json",
+    "chapter_name": "Chương 197: Thiên Sí Tuyết Sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-197/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_198_Gặp_yêu_trong_sơn_cốc.json",
+    "chapter_name": "Chương 198: Gặp yêu trong sơn cốc",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-198/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_199_Khí_tức_giao_phong.json",
+    "chapter_name": "Chương 199: Khí tức giao phong",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-199/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_200_Bày_huyết_hồn_ấn_1.json",
+    "chapter_name": "Chương 200: Bày huyết hồn ấn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-200/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_201_Bày_huyết_hồn_ấn_2.json",
+    "chapter_name": "Chương 201: Bày huyết hồn ấn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-201/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_202_Đồ_ăn_cướp.json",
+    "chapter_name": "Chương 202: Đồ ăn cướp!",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-202/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_203_Nam_nhiều_nữ_ít.json",
+    "chapter_name": "Chương 203: Nam nhiều nữ ít",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-203/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_204_Cắn_nuốt_Vũ_Sư.json",
+    "chapter_name": "Chương 204: Cắn nuốt Vũ Sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-204/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_205_Cửu_trọng_đỉnh_phong_1.json",
+    "chapter_name": "Chương 205: Cửu trọng đỉnh phong (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-205/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_206_Cửu_trọng_đỉnh_phong_2.json",
+    "chapter_name": "Chương 206: Cửu trọng đỉnh phong (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-206/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_207_Rình_ngó.json",
+    "chapter_name": "Chương 207: Rình ngó",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-207/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_208_Gặp_lại_Độc_Suất.json",
+    "chapter_name": "Chương 208: Gặp lại Độc Suất",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-208/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_209_Điên_cuồng_chạy_trốn.json",
+    "chapter_name": "Chương 209: Điên cuồng chạy trốn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-209/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_210_Mời_nhập_môn_1.json",
+    "chapter_name": "Chương 210: Mời nhập môn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-210/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_211_Mời_nhập_môn_2.json",
+    "chapter_name": "Chương 211: Mời nhập môn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-211/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_212_Lục_Tâm_Đồng_bái_sư.json",
+    "chapter_name": "Chương 212: Lục Tâm Đồng bái sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-212/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_213_Đột_phá_Linh_Sư.json",
+    "chapter_name": "Chương 213: Đột phá Linh Sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-213/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_214_Đột_phá_Vũ_Sư_1.json",
+    "chapter_name": "Chương 214: Đột phá Vũ Sư (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-214/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_215_Đột_phá_Vũ_Sư_2.json",
+    "chapter_name": "Chương 215: Đột phá Vũ Sư (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-215/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_216_Độc_Suất_chấn_nhiếp.json",
+    "chapter_name": "Chương 216: Độc Suất chấn nhiếp",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-216/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_217_Độc_Suất_ra_tay.json",
+    "chapter_name": "Chương 217: Độc Suất ra tay",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-217/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_218_Người_chống_cự_chết_1.json",
+    "chapter_name": "Chương 218: Người chống cự, chết (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-218/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_219_Người_chống_cự_chết_2.json",
+    "chapter_name": "Chương 219: Người chống cự, chết (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-219/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_220_Chỉ_là_con_kiến.json",
+    "chapter_name": "Chương 220: Chỉ là con kiến",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-220/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_221_Tranh_bá_thiên_hạ.json",
+    "chapter_name": "Chương 221: Tranh bá thiên hạ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-221/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_222_Kho_báu_kếch_sù_trong_mật_thất_1.json",
+    "chapter_name": "Chương 222: Kho báu kếch sù trong mật thất (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-222/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_223_Kho_báu_kếch_sù_trong_mật_thất_2.json",
+    "chapter_name": "Chương 223: Kho báu kếch sù trong mật thất (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-223/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_224_Hậu_thiên_độc_thể.json",
+    "chapter_name": "Chương 224: Hậu thiên độc thể",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-224/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_225_Vũ_kỹ_phi_hành.json",
+    "chapter_name": "Chương 225: Vũ kỹ phi hành",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-225/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_226_Mặt_mũi_bầm_dập.json",
+    "chapter_name": "Chương 226: Mặt mũi bầm dập",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-226/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_227_Lại_lần_nữa_đột_phá_1.json",
+    "chapter_name": "Chương 227: Lại lần nữa đột phá (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-227/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_228_Lại_lần_nữa_đột_phá_2.json",
+    "chapter_name": "Chương 228: Lại lần nữa đột phá (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-228/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_229_Có_kẻ_thù_tấn_công.json",
+    "chapter_name": "Chương 229: Có kẻ thù tấn công",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-229/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_230_Trịnh_Anh_ra_tay.json",
+    "chapter_name": "Chương 230: Trịnh Anh ra tay",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-230/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_231_Đối_kháng_vượt_cấp_1.json",
+    "chapter_name": "Chương 231: Đối kháng vượt cấp (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-231/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_232_Đối_kháng_vượt_cấp_2.json",
+    "chapter_name": "Chương 232: Đối kháng vượt cấp (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-232/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_233_Mộc_lao_gia_tỏa.json",
+    "chapter_name": "Chương 233: Mộc lao gia tỏa",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-233/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_234_Rơi_vào_thế_yếu.json",
+    "chapter_name": "Chương 234: Rơi vào thế yếu",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-234/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_235_Vượt_cấp_đánh_chết.json",
+    "chapter_name": "Chương 235: Vượt cấp đánh chết",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-235/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_236_Vũ_Giả_tứ_hệ.json",
+    "chapter_name": "Chương 236: Vũ Giả tứ hệ?",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-236/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_237_Một_chiêu_tiêu_diệt_1.json",
+    "chapter_name": "Chương 237: Một chiêu tiêu diệt (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-237/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_238_Một_chiêu_tiêu_diệt_2.json",
+    "chapter_name": "Chương 238: Một chiêu tiêu diệt (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-238/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_239_Tuyết_Sư_đột_phá.json",
+    "chapter_name": "Chương 239: Tuyết Sư đột phá",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-239/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_240_Siêu_biến_thái.json",
+    "chapter_name": "Chương 240: Siêu biến thái",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-240/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_241_Giao_phong_trong_đại_điện_1.json",
+    "chapter_name": "Chương 241: Giao phong trong đại điện (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-241/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_242_Giao_phong_trong_đại_điện_2.json",
+    "chapter_name": "Chương 242: Giao phong trong đại điện (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-242/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_243_Diệt_la_sát_môn.json",
+    "chapter_name": "Chương 243: Diệt la sát môn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-243/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_244_Đạo_dùng_người.json",
+    "chapter_name": "Chương 244: Đạo dùng người",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-244/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_245_Đại_hội_tông_môn_1.json",
+    "chapter_name": "Chương 245: Đại hội tông môn (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-245/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_246_Đại_hội_tông_môn_2.json",
+    "chapter_name": "Chương 246: Đại hội tông môn (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-246/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_247_Đánh_lén_lúc_nửa_đêm.json",
+    "chapter_name": "Chương 247: Đánh lén lúc nửa đêm",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-247/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_248_Không_gian_thú_nang.json",
+    "chapter_name": "Chương 248: Không gian thú nang",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-248/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_249_Thị_huyết_yêu_lang_1.json",
+    "chapter_name": "Chương 249: Thị huyết yêu lang (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-249/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_250_Thị_huyết_yêu_lang_2.json",
+    "chapter_name": "Chương 250: Thị huyết yêu lang (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-250/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_251_Yêu_thú_mộc_hệ.json",
+    "chapter_name": "Chương 251: Yêu thú mộc hệ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-251/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_252_Hoàng_cấp_cao_giai.json",
+    "chapter_name": "Chương 252: Hoàng cấp cao giai",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-252/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_253_Thiểm_điện_hắc_báo.json",
+    "chapter_name": "Chương 253: Thiểm điện hắc báo",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-253/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_254_Vũ_Sư_tứ_trọng_1.json",
+    "chapter_name": "Chương 254: Vũ Sư tứ trọng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-254/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_255_Vũ_Sư_tứ_trọng_2.json",
+    "chapter_name": "Chương 255: Vũ Sư tứ trọng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-255/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_256_Có_rắc_rối.json",
+    "chapter_name": "Chương 256: Có rắc rối",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-256/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_257_Giết_ngay_lập_tức.json",
+    "chapter_name": "Chương 257: Giết ngay lập tức",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-257/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_258_Đối_chiến_Linh_Sư.json",
+    "chapter_name": "Chương 258: Đối chiến Linh Sư",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-258/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_259_Đột_phá_linh_lực_1.json",
+    "chapter_name": "Chương 259: Đột phá linh lực (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-259/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_260_Đột_phá_linh_lực_2.json",
+    "chapter_name": "Chương 260: Đột phá linh lực (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-260/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_261_Thì_ra_là_cố_nhân.json",
+    "chapter_name": "Chương 261: Thì ra là cố nhân",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-261/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_262_Khôi_lỗi_phi_hành.json",
+    "chapter_name": "Chương 262: Khôi lỗi phi hành",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-262/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_263_Gặp_gỡ_trong_thành_1.json",
+    "chapter_name": "Chương 263: Gặp gỡ trong thành (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-263/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_264_Gặp_gỡ_trong_thành_2.json",
+    "chapter_name": "Chương 264: Gặp gỡ trong thành (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-264/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_265_Phù_dung_trồi_lên_mặt_nước.json",
+    "chapter_name": "Chương 265: Phù dung trồi lên mặt nước",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-265/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_266_Ta_thích_ngươi.json",
+    "chapter_name": "Chương 266: Ta thích ngươi",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-266/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_267_Theo_ta_trở_về_1.json",
+    "chapter_name": "Chương 267: Theo ta trở về (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-267/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_268_Theo_ta_trở_về_2.json",
+    "chapter_name": "Chương 268: Theo ta trở về (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-268/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_269_Không_biết_làm_sao.json",
+    "chapter_name": "Chương 269: Không biết làm sao",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-269/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_270_Quỷ_Vũ_tông_chủ.json",
+    "chapter_name": "Chương 270: Quỷ Vũ tông chủ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-270/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_271_Đại_hội_tông_môn.json",
+    "chapter_name": "Chương 271: Đại hội tông môn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-271/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_272_Bất_luận_sinh_tử_1.json",
+    "chapter_name": "Chương 272: Bất luận sinh tử (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-272/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_273_Bất_luận_sinh_tử_2.json",
+    "chapter_name": "Chương 273: Bất luận sinh tử (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-273/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_274_Buông_tay_giết_chóc.json",
+    "chapter_name": "Chương 274: Buông tay giết chóc",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-274/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_275_Khí_sát_phạt.json",
+    "chapter_name": "Chương 275: Khí sát phạt",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-275/"
   }
 ]
