@@ -1873,5 +1873,505 @@
     "path": "data/Linh_Vũ_Thiên_Hạ/Chương_375_Thiên_Ba_kiêm_quyêt.json",
     "chapter_name": "Chương 375: Thiên Ba kiếm quyết",
     "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-375/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_376_Khi_tưc_quy_di_1.json",
+    "chapter_name": "Chương 376: Khí tức quỷ dị (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-376/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_377_Khi_tưc_quy_di_2.json",
+    "chapter_name": "Chương 377: Khí tức quỷ dị (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-377/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_378_Co_dam_ưng_chiên.json",
+    "chapter_name": "Chương 378: Có dám ứng chiến?",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-378/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_379_Tên_hê_nhay_nhot_1.json",
+    "chapter_name": "Chương 379: Tên hề nhảy nhót (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-379/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_380_Tên_hê_nhay_nhot_2.json",
+    "chapter_name": "Chương 380: Tên hề nhảy nhót (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-380/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_381_Môt_chiêu_đanh_bai.json",
+    "chapter_name": "Chương 381: Một chiêu đánh bại",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-381/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_382_Lân_đâu_gân_nư_săc_1.json",
+    "chapter_name": "Chương 382: Lần đầu gần nữ sắc (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-382/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_383_Lân_đâu_gân_nư_săc_2.json",
+    "chapter_name": "Chương 383: Lần đầu gần nữ sắc (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-383/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_384_Trong_van_vu_lâu.json",
+    "chapter_name": "Chương 384: Trong vạn vũ lâu",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-384/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_385_Đê_tam_Long_bang_1.json",
+    "chapter_name": "Chương 385: Đệ tam Long bảng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-385/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_386_Đê_tam_Long_bang_2.json",
+    "chapter_name": "Chương 386: Đệ tam Long bảng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-386/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_387_Hông_Lăng_bưc_hôn.json",
+    "chapter_name": "Chương 387: Hồng Lăng bức hôn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-387/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_388_Kia_la_cai_gi_1.json",
+    "chapter_name": "Chương 388: Kia là cái gì? (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-388/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_389_Kia_la_cai_gi_2.json",
+    "chapter_name": "Chương 389: Kia là cái gì? (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-389/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_390_Mãnh_hổ_nghịch_long.json",
+    "chapter_name": "Chương 390: Mãnh hổ, nghịch long",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-390/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_391_Băt_đâu_đôt_pha_1.json",
+    "chapter_name": "Chương 391: Bắt đầu đột phá (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-391/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_392_Băt_đâu_đôt_pha_2.json",
+    "chapter_name": "Chương 392: Bắt đầu đột phá (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-392/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_393_Ngưng_tu_hôn_đan.json",
+    "chapter_name": "Chương 393: Ngưng tụ hồn đan",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-393/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_394_Đông_tinh_cuông_bao_1.json",
+    "chapter_name": "Chương 394: Động tĩnh cuồng bạo (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-394/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_395_Đông_tinh_cuông_bao_2.json",
+    "chapter_name": "Chương 395: Động tĩnh cuồng bạo (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-395/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_396_Di_biên_khi_đôt_pha.json",
+    "chapter_name": "Chương 396: Dị biến khi đột phá",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-396/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_397_Lôt_xac_chân_chinh_1.json",
+    "chapter_name": "Chương 397: Lột xác chân chính (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-397/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_398_Lôt_xac_chân_chinh_2.json",
+    "chapter_name": "Chương 398: Lột xác chân chính (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-398/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_399_Đôt_pha_Vũ_Phach.json",
+    "chapter_name": "Chương 399: Đột phá Vũ Phách",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-399/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_400_Bi_mât_Vũ_đan_1.json",
+    "chapter_name": "Chương 400: Bí mật Vũ đan (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-400/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_401_Bi_mât_Vũ_đan_2.json",
+    "chapter_name": "Chương 401: Bí mật Vũ đan (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-401/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_402_Tiên_canh_1.json",
+    "chapter_name": "Chương 402: Tiên cảnh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-402/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_403_Tiên_canh_2.json",
+    "chapter_name": "Chương 403: Tiên cảnh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-403/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_404_Hoang_Sa_yêu_mang.json",
+    "chapter_name": "Chương 404: Hoàng Sa yêu mãng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-404/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_405_Đâu_thang_ưng_chiên_1.json",
+    "chapter_name": "Chương 405: Đầu tháng ứng chiến (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-405/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_406_Đâu_thang_ưng_chiên_2.json",
+    "chapter_name": "Chương 406: Đầu tháng ứng chiến (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-406/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_407_Thân_phân_cua_Tiêu_Long.json",
+    "chapter_name": "Chương 407: Thân phận của Tiểu Long",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-407/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_408_Đồ_chơi_gì_vậy_1.json",
+    "chapter_name": "Chương 408: Đồ chơi gì vậy? (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-408/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_409_Đồ_chơi_gì_vậy_2.json",
+    "chapter_name": "Chương 409: Đồ chơi gì vậy? (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-409/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_410_Dung_yêu_đan.json",
+    "chapter_name": "Chương 410: Dùng yêu đan",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-410/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_411_Phu_quang_lươc_anh_1.json",
+    "chapter_name": "Chương 411: Phù quang lược ảnh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-411/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_412_Phu_quang_lươc_anh_2.json",
+    "chapter_name": "Chương 412: Phù quang lược ảnh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-412/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_413_Cương_gia_hôi_tu.json",
+    "chapter_name": "Chương 413: Cường giả hội tụ",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-413/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_414_Đôi_choi_gay_găt_1.json",
+    "chapter_name": "Chương 414: Đối chọi gay gắt (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-414/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_415_Đôi_choi_gay_găt_2.json",
+    "chapter_name": "Chương 415: Đối chọi gay gắt (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-415/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_416_Chung_nhân_chu_muc.json",
+    "chapter_name": "Chương 416: Chúng nhân chú mục",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-416/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_417_Xem_ai_phê_ai_1.json",
+    "chapter_name": "Chương 417: Xem ai phế ai (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-417/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_418_Xem_ai_phê_ai_2.json",
+    "chapter_name": "Chương 418: Xem ai phế ai (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-418/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_419_Phong_ngư_kinh_khung.json",
+    "chapter_name": "Chương 419: Phòng ngự kinh khủng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-419/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_420_Chiên_thăng_tuyêt_đôi_1.json",
+    "chapter_name": "Chương 420: Chiến thắng tuyệt đối (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-420/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_421_Chiên_thăng_tuyêt_đôi_2.json",
+    "chapter_name": "Chương 421: Chiến thắng tuyệt đối (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-421/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_422_Tỏ_tỉnh_trước_công_chúng.json",
+    "chapter_name": "Chương 422: Tỏ tỉnh trước công chúng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-422/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_423_Dung_tung_đô_đê_1.json",
+    "chapter_name": "Chương 423: Dung túng đồ đệ (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-423/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_424_Dung_tung_đô_đê_2.json",
+    "chapter_name": "Chương 424: Dung túng đồ đệ (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-424/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_425_Tiên_canh.json",
+    "chapter_name": "Chương 425: Tiên cảnh",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-425/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_426_Chô_tôt_cua_tiên_canh_1.json",
+    "chapter_name": "Chương 426: Chỗ tốt của tiên cảnh (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-426/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_427_Chô_tôt_cua_tiên_canh_2.json",
+    "chapter_name": "Chương 427: Chỗ tốt của tiên cảnh (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-427/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_428_Thành_tựu_một_tháng.json",
+    "chapter_name": "Chương 428: Thành tựu một tháng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-428/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_429_Bảo_vật_mật_địa.json",
+    "chapter_name": "Chương 429: Bảo vật mật địa",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-429/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_430_Thế_cục_biến_hóa_1.json",
+    "chapter_name": "Chương 430: Thế cục biến hóa (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-430/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_431_Thế_cục_biến_hóa_2.json",
+    "chapter_name": "Chương 431: Thế cục biến hóa (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-431/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_432_Đóng_ảo_cảnh.json",
+    "chapter_name": "Chương 432: Đóng ảo cảnh",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-432/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_433_Vân_Hành_vũ_thi_1.json",
+    "chapter_name": "Chương 433: Vân Hành vũ thi (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-433/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_434_Vân_Hành_vũ_thi_2.json",
+    "chapter_name": "Chương 434: Vân Hành vũ thi (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-434/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_435_Long_bang_cương_han.json",
+    "chapter_name": "Chương 435: Long bảng cường hãn",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-435/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_436_Thi_đâu_băt_đâu_1.json",
+    "chapter_name": "Chương 436: Thi đấu bắt đầu (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-436/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_437_Thi_đâu_băt_đâu_2.json",
+    "chapter_name": "Chương 437: Thi đấu bắt đầu (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-437/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_438_Bat_trao_yêu_giap.json",
+    "chapter_name": "Chương 438: Bát trảo yêu giáp",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-438/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_439_Nhât_trong_tâng_năm_1.json",
+    "chapter_name": "Chương 439: Nhất trọng tầng năm (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-439/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_440_Nhât_trong_tâng_năm_2.json",
+    "chapter_name": "Chương 440: Nhất trọng tầng năm (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-440/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_441_Lai_lich_cua_mât_đia.json",
+    "chapter_name": "Chương 441: Lai lịch của mật địa",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-441/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_442_Trươc_khi_đi_vao_mât_đia_1.json",
+    "chapter_name": "Chương 442: Trước khi đi vào mật địa (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-442/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_443_Trươc_khi_đi_vao_mât_đia_2.json",
+    "chapter_name": "Chương 443: Trước khi đi vào mật địa (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-443/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_444_Tu_luyên_nhanh_chong.json",
+    "chapter_name": "Chương 444: Tu luyện nhanh chóng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-444/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_445_Trong_mât_đia_1.json",
+    "chapter_name": "Chương 445: Trong mật địa (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-445/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_446_Trong_mât_đia_2.json",
+    "chapter_name": "Chương 446: Trong mật địa (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-446/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_447_Mât_đia_nguy_hiêm.json",
+    "chapter_name": "Chương 447: Mật địa nguy hiểm",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-447/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_448_Cho_ngươi_ê_răng_1.json",
+    "chapter_name": "Chương 448: Cho ngươi ê răng (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-448/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_449_Cho_ngươi_ê_răng_2.json",
+    "chapter_name": "Chương 449: Cho ngươi ê răng (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-449/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_450_Co_chut_mơ_am.json",
+    "chapter_name": "Chương 450: Có chút mờ ám",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-450/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_451_Bi_tâp_kich_1.json",
+    "chapter_name": "Chương 451: Bị tập kích (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-451/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_452_Bi_tâp_kich_2.json",
+    "chapter_name": "Chương 452: Bị tập kích (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-452/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_453_Chông_lai_Vu_Tướng.json",
+    "chapter_name": "Chương 453: Chống lại Vũ Tướng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-453/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_454_Linh_hôn_ngưng_vât.json",
+    "chapter_name": "Chương 454: Linh hồn ngưng vật",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-454/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_455_Thương_cô_đai_trân_1.json",
+    "chapter_name": "Chương 455: Thượng cổ đại trận (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-455/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_456_Thương_cô_đai_trân_2.json",
+    "chapter_name": "Chương 456: Thượng cổ đại trận (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-456/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_457_Cương_gia_thân_bi.json",
+    "chapter_name": "Chương 457: Cường giả thần bí",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-457/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_458_Năng_lương_thân_bi_1.json",
+    "chapter_name": "Chương 458: Năng lượng thần bí (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-458/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_459_Năng_lương_thân_bi_2.json",
+    "chapter_name": "Chương 459: Năng lượng thần bí (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-459/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_460_Song_song_đôt_pha.json",
+    "chapter_name": "Chương 460: Song song đột phá",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-460/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_461_Tiêu_đao_thân_bi_1.json",
+    "chapter_name": "Chương 461: Tiểu đao thần bí (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-461/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_462_Tiêu_đao_thân_bi_2.json",
+    "chapter_name": "Chương 462: Tiểu đao thần bí (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-462/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_463_Yêu_vương_thân_bi.json",
+    "chapter_name": "Chương 463: Yêu vương thần bí",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-463/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_464_Cửu_vĩ_yêu_hồ_1.json",
+    "chapter_name": "Chương 464: Cửu vĩ yêu hồ (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-464/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_465_Cửu_vĩ_yêu_hồ_2.json",
+    "chapter_name": "Chương 465: Cửu vĩ yêu hồ (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-465/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_466_Hai_điều_kiện.json",
+    "chapter_name": "Chương 466: Hai điều kiện",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-466/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_467_Nàng_là_yêu_nghiệt.json",
+    "chapter_name": "Chương 467: Nàng là yêu nghiệt",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-467/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_468_Trong_thánh_trì_1.json",
+    "chapter_name": "Chương 468: Trong thánh trì (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-468/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_469_Trong_thánh_trì_2.json",
+    "chapter_name": "Chương 469: Trong thánh trì (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-469/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_470_Thôn_phệ_năng_lượng.json",
+    "chapter_name": "Chương 470: Thôn phệ năng lượng",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-470/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_471_Thúy_Ngọc_đột_phá.json",
+    "chapter_name": "Chương 471: Thúy Ngọc đột phá",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-471/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_472_Bắt_đầu_đột_phá.json",
+    "chapter_name": "Chương 472: Bắt đầu đột phá",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-472/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_473_Thánh_quả_chín_1.json",
+    "chapter_name": "Chương 473: Thánh quả chín (1)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-473/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_474_Thánh_quả_chín_2.json",
+    "chapter_name": "Chương 474: Thánh quả chín (2)",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-474/"
+  },
+  {
+    "path": "data/Linh_Vũ_Thiên_Hạ/Chương_475_Yêu_thú_ngũ_giai.json",
+    "chapter_name": "Chương 475: Yêu thú ngũ giai",
+    "url": "https://truyenfull.vn/linh-vu-thien-ha/chuong-475/"
   }
 ]
