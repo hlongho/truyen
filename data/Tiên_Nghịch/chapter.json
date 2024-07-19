@@ -1,0 +1,27 @@
+[
+  {
+    "path": "data/Tiên_Nghịch/Chương_1_Ly_hương.json",
+    "chapter_name": "Chương 1: Ly hương",
+    "url": "https://truyenfull.vn/tien-nghich/chuong-1/"
+  },
+  {
+    "path": "data/Tiên_Nghịch/Chương_2_Tiên_Nhân.json",
+    "chapter_name": "Chương 2: Tiên Nhân",
+    "url": "https://truyenfull.vn/tien-nghich/chuong-2/"
+  },
+  {
+    "path": "data/Tiên_Nghịch/Chương_3_Trắc_thí.json",
+    "chapter_name": "Chương 3: Trắc thí",
+    "url": "https://truyenfull.vn/tien-nghich/chuong-3/"
+  },
+  {
+    "path": "data/Tiên_Nghịch/Chương_4_Vô_tình.json",
+    "chapter_name": "Chương 4: Vô tình",
+    "url": "https://truyenfull.vn/tien-nghich/chuong-4/"
+  },
+  {
+    "path": "data/Tiên_Nghịch/Chương_5_Đường_về.json",
+    "chapter_name": "Chương 5: Đường về",
+    "url": "https://truyenfull.vn/tien-nghich/chuong-5/"
+  }
+]
