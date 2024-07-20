@@ -73,5 +73,1005 @@
     "path": "data/Đế_Bá/Chương_15_Kì_tích_trong_tay_ta_thượng.json",
     "chapter_name": "Chương 15: Kì tích trong tay ta (thượng)",
     "url": "https://truyenfull.vn/de-ba/chuong-15/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_16_Kỳ_tích_trong_tay_ta_hạ.json",
+    "chapter_name": "Chương 16: Kỳ tích trong tay ta (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-16/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_17_Luân_Nhật_Yêu_Hoàng_Thượng.json",
+    "chapter_name": "Chương 17: Luân Nhật Yêu Hoàng (Thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-17/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_18_Luân_Nhật_Yêu_Hoàng_Hạ.json",
+    "chapter_name": "Chương 18: Luân Nhật Yêu Hoàng (Hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-18/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_19_Ương_ngạnh_không_cần_nhìn_địa_phương_thượng.json",
+    "chapter_name": "Chương 19: Ương ngạnh không cần nhìn địa phương (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-19/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_20_Ngang_ngạnh_bất_cứ_đâu_Hạ.json",
+    "chapter_name": "Chương 20: Ngang ngạnh bất cứ đâu! (Hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-20/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_21_Thánh_Động_thượng.json",
+    "chapter_name": "Chương 21: Thánh Động (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-21/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_22_Thánh_động_hạ.json",
+    "chapter_name": "Chương 22: Thánh động (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-22/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_23_Cửu_Thánh_công_chúa_Thượng.json",
+    "chapter_name": "Chương 23: Cửu Thánh công chúa (Thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-23/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_24_Cửu_Thánh_công_chúa_hạ.json",
+    "chapter_name": "Chương 24: Cửu Thánh công chúa (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-24/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_25_Thần_Nha_Phong_Thượng.json",
+    "chapter_name": "Chương 25: Thần Nha Phong (Thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-25/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_26_Thần_Nha_Phong_hạ.json",
+    "chapter_name": "Chương 26: Thần Nha Phong (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-26/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_27_Nguyệt_Qua_Dương_Luân_Công_Thượng.json",
+    "chapter_name": "Chương 27: Nguyệt Qua Dương Luân Công (Thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-27/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_28_Nguyệt_Qua_Dương_Luân_Công_Hạ.json",
+    "chapter_name": "Chương 28: Nguyệt Qua Dương Luân Công (Hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-28/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_29_Mười_hai_Tiên_Thể_Thượng.json",
+    "chapter_name": "Chương 29: Mười hai Tiên Thể (Thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-29/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_30_Mười_hai_Tiên_Thể_Hạ.json",
+    "chapter_name": "Chương 30: Mười hai Tiên Thể (Hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-30/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_31_Côn_Bằng_Lục_Biến_thượng.json",
+    "chapter_name": "Chương 31: Côn Bằng Lục Biến (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-31/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_32_Côn_Bằng_Lục_Biến_hạ.json",
+    "chapter_name": "Chương 32: Côn Bằng Lục Biến (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-32/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_33_Kỳ_Môn_Đao_thượng.json",
+    "chapter_name": "Chương 33: Kỳ Môn Đao (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-33/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_34_Kỳ_Môn_Đao_hạ.json",
+    "chapter_name": "Chương 34: Kỳ Môn Đao (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-34/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_35_Trấn_Ngục_Thần_Thể_thượng.json",
+    "chapter_name": "Chương 35: Trấn Ngục Thần Thể (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-35/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_36_Trấn_Ngục_Thần_Thể_hạ.json",
+    "chapter_name": "Chương 36: Trấn Ngục Thần Thể (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-36/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_37_Đồ_Bất_Ngữ_thượng.json",
+    "chapter_name": "Chương 37: Đồ Bất Ngữ (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-37/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_38_Đồ_Bất_Ngữ_hạ.json",
+    "chapter_name": "Chương 38: Đồ Bất Ngữ (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-38/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_39_Công_chúa_giá_lâm_thượng.json",
+    "chapter_name": "Chương 39: Công chúa giá lâm (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-39/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_40_Công_chúa_giá_lâm_hạ.json",
+    "chapter_name": "Chương 40: Công chúa giá lâm (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-40/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_41_Công_chúa_cũng_chỉ_có_thể_làm_tỳ_nữ_thượng.json",
+    "chapter_name": "Chương 41: Công chúa cũng chỉ có thể làm tỳ nữ (thượng)",
+    "url": "https://truyenfull.vn/de-ba/chuong-41/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_42_Công_chúa_cũng_chỉ_có_thể_làm_tỳ_nữ_hạ.json",
+    "chapter_name": "Chương 42: Công chúa cũng chỉ có thể làm tỳ nữ (hạ)",
+    "url": "https://truyenfull.vn/de-ba/chuong-42/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_43_Mưu_lược_của_Đại_trưởng_lão_1.json",
+    "chapter_name": "Chương 43: Mưu lược của Đại trưởng lão (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-43/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_44_Đại_trưởng_lão_mưu_lược_2.json",
+    "chapter_name": "Chương 44: Đại trưởng lão mưu lược (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-44/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_45_Đại_trưởng_lão_mưu_lược_3.json",
+    "chapter_name": "Chương 45: Đại trưởng lão mưu lược (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-45/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_46_Không_phục_liền_đánh_đến_ngươi_chịu_phục_1.json",
+    "chapter_name": "Chương 46: Không phục liền đánh đến ngươi chịu phục (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-46/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_47_Không_phục_liền_đánh_đến_ngươi_chịu_phục_2.json",
+    "chapter_name": "Chương 47: Không phục liền đánh đến ngươi chịu phục (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-47/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_48_Không_phục_liền_đánh_đến_ngươi_chịu_phục_3.json",
+    "chapter_name": "Chương 48: Không phục liền đánh đến ngươi chịu phục (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-48/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_75_Truyền_Đạo_Thụ_Nghiệp_1.json",
+    "chapter_name": "Chương 75: Truyền Đạo Thụ Nghiệp (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-75/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_76_Truyền_Đạo_Thụ_Nghiệp_2.json",
+    "chapter_name": "Chương 76: Truyền Đạo Thụ Nghiệp (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-76/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_77_Truyền_Đạo_Thụ_Nghiệp_3.json",
+    "chapter_name": "Chương 77: Truyền Đạo Thụ Nghiệp (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-77/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_78_Thụ_Đạo_Hung_Tàn_Nhất_1.json",
+    "chapter_name": "Chương 78: Thụ Đạo Hung Tàn Nhất (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-78/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_79_Thụ_Đạo_Hung_Tàn_Nhất_2.json",
+    "chapter_name": "Chương 79: Thụ Đạo Hung Tàn Nhất (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-79/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_80_Thụ_Đạo_Hung_Tàn_Nhất_3.json",
+    "chapter_name": "Chương 80: Thụ Đạo Hung Tàn Nhất (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-80/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_81_Thụ_Đạo_Hung_Tàn_Nhất_4.json",
+    "chapter_name": "Chương 81: Thụ Đạo Hung Tàn Nhất (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-81/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_82_Tiên_Vương_Giảng_Kinh_Cùng_Lắm_Cũng_Chỉ_Như_Thế_Này_Thôi_1.json",
+    "chapter_name": "Chương 82: Tiên Vương Giảng Kinh Cùng Lắm Cũng Chỉ Như Thế Này Thôi (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-82/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_83_Tiên_Vương_Giảng_Kinh_Cùng_Lắm_Cũng_Chỉ_Như_Thế_Này_Thôi_2.json",
+    "chapter_name": "Chương 83: Tiên Vương Giảng Kinh Cùng Lắm Cũng Chỉ Như Thế Này Thôi (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-83/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_84_Tiên_Vương_Giảng_Kinh_Cùng_Lắm_Cũng_Chỉ_Như_Thế_Này_Thôi_3.json",
+    "chapter_name": "Chương 84: Tiên Vương Giảng Kinh Cùng Lắm Cũng Chỉ Như Thế Này Thôi (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-84/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_85_Âm_Dương_Huyết_Hải_1.json",
+    "chapter_name": "Chương 85: Âm Dương Huyết Hải (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-85/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_86_Âm_Dương_Huyết_Hải_2.json",
+    "chapter_name": "Chương 86: Âm Dương Huyết Hải (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-86/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_87_Âm_Dương_Huyết_Hải_3.json",
+    "chapter_name": "Chương 87: Âm Dương Huyết Hải (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-87/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_88_Lô_Thần_1.json",
+    "chapter_name": "Chương 88: Lô Thần (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-88/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_89_Lô_Thần_2.json",
+    "chapter_name": "Chương 89: Lô Thần (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-89/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_90_Lô_Thần_3.json",
+    "chapter_name": "Chương 90: Lô Thần (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-90/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_91_Lô_Thần_4.json",
+    "chapter_name": "Chương 91: Lô Thần (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-91/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_92_Dược_Sư_Đây_Chẳng_Qua_Là_Hứng_Thú_1.json",
+    "chapter_name": "Chương 92: Dược Sư, Đây Chẳng Qua Là Hứng Thú (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-92/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_93_Dược_Sư_Đây_Chẳng_Qua_Là_Hứng_Thú_2.json",
+    "chapter_name": "Chương 93: Dược Sư, Đây Chẳng Qua Là Hứng Thú (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-93/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_94_Dược_Sư_Đây_Chẳng_Qua_Là_Hứng_Thú_3.json",
+    "chapter_name": "Chương 94: Dược Sư, Đây Chẳng Qua Là Hứng Thú (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-94/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_95_Âm_Mưu_1.json",
+    "chapter_name": "Chương 95: Âm Mưu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-95/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_96_Âm_Mưu_2.json",
+    "chapter_name": "Chương 96: Âm Mưu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-96/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_97_Âm_Mưu_3.json",
+    "chapter_name": "Chương 97: Âm Mưu (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-97/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_98_Dương_Thần_Uy_1.json",
+    "chapter_name": "Chương 98: Dương Thần Uy (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-98/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_99_Dương_thần_uy_2.json",
+    "chapter_name": "Chương 99: Dương thần uy (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-99/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_100_Dương_thần_uy_3.json",
+    "chapter_name": "Chương 100: Dương thần uy (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-100/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_101_Chiến_Thần_Quyết_1.json",
+    "chapter_name": "Chương 101: Chiến Thần Quyết (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-101/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_102_Chiến_Thần_Quyết_2.json",
+    "chapter_name": "Chương 102: Chiến Thần Quyết (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-102/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_103_Chiến_Thần_Quyết_3.json",
+    "chapter_name": "Chương 103: Chiến Thần Quyết (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-103/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_104_Chiến_Thần_Quyết_4.json",
+    "chapter_name": "Chương 104: Chiến Thần Quyết (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-104/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_105_Lật_tay_thành_mây_trở_tay_thành_mưa_1.json",
+    "chapter_name": "Chương 105: Lật tay thành mây trở tay thành mưa (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-105/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_106_Lật_tay_thành_mây_trở_tay_thành_mưa_2.json",
+    "chapter_name": "Chương 106: Lật tay thành mây trở tay thành mưa (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-106/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_107_Lật_tay_thành_mây_trở_tay_thành_mưa_3.json",
+    "chapter_name": "Chương 107: Lật tay thành mây trở tay thành mưa (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-107/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_108_Tử_Dương_Thập_Nhật_Công_1.json",
+    "chapter_name": "Chương 108: Tử Dương Thập Nhật Công (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-108/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_109_Tử_Dương_Thập_Nhật_Công_2.json",
+    "chapter_name": "Chương 109: Tử Dương Thập Nhật Công (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-109/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_110_Tử_Dương_Thập_Nhật_Công_3.json",
+    "chapter_name": "Chương 110: Tử Dương Thập Nhật Công (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-110/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_111_Bày_mưu_nghĩ_kế_1.json",
+    "chapter_name": "Chương 111: Bày mưu nghĩ kế (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-111/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_112_Bày_mưu_nghĩ_kế_2.json",
+    "chapter_name": "Chương 112: Bày mưu nghĩ kế (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-112/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_113_Bày_mưu_nghĩ_kế_3.json",
+    "chapter_name": "Chương 113: Bày mưu nghĩ kế (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-113/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_114_Quỷ_lâu_1.json",
+    "chapter_name": "Chương 114: Quỷ lâu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-114/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_115_Quỷ_lâu_2.json",
+    "chapter_name": "Chương 115: Quỷ lâu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-115/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_116_Quỷ_lâu_3.json",
+    "chapter_name": "Chương 116: Quỷ lâu (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-116/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_117_Quỷ_lâu_4.json",
+    "chapter_name": "Chương 117: Quỷ lâu (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-117/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_118_Tô_Ngọc_Hà_1.json",
+    "chapter_name": "Chương 118: Tô Ngọc Hà (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-118/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_119_Tô_Ngọc_Hà_2.json",
+    "chapter_name": "Chương 119: Tô Ngọc Hà (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-119/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_120_Tô_Ngọc_Hà_3.json",
+    "chapter_name": "Chương 120: Tô Ngọc Hà (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-120/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_121_Binh_lâm_dưới_thành_1.json",
+    "chapter_name": "Chương 121: Binh lâm dưới thành (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-121/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_122_Binh_lâm_dưới_thành_2.json",
+    "chapter_name": "Chương 122: Binh lâm dưới thành (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-122/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_123_Binh_lâm_dưới_thành_3.json",
+    "chapter_name": "Chương 123: Binh lâm dưới thành (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-123/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_124_Phất_tay_giết_ngàn_địch_1.json",
+    "chapter_name": "Chương 124: Phất tay giết ngàn địch (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-124/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_125_Phất_tay_giết_ngàn_địch_2.json",
+    "chapter_name": "Chương 125: Phất tay giết ngàn địch (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-125/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_126_Phất_tay_giết_ngàn_địch_3.json",
+    "chapter_name": "Chương 126: Phất tay giết ngàn địch (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-126/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_127_Tử_Sơn_Hầu_1.json",
+    "chapter_name": "Chương 127: Tử Sơn Hầu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-127/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_128_Tử_Sơn_Hầu_2.json",
+    "chapter_name": "Chương 128: Tử Sơn Hầu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-128/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_129_Tử_Sơn_Hầu_3.json",
+    "chapter_name": "Chương 129: Tử Sơn Hầu (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-129/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_130_Tử_Sơn_Hầu_4.json",
+    "chapter_name": "Chương 130: Tử Sơn Hầu (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-130/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_131_Nhân_Hoàng_chi_uy_1.json",
+    "chapter_name": "Chương 131: Nhân Hoàng chi uy (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-131/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_132_Nhân_Hoàng_chi_uy_2.json",
+    "chapter_name": "Chương 132: Nhân Hoàng chi uy (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-132/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_133_Nhân_Hoàng_chi_uy_3.json",
+    "chapter_name": "Chương 133: Nhân Hoàng chi uy (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-133/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_134_Trú_Thiên_Tiên_Bí_1.json",
+    "chapter_name": "Chương 134: Trú Thiên Tiên Bí (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-134/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_135_Trú_Thiên_Tiên_Bí_2.json",
+    "chapter_name": "Chương 135: Trú Thiên Tiên Bí (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-135/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_136_Trú_Thiên_Tiên_Bí_3.json",
+    "chapter_name": "Chương 136: Trú Thiên Tiên Bí (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-136/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_137_Hoàng_thể_cao_1.json",
+    "chapter_name": "Chương 137: Hoàng thể cao (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-137/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_138_Hoàng_thể_cao_2.json",
+    "chapter_name": "Chương 138: Hoàng thể cao (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-138/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_139_Hoàng_Thể_Cao_3.json",
+    "chapter_name": "Chương 139: Hoàng Thể Cao (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-139/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_140_Hoàng_Thể_Cao_4.json",
+    "chapter_name": "Chương 140: Hoàng Thể Cao (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-140/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_141_Vô_Cấu_Tiên_thể_1.json",
+    "chapter_name": "Chương 141: Vô Cấu Tiên thể (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-141/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_142_Vô_Cấu_Tiên_thể_2.json",
+    "chapter_name": "Chương 142: Vô Cấu Tiên thể (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-142/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_143_Vô_Cấu_Tiên_thể_3.json",
+    "chapter_name": "Chương 143: Vô Cấu Tiên thể (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-143/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_144_Tẩy_Nhan_Cựu_Chỉ_1.json",
+    "chapter_name": "Chương 144: Tẩy Nhan Cựu Chỉ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-144/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_145_Tẩy_Nhan_Cựu_Chỉ_2.json",
+    "chapter_name": "Chương 145: Tẩy Nhan Cựu Chỉ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-145/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_146_Tẩy_Nhan_Cựu_Chỉ_3.json",
+    "chapter_name": "Chương 146: Tẩy Nhan Cựu Chỉ (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-146/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_147_Một_con_ốc_sên_1.json",
+    "chapter_name": "Chương 147: Một con ốc sên (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-147/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_148_Một_con_ốc_sên_2.json",
+    "chapter_name": "Chương 148: Một con ốc sên (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-148/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_149_Một_con_ốc_sên_3.json",
+    "chapter_name": "Chương 149: Một con ốc sên (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-149/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_150_Sư_phụ_là_mỹ_nữ_1.json",
+    "chapter_name": "Chương 150: Sư phụ là mỹ nữ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-150/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_151_Sư_phụ_là_mỹ_nữ_2.json",
+    "chapter_name": "Chương 151: Sư phụ là mỹ nữ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-151/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_152_Sư_phụ_là_mỹ_nữ_3.json",
+    "chapter_name": "Chương 152: Sư phụ là mỹ nữ (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-152/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_153_Chu_Hoàng_Thánh_thể_1.json",
+    "chapter_name": "Chương 153: Chu Hoàng Thánh thể (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-153/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_154_Chu_Hoàng_Thánh_thể_2.json",
+    "chapter_name": "Chương 154: Chu Hoàng Thánh thể (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-154/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_155_Chu_Hoàng_Thánh_thể_3.json",
+    "chapter_name": "Chương 155: Chu Hoàng Thánh thể (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-155/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_156_Chu_Hoàng_Thánh_thể_4.json",
+    "chapter_name": "Chương 156: Chu Hoàng Thánh thể (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-156/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_157_Nhận_tổ_quy_tông_1.json",
+    "chapter_name": "Chương 157: Nhận tổ quy tông (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-157/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_158_Nhận_tổ_quy_tông_2.json",
+    "chapter_name": "Chương 158: Nhận tổ quy tông (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-158/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_159_Nhận_tổ_quy_tông_3.json",
+    "chapter_name": "Chương 159: Nhận tổ quy tông (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-159/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_160_Ma_Bối_Lĩnh_1.json",
+    "chapter_name": "Chương 160: Ma Bối Lĩnh (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-160/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_161_Ma_Bối_Lĩnh_2.json",
+    "chapter_name": "Chương 161: Ma Bối Lĩnh (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-161/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_162_Ma_Bối_Lĩnh_3.json",
+    "chapter_name": "Chương 162: Ma Bối Lĩnh (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-162/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_163_Trấn_Uy_Hầu_1.json",
+    "chapter_name": "Chương 163: Trấn Uy Hầu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-163/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_164_Trấn_Uy_Hầu_2.json",
+    "chapter_name": "Chương 164: Trấn Uy Hầu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-164/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_165_Trấn_Uy_Hầu_3.json",
+    "chapter_name": "Chương 165: Trấn Uy Hầu (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-165/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_166_Nam_Thiên_thượng_quốc_1.json",
+    "chapter_name": "Chương 166: Nam Thiên thượng quốc (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-166/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_167_Nam_Thiên_thượng_quốc_2.json",
+    "chapter_name": "Chương 167: Nam Thiên thượng quốc (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-167/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_168_Nam_Thiên_thượng_quốc_3.json",
+    "chapter_name": "Chương 168: Nam Thiên thượng quốc (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-168/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_169_Nam_Thiên_thượng_quốc_4.json",
+    "chapter_name": "Chương 169: Nam Thiên thượng quốc (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-169/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_170_Thánh_Thiên_Đạo_1.json",
+    "chapter_name": "Chương 170: Thánh Thiên Đạo (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-170/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_171_Thánh_Thiên_Đạo_2.json",
+    "chapter_name": "Chương 171: Thánh Thiên Đạo (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-171/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_172_Thánh_Thiên_Đạo_3.json",
+    "chapter_name": "Chương 172: Thánh Thiên Đạo (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-172/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_173_Đế_vật_1.json",
+    "chapter_name": "Chương 173: Đế vật (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-173/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_174_Đế_vật_2.json",
+    "chapter_name": "Chương 174: Đế vật (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-174/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_175_Đế_vật_3.json",
+    "chapter_name": "Chương 175: Đế vật (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-175/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_176_Thần_thụ_che_trời_1.json",
+    "chapter_name": "Chương 176: Thần thụ che trời (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-176/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_177_Thần_thụ_che_trời_2.json",
+    "chapter_name": "Chương 177: Thần thụ che trời (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-177/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_178_Thần_thụ_che_trời_3.json",
+    "chapter_name": "Chương 178: Thần thụ che trời (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-178/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_179_Phụ_Thiên_Viên_1.json",
+    "chapter_name": "Chương 179: Phụ Thiên Viên (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-179/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_180_Phụ_Thiên_Viên_2.json",
+    "chapter_name": "Chương 180: Phụ Thiên Viên (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-180/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_181_Thanh_Thúy_Đồng_1.json",
+    "chapter_name": "Chương 181: Thanh Thúy Đồng (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-181/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_182_Thanh_Thúy_Đồng_2.json",
+    "chapter_name": "Chương 182: Thanh Thúy Đồng (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-182/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_183_Thanh_Thúy_Đồng_3.json",
+    "chapter_name": "Chương 183: Thanh Thúy Đồng (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-183/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_184_Tiểu_Hồ_Đồ_1.json",
+    "chapter_name": "Chương 184: Tiểu Hồ Đồ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-184/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_185_Tiểu_Hồ_Đồ_2.json",
+    "chapter_name": "Chương 185: Tiểu Hồ Đồ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-185/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_186_Tiểu_Hồ_Đồ_3.json",
+    "chapter_name": "Chương 186: Tiểu Hồ Đồ (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-186/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_187_Thần_linh_1.json",
+    "chapter_name": "Chương 187: Thần linh (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-187/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_188_Thần_linh_2.json",
+    "chapter_name": "Chương 188: Thần linh (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-188/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_189_Thần_Linh_3.json",
+    "chapter_name": "Chương 189: Thần Linh (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-189/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_190_Thanh_Huyền_Thiên_Tử_1.json",
+    "chapter_name": "Chương 190: Thanh Huyền Thiên Tử (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-190/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_191_Thanh_Huyền_thiên_tử_2.json",
+    "chapter_name": "Chương 191: Thanh Huyền thiên tử (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-191/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_192_Thanh_Huyền_thiên_tử_3.json",
+    "chapter_name": "Chương 192: Thanh Huyền thiên tử (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-192/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_193_Mục_tiêu_công_kích_1.json",
+    "chapter_name": "Chương 193: Mục tiêu công kích (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-193/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_194_Mục_tiêu_công_kích_2.json",
+    "chapter_name": "Chương 194: Mục tiêu công kích (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-194/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_195_Mục_tiêu_công_kích_3.json",
+    "chapter_name": "Chương 195: Mục tiêu công kích (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-195/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_196_Diệt_Thiên_Ma_Viên_1.json",
+    "chapter_name": "Chương 196: Diệt Thiên Ma Viên (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-196/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_197_Diệt_Thiên_Ma_Viên_2.json",
+    "chapter_name": "Chương 197: Diệt Thiên Ma Viên (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-197/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_198_Diệt_Thiên_Ma_Viên_2.json",
+    "chapter_name": "Chương 198: Diệt Thiên Ma Viên (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-198/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_199_Diệt_Thiên_Ma_Viên_3.json",
+    "chapter_name": "Chương 199: Diệt Thiên Ma Viên (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-199/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_200_Nhất_nộ_đồ_thiên_địch_1.json",
+    "chapter_name": "Chương 200: Nhất nộ đồ thiên địch (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-200/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_201_Nhất_nộ_đồ_thiên_địch_2.json",
+    "chapter_name": "Chương 201: Nhất nộ đồ thiên địch (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-201/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_202_Nhất_nộ_đồ_thiên_địch_3.json",
+    "chapter_name": "Chương 202: Nhất nộ đồ thiên địch (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-202/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_203_Lục_Đạo_Liên_Hoa_1.json",
+    "chapter_name": "Chương 203: Lục Đạo Liên Hoa (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-203/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_204_Lục_Đạo_Liên_Hoa_2.json",
+    "chapter_name": "Chương 204: Lục Đạo Liên Hoa (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-204/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_205_Lục_Đạo_Liên_Hoa_3.json",
+    "chapter_name": "Chương 205: Lục Đạo Liên Hoa (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-205/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_206_Đồ_Ma_chiến_trường_1.json",
+    "chapter_name": "Chương 206: Đồ Ma chiến trường (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-206/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_207_Đồ_Ma_chiến_trường_2.json",
+    "chapter_name": "Chương 207: Đồ Ma chiến trường (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-207/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_208_Đồ_Ma_chiến_trường_3.json",
+    "chapter_name": "Chương 208: Đồ Ma chiến trường (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-208/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_209_Bí_mật_của_Bảo_Trụ_Thánh_Tông_1.json",
+    "chapter_name": "Chương 209: Bí mật của Bảo Trụ Thánh Tông (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-209/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_210_Bí_mật_của_Bảo_Trụ_Thánh_Tông_2.json",
+    "chapter_name": "Chương 210: Bí mật của Bảo Trụ Thánh Tông (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-210/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_211_Bí_mật_của_Bảo_Trụ_Thánh_Tông_3.json",
+    "chapter_name": "Chương 211: Bí mật của Bảo Trụ Thánh Tông (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-211/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_212_Bí_mật_của_Bảo_Trụ_Thánh_Tông_4.json",
+    "chapter_name": "Chương 212: Bí mật của Bảo Trụ Thánh Tông (4)",
+    "url": "https://truyenfull.vn/de-ba/chuong-212/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_213_Ma_căn_dưới_mặt_đất_1.json",
+    "chapter_name": "Chương 213: Ma căn dưới mặt đất (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-213/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_214_Ma_căn_dưới_mặt_đất_2.json",
+    "chapter_name": "Chương 214: Ma căn dưới mặt đất (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-214/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_215_Ma_căn_dưới_mặt_đất_3.json",
+    "chapter_name": "Chương 215: Ma căn dưới mặt đất (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-215/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_216_Lục_Đạo_Liên_Bồ_Ma_Thụ_1.json",
+    "chapter_name": "Chương 216: Lục Đạo Liên, Bồ Ma Thụ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-216/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_217_Lục_Đạo_Liên_Bồ_Ma_Thụ_2.json",
+    "chapter_name": "Chương 217: Lục Đạo Liên, Bồ Ma Thụ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-217/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_218_Lục_Đạo_Liên_Bồ_Ma_Thụ_3.json",
+    "chapter_name": "Chương 218: Lục Đạo Liên, Bồ Ma Thụ (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-218/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_219_Chư_thần_bảo_tàng_1.json",
+    "chapter_name": "Chương 219: Chư thần bảo tàng (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-219/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_220_Chư_thần_bảo_tàng_2.json",
+    "chapter_name": "Chương 220: Chư thần bảo tàng (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-220/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_221_Chư_thần_bảo_tàng_3.json",
+    "chapter_name": "Chương 221: Chư thần bảo tàng (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-221/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_222_Bồ_Ma_uống_máu_1.json",
+    "chapter_name": "Chương 222: Bồ Ma uống máu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-222/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_223_Bồ_Ma_uống_máu_2.json",
+    "chapter_name": "Chương 223: Bồ Ma uống máu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-223/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_224_Bồ_Ma_uống_máu_3.json",
+    "chapter_name": "Chương 224: Bồ Ma uống máu (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-224/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_225_Trảm_Bồ_Ma_Thụ_1.json",
+    "chapter_name": "Chương 225: Trảm Bồ Ma Thụ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-225/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_226_Trảm_Bồ_Ma_Thụ_2.json",
+    "chapter_name": "Chương 226: Trảm Bồ Ma Thụ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-226/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_227_Trảm_Bồ_Ma_Thụ_3.json",
+    "chapter_name": "Chương 227: Trảm Bồ Ma Thụ (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-227/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_228_Dược_thần_đại_điển_1.json",
+    "chapter_name": "Chương 228: Dược thần đại điển (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-228/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_229_Dược_thần_đại_điển_2.json",
+    "chapter_name": "Chương 229: Dược thần đại điển (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-229/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_230_Dược_thần_đại_điển_3.json",
+    "chapter_name": "Chương 230: Dược thần đại điển (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-230/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_231_Tám_phương_yên_lặng_1.json",
+    "chapter_name": "Chương 231: Tám phương yên lặng (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-231/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_232_Tám_phương_yên_lặng_2.json",
+    "chapter_name": "Chương 232: Tám phương yên lặng (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-232/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_233_Tám_phương_yên_lặng_3.json",
+    "chapter_name": "Chương 233: Tám phương yên lặng (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-233/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_234_Lục_Đạo_Kiếm_1.json",
+    "chapter_name": "Chương 234: Lục Đạo Kiếm (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-234/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_235_Lục_Đạo_Kiếm_2.json",
+    "chapter_name": "Chương 235: Lục Đạo Kiếm (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-235/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_236_Phách_Tẫn_Tiên_Tuyền_Thể_1.json",
+    "chapter_name": "Chương 236: Phách Tẫn Tiên Tuyền Thể (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-236/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_237_Phách_Tẫn_Tiên_Tuyền_Thể_2.json",
+    "chapter_name": "Chương 237: Phách Tẫn Tiên Tuyền Thể (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-237/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_238_Phách_Tẫn_Tiên_Tuyền_Thể_3.json",
+    "chapter_name": "Chương 238: Phách Tẫn Tiên Tuyền Thể (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-238/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_239_U_Minh_Thuyền_xuất_thế_1.json",
+    "chapter_name": "Chương 239: U Minh Thuyền xuất thế (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-239/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_240_U_Minh_Thuyền_xuất_thế_2.json",
+    "chapter_name": "Chương 240: U Minh Thuyền xuất thế (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-240/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_241_U_Minh_Thuyền_xuất_thế_3.json",
+    "chapter_name": "Chương 241: U Minh Thuyền xuất thế (3)",
+    "url": "https://truyenfull.vn/de-ba/chuong-241/"
   }
 ]
