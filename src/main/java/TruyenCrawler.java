@@ -299,11 +299,11 @@ public class TruyenCrawler {
                     // Kiểm tra xem URL có hợp lệ không
                     if (!isValidUrl(nextPageUrl)) {
                         nextPageUrl = null; // Nếu không hợp lệ, ngừng quá trình crawl
+                        // Đã crawl đến chương cuối cùng
+                        storyData.put("success", "true");
                     }
                 } else {
                     nextPageUrl = null;
-                    // Đã crawl đến chương cuối cùng
-                    storyData.put("success", "true");
                 }
 
             } catch (IOException e) {
