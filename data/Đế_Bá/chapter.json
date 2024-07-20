@@ -3073,5 +3073,1005 @@
     "path": "data/Đế_Bá/Chương_641_Âm_Dương_đầm_1.json",
     "chapter_name": "Chương 641: Âm Dương đầm (1)",
     "url": "https://truyenfull.vn/de-ba/chuong-641/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_642_Âm_Dương_đầm_2.json",
+    "chapter_name": "Chương 642: Âm Dương đầm (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-642/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_643_Thần_điện_hoàng_kim.json",
+    "chapter_name": "Chương 643: Thần điện hoàng kim",
+    "url": "https://truyenfull.vn/de-ba/chuong-643/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_644_Thiên_Lý_tiên_đế.json",
+    "chapter_name": "Chương 644: Thiên Lý tiên đế",
+    "url": "https://truyenfull.vn/de-ba/chuong-644/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_645_Hoàng_kim_liễu_quan_1.json",
+    "chapter_name": "Chương 645: Hoàng kim liễu quan (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-645/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_646_Hoàng_kim_liễu_quan_2.json",
+    "chapter_name": "Chương 646: Hoàng kim liễu quan (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-646/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_647_Sóng_gió_nổi_lên.json",
+    "chapter_name": "Chương 647: Sóng gió nổi lên",
+    "url": "https://truyenfull.vn/de-ba/chuong-647/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_648_Đàm_phán.json",
+    "chapter_name": "Chương 648: Đàm phán",
+    "url": "https://truyenfull.vn/de-ba/chuong-648/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_649_Đại_chiến_sắp_đến_1.json",
+    "chapter_name": "Chương 649: Đại chiến sắp đến (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-649/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_650_Đại_chiến_sắp_đến_2.json",
+    "chapter_name": "Chương 650: Đại chiến sắp đến (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-650/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_651_Tuyên_chiến.json",
+    "chapter_name": "Chương 651: Tuyên chiến",
+    "url": "https://truyenfull.vn/de-ba/chuong-651/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_652_Tổ_sư_hiển_linh.json",
+    "chapter_name": "Chương 652: Tổ sư hiển linh",
+    "url": "https://truyenfull.vn/de-ba/chuong-652/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_653_Ban_ngày_biến_thành_ban_đêm.json",
+    "chapter_name": "Chương 653: Ban ngày biến thành ban đêm",
+    "url": "https://truyenfull.vn/de-ba/chuong-653/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_654_Lại_lên_đường_1.json",
+    "chapter_name": "Chương 654: Lại lên đường (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-654/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_655_Lại_lên_đường_2.json",
+    "chapter_name": "Chương 655: Lại lên đường (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-655/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_656_Quỷ_âm_ti.json",
+    "chapter_name": "Chương 656: Quỷ âm ti",
+    "url": "https://truyenfull.vn/de-ba/chuong-656/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_657_Tuyết_Ảnh_quỷ_tộc.json",
+    "chapter_name": "Chương 657: Tuyết Ảnh quỷ tộc",
+    "url": "https://truyenfull.vn/de-ba/chuong-657/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_658_Đi_chung.json",
+    "chapter_name": "Chương 658: Đi chung",
+    "url": "https://truyenfull.vn/de-ba/chuong-658/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_659_Phong_Đô_quỷ_thành_1.json",
+    "chapter_name": "Chương 659: Phong Đô quỷ thành (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-659/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_660_Phong_Đô_quỷ_thành_2.json",
+    "chapter_name": "Chương 660: Phong Đô quỷ thành (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-660/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_661_Thuyền_đưa_đò.json",
+    "chapter_name": "Chương 661: Thuyền đưa đò",
+    "url": "https://truyenfull.vn/de-ba/chuong-661/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_662_Dạ_hải.json",
+    "chapter_name": "Chương 662: Dạ hải",
+    "url": "https://truyenfull.vn/de-ba/chuong-662/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_663_Bắt_dương_ngư_trong_Dạ_Hải_1.json",
+    "chapter_name": "Chương 663: Bắt dương ngư trong Dạ Hải (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-663/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_664_Bắt_dương_ngư_trong_Dạ_Hải_2.json",
+    "chapter_name": "Chương 664: Bắt dương ngư trong Dạ Hải (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-664/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_665_Thu_hoạch_phong_phú.json",
+    "chapter_name": "Chương 665: Thu hoạch phong phú",
+    "url": "https://truyenfull.vn/de-ba/chuong-665/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_666_Giải_thích_nghi_hoặc.json",
+    "chapter_name": "Chương 666: Giải thích nghi hoặc",
+    "url": "https://truyenfull.vn/de-ba/chuong-666/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_667_Âm_mưu_tiểu_nhân.json",
+    "chapter_name": "Chương 667: Âm mưu tiểu nhân",
+    "url": "https://truyenfull.vn/de-ba/chuong-667/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_668_Muốn_đổ_tội_thì_lo_gì_không_có_cớ_1.json",
+    "chapter_name": "Chương 668: Muốn đổ tội thì lo gì không có cớ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-668/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_669_Muốn_đổ_tội_thì_lo_gì_không_có_cớ_2.json",
+    "chapter_name": "Chương 669: Muốn đổ tội thì lo gì không có cớ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-669/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_670_Huyết_đồ.json",
+    "chapter_name": "Chương 670: Huyết đồ",
+    "url": "https://truyenfull.vn/de-ba/chuong-670/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_671_Đi_theo_ta.json",
+    "chapter_name": "Chương 671: Đi theo ta",
+    "url": "https://truyenfull.vn/de-ba/chuong-671/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_672_Ngũ_giới_môn_1.json",
+    "chapter_name": "Chương 672: Ngũ giới môn (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-672/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_673_Ngũ_giới_môn_2.json",
+    "chapter_name": "Chương 673: Ngũ giới môn (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-673/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_674_Bàn_sơn.json",
+    "chapter_name": "Chương 674: Bàn sơn",
+    "url": "https://truyenfull.vn/de-ba/chuong-674/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_675_Quỷ_hà.json",
+    "chapter_name": "Chương 675: Quỷ hà",
+    "url": "https://truyenfull.vn/de-ba/chuong-675/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_676_Vớt_báu_vật_ở_Quỷ_Hà.json",
+    "chapter_name": "Chương 676: Vớt báu vật ở Quỷ Hà",
+    "url": "https://truyenfull.vn/de-ba/chuong-676/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_677_Tiên_nguyệt_mi_1.json",
+    "chapter_name": "Chương 677: Tiên nguyệt mi (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-677/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_678_Tiên_nguyệt_mi_2.json",
+    "chapter_name": "Chương 678: Tiên nguyệt mi (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-678/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_679_Đại_Trí_hòa_thượng_sợ_lão_bà.json",
+    "chapter_name": "Chương 679: Đại Trí hòa thượng sợ lão bà",
+    "url": "https://truyenfull.vn/de-ba/chuong-679/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_680_Thần_Nhiên_hoàng_tử.json",
+    "chapter_name": "Chương 680: Thần Nhiên hoàng tử",
+    "url": "https://truyenfull.vn/de-ba/chuong-680/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_681_Thanh_kim_tử_1.json",
+    "chapter_name": "Chương 681: Thanh kim tử (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-681/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_682_Thanh_kim_tử_2.json",
+    "chapter_name": "Chương 682: Thanh kim tử (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-682/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_683_Kể_một_câu_chuyện_cho_ngươi_nghe.json",
+    "chapter_name": "Chương 683: Kể một câu chuyện cho ngươi nghe",
+    "url": "https://truyenfull.vn/de-ba/chuong-683/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_684_Không_phải_ai_cũng_kể_chuyện_được.json",
+    "chapter_name": "Chương 684: Không phải ai cũng kể chuyện được",
+    "url": "https://truyenfull.vn/de-ba/chuong-684/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_685_Phong_thiên_ngũ_đạo_môn.json",
+    "chapter_name": "Chương 685: Phong thiên ngũ đạo môn",
+    "url": "https://truyenfull.vn/de-ba/chuong-685/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_686_Tiểu_quan_bí_ẩn.json",
+    "chapter_name": "Chương 686: Tiểu quan bí ẩn",
+    "url": "https://truyenfull.vn/de-ba/chuong-686/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_687_Truyền_thuyết_lâu_đời_1.json",
+    "chapter_name": "Chương 687: Truyền thuyết lâu đời (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-687/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_688_Truyền_thuyết_lâu_đời_2.json",
+    "chapter_name": "Chương 688: Truyền thuyết lâu đời (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-688/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_689_Dạ_tập.json",
+    "chapter_name": "Chương 689: Dạ tập",
+    "url": "https://truyenfull.vn/de-ba/chuong-689/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_690_Một_bàn_tay_đập_chết.json",
+    "chapter_name": "Chương 690: Một bàn tay đập chết",
+    "url": "https://truyenfull.vn/de-ba/chuong-690/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_691_Tỷ_phu_của_ngươi_là_thứ_gì_1.json",
+    "chapter_name": "Chương 691: Tỷ phu của ngươi là thứ gì? (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-691/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_692_Tỷ_phu_của_ngươi_là_thứ_gì_2.json",
+    "chapter_name": "Chương 692: Tỷ phu của ngươi là thứ gì? (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-692/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_693_Dạ_Hải_biến_trong.json",
+    "chapter_name": "Chương 693: Dạ Hải biến trong",
+    "url": "https://truyenfull.vn/de-ba/chuong-693/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_694_Tổ_lưu.json",
+    "chapter_name": "Chương 694: Tổ lưu",
+    "url": "https://truyenfull.vn/de-ba/chuong-694/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_695_Chủ_nhân_Tổ_Lưu.json",
+    "chapter_name": "Chương 695: Chủ nhân Tổ Lưu",
+    "url": "https://truyenfull.vn/de-ba/chuong-695/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_696_Chuyện_quá_khứ_như_làn_khói.json",
+    "chapter_name": "Chương 696: Chuyện quá khứ như làn khói",
+    "url": "https://truyenfull.vn/de-ba/chuong-696/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_697_Hoàng_kiệu_phu_1.json",
+    "chapter_name": "Chương 697: Hoàng kiệu phu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-697/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_698_Hoàng_kiệu_phu_2.json",
+    "chapter_name": "Chương 698: Hoàng kiệu phu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-698/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_699_Bí_mật_của_Dạ_Hải.json",
+    "chapter_name": "Chương 699: Bí mật của Dạ Hải",
+    "url": "https://truyenfull.vn/de-ba/chuong-699/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_700_Quần_hùng_đến_Dạ_Hải.json",
+    "chapter_name": "Chương 700: Quần hùng đến Dạ Hải",
+    "url": "https://truyenfull.vn/de-ba/chuong-700/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_701_Vào_dạ_hải.json",
+    "chapter_name": "Chương 701: Vào dạ hải",
+    "url": "https://truyenfull.vn/de-ba/chuong-701/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_702_Phong_vân_hội_tụ_1.json",
+    "chapter_name": "Chương 702: Phong vân hội tụ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-702/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_703_Phong_vân_hội_tụ_2.json",
+    "chapter_name": "Chương 703: Phong vân hội tụ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-703/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_704_Chuyện_khó_tin.json",
+    "chapter_name": "Chương 704: Chuyện khó tin",
+    "url": "https://truyenfull.vn/de-ba/chuong-704/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_705_Giằng_co.json",
+    "chapter_name": "Chương 705: Giằng co",
+    "url": "https://truyenfull.vn/de-ba/chuong-705/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_706_Quỷ_trùng_ma_tử.json",
+    "chapter_name": "Chương 706: Quỷ trùng ma tử",
+    "url": "https://truyenfull.vn/de-ba/chuong-706/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_707_Cự_Khuyết_thánh_tử_1.json",
+    "chapter_name": "Chương 707: Cự Khuyết thánh tử (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-707/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_708_Cự_Khuyết_thánh_tử_2.json",
+    "chapter_name": "Chương 708: Cự Khuyết thánh tử (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-708/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_709_Một_vài_bí_mật_của_Minh_Độ_Trạch.json",
+    "chapter_name": "Chương 709: Một vài bí mật của Minh Độ Trạch",
+    "url": "https://truyenfull.vn/de-ba/chuong-709/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_710_Vượt_biển.json",
+    "chapter_name": "Chương 710: Vượt biển",
+    "url": "https://truyenfull.vn/de-ba/chuong-710/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_711_Bờ_bên_kia.json",
+    "chapter_name": "Chương 711: Bờ bên kia",
+    "url": "https://truyenfull.vn/de-ba/chuong-711/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_712_Bí_mật_của_bờ_bên_kia_1.json",
+    "chapter_name": "Chương 712: Bí mật của bờ bên kia (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-712/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_713_Bí_mật_của_bờ_bên_kia_2.json",
+    "chapter_name": "Chương 713: Bí mật của bờ bên kia (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-713/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_714_Tham_ngộ.json",
+    "chapter_name": "Chương 714: Tham ngộ",
+    "url": "https://truyenfull.vn/de-ba/chuong-714/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_715_Thiên_luân_hồi.json",
+    "chapter_name": "Chương 715: Thiên luân hồi",
+    "url": "https://truyenfull.vn/de-ba/chuong-715/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_716_Biển_đen_biến_mất_1.json",
+    "chapter_name": "Chương 716: Biển đen biến mất (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-716/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_717_Biển_đen_biến_mất_2.json",
+    "chapter_name": "Chương 717: Biển đen biến mất (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-717/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_718_Ngộ_đạo_bờ_bên_kia.json",
+    "chapter_name": "Chương 718: Ngộ đạo bờ bên kia",
+    "url": "https://truyenfull.vn/de-ba/chuong-718/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_719_Kho_báu_trên_ốc_đảo.json",
+    "chapter_name": "Chương 719: Kho báu trên ốc đảo",
+    "url": "https://truyenfull.vn/de-ba/chuong-719/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_720_Khúc_nhạc_dạo_huyết_đồ_1.json",
+    "chapter_name": "Chương 720: Khúc nhạc dạo huyết đồ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-720/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_721_Khúc_nhạc_dạo_huyết_đồ_2.json",
+    "chapter_name": "Chương 721: Khúc nhạc dạo huyết đồ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-721/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_722_Tùy_tay_đồ_vạn_địch.json",
+    "chapter_name": "Chương 722: Tùy tay đồ vạn địch",
+    "url": "https://truyenfull.vn/de-ba/chuong-722/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_723_Đồ_diệt.json",
+    "chapter_name": "Chương 723: Đồ diệt",
+    "url": "https://truyenfull.vn/de-ba/chuong-723/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_724_Quốc_gia_trên_trời_1.json",
+    "chapter_name": "Chương 724: Quốc gia trên trời (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-724/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_725_Quốc_gia_trên_trời_2.json",
+    "chapter_name": "Chương 725: Quốc gia trên trời (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-725/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_726_Tiểu_quỷ_Tần_Quảng_Vương.json",
+    "chapter_name": "Chương 726: Tiểu quỷ Tần Quảng Vương",
+    "url": "https://truyenfull.vn/de-ba/chuong-726/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_727_Từ_biệt_khác.json",
+    "chapter_name": "Chương 727: Từ biệt khác",
+    "url": "https://truyenfull.vn/de-ba/chuong-727/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_728_Biệt_ly.json",
+    "chapter_name": "Chương 728: Biệt ly",
+    "url": "https://truyenfull.vn/de-ba/chuong-728/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_729_Tai_vạ_đến_nơi_1.json",
+    "chapter_name": "Chương 729: Tai vạ đến nơi (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-729/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_730_Tai_vạ_đến_nơi_2.json",
+    "chapter_name": "Chương 730: Tai vạ đến nơi (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-730/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_731_Treo_giải_thưởng_giá_cao.json",
+    "chapter_name": "Chương 731: Treo giải thưởng giá cao",
+    "url": "https://truyenfull.vn/de-ba/chuong-731/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_732_Thần_nhiên_phượng_nữ.json",
+    "chapter_name": "Chương 732: Thần nhiên phượng nữ",
+    "url": "https://truyenfull.vn/de-ba/chuong-732/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_733_Đi_thông_đường_máu_1.json",
+    "chapter_name": "Chương 733: Đi thông đường máu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-733/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_734_Đi_thông_đường_máu_2.json",
+    "chapter_name": "Chương 734: Đi thông đường máu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-734/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_735_Bão_tố_sắp_đến.json",
+    "chapter_name": "Chương 735: Bão tố sắp đến",
+    "url": "https://truyenfull.vn/de-ba/chuong-735/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_736_Độc_chiến_bát_phương.json",
+    "chapter_name": "Chương 736: Độc chiến bát phương",
+    "url": "https://truyenfull.vn/de-ba/chuong-736/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_737_Khởi_đầu_huyết_chiến.json",
+    "chapter_name": "Chương 737: Khởi đầu huyết chiến",
+    "url": "https://truyenfull.vn/de-ba/chuong-737/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_738_Vật_lộn_1.json",
+    "chapter_name": "Chương 738: Vật lộn (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-738/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_739_Vật_lộn_2.json",
+    "chapter_name": "Chương 739: Vật lộn (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-739/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_740_Dạ_hành_thiên_hoàng.json",
+    "chapter_name": "Chương 740: Dạ hành thiên hoàng",
+    "url": "https://truyenfull.vn/de-ba/chuong-740/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_741_Rèn_luyện_đẫm_máu.json",
+    "chapter_name": "Chương 741: Rèn luyện đẫm máu",
+    "url": "https://truyenfull.vn/de-ba/chuong-741/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_742_Đồ_diệt_vạn_địch_1.json",
+    "chapter_name": "Chương 742: Đồ diệt vạn địch (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-742/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_743_Đồ_diệt_vạn_địch_2.json",
+    "chapter_name": "Chương 743: Đồ diệt vạn địch (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-743/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_744_Thần_nhiên_huyết_phần.json",
+    "chapter_name": "Chương 744: Thần nhiên huyết phần",
+    "url": "https://truyenfull.vn/de-ba/chuong-744/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_745_Thập_bát_thú.json",
+    "chapter_name": "Chương 745: Thập bát thú",
+    "url": "https://truyenfull.vn/de-ba/chuong-745/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_746_Một_kích_rực_rỡ_1.json",
+    "chapter_name": "Chương 746: Một kích rực rỡ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-746/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_747_Một_kích_rực_rỡ_2.json",
+    "chapter_name": "Chương 747: Một kích rực rỡ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-747/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_748_Phượng_Nữ_xuất_chiến.json",
+    "chapter_name": "Chương 748: Phượng Nữ xuất chiến",
+    "url": "https://truyenfull.vn/de-ba/chuong-748/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_749_Cổ_phượng_lai_nghi.json",
+    "chapter_name": "Chương 749: Cổ phượng lai nghi",
+    "url": "https://truyenfull.vn/de-ba/chuong-749/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_750_Côn_Bằng_chiến_phượng_hoàng.json",
+    "chapter_name": "Chương 750: Côn Bằng chiến phượng hoàng",
+    "url": "https://truyenfull.vn/de-ba/chuong-750/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_751_Danh_chấn_thiên_hạ_1.json",
+    "chapter_name": "Chương 751: Danh chấn thiên hạ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-751/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_752_Danh_chấn_thiên_hạ_2.json",
+    "chapter_name": "Chương 752: Danh chấn thiên hạ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-752/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_753_Thanh_Đồng_Giáp_Trùng_tộc.json",
+    "chapter_name": "Chương 753: Thanh Đồng Giáp Trùng tộc",
+    "url": "https://truyenfull.vn/de-ba/chuong-753/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_754_Âm_dương_tiên_sư.json",
+    "chapter_name": "Chương 754: Âm dương tiên sư",
+    "url": "https://truyenfull.vn/de-ba/chuong-754/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_755_Địa_Ngu_bảo_thụ_1.json",
+    "chapter_name": "Chương 755: Địa Ngu bảo thụ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-755/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_756_Địa_Ngu_bảo_thụ_2.json",
+    "chapter_name": "Chương 756: Địa Ngu bảo thụ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-756/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_757_Đế_Tọa_giá_lâm.json",
+    "chapter_name": "Chương 757: Đế Tọa giá lâm",
+    "url": "https://truyenfull.vn/de-ba/chuong-757/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_758_Tiên_phàm.json",
+    "chapter_name": "Chương 758: Tiên phàm",
+    "url": "https://truyenfull.vn/de-ba/chuong-758/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_759_Ngũ_hành_tiên_giáp_1.json",
+    "chapter_name": "Chương 759: Ngũ hành tiên giáp (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-759/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_760_Ngũ_hành_tiên_giáp_2.json",
+    "chapter_name": "Chương 760: Ngũ hành tiên giáp (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-760/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_761_Mở_ra_đệ_nhất_hung_mộ.json",
+    "chapter_name": "Chương 761: Mở ra đệ nhất hung mộ",
+    "url": "https://truyenfull.vn/de-ba/chuong-761/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_762_Thi_huyết_vân.json",
+    "chapter_name": "Chương 762: Thi huyết vân",
+    "url": "https://truyenfull.vn/de-ba/chuong-762/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_763_Hung_mộ_bí_cảnh.json",
+    "chapter_name": "Chương 763: Hung mộ bí cảnh",
+    "url": "https://truyenfull.vn/de-ba/chuong-763/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_764_Bí_cảnh_tinh_linh_1.json",
+    "chapter_name": "Chương 764: Bí cảnh tinh linh (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-764/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_765_Bí_cảnh_tinh_linh_2.json",
+    "chapter_name": "Chương 765: Bí cảnh tinh linh (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-765/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_766_Tạo_hóa_lớn_trong_truyền_thuyết.json",
+    "chapter_name": "Chương 766: Tạo hóa lớn trong truyền thuyết",
+    "url": "https://truyenfull.vn/de-ba/chuong-766/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_767_Giao_dịch.json",
+    "chapter_name": "Chương 767: Giao dịch",
+    "url": "https://truyenfull.vn/de-ba/chuong-767/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_768_Lấy_báu_vật_1.json",
+    "chapter_name": "Chương 768: Lấy báu vật (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-768/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_769_Lấy_báu_vật_2.json",
+    "chapter_name": "Chương 769: Lấy báu vật (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-769/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_770_Báu_vật_trấn_cảnh.json",
+    "chapter_name": "Chương 770: Báu vật trấn cảnh",
+    "url": "https://truyenfull.vn/de-ba/chuong-770/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_771_Thiên_mệnh_chân_thạch_huyền_diệu.json",
+    "chapter_name": "Chương 771: Thiên mệnh chân thạch huyền diệu",
+    "url": "https://truyenfull.vn/de-ba/chuong-771/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_772_Thám_hiểm_kim_vực_1.json",
+    "chapter_name": "Chương 772: Thám hiểm kim vực (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-772/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_773_Thám_hiểm_kim_vực_2.json",
+    "chapter_name": "Chương 773: Thám hiểm kim vực (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-773/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_774_Quỷ_tộc.json",
+    "chapter_name": "Chương 774: Quỷ tộc",
+    "url": "https://truyenfull.vn/de-ba/chuong-774/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_775_Thiên_mệnh_chân_thạch_Thần_Long_sơn.json",
+    "chapter_name": "Chương 775: Thiên mệnh chân thạch Thần Long sơn",
+    "url": "https://truyenfull.vn/de-ba/chuong-775/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_776_Tìm_thiên_mệnh_chân_thạch_1.json",
+    "chapter_name": "Chương 776: Tìm thiên mệnh chân thạch (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-776/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_777_Tìm_thiên_mệnh_chân_thạch_2.json",
+    "chapter_name": "Chương 777: Tìm thiên mệnh chân thạch (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-777/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_778_Tảng_đá_trên_đỉnh_núi_kia.json",
+    "chapter_name": "Chương 778: Tảng đá trên đỉnh núi kia",
+    "url": "https://truyenfull.vn/de-ba/chuong-778/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_779_Tảng_đá_kiêu_ngạo.json",
+    "chapter_name": "Chương 779: Tảng đá kiêu ngạo",
+    "url": "https://truyenfull.vn/de-ba/chuong-779/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_780_Tất_cả_thiên_mệnh_chân_thạch_giành_nhận_chủ.json",
+    "chapter_name": "Chương 780: Tất cả thiên mệnh chân thạch giành nhận chủ",
+    "url": "https://truyenfull.vn/de-ba/chuong-780/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_781_Tảng_đá_kiêu_ngạo_nhất_nhận_chủ.json",
+    "chapter_name": "Chương 781: Tảng đá kiêu ngạo nhất nhận chủ",
+    "url": "https://truyenfull.vn/de-ba/chuong-781/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_782_Đánh_tình_mắng_yêu_1.json",
+    "chapter_name": "Chương 782: Đánh tình mắng yêu (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-782/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_783_Đánh_tình_mắng_yêu_2.json",
+    "chapter_name": "Chương 783: Đánh tình mắng yêu (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-783/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_784_Kim_cương_lý.json",
+    "chapter_name": "Chương 784: Kim cương lý",
+    "url": "https://truyenfull.vn/de-ba/chuong-784/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_785_Mộc_vực.json",
+    "chapter_name": "Chương 785: Mộc vực",
+    "url": "https://truyenfull.vn/de-ba/chuong-785/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_786_Mộc_vực_nguy_hiểm_1.json",
+    "chapter_name": "Chương 786: Mộc vực nguy hiểm (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-786/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_787_Mộc_vực_nguy_hiểm_2.json",
+    "chapter_name": "Chương 787: Mộc vực nguy hiểm (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-787/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_788_Dược_viên_chúng_tiên_lạc_mất.json",
+    "chapter_name": "Chương 788: Dược viên chúng tiên lạc mất",
+    "url": "https://truyenfull.vn/de-ba/chuong-788/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_789_Cực_dược_chi_địa.json",
+    "chapter_name": "Chương 789: Cực dược chi địa",
+    "url": "https://truyenfull.vn/de-ba/chuong-789/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_790_Dược_điền_tu_luyện.json",
+    "chapter_name": "Chương 790: Dược điền tu luyện",
+    "url": "https://truyenfull.vn/de-ba/chuong-790/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_791_Tu_luyện_1.json",
+    "chapter_name": "Chương 791: Tu luyện (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-791/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_792_Tu_luyện_2.json",
+    "chapter_name": "Chương 792: Tu luyện (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-792/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_793_Mười_hai_mệnh_cung.json",
+    "chapter_name": "Chương 793: Mười hai mệnh cung",
+    "url": "https://truyenfull.vn/de-ba/chuong-793/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_794_Phần_mộ_bí_chi_bí.json",
+    "chapter_name": "Chương 794: Phần mộ bí chi bí",
+    "url": "https://truyenfull.vn/de-ba/chuong-794/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_795_Ngũ_tiên_hoàng_tham_1.json",
+    "chapter_name": "Chương 795: Ngũ tiên hoàng tham (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-795/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_796_Ngũ_tiên_hoàng_tham_2.json",
+    "chapter_name": "Chương 796: Ngũ tiên hoàng tham (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-796/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_797_Uy_hiếp.json",
+    "chapter_name": "Chương 797: Uy hiếp",
+    "url": "https://truyenfull.vn/de-ba/chuong-797/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_798_Mở_quan_tài.json",
+    "chapter_name": "Chương 798: Mở quan tài",
+    "url": "https://truyenfull.vn/de-ba/chuong-798/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_799_Thanh_đăng_bí_ẩn.json",
+    "chapter_name": "Chương 799: Thanh đăng bí ẩn",
+    "url": "https://truyenfull.vn/de-ba/chuong-799/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_800_Tiên_dược_cầu_được_mang_đi_1.json",
+    "chapter_name": "Chương 800: Tiên dược cầu được mang đi (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-800/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_801_Tiên_dược_cầu_được_mang_đi_2.json",
+    "chapter_name": "Chương 801: Tiên dược cầu được mang đi (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-801/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_802_Ngu_Sơn_lão_tiên_quốc_tìm_báu_vật.json",
+    "chapter_name": "Chương 802: Ngu Sơn lão tiên quốc tìm báu vật",
+    "url": "https://truyenfull.vn/de-ba/chuong-802/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_803_Bích_Thủy_nữ_hoàng.json",
+    "chapter_name": "Chương 803: Bích Thủy nữ hoàng",
+    "url": "https://truyenfull.vn/de-ba/chuong-803/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_804_Ao_cổ_bí_ẩn_1.json",
+    "chapter_name": "Chương 804: Ao cổ bí ẩn (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-804/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_805_Ao_cổ_bí_ẩn_2.json",
+    "chapter_name": "Chương 805: Ao cổ bí ẩn (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-805/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_806_Long_tôn_thiên.json",
+    "chapter_name": "Chương 806: Long tôn thiên",
+    "url": "https://truyenfull.vn/de-ba/chuong-806/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_807_Mưu_kế_của_Thần_Nhiên_Phượng_Nữ.json",
+    "chapter_name": "Chương 807: Mưu kế của Thần Nhiên Phượng Nữ",
+    "url": "https://truyenfull.vn/de-ba/chuong-807/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_808_So_tài_1.json",
+    "chapter_name": "Chương 808: So tài (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-808/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_809_So_tài_2.json",
+    "chapter_name": "Chương 809: So tài (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-809/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_810_Ung_dung_đi_dạo.json",
+    "chapter_name": "Chương 810: Ung dung đi dạo",
+    "url": "https://truyenfull.vn/de-ba/chuong-810/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_811_Thiên_luân_hồi.json",
+    "chapter_name": "Chương 811: Thiên luân hồi",
+    "url": "https://truyenfull.vn/de-ba/chuong-811/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_812_Thực_lực_của_Thiên_Luân_Hồi_1.json",
+    "chapter_name": "Chương 812: Thực lực của Thiên Luân Hồi (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-812/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_813_Thực_lực_của_Thiên_Luân_Hồi_2.json",
+    "chapter_name": "Chương 813: Thực lực của Thiên Luân Hồi (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-813/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_814_Biến_mất.json",
+    "chapter_name": "Chương 814: Biến mất",
+    "url": "https://truyenfull.vn/de-ba/chuong-814/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_815_Báu_vật_trong_ao.json",
+    "chapter_name": "Chương 815: Báu vật trong ao",
+    "url": "https://truyenfull.vn/de-ba/chuong-815/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_816_Thanh_đồng_hoàng_1.json",
+    "chapter_name": "Chương 816: Thanh đồng hoàng (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-816/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_817_Thanh_đồng_hoàng_2.json",
+    "chapter_name": "Chương 817: Thanh đồng hoàng (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-817/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_818_Tình_cảm_quần_chúng_phấn_khởi.json",
+    "chapter_name": "Chương 818: Tình cảm quần chúng phấn khởi",
+    "url": "https://truyenfull.vn/de-ba/chuong-818/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_819_Kim_cương_thánh_thể.json",
+    "chapter_name": "Chương 819: Kim cương thánh thể",
+    "url": "https://truyenfull.vn/de-ba/chuong-819/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_820_Đổi_ý.json",
+    "chapter_name": "Chương 820: Đổi ý",
+    "url": "https://truyenfull.vn/de-ba/chuong-820/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_821_Chiến_thiên_hạ_1.json",
+    "chapter_name": "Chương 821: Chiến thiên hạ (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-821/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_822_Chiến_thiên_hạ_2.json",
+    "chapter_name": "Chương 822: Chiến thiên hạ (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-822/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_823_Đà_sơn_chung.json",
+    "chapter_name": "Chương 823: Đà sơn chung",
+    "url": "https://truyenfull.vn/de-ba/chuong-823/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_824_Tay_không_nghênh_đế_binh.json",
+    "chapter_name": "Chương 824: Tay không nghênh đế binh",
+    "url": "https://truyenfull.vn/de-ba/chuong-824/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_825_Giơ_tay_lên_vạn_địch_đều_diệt_1.json",
+    "chapter_name": "Chương 825: Giơ tay lên vạn địch đều diệt (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-825/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_826_Giơ_tay_lên_vạn_địch_đều_diệt_2.json",
+    "chapter_name": "Chương 826: Giơ tay lên vạn địch đều diệt (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-826/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_827_Thần_Nhiên_Phượng_Nữ_chết.json",
+    "chapter_name": "Chương 827: Thần Nhiên Phượng Nữ chết",
+    "url": "https://truyenfull.vn/de-ba/chuong-827/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_828_Dạ_Thế_hoa.json",
+    "chapter_name": "Chương 828: Dạ Thế hoa",
+    "url": "https://truyenfull.vn/de-ba/chuong-828/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_829_Gặp_lại_kim_cương_lý.json",
+    "chapter_name": "Chương 829: Gặp lại kim cương lý",
+    "url": "https://truyenfull.vn/de-ba/chuong-829/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_830_Bách_thánh_đế_trận_1.json",
+    "chapter_name": "Chương 830: Bách thánh đế trận (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-830/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_831_Bách_thánh_đế_trận_2.json",
+    "chapter_name": "Chương 831: Bách thánh đế trận (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-831/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_832_Ngôi_sao_hắc_ám.json",
+    "chapter_name": "Chương 832: Ngôi sao hắc ám",
+    "url": "https://truyenfull.vn/de-ba/chuong-832/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_833_Vật_sống_bí_ẩn.json",
+    "chapter_name": "Chương 833: Vật sống bí ẩn",
+    "url": "https://truyenfull.vn/de-ba/chuong-833/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_834_Đế_Tọa_chờ_chiến.json",
+    "chapter_name": "Chương 834: Đế Tọa chờ chiến",
+    "url": "https://truyenfull.vn/de-ba/chuong-834/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_835_Bão_tố_sắp_đến_1.json",
+    "chapter_name": "Chương 835: Bão tố sắp đến (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-835/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_836_Bão_tố_sắp_đến_2.json",
+    "chapter_name": "Chương 836: Bão tố sắp đến (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-836/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_837_Lam_thần_vương.json",
+    "chapter_name": "Chương 837: Lam thần vương",
+    "url": "https://truyenfull.vn/de-ba/chuong-837/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_838_Vạn_tướng_trảm.json",
+    "chapter_name": "Chương 838: Vạn tướng trảm",
+    "url": "https://truyenfull.vn/de-ba/chuong-838/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_839_Côn_Bằng_chiến_kim_long_1.json",
+    "chapter_name": "Chương 839: Côn Bằng chiến kim long (1)",
+    "url": "https://truyenfull.vn/de-ba/chuong-839/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_840_Côn_Bằng_chiến_kim_long_2.json",
+    "chapter_name": "Chương 840: Côn Bằng chiến kim long (2)",
+    "url": "https://truyenfull.vn/de-ba/chuong-840/"
+  },
+  {
+    "path": "data/Đế_Bá/Chương_841_Đế_thương.json",
+    "chapter_name": "Chương 841: Đế thương",
+    "url": "https://truyenfull.vn/de-ba/chuong-841/"
   }
 ]
