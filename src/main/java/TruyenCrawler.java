@@ -177,7 +177,7 @@ public class TruyenCrawler {
             }
 
             if (!skipCrawl) {
-                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle, lastChapterUrl);
+                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle, lastChapterUrl, storyData);
 
                 // Kiểm tra số chương mới được lưu
                 int newChapterCount = chapterContents.size();
@@ -222,7 +222,7 @@ public class TruyenCrawler {
         return storyData;
     }
 
-    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName, String lastChapterUrl) {
+    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName, String lastChapterUrl, Map<String, String> storyData) {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
@@ -302,6 +302,8 @@ public class TruyenCrawler {
                     }
                 } else {
                     nextPageUrl = null;
+                    // Đã crawl đến chương cuối cùng
+                    storyData.put("success", "true");
                 }
 
             } catch (IOException e) {
