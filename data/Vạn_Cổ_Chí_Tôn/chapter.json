@@ -14073,5 +14073,1005 @@
     "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2824_Không_gian_trữ_vật.json",
     "chapter_name": "Chương 2824: Không gian trữ vật",
     "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2824/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2825_Bí_tàng_khuyết_thất.json",
+    "chapter_name": "Chương 2825: Bí tàng khuyết thất",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2825/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2826_Tâm_tính_biến_đổi_1.json",
+    "chapter_name": "Chương 2826: Tâm tính biến đổi (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2826/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2827_Tâm_tính_biến_đổi_2.json",
+    "chapter_name": "Chương 2827: Tâm tính biến đổi (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2827/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2828_Cửu_thiên_thập_địa.json",
+    "chapter_name": "Chương 2828: Cửu thiên thập địa",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2828/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2829_Hỗn_ám_kim_kỳ_1.json",
+    "chapter_name": "Chương 2829: Hỗn ám kim kỳ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2829/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2830_Hỗn_ám_kim_kỳ_2.json",
+    "chapter_name": "Chương 2830: Hỗn ám kim kỳ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2830/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2831_Cách_phá_trận.json",
+    "chapter_name": "Chương 2831: Cách phá trận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2831/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2832_Ma_Giới_bí_tân_1.json",
+    "chapter_name": "Chương 2832: Ma Giới bí tân (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2832/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2833_Ma_Giới_bí_tân_2.json",
+    "chapter_name": "Chương 2833: Ma Giới bí tân (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2833/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2834_Luyện_kiếm.json",
+    "chapter_name": "Chương 2834: Luyện kiếm",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2834/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2835_Thiên_Minh_chi_chiến_1.json",
+    "chapter_name": "Chương 2835: Thiên Minh chi chiến (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2835/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2836_Thiên_Minh_chi_chiến_2.json",
+    "chapter_name": "Chương 2836: Thiên Minh chi chiến (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2836/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2837_Thiên_Minh_chi_chiến_3.json",
+    "chapter_name": "Chương 2837: Thiên Minh chi chiến (3)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2837/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2838_Thiên_Minh_chi_chiến_4.json",
+    "chapter_name": "Chương 2838: Thiên Minh chi chiến (4)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2838/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2839_Thiên_Minh_chi_chiến_5.json",
+    "chapter_name": "Chương 2839: Thiên Minh chi chiến (5)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2839/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2840_Thiên_Minh_chi_chiến_6.json",
+    "chapter_name": "Chương 2840: Thiên Minh chi chiến (6)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2840/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2841_Thiên_Minh_chi_chiến_7.json",
+    "chapter_name": "Chương 2841: Thiên Minh chi chiến (7)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2841/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2842_Thiên_Minh_chi_chiến_8.json",
+    "chapter_name": "Chương 2842: Thiên Minh chi chiến (8)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2842/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2843_Thiên_Minh_chi_chiến_9.json",
+    "chapter_name": "Chương 2843: Thiên Minh chi chiến (9)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2843/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2844_Thiên_Minh_chi_chiến_10.json",
+    "chapter_name": "Chương 2844: Thiên Minh chi chiến (10)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2844/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2845_Thiên_Minh_chi_chiến_11.json",
+    "chapter_name": "Chương 2845: Thiên Minh chi chiến (11)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2845/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2846_Thiên_Minh_chi_chiến_12.json",
+    "chapter_name": "Chương 2846: Thiên Minh chi chiến (12)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2846/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2847_Thiên_Minh_chi_chiến_13.json",
+    "chapter_name": "Chương 2847: Thiên Minh chi chiến (13)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2847/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2848_Thiên_Minh_chi_chiến_14.json",
+    "chapter_name": "Chương 2848: Thiên Minh chi chiến (14)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2848/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2849_Thiên_Minh_chi_chiến_15.json",
+    "chapter_name": "Chương 2849: Thiên Minh chi chiến (15)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2849/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2850_Phương_pháp_cứu_trị_1.json",
+    "chapter_name": "Chương 2850: Phương pháp cứu trị (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2850/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2851_Phương_pháp_cứu_trị_2.json",
+    "chapter_name": "Chương 2851: Phương pháp cứu trị (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2851/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2852_Bắc_Hải_vương_thất.json",
+    "chapter_name": "Chương 2852: Bắc Hải vương thất",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2852/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2853_Kích_hoạt_1.json",
+    "chapter_name": "Chương 2853: Kích hoạt (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2853/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2854_Kích_hoạt_2.json",
+    "chapter_name": "Chương 2854: Kích hoạt (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2854/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2855_Quang_Minh_Ngọc_lưu_ly_thân.json",
+    "chapter_name": "Chương 2855: Quang Minh Ngọc lưu ly thân",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2855/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2856_Hóa_Xà_địa_cốt.json",
+    "chapter_name": "Chương 2856: Hóa Xà địa cốt",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2856/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2857_Cuồng_bạo_1.json",
+    "chapter_name": "Chương 2857: Cuồng bạo (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2857/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2858_Cuồng_bạo_2.json",
+    "chapter_name": "Chương 2858: Cuồng bạo (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2858/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2859_Thần_Thể_thất_trọng_1.json",
+    "chapter_name": "Chương 2859: Thần Thể thất trọng (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2859/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2860_Thần_Thể_thất_trọng_2.json",
+    "chapter_name": "Chương 2860: Thần Thể thất trọng (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2860/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2861_Vô_địch.json",
+    "chapter_name": "Chương 2861: Vô địch",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2861/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2862_Tương_đối_dục_Hồng_Y_1.json",
+    "chapter_name": "Chương 2862: Tương đối dục Hồng Y (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2862/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2863_Tương_đối_dục_Hồng_Y_2.json",
+    "chapter_name": "Chương 2863: Tương đối dục Hồng Y (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2863/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2864_Lẩn_trốn.json",
+    "chapter_name": "Chương 2864: Lẩn trốn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2864/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2865_Long_Nha_Sơn_Trang_1.json",
+    "chapter_name": "Chương 2865: Long Nha Sơn Trang (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2865/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2866_Long_Nha_Sơn_Trang_2.json",
+    "chapter_name": "Chương 2866: Long Nha Sơn Trang (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2866/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2867_Hạo_xỉ_minh_nguyệt_1.json",
+    "chapter_name": "Chương 2867: Hạo xỉ minh nguyệt (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2867/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2868_Hạo_xỉ_minh_nguyệt_2.json",
+    "chapter_name": "Chương 2868: Hạo xỉ minh nguyệt (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2868/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2869_Nhưng_cầu_vừa_thấy.json",
+    "chapter_name": "Chương 2869: Nhưng cầu vừa thấy",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2869/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2870_Chín_tháng_chiêu_thiên_1.json",
+    "chapter_name": "Chương 2870: Chín tháng chiêu thiên (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2870/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2871_Chín_tháng_chiêu_thiên_2.json",
+    "chapter_name": "Chương 2871: Chín tháng chiêu thiên (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2871/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2872_Hạo_Dương_nhất_chỉ.json",
+    "chapter_name": "Chương 2872: Hạo Dương nhất chỉ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2872/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2873_Thông_đạo_vô_tình_gặp_được_1.json",
+    "chapter_name": "Chương 2873: Thông đạo vô tình gặp được (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2873/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2874_Thông_đạo_vô_tình_gặp_được_2.json",
+    "chapter_name": "Chương 2874: Thông đạo vô tình gặp được (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2874/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2875_Kim_Giản_1.json",
+    "chapter_name": "Chương 2875: Kim Giản (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2875/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2876_Kim_Giản_2.json",
+    "chapter_name": "Chương 2876: Kim Giản (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2876/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2877_Huyết_Trì.json",
+    "chapter_name": "Chương 2877: Huyết Trì",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2877/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2878_Dương_tiên_sinh_1.json",
+    "chapter_name": "Chương 2878: Dương tiên sinh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2878/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2879_Dương_tiên_sinh_2.json",
+    "chapter_name": "Chương 2879: Dương tiên sinh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2879/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2880_Bách_Chiến_Thắng_1.json",
+    "chapter_name": "Chương 2880: Bách Chiến Thắng (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2880/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2881_Bách_Chiến_Thắng_2.json",
+    "chapter_name": "Chương 2881: Bách Chiến Thắng (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2881/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2882_Bộ_tộc_Thương_Yêu_1.json",
+    "chapter_name": "Chương 2882: Bộ tộc Thương Yêu (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2882/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2883_Bộ_tộc_Thương_Yêu_2.json",
+    "chapter_name": "Chương 2883: Bộ tộc Thương Yêu (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2883/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2884_Cổ_Võ_đế_quốc_1.json",
+    "chapter_name": "Chương 2884: Cổ Võ đế quốc (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2884/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2885_Cổ_Võ_đế_quốc_2.json",
+    "chapter_name": "Chương 2885: Cổ Võ đế quốc (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2885/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2886_Tửu_lâu_phong_ba.json",
+    "chapter_name": "Chương 2886: Tửu lâu phong ba",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2886/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2887_Thù_mới_hận_cũ.json",
+    "chapter_name": "Chương 2887: Thù mới hận cũ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2887/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2888_Tiến_thêm_một_bước_1.json",
+    "chapter_name": "Chương 2888: Tiến thêm một bước (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2888/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2889_Tiến_thêm_một_bước_2.json",
+    "chapter_name": "Chương 2889: Tiến thêm một bước (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2889/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2890_Quyền_Ý_kiếm_quyết.json",
+    "chapter_name": "Chương 2890: Quyền Ý kiếm quyết",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2890/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2891_Chất_vấn_1.json",
+    "chapter_name": "Chương 2891: Chất vấn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2891/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2892_Chất_vấn_2.json",
+    "chapter_name": "Chương 2892: Chất vấn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2892/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2893_Lẻn_vào.json",
+    "chapter_name": "Chương 2893: Lẻn vào",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2893/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2894_Lo_lắng_1.json",
+    "chapter_name": "Chương 2894: Lo lắng (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2894/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2895_Lo_lắng_2.json",
+    "chapter_name": "Chương 2895: Lo lắng (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2895/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2896_Bất_Quy_Cảnh_1.json",
+    "chapter_name": "Chương 2896: Bất Quy Cảnh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2896/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2897_Bất_Quy_Cảnh_2.json",
+    "chapter_name": "Chương 2897: Bất Quy Cảnh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2897/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2898_Cắn_ngược_lại.json",
+    "chapter_name": "Chương 2898: Cắn ngược lại",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2898/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2899_Ngọc_ấn_1.json",
+    "chapter_name": "Chương 2899: Ngọc ấn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2899/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2900_Ngọc_ấn_2.json",
+    "chapter_name": "Chương 2900: Ngọc ấn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2900/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2901_Thế_sự_như_cờ.json",
+    "chapter_name": "Chương 2901: Thế sự như cờ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2901/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2902_Khải_thân.json",
+    "chapter_name": "Chương 2902: Khải thân",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2902/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2903_Vạn_Yêu_Chi_Hoàng.json",
+    "chapter_name": "Chương 2903: Vạn Yêu Chi Hoàng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2903/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2904_Ngũ_Hà_Sơn_1.json",
+    "chapter_name": "Chương 2904: Ngũ Hà Sơn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2904/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2905_Ngũ_Hà_Sơn_2.json",
+    "chapter_name": "Chương 2905: Ngũ Hà Sơn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2905/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2906_Nội_chiến_1.json",
+    "chapter_name": "Chương 2906: Nội chiến (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2906/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2907_Nội_chiến_2.json",
+    "chapter_name": "Chương 2907: Nội chiến (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2907/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2908_Lựa_chọn.json",
+    "chapter_name": "Chương 2908: Lựa chọn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2908/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2909_Oan_ức_1.json",
+    "chapter_name": "Chương 2909: Oan ức (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2909/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2910_Oan_ức_2.json",
+    "chapter_name": "Chương 2910: Oan ức (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2910/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2911_Mặc_kệ.json",
+    "chapter_name": "Chương 2911: Mặc kệ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2911/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2912_Cuộc_chiến_phong_ấn_1.json",
+    "chapter_name": "Chương 2912: Cuộc chiến phong ấn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2912/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2913_Cuộc_chiến_phong_ấn_2.json",
+    "chapter_name": "Chương 2913: Cuộc chiến phong ấn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2913/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2914_Cuộc_chiến_phong_ấn_33.json",
+    "chapter_name": "Chương 2914: Cuộc chiến phong ấn (33)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2914/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2915_Cuộc_chiến_phong_ấn_4.json",
+    "chapter_name": "Chương 2915: Cuộc chiến phong ấn (4)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2915/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2916_Cuộc_chiến_phong_ấn_5.json",
+    "chapter_name": "Chương 2916: Cuộc chiến phong ấn (5)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2916/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2917_Cuộc_chiến_phong_ấn_6.json",
+    "chapter_name": "Chương 2917: Cuộc chiến phong ấn (6)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2917/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2918_Cuộc_chiến_phong_ấn_7.json",
+    "chapter_name": "Chương 2918: Cuộc chiến phong ấn (7)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2918/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2919_Cuộc_chiến_phong_ấn_8.json",
+    "chapter_name": "Chương 2919: Cuộc chiến phong ấn (8)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2919/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2920_Cuộc_chiến_phong_ấn_9.json",
+    "chapter_name": "Chương 2920: Cuộc chiến phong ấn (9)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2920/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2921_Cuộc_chiến_phong_ấn_10.json",
+    "chapter_name": "Chương 2921: Cuộc chiến phong ấn (10)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2921/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2922_Cuộc_chiến_phong_ấn_11.json",
+    "chapter_name": "Chương 2922: Cuộc chiến phong ấn (11)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2922/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2923_Cuộc_chiến_phong_ấn_12.json",
+    "chapter_name": "Chương 2923: Cuộc chiến phong ấn (12)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2923/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2924_Cuộc_chiến_phong_ấn_13.json",
+    "chapter_name": "Chương 2924: Cuộc chiến phong ấn (13)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2924/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2925_Cuộc_chiến_phong_ấn_14.json",
+    "chapter_name": "Chương 2925: Cuộc chiến phong ấn (14)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2925/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2926_Cuộc_chiến_phong_ấn_15.json",
+    "chapter_name": "Chương 2926: Cuộc chiến phong ấn (15)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2926/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2927_Cuộc_chiến_phong_ấn_16.json",
+    "chapter_name": "Chương 2927: Cuộc chiến phong ấn (16)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2927/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2928_Cuộc_chiến_phong_ấn_17.json",
+    "chapter_name": "Chương 2928: Cuộc chiến phong ấn (17)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2928/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_29291_Cuộc_chiến_phong_ấn_181.json",
+    "chapter_name": "Chương 2929-1: Cuộc chiến phong ấn (18-1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2929-1/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_29292_Cuộc_chiến_phong_ấn_182.json",
+    "chapter_name": "Chương 2929-2: Cuộc chiến phong ấn (18-2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2929-2/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2930_Cuộc_chiến_phong_ấn_19.json",
+    "chapter_name": "Chương 2930: Cuộc chiến phong ấn (19)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2930/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2931_Cuộc_chiến_phong_ấn_20.json",
+    "chapter_name": "Chương 2931: Cuộc chiến phong ấn (20)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2931/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2932_Cuộc_chiến_phong_ấn_21.json",
+    "chapter_name": "Chương 2932: Cuộc chiến phong ấn (21)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2932/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2933_Cuộc_chiến_phong_ấn_22.json",
+    "chapter_name": "Chương 2933: Cuộc chiến phong ấn (22)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2933/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2934_Cuộc_chiến_phong_ấn_23.json",
+    "chapter_name": "Chương 2934: Cuộc chiến phong ấn (23)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2934/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2935_Cuộc_chiến_phong_ấn_24.json",
+    "chapter_name": "Chương 2935: Cuộc chiến phong ấn (24)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2935/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2936_Cuộc_chiến_phong_ấn_25.json",
+    "chapter_name": "Chương 2936: Cuộc chiến phong ấn (25)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2936/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2937_Cuộc_chiến_phong_ấn_26.json",
+    "chapter_name": "Chương 2937: Cuộc chiến phong ấn (26)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2937/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2938_Cuộc_chiến_phong_ấn_27.json",
+    "chapter_name": "Chương 2938: Cuộc chiến phong ấn (27)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2938/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2939_Cuộc_chiến_phong_ấn_28.json",
+    "chapter_name": "Chương 2939: Cuộc chiến phong ấn (28)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2939/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2940_Cuộc_chiến_phong_ấn_29.json",
+    "chapter_name": "Chương 2940: Cuộc chiến phong ấn (29)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2940/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2941_Cuộc_chiến_phong_ấn_30.json",
+    "chapter_name": "Chương 2941: Cuộc chiến phong ấn (30)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2941/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2942_Cuộc_chiến_phong_ấn_31.json",
+    "chapter_name": "Chương 2942: Cuộc chiến phong ấn (31)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2942/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2943_Cuộc_chiến_phong_ấn_32.json",
+    "chapter_name": "Chương 2943: Cuộc chiến phong ấn (32)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2943/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2944_Cuộc_chiến_phong_ấn_33.json",
+    "chapter_name": "Chương 2944: Cuộc chiến phong ấn (33)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2944/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2945_Cuộc_chiến_phong_ấn_34.json",
+    "chapter_name": "Chương 2945: Cuộc chiến phong ấn (34)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2945/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2946_Cuộc_chiến_phong_ấn_35.json",
+    "chapter_name": "Chương 2946: Cuộc chiến phong ấn (35)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2946/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2947_Cuộc_chiến_phong_ấn_36.json",
+    "chapter_name": "Chương 2947: Cuộc chiến phong ấn (36)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2947/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2948_Cuộc_chiến_phong_ấn_37.json",
+    "chapter_name": "Chương 2948: Cuộc chiến phong ấn (37)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2948/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2949_Cuộc_chiến_phong_ấn_38.json",
+    "chapter_name": "Chương 2949: Cuộc chiến phong ấn (38)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2949/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2950_Cuộc_chiến_phong_ấn_39.json",
+    "chapter_name": "Chương 2950: Cuộc chiến phong ấn (39)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2950/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2951_Cuộc_chiến_phong_ấn_40.json",
+    "chapter_name": "Chương 2951: Cuộc chiến phong ấn (40)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2951/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2952_Cuộc_chiến_phong_ấn_41.json",
+    "chapter_name": "Chương 2952: Cuộc chiến phong ấn (41)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2952/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2953_Cuộc_chiến_phong_ấn_42.json",
+    "chapter_name": "Chương 2953: Cuộc chiến phong ấn (42)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2953/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2954_Cuộc_chiến_phong_ấn_43.json",
+    "chapter_name": "Chương 2954: Cuộc chiến phong ấn (43)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2954/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2955_Cuộc_chiến_phong_ấn_44.json",
+    "chapter_name": "Chương 2955: Cuộc chiến phong ấn (44)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2955/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2956_Cuộc_chiến_phong_ấn_45.json",
+    "chapter_name": "Chương 2956: Cuộc chiến phong ấn (45)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2956/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2957_Cuộc_chiến_phong_ấn_46.json",
+    "chapter_name": "Chương 2957: Cuộc chiến phong ấn (46)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2957/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2958_Cuộc_chiến_phong_ấn_47.json",
+    "chapter_name": "Chương 2958: Cuộc chiến phong ấn (47)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2958/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2959_Cuộc_chiến_phong_ấn_48.json",
+    "chapter_name": "Chương 2959: Cuộc chiến phong ấn (48)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2959/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2960_Cuộc_chiến_phong_ấn_49.json",
+    "chapter_name": "Chương 2960: Cuộc chiến phong ấn (49)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2960/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2961_Cuộc_chiến_phong_ấn_50.json",
+    "chapter_name": "Chương 2961: Cuộc chiến phong ấn (50)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2961/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2962_Binh_khí_giết_chóc_1.json",
+    "chapter_name": "Chương 2962: : Binh khí giết chóc (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2962/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2963_Binh_khí_giết_chóc_2.json",
+    "chapter_name": "Chương 2963: : Binh khí giết chóc (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2963/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2964_Thần_đạo_tam_cảnh_1.json",
+    "chapter_name": "Chương 2964: Thần đạo tam cảnh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2964/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2965_Thần_đạo_tam_cảnh_2.json",
+    "chapter_name": "Chương 2965: Thần đạo tam cảnh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2965/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2966_Mênh_mông_khắp_nơi.json",
+    "chapter_name": "Chương 2966: Mênh mông khắp nơi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2966/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2967_Rất_là_ra_vẻ_1.json",
+    "chapter_name": "Chương 2967: Rất là ra vẻ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2967/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2968_Rất_là_ra_vẻ_2.json",
+    "chapter_name": "Chương 2968: Rất là ra vẻ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2968/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2969_Thiên_đạo_không_do_người.json",
+    "chapter_name": "Chương 2969: Thiên đạo không do người",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2969/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2970_Nhận_cái_cúi_đầu_của_ta.json",
+    "chapter_name": "Chương 2970: Nhận cái cúi đầu của ta",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2970/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2971_Lực_lượng_ký_chủ_1.json",
+    "chapter_name": "Chương 2971: Lực lượng ký chủ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2971/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2972_Lực_lượng_ký_chủ_2.json",
+    "chapter_name": "Chương 2972: Lực lượng ký chủ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2972/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2973_Hắc_ám_vô_tận.json",
+    "chapter_name": "Chương 2973: Hắc ám vô tận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2973/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2974_Chiếu_xem_cõi_trần_1.json",
+    "chapter_name": "Chương 2974: Chiếu xem cõi trần (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2974/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2975_Chiếu_xem_cõi_trần_2.json",
+    "chapter_name": "Chương 2975: Chiếu xem cõi trần (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2975/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2976_Địa_Tôn_Giả.json",
+    "chapter_name": "Chương 2976: Địa Tôn Giả",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2976/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2977_Lại_đến_lần_nữa_1.json",
+    "chapter_name": "Chương 2977: Lại đến lần nữa (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2977/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2978_Lại_đến_lần_nữa_2.json",
+    "chapter_name": "Chương 2978: Lại đến lần nữa (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2978/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2979_Huyết_cấm_thuật.json",
+    "chapter_name": "Chương 2979: Huyết cấm thuật",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2979/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2980_Là_thương_của_ngươi.json",
+    "chapter_name": "Chương 2980: Là thương của ngươi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2980/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2981_Thịnh_thế_như_mơ_1.json",
+    "chapter_name": "Chương 2981: Thịnh thế như mơ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2981/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2982_Thịnh_thế_như_mơ_2.json",
+    "chapter_name": "Chương 2982: Thịnh thế như mơ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2982/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2983_Chư_pháp_không_tương_1.json",
+    "chapter_name": "Chương 2983: Chư pháp không tương (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2983/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2984_Chư_pháp_không_tương_2.json",
+    "chapter_name": "Chương 2984: Chư pháp không tương (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2984/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2985_Cam_tâm_tình_nguyện.json",
+    "chapter_name": "Chương 2985: Cam tâm tình nguyện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2985/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2986_Núi_không_thể_chứa_hai_hổ.json",
+    "chapter_name": "Chương 2986: Núi không thể chứa hai hổ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2986/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2987_Từ_từ_suy_thoái_1.json",
+    "chapter_name": "Chương 2987: Từ từ suy thoái (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2987/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2988_Từ_từ_suy_thoái_2.json",
+    "chapter_name": "Chương 2988: Từ từ suy thoái (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2988/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2989_Đều_có_tâm_tư.json",
+    "chapter_name": "Chương 2989: Đều có tâm tư",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2989/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2990_Bao_nhiêu_hồng_nhan_1.json",
+    "chapter_name": "Chương 2990: Bao nhiêu hồng nhan (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2990/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2991_Bao_nhiêu_hồng_nhan_2.json",
+    "chapter_name": "Chương 2991: Bao nhiêu hồng nhan (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2991/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2992_Nhật_Nguyệt_Tinh_Thiềm.json",
+    "chapter_name": "Chương 2992: Nhật Nguyệt Tinh Thiềm",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2992/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2993_Tìm_kiếm_đột_phá_1.json",
+    "chapter_name": "Chương 2993: Tìm kiếm đột phá (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2993/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2994_Tìm_kiếm_đột_phá_2.json",
+    "chapter_name": "Chương 2994: Tìm kiếm đột phá (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2994/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2995_Hải_Thị_Thân_thành.json",
+    "chapter_name": "Chương 2995: Hải Thị Thân thành",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2995/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2996_Hóa_Thần_Hải_1.json",
+    "chapter_name": "Chương 2996: Hóa Thần Hải (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2996/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2997_Hóa_Thần_Hải_2.json",
+    "chapter_name": "Chương 2997: Hóa Thần Hải (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2997/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2998_Chuyện_cũ.json",
+    "chapter_name": "Chương 2998: Chuyện cũ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2998/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2999_Tử_Duệ_1.json",
+    "chapter_name": "Chương 2999: Tử Duệ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2999/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3000_Tử_Duệ_2.json",
+    "chapter_name": "Chương 3000: Tử Duệ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3000/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3001_Tâm_luyện_khôi_lỗi.json",
+    "chapter_name": "Chương 3001: Tâm luyện khôi lỗi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3001/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3002_Cường_Thể_Hồi_Dương_Đan.json",
+    "chapter_name": "Chương 3002: Cường Thể Hồi Dương Đan",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3002/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3003_Tẩu_hỏa_nhập_ma.json",
+    "chapter_name": "Chương 3003: Tẩu hỏa nhập ma",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3003/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3004_Cổ_ma_tỉnh_1.json",
+    "chapter_name": "Chương 3004: Cổ ma tỉnh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3004/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3005_Cổ_ma_tỉnh_2.json",
+    "chapter_name": "Chương 3005: Cổ ma tỉnh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3005/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3006_Xông_vào.json",
+    "chapter_name": "Chương 3006: Xông vào",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3006/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3007_Hấp_thu_ma_khí.json",
+    "chapter_name": "Chương 3007: Hấp thu ma khí",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3007/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3008_Một_trận_chiến_1.json",
+    "chapter_name": "Chương 3008: Một trận chiến (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3008/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3009_Một_trận_chiến_2.json",
+    "chapter_name": "Chương 3009: Một trận chiến (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3009/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3010_Thiên_hạ_mười_người.json",
+    "chapter_name": "Chương 3010: Thiên hạ mười người",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3010/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3011_Chờ_đợi_đã_lâu.json",
+    "chapter_name": "Chương 3011: Chờ đợi đã lâu",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3011/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3012_Tư_tật_1.json",
+    "chapter_name": "Chương 3012: Tư tật (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3012/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3013_Tư_tật_2.json",
+    "chapter_name": "Chương 3013: Tư tật (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3013/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3014_Âm_thầm_giao_phong.json",
+    "chapter_name": "Chương 3014: Âm thầm giao phong",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3014/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3015_Khiêu_khích_1.json",
+    "chapter_name": "Chương 3015: Khiêu khích (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3015/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3016_Khiêu_khích_2.json",
+    "chapter_name": "Chương 3016: Khiêu khích (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3016/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3017_Chuyện_hồng_thạch.json",
+    "chapter_name": "Chương 3017: Chuyện hồng thạch",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3017/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3018_Kết_minh_1.json",
+    "chapter_name": "Chương 3018: Kết minh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3018/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3019_Kết_minh_2.json",
+    "chapter_name": "Chương 3019: Kết minh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3019/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3020_Thăm_dò_lẫn_nhau.json",
+    "chapter_name": "Chương 3020: Thăm dò lẫn nhau",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3020/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3021_Thù_riêng.json",
+    "chapter_name": "Chương 3021: Thù riêng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3021/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3022_Tọa_độ_tiên_cảnh_1.json",
+    "chapter_name": "Chương 3022: Tọa độ tiên cảnh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3022/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3023_Tọa_độ_tiên_cảnh_2.json",
+    "chapter_name": "Chương 3023: Tọa độ tiên cảnh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3023/"
   }
 ]
