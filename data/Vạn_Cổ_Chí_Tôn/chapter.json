@@ -17073,5 +17073,1005 @@
     "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3422_Diệc_phục_hà_ngôn_2.json",
     "chapter_name": "Chương 3422: Diệc phục hà ngôn 2",
     "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3422/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3423_Cái_giá.json",
+    "chapter_name": "Chương 3423: Cái giá",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3423/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3424_Khát_vọng_to_lớn_xa_xăm_1.json",
+    "chapter_name": "Chương 3424: Khát vọng to lớn xa xăm 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3424/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3425_Khát_vọng_to_lớn_xa_xăm_2.json",
+    "chapter_name": "Chương 3425: Khát vọng to lớn xa xăm 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3425/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3426_Liên_minh_mới.json",
+    "chapter_name": "Chương 3426: Liên minh mới",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3426/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3427_Tái_hiện_ngày_xưa.json",
+    "chapter_name": "Chương 3427: Tái hiện ngày xưa",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3427/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3428_Kích_xuyên_không_gian_1.json",
+    "chapter_name": "Chương 3428: Kích xuyên không gian 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3428/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3429_Kích_xuyên_không_gian_2.json",
+    "chapter_name": "Chương 3429: Kích xuyên không gian 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3429/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3430_Cuộc_chiến_thành_Hồng_Nguyệt_1.json",
+    "chapter_name": "Chương 3430: Cuộc chiến thành Hồng Nguyệt 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3430/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3431_Cuộc_chiến_thành_Hồng_Nguyệt_2.json",
+    "chapter_name": "Chương 3431: Cuộc chiến thành Hồng Nguyệt 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3431/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3432_Cuộc_chiến_thành_Hồng_Nguyệt_3.json",
+    "chapter_name": "Chương 3432: Cuộc chiến thành Hồng Nguyệt 3",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3432/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3433_Cuộc_chiến_thành_Hồng_Nguyệt_4.json",
+    "chapter_name": "Chương 3433: Cuộc chiến thành Hồng Nguyệt 4",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3433/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3434_Cuộc_chiến_thành_Hồng_Nguyệt_5.json",
+    "chapter_name": "Chương 3434: Cuộc chiến thành Hồng Nguyệt 5",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3434/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3435_Cuộc_chiến_thành_Hồng_Nguyệt_6.json",
+    "chapter_name": "Chương 3435: Cuộc chiến thành Hồng Nguyệt 6",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3435/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3436_Cuộc_chiến_thành_Hồng_Nguyệt_7.json",
+    "chapter_name": "Chương 3436: Cuộc chiến thành Hồng Nguyệt 7",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3436/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3437_Cuộc_chiến_thành_Hồng_Nguyệt_8.json",
+    "chapter_name": "Chương 3437: Cuộc chiến thành Hồng Nguyệt 8",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3437/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3438_Cuộc_chiến_thành_Hồng_Nguyệt_9.json",
+    "chapter_name": "Chương 3438: Cuộc chiến thành Hồng Nguyệt 9",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3438/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3439_Cuộc_chiến_thành_Hồng_Nguyệt_10.json",
+    "chapter_name": "Chương 3439: Cuộc chiến thành Hồng Nguyệt 10",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3439/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3440_Cuộc_chiến_thành_Hồng_Nguyệt_11.json",
+    "chapter_name": "Chương 3440: Cuộc chiến thành Hồng Nguyệt 11",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3440/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3441_Cuộc_chiến_thành_Hồng_Nguyệt_12.json",
+    "chapter_name": "Chương 3441: Cuộc chiến thành Hồng Nguyệt 12",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3441/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3442_Cuộc_chiến_thành_Hồng_Nguyệt_13.json",
+    "chapter_name": "Chương 3442: Cuộc chiến thành Hồng Nguyệt 13",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3442/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3443_Cuộc_chiến_thành_Hồng_Nguyệt_14.json",
+    "chapter_name": "Chương 3443: Cuộc chiến thành Hồng Nguyệt 14",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3443/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3444_Cuộc_chiến_thành_Hồng_Nguyệt_15.json",
+    "chapter_name": "Chương 3444: Cuộc chiến thành Hồng Nguyệt 15",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3444/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3445_Cuộc_chiến_thành_Hồng_Nguyệt_16.json",
+    "chapter_name": "Chương 3445: Cuộc chiến thành Hồng Nguyệt 16",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3445/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3446_Cuộc_chiến_thành_Hồng_Nguyệt_17.json",
+    "chapter_name": "Chương 3446: Cuộc chiến thành Hồng Nguyệt 17",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3446/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3447_Cuộc_chiến_thành_Hồng_Nguyệt_18.json",
+    "chapter_name": "Chương 3447: Cuộc chiến thành Hồng Nguyệt 18",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3447/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3448_Cuộc_chiến_thành_Hồng_Nguyệt_19.json",
+    "chapter_name": "Chương 3448: Cuộc chiến thành Hồng Nguyệt 19",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3448/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3449_Cuộc_chiến_thành_Hồng_Nguyệt_20.json",
+    "chapter_name": "Chương 3449: Cuộc chiến thành Hồng Nguyệt 20",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3449/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3450_Cuộc_chiến_thành_Hồng_Nguyệt_21.json",
+    "chapter_name": "Chương 3450: Cuộc chiến thành Hồng Nguyệt 21",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3450/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3451_Cuộc_chiến_thành_Hồng_Nguyệt_22.json",
+    "chapter_name": "Chương 3451: Cuộc chiến thành Hồng Nguyệt 22",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3451/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3452_Cuộc_chiến_thành_Hồng_Nguyệt_23.json",
+    "chapter_name": "Chương 3452: Cuộc chiến thành Hồng Nguyệt 23",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3452/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3453_Cuộc_chiến_thành_Hồng_Nguyệt_24.json",
+    "chapter_name": "Chương 3453: Cuộc chiến thành Hồng Nguyệt 24",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3453/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3454_Cuộc_chiến_thành_Hồng_Nguyệt_25.json",
+    "chapter_name": "Chương 3454: Cuộc chiến thành Hồng Nguyệt 25",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3454/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3455_Cuộc_chiến_thành_Hồng_Nguyệt_26.json",
+    "chapter_name": "Chương 3455: Cuộc chiến thành Hồng Nguyệt 26",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3455/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3456_Cuộc_chiến_thành_Hồng_Nguyệt_27.json",
+    "chapter_name": "Chương 3456: Cuộc chiến thành Hồng Nguyệt 27",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3456/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3457_Cuộc_chiến_thành_Hồng_Nguyệt_28.json",
+    "chapter_name": "Chương 3457: Cuộc chiến thành Hồng Nguyệt 28",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3457/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3458_Cuộc_chiến_thành_Hồng_Nguyệt_29.json",
+    "chapter_name": "Chương 3458: Cuộc chiến thành Hồng Nguyệt 29",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3458/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3459_Cuộc_chiến_thành_Hồng_Nguyệt_30.json",
+    "chapter_name": "Chương 3459: Cuộc chiến thành Hồng Nguyệt 30",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3459/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3460_Cuộc_chiến_thành_Hồng_Nguyệt_31.json",
+    "chapter_name": "Chương 3460: Cuộc chiến thành Hồng Nguyệt 31",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3460/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3461_Cuộc_chiến_thành_Hồng_Nguyệt_32.json",
+    "chapter_name": "Chương 3461: Cuộc chiến thành Hồng Nguyệt 32",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3461/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3462_Cuộc_chiến_thành_Hồng_Nguyệt_33.json",
+    "chapter_name": "Chương 3462: Cuộc chiến thành Hồng Nguyệt 33",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3462/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3463_Cuộc_chiến_thành_Hồng_Nguyệt_34.json",
+    "chapter_name": "Chương 3463: Cuộc chiến thành Hồng Nguyệt 34",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3463/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3464_Chủ_Địa_Giới_1.json",
+    "chapter_name": "Chương 3464: Chủ Địa Giới 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3464/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3465_Chủ_Địa_Giới_2.json",
+    "chapter_name": "Chương 3465: Chủ Địa Giới 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3465/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3466_Cái_chết_của_Đế_Già.json",
+    "chapter_name": "Chương 3466: Cái chết của Đế Già",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3466/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3467_Ma_binh_mất.json",
+    "chapter_name": "Chương 3467: Ma binh mất",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3467/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3468_Giải_khai_phong_ấn_1.json",
+    "chapter_name": "Chương 3468: Giải khai phong ấn 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3468/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3469_Giải_khai_phong_ấn_2.json",
+    "chapter_name": "Chương 3469: Giải khai phong ấn 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3469/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3470_Cuộc_quyết_đấu_số_phận.json",
+    "chapter_name": "Chương 3470: Cuộc quyết đấu số phận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3470/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3471_Không_gian_bí_tàng_hoàn.json",
+    "chapter_name": "Chương 3471: Không gian bí tàng hoàn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3471/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3472_Sụp_xuống.json",
+    "chapter_name": "Chương 3472: Sụp xuống",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3472/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3473_Trước_giờ_thuật_quyết_1.json",
+    "chapter_name": "Chương 3473: Trước giờ thuật quyết 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3473/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3474_Trước_giờ_thuật_quyết_2.json",
+    "chapter_name": "Chương 3474: Trước giờ thuật quyết 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3474/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3475_Đặt_cược.json",
+    "chapter_name": "Chương 3475: Đặt cược",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3475/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3476_Bốn_Tạo_Hóa_Cảnh_1.json",
+    "chapter_name": "Chương 3476: Bốn Tạo Hóa Cảnh 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3476/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3477_Bốn_Tạo_Hóa_Cảnh_2.json",
+    "chapter_name": "Chương 3477: Bốn Tạo Hóa Cảnh 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3477/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3478_Xuất_hiện.json",
+    "chapter_name": "Chương 3478: Xuất hiện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3478/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3479_Luyện_hóa_vạn_vật_1.json",
+    "chapter_name": "Chương 3479: Luyện hóa vạn vật 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3479/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3480_Luyện_hóa_vạn_vật_2.json",
+    "chapter_name": "Chương 3480: Luyện hóa vạn vật 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3480/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3481_Độ_khó.json",
+    "chapter_name": "Chương 3481: Độ khó",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3481/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3482_Dung_hợp_kiếm_ý.json",
+    "chapter_name": "Chương 3482: Dung hợp kiếm ý",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3482/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3483_Phong_hoa_tuyệt_thế_1.json",
+    "chapter_name": "Chương 3483: Phong hoa tuyệt thế 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3483/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3484_Phong_hoa_tuyệt_thế_2.json",
+    "chapter_name": "Chương 3484: Phong hoa tuyệt thế 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3484/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3485_Chín_đạo_tử_lôi.json",
+    "chapter_name": "Chương 3485: Chín đạo tử lôi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3485/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3486_Pháp_tắc_chi_liên.json",
+    "chapter_name": "Chương 3486: Pháp tắc chi liên",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3486/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3487_Thắng_bại_đã_phân.json",
+    "chapter_name": "Chương 3487: Thắng bại đã phân?",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3487/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3488_Mất_đi_ý_thức.json",
+    "chapter_name": "Chương 3488: Mất đi ý thức",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3488/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3489_Thủy_Chủ_Trầm_Phù_1.json",
+    "chapter_name": "Chương 3489: Thủy Chủ Trầm Phù 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3489/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3490_Thủy_Chủ_Trầm_Phù_21.json",
+    "chapter_name": "Chương 3490: Thủy Chủ Trầm Phù 21",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3490/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3491_Tranh_giành_lợi_ích.json",
+    "chapter_name": "Chương 3491: Tranh giành lợi ích",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3491/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3492_Chiến_lược_biến_hóa_1.json",
+    "chapter_name": "Chương 3492: Chiến lược biến hóa 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3492/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3493_Chiến_lược_biến_hóa_2.json",
+    "chapter_name": "Chương 3493: Chiến lược biến hóa 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3493/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3494_Phá_Ma_Nhận.json",
+    "chapter_name": "Chương 3494: Phá Ma Nhận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3494/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3495_Ngự_Ma_Khải_1.json",
+    "chapter_name": "Chương 3495: Ngự Ma Khải 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3495/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3496_Ngự_Ma_Khải_2.json",
+    "chapter_name": "Chương 3496: Ngự Ma Khải 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3496/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3497_Thánh_Ma_uy_hiếp.json",
+    "chapter_name": "Chương 3497: Thánh Ma uy hiếp",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3497/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3498_Tìm_kiếm_Tù_thân_1.json",
+    "chapter_name": "Chương 3498: Tìm kiếm Tù thân 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3498/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3499_Tìm_kiếm_Tù_thân_2.json",
+    "chapter_name": "Chương 3499: Tìm kiếm Tù thân 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3499/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3500_Lại_tới_Đại_Luân_đảo_1.json",
+    "chapter_name": "Chương 3500: Lại tới Đại Luân đảo 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3500/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3501_Lại_tới_Đại_Luân_đảo_2.json",
+    "chapter_name": "Chương 3501: Lại tới Đại Luân đảo 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3501/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3502_Biển_chết.json",
+    "chapter_name": "Chương 3502: Biển chết",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3502/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3503_Tiến_vào_tử_hải_1.json",
+    "chapter_name": "Chương 3503: Tiến vào tử hải 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3503/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3504_Tiến_vào_tử_hải_2.json",
+    "chapter_name": "Chương 3504: Tiến vào tử hải 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3504/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3505_Cảm_ứng.json",
+    "chapter_name": "Chương 3505: Cảm ứng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3505/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3506_Tọa_độ_thiên_cung_1.json",
+    "chapter_name": "Chương 3506: Tọa độ thiên cung 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3506/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3507_Tọa_độ_thiên_cung_2.json",
+    "chapter_name": "Chương 3507: Tọa độ thiên cung 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3507/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3508_Vạn_linh_chi_địa.json",
+    "chapter_name": "Chương 3508: Vạn linh chi địa",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3508/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3509_Bốn_long_tử_1.json",
+    "chapter_name": "Chương 3509: Bốn long tử 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3509/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3510_Bốn_long_tử_2.json",
+    "chapter_name": "Chương 3510: Bốn long tử 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3510/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3511_Chân_Linh_còn_sót_lại.json",
+    "chapter_name": "Chương 3511: Chân Linh còn sót lại",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3511/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3512_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 3512: Oan gia ngõ hẹp",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3512/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3513_Lai_giả_bất_thiện_1.json",
+    "chapter_name": "Chương 3513: Lai giả bất thiện 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3513/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3514_Lai_giả_bất_thiện_2.json",
+    "chapter_name": "Chương 3514: Lai giả bất thiện 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3514/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3515_Ứng_chiến.json",
+    "chapter_name": "Chương 3515: Ứng chiến",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3515/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3516_Bất_phân_thắng_bại_1.json",
+    "chapter_name": "Chương 3516: Bất phân thắng bại 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3516/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3517_Bất_phân_thắng_bại_2.json",
+    "chapter_name": "Chương 3517: Bất phân thắng bại 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3517/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3518_Trọc_Khôn.json",
+    "chapter_name": "Chương 3518: Trọc Khôn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3518/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3519_Nói_toạc_thân_phận.json",
+    "chapter_name": "Chương 3519: Nói toạc thân phận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3519/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3520_Linh_của_Giới_Thần_Bi_1.json",
+    "chapter_name": "Chương 3520: Linh của Giới Thần Bi 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3520/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3521_Linh_của_Giới_Thần_Bi_2.json",
+    "chapter_name": "Chương 3521: Linh của Giới Thần Bi 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3521/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3522_Cảnh_giới_rất_cao.json",
+    "chapter_name": "Chương 3522: Cảnh giới rất cao",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3522/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3523_Dốc_sức_đấu_Trọc_Khôn_1.json",
+    "chapter_name": "Chương 3523: Dốc sức đấu Trọc Khôn 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3523/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3524_Dốc_sức_đấu_Trọc_Khôn_2.json",
+    "chapter_name": "Chương 3524: Dốc sức đấu Trọc Khôn 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3524/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3525_Đối_kháng_ma_binh.json",
+    "chapter_name": "Chương 3525: Đối kháng ma binh",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3525/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3526_Lại_đến_1.json",
+    "chapter_name": "Chương 3526: Lại đến 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3526/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3527_Lại_đến_2.json",
+    "chapter_name": "Chương 3527: Lại đến 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3527/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3528_Kiếm_khí_kinh_hồng.json",
+    "chapter_name": "Chương 3528: Kiếm khí kinh hồng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3528/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3529_Sinh_cơ.json",
+    "chapter_name": "Chương 3529: Sinh cơ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3529/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3530_Vĩnh_viễn_không_chia_lìa_1.json",
+    "chapter_name": "Chương 3530: Vĩnh viễn không chia lìa 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3530/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3531_Vĩnh_viễn_không_chia_lìa_2.json",
+    "chapter_name": "Chương 3531: Vĩnh viễn không chia lìa 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3531/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3532_Còn_cứu_được_không.json",
+    "chapter_name": "Chương 3532: Còn cứu được không?",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3532/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3533_Phiêu_Miểu_Vân_Trận_1.json",
+    "chapter_name": "Chương 3533: Phiêu Miểu Vân Trận 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3533/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3534_Phiêu_Miểu_Vân_Trận_2.json",
+    "chapter_name": "Chương 3534: Phiêu Miểu Vân Trận 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3534/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3535_Tam_sơn_ngũ_nhạc.json",
+    "chapter_name": "Chương 3535: Tam sơn ngũ nhạc",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3535/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3536_Viện_binh_đã_đến_1.json",
+    "chapter_name": "Chương 3536: Viện binh đã đến 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3536/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3537_Viện_binh_đã_đến_2.json",
+    "chapter_name": "Chương 3537: Viện binh đã đến 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3537/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3538_Thánh_Ma.json",
+    "chapter_name": "Chương 3538: Thánh Ma",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3538/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3539_Đối_kháng_Thánh_Ma.json",
+    "chapter_name": "Chương 3539: Đối kháng Thánh Ma",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3539/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3540_Phổ_chiếu_đại_địa_1.json",
+    "chapter_name": "Chương 3540: Phổ chiếu đại địa 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3540/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3541_Phổ_chiếu_đại_địa_2.json",
+    "chapter_name": "Chương 3541: Phổ chiếu đại địa 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3541/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3542_Bước_đường_cùng.json",
+    "chapter_name": "Chương 3542: Bước đường cùng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3542/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3543_Hiên_Viên_Diệu.json",
+    "chapter_name": "Chương 3543: Hiên Viên Diệu",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3543/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3544_Cửu_Uyên_tới_1.json",
+    "chapter_name": "Chương 3544: Cửu Uyên tới 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3544/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3545_Cửu_Uyên_tới_2.json",
+    "chapter_name": "Chương 3545: Cửu Uyên tới 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3545/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3546_Thái_độ_Cửu_Uyên.json",
+    "chapter_name": "Chương 3546: Thái độ Cửu Uyên",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3546/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3547_Giới_khanh_1.json",
+    "chapter_name": "Chương 3547: Giới khanh 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3547/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3548_Giới_khanh_2.json",
+    "chapter_name": "Chương 3548: Giới khanh 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3548/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3549_Giới_nô.json",
+    "chapter_name": "Chương 3549: Giới nô",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3549/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3550_Thiên_cơ_chưa_tới.json",
+    "chapter_name": "Chương 3550: Thiên cơ chưa tới",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3550/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3551_Gặp_1.json",
+    "chapter_name": "Chương 3551: Gặp 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3551/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3552_Gặp_2.json",
+    "chapter_name": "Chương 3552: Gặp 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3552/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3553_Lấy_nghê_hồng_thạch.json",
+    "chapter_name": "Chương 3553: Lấy nghê hồng thạch",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3553/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3554_Tranh_giành_Hồn_Thiên_Nghi_1.json",
+    "chapter_name": "Chương 3554: Tranh giành Hồn Thiên Nghi 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3554/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3555_Tranh_giành_Hồn_Thiên_Nghi_2.json",
+    "chapter_name": "Chương 3555: Tranh giành Hồn Thiên Nghi 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3555/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3556_Cướp_lấy.json",
+    "chapter_name": "Chương 3556: Cướp lấy",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3556/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3557_Mất_tích_1.json",
+    "chapter_name": "Chương 3557: Mất tích 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3557/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3558_Mất_tích_2.json",
+    "chapter_name": "Chương 3558: Mất tích 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3558/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3559_Đánh_nát_không_gian.json",
+    "chapter_name": "Chương 3559: Đánh nát không gian",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3559/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3560_Ngọn_núi_to_lớn.json",
+    "chapter_name": "Chương 3560: Ngọn núi to lớn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3560/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3561_Vân_thú_1.json",
+    "chapter_name": "Chương 3561: Vân thú 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3561/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3562_Vân_thú_2.json",
+    "chapter_name": "Chương 3562: Vân thú 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3562/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3563_Tự_biết_mình.json",
+    "chapter_name": "Chương 3563: Tự biết mình",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3563/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3564_Thế_giới_lửa.json",
+    "chapter_name": "Chương 3564: Thế giới lửa",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3564/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3565_Lý_Vân_Tiêu_chết_1.json",
+    "chapter_name": "Chương 3565: Lý Vân Tiêu chết 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3565/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3566_Lý_Vân_Tiêu_chết_2.json",
+    "chapter_name": "Chương 3566: Lý Vân Tiêu chết 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3566/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3567_Chết_con_em_ngươi.json",
+    "chapter_name": "Chương 3567: Chết con em ngươi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3567/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3568_Động_thủ_cướp_đoạt.json",
+    "chapter_name": "Chương 3568: Động thủ cướp đoạt",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3568/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3569_Thu.json",
+    "chapter_name": "Chương 3569: Thu",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3569/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3570_Đi_Ma_giới_1.json",
+    "chapter_name": "Chương 3570: Đi Ma giới 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3570/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3571_Đi_Ma_giới_2.json",
+    "chapter_name": "Chương 3571: Đi Ma giới 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3571/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3572_Nhập_giới.json",
+    "chapter_name": "Chương 3572: Nhập giới",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3572/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3573_Đối_chiến_Ma_Quân_1.json",
+    "chapter_name": "Chương 3573: Đối chiến Ma Quân 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3573/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3574_Đối_chiến_Ma_Quân_2.json",
+    "chapter_name": "Chương 3574: Đối chiến Ma Quân 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3574/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3575_Thông_qua.json",
+    "chapter_name": "Chương 3575: Thông qua",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3575/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3576_Phệ_giới_ma.json",
+    "chapter_name": "Chương 3576: Phệ giới ma",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3576/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3577_Thuốc_bổ_1.json",
+    "chapter_name": "Chương 3577: Thuốc bổ 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3577/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3578_Thuốc_bổ_2.json",
+    "chapter_name": "Chương 3578: Thuốc bổ 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3578/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3579_Ai_ăn_ai.json",
+    "chapter_name": "Chương 3579: Ai ăn ai",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3579/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3580_Phân_phối_nhiệm_vụ.json",
+    "chapter_name": "Chương 3580: Phân phối nhiệm vụ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3580/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3602_Thành_công_đánh_chết_1.json",
+    "chapter_name": "Chương 3602: Thành công đánh chết 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3602/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3603_Thành_công_đánh_chết_2.json",
+    "chapter_name": "Chương 3603: Thành công đánh chết 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3603/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3604_Dục.json",
+    "chapter_name": "Chương 3604: Dục",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3604/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3605_Băng_Vực_Nguyên_Quận.json",
+    "chapter_name": "Chương 3605: Băng Vực Nguyên Quận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3605/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3606_Trần_thế_vì_sao_1.json",
+    "chapter_name": "Chương 3606: Trần thế vì sao 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3606/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3607_Trần_thế_vì_sao_2.json",
+    "chapter_name": "Chương 3607: Trần thế vì sao 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3607/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3608_Chịu_trách_nhiệm_với_ngươi.json",
+    "chapter_name": "Chương 3608: Chịu trách nhiệm với ngươi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3608/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3609_Nguyệt_bộ_1.json",
+    "chapter_name": "Chương 3609: Nguyệt bộ 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3609/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3610_Nguyệt_bộ_2.json",
+    "chapter_name": "Chương 3610: Nguyệt bộ 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3610/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3611_Một_gian_mật_thất.json",
+    "chapter_name": "Chương 3611: Một gian mật thất",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3611/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3632_Dung_hòa_thức_hải.json",
+    "chapter_name": "Chương 3632: Dung hòa thức hải",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3632/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3633_Hẹn_ở_thành_Thiên_Hàn_1.json",
+    "chapter_name": "Chương 3633: Hẹn ở thành Thiên Hàn 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3633/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3634_Hẹn_ở_thành_Thiên_Hàn_2.json",
+    "chapter_name": "Chương 3634: Hẹn ở thành Thiên Hàn 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3634/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3635_Trao_đổi_điều_kiện.json",
+    "chapter_name": "Chương 3635: Trao đổi điều kiện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3635/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3636_Gia_sư_Mục_Trần_1.json",
+    "chapter_name": "Chương 3636: Gia sư Mục Trần 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3636/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3637_Gia_sư_Mục_Trần_2.json",
+    "chapter_name": "Chương 3637: Gia sư Mục Trần 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3637/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3638_Tiền_cược.json",
+    "chapter_name": "Chương 3638: Tiền cược",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3638/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3639_Tiếu_Ngạo_Hồng_Trần.json",
+    "chapter_name": "Chương 3639: Tiếu Ngạo Hồng Trần",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3639/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3640_Địch_tập_1.json",
+    "chapter_name": "Chương 3640: Địch tập 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3640/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3641_Địch_tập_2.json",
+    "chapter_name": "Chương 3641: Địch tập 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3641/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3642_Chế_địch.json",
+    "chapter_name": "Chương 3642: Chế địch",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3642/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3643_Lệnh_vương_khó_cãi.json",
+    "chapter_name": "Chương 3643: Lệnh vương khó cãi",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3643/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3644_Mấu_chốt_thắng_bại_1.json",
+    "chapter_name": "Chương 3644: Mấu chốt thắng bại 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3644/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3645_Mấu_chốt_thắng_bại_2.json",
+    "chapter_name": "Chương 3645: Mấu chốt thắng bại 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3645/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3646_Đối_chiến_Ma_tôn.json",
+    "chapter_name": "Chương 3646: Đối chiến Ma tôn",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3646/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3647_Một_chiêu_quyết_định.json",
+    "chapter_name": "Chương 3647: Một chiêu quyết định",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3647/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3648_Được_kính_1.json",
+    "chapter_name": "Chương 3648: Được kính 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3648/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3649_Được_kính_2.json",
+    "chapter_name": "Chương 3649: Được kính 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3649/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3650_Tây_bắc_chư_bộ.json",
+    "chapter_name": "Chương 3650: Tây bắc chư bộ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3650/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3651_Nặc_Á_chi_chu_tái_hiện_1.json",
+    "chapter_name": "Chương 3651: Nặc Á chi chu tái hiện 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3651/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3652_Nặc_Á_chi_chu_tái_hiện_2.json",
+    "chapter_name": "Chương 3652: Nặc Á chi chu tái hiện 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3652/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3653_Nâng_giá.json",
+    "chapter_name": "Chương 3653: Nâng giá",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3653/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3654_Diêu_Quang_điện.json",
+    "chapter_name": "Chương 3654: Diêu Quang điện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3654/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3655_Ma_Lâm_Ngọc_1.json",
+    "chapter_name": "Chương 3655: Ma Lâm Ngọc 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3655/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3656_Ma_Lâm_Ngọc_2.json",
+    "chapter_name": "Chương 3656: Ma Lâm Ngọc 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3656/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3657_Đất_Băng_Vực.json",
+    "chapter_name": "Chương 3657: Đất Băng Vực",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3657/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3658_Ai_giá_cao_thì_được.json",
+    "chapter_name": "Chương 3658: Ai giá cao thì được",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3658/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3659_Kinh_biến_1.json",
+    "chapter_name": "Chương 3659: Kinh biến 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3659/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3660_Kinh_biến_2.json",
+    "chapter_name": "Chương 3660: Kinh biến 2",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3660/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3661_Cướp_ma_đản.json",
+    "chapter_name": "Chương 3661: Cướp ma đản",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3661/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3662_Gặp_lại_Lỗ_Thông_Tử.json",
+    "chapter_name": "Chương 3662: Gặp lại Lỗ Thông Tử",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3662/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_3663_Chỉ_còn_một_cách_1.json",
+    "chapter_name": "Chương 3663: Chỉ còn một cách 1",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-3663/"
   }
 ]
