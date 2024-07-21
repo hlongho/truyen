@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -32,7 +33,8 @@ public class TruyenCrawler {
             File dsTruyenFile = new File("data/ds_truyen.json");
             if (dsTruyenFile.exists()) {
                 try (FileReader reader = new FileReader(dsTruyenFile)) {
-                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
+                    }.getType());
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -129,90 +131,35 @@ public class TruyenCrawler {
             storyData.put("url", url);
             storyData.put("success", "false"); // Thiết lập mặc định là false
 
-            boolean skipCrawl = false;
-            String lastChapterUrl = null;
+            List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle, storyData);
 
-            // Bước 1: Lấy trang cuối cùng từ phân trang
-            Element lastPageElement = doc.select("ul.pagination li a[title~=(?i)Cuối]").first();
-            if (lastPageElement != null) {
-                String lastPageUrl = lastPageElement.attr("href");
-                storyData.put("lastPageUrl", lastPageUrl);
-                doc = Jsoup.connect(lastPageUrl).get();
+            // Kiểm tra số chương mới được lưu
+            int newChapterCount = chapterContents.size();
+            storyData.put("new_chapter_count", String.valueOf(newChapterCount));
 
-                // Bước 2: Tìm số trang lớn nhất trong phần phân trang mới
-                Elements pageElements = doc.select("ul.pagination li a");
-                int maxPageNumber = 0;
-                for (Element pageElement : pageElements) {
-                    String pageTitle = pageElement.text();
-                    if (pageTitle.matches("\\d+")) {
-                        int pageNumber = Integer.parseInt(pageTitle);
-                        if (pageNumber > maxPageNumber) {
-                            maxPageNumber = pageNumber;
-                        }
-                    }
-                }
-
-                // Bước 3: Truy cập vào trang chứa số trang lớn nhất để tìm chương cuối cùng
-                String finalPageUrl = url + "trang-" + maxPageNumber + "/#list-chapter";
-                doc = Jsoup.connect(finalPageUrl).get();
-                Element lastChapterElement = doc.select(".list-chapter li:last-child a").first();
-
-                if (lastChapterElement != null) {
-                    lastChapterUrl = lastChapterElement.attr("href");
-                    storyData.put("lastChapterUrl", lastChapterUrl);
-                    Map<String, Object> lastChapterData = crawlChapter(lastChapterUrl);
-                    if (lastChapterData != null) {
-                        String lastChapterTitle = (String) lastChapterData.get("chapter_name");
-                        String sanitizedLastChapterTitle = lastChapterTitle.replaceAll("[^\\p{L}\\p{N}\\s]", "").replaceAll("\\s+", "_");
-                        String lastChapterFilePath = "data/" + sanitizedStoryTitle + "/" + sanitizedLastChapterTitle + ".json";
-                        storyData.put("lastChapterTitle", lastChapterTitle);
-                        // Nếu chương cuối đã tồn tại thì bỏ qua việc crawl chương
-                        File lastChapterFile = new File(lastChapterFilePath);
-                        if (lastChapterFile.exists()) {
-                            skipCrawl = true;
-                            storyData.put("new_chapter_count", "-1");
-                        }
-                    }
+            // Đọc dữ liệu cũ từ tệp chapter.json
+            List<Map<String, String>> existingChapters = new ArrayList<>();
+            String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
+            File chapterFile = new File(chapterFilePath);
+            if (chapterFile.exists()) {
+                try (FileReader reader = new FileReader(chapterFile)) {
+                    existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
+                    }.getType());
+                } catch (IOException e) {
+                    e.printStackTrace();
                 }
             }
 
-            if (!skipCrawl) {
-                List<Map<String, String>> chapterContents = crawlAndSaveChapters(doc, url, sanitizedStoryTitle, lastChapterUrl, storyData);
+            // Hợp nhất dữ liệu mới và cũ
+            existingChapters.addAll(chapterContents);
 
-                // Kiểm tra số chương mới được lưu
-                int newChapterCount = chapterContents.size();
-                storyData.put("new_chapter_count", String.valueOf(newChapterCount));
-
-                // Đọc dữ liệu cũ từ tệp chapter.json
-                List<Map<String, String>> existingChapters = new ArrayList<>();
-                String chapterFilePath = "data/" + sanitizedStoryTitle + "/chapter.json";
-                File chapterFile = new File(chapterFilePath);
-                if (chapterFile.exists()) {
-                    try (FileReader reader = new FileReader(chapterFile)) {
-                        existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-                }
-
-                // Hợp nhất dữ liệu mới và cũ
-                existingChapters.addAll(chapterContents);
-
-                // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
-                Gson gson = new GsonBuilder().setPrettyPrinting().create();
-                try (FileWriter writer = new FileWriter(chapterFilePath)) {
-                    gson.toJson(existingChapters, writer);
-                }
-
-                storyData.put("path", chapterFilePath);
-            } else {
-                storyData.put("path", "data/" + sanitizedStoryTitle + "/chapter.json");
+            // Lưu danh sách chương vào file chapter.json trong thư mục của truyện
+            Gson gson = new GsonBuilder().setPrettyPrinting().create();
+            try (FileWriter writer = new FileWriter(chapterFilePath)) {
+                gson.toJson(existingChapters, writer);
             }
 
-            // Nếu đã crawl chương cuối, cập nhật trạng thái "success" cho truyện
-            if (storyData.containsKey("lastChapterUrl") && storyData.get("lastChapterUrl").equals(lastChapterUrl)) {
-                storyData.put("success", "true");
-            }
+            storyData.put("path", chapterFilePath);
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -222,7 +169,7 @@ public class TruyenCrawler {
         return storyData;
     }
 
-    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName, String lastChapterUrl, Map<String, String> storyData) {
+    public static List<Map<String, String>> crawlAndSaveChapters(Document doc, String storyUrl, String storyFolderName, Map<String, String> storyData) {
         List<Map<String, String>> chapterContents = new ArrayList<>();
         String nextPageUrl = storyUrl;
         int chapterCount = 0;
@@ -234,7 +181,8 @@ public class TruyenCrawler {
         File chapterExistFile = new File(chapterFileExistPath);
         if (chapterExistFile.exists()) {
             try (FileReader reader = new FileReader(chapterFileExistPath)) {
-                existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
+                existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
+                }.getType());
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -245,8 +193,6 @@ public class TruyenCrawler {
         for (Map<String, String> existingChapter : existingChapters) {
             existingChapterUrls.put(existingChapter.get("url"), true);
         }
-
-        boolean storyCompleted = false;
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
@@ -284,11 +230,6 @@ public class TruyenCrawler {
                             }
                         }
                     }
-
-                    // Kiểm tra nếu đây là chương cuối cùng
-                    if (chapterUrl.equals(lastChapterUrl)) {
-                        storyCompleted = true;
-                    }
                 }
 
                 // Kiểm tra xem có trang tiếp theo không
@@ -297,7 +238,7 @@ public class TruyenCrawler {
                     nextPageUrl = nextPageElement.attr("abs:href"); // Sử dụng abs:href để lấy URL đầy đủ
 
                     // Kiểm tra xem URL có hợp lệ không
-                    if (!isValidUrl(nextPageUrl)) {
+                    if (!isValidUrl(nextPageUrl) && "Full".equals(storyData.get("status"))) {
                         nextPageUrl = null; // Nếu không hợp lệ, ngừng quá trình crawl
                         // Đã crawl đến chương cuối cùng
                         storyData.put("success", "true");
