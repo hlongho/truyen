@@ -238,10 +238,13 @@ public class TruyenCrawler {
                     nextPageUrl = nextPageElement.attr("abs:href"); // Sử dụng abs:href để lấy URL đầy đủ
 
                     // Kiểm tra xem URL có hợp lệ không
-                    if (!isValidUrl(nextPageUrl) && "Full".equals(storyData.get("status"))) {
+                    if (!isValidUrl(nextPageUrl)) {
                         nextPageUrl = null; // Nếu không hợp lệ, ngừng quá trình crawl
-                        // Đã crawl đến chương cuối cùng
-                        storyData.put("success", "true");
+                        if ("Full".equals(storyData.get("status"))) {
+                            // Đã crawl đến chương cuối cùng
+                            storyData.put("success", "true");
+                        }
+
                     }
                 } else {
                     nextPageUrl = null;
