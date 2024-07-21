@@ -1073,5 +1073,1005 @@
     "path": "data/Ngạo_Thế_Đan_Thần/Chương_215_Thái_cổ_Hỏa_thú.json",
     "chapter_name": "Chương 215: Thái cổ Hỏa thú",
     "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-215/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_216_Thiên_Dương_hỏa_hồn.json",
+    "chapter_name": "Chương 216: Thiên Dương hỏa hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-216/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_217_Chuyện_cũ_của_Hỏa_thú.json",
+    "chapter_name": "Chương 217: Chuyện cũ của Hỏa thú",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-217/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_218_Địa_Tâm_thần_quả.json",
+    "chapter_name": "Chương 218: Địa Tâm thần quả",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-218/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_219_Ngũ_hành_Huyền_Nguyên_đan_1.json",
+    "chapter_name": "Chương 219: Ngũ hành Huyền Nguyên đan (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-219/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_220_Ngũ_hành_Quy_Nguyên_đan_1.json",
+    "chapter_name": "Chương 220: Ngũ hành Quy Nguyên đan (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-220/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_221_Gió_nổi_mây_phun.json",
+    "chapter_name": "Chương 221: Gió nổi mây phun",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-221/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_222_Sát_khí.json",
+    "chapter_name": "Chương 222: Sát khí",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-222/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_223_Dã_tâm.json",
+    "chapter_name": "Chương 223: Dã tâm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-223/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_224_Tốc_độ_kinh_người.json",
+    "chapter_name": "Chương 224: Tốc độ kinh người",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-224/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_225_Nguy_cơ_Hỏa_Hồn_1.json",
+    "chapter_name": "Chương 225: Nguy cơ Hỏa Hồn (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-225/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_226_Nguy_cơ_Hỏa_Hồn_2.json",
+    "chapter_name": "Chương 226: Nguy cơ Hỏa Hồn (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-226/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_227_Hoàng_kim_long_tiên_thượng_.json",
+    "chapter_name": "Chương 227: Hoàng kim long tiên ( thượng )",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-227/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_228_Hoàng_kim_long_tiên_hạ_.json",
+    "chapter_name": "Chương 228: Hoàng kim long tiên ( hạ )",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-228/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_229_Đánh_cược_đầu_người.json",
+    "chapter_name": "Chương 229: Đánh cược đầu người",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-229/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_230_Tà_Long_vũ.json",
+    "chapter_name": "Chương 230: Tà Long vũ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-230/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_231_Giao_phong_1.json",
+    "chapter_name": "Chương 231: Giao phong (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-231/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_232_Giao_phong_2.json",
+    "chapter_name": "Chương 232: Giao phong (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-232/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_233_Lôi_Đình_trảm.json",
+    "chapter_name": "Chương 233: Lôi Đình trảm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-233/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_234_Thanh_danh_đại_chấn.json",
+    "chapter_name": "Chương 234: Thanh danh đại chấn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-234/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_235_Lòng_người_khó_lường.json",
+    "chapter_name": "Chương 235: Lòng người khó lường",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-235/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_236_Lợi_dụ.json",
+    "chapter_name": "Chương 236: Lợi dụ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-236/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_237_Tân_Thái_Vũ_môn.json",
+    "chapter_name": "Chương 237: Tân Thái Vũ môn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-237/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_238_Tới_Vũ_viện_mới.json",
+    "chapter_name": "Chương 238: Tới Vũ viện mới",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-238/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_239_Bí_mật_Lữ_gia.json",
+    "chapter_name": "Chương 239: Bí mật Lữ gia",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-239/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_240_Thần_Kiếm_châu.json",
+    "chapter_name": "Chương 240: Thần Kiếm châu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-240/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_241_Tương_kế_tựu_kế.json",
+    "chapter_name": "Chương 241: Tương kế tựu kế",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-241/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_242_Bất_ngờ_gặp_nhau.json",
+    "chapter_name": "Chương 242: Bất ngờ gặp nhau",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-242/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_243_Chính_tà_cấu_kết.json",
+    "chapter_name": "Chương 243: Chính tà cấu kết",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-243/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_244_Sóng_gió_lớn.json",
+    "chapter_name": "Chương 244: Sóng gió lớn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-244/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_245_Ma_Nỏ_uy.json",
+    "chapter_name": "Chương 245: Ma Nỏ uy",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-245/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_246_Huynh_muội_liên_thủ.json",
+    "chapter_name": "Chương 246: Huynh muội liên thủ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-246/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_247_Ngạo_Kiếm_tông.json",
+    "chapter_name": "Chương 247: Ngạo Kiếm tông",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-247/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_248_Bại_lộ_thân_phận.json",
+    "chapter_name": "Chương 248: Bại lộ thân phận",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-248/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_249_Đả_bại.json",
+    "chapter_name": "Chương 249: Đả bại",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-249/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_250_Bạch_Long_huyết.json",
+    "chapter_name": "Chương 250: Bạch Long huyết",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-250/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_251_Đế_Vương_tinh.json",
+    "chapter_name": "Chương 251: Đế Vương tinh",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-251/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_252_Song_trọng_thân_phận.json",
+    "chapter_name": "Chương 252: Song trọng thân phận",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-252/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_253_Thần_Binh_môn_cùng_Băng_Phong_cốc.json",
+    "chapter_name": "Chương 253: Thần Binh môn cùng Băng Phong cốc",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-253/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_254_Vong_ân_phụ_nghĩa.json",
+    "chapter_name": "Chương 254: Vong ân phụ nghĩa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-254/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_255_Vong_ân_phụ_nghĩa_2.json",
+    "chapter_name": "Chương 255: Vong ân phụ nghĩa (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-255/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_256_Tiền_trảm_hậu_tấu.json",
+    "chapter_name": "Chương 256: Tiền trảm hậu tấu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-256/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_257_Bốn_môn_ma_công.json",
+    "chapter_name": "Chương 257: Bốn môn ma công",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-257/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_258_Dược_Vương_sơn.json",
+    "chapter_name": "Chương 258: Dược Vương sơn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-258/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_259_Tẩy_kiếp_nhất_không.json",
+    "chapter_name": "Chương 259: Tẩy kiếp nhất không",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-259/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_260_Huyền_Cảnh_đệ_nhất_thiên_hạ_1.json",
+    "chapter_name": "Chương 260: Huyền Cảnh đệ nhất thiên hạ (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-260/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_261_Huyền_Cảnh_đệ_nhất_thiên_hạ_2.json",
+    "chapter_name": "Chương 261: Huyền Cảnh đệ nhất thiên hạ (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-261/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_262_Nguyên_Thần_đan.json",
+    "chapter_name": "Chương 262: Nguyên Thần đan",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-262/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_263_Không_thể_thua.json",
+    "chapter_name": "Chương 263: Không thể thua",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-263/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_264_Nguyện_đánh_cược_chịu_thua.json",
+    "chapter_name": "Chương 264: Nguyện đánh cược chịu thua",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-264/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_265_Ứng_cử_viên.json",
+    "chapter_name": "Chương 265: Ứng cử viên",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-265/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_266_Mua_chuộc_lòng_người.json",
+    "chapter_name": "Chương 266: Mua chuộc lòng người",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-266/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_267_Mua_chuộc_lòng_người_2.json",
+    "chapter_name": "Chương 267: Mua chuộc lòng người (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-267/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_268_Thần_đạo.json",
+    "chapter_name": "Chương 268: Thần đạo",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-268/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_269_Âm_mưu_của_Ma_đạo.json",
+    "chapter_name": "Chương 269: Âm mưu của Ma đạo",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-269/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_270_Biến_hóa_chi_thuật.json",
+    "chapter_name": "Chương 270: Biến hóa chi thuật",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-270/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_271_Thiên_long_pháp_ấn.json",
+    "chapter_name": "Chương 271: Thiên long pháp ấn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-271/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_272_Hãnh_diện.json",
+    "chapter_name": "Chương 272: Hãnh diện",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-272/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_273_Hỏa_Hồn_dung_hợp.json",
+    "chapter_name": "Chương 273: Hỏa Hồn dung hợp",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-273/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_274_Hỏa_Hồn_dung_hợp_2.json",
+    "chapter_name": "Chương 274: Hỏa Hồn dung hợp (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-274/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_275_Tụ_hội.json",
+    "chapter_name": "Chương 275: Tụ hội",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-275/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_276_Một_người_một_ngựa.json",
+    "chapter_name": "Chương 276: Một người một ngựa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-276/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_277_Con_rối.json",
+    "chapter_name": "Chương 277: Con rối",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-277/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_278_Nhân_Ma.json",
+    "chapter_name": "Chương 278: Nhân Ma",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-278/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_279_Nhân_Ma_2.json",
+    "chapter_name": "Chương 279: Nhân Ma (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-279/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_280_Ma_chưởng_uy.json",
+    "chapter_name": "Chương 280: Ma chưởng uy",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-280/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_281_Hiểm_địa_gặp_nhau.json",
+    "chapter_name": "Chương 281: Hiểm địa gặp nhau",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-281/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_282_Hoang_địa_phản_kích_thượng_.json",
+    "chapter_name": "Chương 282: Hoang địa phản kích ( thượng )",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-282/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_283_Hoang_địa_phản_kích_trung_.json",
+    "chapter_name": "Chương 283: Hoang địa phản kích ( trung )",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-283/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_284_Hoang_địa_phản_kích_hạ_.json",
+    "chapter_name": "Chương 284: Hoang địa phản kích ( hạ )",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-284/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_285_Ma_Thú_tập_kích.json",
+    "chapter_name": "Chương 285: Ma Thú tập kích",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-285/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_286_Trở_mặt_không_quen_biết.json",
+    "chapter_name": "Chương 286: Trở mặt không quen biết",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-286/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_287_Đại_thôn_phệ.json",
+    "chapter_name": "Chương 287: Đại thôn phệ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-287/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_288_Cửu_Chuyển_Long_Thần_quyết.json",
+    "chapter_name": "Chương 288: Cửu Chuyển Long Thần quyết",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-288/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_289_Hồng_Lang.json",
+    "chapter_name": "Chương 289: Hồng Lang",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-289/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_290_Vệ_Hồng_Đao.json",
+    "chapter_name": "Chương 290: Vệ Hồng Đao",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-290/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_291_Rốt_cục_hội_hợp.json",
+    "chapter_name": "Chương 291: Rốt cục hội hợp",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-291/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_292_Đồng_tâm_hiệp_lực.json",
+    "chapter_name": "Chương 292: Đồng tâm hiệp lực",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-292/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_293_Huyền_Hỏa_Linh_Lung_tháp.json",
+    "chapter_name": "Chương 293: Huyền Hỏa Linh Lung tháp",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-293/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_294_Nguy_cơ_càng_to_lớn_hơn.json",
+    "chapter_name": "Chương 294: Nguy cơ càng to lớn hơn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-294/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_295_Tế_ti.json",
+    "chapter_name": "Chương 295: Tế ti",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-295/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_296_Ngăn_cản_nguy_hiểm.json",
+    "chapter_name": "Chương 296: Ngăn cản nguy hiểm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-296/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_297_Thấu_Tâm_ma_nhãn.json",
+    "chapter_name": "Chương 297: Thấu Tâm ma nhãn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-297/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_298_Ma_Hồn.json",
+    "chapter_name": "Chương 298: Ma Hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-298/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_299_Hủy_diệt_tế_đàn.json",
+    "chapter_name": "Chương 299: Hủy diệt tế đàn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-299/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_300_Ma_thần_lệnh.json",
+    "chapter_name": "Chương 300: Ma thần lệnh",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-300/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_301_Ma_Thần_lệnh_2.json",
+    "chapter_name": "Chương 301: Ma Thần lệnh (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-301/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_302_Ma_thú_cường_đại.json",
+    "chapter_name": "Chương 302: Ma thú cường đại",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-302/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_303_Kinh_tâm_trảm.json",
+    "chapter_name": "Chương 303: Kinh tâm trảm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-303/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_304_Ma_Thú_tập_kích.json",
+    "chapter_name": "Chương 304: Ma Thú tập kích",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-304/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_305_Thắng_bại_đã_định.json",
+    "chapter_name": "Chương 305: Thắng bại đã định",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-305/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_306_Hủy_Diệt_Kim_Thân_1.json",
+    "chapter_name": "Chương 306: Hủy Diệt Kim Thân (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-306/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_307_Hủy_Diệt_Kim_Thân_2.json",
+    "chapter_name": "Chương 307: Hủy Diệt Kim Thân (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-307/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_308_Cự_đầu_khen_thưởng.json",
+    "chapter_name": "Chương 308: Cự đầu khen thưởng",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-308/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_309_Bạch_Ngọc_Liên_Tử.json",
+    "chapter_name": "Chương 309: Bạch Ngọc Liên Tử",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-309/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_310_Thiên_tài_mất_tích.json",
+    "chapter_name": "Chương 310: Thiên tài mất tích",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-310/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_311_Quỷ_vũ.json",
+    "chapter_name": "Chương 311: Quỷ vũ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-311/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_312_Huyền_Vũ_Cường_Thân_thuật.json",
+    "chapter_name": "Chương 312: Huyền Vũ Cường Thân thuật",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-312/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_313_Luyện_thân.json",
+    "chapter_name": "Chương 313: Luyện thân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-313/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_314_Ghen.json",
+    "chapter_name": "Chương 314: Ghen",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-314/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_315_Bạch_Ngọc_Long_đỉnh.json",
+    "chapter_name": "Chương 315: Bạch Ngọc Long đỉnh",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-315/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_316_Tiên_Ma_thể_ngũ_đoạn.json",
+    "chapter_name": "Chương 316: Tiên Ma thể ngũ đoạn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-316/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_317_Tiến_bộ_kinh_người.json",
+    "chapter_name": "Chương 317: Tiến bộ kinh người",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-317/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_318_Bạo_ngược.json",
+    "chapter_name": "Chương 318: Bạo ngược",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-318/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_319_Đào_Nguyên_thịnh_hội.json",
+    "chapter_name": "Chương 319: Đào Nguyên thịnh hội",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-319/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_320_Hỏa_Hồn_tái_hiện.json",
+    "chapter_name": "Chương 320: Hỏa Hồn tái hiện",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-320/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_321_Thống_khổ_1.json",
+    "chapter_name": "Chương 321: Thống khổ (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-321/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_322_Thống_khổ_2.json",
+    "chapter_name": "Chương 322: Thống khổ (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-322/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_323_Kích_hôn.json",
+    "chapter_name": "Chương 323: Kích hôn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-323/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_324_Đầu_mối_Thần_binh.json",
+    "chapter_name": "Chương 324: Đầu mối Thần binh",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-324/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_325_Thi_đấu_cao_cấp_1.json",
+    "chapter_name": "Chương 325: Thi đấu cao cấp (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-325/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_326_Thi_đấu_cao_cấp_2.json",
+    "chapter_name": "Chương 326: Thi đấu cao cấp (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-326/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_327_Bách_thú_đan.json",
+    "chapter_name": "Chương 327: Bách thú đan",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-327/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_328_Lục_địa_biến_mất.json",
+    "chapter_name": "Chương 328: Lục địa biến mất",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-328/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_329_Tỉnh_lại_đi.json",
+    "chapter_name": "Chương 329: Tỉnh lại đi",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-329/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_330_Bách_Thú_đan_1.json",
+    "chapter_name": "Chương 330: Bách Thú đan (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-330/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_331_Bách_Thú_đan_2.json",
+    "chapter_name": "Chương 331: Bách Thú đan (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-331/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_332_Bộ_thú.json",
+    "chapter_name": "Chương 332: Bộ thú",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-332/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_333_Bạch_Hổ_bộ_tộc_1.json",
+    "chapter_name": "Chương 333: Bạch Hổ bộ tộc (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-333/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_334_Bạch_Hổ_bộ_tộc_2.json",
+    "chapter_name": "Chương 334: Bạch Hổ bộ tộc (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-334/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_335_Hổ_quyền_đánh_hổ.json",
+    "chapter_name": "Chương 335: Hổ quyền đánh hổ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-335/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_336_Thu_phục.json",
+    "chapter_name": "Chương 336: Thu phục",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-336/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_337_Khảo_hạch_năm_đoạn_1.json",
+    "chapter_name": "Chương 337: Khảo hạch năm đoạn (1)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-337/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_338_Khảo_hạch_năm_đoạn_2.json",
+    "chapter_name": "Chương 338: Khảo hạch năm đoạn (2)",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-338/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_339_Dụng_tâm_đi_luyện.json",
+    "chapter_name": "Chương 339: Dụng tâm đi luyện",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-339/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_340_Bach_Trân_trân.json",
+    "chapter_name": "Chương 340: Bach Trân trân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-340/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_341_Thành_công.json",
+    "chapter_name": "Chương 341: Thành công",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-341/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_342_Ngũ_đoạn_luyện_đan_sư.json",
+    "chapter_name": "Chương 342: Ngũ đoạn luyện đan sư",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-342/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_343_Nhạc_Giang_Lâm.json",
+    "chapter_name": "Chương 343: Nhạc Giang Lâm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-343/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_344_Hỏa_vũ_hồn.json",
+    "chapter_name": "Chương 344: Hỏa vũ hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-344/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_345_Keo_kiệt_chưởng_giáo.json",
+    "chapter_name": "Chương 345: Keo kiệt chưởng giáo",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-345/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_346_Trò_hay_trình_diễn.json",
+    "chapter_name": "Chương 346: Trò hay trình diễn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-346/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_347_Đại_kiếm.json",
+    "chapter_name": "Chương 347: Đại kiếm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-347/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_348_Tranh_đoạt_hỏa_vũ_hồn.json",
+    "chapter_name": "Chương 348: Tranh đoạt hỏa vũ hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-348/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_349_Hoàn_hồn_thảo.json",
+    "chapter_name": "Chương 349: Hoàn hồn thảo",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-349/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_350_Long_Hồn.json",
+    "chapter_name": "Chương 350: Long Hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-350/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_351_Long_Hồn.json",
+    "chapter_name": "Chương 351: Long Hồn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-351/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_352_Hoàn_chỉnh_thần_đao.json",
+    "chapter_name": "Chương 352: Hoàn chỉnh thần đao",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-352/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_353_Liên_Dĩnh_Tiêu.json",
+    "chapter_name": "Chương 353: Liên Dĩnh Tiêu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-353/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_354_Hỏa_Long_Tuyết_Liên.json",
+    "chapter_name": "Chương 354: Hỏa Long Tuyết Liên",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-354/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_355_Kinh_nhân_đích_nhục_thân.json",
+    "chapter_name": "Chương 355: Kinh nhân đích nhục thân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-355/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_356_Vạn_năm_linh_nhũ.json",
+    "chapter_name": "Chương 356: Vạn năm linh nhũ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-356/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_357_Tái_hỏa.json",
+    "chapter_name": "Chương 357: Tái hỏa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-357/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_358_Hoàn_mỹ_thông_quan.json",
+    "chapter_name": "Chương 358: Hoàn mỹ thông quan",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-358/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_359_Vòng_thứ_hai.json",
+    "chapter_name": "Chương 359: Vòng thứ hai",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-359/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_360_Tuyệt_thế_kỳ_tài.json",
+    "chapter_name": "Chương 360: Tuyệt thế kỳ tài",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-360/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_361_Không_may.json",
+    "chapter_name": "Chương 361: Không may",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-361/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_362_Sáng_tạo_kỳ_tích.json",
+    "chapter_name": "Chương 362: Sáng tạo kỳ tích",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-362/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_363_Phải_thua_sao.json",
+    "chapter_name": "Chương 363: Phải thua sao?",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-363/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_364_Huyễn_Pháp_Bảo_Lô.json",
+    "chapter_name": "Chương 364: Huyễn Pháp Bảo Lô",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-364/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_365_Kỹ_thuật_như_thần.json",
+    "chapter_name": "Chương 365: Kỹ thuật như thần",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-365/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_366_Diễn_luyện_pháp.json",
+    "chapter_name": "Chương 366: Diễn luyện pháp",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-366/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_367_Xuất_hiện_học_xuất_hiện_dùng.json",
+    "chapter_name": "Chương 367: Xuất hiện học xuất hiện dùng",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-367/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_368_Tiến_thêm_một_bước.json",
+    "chapter_name": "Chương 368: Tiến thêm một bước",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-368/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_369_Tiềm_lực.json",
+    "chapter_name": "Chương 369: Tiềm lực",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-369/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_370_Khiêu_chiến_cực_hạn.json",
+    "chapter_name": "Chương 370: Khiêu chiến cực hạn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-370/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_371_Pháp_lực_diệu_dụng.json",
+    "chapter_name": "Chương 371: Pháp lực diệu dụng",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-371/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_372_Tiếu_Tử_Lương.json",
+    "chapter_name": "Chương 372: Tiếu Tử Lương",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-372/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_373_Bễ_nghễ_thiên_hạ.json",
+    "chapter_name": "Chương 373: Bễ nghễ thiên hạ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-373/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_374_Đan_Hương_chưởng_giáo.json",
+    "chapter_name": "Chương 374: Đan Hương chưởng giáo",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-374/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_375_Kim_Sao_kiếm_khách.json",
+    "chapter_name": "Chương 375: Kim Sao kiếm khách",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-375/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_376_Hạ_thủ_lưu_tình.json",
+    "chapter_name": "Chương 376: Hạ thủ lưu tình",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-376/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_377_Mỹ_nhân_kế.json",
+    "chapter_name": "Chương 377: Mỹ nhân kế",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-377/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_378_Không_lưu_tình.json",
+    "chapter_name": "Chương 378: Không lưu tình",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-378/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_379_Đại_Lực_tộc.json",
+    "chapter_name": "Chương 379: Đại Lực tộc",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-379/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_380_Đại_Lực_tộc_2.json",
+    "chapter_name": "Chương 380: Đại Lực tộc 2",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-380/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_381_Kình_địch.json",
+    "chapter_name": "Chương 381: Kình địch",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-381/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_382_Băng_phách_ma_cương.json",
+    "chapter_name": "Chương 382: Băng phách ma cương",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-382/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_383_Long_Nữ_hiển_uy.json",
+    "chapter_name": "Chương 383: Long Nữ hiển uy",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-383/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_384_Long_nộ_chi_phạt.json",
+    "chapter_name": "Chương 384: Long nộ chi phạt",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-384/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_385_Vạn_năm_linh_nhũ.json",
+    "chapter_name": "Chương 385: Vạn năm linh nhũ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-385/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_386_Lại_vào_cấm_địa.json",
+    "chapter_name": "Chương 386: Lại vào cấm địa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-386/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_387_Biết_trước.json",
+    "chapter_name": "Chương 387: Biết trước",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-387/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_388_Trấn_Ma_thần_công.json",
+    "chapter_name": "Chương 388: Trấn Ma thần công",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-388/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_389_Mươi_van_Ma_sơn.json",
+    "chapter_name": "Chương 389: Mười vạn Ma sơn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-389/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_390_Niết_Bàn_có_hi_vọng.json",
+    "chapter_name": "Chương 390: Niết Bàn có hi vọng",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-390/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_391_Kiếp_nạn_chi_khẩu.json",
+    "chapter_name": "Chương 391: Kiếp nạn chi khẩu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-391/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_392_Mới_vào_Ma_sơn.json",
+    "chapter_name": "Chương 392: Mới vào Ma sơn",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-392/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_393_Yêu_ma_đại_quân.json",
+    "chapter_name": "Chương 393: Yêu ma đại quân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-393/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_394_Song_đầu_xà_yêu.json",
+    "chapter_name": "Chương 394: Song đầu xà yêu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-394/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_395_Trấn_ma_kim_thân.json",
+    "chapter_name": "Chương 395: Trấn ma kim thân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-395/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_396_Bò_cạp_như_thế_nữ_nhân.json",
+    "chapter_name": "Chương 396: Bò cạp như thế nữ nhân",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-396/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_397_Ma_Hạt_công_chua.json",
+    "chapter_name": "Chương 397: Ma Hạt công chúa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-397/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_398_Bách_độc_bất_xâm.json",
+    "chapter_name": "Chương 398: Bách độc bất xâm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-398/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_399_Hiếm_thấy_nụ_cười.json",
+    "chapter_name": "Chương 399: Hiếm thấy nụ cười",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-399/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_400_Manh_nhât_hội_tụ.json",
+    "chapter_name": "Chương 400: Mạnh nhất hội tụ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-400/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_401_Tiểu_tụ.json",
+    "chapter_name": "Chương 401: Tiểu tụ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-401/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_402_Được_mùa.json",
+    "chapter_name": "Chương 402: Được mùa",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-402/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_403_Bế_quan_luyện_đan.json",
+    "chapter_name": "Chương 403: Bế quan luyện đan",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-403/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_404_Bế_quan_luyện_đan_2.json",
+    "chapter_name": "Chương 404: Bế quan luyện đan 2",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-404/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_405_Chiến_thư.json",
+    "chapter_name": "Chương 405: Chiến thư",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-405/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_406_Long_lực.json",
+    "chapter_name": "Chương 406: Long lực",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-406/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_407_Tái_chiến_Tiêu_Cừu.json",
+    "chapter_name": "Chương 407: Tái chiến Tiêu Cừu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-407/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_408_Tái_chiến_Tiêu_Cừu.json",
+    "chapter_name": "Chương 408: Tái chiến Tiêu Cừu",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-408/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_409_Lực_lượng_thức_tỉnh.json",
+    "chapter_name": "Chương 409: Lực lượng thức tỉnh",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-409/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_410_Môt_đon_sâm_set.json",
+    "chapter_name": "Chương 410: Một đòn sấm sét",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-410/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_411_Hoà_đàm.json",
+    "chapter_name": "Chương 411: Hoà đàm",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-411/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_412_Cô_lập.json",
+    "chapter_name": "Chương 412: Cô lập",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-412/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_413_Võ_đạo_tinh_thần.json",
+    "chapter_name": "Chương 413: Võ đạo tinh thần",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-413/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_414_Chúng_nộ.json",
+    "chapter_name": "Chương 414: Chúng nộ",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-414/"
+  },
+  {
+    "path": "data/Ngạo_Thế_Đan_Thần/Chương_415_Thầy_trò_hợp_lực.json",
+    "chapter_name": "Chương 415: Thầy trò hợp lực",
+    "url": "https://truyenfull.vn/ngao-the-dan-than/chuong-415/"
   }
 ]
