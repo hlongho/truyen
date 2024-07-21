@@ -10073,5 +10073,1005 @@
     "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2014_Ta_không_hiểu.json",
     "chapter_name": "Chương 2014: Ta không hiểu",
     "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2014/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2015_Sơn_vũ_dục_lai_1.json",
+    "chapter_name": "Chương 2015: Sơn vũ dục lai (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2015/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2016_Sơn_vũ_dục_lai_2.json",
+    "chapter_name": "Chương 2016: Sơn vũ dục lai (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2016/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2017_Bắc_hải_vương_tử_1.json",
+    "chapter_name": "Chương 2017: Bắc hải vương tử (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2017/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2018_Bắc_hải_vương_tử_2.json",
+    "chapter_name": "Chương 2018: Bắc hải vương tử (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2018/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2019_Nguyệt_chi_vũ_bộ_1.json",
+    "chapter_name": "Chương 2019: Nguyệt chi vũ bộ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2019/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2020_Nguyệt_chi_vũ_bộ_2.json",
+    "chapter_name": "Chương 2020: Nguyệt chi vũ bộ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2020/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2021_Phấn_sắc_tinh_trần.json",
+    "chapter_name": "Chương 2021: Phấn sắc tinh trần",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2021/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2022_Tức_giận_1.json",
+    "chapter_name": "Chương 2022: Tức giận (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2022/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2023_Tức_giận_2.json",
+    "chapter_name": "Chương 2023: Tức giận (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2023/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2024_Phong_Viễn_tiên_sinh_1.json",
+    "chapter_name": "Chương 2024: Phong Viễn tiên sinh (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2024/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2025_Phong_Viễn_tiên_sinh_2.json",
+    "chapter_name": "Chương 2025: Phong Viễn tiên sinh (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2025/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2026_Đô_thiên_tỏa_nguyên_đại_trận.json",
+    "chapter_name": "Chương 2026: Đô thiên tỏa nguyên đại trận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2026/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2027_Quần_hào_tụ_1.json",
+    "chapter_name": "Chương 2027: Quần hào tụ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2027/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2028_Quần_hào_tụ_2.json",
+    "chapter_name": "Chương 2028: Quần hào tụ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2028/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2029_Miệng_pháo_1.json",
+    "chapter_name": "Chương 2029: Miệng pháo (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2029/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2030_Miệng_pháo_2.json",
+    "chapter_name": "Chương 2030: Miệng pháo (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2030/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2031_Chứng_cứ_1.json",
+    "chapter_name": "Chương 2031: Chứng cứ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2031/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2032_Chứng_cứ_2.json",
+    "chapter_name": "Chương 2032: Chứng cứ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2032/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2033_Thương_nghị.json",
+    "chapter_name": "Chương 2033: Thương nghị",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2033/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2034_Mở_ra_võ_quyết_1.json",
+    "chapter_name": "Chương 2034: Mở ra võ quyết (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2034/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2035_Mở_ra_võ_quyết_2.json",
+    "chapter_name": "Chương 2035: Mở ra võ quyết (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2035/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2036_Thiên_không_nguyên_khí_tỏa_1.json",
+    "chapter_name": "Chương 2036: Thiên không nguyên khí tỏa (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2036/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2037_Thiên_không_nguyên_khí_tỏa_2.json",
+    "chapter_name": "Chương 2037: Thiên không nguyên khí tỏa (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2037/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2038_Ai_thắng_1.json",
+    "chapter_name": "Chương 2038: Ai thắng? (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2038/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2039_Ai_thắng_2.json",
+    "chapter_name": "Chương 2039: Ai thắng? (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2039/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2040_Thân_bất_tử.json",
+    "chapter_name": "Chương 2040: Thân bất tử",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2040/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2041_Kinh_biến_1.json",
+    "chapter_name": "Chương 2041: Kinh biến (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2041/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2042_Kinh_biến_2.json",
+    "chapter_name": "Chương 2042: Kinh biến (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2042/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2043_Thiết_khấu_tử_1.json",
+    "chapter_name": "Chương 2043: Thiết khấu tử (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2043/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2044_Thiết_khấu_tử_2.json",
+    "chapter_name": "Chương 2044: Thiết khấu tử (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2044/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2045_Phá_trận.json",
+    "chapter_name": "Chương 2045: Phá trận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2045/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2046_Đánh_lén_1.json",
+    "chapter_name": "Chương 2046: Đánh lén (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2046/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2047_Đánh_lén_2.json",
+    "chapter_name": "Chương 2047: Đánh lén (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2047/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2048_Chọc_giận_1.json",
+    "chapter_name": "Chương 2048: Chọc giận (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2048/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2049_Chọc_giận_2.json",
+    "chapter_name": "Chương 2049: Chọc giận (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2049/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2050_Lôi_giới.json",
+    "chapter_name": "Chương 2050: Lôi giới",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2050/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2051_Không_thú_1.json",
+    "chapter_name": "Chương 2051: Không thú (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2051/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2052_Không_thú_2.json",
+    "chapter_name": "Chương 2052: Không thú (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2052/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2053_Phân_phối.json",
+    "chapter_name": "Chương 2053: Phân phối",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2053/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2054_Thân_thể_cường_hoành_1.json",
+    "chapter_name": "Chương 2054: Thân thể cường hoành (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2054/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2055_Thân_thể_cường_hoành_2.json",
+    "chapter_name": "Chương 2055: Thân thể cường hoành (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2055/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2056_Công_trận_1.json",
+    "chapter_name": "Chương 2056: Công trận (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2056/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2057_Công_trận_2.json",
+    "chapter_name": "Chương 2057: Công trận (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2057/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2058_Tuyệt_thế_ất_mộc.json",
+    "chapter_name": "Chương 2058: Tuyệt thế ất mộc",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2058/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2059_Diệt_thế_thần_lôi_1.json",
+    "chapter_name": "Chương 2059: Diệt thế thần lôi (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2059/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2060_Diệt_thế_thần_lôi_2.json",
+    "chapter_name": "Chương 2060: Diệt thế thần lôi (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2060/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2061_Nhân_tình_1.json",
+    "chapter_name": "Chương 2061: Nhân tình (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2061/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2062_Nhân_tình_2.json",
+    "chapter_name": "Chương 2062: Nhân tình (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2062/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2063_Thiên_kiếp_chi_uy_1.json",
+    "chapter_name": "Chương 2063: Thiên kiếp chi uy (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2063/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2064_Thiên_kiếp_chi_uy_2.json",
+    "chapter_name": "Chương 2064: Thiên kiếp chi uy (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2064/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2065_Trở_về_thành.json",
+    "chapter_name": "Chương 2065: Trở về thành",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2065/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2066_Ăn_uống_thả_cửa_1.json",
+    "chapter_name": "Chương 2066: Ăn uống thả cửa (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2066/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2067_Ăn_uống_thả_cửa_2.json",
+    "chapter_name": "Chương 2067: Ăn uống thả cửa (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2067/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2068_Kết_giao_1.json",
+    "chapter_name": "Chương 2068: Kết giao (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2068/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2069_Kết_giao_2.json",
+    "chapter_name": "Chương 2069: Kết giao (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2069/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2070_Chịu_chết.json",
+    "chapter_name": "Chương 2070: Chịu chết",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2070/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2071_Tân_duyên_thành_1.json",
+    "chapter_name": "Chương 2071: Tân duyên thành (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2071/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2072_Tân_duyên_thành_2.json",
+    "chapter_name": "Chương 2072: Tân duyên thành (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2072/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2073_Tinh_nguyệt_trai_1.json",
+    "chapter_name": "Chương 2073: Tinh nguyệt trai (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2073/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2074_Tinh_nguyệt_trai_2.json",
+    "chapter_name": "Chương 2074: Tinh nguyệt trai (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2074/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2075_Ba_vấn_đề.json",
+    "chapter_name": "Chương 2075: Ba vấn đề",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2075/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2076_Tu_luyện_thánh_địa_1.json",
+    "chapter_name": "Chương 2076: Tu luyện thánh địa (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2076/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2077_Tu_luyện_thánh_địa_2.json",
+    "chapter_name": "Chương 2077: Tu luyện thánh địa (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2077/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2078_Mấu_chốt_thành_Thần_1.json",
+    "chapter_name": "Chương 2078: Mấu chốt thành Thần (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2078/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2079_Mấu_chốt_thành_Thần_2.json",
+    "chapter_name": "Chương 2079: Mấu chốt thành Thần (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2079/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2080_Khí_tức_kinh_khủng.json",
+    "chapter_name": "Chương 2080: Khí tức kinh khủng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2080/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2081_Chu_sở_1.json",
+    "chapter_name": "Chương 2081: Chu sở (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2081/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2082_Chu_sở_2.json",
+    "chapter_name": "Chương 2082: Chu sở (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2082/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2083_Đại_nhân_vật_1.json",
+    "chapter_name": "Chương 2083: Đại nhân vật (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2083/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2084_Đại_nhân_vật_2.json",
+    "chapter_name": "Chương 2084: Đại nhân vật (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2084/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2085_Tên_xui_xẻo.json",
+    "chapter_name": "Chương 2085: Tên xui xẻo",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2085/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2086_Mặt_mũi_1.json",
+    "chapter_name": "Chương 2086: Mặt mũi (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2086/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2087_Mặt_mũi_2.json",
+    "chapter_name": "Chương 2087: Mặt mũi (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2087/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2088_Thổ_lộ_1.json",
+    "chapter_name": "Chương 2088: Thổ lộ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2088/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2089_Thổ_lộ_2.json",
+    "chapter_name": "Chương 2089: Thổ lộ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2089/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2090_Tử_diễm_các.json",
+    "chapter_name": "Chương 2090: Tử diễm các",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2090/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2091_Kim_Linh_chi_khí_1.json",
+    "chapter_name": "Chương 2091: Kim Linh chi khí (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2091/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2092_Kim_Linh_chi_khí_2.json",
+    "chapter_name": "Chương 2092: Kim Linh chi khí (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2092/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2093_Hóa_điệp_1.json",
+    "chapter_name": "Chương 2093: Hóa điệp (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2093/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2094_Hóa_điệp_2.json",
+    "chapter_name": "Chương 2094: Hóa điệp (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2094/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2095_Giao_dịch.json",
+    "chapter_name": "Chương 2095: Giao dịch",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2095/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2096_Đều_có_tâm_tư_1.json",
+    "chapter_name": "Chương 2096: Đều có tâm tư (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2096/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2097_Đều_có_tâm_tư_2.json",
+    "chapter_name": "Chương 2097: Đều có tâm tư (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2097/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2098_Kim_sắc_khôi_lỗi_1.json",
+    "chapter_name": "Chương 2098: Kim sắc khôi lỗi (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2098/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2099_Kim_sắc_khôi_lỗi_2.json",
+    "chapter_name": "Chương 2099: Kim sắc khôi lỗi (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2099/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2100_Tuyền_tiên_sinh.json",
+    "chapter_name": "Chương 2100: Tuyền tiên sinh",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2100/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2101_Như_thế_có_nguyên_tắc_1.json",
+    "chapter_name": "Chương 2101: Như thế có nguyên tắc (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2101/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2102_Như_thế_có_nguyên_tắc_2.json",
+    "chapter_name": "Chương 2102: Như thế có nguyên tắc (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2102/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2103_Thiên_phượng_niết_thể_1.json",
+    "chapter_name": "Chương 2103: Thiên phượng niết thể (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2103/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2104_Thiên_phượng_niết_thể_2.json",
+    "chapter_name": "Chương 2104: Thiên phượng niết thể (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2104/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2105_Lục_đinh_lục_giáp.json",
+    "chapter_name": "Chương 2105: Lục đinh lục giáp",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2105/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2106_Uy_hiếp_1.json",
+    "chapter_name": "Chương 2106: Uy hiếp (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2106/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2107_Uy_hiếp_2.json",
+    "chapter_name": "Chương 2107: Uy hiếp (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2107/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2108_Vô_lại_1.json",
+    "chapter_name": "Chương 2108: Vô lại (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2108/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2109_Vô_lại_2.json",
+    "chapter_name": "Chương 2109: Vô lại (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2109/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2110_Đấu_giá_hội.json",
+    "chapter_name": "Chương 2110: Đấu giá hội",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2110/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2111_Một_ngày_nào_đó_sẽ_gặp_phải_1.json",
+    "chapter_name": "Chương 2111: Một ngày nào đó sẽ gặp phải (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2111/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2112_Một_ngày_nào_đó_sẽ_gặp_phải_2.json",
+    "chapter_name": "Chương 2112: Một ngày nào đó sẽ gặp phải (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2112/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2113_Nguyên_tố_ngũ_hành_kỳ_1.json",
+    "chapter_name": "Chương 2113: Nguyên tố ngũ hành kỳ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2113/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2114_Nguyên_tố_ngũ_hành_kỳ_2.json",
+    "chapter_name": "Chương 2114: Nguyên tố ngũ hành kỳ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2114/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2115_Nâng_giá.json",
+    "chapter_name": "Chương 2115: Nâng giá",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2115/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2116_Gặp_mặt_1.json",
+    "chapter_name": "Chương 2116: Gặp mặt (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2116/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2117_Gặp_mặt_2.json",
+    "chapter_name": "Chương 2117: Gặp mặt (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2117/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2118_Giải_tỏa_nghi_vấn_1.json",
+    "chapter_name": "Chương 2118: Giải tỏa nghi vấn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2118/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2119_Giải_tỏa_nghi_vấn_2.json",
+    "chapter_name": "Chương 2119: Giải tỏa nghi vấn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2119/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2120_Phát_hiện.json",
+    "chapter_name": "Chương 2120: Phát hiện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2120/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2121_Thăm_dò_1.json",
+    "chapter_name": "Chương 2121: Thăm dò (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2121/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2122_Thăm_dò_2.json",
+    "chapter_name": "Chương 2122: Thăm dò (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2122/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2123_Vật_áp_trục_1.json",
+    "chapter_name": "Chương 2123: Vật áp trục (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2123/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2124_Vật_áp_trục_2.json",
+    "chapter_name": "Chương 2124: Vật áp trục (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2124/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2125_Linh_thảo_thập_giai.json",
+    "chapter_name": "Chương 2125: Linh thảo thập giai",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2125/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2126_Tầm_chủ_1.json",
+    "chapter_name": "Chương 2126: Tầm chủ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2126/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2127_Tầm_chủ_2.json",
+    "chapter_name": "Chương 2127: Tầm chủ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2127/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2128_Giá_trên_trời_1.json",
+    "chapter_name": "Chương 2128: Giá trên trời (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2128/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2129_Giá_trên_trời_2.json",
+    "chapter_name": "Chương 2129: Giá trên trời (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2129/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2130_Đoạt_kiếm_1.json",
+    "chapter_name": "Chương 2130: Đoạt kiếm (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2130/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2131_Đoạt_kiếm_2.json",
+    "chapter_name": "Chương 2131: Đoạt kiếm (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2131/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2132_Thiên_ưng_thần_miếu.json",
+    "chapter_name": "Chương 2132: Thiên ưng thần miếu",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2132/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2133_Đánh_cuộc_1.json",
+    "chapter_name": "Chương 2133: Đánh cuộc (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2133/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2134_Đánh_cuộc_2.json",
+    "chapter_name": "Chương 2134: Đánh cuộc (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2134/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2135_Huyễn_quyền_như_biển_1.json",
+    "chapter_name": "Chương 2135: Huyễn quyền như biển (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2135/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2136_Huyễn_quyền_như_biển_2.json",
+    "chapter_name": "Chương 2136: Huyễn quyền như biển (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2136/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2137_Luyện_không_thuật_1.json",
+    "chapter_name": "Chương 2137: Luyện không thuật (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2137/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2138_Luyện_không_thuật_2.json",
+    "chapter_name": "Chương 2138: Luyện không thuật (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2138/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2139_Đổ_thắng.json",
+    "chapter_name": "Chương 2139: Đổ thắng",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2139/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2140_Hành_tích_bại_lộ_1.json",
+    "chapter_name": "Chương 2140: Hành tích bại lộ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2140/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2141_Hành_tích_bại_lộ_2.json",
+    "chapter_name": "Chương 2141: Hành tích bại lộ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2141/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2142_Ly_hợp_cổ_chung_1.json",
+    "chapter_name": "Chương 2142: Ly hợp cổ chung (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2142/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2143_Ly_hợp_cổ_chung_2.json",
+    "chapter_name": "Chương 2143: Ly hợp cổ chung (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2143/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2144_Cực_khổ.json",
+    "chapter_name": "Chương 2144: Cực khổ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2144/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2145_Thảm_liệt_1.json",
+    "chapter_name": "Chương 2145: Thảm liệt (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2145/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2146_Thảm_liệt_2.json",
+    "chapter_name": "Chương 2146: Thảm liệt (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2146/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2147_Sớm_muộn_phải_trả_1.json",
+    "chapter_name": "Chương 2147: Sớm muộn phải trả (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2147/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2148_Sớm_muộn_phải_trả_2.json",
+    "chapter_name": "Chương 2148: Sớm muộn phải trả (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2148/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2149_Loan_quân_hạo.json",
+    "chapter_name": "Chương 2149: Loan quân hạo",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2149/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2150_Hằng_hà_đại_thủ_ấn_1.json",
+    "chapter_name": "Chương 2150: Hằng hà đại thủ ấn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2150/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2151_Hằng_hà_đại_thủ_ấn_2.json",
+    "chapter_name": "Chương 2151: Hằng hà đại thủ ấn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2151/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2152_Tính_toán_1.json",
+    "chapter_name": "Chương 2152: Tính toán (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2152/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2153_Tính_toán_2.json",
+    "chapter_name": "Chương 2153: Tính toán (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2153/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2154_Chuyên_nghiệp.json",
+    "chapter_name": "Chương 2154: Chuyên nghiệp",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2154/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2155_Đại_ngự_kiếm_thuật_1.json",
+    "chapter_name": "Chương 2155: Đại ngự kiếm thuật! (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2155/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2156_Đại_ngự_kiếm_thuật_2.json",
+    "chapter_name": "Chương 2156: Đại ngự kiếm thuật! (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2156/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2157_Quyền_uy_1.json",
+    "chapter_name": "Chương 2157: Quyền uy (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2157/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2158_Quyền_uy_2.json",
+    "chapter_name": "Chương 2158: Quyền uy (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2158/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2159_Như_người_như_ngọc_1.json",
+    "chapter_name": "Chương 2159: Như người như ngọc (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2159/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2160_Như_người_như_ngọc_2.json",
+    "chapter_name": "Chương 2160: Như người như ngọc (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2160/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2161_Thuận_thế_mà_làm.json",
+    "chapter_name": "Chương 2161: Thuận thế mà làm",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2161/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2162_Cửu_ngũ_chí_tôn_đan_1.json",
+    "chapter_name": "Chương 2162: Cửu ngũ chí tôn đan (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2162/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2163_Cửu_ngũ_chí_tôn_đan_2.json",
+    "chapter_name": "Chương 2163: Cửu ngũ chí tôn đan (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2163/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2164_Đàm_thỏa_1.json",
+    "chapter_name": "Chương 2164: Đàm thỏa (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2164/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2165_Đàm_thỏa_2.json",
+    "chapter_name": "Chương 2165: Đàm thỏa (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2165/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2166_Người_ở_dưới_mái_hiên.json",
+    "chapter_name": "Chương 2166: Người ở dưới mái hiên",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2166/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2167_Chân_linh_phượng_hoàng_1.json",
+    "chapter_name": "Chương 2167: Chân linh phượng hoàng (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2167/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2168_Chân_linh_phượng_hoàng_2.json",
+    "chapter_name": "Chương 2168: Chân linh phượng hoàng (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2168/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2169_Thất_bại_1.json",
+    "chapter_name": "Chương 2169: Thất bại (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2169/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2170_Thất_bại_2.json",
+    "chapter_name": "Chương 2170: Thất bại (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2170/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2171_Tâm_tư.json",
+    "chapter_name": "Chương 2171: Tâm tư",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2171/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2172_Lưỡng_giới_sơn_1.json",
+    "chapter_name": "Chương 2172: Lưỡng giới sơn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2172/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2173_Lưỡng_giới_sơn_2.json",
+    "chapter_name": "Chương 2173: Lưỡng giới sơn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2173/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2174_Huyền_thần_thiêm_1.json",
+    "chapter_name": "Chương 2174: Huyền thần thiêm (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2174/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2175_Huyền_thần_thiêm_2.json",
+    "chapter_name": "Chương 2175: Huyền thần thiêm (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2175/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2176_Vĩnh_minh_bích.json",
+    "chapter_name": "Chương 2176: Vĩnh minh bích",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2176/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2177_Hỗn_loạn_tinh_đồ_1.json",
+    "chapter_name": "Chương 2177: Hỗn loạn tinh đồ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2177/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2178_Hỗn_loạn_tinh_đồ_2.json",
+    "chapter_name": "Chương 2178: Hỗn loạn tinh đồ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2178/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2179_Sinh_cơ_1.json",
+    "chapter_name": "Chương 2179: Sinh cơ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2179/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2180_Sinh_cơ_2.json",
+    "chapter_name": "Chương 2180: Sinh cơ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2180/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2181_Đoan_mộc_thương.json",
+    "chapter_name": "Chương 2181: Đoan mộc thương",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2181/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2182_Diệu_pháp_linh_mục_1.json",
+    "chapter_name": "Chương 2182: Diệu pháp linh mục (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2182/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2183_Diệu_pháp_linh_mục_2.json",
+    "chapter_name": "Chương 2183: Diệu pháp linh mục (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2183/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2184_Không_gian_điệp_gia_1.json",
+    "chapter_name": "Chương 2184: Không gian điệp gia (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2184/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2185_Không_gian_điệp_gia_2.json",
+    "chapter_name": "Chương 2185: Không gian điệp gia (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2185/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2186_Đại_Địa_chi_phù.json",
+    "chapter_name": "Chương 2186: Đại Địa chi phù",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2186/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2187_Thi_lễ_1.json",
+    "chapter_name": "Chương 2187: Thi lễ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2187/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2188_Thi_lễ_2.json",
+    "chapter_name": "Chương 2188: Thi lễ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2188/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2189_Huyền_vũ_tinh_cung_1.json",
+    "chapter_name": "Chương 2189: Huyền vũ tinh cung (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2189/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2190_Huyền_vũ_tinh_cung_2.json",
+    "chapter_name": "Chương 2190: Huyền vũ tinh cung (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2190/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2191_Bảo_quang_điện.json",
+    "chapter_name": "Chương 2191: Bảo quang điện",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2191/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2192_Tam_sắc_thần_sơn_1.json",
+    "chapter_name": "Chương 2192: Tam sắc thần sơn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2192/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2193_Tam_sắc_thần_sơn_2.json",
+    "chapter_name": "Chương 2193: Tam sắc thần sơn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2193/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2194_Mười_bảy_cánh_cửa.json",
+    "chapter_name": "Chương 2194: Mười bảy cánh cửa",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2194/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2195_Thiên_mê_trận_1.json",
+    "chapter_name": "Chương 2195: Thiên mê trận (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2195/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2196_Thiên_mê_trận_2.json",
+    "chapter_name": "Chương 2196: Thiên mê trận (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2196/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2197_Thần_phù_1.json",
+    "chapter_name": "Chương 2197: Thần phù (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2197/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2198_Thần_phù_2.json",
+    "chapter_name": "Chương 2198: Thần phù (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2198/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2199_Trấn_tà.json",
+    "chapter_name": "Chương 2199: Trấn tà",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2199/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2200_Ngũ_la_khinh_yên_chưởng_1.json",
+    "chapter_name": "Chương 2200: Ngũ la khinh yên chưởng (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2200/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2201_Ngũ_la_khinh_yên_chưởng_2.json",
+    "chapter_name": "Chương 2201: Ngũ la khinh yên chưởng (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2201/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2202_Thi_Lễ_chi_Vương.json",
+    "chapter_name": "Chương 2202: Thi Lễ chi Vương",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2202/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2203_Thứ_lợi_hại_hơn_1.json",
+    "chapter_name": "Chương 2203: Thứ lợi hại hơn (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2203/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2204_Thứ_lợi_hại_hơn_2.json",
+    "chapter_name": "Chương 2204: Thứ lợi hại hơn (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2204/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2205_Liên_thủ_1.json",
+    "chapter_name": "Chương 2205: Liên thủ (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2205/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2206_Liên_thủ_2.json",
+    "chapter_name": "Chương 2206: Liên thủ (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2206/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2207_Thân_phận.json",
+    "chapter_name": "Chương 2207: Thân phận",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2207/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2208_Vạn_thế_ngự_kiếm_1.json",
+    "chapter_name": "Chương 2208: Vạn thế ngự kiếm (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2208/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2209_Vạn_thế_ngự_kiếm_2.json",
+    "chapter_name": "Chương 2209: Vạn thế ngự kiếm (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2209/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2210_Hữu_vô_tương_sinh_phong_hỏa_ly_hợp_1.json",
+    "chapter_name": "Chương 2210: Hữu vô tương sinh, phong hỏa ly hợp (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2210/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2211_Hữu_vô_tương_sinh_phong_hỏa_ly_hợp_2.json",
+    "chapter_name": "Chương 2211: Hữu vô tương sinh, phong hỏa ly hợp (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2211/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2212_Tinh_Cung_chi_chu.json",
+    "chapter_name": "Chương 2212: Tinh Cung chi chủ",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2212/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2213_Nghịch_hồn_tiên_1.json",
+    "chapter_name": "Chương 2213: Nghịch hồn tiên (1)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2213/"
+  },
+  {
+    "path": "data/Vạn_Cổ_Chí_Tôn/Chương_2214_Nghịch_hồn_tiên_2.json",
+    "chapter_name": "Chương 2214: Nghịch hồn tiên (2)",
+    "url": "https://truyenfull.vn/van-co-chi-ton/chuong-2214/"
   }
 ]
