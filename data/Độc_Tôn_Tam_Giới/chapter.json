@@ -2073,5 +2073,1005 @@
     "path": "data/Độc_Tôn_Tam_Giới/Chương_416_Thuấn_lão_âm_thầm_chú_ý_Giang_Trần_1.json",
     "chapter_name": "Chương 416: Thuấn lão âm thầm chú ý Giang Trần 1",
     "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-416/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_417_Thuấn_lão_âm_thầm_chú_ý_Giang_Trần_2.json",
+    "chapter_name": "Chương 417: Thuấn lão âm thầm chú ý Giang Trần 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-417/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_418_Câu_Ngọc_đã_xảy_ra_chuyện_1.json",
+    "chapter_name": "Chương 418: Câu Ngọc đã xảy ra chuyện ? 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-418/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_419_Câu_Ngọc_đã_xảy_ra_chuyện_2.json",
+    "chapter_name": "Chương 419: Câu Ngọc đã xảy ra chuyện ? 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-419/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_420_Tử_Dương_Tông_cũng_có_phần.json",
+    "chapter_name": "Chương 420: Tử Dương Tông cũng có phần?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-420/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_421_Tình_cảnh_nguy_hiểm_Liệt_Nhật_thanh_đồng_1.json",
+    "chapter_name": "Chương 421: Tình cảnh nguy hiểm, Liệt Nhật thanh đồng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-421/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_422_Tình_cảnh_nguy_hiểm_Liệt_Nhật_thanh_đồng_2.json",
+    "chapter_name": "Chương 422: Tình cảnh nguy hiểm, Liệt Nhật thanh đồng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-422/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_423_Thiên_tài_hai_đại_tông_môn_đối_kháng_1.json",
+    "chapter_name": "Chương 423: Thiên tài hai đại tông môn đối kháng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-423/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_424_Thiên_tài_hai_đại_tông_môn_đối_kháng_2.json",
+    "chapter_name": "Chương 424: Thiên tài hai đại tông môn đối kháng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-424/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_425_Yêu_Liên_sính_uy.json",
+    "chapter_name": "Chương 425: Yêu Liên sính uy",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-425/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_426_Yêu_Liên_thôn_phệ_bổ_dưỡng_phát_triển_1.json",
+    "chapter_name": "Chương 426: Yêu Liên thôn phệ, bổ dưỡng phát triển 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-426/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_427_Yêu_Liên_thôn_phệ_bổ_dưỡng_phát_triển_2.json",
+    "chapter_name": "Chương 427: Yêu Liên thôn phệ, bổ dưỡng phát triển 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-427/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_428_Dọa_phá_mật_đệ_tử_tông_môn.json",
+    "chapter_name": "Chương 428: Dọa phá mật đệ tử tông môn",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-428/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_429_Phụ_thân_Giang_Phong_rời_đi_1.json",
+    "chapter_name": "Chương 429: Phụ thân Giang Phong rời đi 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-429/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_430_Phụ_thân_Giang_Phong_rời_đi_2.json",
+    "chapter_name": "Chương 430: Phụ thân Giang Phong rời đi 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-430/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_431_Yêu_Viên_sơ_bộ_thức_tỉnh.json",
+    "chapter_name": "Chương 431: Yêu Viên sơ bộ thức tỉnh",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-431/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_432_Đan_Phi_mang_đến_tin_tức_1.json",
+    "chapter_name": "Chương 432: Đan Phi mang đến tin tức 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-432/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_433_Đan_Phi_mang_đến_tin_tức_2.json",
+    "chapter_name": "Chương 433: Đan Phi mang đến tin tức 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-433/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_434_Bái_phỏng_Diệp_lão_gia_tử_1.json",
+    "chapter_name": "Chương 434: Bái phỏng Diệp lão gia tử 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-434/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_435_Bái_phỏng_Diệp_lão_gia_tử_2.json",
+    "chapter_name": "Chương 435: Bái phỏng Diệp lão gia tử 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-435/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_436_Tin_đồn_về_Thượng_Bát_Vực.json",
+    "chapter_name": "Chương 436: Tin đồn về Thượng Bát Vực",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-436/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_437_Đại_tuyển_bạt_Viễn_Cổ_di_cảnh_1.json",
+    "chapter_name": "Chương 437: Đại tuyển bạt, Viễn Cổ di cảnh 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-437/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_438_Đại_tuyển_bạt_Viễn_Cổ_di_cảnh_2.json",
+    "chapter_name": "Chương 438: Đại tuyển bạt, Viễn Cổ di cảnh 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-438/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_439_Đan_Phi_rơi_vào_võng_tình_1.json",
+    "chapter_name": "Chương 439: Đan Phi rơi vào võng tình 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-439/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_440_Đan_Phi_rơi_vào_võng_tình_2.json",
+    "chapter_name": "Chương 440: Đan Phi rơi vào võng tình 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-440/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_441_Chấp_Pháp_Giả_tông_môn.json",
+    "chapter_name": "Chương 441: Chấp Pháp Giả tông môn",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-441/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_442_Bát_Hoang_Nhiếp_Linh_Trận_lại_hiện_ra_1.json",
+    "chapter_name": "Chương 442: Bát Hoang Nhiếp Linh Trận lại hiện ra 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-442/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_443_Bát_Hoang_Nhiếp_Linh_Trận_lại_hiện_ra_2.json",
+    "chapter_name": "Chương 443: Bát Hoang Nhiếp Linh Trận lại hiện ra 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-443/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_444_Đại_chiến_Địa_Linh_cảnh.json",
+    "chapter_name": "Chương 444: Đại chiến Địa Linh cảnh",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-444/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_445_Bùn_đủ_hãm_sâu_tử_đệ_tông_môn_1.json",
+    "chapter_name": "Chương 445: Bùn đủ hãm sâu tử đệ tông môn 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-445/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_446_Bùn_đủ_hãm_sâu_tử_đệ_tông_môn_2.json",
+    "chapter_name": "Chương 446: Bùn đủ hãm sâu tử đệ tông môn 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-446/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_447_Chật_vật_không_chịu_nổi_1.json",
+    "chapter_name": "Chương 447: Chật vật không chịu nổi 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-447/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_448_Chật_vật_không_chịu_nổi_2.json",
+    "chapter_name": "Chương 448: Chật vật không chịu nổi 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-448/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_449_Giang_Trần_sát_ý_kiên_quyết.json",
+    "chapter_name": "Chương 449: Giang Trần sát ý kiên quyết",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-449/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_450_Cơ_hội_tốt_xảo_trá_1.json",
+    "chapter_name": "Chương 450: Cơ hội tốt xảo trá 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-450/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_451_Cơ_hội_tốt_xảo_trá_2.json",
+    "chapter_name": "Chương 451: Cơ hội tốt xảo trá 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-451/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_452_Thiết_gia_mất_trật_tự_1.json",
+    "chapter_name": "Chương 452: Thiết gia mất trật tự 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-452/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_453_Thiết_gia_mất_trật_tự_2.json",
+    "chapter_name": "Chương 453: Thiết gia mất trật tự 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-453/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_454_Đại_lừa_đảo_đại_phát_hoành_tài.json",
+    "chapter_name": "Chương 454: Đại lừa đảo, đại phát hoành tài",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-454/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_455_Tin_tức_đại_tuyển_bạt_kinh_người_1.json",
+    "chapter_name": "Chương 455: Tin tức đại tuyển bạt kinh người 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-455/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_456_Tin_tức_đại_tuyển_bạt_kinh_người_2.json",
+    "chapter_name": "Chương 456: Tin tức đại tuyển bạt kinh người 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-456/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_457_Chỉ_điểm_Diệp_lão_gia_tử.json",
+    "chapter_name": "Chương 457: Chỉ điểm Diệp lão gia tử",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-457/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_458_Chuẩn_bị_cuối_cùng_trước_khi_đại_tuyển_bạt_1.json",
+    "chapter_name": "Chương 458: Chuẩn bị cuối cùng trước khi đại tuyển bạt 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-458/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_459_Chuẩn_bị_cuối_cùng_trước_khi_đại_tuyển_bạt_2.json",
+    "chapter_name": "Chương 459: Chuẩn bị cuối cùng trước khi đại tuyển bạt 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-459/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_460_Tuyển_bạt_kéo_màn_che_1.json",
+    "chapter_name": "Chương 460: Tuyển bạt kéo màn che 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-460/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_461_Tuyển_bạt_kéo_màn_che_2.json",
+    "chapter_name": "Chương 461: Tuyển bạt kéo màn che 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-461/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_462_Tứ_đại_lão_tổ.json",
+    "chapter_name": "Chương 462: Tứ đại lão tổ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-462/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_463_Năm_cửa_sơ_tuyển_1.json",
+    "chapter_name": "Chương 463: Năm cửa sơ tuyển 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-463/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_464_Năm_cửa_sơ_tuyển_2.json",
+    "chapter_name": "Chương 464: Năm cửa sơ tuyển 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-464/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_465_Tam_tông_cướp_đoạt_Giang_Trần_1.json",
+    "chapter_name": "Chương 465: Tam tông cướp đoạt Giang Trần 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-465/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_466_Tam_tông_cướp_đoạt_Giang_Trần_2.json",
+    "chapter_name": "Chương 466: Tam tông cướp đoạt Giang Trần 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-466/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_467_Tử_Dương_Tông_lựa_chọn.json",
+    "chapter_name": "Chương 467: Tử Dương Tông lựa chọn",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-467/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_468_Giang_Trần_cự_tuyệt_1.json",
+    "chapter_name": "Chương 468: Giang Trần cự tuyệt 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-468/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_469_Giang_Trần_cự_tuyệt_2.json",
+    "chapter_name": "Chương 469: Giang Trần cự tuyệt 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-469/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_470_Cửa_thứ_nhất_Luân_Hồi_lộ.json",
+    "chapter_name": "Chương 470: Cửa thứ nhất, Luân Hồi lộ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-470/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_471_Khảo_nghiệm_trùng_trùng_điệp_điệp_1.json",
+    "chapter_name": "Chương 471: Khảo nghiệm trùng trùng điệp điệp 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-471/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_472_Khảo_nghiệm_trùng_trùng_điệp_điệp_2.json",
+    "chapter_name": "Chương 472: Khảo nghiệm trùng trùng điệp điệp 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-472/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_473_Huyễn_cảnh_ngàn_vạn_tâm_như_bàn_thạch.json",
+    "chapter_name": "Chương 473: Huyễn cảnh ngàn vạn, tâm như bàn thạch",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-473/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_474_Thiên_tài_Tâm_lực_xuất_hiện_rồi_1.json",
+    "chapter_name": "Chương 474: Thiên tài Tâm lực xuất hiện rồi 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-474/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_475_Thiên_tài_Tâm_lực_xuất_hiện_rồi_2.json",
+    "chapter_name": "Chương 475: Thiên tài Tâm lực xuất hiện rồi 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-475/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_476_Ngàn_vạn_chú_ý_tập_trung_vào_một_thân_1.json",
+    "chapter_name": "Chương 476: Ngàn vạn chú ý tập trung vào một thân 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-476/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_477_Ngàn_vạn_chú_ý_tập_trung_vào_một_thân_2.json",
+    "chapter_name": "Chương 477: Ngàn vạn chú ý tập trung vào một thân 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-477/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_478_Khảo_thí_thiên_phú_Giang_Trần_lựa_chọn.json",
+    "chapter_name": "Chương 478: Khảo thí thiên phú, Giang Trần lựa chọn",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-478/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_479_Bàn_thạch_yêu_nghiệt_1.json",
+    "chapter_name": "Chương 479: Bàn thạch yêu nghiệt 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-479/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_480_Bàn_thạch_yêu_nghiệt_2.json",
+    "chapter_name": "Chương 480: Bàn thạch yêu nghiệt 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-480/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_481_Nguyên_từ_vạn_trượng_kim_sơn_1.json",
+    "chapter_name": "Chương 481: Nguyên từ vạn trượng kim sơn 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-481/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_482_Nguyên_từ_vạn_trượng_kim_sơn_2.json",
+    "chapter_name": "Chương 482: Nguyên từ vạn trượng kim sơn 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-482/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_483_Nguyên_từ_phong_bạo.json",
+    "chapter_name": "Chương 483: Nguyên từ phong bạo",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-483/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_484_Bảo_vật_tầng_thứ_chín_Lôi_Vân_Mộc_1.json",
+    "chapter_name": "Chương 484: Bảo vật tầng thứ chín, Lôi Vân Mộc 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-484/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_485_Bảo_vật_tầng_thứ_chín_Lôi_Vân_Mộc_2.json",
+    "chapter_name": "Chương 485: Bảo vật tầng thứ chín, Lôi Vân Mộc 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-485/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_486_Tiến_quân_tầng_thứ_mười_1.json",
+    "chapter_name": "Chương 486: Tiến quân tầng thứ mười 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-486/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_487_Tiến_quân_tầng_thứ_mười_2.json",
+    "chapter_name": "Chương 487: Tiến quân tầng thứ mười 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-487/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_488_Nguy_cơ_nhiều_lần_hiện_1.json",
+    "chapter_name": "Chương 488: Nguy cơ nhiều lần hiện 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-488/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_489_Nguy_cơ_nhiều_lần_hiện_2.json",
+    "chapter_name": "Chương 489: Nguy cơ nhiều lần hiện 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-489/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_490_Kim_ấn_quân_chủ.json",
+    "chapter_name": "Chương 490: Kim ấn quân chủ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-490/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_491_Kim_Ấn_Quân_Chủ_khảo_nghiệm_1.json",
+    "chapter_name": "Chương 491: Kim Ấn Quân Chủ khảo nghiệm 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-491/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_492_Kim_Ấn_Quân_Chủ_khảo_nghiệm_2.json",
+    "chapter_name": "Chương 492: Kim Ấn Quân Chủ khảo nghiệm 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-492/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_493_Giao_dịch_cùng_thỏa_hiệp_1.json",
+    "chapter_name": "Chương 493: Giao dịch cùng thỏa hiệp 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-493/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_494_Giao_dịch_cùng_thỏa_hiệp_2.json",
+    "chapter_name": "Chương 494: Giao dịch cùng thỏa hiệp 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-494/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_495_Nguyên_Từ_Kim_Sơn_biến_mất.json",
+    "chapter_name": "Chương 495: Nguyên Từ Kim Sơn biến mất",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-495/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_496_Đề_ra_nghi_vấn_cùng_lấy_lòng_1.json",
+    "chapter_name": "Chương 496: Đề ra nghi vấn cùng lấy lòng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-496/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_497_Đề_ra_nghi_vấn_cùng_lấy_lòng_2.json",
+    "chapter_name": "Chương 497: Đề ra nghi vấn cùng lấy lòng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-497/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_498_Cửa_thứ_tư_tiếp_tục_yêu_nghiệt.json",
+    "chapter_name": "Chương 498: Cửa thứ tư, tiếp tục yêu nghiệt",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-498/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_499_Nhẹ_nhõm_xông_cửa_1.json",
+    "chapter_name": "Chương 499: Nhẹ nhõm xông cửa 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-499/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_500_Nhẹ_nhõm_xông_cửa_2.json",
+    "chapter_name": "Chương 500: Nhẹ nhõm xông cửa 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-500/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_501_Mục_tiêu_của_Giang_Trần_1.json",
+    "chapter_name": "Chương 501: Mục tiêu của Giang Trần 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-501/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_502_Mục_tiêu_của_Giang_Trần_2.json",
+    "chapter_name": "Chương 502: Mục tiêu của Giang Trần 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-502/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_503_Hiểm_trung_cầu_thắng.json",
+    "chapter_name": "Chương 503: Hiểm trung cầu thắng",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-503/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_504_Cửa_thứ_năm_Minh_Diệt_Cốc_1.json",
+    "chapter_name": "Chương 504: Cửa thứ năm, Minh Diệt Cốc 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-504/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_505_Cửa_thứ_năm_Minh_Diệt_Cốc_2.json",
+    "chapter_name": "Chương 505: Cửa thứ năm, Minh Diệt Cốc 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-505/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_506_Cường_giả_chúa_tể_vận_mệnh.json",
+    "chapter_name": "Chương 506: Cường giả chúa tể vận mệnh",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-506/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_507_Mộng_thần_chi_mộc_1.json",
+    "chapter_name": "Chương 507: Mộng thần chi mộc 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-507/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_508_Mộng_thần_chi_mộc_2.json",
+    "chapter_name": "Chương 508: Mộng thần chi mộc 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-508/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_509_Giết_chóc_đáng_sợ.json",
+    "chapter_name": "Chương 509: Giết chóc đáng sợ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-509/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_510_Hỏa_thiêu_trăm_dặm_1.json",
+    "chapter_name": "Chương 510: Hỏa thiêu trăm dặm 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-510/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_511_Hỏa_thiêu_trăm_dặm_2.json",
+    "chapter_name": "Chương 511: Hỏa thiêu trăm dặm 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-511/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_512_Băng_Hỏa_Yêu_Liên_trốn_vào_lòng_đất_1.json",
+    "chapter_name": "Chương 512: Băng Hỏa Yêu Liên, trốn vào lòng đất 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-512/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_513_Băng_Hỏa_Yêu_Liên_trốn_vào_lòng_đất_2.json",
+    "chapter_name": "Chương 513: Băng Hỏa Yêu Liên, trốn vào lòng đất 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-513/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_514_Linh_thú_Vương_giả_chém_giết.json",
+    "chapter_name": "Chương 514: Linh thú Vương giả chém giết",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-514/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_515_Ác_chiến_tất_cả_có_bàn_tính_1.json",
+    "chapter_name": "Chương 515: Ác chiến, tất cả có bàn tính 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-515/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_516_Ác_chiến_tất_cả_có_bàn_tính_2.json",
+    "chapter_name": "Chương 516: Ác chiến, tất cả có bàn tính 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-516/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_517_Ý_định_trai_cò_tranh_nhau_ngư_ông_đắc_lợi.json",
+    "chapter_name": "Chương 517: Ý định trai cò tranh nhau, ngư ông đắc lợi",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-517/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_518_Chiến_đấu_điên_cuồng_1.json",
+    "chapter_name": "Chương 518: Chiến đấu điên cuồng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-518/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_519_Chiến_đấu_điên_cuồng_2.json",
+    "chapter_name": "Chương 519: Chiến đấu điên cuồng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-519/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_520_Giang_Trần_phát_đại_tài_rồi_1.json",
+    "chapter_name": "Chương 520: Giang Trần phát đại tài rồi 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-520/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_521_Giang_Trần_phát_đại_tài_rồi_2.json",
+    "chapter_name": "Chương 521: Giang Trần phát đại tài rồi 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-521/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_522_Đã_muốn_chết_vậy_thì_đi_chết.json",
+    "chapter_name": "Chương 522: Đã muốn chết, vậy thì đi chết!",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-522/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_523_Sơ_thí_quán_quân_không_hề_lo_lắng_1.json",
+    "chapter_name": "Chương 523: Sơ thí quán quân, không hề lo lắng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-523/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_524_Sơ_thí_quán_quân_không_hề_lo_lắng_2.json",
+    "chapter_name": "Chương 524: Sơ thí quán quân, không hề lo lắng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-524/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_525_Bất_Diệt_Linh_Sơn_quy_tắc_đấu_bán_kết.json",
+    "chapter_name": "Chương 525: Bất Diệt Linh Sơn, quy tắc đấu bán kết",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-525/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_526_Huyền_Linh_khu_Đinh_đẳng_Võ_Giả_1.json",
+    "chapter_name": "Chương 526: Huyền Linh khu, Đinh đẳng Võ Giả 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-526/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_527_Huyền_Linh_khu_Đinh_đẳng_Võ_Giả_2.json",
+    "chapter_name": "Chương 527: Huyền Linh khu, Đinh đẳng Võ Giả 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-527/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_528_Địch_ý_bạo_rạp.json",
+    "chapter_name": "Chương 528: Địch ý bạo rạp",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-528/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_529_Giang_Trần_phát_uy_1.json",
+    "chapter_name": "Chương 529: Giang Trần phát uy 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-529/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_530_Giang_Trần_phát_uy_2.json",
+    "chapter_name": "Chương 530: Giang Trần phát uy 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-530/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_531_Người_nào_định_đoạt_1.json",
+    "chapter_name": "Chương 531: Người nào định đoạt? 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-531/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_532_Người_nào_định_đoạt_2.json",
+    "chapter_name": "Chương 532: Người nào định đoạt? 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-532/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_533_Hộ_giáp_thăng_cấp_Luyện_Thể_thần_thông.json",
+    "chapter_name": "Chương 533: Hộ giáp thăng cấp, Luyện Thể thần thông",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-533/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_534_Bách_chiến_lôi_đài_1.json",
+    "chapter_name": "Chương 534: Bách chiến lôi đài 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-534/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_535_Bách_chiến_lôi_đài_2.json",
+    "chapter_name": "Chương 535: Bách chiến lôi đài 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-535/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_536_Khiêu_chiến_bắt_đầu.json",
+    "chapter_name": "Chương 536: Khiêu chiến bắt đầu",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-536/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_537_Tiểu_Phi_Đan_Phi_Giang_Trần_xuất_hiện_1.json",
+    "chapter_name": "Chương 537: Tiểu Phi Đan Phi, Giang Trần xuất hiện 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-537/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_538_Tiểu_Phi_Đan_Phi_Giang_Trần_xuất_hiện_2.json",
+    "chapter_name": "Chương 538: Tiểu Phi Đan Phi, Giang Trần xuất hiện 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-538/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_539_Một_chiêu_bại_địch_Giang_Trần_cường_thế_1.json",
+    "chapter_name": "Chương 539: Một chiêu bại địch, Giang Trần cường thế 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-539/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_540_Một_chiêu_bại_địch_Giang_Trần_cường_thế_2.json",
+    "chapter_name": "Chương 540: Một chiêu bại địch, Giang Trần cường thế 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-540/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_541_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 541: Oan gia ngõ hẹp",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-541/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_542_Điên_cuồng_thắng_liên_tiếp_1.json",
+    "chapter_name": "Chương 542: Điên cuồng thắng liên tiếp 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-542/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_543_Điên_cuồng_thắng_liên_tiếp_2.json",
+    "chapter_name": "Chương 543: Điên cuồng thắng liên tiếp 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-543/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_544_Yêu_nghiệt_hai_mươi_lăm_thắng_liên_tiếp.json",
+    "chapter_name": "Chương 544: Yêu nghiệt hai mươi lăm thắng liên tiếp",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-544/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_545_Tử_Dương_Tông_ta_không_có_hứng_thú_1.json",
+    "chapter_name": "Chương 545: Tử Dương Tông, ta không có hứng thú 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-545/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_546_Tử_Dương_Tông_ta_không_có_hứng_thú_2.json",
+    "chapter_name": "Chương 546: Tử Dương Tông, ta không có hứng thú 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-546/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_547_Đan_Phi_tình_căn_thâm_chủng_1.json",
+    "chapter_name": "Chương 547: Đan Phi tình căn thâm chủng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-547/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_548_Đan_Phi_tình_căn_thâm_chủng_2.json",
+    "chapter_name": "Chương 548: Đan Phi tình căn thâm chủng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-548/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_549_Khắp_nơi_phản_ứng.json",
+    "chapter_name": "Chương 549: Khắp nơi phản ứng",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-549/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_550_Kế_sách_âm_độc_1.json",
+    "chapter_name": "Chương 550: Kế sách âm độc 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-550/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_551_Kế_sách_âm_độc_2.json",
+    "chapter_name": "Chương 551: Kế sách âm độc 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-551/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_552_Dược_hiệu_chí_dương_1.json",
+    "chapter_name": "Chương 552: Dược hiệu chí dương 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-552/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_553_Dược_hiệu_chí_dương_2.json",
+    "chapter_name": "Chương 553: Dược hiệu chí dương 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-553/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_554_Giang_Trần_ta_tới_giúp_ngươi.json",
+    "chapter_name": "Chương 554: Giang Trần, ta tới giúp ngươi",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-554/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_555_Quách_Nhân_vui_quá_hóa_buồn_1.json",
+    "chapter_name": "Chương 555: Quách Nhân vui quá hóa buồn 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-555/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_556_Quách_Nhân_vui_quá_hóa_buồn_2.json",
+    "chapter_name": "Chương 556: Quách Nhân vui quá hóa buồn 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-556/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_557_Quách_Nhân_trong_sụp_đổ.json",
+    "chapter_name": "Chương 557: Quách Nhân trong sụp đổ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-557/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_558_Ngươi_uy_hiếp_ta_1.json",
+    "chapter_name": "Chương 558: Ngươi uy hiếp ta ? 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-558/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_559_Ngươi_uy_hiếp_ta_2.json",
+    "chapter_name": "Chương 559: Ngươi uy hiếp ta ? 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-559/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_560_Quách_Nhân_sụp_đổ_Giang_Trần_quán_quân_1.json",
+    "chapter_name": "Chương 560: Quách Nhân sụp đổ, Giang Trần quán quân 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-560/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_561_Quách_Nhân_sụp_đổ_Giang_Trần_quán_quân_2.json",
+    "chapter_name": "Chương 561: Quách Nhân sụp đổ, Giang Trần quán quân 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-561/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_562_Giang_Trần_đốn_ngộ_giám_khảo_tới_chơi.json",
+    "chapter_name": "Chương 562: Giang Trần đốn ngộ, giám khảo tới chơi",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-562/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_563_Tiến_quân_Địa_Linh_khu_1.json",
+    "chapter_name": "Chương 563: Tiến quân Địa Linh khu 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-563/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_564_Tiến_quân_Địa_Linh_khu_2.json",
+    "chapter_name": "Chương 564: Tiến quân Địa Linh khu 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-564/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_565_Năm_loại_lôi_đài_1.json",
+    "chapter_name": "Chương 565: Năm loại lôi đài 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-565/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_566_Năm_loại_lôi_đài_2.json",
+    "chapter_name": "Chương 566: Năm loại lôi đài 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-566/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_567_Thần_Ma_Cửu_Biến_đệ_nhị_trọng.json",
+    "chapter_name": "Chương 567: Thần Ma Cửu Biến, đệ nhị trọng",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-567/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_568_Khôi_hài_thủ_thắng_1.json",
+    "chapter_name": "Chương 568: Khôi hài thủ thắng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-568/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_569_Khôi_hài_thủ_thắng_2.json",
+    "chapter_name": "Chương 569: Khôi hài thủ thắng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-569/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_570_Nộ_Diễm_Cuồng_Triều_Quá_yếu.json",
+    "chapter_name": "Chương 570: Nộ Diễm Cuồng Triều? Quá yếu!",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-570/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_571_Một_kích_hóa_phồn_vi_giản_1.json",
+    "chapter_name": "Chương 571: Một kích hóa phồn vi giản 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-571/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_572_Một_kích_hóa_phồn_vi_giản_2.json",
+    "chapter_name": "Chương 572: Một kích hóa phồn vi giản 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-572/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_573_Đạt_được_Giang_Trần_chỉ_điểm_1.json",
+    "chapter_name": "Chương 573: Đạt được Giang Trần chỉ điểm 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-573/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_574_Đạt_được_Giang_Trần_chỉ_điểm_2.json",
+    "chapter_name": "Chương 574: Đạt được Giang Trần chỉ điểm 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-574/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_575_Oán_niệm_của_Thủy_Nguyệt_Đại_Sư.json",
+    "chapter_name": "Chương 575: Oán niệm của Thủy Nguyệt Đại Sư",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-575/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_576_Âm_mưu_nhằm_vào_1.json",
+    "chapter_name": "Chương 576: Âm mưu nhằm vào 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-576/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_577_Âm_mưu_nhằm_vào_2.json",
+    "chapter_name": "Chương 577: Âm mưu nhằm vào 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-577/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_578_Luận_bàn_dưới_ánh_trăng_1.json",
+    "chapter_name": "Chương 578: Luận bàn dưới ánh trăng 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-578/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_579_Luận_bàn_dưới_ánh_trăng_2.json",
+    "chapter_name": "Chương 579: Luận bàn dưới ánh trăng 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-579/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_580_Xa_luân_chiến_không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 580: Xa luân chiến không biết xấu hổ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-580/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_581_Phế_vật_lưu_lại_làm_gì_dùng_1.json",
+    "chapter_name": "Chương 581: Phế vật, lưu lại làm gì dùng? 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-581/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_582_Phế_vật_lưu_lại_làm_gì_dùng_2.json",
+    "chapter_name": "Chương 582: Phế vật, lưu lại làm gì dùng? 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-582/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_583_Khiếp_sợ_Địa_Linh_khu.json",
+    "chapter_name": "Chương 583: Khiếp sợ Địa Linh khu",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-583/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_584_Thủy_Nguyệt_Đại_Sư_dẫn_phát_nhiều_người_tức_giận_1.json",
+    "chapter_name": "Chương 584: Thủy Nguyệt Đại Sư dẫn phát nhiều người tức giận 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-584/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_585_Thủy_Nguyệt_Đại_Sư_dẫn_phát_nhiều_người_tức_giận_2.json",
+    "chapter_name": "Chương 585: Thủy Nguyệt Đại Sư dẫn phát nhiều người tức giận 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-585/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_586_Giết_1.json",
+    "chapter_name": "Chương 586: Giết! 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-586/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_587_Giết_2.json",
+    "chapter_name": "Chương 587: Giết! 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-587/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_588_Thế_cục_đại_biến.json",
+    "chapter_name": "Chương 588: Thế cục đại biến",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-588/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_589_Thủy_Nguyệt_Đại_Sư_xuống_đài_1.json",
+    "chapter_name": "Chương 589: Thủy Nguyệt Đại Sư xuống đài 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-589/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_590_Thủy_Nguyệt_Đại_Sư_xuống_đài_2.json",
+    "chapter_name": "Chương 590: Thủy Nguyệt Đại Sư xuống đài 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-590/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_591_Số_mệnh_chi_địch_1.json",
+    "chapter_name": "Chương 591: Số mệnh chi địch 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-591/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_592_Số_mệnh_chi_địch_2.json",
+    "chapter_name": "Chương 592: Số mệnh chi địch 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-592/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_593_Lôi_Vân_Mộc_rèn_luyện_Kim_Thân.json",
+    "chapter_name": "Chương 593: Lôi Vân Mộc, rèn luyện Kim Thân",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-593/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_594_Tam_đại_thiên_tài_của_Thủy_Nguyệt_nhất_mạch_1.json",
+    "chapter_name": "Chương 594: Tam đại thiên tài của Thủy Nguyệt nhất mạch 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-594/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_595_Tam_đại_thiên_tài_của_Thủy_Nguyệt_nhất_mạch_2.json",
+    "chapter_name": "Chương 595: Tam đại thiên tài của Thủy Nguyệt nhất mạch 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-595/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_596_Hai_phần_thú_huyết.json",
+    "chapter_name": "Chương 596: Hai phần thú huyết",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-596/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_597.json",
+    "chapter_name": "Chương 597",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-597/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_598_Lưu_Văn_Thải_thoát_thai_hoán_cốt_2.json",
+    "chapter_name": "Chương 598: Lưu Văn Thải thoát thai hoán cốt 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-598/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_599_Quy_tắc_khảo_hạch_ở_Thiên_Linh_khu_1.json",
+    "chapter_name": "Chương 599: Quy tắc khảo hạch ở Thiên Linh khu 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-599/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_600_Quy_tắc_khảo_hạch_ở_Thiên_Linh_khu_2.json",
+    "chapter_name": "Chương 600: Quy tắc khảo hạch ở Thiên Linh khu 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-600/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_601_Gặp_lại_Long_Cư_Tuyết.json",
+    "chapter_name": "Chương 601: Gặp lại Long Cư Tuyết",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-601/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_602_Điểm_tích_lũy_đến_tay_1.json",
+    "chapter_name": "Chương 602: Điểm tích lũy đến tay 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-602/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_603_Điểm_tích_lũy_đến_tay_2.json",
+    "chapter_name": "Chương 603: Điểm tích lũy đến tay 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-603/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_604_Cuồng_nhân_đánh_cuộc_1.json",
+    "chapter_name": "Chương 604: Cuồng nhân đánh cuộc 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-604/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_605_Cuồng_nhân_đánh_cuộc_2.json",
+    "chapter_name": "Chương 605: Cuồng nhân đánh cuộc 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-605/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_606_Nguyện_đánh_bạc_chịu_thua_gọi_ngươi_lão_Đại.json",
+    "chapter_name": "Chương 606: Nguyện đánh bạc chịu thua, gọi ngươi lão Đại",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-606/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_607_Chung_thân_tiểu_đệ_1.json",
+    "chapter_name": "Chương 607: Chung thân tiểu đệ 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-607/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_608_Chung_thân_tiểu_đệ_2.json",
+    "chapter_name": "Chương 608: Chung thân tiểu đệ 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-608/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_609_Lâu_không_bị_ăn_đòn_không_chọn_thời_gian_đúng_không.json",
+    "chapter_name": "Chương 609: Lâu không bị ăn đòn, không chọn thời gian đúng không?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-609/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_610_Kế_hoạch_xoát_điểm_của_Giang_Trần_1.json",
+    "chapter_name": "Chương 610: Kế hoạch xoát điểm của Giang Trần 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-610/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_611_Kế_hoạch_xoát_điểm_của_Giang_Trần_2.json",
+    "chapter_name": "Chương 611: Kế hoạch xoát điểm của Giang Trần 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-611/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_612_Nhiệm_vụ_Nhị_cấp_nhẹ_nhõm_hoàn_thành.json",
+    "chapter_name": "Chương 612: Nhiệm vụ Nhị cấp, nhẹ nhõm hoàn thành",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-612/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_613_Thần_cấp_thiên_phú_1.json",
+    "chapter_name": "Chương 613: Thần cấp thiên phú 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-613/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_614_Thần_cấp_thiên_phú_2.json",
+    "chapter_name": "Chương 614: Thần cấp thiên phú 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-614/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_615_Độ_khó_Ngũ_cấp_xưa_nay_chưa_từng_có_1.json",
+    "chapter_name": "Chương 615: Độ khó Ngũ cấp, xưa nay chưa từng có 1",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-615/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_616_Độ_khó_Ngũ_cấp_xưa_nay_chưa_từng_có_2.json",
+    "chapter_name": "Chương 616: Độ khó Ngũ cấp, xưa nay chưa từng có 2",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-616/"
   }
 ]
