@@ -9073,5 +9073,1005 @@
     "path": "data/Độc_Tôn_Tam_Giới/Chương_1813_Long_huynh_Hô_đê.json",
     "chapter_name": "Chương 1813: Long huynh Hổ đệ",
     "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1813/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1814_Tinh_Tam_gia_lân_nưa_gây_hân_1.json",
+    "chapter_name": "Chương 1814: Tỉnh Tam gia lần nữa gây hấn (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1814/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1815_Tinh_Tam_gia_lân_nưa_gây_hân_2.json",
+    "chapter_name": "Chương 1815: Tỉnh Tam gia lần nữa gây hấn (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1815/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1816_Long_Tiểu_Huyền_ra_tay_1.json",
+    "chapter_name": "Chương 1816: Long Tiểu Huyền ra tay (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1816/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1817_Long_Tiểu_Huyền_ra_tay_2.json",
+    "chapter_name": "Chương 1817: Long Tiểu Huyền ra tay (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1817/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1818_Chuyên_nao_lơn.json",
+    "chapter_name": "Chương 1818: Chuyện náo lớn",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1818/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1819_Trươc_ngao_man_sau_cung_kinh_1.json",
+    "chapter_name": "Chương 1819: Trước ngạo mạn sau cung kính (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1819/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1820_Trươc_ngao_man_sau_cung_kinh_2.json",
+    "chapter_name": "Chương 1820: Trước ngạo mạn sau cung kính (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1820/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1821_Long_huynh_cang_ngay_cang_răm_thi_1.json",
+    "chapter_name": "Chương 1821: Long huynh càng ngày càng rắm thí (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1821/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1822_Long_huynh_cang_ngay_cang_răm_thi_2.json",
+    "chapter_name": "Chương 1822: Long huynh càng ngày càng rắm thí (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1822/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1823_Tât_ca_đêu_vui_ve_1.json",
+    "chapter_name": "Chương 1823: Tất cả đều vui vẻ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1823/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1824_Tât_ca_đêu_vui_ve_2.json",
+    "chapter_name": "Chương 1824: Tất cả đều vui vẻ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1824/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1825_Thiên_Oanh_thao_dung_không_hêt.json",
+    "chapter_name": "Chương 1825: Thiên Oánh thảo dùng không hết?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1825/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1826_Gia_lâm_Vân_Thiên_hôi_1.json",
+    "chapter_name": "Chương 1826: Giá lâm Vẫn Thiên hội (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1826/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1827_Gia_lâm_Vân_Thiên_hôi_2.json",
+    "chapter_name": "Chương 1827: Giá lâm Vẫn Thiên hội (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1827/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1828_Năm_ưc_van_tiên_chuôc_1.json",
+    "chapter_name": "Chương 1828: Năm ức vạn tiền chuộc (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1828/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1829_Năm_ưc_van_tiên_chuôc_2.json",
+    "chapter_name": "Chương 1829: Năm ức vạn tiền chuộc (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1829/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1830_Khiêu_khich_la_môt_viêc_lam_cân_co_ky_thuât.json",
+    "chapter_name": "Chương 1830: Khiêu khích là một việc làm cần có kỹ thuật",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1830/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1831_Không_phuc_lai_đanh_1.json",
+    "chapter_name": "Chương 1831: Không phục lại đánh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1831/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1832_Không_phuc_lai_đanh_2.json",
+    "chapter_name": "Chương 1832: Không phục lại đánh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1832/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1833_Tin_tưc_phu_mâu_1.json",
+    "chapter_name": "Chương 1833: Tin tức phụ mẫu (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1833/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1834_Tin_tưc_phu_mâu_2.json",
+    "chapter_name": "Chương 1834: Tin tức phụ mẫu (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1834/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1835_Hăn_cung_ho_Giang.json",
+    "chapter_name": "Chương 1835: Hắn cũng họ Giang?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1835/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1836_Vân_Thiên_tư_nghia_1.json",
+    "chapter_name": "Chương 1836: Vẫn Thiên tứ nghĩa (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1836/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1837_Vân_Thiên_tư_nghia_2.json",
+    "chapter_name": "Chương 1837: Vẫn Thiên tứ nghĩa (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1837/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1838_Đâu_tranh_nôi_bô_1.json",
+    "chapter_name": "Chương 1838: Đấu tranh nội bộ ? (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1838/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1839_Đâu_tranh_nôi_bô_2.json",
+    "chapter_name": "Chương 1839: Đấu tranh nội bộ ? (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1839/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1840_Đai_đê_tưc_giân.json",
+    "chapter_name": "Chương 1840: Đại đế tức giận",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1840/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1841_Vân_Thiên_tư_nghia_sơ_hai_1.json",
+    "chapter_name": "Chương 1841: Vẫn Thiên tứ nghĩa sợ hãi (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1841/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1842_Vân_Thiên_tư_nghia_sơ_hai_2.json",
+    "chapter_name": "Chương 1842: Vẫn Thiên tứ nghĩa sợ hãi (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1842/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1843_Khoc_không_ra_nươc_măt_1.json",
+    "chapter_name": "Chương 1843: Khóc không ra nước mắt (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1843/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1844_Khoc_không_ra_nươc_măt_2.json",
+    "chapter_name": "Chương 1844: Khóc không ra nước mắt (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1844/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1845_Con_co_đê_đê_muôi_muôi_sao.json",
+    "chapter_name": "Chương 1845: Còn có đệ đệ, muội muội sao?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1845/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1846_Lãnh_Nguyệt_Hình_đường_1.json",
+    "chapter_name": "Chương 1846: Lãnh Nguyệt Hình đường (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1846/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1847_Lãnh_Nguyệt_Hình_đường_2.json",
+    "chapter_name": "Chương 1847: Lãnh Nguyệt Hình đường (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1847/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1848_Ngài_là_Vô_Song_Đại_Đế_1.json",
+    "chapter_name": "Chương 1848: Ngài là Vô Song Đại Đế ? (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1848/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1849_Ngài_là_Vô_Song_Đại_Đế_2.json",
+    "chapter_name": "Chương 1849: Ngài là Vô Song Đại Đế ? (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1849/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1850_Tỉnh_tam_gia_muốn_kết_giao.json",
+    "chapter_name": "Chương 1850: Tỉnh tam gia muốn kết giao",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1850/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1851_Một_đường_hi_vọng_1.json",
+    "chapter_name": "Chương 1851: Một đường hi vọng (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1851/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1852_Một_đường_hi_vọng_2.json",
+    "chapter_name": "Chương 1852: Một đường hi vọng (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1852/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1853_Hắc_lao_khu_1.json",
+    "chapter_name": "Chương 1853: Hắc lao khu (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1853/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1854_Hắc_lao_khu_2.json",
+    "chapter_name": "Chương 1854: Hắc lao khu (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1854/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1855_Phụ_thân_Giang_Phong_hạ_lạc.json",
+    "chapter_name": "Chương 1855: Phụ thân Giang Phong hạ lạc",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1855/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1856_Thập_Tuyệt_khu_hung_địa_1.json",
+    "chapter_name": "Chương 1856: Thập Tuyệt khu hung địa (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1856/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1857_Thập_Tuyệt_khu_hung_địa_2.json",
+    "chapter_name": "Chương 1857: Thập Tuyệt khu hung địa (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1857/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1858_Một_chiêu_miểu_bại_1.json",
+    "chapter_name": "Chương 1858: Một chiêu miểu bại (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1858/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1859_Một_chiêu_miểu_bại_2.json",
+    "chapter_name": "Chương 1859: Một chiêu miểu bại (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1859/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1860_Phụ_tử_tương_kiến_không_nhận_thức.json",
+    "chapter_name": "Chương 1860: Phụ tử tương kiến không nhận thức",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1860/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1861_Cứu_phụ_thân_Giang_Phong_1.json",
+    "chapter_name": "Chương 1861: Cứu phụ thân Giang Phong (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1861/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1862_Cứu_phụ_thân_Giang_Phong_2.json",
+    "chapter_name": "Chương 1862: Cứu phụ thân Giang Phong (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1862/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1863_Phụ_tử_tình_thâm_1.json",
+    "chapter_name": "Chương 1863: Phụ tử tình thâm (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1863/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1864_Phụ_tử_tình_thâm_2.json",
+    "chapter_name": "Chương 1864: Phụ tử tình thâm (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1864/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1865_Giang_Phong_kích_động.json",
+    "chapter_name": "Chương 1865: Giang Phong kích động",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1865/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1866_Nan_đề_mới_1.json",
+    "chapter_name": "Chương 1866: Nan đề mới (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1866/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1867_Nan_đề_mới_2.json",
+    "chapter_name": "Chương 1867: Nan đề mới (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1867/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1868_Khó_khăn_trắc_trở_tái_sinh_1.json",
+    "chapter_name": "Chương 1868: Khó khăn trắc trở tái sinh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1868/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1869_Khó_khăn_trắc_trở_tái_sinh_2.json",
+    "chapter_name": "Chương 1869: Khó khăn trắc trở tái sinh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1869/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1870_Đại_Đế_chỗ_dựa.json",
+    "chapter_name": "Chương 1870: Đại Đế chỗ dựa",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1870/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1871_Nan_đề_của_Nguyệt_Thần_Giáo_1.json",
+    "chapter_name": "Chương 1871: Nan đề của Nguyệt Thần Giáo (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1871/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1872_Nan_đề_của_Nguyệt_Thần_Giáo_2.json",
+    "chapter_name": "Chương 1872: Nan đề của Nguyệt Thần Giáo (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1872/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1873_Hai_đời_Thánh_Nữ_1.json",
+    "chapter_name": "Chương 1873: Hai đời Thánh Nữ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1873/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1874_Hai_đời_Thánh_Nữ_2.json",
+    "chapter_name": "Chương 1874: Hai đời Thánh Nữ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1874/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1875_Nguyệt_Thần_Bảo_Thụ.json",
+    "chapter_name": "Chương 1875: Nguyệt Thần Bảo Thụ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1875/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1876_Làm_trò_hề_1.json",
+    "chapter_name": "Chương 1876: Làm trò hề (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1876/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1877_Làm_trò_hề_2.json",
+    "chapter_name": "Chương 1877: Làm trò hề (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1877/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1878_Giang_Trần_được_đề_cử_1.json",
+    "chapter_name": "Chương 1878: Giang Trần được đề cử (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1878/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1879_Giang_Trần_được_đề_cử_2.json",
+    "chapter_name": "Chương 1879: Giang Trần được đề cử (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1879/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1880_Giang_Trần_xuất_mã.json",
+    "chapter_name": "Chương 1880: Giang Trần xuất mã",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1880/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1881_Thanh_Tuyền_Thánh_Nữ_tâm_hồn_thiếu_nữ_mất_trật_tự_1.json",
+    "chapter_name": "Chương 1881: Thanh Tuyền Thánh Nữ tâm hồn thiếu nữ mất trật tự (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1881/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1882_Thanh_Tuyền_Thánh_Nữ_tâm_hồn_thiếu_nữ_mất_trật_tự_2.json",
+    "chapter_name": "Chương 1882: Thanh Tuyền Thánh Nữ tâm hồn thiếu nữ mất trật tự (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1882/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1883_Toàn_bộ_tông_môn_khiếp_sợ_1.json",
+    "chapter_name": "Chương 1883: Toàn bộ tông môn khiếp sợ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1883/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1884_Toàn_bộ_tông_môn_khiếp_sợ_2.json",
+    "chapter_name": "Chương 1884: Toàn bộ tông môn khiếp sợ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1884/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1885_Cái_hôn_này_không_quan_hệ_tình_yêu.json",
+    "chapter_name": "Chương 1885: Cái hôn này, không quan hệ tình yêu",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1885/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1886_Cuồng_hỉ_Từ_Mộng_Thánh_Nữ_1.json",
+    "chapter_name": "Chương 1886: Cuồng hỉ Từ Mộng Thánh Nữ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1886/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1887_Cuồng_hỉ_Từ_Mộng_Thánh_Nữ_2.json",
+    "chapter_name": "Chương 1887: Cuồng hỉ Từ Mộng Thánh Nữ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1887/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1888_Miêu_tả_sinh_động_1.json",
+    "chapter_name": "Chương 1888: Miêu tả sinh động (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1888/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1889_Miêu_tả_sinh_động_2.json",
+    "chapter_name": "Chương 1889: Miêu tả sinh động (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1889/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1890_Quen_biết_nhau.json",
+    "chapter_name": "Chương 1890: Quen biết nhau",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1890/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1891_Đường_về_1.json",
+    "chapter_name": "Chương 1891: Đường về (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1891/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1892_Đường_về_2.json",
+    "chapter_name": "Chương 1892: Đường về (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1892/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1893_Hạ_Vũ_Thiên_Kiếm_Tông_1.json",
+    "chapter_name": "Chương 1893: Hạ Vũ Thiên Kiếm Tông (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1893/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1894_Hạ_Vũ_Thiên_Kiếm_Tông_2.json",
+    "chapter_name": "Chương 1894: Hạ Vũ Thiên Kiếm Tông (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1894/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1895_Thiên_Kiếm_Tông_thịnh_tình_mời.json",
+    "chapter_name": "Chương 1895: Thiên Kiếm Tông thịnh tình mời",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1895/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1896_Khách_khanh_Đan_Đế_1.json",
+    "chapter_name": "Chương 1896: Khách khanh Đan Đế (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1896/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1897_Khách_khanh_Đan_Đế_2.json",
+    "chapter_name": "Chương 1897: Khách khanh Đan Đế (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1897/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1898_Lưu_Chấn_ủy_khuất_1.json",
+    "chapter_name": "Chương 1898: Lưu Chấn ủy khuất (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1898/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1899_Lưu_Chấn_ủy_khuất_2.json",
+    "chapter_name": "Chương 1899: Lưu Chấn ủy khuất (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1899/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1900_Có_tiền_co_thê_ma_xui_quỷ_khiến.json",
+    "chapter_name": "Chương 1900: Có tiền có thể ma xui quỷ khiến",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1900/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1901_Liễu_gia_mất_trật_tự_1.json",
+    "chapter_name": "Chương 1901: Liễu gia mất trật tự (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1901/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1902_Liễu_gia_mất_trật_tự_2.json",
+    "chapter_name": "Chương 1902: Liễu gia mất trật tự (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1902/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1903_Lưu_Chấn_hãnh_diện.json",
+    "chapter_name": "Chương 1903: Lưu Chấn hãnh diện",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1903/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1904_Trở_lại_Lưu_Ly_Vương_Thành_1.json",
+    "chapter_name": "Chương 1904: Trở lại Lưu Ly Vương Thành (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1904/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1905_Trở_lại_Lưu_Ly_Vương_Thành_2.json",
+    "chapter_name": "Chương 1905: Trở lại Lưu Ly Vương Thành (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1905/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1906_Ngửi_được_khí_tức_nguy_cơ_1.json",
+    "chapter_name": "Chương 1906: Ngửi được khí tức nguy cơ ? (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1906/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1907_Ngửi_được_khí_tức_nguy_cơ_2.json",
+    "chapter_name": "Chương 1907: Ngửi được khí tức nguy cơ ? (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1907/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1908_Cửu_Vi_Phi_Hoa_Trận.json",
+    "chapter_name": "Chương 1908: Cửu Vi Phi Hoa Trận",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1908/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1909_Lại_đến_Xích_Đỉnh_vương_đô_1.json",
+    "chapter_name": "Chương 1909: Lại đến Xích Đỉnh vương đô (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1909/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1910_Lại_đến_Xích_Đỉnh_vương_đô_2.json",
+    "chapter_name": "Chương 1910: Lại đến Xích Đỉnh vương đô (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1910/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1911_Tứ_đại_tán_tu_1.json",
+    "chapter_name": "Chương 1911: Tứ đại tán tu (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1911/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1912_Tứ_đại_tán_tu_2.json",
+    "chapter_name": "Chương 1912: Tứ đại tán tu (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1912/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1913_Lẫn_vào_Thúy_Hoa_Hiên.json",
+    "chapter_name": "Chương 1913: Lẫn vào Thúy Hoa Hiên",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1913/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1914_Tâm_tư_của_Vệ_Hạnh_Nhi_1.json",
+    "chapter_name": "Chương 1914: Tâm tư của Vệ Hạnh Nhi (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1914/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1915_Tâm_tư_của_Vệ_Hạnh_Nhi_2.json",
+    "chapter_name": "Chương 1915: Tâm tư của Vệ Hạnh Nhi (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1915/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1916_Trận_pháp_ngăn_lộ.json",
+    "chapter_name": "Chương 1916: Trận pháp ngăn lộ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1916/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1917_Diễn_ra_đùa_giỡn_1.json",
+    "chapter_name": "Chương 1917: Diễn ra đùa giỡn (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1917/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1918_Diễn_ra_đùa_giỡn_2.json",
+    "chapter_name": "Chương 1918: Diễn ra đùa giỡn (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1918/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1919_Bảo_tàng_Bí_Cảnh_1.json",
+    "chapter_name": "Chương 1919: Bảo tàng Bí Cảnh? (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1919/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1920_Bảo_tàng_Bí_Cảnh_2.json",
+    "chapter_name": "Chương 1920: Bảo tàng Bí Cảnh? (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1920/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1921_Thúy_Hoa_Hiên_chu.json",
+    "chapter_name": "Chương 1921: Thúy Hoa Hiên chủ",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1921/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1922_Huyết_quang_khốn_trận_1.json",
+    "chapter_name": "Chương 1922: Huyết quang khốn trận (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1922/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1923_Huyết_quang_khốn_trận_2.json",
+    "chapter_name": "Chương 1923: Huyết quang khốn trận (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1923/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1924_Cứu_ra_Vệ_Hạnh_Nhi.json",
+    "chapter_name": "Chương 1924: Cứu ra Vệ Hạnh Nhi",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1924/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1925_Tứ_đại_tán_tu_chặn_đường_1.json",
+    "chapter_name": "Chương 1925: Tứ đại tán tu chặn đường (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1925/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1926_Tứ_đại_tán_tu_chặn_đường_2.json",
+    "chapter_name": "Chương 1926: Tứ đại tán tu chặn đường (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1926/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1927_Chấn_nhiếp_cường_giả_Hoàng_cảnh_1.json",
+    "chapter_name": "Chương 1927: Chấn nhiếp cường giả Hoàng cảnh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1927/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1928_Chấn_nhiếp_cường_giả_Hoàng_cảnh_2.json",
+    "chapter_name": "Chương 1928: Chấn nhiếp cường giả Hoàng cảnh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1928/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1929_Diêu_công_ư_ma_hoa.json",
+    "chapter_name": "Chương 1929: Diệu công ử ma hóa",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1929/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1930_Chu_Tươc_phap_tương_môt_kich_tri_mang_1.json",
+    "chapter_name": "Chương 1930: Chu Tước pháp tướng, một kích trí mạng (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1930/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1931_Chu_Tươc_phap_tương_môt_kich_tri_mang_2.json",
+    "chapter_name": "Chương 1931: Chu Tước pháp tướng, một kích trí mạng (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1931/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1932_Long_con_sơ_hai_1.json",
+    "chapter_name": "Chương 1932: Lòng còn sợ hãi (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1932/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1933_Long_con_sơ_hai_2.json",
+    "chapter_name": "Chương 1933: Lòng còn sợ hãi (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1933/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1934_Cư_thach_lâm_1.json",
+    "chapter_name": "Chương 1934: Cự thạch lâm (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1934/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1935_Cư_thach_lâm_2.json",
+    "chapter_name": "Chương 1935: Cự thạch lâm (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1935/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1936_Chiêu_Thân_vương_1.json",
+    "chapter_name": "Chương 1936: Chiêu Thân vương (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1936/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1937_Chiêu_Thân_vương_2.json",
+    "chapter_name": "Chương 1937: Chiêu Thân vương (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1937/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1938_Cư_thach_thanh_trân.json",
+    "chapter_name": "Chương 1938: Cự thạch thành trận",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1938/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1939_Huyêt_săc_vu_hai_1.json",
+    "chapter_name": "Chương 1939: Huyết sắc vụ hải (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1939/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1940_Huyêt_săc_vu_hai_2.json",
+    "chapter_name": "Chương 1940: Huyết sắc vụ hải (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1940/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1941_Co_ke_măc_ca_1.json",
+    "chapter_name": "Chương 1941: Cò kè mặc cả (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1941/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1942_Co_ke_măc_ca_2.json",
+    "chapter_name": "Chương 1942: Cò kè mặc cả (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1942/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1943_Khai_Thiên_Kiên_nhât_phu_1.json",
+    "chapter_name": "Chương 1943: Khai Thiên Kiến nhật phù (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1943/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1944_Khai_Thiên_Kiên_nhât_phu_2.json",
+    "chapter_name": "Chương 1944: Khai Thiên Kiến nhật phù (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1944/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1945_Lương_bai_câu_thương_1.json",
+    "chapter_name": "Chương 1945: Lưỡng bại câu thương (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1945/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1946_Lương_bai_câu_thương_2.json",
+    "chapter_name": "Chương 1946: Lưỡng bại câu thương (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1946/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1947_Tương_kê_tưu_kê.json",
+    "chapter_name": "Chương 1947: Tương kế tựu kế",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1947/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1948_Ma_Đê_thưc_tinh_1.json",
+    "chapter_name": "Chương 1948: Ma Đế thức tỉnh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1948/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1949_Ma_Đê_thưc_tinh_2.json",
+    "chapter_name": "Chương 1949: Ma Đế thức tỉnh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1949/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1950_Huyêt_Quy_Ma_Đê_1.json",
+    "chapter_name": "Chương 1950: Huyết Quỳ Ma Đế (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1950/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1951_Huyêt_Quy_Ma_Đê_2.json",
+    "chapter_name": "Chương 1951: Huyết Quỳ Ma Đế (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1951/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1952_Đôi_khang_vơi_Huyêt_Quy_Ma_Đê.json",
+    "chapter_name": "Chương 1952: Đối kháng với Huyết Quỳ Ma Đế",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1952/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1953_Đanh_len_1.json",
+    "chapter_name": "Chương 1953: Đánh lén (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1953/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1954_Đanh_len_2.json",
+    "chapter_name": "Chương 1954: Đánh lén (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1954/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1955_Giêt_trơ_lai_tê_đan_1.json",
+    "chapter_name": "Chương 1955: Giết trở lại tế đàn (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1955/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1956_Giêt_trơ_lai_tê_đan_2.json",
+    "chapter_name": "Chương 1956: Giết trở lại tế đàn (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1956/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1957_Huyêt_mach_trơ_lai_như_cu_1.json",
+    "chapter_name": "Chương 1957: Huyết mạch trở lại như cũ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1957/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1958_Huyêt_mach_trơ_lai_như_cu_2.json",
+    "chapter_name": "Chương 1958: Huyết mạch trở lại như cũ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1958/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1959_Trung_Tiêu_tôn_gia.json",
+    "chapter_name": "Chương 1959: Trùng Tiêu tôn giả",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1959/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1960_Đôt_pha_Hoàng_cảnh_1.json",
+    "chapter_name": "Chương 1960: Đột phá Hoàng cảnh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1960/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1961_Đôt_pha_Hoàng_cảnh_2.json",
+    "chapter_name": "Chương 1961: Đột phá Hoàng cảnh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1961/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1962_Ban_thương_cua_cung_thư_hai_1.json",
+    "chapter_name": "Chương 1962: Ban thưởng của cung thứ hai (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1962/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1963_Ban_thương_cua_cung_thư_hai_2.json",
+    "chapter_name": "Chương 1963: Ban thưởng của cung thứ hai (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1963/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1964_Hy_vong_duy_nhât_cua_nhân_tôc.json",
+    "chapter_name": "Chương 1964: Hy vọng duy nhất của nhân tộc",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1964/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1965_Rơi_khoi_Lưu_Ly_vương_tháp_1.json",
+    "chapter_name": "Chương 1965: Rời khỏi Lưu Ly vương tháp (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1965/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1966_Rơi_khoi_Lưu_Ly_vương_tháp_2.json",
+    "chapter_name": "Chương 1966: Rời khỏi Lưu Ly vương tháp (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1966/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1967_Thi_phi_trươc_cưa_Thai_Uyên_cac_1.json",
+    "chapter_name": "Chương 1967: Thị phi trước cửa Thái Uyên các (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1967/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1968_Thi_phi_trươc_cưa_Thai_Uyên_cac_2.json",
+    "chapter_name": "Chương 1968: Thị phi trước cửa Thái Uyên các (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1968/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1969_Giang_Trần_muôn_đanh_măt_mui_1.json",
+    "chapter_name": "Chương 1969: Giang Trần muốn đánh mặt mũi (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1969/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1970_Giang_Trần_muôn_đanh_măt_mui_2.json",
+    "chapter_name": "Chương 1970: Giang Trần muốn đánh mặt mũi (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1970/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1971_Giang_Trần_phong_đô_ra_vân_đê_1.json",
+    "chapter_name": "Chương 1971: Giang Trần phong độ ra vấn đề (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1971/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1972_Giang_Trần_phong_đô_ra_vân_đê_2.json",
+    "chapter_name": "Chương 1972: Giang Trần phong độ ra vấn đề (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1972/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1973_Chênh_lêch_qua_xa.json",
+    "chapter_name": "Chương 1973: Chênh lệch quá xa",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1973/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1974_Biên_cô_nay_sinh_1.json",
+    "chapter_name": "Chương 1974: Biến cố nảy sinh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1974/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1975_Biên_cô_nay_sinh_2.json",
+    "chapter_name": "Chương 1975: Biến cố nảy sinh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1975/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1976_Dưt_khoat_giêt_vao_1.json",
+    "chapter_name": "Chương 1976: Dứt khoát giết vào (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1976/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1977_Dưt_khoat_giêt_vao_2.json",
+    "chapter_name": "Chương 1977: Dứt khoát giết vào (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1977/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1978_Khổng_Tước_đại_đế_vân_lac.json",
+    "chapter_name": "Chương 1978: Khổng Tước đại đế vẫn lạc",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1978/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1979_Căn_nguyên_cua_mâu_thuân_1.json",
+    "chapter_name": "Chương 1979: Căn nguyên của mâu thuẫn (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1979/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1980_Căn_nguyên_cua_mâu_thuân_2.json",
+    "chapter_name": "Chương 1980: Căn nguyên của mâu thuẫn (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1980/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1981_Chư_hâu_triêu_tâp_lênh_1.json",
+    "chapter_name": "Chương 1981: Chư hầu triệu tập lệnh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1981/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1982_Chư_hâu_triêu_tâp_lênh_2.json",
+    "chapter_name": "Chương 1982: Chư hầu triệu tập lệnh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1982/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1983_Nhi_vi_đai_đê.json",
+    "chapter_name": "Chương 1983: Nhị vị đại đế",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1983/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1984_Sư_lo_lăng_cua_Giang_Trần_1.json",
+    "chapter_name": "Chương 1984: Sự lo lắng của Giang Trần (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1984/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1985_Sư_lo_lăng_cua_Giang_Trần_2.json",
+    "chapter_name": "Chương 1985: Sự lo lắng của Giang Trần (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1985/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1986_Vân_Tiêu_Kim_Đâu_trân_đang_sơ_1.json",
+    "chapter_name": "Chương 1986: Vân Tiêu Kim Đấu trận đáng sợ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1986/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1987_Vân_Tiêu_Kim_Đâu_trân_đang_sơ_2.json",
+    "chapter_name": "Chương 1987: Vân Tiêu Kim Đấu trận đáng sợ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1987/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1988_Giang_Trần_chuân_bi_chiên_tranh_1.json",
+    "chapter_name": "Chương 1988: Giang Trần chuẩn bị chiến tranh (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1988/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1989_Giang_Trần_chuân_bi_chiên_tranh_2.json",
+    "chapter_name": "Chương 1989: Giang Trần chuẩn bị chiến tranh (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1989/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1990_Đao_cua_anh_hung.json",
+    "chapter_name": "Chương 1990: Đạo của anh hùng",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1990/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1991_Cơ_duyên_Thiên_Vi_1.json",
+    "chapter_name": "Chương 1991: Cơ duyên Thiên Vị (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1991/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1992_Cơ_duyên_Thiên_Vi_2.json",
+    "chapter_name": "Chương 1992: Cơ duyên Thiên Vị (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1992/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1993_Lai_đưa_Thiên_Côn_huyêt_mach_1.json",
+    "chapter_name": "Chương 1993: Lại đưa Thiên Côn huyết mạch (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1993/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1994_Lai_đưa_Thiên_Côn_huyêt_mach_2.json",
+    "chapter_name": "Chương 1994: Lại đưa Thiên Côn huyết mạch (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1994/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1995_Chư_hâu_hôi_tu_1.json",
+    "chapter_name": "Chương 1995: Chư hầu hội tụ (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1995/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1996_Chư_hâu_hôi_tu_2.json",
+    "chapter_name": "Chương 1996: Chư hầu hội tụ (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1996/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1997_Tuôn_ra_Tùng_Hạc_đan.json",
+    "chapter_name": "Chương 1997: Tuôn ra Tùng Hạc đan",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1997/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1998_Tin_tưc_cua_Khổng_Tước_đại_đế_1.json",
+    "chapter_name": "Chương 1998: Tin tức của Khổng Tước đại đế (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1998/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_1999_Tin_tưc_cua_Khổng_Tước_đại_đế_2.json",
+    "chapter_name": "Chương 1999: Tin tức của Khổng Tước đại đế (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-1999/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2000_Minh_hưu_cua_Giang_Trần_1.json",
+    "chapter_name": "Chương 2000: Minh hữu của Giang Trần (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2000/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2001_Minh_hưu_cua_Giang_Trần_2.json",
+    "chapter_name": "Chương 2001: Minh hữu của Giang Trần (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2001/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2002_Thê_lưc_tư_bên_ngoai_tơi_1.json",
+    "chapter_name": "Chương 2002: Thế lực từ bên ngoài tới (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2002/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2003_Thê_lưc_tư_bên_ngoai_tơi_2.json",
+    "chapter_name": "Chương 2003: Thế lực từ bên ngoài tới (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2003/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2004_Thiên_Thiên_cô_viên.json",
+    "chapter_name": "Chương 2004: Thiên Thiền cổ viện",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2004/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2005_Đai_hôi_chư_hâu_1.json",
+    "chapter_name": "Chương 2005: Đại hội chư hầu (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2005/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2006_Đai_hôi_chư_hâu_2.json",
+    "chapter_name": "Chương 2006: Đại hội chư hầu (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2006/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2007_Chung_ta_không_co_y_đinh_cho_ngươi_cơ_hôi_1.json",
+    "chapter_name": "Chương 2007: Chúng ta không có ý định cho ngươi cơ hội (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2007/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2008_Chung_ta_không_co_y_đinh_cho_ngươi_cơ_hôi_2.json",
+    "chapter_name": "Chương 2008: Chúng ta không có ý định cho ngươi cơ hội (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2008/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2009_Mui_thuôc_sung_mươi_phân_1.json",
+    "chapter_name": "Chương 2009: Mùi thuốc súng mười phần (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2009/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2010_Mui_thuôc_sung_mươi_phân_2.json",
+    "chapter_name": "Chương 2010: Mùi thuốc súng mười phần (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2010/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2011_Tuyên_chon.json",
+    "chapter_name": "Chương 2011: Tuyển chọn?",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2011/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2012_Bỏ_phiếu_1.json",
+    "chapter_name": "Chương 2012: Bỏ phiếu (1)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2012/"
+  },
+  {
+    "path": "data/Độc_Tôn_Tam_Giới/Chương_2013_Bỏ_phiếu_2.json",
+    "chapter_name": "Chương 2013: Bỏ phiếu (2)",
+    "url": "https://truyenfull.vn/doc-ton-tam-gioi/chuong-2013/"
   }
 ]
