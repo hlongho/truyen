@@ -17073,5 +17073,1005 @@
     "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3455_Thanh_Hoa_Kết_2.json",
     "chapter_name": "Chương 3455: Thanh Hoa Kết 2",
     "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3455/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3456_Hoa_Ăn_Thịt_Người_1.json",
+    "chapter_name": "Chương 3456: Hoa Ăn Thịt Người 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3456/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3457_Hoa_Ăn_Thịt_Người_2.json",
+    "chapter_name": "Chương 3457: Hoa Ăn Thịt Người 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3457/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3458_Mật_Thất_Trong_Mật_Thất_1.json",
+    "chapter_name": "Chương 3458: Mật Thất Trong Mật Thất 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3458/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3459_Mật_Thất_Trong_Mật_Thất_2.json",
+    "chapter_name": "Chương 3459: Mật Thất Trong Mật Thất 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3459/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3460_Mật_Thất_Trong_Mật_Thất_3.json",
+    "chapter_name": "Chương 3460: Mật Thất Trong Mật Thất 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3460/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3461_Huyết_Vu_Một_Trận_Chiến_1.json",
+    "chapter_name": "Chương 3461: Huyết Vu Một Trận Chiến 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3461/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3462_Huyết_Vu_Một_Trận_Chiến_2.json",
+    "chapter_name": "Chương 3462: Huyết Vu Một Trận Chiến 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3462/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3463_Năm_Đó_Di_Hoạ_1.json",
+    "chapter_name": "Chương 3463: Năm Đó Di Hoạ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3463/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3464_Năm_Đó_Di_Hoạ_2.json",
+    "chapter_name": "Chương 3464: Năm Đó Di Hoạ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3464/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3465_Cổ_Thần_1.json",
+    "chapter_name": "Chương 3465: Cổ Thần 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3465/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3466_Cổ_Thần_2.json",
+    "chapter_name": "Chương 3466: Cổ Thần 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3466/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3467_Mạnh_Nhất_Triệu_Hoán_Thuật_1.json",
+    "chapter_name": "Chương 3467: Mạnh Nhất Triệu Hoán Thuật 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3467/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3468_Mạnh_Nhất_Triệu_Hoán_Thuật_2.json",
+    "chapter_name": "Chương 3468: Mạnh Nhất Triệu Hoán Thuật 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3468/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3469_Mạnh_Nhất_Triệu_Hoán_Thuật_3.json",
+    "chapter_name": "Chương 3469: Mạnh Nhất Triệu Hoán Thuật 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3469/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3470_Tranh_Đoạt_Tú_Cầu_1.json",
+    "chapter_name": "Chương 3470: Tranh Đoạt Tú Cầu 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3470/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3471_Tranh_Đoạt_Tú_Cầu_2.json",
+    "chapter_name": "Chương 3471: Tranh Đoạt Tú Cầu 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3471/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3472_Phụ_Tử_Truyền_Công_1.json",
+    "chapter_name": "Chương 3472: Phụ Tử Truyền Công 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3472/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3473_Phụ_Tử_Truyền_Công_2.json",
+    "chapter_name": "Chương 3473: Phụ Tử Truyền Công 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3473/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3474_Đại_Hoạch_Toàn_Thắng_1.json",
+    "chapter_name": "Chương 3474: Đại Hoạch Toàn Thắng 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3474/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3475_Đại_Hoạch_Toàn_Thắng_2.json",
+    "chapter_name": "Chương 3475: Đại Hoạch Toàn Thắng 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3475/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3476_Thu_Hoạch_Bảo_Kiếm_1.json",
+    "chapter_name": "Chương 3476: Thu Hoạch Bảo Kiếm 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3476/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3477_Thu_Hoạch_Bảo_Kiếm_2.json",
+    "chapter_name": "Chương 3477: Thu Hoạch Bảo Kiếm 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3477/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3478_Ẩn_Tu_Môn_Phái_1.json",
+    "chapter_name": "Chương 3478: Ẩn Tu Môn Phái 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3478/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3479_Ẩn_Tu_Môn_Phái_2.json",
+    "chapter_name": "Chương 3479: Ẩn Tu Môn Phái 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3479/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3480_Tỷ_Tỷ_1.json",
+    "chapter_name": "Chương 3480: Tỷ Tỷ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3480/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3481_Tỷ_Tỷ_2.json",
+    "chapter_name": "Chương 3481: Tỷ Tỷ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3481/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3482_Phò_Mã_1.json",
+    "chapter_name": "Chương 3482: Phò Mã 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3482/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3483_Phò_Mã_2.json",
+    "chapter_name": "Chương 3483: Phò Mã 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3483/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3484_Phò_Mã_3.json",
+    "chapter_name": "Chương 3484: Phò Mã 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3484/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3485_Cửu_Thiên_Huyền_Nữ_1.json",
+    "chapter_name": "Chương 3485: Cửu Thiên Huyền Nữ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3485/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3486_Cửu_Thiên_Huyền_Nữ_2.json",
+    "chapter_name": "Chương 3486: Cửu Thiên Huyền Nữ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3486/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3487_Cửu_Thiên_Huyền_Nữ_3.json",
+    "chapter_name": "Chương 3487: Cửu Thiên Huyền Nữ 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3487/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3488_Cửu_Thiên_Huyền_Nữ_4.json",
+    "chapter_name": "Chương 3488: Cửu Thiên Huyền Nữ 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3488/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3489_Tung_Hoàng_Ngang_Dọc_1.json",
+    "chapter_name": "Chương 3489: Tung Hoàng Ngang Dọc 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3489/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3490_Tung_Hoàng_Ngang_Dọc_2.json",
+    "chapter_name": "Chương 3490: Tung Hoàng Ngang Dọc 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3490/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3491_Tung_Hoàng_Ngang_Dọc_3.json",
+    "chapter_name": "Chương 3491: Tung Hoàng Ngang Dọc 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3491/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3492_Đối_Thủ_Lợi_Hại_Nhất_1.json",
+    "chapter_name": "Chương 3492: Đối Thủ Lợi Hại Nhất 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3492/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3493_Nhất_Đối_Thủ_Lợi_Hại_2.json",
+    "chapter_name": "Chương 3493: Nhất Đối Thủ Lợi Hại 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3493/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3494_Đối_Thủ_Lợi_Hại_Nhất_3.json",
+    "chapter_name": "Chương 3494: Đối Thủ Lợi Hại Nhất 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3494/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3495_Hiên_Viên_Sơn_Sụp_Đổ_1.json",
+    "chapter_name": "Chương 3495: Hiên Viên Sơn Sụp Đổ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3495/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3496_Hiên_Viên_Sơn_Sụp_Đổ_2.json",
+    "chapter_name": "Chương 3496: Hiên Viên Sơn Sụp Đổ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3496/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3497_Hiên_Viên_Sơn_Sụp_Đổ_3.json",
+    "chapter_name": "Chương 3497: Hiên Viên Sơn Sụp Đổ 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3497/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3498_Hiên_Viên_Sơn_Sụp_Đổ_4.json",
+    "chapter_name": "Chương 3498: Hiên Viên Sơn Sụp Đổ 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3498/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3499_Sơn_Hà_Chi_Khí_1.json",
+    "chapter_name": "Chương 3499: Sơn Hà Chi Khí 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3499/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3500_Sơn_Hà_Chi_Khí_2.json",
+    "chapter_name": "Chương 3500: Sơn Hà Chi Khí 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3500/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3501_Sơn_Hà_Chi_Khí_3.json",
+    "chapter_name": "Chương 3501: Sơn Hà Chi Khí 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3501/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3502_Đánh_Lén_Quỷ_Vương_1.json",
+    "chapter_name": "Chương 3502: Đánh Lén Quỷ Vương 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3502/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3503_Đánh_Lén_Quỷ_Vương_2.json",
+    "chapter_name": "Chương 3503: Đánh Lén Quỷ Vương 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3503/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3504_Đánh_Lén_Quỷ_Vương_3.json",
+    "chapter_name": "Chương 3504: Đánh Lén Quỷ Vương 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3504/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3505_Đánh_Lén_Quỷ_Vương_4.json",
+    "chapter_name": "Chương 3505: Đánh Lén Quỷ Vương 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3505/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3506_Trúng_Mai_Phục_1.json",
+    "chapter_name": "Chương 3506: Trúng Mai Phục 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3506/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3507_Trúng_Mai_Phục_2.json",
+    "chapter_name": "Chương 3507: Trúng Mai Phục 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3507/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3508_Liên_Quan_Tới_Lần_Này_Sửa_Chữa_không_Liên_Quan_Đến_Diễn_Biến_Của_Truyện.json",
+    "chapter_name": "Chương 3508: Liên Quan Tới Lần Này Sửa Chữa (không Liên Quan Đến Diễn Biến Của Truyện)",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3508/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3509_Hương_Tiêu_Ngọc_Vẫn.json",
+    "chapter_name": "Chương 3509: Hương Tiêu Ngọc Vẫn",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3509/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3510_Hương_Tiêu_Ngọc_Vẫn_2.json",
+    "chapter_name": "Chương 3510: Hương Tiêu Ngọc Vẫn 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3510/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3511_Mã_Vương_Gia_Giang_Hồ_Tạm_Biệt_1.json",
+    "chapter_name": "Chương 3511: Mã Vương Gia Giang Hồ Tạm Biệt 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3511/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3512_Mã_Vương_Gia_Giang_Hồ_Tạm_Biệt_2.json",
+    "chapter_name": "Chương 3512: Mã Vương Gia Giang Hồ Tạm Biệt 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3512/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3513_Tu_La_Giới_Hủy_Diệt_1.json",
+    "chapter_name": "Chương 3513: Tu La Giới Hủy Diệt 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3513/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3514_Tu_La_Giới_Hủy_Diệt_1.json",
+    "chapter_name": "Chương 3514: Tu La Giới Hủy Diệt 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3514/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3515_Hiên_Viên_Sơn_Sụp_Đổ_2.json",
+    "chapter_name": "Chương 3515: Hiên Viên Sơn Sụp Đổ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3515/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3516_Tu_La_Giới_Hủy_Diệt_3.json",
+    "chapter_name": "Chương 3516: Tu La Giới Hủy Diệt 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3516/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3517_Tịch_Diệt_1.json",
+    "chapter_name": "Chương 3517: Tịch Diệt 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3517/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3518_Tịch_Diệt_2.json",
+    "chapter_name": "Chương 3518: Tịch Diệt 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3518/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3519_Tịch_Diệt_3.json",
+    "chapter_name": "Chương 3519: Tịch Diệt 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3519/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3520_Quay_Về_Tu_Di_Sơn_1.json",
+    "chapter_name": "Chương 3520: Quay Về Tu Di Sơn 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3520/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3521_Quay_Về_Tu_Di_Sơn_2.json",
+    "chapter_name": "Chương 3521: Quay Về Tu Di Sơn 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3521/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3522_Quay_Về_Tu_Di_Sơn_3.json",
+    "chapter_name": "Chương 3522: Quay Về Tu Di Sơn 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3522/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3523_Chư_Tướng_Toàn_Vô.json",
+    "chapter_name": "Chương 3523: Chư Tướng Toàn Vô",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3523/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3524_Chư_Tướng_Toàn_Vô_2.json",
+    "chapter_name": "Chương 3524: Chư Tướng Toàn Vô 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3524/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3525_Chư_Tướng_Toàn_Vô_3.json",
+    "chapter_name": "Chương 3525: Chư Tướng Toàn Vô 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3525/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3526_Chư_Tướng_Toàn_Vô_4.json",
+    "chapter_name": "Chương 3526: Chư Tướng Toàn Vô 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3526/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3527_Chư_Tướng_Toàn_Vô_5.json",
+    "chapter_name": "Chương 3527: Chư Tướng Toàn Vô 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3527/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3528_Nhân_Thần_Quan_1.json",
+    "chapter_name": "Chương 3528: Nhân Thần Quan 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3528/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3529_Nhân_Thần_Quan_2.json",
+    "chapter_name": "Chương 3529: Nhân Thần Quan 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3529/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3530_Thần_Bí_Cường_Địch_1.json",
+    "chapter_name": "Chương 3530: Thần Bí Cường Địch 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3530/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3531_Thần_Bí_Cường_Địch_2.json",
+    "chapter_name": "Chương 3531: Thần Bí Cường Địch 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3531/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3532_Thần_Bí_Cường_Địch_3.json",
+    "chapter_name": "Chương 3532: Thần Bí Cường Địch 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3532/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3533_Chuyên_Chú_Thiếu_Niên_1.json",
+    "chapter_name": "Chương 3533: Chuyên Chú Thiếu Niên 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3533/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3534_Chuyên_Chú_Thiếu_Niên_2.json",
+    "chapter_name": "Chương 3534: Chuyên Chú Thiếu Niên 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3534/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3535_Đổ_Ước_1.json",
+    "chapter_name": "Chương 3535: Đổ Ước 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3535/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3536_Đổ_Ước_2.json",
+    "chapter_name": "Chương 3536: Đổ Ước 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3536/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3537_Đinh_Đầu_Thất_Tiễn_Thư_1.json",
+    "chapter_name": "Chương 3537: Đinh Đầu Thất Tiễn Thư 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3537/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3538_Đinh_Đầu_Thất_Tiễn_Thư_2.json",
+    "chapter_name": "Chương 3538: Đinh Đầu Thất Tiễn Thư 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3538/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3539_Đinh_Đầu_Thất_Tiễn_Thư_3.json",
+    "chapter_name": "Chương 3539: Đinh Đầu Thất Tiễn Thư 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3539/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3540_Thu_Bộc_4.json",
+    "chapter_name": "Chương 3540: Thu Bộc 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3540/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3541_Thu_Bộc_5.json",
+    "chapter_name": "Chương 3541: Thu Bộc 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3541/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3542_Tuyên_Bố_Nhân_Thần_Quan_1.json",
+    "chapter_name": "Chương 3542: Tuyên Bố Nhân Thần Quan 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3542/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3543_Tuyên_Bố_Nhân_Thần_Quan_2.json",
+    "chapter_name": "Chương 3543: Tuyên Bố Nhân Thần Quan 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3543/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3544_Tuyên_Bố_Nhân_Thần_Quan_3.json",
+    "chapter_name": "Chương 3544: Tuyên Bố Nhân Thần Quan 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3544/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3545_Ngũ_Châu_Sơn_Nghe_Ai_1.json",
+    "chapter_name": "Chương 3545: Ngũ Châu Sơn Nghe Ai 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3545/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3546_Ngũ_Châu_Sơn_Nghe_Ai_2.json",
+    "chapter_name": "Chương 3546: Ngũ Châu Sơn Nghe Ai 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3546/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3547_Ngũ_Châu_Sơn_Nghe_Ai_3.json",
+    "chapter_name": "Chương 3547: Ngũ Châu Sơn Nghe Ai 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3547/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3548_Hai_Cái_Nhân_Thần_Quan_1.json",
+    "chapter_name": "Chương 3548: Hai Cái Nhân Thần Quan 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3548/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3549_Hai_Cái_Nhân_Thần_Quan_2.json",
+    "chapter_name": "Chương 3549: Hai Cái Nhân Thần Quan 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3549/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3550_Hai_Cái_Nhân_Thần_Quan_3.json",
+    "chapter_name": "Chương 3550: Hai Cái Nhân Thần Quan 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3550/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3551_Hai_Cái_Nhân_Thần_Quan_4.json",
+    "chapter_name": "Chương 3551: Hai Cái Nhân Thần Quan 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3551/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3552_Trần_Hiểu_Húc_Thức_Tỉnh_1.json",
+    "chapter_name": "Chương 3552: Trần Hiểu Húc Thức Tỉnh 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3552/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3553_Trần_Hiểu_Húc_Thức_Tỉnh_2.json",
+    "chapter_name": "Chương 3553: Trần Hiểu Húc Thức Tỉnh 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3553/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3554_Trần_Hiểu_Húc_Thức_Tỉnh_3.json",
+    "chapter_name": "Chương 3554: Trần Hiểu Húc Thức Tỉnh 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3554/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3555_Trần_Hiểu_Húc_Thức_Tỉnh_4.json",
+    "chapter_name": "Chương 3555: Trần Hiểu Húc Thức Tỉnh 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3555/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3556_Trần_Hiểu_Húc_Thức_Tỉnh_5.json",
+    "chapter_name": "Chương 3556: Trần Hiểu Húc Thức Tỉnh 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3556/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3557_Trần_Hiểu_Húc_Thức_Tỉnh_6.json",
+    "chapter_name": "Chương 3557: Trần Hiểu Húc Thức Tỉnh 6",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3557/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3558_Trần_Hiểu_Húc_Thức_Tỉnh_7.json",
+    "chapter_name": "Chương 3558: Trần Hiểu Húc Thức Tỉnh 7",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3558/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3559_Kế_Hoạch_Mới_1.json",
+    "chapter_name": "Chương 3559: Kế Hoạch Mới 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3559/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3560_Kế_Hoạch_Mới_2.json",
+    "chapter_name": "Chương 3560: Kế Hoạch Mới 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3560/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3561_Kế_Hoạch_Mới_3.json",
+    "chapter_name": "Chương 3561: Kế Hoạch Mới 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3561/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3562_Kế_Hoạch_Mới_4.json",
+    "chapter_name": "Chương 3562: Kế Hoạch Mới 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3562/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3563_Kế_Hoạch_Mới_5.json",
+    "chapter_name": "Chương 3563: Kế Hoạch Mới 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3563/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3564_Tìm_Kiếm_Xi_Vưu_1.json",
+    "chapter_name": "Chương 3564: Tìm Kiếm Xi Vưu 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3564/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3565_Tìm_Kiếm_Xi_Vưu_2.json",
+    "chapter_name": "Chương 3565: Tìm Kiếm Xi Vưu 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3565/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3566_Thật_Cửu_Thiên_Huyền_Nữ_1.json",
+    "chapter_name": "Chương 3566: Thật Cửu Thiên Huyền Nữ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3566/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3567_Thật_Cửu_Thiên_Huyền_Nữ_2.json",
+    "chapter_name": "Chương 3567: Thật Cửu Thiên Huyền Nữ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3567/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3568_Thật_Cửu_Thiên_Huyền_Nữ_3.json",
+    "chapter_name": "Chương 3568: Thật Cửu Thiên Huyền Nữ 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3568/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3569_Từ_Công_Hạnh_Ngộ_1.json",
+    "chapter_name": "Chương 3569: Từ Công Hạnh Ngộ 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3569/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3570_Từ_Công_Hạnh_Ngộ_2.json",
+    "chapter_name": "Chương 3570: Từ Công Hạnh Ngộ 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3570/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3571_Tiểu_Cửu_Trở_Về.json",
+    "chapter_name": "Chương 3571: Tiểu Cửu Trở Về",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3571/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3572_Tân_Chưởng_Môn_1.json",
+    "chapter_name": "Chương 3572: Tân Chưởng Môn 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3572/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3573_Tân_Chưởng_Môn_2.json",
+    "chapter_name": "Chương 3573: Tân Chưởng Môn 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3573/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3574_Tân_Chưởng_Môn_3.json",
+    "chapter_name": "Chương 3574: Tân Chưởng Môn 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3574/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3575_Tân_Chưởng_Môn_4.json",
+    "chapter_name": "Chương 3575: Tân Chưởng Môn 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3575/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3576_Tân_Chưởng_Môn_5.json",
+    "chapter_name": "Chương 3576: Tân Chưởng Môn 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3576/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3577_Phản_Bội_1.json",
+    "chapter_name": "Chương 3577: Phản Bội 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3577/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3578_Phản_Bội_2.json",
+    "chapter_name": "Chương 3578: Phản Bội 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3578/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3579_Phóng_Thích_Xi_Vưu_1.json",
+    "chapter_name": "Chương 3579: Phóng Thích Xi Vưu 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3579/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3580_Phóng_Thích_Xi_Vưu_2.json",
+    "chapter_name": "Chương 3580: Phóng Thích Xi Vưu 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3580/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3581_Phóng_Thích_Xi_Vưu_3.json",
+    "chapter_name": "Chương 3581: Phóng Thích Xi Vưu 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3581/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3582_Phóng_Thích_Xi_Vưu_4.json",
+    "chapter_name": "Chương 3582: Phóng Thích Xi Vưu 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3582/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3583_Thật_Giả_Lãnh_Ngọc_1.json",
+    "chapter_name": "Chương 3583: Thật Giả Lãnh Ngọc 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3583/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3584_Thật_Giả_Lãnh_Ngọc_2.json",
+    "chapter_name": "Chương 3584: Thật Giả Lãnh Ngọc 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3584/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3585_Mộng_Tỉnh_1.json",
+    "chapter_name": "Chương 3585: Mộng Tỉnh 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3585/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3586_Mộng_Tỉnh_2.json",
+    "chapter_name": "Chương 3586: Mộng Tỉnh 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3586/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3587_Mộng_Tỉnh_3.json",
+    "chapter_name": "Chương 3587: Mộng Tỉnh 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3587/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3588_Mộng_Tỉnh_4.json",
+    "chapter_name": "Chương 3588: Mộng Tỉnh 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3588/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3589_Chân_Tướng_1.json",
+    "chapter_name": "Chương 3589: Chân Tướng 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3589/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3590_Chân_Tướng_2.json",
+    "chapter_name": "Chương 3590: Chân Tướng 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3590/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3591_Chân_Tướng_3.json",
+    "chapter_name": "Chương 3591: Chân Tướng 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3591/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3592_Chân_Tướng_4.json",
+    "chapter_name": "Chương 3592: Chân Tướng 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3592/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3593_Tình_Thế_Hỗn_Loạn_1.json",
+    "chapter_name": "Chương 3593: Tình Thế Hỗn Loạn 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3593/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3594_Tình_Thế_Hỗn_Loạn_2.json",
+    "chapter_name": "Chương 3594: Tình Thế Hỗn Loạn 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3594/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3595_Tình_Thế_Hỗn_Loạn_3.json",
+    "chapter_name": "Chương 3595: Tình Thế Hỗn Loạn 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3595/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3596_Tình_Thế_Hỗn_Loạn_4.json",
+    "chapter_name": "Chương 3596: Tình Thế Hỗn Loạn 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3596/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3597_Dũng_Khí_So_Đấu_1.json",
+    "chapter_name": "Chương 3597: Dũng Khí So Đấu 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3597/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3598_Dũng_Khí_So_Đấu_2.json",
+    "chapter_name": "Chương 3598: Dũng Khí So Đấu 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3598/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3599_Liền_Chiến_Ba_Người.json",
+    "chapter_name": "Chương 3599: Liền Chiến Ba Người",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3599/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3600_Liền_Chiến_Ba_Người_2.json",
+    "chapter_name": "Chương 3600: Liền Chiến Ba Người 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3600/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3601_Truyền_Thuyết_Cấp_Nhân_Vật_1.json",
+    "chapter_name": "Chương 3601: Truyền Thuyết Cấp Nhân Vật 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3601/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3602_Truyền_Thuyết_Cấp_Nhân_Vật_2.json",
+    "chapter_name": "Chương 3602: Truyền Thuyết Cấp Nhân Vật 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3602/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3603_Truyền_Thuyết_Cấp_Nhân_Vật_3.json",
+    "chapter_name": "Chương 3603: Truyền Thuyết Cấp Nhân Vật 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3603/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3604_Truyền_Thuyết_Cấp_Nhân_Vật_4.json",
+    "chapter_name": "Chương 3604: Truyền Thuyết Cấp Nhân Vật 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3604/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3605_Truyền_Thuyết_Cấp_Nhân_Vật_5.json",
+    "chapter_name": "Chương 3605: Truyền Thuyết Cấp Nhân Vật 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3605/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3606_Nhận_Nhau_1.json",
+    "chapter_name": "Chương 3606: Nhận Nhau 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3606/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3607_Nhận_Nhau_2.json",
+    "chapter_name": "Chương 3607: Nhận Nhau 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3607/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3608_Nhận_Nhau_3.json",
+    "chapter_name": "Chương 3608: Nhận Nhau 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3608/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3609_Quỷ_Vương_Bắt_Đầu_Hành_Động_1.json",
+    "chapter_name": "Chương 3609: Quỷ Vương Bắt Đầu Hành Động 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3609/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3610_Quỷ_Vương_Bắt_Đầu_Hành_Động_2.json",
+    "chapter_name": "Chương 3610: Quỷ Vương Bắt Đầu Hành Động 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3610/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3611_Quỷ_Vương_Bắt_Đầu_Hành_Động_3.json",
+    "chapter_name": "Chương 3611: Quỷ Vương Bắt Đầu Hành Động 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3611/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3612_Quỷ_Vương_Bắt_Đầu_Hành_Động_4.json",
+    "chapter_name": "Chương 3612: Quỷ Vương Bắt Đầu Hành Động 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3612/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3613_Quỷ_Vương_Bắt_Đầu_Hành_Động_5.json",
+    "chapter_name": "Chương 3613: Quỷ Vương Bắt Đầu Hành Động 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3613/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3614_Quỷ_Vương_Bắt_Đầu_Hành_Động_6.json",
+    "chapter_name": "Chương 3614: Quỷ Vương Bắt Đầu Hành Động 6",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3614/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3615_Quỷ_Vương_Bắt_Đầu_Hành_Động_7.json",
+    "chapter_name": "Chương 3615: Quỷ Vương Bắt Đầu Hành Động 7",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3615/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3616_Quỷ_Vương_Bắt_Đầu_Hành_Động_8.json",
+    "chapter_name": "Chương 3616: Quỷ Vương Bắt Đầu Hành Động 8",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3616/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3617_Quỷ_Vương_Bắt_Đầu_Hành_Động_9.json",
+    "chapter_name": "Chương 3617: Quỷ Vương Bắt Đầu Hành Động 9",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3617/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3618_Xi_Vưu_Trùng_Sinh_1.json",
+    "chapter_name": "Chương 3618: Xi Vưu Trùng Sinh 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3618/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3619_Xi_Vưu_Trùng_Sinh_2.json",
+    "chapter_name": "Chương 3619: Xi Vưu Trùng Sinh 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3619/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3620_Xi_Vưu_Trùng_Sinh_3.json",
+    "chapter_name": "Chương 3620: Xi Vưu Trùng Sinh 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3620/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3621_Xi_Vưu_Trùng_Sinh_4.json",
+    "chapter_name": "Chương 3621: Xi Vưu Trùng Sinh 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3621/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3622_Xi_Vưu_Trùng_Sinh_5.json",
+    "chapter_name": "Chương 3622: Xi Vưu Trùng Sinh 5",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3622/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3623_Xi_Vưu_Trùng_Sinh_6.json",
+    "chapter_name": "Chương 3623: Xi Vưu Trùng Sinh 6",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3623/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3624_Xi_Vưu_Trùng_Sinh_7.json",
+    "chapter_name": "Chương 3624: Xi Vưu Trùng Sinh 7",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3624/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3625_Xi_Vưu_Trùng_Sinh_8.json",
+    "chapter_name": "Chương 3625: Xi Vưu Trùng Sinh 8",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3625/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3626_Xi_Vưu_Trùng_Sinh_9.json",
+    "chapter_name": "Chương 3626: Xi Vưu Trùng Sinh 9",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3626/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3627_Xi_Vưu_Trùng_Sinh_10.json",
+    "chapter_name": "Chương 3627: Xi Vưu Trùng Sinh 10",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3627/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3628_Xi_Vưu_Trùng_Sinh_11.json",
+    "chapter_name": "Chương 3628: Xi Vưu Trùng Sinh 11",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3628/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3629_Xi_Vưu_Trùng_Sinh_12.json",
+    "chapter_name": "Chương 3629: Xi Vưu Trùng Sinh 12",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3629/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3630_Xi_Vưu_Trùng_Sinh_13.json",
+    "chapter_name": "Chương 3630: Xi Vưu Trùng Sinh 13",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3630/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3631_Xi_Vưu_Trùng_Sinh_14.json",
+    "chapter_name": "Chương 3631: Xi Vưu Trùng Sinh 14",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3631/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3632_Xi_Vưu_Trùng_Sinh_15.json",
+    "chapter_name": "Chương 3632: Xi Vưu Trùng Sinh 15",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3632/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3633_Xi_Vưu_Trùng_Sinh_16.json",
+    "chapter_name": "Chương 3633: Xi Vưu Trùng Sinh 16",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3633/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3634_Xi_Vưu_Trùng_Sinh_17.json",
+    "chapter_name": "Chương 3634: Xi Vưu Trùng Sinh 17",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3634/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3635_Xi_Vưu_Trùng_Sinh_18.json",
+    "chapter_name": "Chương 3635: Xi Vưu Trùng Sinh 18",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3635/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3636_Xi_Vưu_Trùng_Sinh_19.json",
+    "chapter_name": "Chương 3636: Xi Vưu Trùng Sinh 19",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3636/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3637_Xi_Vưu_Trùng_Sinh_20.json",
+    "chapter_name": "Chương 3637: Xi Vưu Trùng Sinh 20",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3637/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3638_Thiên_Mệnh_1.json",
+    "chapter_name": "Chương 3638: Thiên Mệnh? 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3638/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3639_Thiên_Mệnh_2.json",
+    "chapter_name": "Chương 3639: Thiên Mệnh? 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3639/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3640_Thiên_Mệnh_3.json",
+    "chapter_name": "Chương 3640: Thiên Mệnh? 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3640/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3641_Thần_Tiên_Đánh_Nhau_1.json",
+    "chapter_name": "Chương 3641: Thần Tiên Đánh Nhau 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3641/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3642_Thần_Tiên_Đánh_Nhau_2.json",
+    "chapter_name": "Chương 3642: Thần Tiên Đánh Nhau 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3642/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3643_Thần_Tiên_Đánh_Nhau_3.json",
+    "chapter_name": "Chương 3643: Thần Tiên Đánh Nhau 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3643/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3644_Thi_Tộc_Tận_Thế_1.json",
+    "chapter_name": "Chương 3644: Thi Tộc Tận Thế 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3644/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3645_Thi_Tộc_Tận_Thế_2.json",
+    "chapter_name": "Chương 3645: Thi Tộc Tận Thế 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3645/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3646_Thi_Tộc_Tận_Thế_3.json",
+    "chapter_name": "Chương 3646: Thi Tộc Tận Thế 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3646/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3647_Thi_Tộc_Tận_Thế_4.json",
+    "chapter_name": "Chương 3647: Thi Tộc Tận Thế 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3647/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3648_Không_Giới_Hoàng_Hôn_1.json",
+    "chapter_name": "Chương 3648: Không Giới Hoàng Hôn 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3648/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3649_Không_Giới_Hoàng_Hôn_2.json",
+    "chapter_name": "Chương 3649: Không Giới Hoàng Hôn 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3649/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3650_Không_Giới_Hoàng_Hôn_3.json",
+    "chapter_name": "Chương 3650: Không Giới Hoàng Hôn 3",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3650/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3651_Không_Giới_Hoàng_Hôn_4.json",
+    "chapter_name": "Chương 3651: Không Giới Hoàng Hôn 4",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3651/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3652_Đại_Đế_Tín_Niệm_1.json",
+    "chapter_name": "Chương 3652: Đại Đế Tín Niệm 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3652/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3653_Đại_Đế_Tín_Niệm_2.json",
+    "chapter_name": "Chương 3653: Đại Đế Tín Niệm 2",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3653/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3654_Đại_Đế_Kế_Hoạch_1.json",
+    "chapter_name": "Chương 3654: Đại Đế Kế Hoạch 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3654/"
+  },
+  {
+    "path": "data/Mao_Sơn_Tróc_Quỷ_Nhân/Chương_3655_Trước_Khi_Quyết_Chiến_1.json",
+    "chapter_name": "Chương 3655: Trước Khi Quyết Chiến 1",
+    "url": "https://truyenfull.vn/mao-son-troc-quy-nhan/chuong-3655/"
   }
 ]
