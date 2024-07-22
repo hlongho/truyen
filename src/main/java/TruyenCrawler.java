@@ -248,6 +248,11 @@ public class TruyenCrawler {
                     }
                 } else {
                     nextPageUrl = null;
+                    if ("Full".equals(storyData.get("status"))) {
+                        // Đã crawl đến chương cuối cùng
+                        storyData.put("success", "true");
+                    }
+
                 }
 
             } catch (IOException e) {
