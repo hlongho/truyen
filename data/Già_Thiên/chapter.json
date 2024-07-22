@@ -3073,5 +3073,1005 @@
     "path": "data/Già_Thiên/Chương_615_Tiếp_giáp_Kỳ_Sĩ_Phủ.json",
     "chapter_name": "Chương 615: Tiếp giáp Kỳ Sĩ Phủ",
     "url": "https://truyenfull.vn/gia-thien/chuong-615/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_616_Hoang_Lư.json",
+    "chapter_name": "Chương 616: Hoang Lư",
+    "url": "https://truyenfull.vn/gia-thien/chuong-616/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_617_Linh_chu_khac_loai.json",
+    "chapter_name": "Chương 617: Lĩnh chủ khác loại",
+    "url": "https://truyenfull.vn/gia-thien/chuong-617/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_618_Lĩnh_chủ_trâu_bò_nhất_trong_lịch_sử.json",
+    "chapter_name": "Chương 618: Lĩnh chủ trâu bò nhất trong lịch sử",
+    "url": "https://truyenfull.vn/gia-thien/chuong-618/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_619_Hoa_nhất_thế_giới.json",
+    "chapter_name": "Chương 619: Hoa nhất thế giới",
+    "url": "https://truyenfull.vn/gia-thien/chuong-619/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_620_Nhất_lá_cỏ_nhất_thiên_đường.json",
+    "chapter_name": "Chương 620: Nhất lá cỏ, nhất thiên đường",
+    "url": "https://truyenfull.vn/gia-thien/chuong-620/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_621_Nhất_lá_cỏ_nhất_thiên_đường_hạ.json",
+    "chapter_name": "Chương 621: Nhất lá cỏ, nhất thiên đường (hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-621/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_622_Quận_chúa_làm_thị_nư.json",
+    "chapter_name": "Chương 622: Quận chúa làm thị nữ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-622/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_623_Thế_Giới_Tiên_Cổ.json",
+    "chapter_name": "Chương 623: Thế Giới Tiên Cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-623/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_624_Tiên_phu_đăc_đao.json",
+    "chapter_name": "Chương 624: Tiên phủ đắc đạo",
+    "url": "https://truyenfull.vn/gia-thien/chuong-624/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_625_Tư_Nguyêt_Thân_Vương.json",
+    "chapter_name": "Chương 625: Tử Nguyệt Thần Vương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-625/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_626_Nhân_Vương_Ấn.json",
+    "chapter_name": "Chương 626: Nhân Vương Ấn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-626/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_627_Vạn_Thương_Cung_bắn_yêu_nghiệt_Thượng.json",
+    "chapter_name": "Chương 627: Vạn Thương Cung bắn yêu nghiệt! (Thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-627/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_628_Vạn_Thương_Cung_bắn_yêu_nghiệt_Ha.json",
+    "chapter_name": "Chương 628: Vạn Thương Cung bắn yêu nghiệt! (Hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-628/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_629_Thanh_lưc_không_dưt.json",
+    "chapter_name": "Chương 629: Thánh lực không dứt!",
+    "url": "https://truyenfull.vn/gia-thien/chuong-629/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_630_Đuôi_giêt_yêu_nghiêt.json",
+    "chapter_name": "Chương 630: Đuổi giết yêu nghiệt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-630/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_631_Tiên_đông_Thương.json",
+    "chapter_name": "Chương 631: Tiên động (Thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-631/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_632_Tiên_đông_Ha.json",
+    "chapter_name": "Chương 632: Tiên động (Hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-632/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_633_Cươp_sach_Thân_Tang_cua_Đoan_Đưc.json",
+    "chapter_name": "Chương 633: Cướp sạch Thần Tàng của Đoạn Đức",
+    "url": "https://truyenfull.vn/gia-thien/chuong-633/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_634_Lây_băng_hêt_Thương.json",
+    "chapter_name": "Chương 634: Lấy bằng hết! (Thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-634/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_635_Lây_băng_hêt_Ha.json",
+    "chapter_name": "Chương 635: Lấy bằng hết! (Hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-635/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_636_Di_đông.json",
+    "chapter_name": "Chương 636: Dị động",
+    "url": "https://truyenfull.vn/gia-thien/chuong-636/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_637_Thanh_nhân_chi_binh.json",
+    "chapter_name": "Chương 637: Thánh nhân chi binh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-637/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_638_Lai_gặp_thiên_kiêp.json",
+    "chapter_name": "Chương 638: Lại gặp thiên kiếp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-638/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_639_La_ai_đô_kiêp.json",
+    "chapter_name": "Chương 639: Là ai độ kiếp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-639/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_640_Đai_Long_Kiêp.json",
+    "chapter_name": "Chương 640: Đại Long Kiếp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-640/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_641_Tiên_Tang_Đồ.json",
+    "chapter_name": "Chương 641: Tiên Táng Đồ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-641/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_642_Hoa_Long_đê_nhât_sat.json",
+    "chapter_name": "Chương 642: Hóa Long đệ nhất sát",
+    "url": "https://truyenfull.vn/gia-thien/chuong-642/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_643_Tiên_vao_Tang_Tiên_Đia.json",
+    "chapter_name": "Chương 643: Tiến vào Táng Tiên Địa",
+    "url": "https://truyenfull.vn/gia-thien/chuong-643/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_644_Thi_Thân_Trung.json",
+    "chapter_name": "Chương 644: Thí Thần Trùng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-644/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_645_Thân_Chi_Niêm_Thương.json",
+    "chapter_name": "Chương 645: Thần Chi Niệm (Thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-645/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_646_Thân_Chi_Niêm_Ha.json",
+    "chapter_name": "Chương 646: Thần Chi Niệm (Hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-646/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_647_Thân_phu_hiên.json",
+    "chapter_name": "Chương 647: Thần phủ hiện",
+    "url": "https://truyenfull.vn/gia-thien/chuong-647/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_648_Cô_phu_bao_vât_lâp_lanh.json",
+    "chapter_name": "Chương 648: Cổ phủ bảo vật lấp lánh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-648/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_649_Đô_Nhân_Kinh_Thương.json",
+    "chapter_name": "Chương 649: Độ Nhân Kinh (Thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-649/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_650_Đô_Nhân_Kinh_Ha.json",
+    "chapter_name": "Chương 650: Độ Nhân Kinh (Hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-650/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_651_Ô_sào_thánh_cốt.json",
+    "chapter_name": "Chương 651: Ô sào thánh cốt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-651/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_652_Tiên_Lệ_Lục_Kim_thư.json",
+    "chapter_name": "Chương 652: Tiên Lệ Lục Kim thư",
+    "url": "https://truyenfull.vn/gia-thien/chuong-652/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_653_Cổ_thần_quan.json",
+    "chapter_name": "Chương 653: Cổ thần quan",
+    "url": "https://truyenfull.vn/gia-thien/chuong-653/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_654_Lực_áp_đại_năng.json",
+    "chapter_name": "Chương 654: Lực áp đại năng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-654/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_655_Tiên_nhân.json",
+    "chapter_name": "Chương 655: Tiên nhân?",
+    "url": "https://truyenfull.vn/gia-thien/chuong-655/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_656_Thái_Hoàng.json",
+    "chapter_name": "Chương 656: Thái Hoàng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-656/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_657_Thôn_Thiên_Ma_Quán_hiện.json",
+    "chapter_name": "Chương 657: Thôn Thiên Ma Quán hiện",
+    "url": "https://truyenfull.vn/gia-thien/chuong-657/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_658_Thái_Hoàng_Kiếm_Cửu_Lê_Đồ_Thôn_Thiên_Quán.json",
+    "chapter_name": "Chương 658: Thái Hoàng Kiếm, Cửu Lê Đồ, Thôn Thiên Quán",
+    "url": "https://truyenfull.vn/gia-thien/chuong-658/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_659_Lưỡng_trọng_kiếp.json",
+    "chapter_name": "Chương 659: Lưỡng trọng kiếp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-659/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_660_Vạn_kiếp.json",
+    "chapter_name": "Chương 660: Vạn kiếp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-660/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_661_Kêu_gào_thiên_hạ.json",
+    "chapter_name": "Chương 661: Kêu gào thiên hạ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-661/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_662_Khí_phách.json",
+    "chapter_name": "Chương 662: Khí phách",
+    "url": "https://truyenfull.vn/gia-thien/chuong-662/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_663_Ấu_đệ_của_cổ_đế.json",
+    "chapter_name": "Chương 663: Ấu đệ của cổ đế",
+    "url": "https://truyenfull.vn/gia-thien/chuong-663/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_664_Cổ_đế_Vương_Đằng.json",
+    "chapter_name": "Chương 664: Cổ đế Vương Đằng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-664/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_665_Chiến_Vương_Đằng.json",
+    "chapter_name": "Chương 665: Chiến Vương Đằng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-665/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_666_Trung_Hoàng_chín_ngàn_năm_trước_tái_hiện.json",
+    "chapter_name": "Chương 666: Trung Hoàng chín ngàn năm trước tái hiện",
+    "url": "https://truyenfull.vn/gia-thien/chuong-666/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_667_Tây_Bá_Thành.json",
+    "chapter_name": "Chương 667: Tây Bá Thành",
+    "url": "https://truyenfull.vn/gia-thien/chuong-667/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_668_Thịnh_hội_bán_đấu_giá_siêu_cấp.json",
+    "chapter_name": "Chương 668: Thịnh hội bán đấu giá siêu cấp",
+    "url": "https://truyenfull.vn/gia-thien/chuong-668/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_669_Cửu_Thiên_Bích_Lạc_Chung_Vương.json",
+    "chapter_name": "Chương 669: Cửu Thiên Bích Lạc Chung Vương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-669/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_670_Thần_Ma.json",
+    "chapter_name": "Chương 670: Thần Ma",
+    "url": "https://truyenfull.vn/gia-thien/chuong-670/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_671_Bát_cấm.json",
+    "chapter_name": "Chương 671: Bát cấm",
+    "url": "https://truyenfull.vn/gia-thien/chuong-671/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_672_Bí_Cảnh_nhân_thế_cuối_cùng.json",
+    "chapter_name": "Chương 672: Bí Cảnh nhân thế cuối cùng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-672/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_673_Dưới_ruộng_giấu_Kỳ_Lân.json",
+    "chapter_name": "Chương 673: Dưới ruộng giấu Kỳ Lân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-673/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_674_Vị_Thánh_nhân_thứ_hai.json",
+    "chapter_name": "Chương 674: Vị Thánh nhân thứ hai",
+    "url": "https://truyenfull.vn/gia-thien/chuong-674/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_675_Độ_kiếp_được_tủy.json",
+    "chapter_name": "Chương 675: Độ kiếp được tủy",
+    "url": "https://truyenfull.vn/gia-thien/chuong-675/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_676_Cửu_Bí_vân_động.json",
+    "chapter_name": "Chương 676: Cửu Bí vân động",
+    "url": "https://truyenfull.vn/gia-thien/chuong-676/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_677_Chặn_giết.json",
+    "chapter_name": "Chương 677: Chặn giết",
+    "url": "https://truyenfull.vn/gia-thien/chuong-677/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_678_Sáu_chữ_chân_ngôn_chiến_Cửu_Bí.json",
+    "chapter_name": "Chương 678: Sáu chữ chân ngôn chiến Cửu Bí",
+    "url": "https://truyenfull.vn/gia-thien/chuong-678/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_679_Chỉ_hướng_Thanh_đế.json",
+    "chapter_name": "Chương 679: Chỉ hướng Thanh đế",
+    "url": "https://truyenfull.vn/gia-thien/chuong-679/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_680_Mười_tám.json",
+    "chapter_name": "Chương 680: Mười tám",
+    "url": "https://truyenfull.vn/gia-thien/chuong-680/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_681_Tần_Môn.json",
+    "chapter_name": "Chương 681: Tần Môn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-681/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_682_Độ_Thần.json",
+    "chapter_name": "Chương 682: Độ Thần",
+    "url": "https://truyenfull.vn/gia-thien/chuong-682/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_683_Thôn_Thiên_Ma_Công.json",
+    "chapter_name": "Chương 683: Thôn Thiên Ma Công",
+    "url": "https://truyenfull.vn/gia-thien/chuong-683/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_684_Đoạt_mồi_trong_miệng_hổ.json",
+    "chapter_name": "Chương 684: Đoạt mồi trong miệng hổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-684/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_685_Hái_thần_dược_thế_gian.json",
+    "chapter_name": "Chương 685: Hái thần dược thế gian",
+    "url": "https://truyenfull.vn/gia-thien/chuong-685/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_686_Phi_Tiên_Quyết.json",
+    "chapter_name": "Chương 686: Phi Tiên Quyết",
+    "url": "https://truyenfull.vn/gia-thien/chuong-686/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_687_Khai_sáng_thuật.json",
+    "chapter_name": "Chương 687: Khai sáng thuật",
+    "url": "https://truyenfull.vn/gia-thien/chuong-687/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_688_Bảo_bình_đại_đạo.json",
+    "chapter_name": "Chương 688: Bảo bình đại đạo",
+    "url": "https://truyenfull.vn/gia-thien/chuong-688/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_689_Vương_giả_vô_địch.json",
+    "chapter_name": "Chương 689: Vương giả vô địch",
+    "url": "https://truyenfull.vn/gia-thien/chuong-689/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_690_Quyết_đấu_Lý_Tiểu_Mạn.json",
+    "chapter_name": "Chương 690: Quyết đấu Lý Tiểu Mạn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-690/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_691_Khổ_chiến.json",
+    "chapter_name": "Chương 691: Khổ chiến",
+    "url": "https://truyenfull.vn/gia-thien/chuong-691/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_692_Thấm_thoát_một_năm_rưỡi.json",
+    "chapter_name": "Chương 692: Thấm thoát một năm rưỡi",
+    "url": "https://truyenfull.vn/gia-thien/chuong-692/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_693_Bí_quyết_chữ_Binh.json",
+    "chapter_name": "Chương 693: Bí quyết chữ “Binh”",
+    "url": "https://truyenfull.vn/gia-thien/chuong-693/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_694_Thái_gia_tổ_tiên.json",
+    "chapter_name": "Chương 694: Thái gia tổ tiên",
+    "url": "https://truyenfull.vn/gia-thien/chuong-694/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_695_Tám_chín_ngàn_năm.json",
+    "chapter_name": "Chương 695: Tám, chín ngàn năm",
+    "url": "https://truyenfull.vn/gia-thien/chuong-695/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_696_Gặp_lại_cố_nhân.json",
+    "chapter_name": "Chương 696: Gặp lại cố nhân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-696/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_697_Tinh_không_cổ_lộ_mênh_mông.json",
+    "chapter_name": "Chương 697: Tinh không cổ lộ mênh mông",
+    "url": "https://truyenfull.vn/gia-thien/chuong-697/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_698_Đăng_Tiên_Địa.json",
+    "chapter_name": "Chương 698: Đăng Tiên Địa",
+    "url": "https://truyenfull.vn/gia-thien/chuong-698/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_699_Vượt_lạch_trời.json",
+    "chapter_name": "Chương 699: Vượt lạch trời",
+    "url": "https://truyenfull.vn/gia-thien/chuong-699/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_700_Phong_thái_đế_vương.json",
+    "chapter_name": "Chương 700: Phong thái đế vương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-700/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_701_Loan_Cô_đê_phu.json",
+    "chapter_name": "Chương 701: Loạn Cổ đế phù",
+    "url": "https://truyenfull.vn/gia-thien/chuong-701/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_702_Con_cua_Thanh_Hoang.json",
+    "chapter_name": "Chương 702: Con của Thánh Hoàng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-702/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_703_Quyêt_đâu_Băc_Đê.json",
+    "chapter_name": "Chương 703: Quyết đấu Bắc Đế",
+    "url": "https://truyenfull.vn/gia-thien/chuong-703/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_704_Hoa_Tiên_Tri.json",
+    "chapter_name": "Chương 704: Hóa Tiên Trì",
+    "url": "https://truyenfull.vn/gia-thien/chuong-704/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_705_Đai_đê_con_sông.json",
+    "chapter_name": "Chương 705: Đại đế còn sống",
+    "url": "https://truyenfull.vn/gia-thien/chuong-705/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_706_tt.json",
+    "chapter_name": "Chương 706: (tt)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-706/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_707_Manh_đông_xanh_Nguyên_Thiên_Sư_đêu_xuât_hiên.json",
+    "chapter_name": "Chương 707: Mảnh đồng xanh, Nguyên Thiên Sư đều xuất hiện",
+    "url": "https://truyenfull.vn/gia-thien/chuong-707/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_708_Đai_đê_sông_lai.json",
+    "chapter_name": "Chương 708: Đại đế sống lại",
+    "url": "https://truyenfull.vn/gia-thien/chuong-708/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_709_Thanh_đê_sông_lai.json",
+    "chapter_name": "Chương 709: Thanh đế sống lại",
+    "url": "https://truyenfull.vn/gia-thien/chuong-709/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_710_Hai_đê_găp_nhau.json",
+    "chapter_name": "Chương 710: Hai đế gặp nhau",
+    "url": "https://truyenfull.vn/gia-thien/chuong-710/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_711_Yêu_đê_qua_đơi.json",
+    "chapter_name": "Chương 711: Yêu đế qua đời",
+    "url": "https://truyenfull.vn/gia-thien/chuong-711/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_712_Mông_Huyên_Thân_Tuy.json",
+    "chapter_name": "Chương 712: Mộng Huyễn Thần Tủy",
+    "url": "https://truyenfull.vn/gia-thien/chuong-712/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_713_Huyết_nhiễm_tiên_thổ.json",
+    "chapter_name": "Chương 713: Huyết nhiễm tiên thổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-713/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_714_tt.json",
+    "chapter_name": "Chương 714: (tt)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-714/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_715_Hợp_thể.json",
+    "chapter_name": "Chương 715: Hợp thể",
+    "url": "https://truyenfull.vn/gia-thien/chuong-715/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_716_Hai_khối_lục_đồng.json",
+    "chapter_name": "Chương 716: Hai khối lục đồng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-716/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_717_tt.json",
+    "chapter_name": "Chương 717: tt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-717/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_718_Đại_sát_thập_phương.json",
+    "chapter_name": "Chương 718: Đại sát thập phương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-718/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_719_Năm_kiện_Đế_binh.json",
+    "chapter_name": "Chương 719: Năm kiện Đế binh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-719/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_720_Thánh_nhân_lại_ra_tay.json",
+    "chapter_name": "Chương 720: Thánh nhân lại ra tay",
+    "url": "https://truyenfull.vn/gia-thien/chuong-720/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_721_Ngũ_Vực_chấn_động.json",
+    "chapter_name": "Chương 721: Ngũ Vực chấn động",
+    "url": "https://truyenfull.vn/gia-thien/chuong-721/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_722_Vai_chính_trong_thiên_địa_đương_thời.json",
+    "chapter_name": "Chương 722: Vai chính trong thiên địa đương thời",
+    "url": "https://truyenfull.vn/gia-thien/chuong-722/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_723_Muốn_tiến_Cổ_Hoàng_Sơn.json",
+    "chapter_name": "Chương 723: Muốn tiến Cổ Hoàng Sơn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-723/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_724_tt.json",
+    "chapter_name": "Chương 724: tt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-724/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_725_Thánh_Thể_tới.json",
+    "chapter_name": "Chương 725: Thánh Thể tới",
+    "url": "https://truyenfull.vn/gia-thien/chuong-725/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_726_Nam_Yêu.json",
+    "chapter_name": "Chương 726: Nam Yêu",
+    "url": "https://truyenfull.vn/gia-thien/chuong-726/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_727_Âm_Dương_Tử_Chú.json",
+    "chapter_name": "Chương 727: Âm Dương Tử Chú",
+    "url": "https://truyenfull.vn/gia-thien/chuong-727/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_728_tt.json",
+    "chapter_name": "Chương 728: tt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-728/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_729_Luyện_ngục_thánh_hồn.json",
+    "chapter_name": "Chương 729: Luyện ngục thánh hồn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-729/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_730_Thiên_đình_cổ_trong_Lôi_hải.json",
+    "chapter_name": "Chương 730: Thiên đình cổ trong Lôi hải",
+    "url": "https://truyenfull.vn/gia-thien/chuong-730/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_731_Cổ_Hoàng_Sơn_nổi_nóng.json",
+    "chapter_name": "Chương 731: Cổ Hoàng Sơn nổi nóng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-731/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_732_Phá_Âm_Dương_Thần_Thành.json",
+    "chapter_name": "Chương 732: Phá Âm Dương Thần Thành",
+    "url": "https://truyenfull.vn/gia-thien/chuong-732/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_733_Đại_Phá_Thần_Thổ.json",
+    "chapter_name": "Chương 733: Đại Phá Thần Thổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-733/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_734_tt.json",
+    "chapter_name": "Chương 734: tt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-734/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_735_Cầu_hôn.json",
+    "chapter_name": "Chương 735: Cầu hôn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-735/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_736_Bất_ngờ_gặp_Thái_Hư_Thần_Vương.json",
+    "chapter_name": "Chương 736: Bất ngờ gặp Thái Hư Thần Vương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-736/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_737_Cổ_Kinh_Thần_Văn.json",
+    "chapter_name": "Chương 737: Cổ Kinh Thần Văn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-737/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_738_Thái_Dương_Chân_Kinh.json",
+    "chapter_name": "Chương 738: Thái Dương Chân Kinh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-738/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_739_Trực_diện_Vương_tộc.json",
+    "chapter_name": "Chương 739: Trực diện Vương tộc",
+    "url": "https://truyenfull.vn/gia-thien/chuong-739/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_740_Nhổ_bật_gốc_rễ_Vương_tộc.json",
+    "chapter_name": "Chương 740: Nhổ bật gốc rễ Vương tộc",
+    "url": "https://truyenfull.vn/gia-thien/chuong-740/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_741_Ánh_mắt_từ_Cổ_Quáng_Thái_Sơ.json",
+    "chapter_name": "Chương 741: Ánh mắt từ Cổ Quáng Thái Sơ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-741/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_742_Mảnh_nhỏ_tinh_tú_nhiễm_Đế_huyết.json",
+    "chapter_name": "Chương 742: Mảnh nhỏ tinh tú nhiễm Đế huyết",
+    "url": "https://truyenfull.vn/gia-thien/chuong-742/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_743_Đính_hôn_bức_chiến.json",
+    "chapter_name": "Chương 743: Đính hôn bức chiến",
+    "url": "https://truyenfull.vn/gia-thien/chuong-743/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_744_Phong_vân_tụ_Cơ_gia.json",
+    "chapter_name": "Chương 744: Phong vân tụ Cơ gia",
+    "url": "https://truyenfull.vn/gia-thien/chuong-744/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_745_Hai_đòn_đại_sát_thủ_của_Diệp_Phàm.json",
+    "chapter_name": "Chương 745: Hai đòn đại sát thủ của Diệp Phàm",
+    "url": "https://truyenfull.vn/gia-thien/chuong-745/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_746_Vác_quan_tài_tiến_vào_thế_gia_thái_cổ.json",
+    "chapter_name": "Chương 746: Vác quan tài tiến vào thế gia thái cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-746/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_747_Đối_mặt_mạnh_mẽ.json",
+    "chapter_name": "Chương 747: Đối mặt mạnh mẽ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-747/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_748_Chiến_Vương_Đằng_thượng.json",
+    "chapter_name": "Chương 748: Chiến Vương Đằng (thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-748/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_749_Chiến_Vương_Đằng_hạ.json",
+    "chapter_name": "Chương 749: Chiến Vương Đằng (hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-749/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_750_Trục_xuất_vĩnh_hằng.json",
+    "chapter_name": "Chương 750: Trục xuất vĩnh hằng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-750/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_751_Trảm_Ngã_Minh_Đạo_Quyết.json",
+    "chapter_name": "Chương 751: Trảm Ngã Minh Đạo Quyết",
+    "url": "https://truyenfull.vn/gia-thien/chuong-751/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_752_Phân_thắng_bại_giữa_Cửu_Bí.json",
+    "chapter_name": "Chương 752: Phân thắng bại giữa Cửu Bí",
+    "url": "https://truyenfull.vn/gia-thien/chuong-752/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_753_Cơ_tộc.json",
+    "chapter_name": "Chương 753: Cơ tộc",
+    "url": "https://truyenfull.vn/gia-thien/chuong-753/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_754_Đồng_Quan_quyết_đấu_Hư_Không_Kính.json",
+    "chapter_name": "Chương 754: Đồng Quan quyết đấu Hư Không Kính",
+    "url": "https://truyenfull.vn/gia-thien/chuong-754/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_755_Đồng_Quan_hiển_hóa_Đế_thân.json",
+    "chapter_name": "Chương 755: Đồng Quan hiển hóa Đế thân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-755/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_756_Quỷ_dị.json",
+    "chapter_name": "Chương 756: Quỷ dị",
+    "url": "https://truyenfull.vn/gia-thien/chuong-756/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_757_Khai_quan_dị_động.json",
+    "chapter_name": "Chương 757: Khai quan dị động",
+    "url": "https://truyenfull.vn/gia-thien/chuong-757/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_758_Chín_con_rồng_kéo_quan_tài_lần_nữa_bay_đi.json",
+    "chapter_name": "Chương 758: Chín con rồng kéo quan tài lần nữa bay đi",
+    "url": "https://truyenfull.vn/gia-thien/chuong-758/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_759_Tiến_vào_tinh_không_cổ_lộ.json",
+    "chapter_name": "Chương 759: Tiến vào tinh không cổ lộ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-759/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_760_Vũ_trụ_cô_quạnh.json",
+    "chapter_name": "Chương 760: Vũ trụ cô quạnh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-760/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_761_Chiến_thuyền_thái_cổ.json",
+    "chapter_name": "Chương 761: Chiến thuyền thái cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-761/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_762_Thiên_Thủ_Thần_Ma.json",
+    "chapter_name": "Chương 762: Thiên Thủ Thần Ma",
+    "url": "https://truyenfull.vn/gia-thien/chuong-762/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_763_Một_viên_cổ_tinh_có_sinh_mệnh.json",
+    "chapter_name": "Chương 763: Một viên cổ tinh có sinh mệnh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-763/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_764_Chấp_niệm_bất_diệt_từ_thời_thái_cổ.json",
+    "chapter_name": "Chương 764: Chấp niệm bất diệt từ thời thái cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-764/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_765_Hư_không_chứng_Thái_Âm.json",
+    "chapter_name": "Chương 765: Hư không chứng Thái Âm",
+    "url": "https://truyenfull.vn/gia-thien/chuong-765/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_766_Diệp_Thánh_chủ.json",
+    "chapter_name": "Chương 766: Diệp Thánh chủ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-766/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_767_Tử_Vi_Cổ_Tinh_Vực.json",
+    "chapter_name": "Chương 767: Tử Vi Cổ Tinh Vực",
+    "url": "https://truyenfull.vn/gia-thien/chuong-767/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_768_Hoàng_huyết_dục_thể.json",
+    "chapter_name": "Chương 768: Hoàng huyết dục thể",
+    "url": "https://truyenfull.vn/gia-thien/chuong-768/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_769_Nhất_khí_hóa_tam_thanh.json",
+    "chapter_name": "Chương 769: Nhất khí hóa tam thanh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-769/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_770_Gặp_lại_Lão_Phong_Tử_tại_Tử_Vi_Tinh_Cổ_Vực.json",
+    "chapter_name": "Chương 770: Gặp lại Lão Phong Tử tại Tử Vi Tinh Cổ Vực",
+    "url": "https://truyenfull.vn/gia-thien/chuong-770/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_771_Lão_Phong_Tử_thiếu_niên.json",
+    "chapter_name": "Chương 771: Lão Phong Tử thiếu niên",
+    "url": "https://truyenfull.vn/gia-thien/chuong-771/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_772_Lão_Phong_Tử_sát_Tổ_Vương_thái_cổ.json",
+    "chapter_name": "Chương 772: Lão Phong Tử sát Tổ Vương thái cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-772/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_773_Những_kẻ_hủy_diệt.json",
+    "chapter_name": "Chương 773: Những kẻ hủy diệt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-773/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_774_Lục_Đạo_Luân_Hồi_Quyền.json",
+    "chapter_name": "Chương 774: Lục Đạo Luân Hồi Quyền",
+    "url": "https://truyenfull.vn/gia-thien/chuong-774/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_775_Đại_Thánh_ngã_xuống.json",
+    "chapter_name": "Chương 775: Đại Thánh ngã xuống",
+    "url": "https://truyenfull.vn/gia-thien/chuong-775/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_776_Đại_chiến_chư_vương.json",
+    "chapter_name": "Chương 776: Đại chiến chư vương",
+    "url": "https://truyenfull.vn/gia-thien/chuong-776/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_777_Thánh_nhân_tuyệt.json",
+    "chapter_name": "Chương 777: Thánh nhân tuyệt",
+    "url": "https://truyenfull.vn/gia-thien/chuong-777/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_778_Uy_thế_của_chủ_nhân_Bát_Cảnh_Cung.json",
+    "chapter_name": "Chương 778: Uy thế của chủ nhân Bát Cảnh Cung",
+    "url": "https://truyenfull.vn/gia-thien/chuong-778/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_779_Kim_Ô_thập_Thái_tử.json",
+    "chapter_name": "Chương 779: Kim Ô thập Thái tử",
+    "url": "https://truyenfull.vn/gia-thien/chuong-779/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_780_Trấn_áp_Kim_Ô_Thái_tử_thượng.json",
+    "chapter_name": "Chương 780: Trấn áp Kim Ô Thái tử (thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-780/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_781_Trấn_áp_Kim_Ô_Thái_tử_hạ.json",
+    "chapter_name": "Chương 781: Trấn áp Kim Ô Thái tử (hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-781/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_782_Ô_huyết_nhiễm_trời_xanh.json",
+    "chapter_name": "Chương 782: Ô huyết nhiễm trời xanh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-782/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_783_Lướt_qua_vạn_bụi_hoa.json",
+    "chapter_name": "Chương 783: Lướt qua vạn bụi hoa",
+    "url": "https://truyenfull.vn/gia-thien/chuong-783/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_784_Đoạn_Mộc_Nhai.json",
+    "chapter_name": "Chương 784: Đoạn Mộc Nhai",
+    "url": "https://truyenfull.vn/gia-thien/chuong-784/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_785_Đệ_nhất_mỹ_nhân.json",
+    "chapter_name": "Chương 785: Đệ nhất mỹ nhân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-785/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_786_Bát_Đức_Bảo_Luân.json",
+    "chapter_name": "Chương 786: Bát Đức Bảo Luân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-786/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_787_Hướng_đi_của_Đại_đế_cổ.json",
+    "chapter_name": "Chương 787: Hướng đi của Đại đế cổ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-787/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_788_Thang_Cốc_Phù_Tang.json",
+    "chapter_name": "Chương 788: Thang Cốc Phù Tang",
+    "url": "https://truyenfull.vn/gia-thien/chuong-788/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_789_Thu_Y_Khinh_Vũ_thượng.json",
+    "chapter_name": "Chương 789: Thu Y Khinh Vũ (thượng)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-789/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_790_Thu_Y_Khinh_Vũ_hạ.json",
+    "chapter_name": "Chương 790: Thu Y Khinh Vũ (hạ)",
+    "url": "https://truyenfull.vn/gia-thien/chuong-790/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_791_Trần_truồng_đại_chiến.json",
+    "chapter_name": "Chương 791: Trần truồng đại chiến",
+    "url": "https://truyenfull.vn/gia-thien/chuong-791/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_792_Lĩnh_vực_Thần_Cấm.json",
+    "chapter_name": "Chương 792: Lĩnh vực Thần Cấm",
+    "url": "https://truyenfull.vn/gia-thien/chuong-792/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_793_Nhân_dục.json",
+    "chapter_name": "Chương 793: Nhân dục",
+    "url": "https://truyenfull.vn/gia-thien/chuong-793/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_794_Địa_ngục_và_thiên_đường.json",
+    "chapter_name": "Chương 794: Địa ngục và thiên đường",
+    "url": "https://truyenfull.vn/gia-thien/chuong-794/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_795_Thái_Dương_Thánh_Hoàng.json",
+    "chapter_name": "Chương 795: Thái Dương Thánh Hoàng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-795/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_796_Cổ_Hoàng_thần_ngôn.json",
+    "chapter_name": "Chương 796: Cổ Hoàng thần ngôn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-796/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_797_Tư_chất_ngút_trời.json",
+    "chapter_name": "Chương 797: Tư chất ngút trời",
+    "url": "https://truyenfull.vn/gia-thien/chuong-797/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_798_Huyết_mạch_cuối_cùng_của_Thánh_Hoàng.json",
+    "chapter_name": "Chương 798: Huyết mạch cuối cùng của Thánh Hoàng",
+    "url": "https://truyenfull.vn/gia-thien/chuong-798/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_799_Bễ_nghễ_tứ_hải.json",
+    "chapter_name": "Chương 799: Bễ nghễ tứ hải",
+    "url": "https://truyenfull.vn/gia-thien/chuong-799/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_800_Giương_Cung_Bắn_Kim_Ô.json",
+    "chapter_name": "Chương 800: Giương Cung Bắn Kim Ô",
+    "url": "https://truyenfull.vn/gia-thien/chuong-800/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_801_Giết_Thành_Một_Bầu_Trời_Đỏ_Máu.json",
+    "chapter_name": "Chương 801: Giết Thành Một Bầu Trời Đỏ Máu",
+    "url": "https://truyenfull.vn/gia-thien/chuong-801/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_802_Vạn_Người_Chú_Mục.json",
+    "chapter_name": "Chương 802: Vạn Người Chú Mục",
+    "url": "https://truyenfull.vn/gia-thien/chuong-802/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_803_Nhân_Thần_Cộng_Phẫn.json",
+    "chapter_name": "Chương 803: Nhân Thần Cộng Phẫn",
+    "url": "https://truyenfull.vn/gia-thien/chuong-803/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_804_Nhân_Đạo_Cộng_Minh.json",
+    "chapter_name": "Chương 804: Nhân Đạo Cộng Minh",
+    "url": "https://truyenfull.vn/gia-thien/chuong-804/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_805_Hai_Mươi_Bốn_Chư_Thiên.json",
+    "chapter_name": "Chương 805: Hai Mươi Bốn Chư Thiên",
+    "url": "https://truyenfull.vn/gia-thien/chuong-805/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_806_Thánh_Vực.json",
+    "chapter_name": "Chương 806: Thánh Vực",
+    "url": "https://truyenfull.vn/gia-thien/chuong-806/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_807_Thái_Âm_Thần_Tử.json",
+    "chapter_name": "Chương 807: Thái Âm Thần Tử",
+    "url": "https://truyenfull.vn/gia-thien/chuong-807/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_808_Nguyên_Thần_Hợp_Đạo.json",
+    "chapter_name": "Chương 808: Nguyên Thần Hợp Đạo",
+    "url": "https://truyenfull.vn/gia-thien/chuong-808/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_809_Huyết_Nhiễm_Phong_Thái.json",
+    "chapter_name": "Chương 809: Huyết Nhiễm Phong Thái",
+    "url": "https://truyenfull.vn/gia-thien/chuong-809/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_810_Dẫn_Động_Thiên_Hạ_Phong_Vân.json",
+    "chapter_name": "Chương 810: Dẫn Động Thiên Hạ Phong Vân",
+    "url": "https://truyenfull.vn/gia-thien/chuong-810/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_811_Cảm_Ứng_Tới_Từ_Bắc_Đẩu_Tinh_Vực.json",
+    "chapter_name": "Chương 811: Cảm Ứng Tới Từ Bắc Đẩu Tinh Vực",
+    "url": "https://truyenfull.vn/gia-thien/chuong-811/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_812_Thần_Nữ.json",
+    "chapter_name": "Chương 812: Thần Nữ",
+    "url": "https://truyenfull.vn/gia-thien/chuong-812/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_813_Nguyên_Khư.json",
+    "chapter_name": "Chương 813: Nguyên Khư",
+    "url": "https://truyenfull.vn/gia-thien/chuong-813/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_814_Uy_Thế_Thánh_Thể.json",
+    "chapter_name": "Chương 814: Uy Thế Thánh Thể",
+    "url": "https://truyenfull.vn/gia-thien/chuong-814/"
+  },
+  {
+    "path": "data/Già_Thiên/Chương_815_Cửu_Đại_Tổ_Ô.json",
+    "chapter_name": "Chương 815: Cửu Đại Tổ Ô",
+    "url": "https://truyenfull.vn/gia-thien/chuong-815/"
   }
 ]
