@@ -1073,5 +1073,1005 @@
     "path": "data/Thần_Khống_Thiên_Hạ/Chương_215_Trước_Giờ_Đại_Bỉ_2.json",
     "chapter_name": "Chương 215: Trước Giờ Đại Bỉ (2)",
     "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-215/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_216_Lăng_Thương_Khiếp_Sợ_1.json",
+    "chapter_name": "Chương 216: Lăng Thương Khiếp Sợ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-216/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_217_Lăng_Thương_Khiếp_Sợ_2.json",
+    "chapter_name": "Chương 217: Lăng Thương Khiếp Sợ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-217/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_218_Lăng_Thương_Khiếp_Sợ_3.json",
+    "chapter_name": "Chương 218: Lăng Thương Khiếp Sợ (3)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-218/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_219_Đồ_Ăn_Tốt_Đều_Cho_Heo_Cả.json",
+    "chapter_name": "Chương 219: Đồ Ăn Tốt Đều Cho Heo Cả!",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-219/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_220_Đồ_Ăn_Tốt_Đều_Cho_Heo_Cả.json",
+    "chapter_name": "Chương 220: Đồ Ăn Tốt Đều Cho Heo Cả!",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-220/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_221_Hắn_Là_Một_Ác_Ma_1.json",
+    "chapter_name": "Chương 221: Hắn Là Một Ác Ma! (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-221/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_222_Hắn_Là_Một_Ác_Ma_2.json",
+    "chapter_name": "Chương 222: Hắn Là Một Ác Ma! (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-222/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_223_Người_Của_Tử_Thiên_Tông_1.json",
+    "chapter_name": "Chương 223: Người Của Tử Thiên Tông (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-223/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_224_Người_Của_Tử_Thiên_Tông_2.json",
+    "chapter_name": "Chương 224: Người Của Tử Thiên Tông (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-224/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_225_Bản_Thiếu_Gia_Vẫn_Còn_Quá_Thiện.json",
+    "chapter_name": "Chương 225: Bản Thiếu Gia Vẫn Còn Quá Thiện",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-225/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_226_Bản_Thiếu_Gia_Vẫn_Còn_Quá_Thiện.json",
+    "chapter_name": "Chương 226: Bản Thiếu Gia Vẫn Còn Quá Thiện",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-226/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_227_Đại_Chiến_Của_Nửa_Bước_Vương_Giai.json",
+    "chapter_name": "Chương 227: Đại Chiến Của Nửa Bước Vương Giai",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-227/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_228_Lăng_Gia_Kinh_Biến_1.json",
+    "chapter_name": "Chương 228: Lăng Gia Kinh Biến (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-228/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_229_Lăng_Gia_Kinh_Biến_2.json",
+    "chapter_name": "Chương 229: Lăng Gia Kinh Biến (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-229/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_230_Các_Ngươi_Cùng_Lên_Đi_1.json",
+    "chapter_name": "Chương 230: Các Ngươi Cùng Lên Đi (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-230/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_231_Các_Ngươi_Cùng_Lên_Đi_2.json",
+    "chapter_name": "Chương 231: Các Ngươi Cùng Lên Đi (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-231/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_232_Lấy_Một_Địch_Bốn_1.json",
+    "chapter_name": "Chương 232: Lấy Một Địch Bốn (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-232/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_233_Lấy_Một_Địch_Bốn_2.json",
+    "chapter_name": "Chương 233: Lấy Một Địch Bốn (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-233/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_234_Đoạt_Được_Khôi_Thủ.json",
+    "chapter_name": "Chương 234: Đoạt Được Khôi Thủ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-234/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_235_Cắn_Chết_Những_Thứ_Vương_Bát_Đản.json",
+    "chapter_name": "Chương 235: Cắn Chết Những Thứ Vương Bát Đản",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-235/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_236_Cắn_Chết_Những_Thứ_Vương_Bát_Đản.json",
+    "chapter_name": "Chương 236: Cắn Chết Những Thứ Vương Bát Đản",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-236/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_237_Lăng_Gia_Khó_Khăn_1.json",
+    "chapter_name": "Chương 237: Lăng Gia Khó Khăn (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-237/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_238_Lăng_Gia_Khó_Khăn_2.json",
+    "chapter_name": "Chương 238: Lăng Gia Khó Khăn (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-238/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_239_Lại_Là_Ngươi_Ải_Đông_Qua_1.json",
+    "chapter_name": "Chương 239: Lại Là Ngươi Ải Đông Qua (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-239/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_240_Lại_Là_Ngươi_Ải_Đông_Qua_2.json",
+    "chapter_name": "Chương 240: Lại Là Ngươi Ải Đông Qua (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-240/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_241_Hắc_Diệu_Đỉnh.json",
+    "chapter_name": "Chương 241: Hắc Diệu Đỉnh?",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-241/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_242_Khởi_Tử_Hồi_Sinh_Đột_Phá_Vương.json",
+    "chapter_name": "Chương 242: Khởi Tử Hồi Sinh, Đột Phá Vương",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-242/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_243_Khởi_Tử_Hồi_Sinh_Đột_Phá_Vương.json",
+    "chapter_name": "Chương 243: Khởi Tử Hồi Sinh, Đột Phá Vương",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-243/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_244_Có_Cừu_Oán_Mà_Không_Báo_Không.json",
+    "chapter_name": "Chương 244: Có Cừu Oán Mà Không Báo, Không",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-244/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_245_Có_Cừu_Oán_Mà_Không_Báo_Không.json",
+    "chapter_name": "Chương 245: Có Cừu Oán Mà Không Báo, Không",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-245/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_246_Ta_Muốn_Làm_Nữ_Nhân_Của_Ngươi.json",
+    "chapter_name": "Chương 246: Ta Muốn Làm Nữ Nhân Của Ngươi!",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-246/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_247_Ta_Muốn_Làm_Nữ_Nhân_Của_Ngươi.json",
+    "chapter_name": "Chương 247: Ta Muốn Làm Nữ Nhân Của Ngươi!",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-247/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_248_Ngươi_Đã_Thích_Như_Vậy_Liền_Ăn.json",
+    "chapter_name": "Chương 248: Ngươi Đã Thích Như Vậy Liền Ăn",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-248/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_249_Ngươi_Đã_Thích_Như_Vậy_Liền_Ăn.json",
+    "chapter_name": "Chương 249: Ngươi Đã Thích Như Vậy Liền Ăn",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-249/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_250_Yêu_Cầu_Này_Tựa_Hồ_Quá_Dễ.json",
+    "chapter_name": "Chương 250: Yêu Cầu Này Tựa Hồ Quá Dễ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-250/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_251_Yêu_Cầu_Này_Tựa_Hồ_Quá_Dễ.json",
+    "chapter_name": "Chương 251: Yêu Cầu Này Tựa Hồ Quá Dễ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-251/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_252_Tỷ_Thí_Luyện_Đan.json",
+    "chapter_name": "Chương 252: Tỷ Thí Luyện Đan",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-252/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_253_Tam_Phẩm_Luyện_Dược_Sư_1.json",
+    "chapter_name": "Chương 253: Tam Phẩm Luyện Dược Sư (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-253/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_254_Tam_Phẩm_Luyện_Dược_Sư_2.json",
+    "chapter_name": "Chương 254: Tam Phẩm Luyện Dược Sư (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-254/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_255_Phá_Linh_Đan_1.json",
+    "chapter_name": "Chương 255: Phá Linh Đan (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-255/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_256_Phá_Linh_Đan_2.json",
+    "chapter_name": "Chương 256: Phá Linh Đan (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-256/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_257_Độc_Ưng_Đột_Phá_1.json",
+    "chapter_name": "Chương 257: Độc Ưng Đột Phá (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-257/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_258_Độc_Ưng_Đột_Phá_2.json",
+    "chapter_name": "Chương 258: Độc Ưng Đột Phá (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-258/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_259_Trước_Khi_Rời_Đi_1.json",
+    "chapter_name": "Chương 259: Trước Khi Rời Đi (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-259/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_260_Trước_Khi_Rời_Đi_2.json",
+    "chapter_name": "Chương 260: Trước Khi Rời Đi (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-260/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_261_Uy_Phách_Vẫn_Thạch_Thành.json",
+    "chapter_name": "Chương 261: Uy Phách Vẫn Thạch Thành",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-261/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_262_Điểm_Tướng_1.json",
+    "chapter_name": "Chương 262: Điểm Tướng (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-262/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_263_Điểm_Tướng_2.json",
+    "chapter_name": "Chương 263: Điểm Tướng (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-263/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_264_Tiến_Về_Tử_Thiên_Tông_1.json",
+    "chapter_name": "Chương 264: Tiến Về Tử Thiên Tông (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-264/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_265_Tiến_Về_Tử_Thiên_Tông_2.json",
+    "chapter_name": "Chương 265: Tiến Về Tử Thiên Tông (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-265/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_266_Hạ_Huyên_Huyên_1.json",
+    "chapter_name": "Chương 266: Hạ Huyên Huyên (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-266/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_267_Hạ_Huyên_Huyên_2.json",
+    "chapter_name": "Chương 267: Hạ Huyên Huyên (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-267/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_268_Ước_Hẹn_Năm_Chiêu.json",
+    "chapter_name": "Chương 268: Ước Hẹn Năm Chiêu",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-268/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_269_Ngươi_Ngay_Cả_Đệ_Muội_Cũng_Không.json",
+    "chapter_name": "Chương 269: Ngươi Ngay Cả Đệ Muội Cũng Không",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-269/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_270_Ngươi_Ngay_Cả_Đệ_Muội_Cũng_Không.json",
+    "chapter_name": "Chương 270: Ngươi Ngay Cả Đệ Muội Cũng Không",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-270/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_271_Nữ_Nhân_Này_Đúng_Là_Một_Yêu.json",
+    "chapter_name": "Chương 271: Nữ Nhân Này Đúng Là Một Yêu",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-271/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_272_Nữ_Nhân_Này_Đúng_Là_Một_Yêu.json",
+    "chapter_name": "Chương 272: Nữ Nhân Này Đúng Là Một Yêu",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-272/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_273_Đối_Chiến_Linh_Sư_Giai_1.json",
+    "chapter_name": "Chương 273: Đối Chiến Linh Sư Giai (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-273/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_274_Đối_Chiến_Linh_Sư_Giai_2.json",
+    "chapter_name": "Chương 274: Đối Chiến Linh Sư Giai (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-274/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_275_Đi_Dạo_Tử_Thiên_Thành.json",
+    "chapter_name": "Chương 275: Đi Dạo Tử Thiên Thành",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-275/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_276_Cuồng_Nhân_Giả_Heo_Ăn_Thịt_Hổ.json",
+    "chapter_name": "Chương 276: Cuồng Nhân Giả Heo Ăn Thịt Hổ?",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-276/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_277_Cuồng_Nhân_Giả_Heo_Ăn_Thịt_Hổ.json",
+    "chapter_name": "Chương 277: Cuồng Nhân Giả Heo Ăn Thịt Hổ?",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-277/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_278_Thu_Phục_Lý_Cuồng_Hồ_1.json",
+    "chapter_name": "Chương 278: Thu Phục Lý Cuồng Hồ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-278/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_279_Thu_Phục_Lý_Cuồng_Hồ_2.json",
+    "chapter_name": "Chương 279: Thu Phục Lý Cuồng Hồ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-279/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_280_Tử_Thiên_Tông.json",
+    "chapter_name": "Chương 280: Tử Thiên Tông",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-280/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_281_Bới_Móc_1.json",
+    "chapter_name": "Chương 281: Bới Móc (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-281/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_282_Bới_Móc_2.json",
+    "chapter_name": "Chương 282: Bới Móc (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-282/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_283_Đột_Phá_Trước_Mặt_Chấp_Sự.json",
+    "chapter_name": "Chương 283: Đột Phá Trước Mặt Chấp Sự?",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-283/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_284_Tiến_Vào_Tử_Phong_Cốc_1.json",
+    "chapter_name": "Chương 284: Tiến Vào Tử Phong Cốc (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-284/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_285_Tiến_Vào_Tử_Phong_Cốc_2.json",
+    "chapter_name": "Chương 285: Tiến Vào Tử Phong Cốc (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-285/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_286_Các_Trưởng_Lão_Tử_Thiên_Tông.json",
+    "chapter_name": "Chương 286: Các Trưởng Lão Tử Thiên Tông",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-286/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_287_Lớn_Lên_Đẹp_Trai_Cũng_Là_Cái.json",
+    "chapter_name": "Chương 287: Lớn Lên Đẹp Trai Cũng Là Cái",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-287/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_288_Lớn_Lên_Đẹp_Trai_Cũng_Là_Cái.json",
+    "chapter_name": "Chương 288: Lớn Lên Đẹp Trai Cũng Là Cái",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-288/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_289_Hoa_Hiểu_Quế_Chấp_Nhất.json",
+    "chapter_name": "Chương 289: Hoa Hiểu Quế Chấp Nhất",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-289/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_290_Tiểu_Kim_Sính_Uy.json",
+    "chapter_name": "Chương 290: Tiểu Kim Sính Uy",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-290/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_291_Đột_Phá_Cao_Giai_Huyền_Sĩ_1.json",
+    "chapter_name": "Chương 291: Đột Phá Cao Giai Huyền Sĩ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-291/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_292_Đột_Phá_Cao_Giai_Huyền_Sĩ_2.json",
+    "chapter_name": "Chương 292: Đột Phá Cao Giai Huyền Sĩ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-292/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_293_Tắm_Với_Mỹ_Nữ_1.json",
+    "chapter_name": "Chương 293: Tắm Với Mỹ Nữ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-293/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_294_Tắm_Với_Mỹ_Nữ_2.json",
+    "chapter_name": "Chương 294: Tắm Với Mỹ Nữ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-294/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_295_Đùa_Giỡn_Băng_Nhược_Thủy_1.json",
+    "chapter_name": "Chương 295: Đùa Giỡn Băng Nhược Thủy (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-295/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_296_Đùa_Giỡn_Băng_Nhược_Thủy_2.json",
+    "chapter_name": "Chương 296: Đùa Giỡn Băng Nhược Thủy (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-296/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_297_Lão_Nhân_Cưỡi_Trâu.json",
+    "chapter_name": "Chương 297: Lão Nhân Cưỡi Trâu",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-297/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_298_Ai_Dám_Làm_Tổn_Thương_Huynh_Đệ.json",
+    "chapter_name": "Chương 298: Ai Dám Làm Tổn Thương Huynh Đệ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-298/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_299_Ai_Dám_Làm_Tổn_Thương_Huynh_Đệ.json",
+    "chapter_name": "Chương 299: Ai Dám Làm Tổn Thương Huynh Đệ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-299/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_300_Phệ_Huyết_Ma_Đao_1.json",
+    "chapter_name": "Chương 300: Phệ Huyết Ma Đao (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-300/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_301_Phệ_Huyết_Ma_Đao_2.json",
+    "chapter_name": "Chương 301: Phệ Huyết Ma Đao (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-301/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_302_Kiểm_Kê_Điểm_Tích_Lũy.json",
+    "chapter_name": "Chương 302: Kiểm Kê Điểm Tích Lũy",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-302/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_303_Bỗng_Nhiên_Nổi_Tiếng_1.json",
+    "chapter_name": "Chương 303: Bỗng Nhiên Nổi Tiếng (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-303/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_304_Bỗng_Nhiên_Nổi_Tiếng_2.json",
+    "chapter_name": "Chương 304: Bỗng Nhiên Nổi Tiếng (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-304/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_305_Khảo_Thí_Thuộc_Tính_1.json",
+    "chapter_name": "Chương 305: Khảo Thí Thuộc Tính (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-305/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_306_Khảo_Thí_Thuộc_Tính_2.json",
+    "chapter_name": "Chương 306: Khảo Thí Thuộc Tính (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-306/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_307_Kinh_Diễm_Tứ_Tọa.json",
+    "chapter_name": "Chương 307: Kinh Diễm Tứ Tọa",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-307/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_308_Thu_Đệ_Tử_1.json",
+    "chapter_name": "Chương 308: Thu Đệ Tử (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-308/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_309_Thu_Đệ_Tử_2.json",
+    "chapter_name": "Chương 309: Thu Đệ Tử (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-309/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_310_Bái_Nhập_Dược_Phong.json",
+    "chapter_name": "Chương 310: Bái Nhập Dược Phong",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-310/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_311_Trưởng_Lão_Đời_Trước_Của_Mộc_Kỳ.json",
+    "chapter_name": "Chương 311: Trưởng Lão Đời Trước Của Mộc Kỳ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-311/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_312_Trưởng_Lão_Đời_Trước_Của_Mộc_Kỳ.json",
+    "chapter_name": "Chương 312: Trưởng Lão Đời Trước Của Mộc Kỳ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-312/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_313_Cút_Sang_Một_Bên_Cho_Ta.json",
+    "chapter_name": "Chương 313: Cút Sang Một Bên Cho Ta",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-313/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_314_Lai_Lịch_Của_Hoa_Hiểu_Quế_1.json",
+    "chapter_name": "Chương 314: Lai Lịch Của Hoa Hiểu Quế? (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-314/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_315_Lai_Lịch_Của_Hoa_Hiểu_Quế_2.json",
+    "chapter_name": "Chương 315: Lai Lịch Của Hoa Hiểu Quế? (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-315/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_316_Gặp_Lại_Hạ_Huyên_Huyên.json",
+    "chapter_name": "Chương 316: Gặp Lại Hạ Huyên Huyên",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-316/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_317_Hoàng_Tủy_Thảo_Xuất_Hiện_1.json",
+    "chapter_name": "Chương 317: Hoàng Tủy Thảo Xuất Hiện (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-317/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_318_Hoàng_Tủy_Thảo_Xuất_Hiện_2.json",
+    "chapter_name": "Chương 318: Hoàng Tủy Thảo Xuất Hiện (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-318/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_319_Chạy_Tới_Phủ_Thành_Chủ_1.json",
+    "chapter_name": "Chương 319: Chạy Tới Phủ Thành Chủ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-319/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_320_Chạy_Tới_Phủ_Thành_Chủ_2.json",
+    "chapter_name": "Chương 320: Chạy Tới Phủ Thành Chủ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-320/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_321_Thiên_Âm_Phong_Châu_Dị_Động.json",
+    "chapter_name": "Chương 321: Thiên Âm Phong Châu Dị Động",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-321/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_322_Hứa_Hẹn_1.json",
+    "chapter_name": "Chương 322: Hứa Hẹn (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-322/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_323_Hứa_Hẹn_2.json",
+    "chapter_name": "Chương 323: Hứa Hẹn (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-323/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_324_Ám_Toán.json",
+    "chapter_name": "Chương 324: Ám Toán",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-324/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_325_Ẩn_Mộc_Quyết_Ẩn_Huyễn_Thất_Sát.json",
+    "chapter_name": "Chương 325: Ẩn Mộc Quyết Ẩn Huyễn Thất Sát",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-325/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_326_Ẩn_Mộc_Quyết_Ẩn_Huyễn_Thất_Sát.json",
+    "chapter_name": "Chương 326: Ẩn Mộc Quyết Ẩn Huyễn Thất Sát",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-326/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_327_Đan_Thành.json",
+    "chapter_name": "Chương 327: Đan Thành",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-327/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_328_Tẩu_Hỏa_Nhập_Ma_1.json",
+    "chapter_name": "Chương 328: Tẩu Hỏa Nhập Ma? (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-328/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_329_Tẩu_Hỏa_Nhập_Ma_2.json",
+    "chapter_name": "Chương 329: Tẩu Hỏa Nhập Ma? (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-329/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_330_Ngộ_Nhập_Thức_Hải.json",
+    "chapter_name": "Chương 330: Ngộ Nhập Thức Hải",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-330/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_331_Mai_Hoa_Mê_Tung_Trận_1.json",
+    "chapter_name": "Chương 331: Mai Hoa Mê Tung Trận (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-331/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_332_Mai_Hoa_Mê_Tung_Trận_2.json",
+    "chapter_name": "Chương 332: Mai Hoa Mê Tung Trận (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-332/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_333_Bích_Tuyền_Các.json",
+    "chapter_name": "Chương 333: Bích Tuyền Các",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-333/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_334_Luyện_Chế_Băng_Hàn_Đan_1.json",
+    "chapter_name": "Chương 334: Luyện Chế Băng Hàn Đan (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-334/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_335_Luyện_Chế_Băng_Hàn_Đan_2.json",
+    "chapter_name": "Chương 335: Luyện Chế Băng Hàn Đan (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-335/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_336_Cơ_Hồ_Tất_Cả_Nam_Nhân_Đều.json",
+    "chapter_name": "Chương 336: Cơ Hồ Tất Cả Nam Nhân Đều",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-336/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_337_Đến_Diễm_Hỏa_Cốc_1.json",
+    "chapter_name": "Chương 337: Đến Diễm Hỏa Cốc (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-337/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_338_Đến_Diễm_Hỏa_Cốc_2.json",
+    "chapter_name": "Chương 338: Đến Diễm Hỏa Cốc (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-338/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_339_Họa_Hỏa_Độc.json",
+    "chapter_name": "Chương 339: Họa Hỏa Độc",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-339/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_340_Khu_Trừ_Hỏa_Độc_1.json",
+    "chapter_name": "Chương 340: Khu Trừ Hỏa Độc (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-340/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_341_Khu_Trừ_Hỏa_Độc_2.json",
+    "chapter_name": "Chương 341: Khu Trừ Hỏa Độc (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-341/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_342_Hỏa_Độc_Luyện_Tạng.json",
+    "chapter_name": "Chương 342: Hỏa Độc Luyện Tạng",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-342/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_343_Ba_Nữ_Quan_Tâm_1.json",
+    "chapter_name": "Chương 343: Ba Nữ Quan Tâm (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-343/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_344_Ba_Nữ_Quan_Tâm_2.json",
+    "chapter_name": "Chương 344: Ba Nữ Quan Tâm (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-344/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_345_Sư_Đệ_Cũng_Không_Phải_Nam_Nhân.json",
+    "chapter_name": "Chương 345: Sư Đệ Cũng Không Phải Nam Nhân",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-345/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_346_Sư_Đệ_Cũng_Không_Phải_Nam.json",
+    "chapter_name": "Chương 346: Sư Đệ Cũng Không Phải Nam",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-346/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_347_Sung_Quân_Diễm_Hỏa_Cốc.json",
+    "chapter_name": "Chương 347: Sung Quân Diễm Hỏa Cốc",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-347/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_348_Đánh_Chết_Hỏa_Hồ_1.json",
+    "chapter_name": "Chương 348: Đánh Chết Hỏa Hồ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-348/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_349_Đánh_Chết_Hỏa_Hồ_2.json",
+    "chapter_name": "Chương 349: Đánh Chết Hỏa Hồ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-349/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_350_Hắn_Mang_Theo_Linh_Khí_Chí_Bảo.json",
+    "chapter_name": "Chương 350: Hắn Mang Theo Linh Khí Chí Bảo?",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-350/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_351_Ngẫu_Nhiên_Lấy_Được_Hoạt_Ban_Trúc.json",
+    "chapter_name": "Chương 351: Ngẫu Nhiên Lấy Được Hoạt Ban Trúc",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-351/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_352_Ngẫu_Nhiên_Lấy_Được_Hoạt_Ban.json",
+    "chapter_name": "Chương 352: Ngẫu Nhiên Lấy Được Hoạt Ban",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-352/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_353_Kẻ_Tù_Tội.json",
+    "chapter_name": "Chương 353: Kẻ Tù Tội",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-353/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_354_Băng_Hỏa_Lưỡng_Trọng_Thiên_1.json",
+    "chapter_name": "Chương 354: Băng Hỏa Lưỡng Trọng Thiên (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-354/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_355_Băng_Hỏa_Lưỡng_Trọng_Thiên_2.json",
+    "chapter_name": "Chương 355: Băng Hỏa Lưỡng Trọng Thiên (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-355/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_356_Nguyệt_Nữ_Của_Bái_Nguyệt_Tông.json",
+    "chapter_name": "Chương 356: Nguyệt Nữ Của Bái Nguyệt Tông",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-356/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_357_Đại_Chiến_1.json",
+    "chapter_name": "Chương 357: Đại Chiến (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-357/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_358_Đại_Chiến_2.json",
+    "chapter_name": "Chương 358: Đại Chiến (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-358/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_359_Chém_Giết_Vương_Giai.json",
+    "chapter_name": "Chương 359: Chém Giết Vương Giai",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-359/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_360_Thử_Triều_Núi_Lửa_Bộc_Phát_1.json",
+    "chapter_name": "Chương 360: Thử Triều, Núi Lửa Bộc Phát (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-360/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_361_Thử_Triều_Núi_Lửa_Bộc_Phát_2.json",
+    "chapter_name": "Chương 361: Thử Triều, Núi Lửa Bộc Phát (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-361/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_362_Trục_Xuất_Tông_Môn_1.json",
+    "chapter_name": "Chương 362: Trục Xuất Tông Môn? (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-362/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_363_Trục_Xuất_Tông_Môn_2.json",
+    "chapter_name": "Chương 363: Trục Xuất Tông Môn? (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-363/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_364_Bụng_Núi_Lửa_Hỏa_Huyền_Tinh.json",
+    "chapter_name": "Chương 364: Bụng Núi Lửa, Hỏa Huyền Tinh",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-364/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_365_Tu_Luyện_Trong_Lòng_Núi_1.json",
+    "chapter_name": "Chương 365: Tu Luyện Trong Lòng Núi (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-365/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_366_Tu_Luyện_Trong_Lòng_Núi_2.json",
+    "chapter_name": "Chương 366: Tu Luyện Trong Lòng Núi (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-366/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_367_Căn_Nguyên_Của_Núi_Lửa.json",
+    "chapter_name": "Chương 367: Căn Nguyên Của Núi Lửa",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-367/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_368_Song_Châu_Nhập_Vào_Thức_Hải.json",
+    "chapter_name": "Chương 368: Song Châu Nhập Vào Thức Hải",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-368/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_369_Tiến_Giai_Linh_Sư_1.json",
+    "chapter_name": "Chương 369: Tiến Giai Linh Sư (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-369/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_370_Tiến_Giai_Linh_Sư_2.json",
+    "chapter_name": "Chương 370: Tiến Giai Linh Sư (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-370/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_371_Đỉnh_Hồn_Hiện_1.json",
+    "chapter_name": "Chương 371: Đỉnh Hồn Hiện! (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-371/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_372_Đỉnh_Hồn_Hiện_2.json",
+    "chapter_name": "Chương 372: Đỉnh Hồn Hiện! (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-372/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_373_Dược_Đỉnh_Biến_Thái.json",
+    "chapter_name": "Chương 373: Dược Đỉnh Biến Thái",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-373/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_374_Không_Nên_Ép_Bản_Thiếu_Gia_Đại.json",
+    "chapter_name": "Chương 374: Không Nên Ép Bản Thiếu Gia Đại",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-374/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_375_Không_Nên_Ép_Bản_Thiếu_Gia_Đại.json",
+    "chapter_name": "Chương 375: Không Nên Ép Bản Thiếu Gia Đại",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-375/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_376_Các_Ngươi_Quá_Xấu_Rồi_1.json",
+    "chapter_name": "Chương 376: Các Ngươi Quá Xấu Rồi (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-376/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_377_Các_Ngươi_Quá_Xấu_Rồi_2.json",
+    "chapter_name": "Chương 377: Các Ngươi Quá Xấu Rồi (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-377/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_378_Hỏa_Kỳ_Lân_Rời_Đi_1.json",
+    "chapter_name": "Chương 378: Hỏa Kỳ Lân Rời Đi (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-378/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_379_Hỏa_Kỳ_Lân_Rời_Đi_2.json",
+    "chapter_name": "Chương 379: Hỏa Kỳ Lân Rời Đi (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-379/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_380_Cổ_Tế_Thành_Đại_Tế_Điển.json",
+    "chapter_name": "Chương 380: Cổ Tế Thành Đại Tế Điển!",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-380/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_381_Lăng_Tiếu_Kinh_Hãi_1.json",
+    "chapter_name": "Chương 381: Lăng Tiếu Kinh Hãi! (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-381/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_382_Lăng_Tiếu_Kinh_Hãi_2.json",
+    "chapter_name": "Chương 382: Lăng Tiếu Kinh Hãi! (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-382/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_383_Hỗn_Chiến_Tranh_Đoạt.json",
+    "chapter_name": "Chương 383: Hỗn Chiến Tranh Đoạt",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-383/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_384_Tranh_Đoạt_Cuối_Cùng_1.json",
+    "chapter_name": "Chương 384: Tranh Đoạt Cuối Cùng (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-384/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_385_Tranh_Đoạt_Cuối_Cùng_2.json",
+    "chapter_name": "Chương 385: Tranh Đoạt Cuối Cùng (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-385/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_386_Phò_Mã_Tế_Ti_1.json",
+    "chapter_name": "Chương 386: Phò Mã Tế Ti (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-386/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_387_Phò_Mã_Tế_Ti_2.json",
+    "chapter_name": "Chương 387: Phò Mã Tế Ti (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-387/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_388_Thống_Khổ_Phệ_Tâm.json",
+    "chapter_name": "Chương 388: Thống Khổ Phệ Tâm",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-388/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_389_Quyết_Định_Sai_Lầm_1.json",
+    "chapter_name": "Chương 389: Quyết Định Sai Lầm? (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-389/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_390_Quyết_Định_Sai_Lầm_2.json",
+    "chapter_name": "Chương 390: Quyết Định Sai Lầm? (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-390/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_391_Nữ_Tế_Ti_Và_Phụ_Mã_Phụ.json",
+    "chapter_name": "Chương 391: Nữ Tế Ti Và Phụ Mã (Phụ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-391/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_392_Thiên_Cổ_Chi_Thể_1.json",
+    "chapter_name": "Chương 392: Thiên Cổ Chi Thể (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-392/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_393_Thiên_Cổ_Chi_Thể_2.json",
+    "chapter_name": "Chương 393: Thiên Cổ Chi Thể (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-393/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_394_Tình_Cổ_Đáng_Sợ.json",
+    "chapter_name": "Chương 394: Tình Cổ Đáng Sợ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-394/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_395_Luyện_Tạng_Đại_Thành.json",
+    "chapter_name": "Chương 395: Luyện Tạng Đại Thành",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-395/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_396_Phụ_Mã_Ta_Sẽ_Tắm_Rửa_Thay.json",
+    "chapter_name": "Chương 396: Phụ Mã, Ta Sẽ Tắm Rửa Thay",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-396/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_397_Phụ_Mã_Ta_Sẽ_Tắm_Rửa_Thay.json",
+    "chapter_name": "Chương 397: Phụ Mã, Ta Sẽ Tắm Rửa Thay",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-397/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_398_Rời_Khỏi_Thành_Cổ_Tế_1.json",
+    "chapter_name": "Chương 398: Rời Khỏi Thành Cổ Tế (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-398/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_399_Rời_Khỏi_Thành_Cổ_Tế_2.json",
+    "chapter_name": "Chương 399: Rời Khỏi Thành Cổ Tế (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-399/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_400_Huynh_Đệ_Không_Phải_Người_Keo_Kiệt.json",
+    "chapter_name": "Chương 400: Huynh Đệ Không Phải Người Keo Kiệt",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-400/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_401_Con_Ruồi_Luôn_Bức_Bản_Thiếu_Gia.json",
+    "chapter_name": "Chương 401: Con Ruồi Luôn Bức Bản Thiếu Gia",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-401/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_402_Con_Ruồi_Luôn_Bức_Bản_Thiếu_Gia.json",
+    "chapter_name": "Chương 402: Con Ruồi Luôn Bức Bản Thiếu Gia",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-402/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_403_Đối_Chiến_Linh_Sư_Cao_Giai.json",
+    "chapter_name": "Chương 403: Đối Chiến Linh Sư Cao Giai",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-403/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_404_Miểu_Sát_1.json",
+    "chapter_name": "Chương 404: Miểu Sát (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-404/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_405_Miểu_Sát_2.json",
+    "chapter_name": "Chương 405: Miểu Sát (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-405/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_406_Lão_Tổ_Lao_Gia.json",
+    "chapter_name": "Chương 406: Lão Tổ Lao Gia",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-406/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_407_Nện_Thành_Thịt_Vụn.json",
+    "chapter_name": "Chương 407: Nện Thành Thịt Vụn",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-407/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_408_Trở_Lại_Thành_Tử_Thiên_1.json",
+    "chapter_name": "Chương 408: Trở Lại Thành Tử Thiên (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-408/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_409_Trở_Lại_Thành_Tử_Thiên_2.json",
+    "chapter_name": "Chương 409: Trở Lại Thành Tử Thiên (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-409/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_410_Cát_Bối_Hân_Gặp_Phiền_Toái.json",
+    "chapter_name": "Chương 410: Cát Bối Hân Gặp Phiền Toái",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-410/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_411_Ngươi_Nói_Ta_Không_Còn_Là_Đệ.json",
+    "chapter_name": "Chương 411: Ngươi Nói Ta Không Còn Là Đệ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-411/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_412_Ngươi_Nói_Ta_Không_Còn_Là_Đệ.json",
+    "chapter_name": "Chương 412: Ngươi Nói Ta Không Còn Là Đệ",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-412/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_413_Kịch_Chiến_Phủ_Thành_Chủ_1.json",
+    "chapter_name": "Chương 413: Kịch Chiến Phủ Thành Chủ (1)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-413/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_414_Kịch_Chiến_Phủ_Thành_Chủ_2.json",
+    "chapter_name": "Chương 414: Kịch Chiến Phủ Thành Chủ (2)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-414/"
+  },
+  {
+    "path": "data/Thần_Khống_Thiên_Hạ/Chương_415_Kịch_Chiến_Phủ_Thành_Chủ_3.json",
+    "chapter_name": "Chương 415: Kịch Chiến Phủ Thành Chủ (3)",
+    "url": "https://truyenfull.vn/truyen-than-khong-thien-ha/chuong-415/"
   }
 ]
