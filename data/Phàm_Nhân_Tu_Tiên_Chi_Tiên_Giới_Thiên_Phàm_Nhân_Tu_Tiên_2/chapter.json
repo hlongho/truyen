@@ -3073,5 +3073,1005 @@
     "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_616_Kinh_ngạc.json",
     "chapter_name": "Chương 616: Kinh ngạc",
     "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-616/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_454_Tương_trợ.json",
+    "chapter_name": "Chương 454: Tương trợ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-454/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_617_Cạm_bẫy.json",
+    "chapter_name": "Chương 617: Cạm bẫy",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-617/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_618_Siêu_trộm.json",
+    "chapter_name": "Chương 618: Siêu trộm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-618/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_619_Chân_dung.json",
+    "chapter_name": "Chương 619: Chân dung",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-619/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_620_Xem_kịch.json",
+    "chapter_name": "Chương 620: Xem kịch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-620/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_621_Thì_ra_là_hắn.json",
+    "chapter_name": "Chương 621: Thì ra là hắn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-621/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_622_Hoa_điểu_ngư_trùng.json",
+    "chapter_name": "Chương 622: Hoa điểu ngư trùng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-622/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_623_Đảo_nhỏ_giữa_hồ.json",
+    "chapter_name": "Chương 623: Đảo nhỏ giữa hồ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-623/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_624_Hoa_Chi.json",
+    "chapter_name": "Chương 624: Hoa Chi",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-624/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_625_Nhị_Chỉ_Thiền.json",
+    "chapter_name": "Chương 625: Nhị Chỉ Thiền",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-625/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_626_Sắp_xếp.json",
+    "chapter_name": "Chương 626: Sắp xếp",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-626/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_627_Tìm_phương_pháp_khác.json",
+    "chapter_name": "Chương 627: Tìm phương pháp khác",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-627/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_628_Thử_nghiệm.json",
+    "chapter_name": "Chương 628: Thử nghiệm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-628/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_629_Thiên_Ma_đấu.json",
+    "chapter_name": "Chương 629: Thiên Ma đấu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-629/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_630_Giằng_co.json",
+    "chapter_name": "Chương 630: Giằng co",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-630/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_631_Lợi_thế.json",
+    "chapter_name": "Chương 631: Lợi thế",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-631/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_632_Ma_vực.json",
+    "chapter_name": "Chương 632: Ma vực",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-632/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_633_Luyện_đồng.json",
+    "chapter_name": "Chương 633: Luyện đồng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-633/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_634_Sự_tình_kỳ_lạ.json",
+    "chapter_name": "Chương 634: Sự tình kỳ lạ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-634/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_635_Xảy_ra_chuyện.json",
+    "chapter_name": "Chương 635: Xảy ra chuyện",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-635/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_636_Dung_hợp_kiếm.json",
+    "chapter_name": "Chương 636: Dung hợp kiếm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-636/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_637_Tránh_đầu_sóng_ngọn_gió.json",
+    "chapter_name": "Chương 637: Tránh đầu sóng ngọn gió",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-637/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_638_Tiên_khí_phân_cửu_phẩm.json",
+    "chapter_name": "Chương 638: Tiên khí phân cửu phẩm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-638/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_639_Nhiệt_Hỏa_gặp_nạn.json",
+    "chapter_name": "Chương 639: Nhiệt Hỏa gặp nạn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-639/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_640_Không_tìm_nhầm_người.json",
+    "chapter_name": "Chương 640: Không tìm nhầm người",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-640/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_641_Tìm_tới_cửa.json",
+    "chapter_name": "Chương 641: Tìm tới cửa",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-641/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_642_Không_tham_gia_náo_nhiệt.json",
+    "chapter_name": "Chương 642: Không tham gia náo nhiệt",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-642/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_643_Đi_rồi_quay_lại.json",
+    "chapter_name": "Chương 643: Đi rồi quay lại",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-643/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_644_Chờ_xuất_phát.json",
+    "chapter_name": "Chương 644: Chờ xuất phát",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-644/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_645_Ung_dung_tự_tại.json",
+    "chapter_name": "Chương 645: Ung dung tự tại",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-645/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_646_Chuẩn_bị_một_chút.json",
+    "chapter_name": "Chương 646: Chuẩn bị một chút",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-646/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_647_Thành_dưới_mặt_đất.json",
+    "chapter_name": "Chương 647: Thành dưới mặt đất",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-647/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_648_Bến_đò.json",
+    "chapter_name": "Chương 648: Bến đò",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-648/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_649_Tông_môn_thất_lạc.json",
+    "chapter_name": "Chương 649: Tông môn thất lạc",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-649/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_650_Xuất_hiện.json",
+    "chapter_name": "Chương 650: Xuất hiện",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-650/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_651_Trở_lại_chốn_cũ.json",
+    "chapter_name": "Chương 651: Trở lại chốn cũ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-651/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_652_Chữa_trị.json",
+    "chapter_name": "Chương 652: Chữa trị",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-652/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_653_Rục_rịch.json",
+    "chapter_name": "Chương 653: Rục rịch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-653/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_654_Ra_tay_trước.json",
+    "chapter_name": "Chương 654: Ra tay trước",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-654/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_655_Loạn_lưu.json",
+    "chapter_name": "Chương 655: Loạn lưu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-655/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_656_Tử_thành.json",
+    "chapter_name": "Chương 656: Tử thành",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-656/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_657_Kịch_đấu_Thuỷ_Diễn_Cung.json",
+    "chapter_name": "Chương 657: Kịch đấu Thuỷ Diễn Cung",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-657/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_658_Bốn_người_đi.json",
+    "chapter_name": "Chương 658: Bốn người đi",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-658/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_659_Năm_con_đường.json",
+    "chapter_name": "Chương 659: Năm con đường",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-659/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_660_Thi_Mị.json",
+    "chapter_name": "Chương 660: Thi Mị",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-660/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_661_Đồng_thi_đầu_to.json",
+    "chapter_name": "Chương 661: Đồng thi đầu to",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-661/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_662_Mồi_nhử.json",
+    "chapter_name": "Chương 662: Mồi nhử",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-662/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_663_Hành_động_bất_đắc_dĩ.json",
+    "chapter_name": "Chương 663: Hành động bất đắc dĩ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-663/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_664_Không_để_ý_tín_nghĩa.json",
+    "chapter_name": "Chương 664: Không để ý tín nghĩa",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-664/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_665_Niềm_vui_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 665: Niềm vui ngoài ý muốn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-665/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_666_Tinh_liên.json",
+    "chapter_name": "Chương 666: Tinh liên",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-666/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_667_Hoả_Tuế_Huỳnh_Trùng.json",
+    "chapter_name": "Chương 667: Hoả Tuế Huỳnh Trùng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-667/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_668_Loạn_lưu.json",
+    "chapter_name": "Chương 668: Loạn lưu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-668/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_669_Duyên_pháp_giữa_thiên_địa.json",
+    "chapter_name": "Chương 669: Duyên pháp giữa thiên địa",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-669/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_670_Bất_động.json",
+    "chapter_name": "Chương 670: Bất động",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-670/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_671_Đã_chết.json",
+    "chapter_name": "Chương 671: Đã chết",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-671/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_672_Kinh_Thiên_chỉ.json",
+    "chapter_name": "Chương 672: Kinh Thiên chỉ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-672/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_673_Người_quen.json",
+    "chapter_name": "Chương 673: Người quen",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-673/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_674_Lo_lắng.json",
+    "chapter_name": "Chương 674: Lo lắng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-674/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_675_Vô_đề.json",
+    "chapter_name": "Chương 675: Vô đề",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-675/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_676.json",
+    "chapter_name": "Chương 676",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-676/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_677_Thi_hài.json",
+    "chapter_name": "Chương 677: Thi hài",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-677/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_678_Sát_thai.json",
+    "chapter_name": "Chương 678: Sát thai",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-678/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_679_Khúc_Không_Linh_Trúc.json",
+    "chapter_name": "Chương 679: Khúc Không Linh Trúc",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-679/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_680_Quái_nhân.json",
+    "chapter_name": "Chương 680: Quái nhân",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-680/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_681_Sinh_vật_Hôi_Giới.json",
+    "chapter_name": "Chương 681: Sinh vật Hôi Giới",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-681/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_682_Lộ_ra_manh_mối.json",
+    "chapter_name": "Chương 682: Lộ ra manh mối",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-682/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_683_Chân_Ngôn_Cung.json",
+    "chapter_name": "Chương 683: Chân Ngôn Cung",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-683/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_684_Mất_liên_lạc.json",
+    "chapter_name": "Chương 684: Mất liên lạc",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-684/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_685_Mất_hết_sáu_giác_quan.json",
+    "chapter_name": "Chương 685: Mất hết sáu giác quan",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-685/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_686_Trọng_bảo_hiện.json",
+    "chapter_name": "Chương 686: Trọng bảo hiện",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-686/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_687_Không_tin.json",
+    "chapter_name": "Chương 687: Không tin",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-687/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_688_Dùng_đạo_kia.json",
+    "chapter_name": "Chương 688: Dùng đạo kia",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-688/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_689_Nhận_ra.json",
+    "chapter_name": "Chương 689: Nhận ra",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-689/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_690_Hiểm_chiến.json",
+    "chapter_name": "Chương 690: Hiểm chiến",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-690/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_691_Tinh_quan.json",
+    "chapter_name": "Chương 691: Tinh quan",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-691/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_692_Bí_mật_diệt_tông.json",
+    "chapter_name": "Chương 692: Bí mật diệt tông",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-692/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_693_Dị_biến.json",
+    "chapter_name": "Chương 693: Dị biến",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-693/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_694_Ngưng_kết.json",
+    "chapter_name": "Chương 694: Ngưng kết",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-694/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_695_Không_đề.json",
+    "chapter_name": "Chương 695: Không đề",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-695/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_696_Kiểm_kê.json",
+    "chapter_name": "Chương 696: Kiểm kê",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-696/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_697_Nuốt_đan_sa.json",
+    "chapter_name": "Chương 697: Nuốt đan sa",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-697/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_698_Ước_định.json",
+    "chapter_name": "Chương 698: Ước định",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-698/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_699_Bộ_lạc.json",
+    "chapter_name": "Chương 699: Bộ lạc",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-699/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_700_Biểu_diễn_kỹ_xảo.json",
+    "chapter_name": "Chương 700: Biểu diễn kỹ xảo",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-700/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_701_Khiêu_khích_Chúc_mừng_năm_mới_2019.json",
+    "chapter_name": "Chương 701: Khiêu khích (Chúc mừng năm mới 2019)",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-701/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_702_Giáo_huấn.json",
+    "chapter_name": "Chương 702: Giáo huấn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-702/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_703_Giá_chênh_lệch.json",
+    "chapter_name": "Chương 703: Giá chênh lệch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-703/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_704_Thơm_lây.json",
+    "chapter_name": "Chương 704: Thơm lây",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-704/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_705_Nội_loạn.json",
+    "chapter_name": "Chương 705: Nội loạn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-705/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_706_Được_mời.json",
+    "chapter_name": "Chương 706: Được mời",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-706/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_707_Kiểm_kê.json",
+    "chapter_name": "Chương 707: Kiểm kê",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-707/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_708_Gặp_gỡ.json",
+    "chapter_name": "Chương 708: Gặp gỡ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-708/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_709_Hoàn_cảnh_lưỡng_nan.json",
+    "chapter_name": "Chương 709: Hoàn cảnh lưỡng nan",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-709/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_710_Tẩy_sát_trì.json",
+    "chapter_name": "Chương 710: Tẩy sát trì",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-710/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_711_Mạo_hiểm.json",
+    "chapter_name": "Chương 711: Mạo hiểm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-711/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_712_Song_thủ_hồ_đao.json",
+    "chapter_name": "Chương 712: Song thủ hồ đao",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-712/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_713_Lạt_mềm_buộc_chặt.json",
+    "chapter_name": "Chương 713: Lạt mềm buộc chặt",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-713/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_714_Rút_đao.json",
+    "chapter_name": "Chương 714: Rút đao",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-714/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_715_Đao_nhập_vỏ.json",
+    "chapter_name": "Chương 715: Đao nhập vỏ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-715/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_716_Sơ_nhập_Hắc_Xỉ_Vực.json",
+    "chapter_name": "Chương 716: Sơ nhập Hắc Xỉ Vực",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-716/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_717_Đến_Cửu_U_Vực.json",
+    "chapter_name": "Chương 717: Đến Cửu U Vực",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-717/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_718_Gợn_sóng.json",
+    "chapter_name": "Chương 718: Gợn sóng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-718/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_719_Đều_có_tư_tâm.json",
+    "chapter_name": "Chương 719: Đều có tư tâm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-719/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_720_Điên_Đảo_Nhai.json",
+    "chapter_name": "Chương 720: Điên Đảo Nhai",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-720/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_721_Bí_mật_đi.json",
+    "chapter_name": "Chương 721: Bí mật đi",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-721/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_722_Tập_hợp_lại.json",
+    "chapter_name": "Chương 722: Tập hợp lại",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-722/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_723_Dòm_ngó.json",
+    "chapter_name": "Chương 723: Dòm ngó",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-723/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_724_Chia_ra_hành_động.json",
+    "chapter_name": "Chương 724: Chia ra hành động",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-724/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_725_Giương_đông_kích_tây.json",
+    "chapter_name": "Chương 725: Giương đông kích tây",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-725/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_726_Cấp_bách.json",
+    "chapter_name": "Chương 726: Cấp bách",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-726/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_727_Tin_đồn.json",
+    "chapter_name": "Chương 727: Tin đồn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-727/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_728_Giả_làm_địch_nhân.json",
+    "chapter_name": "Chương 728: Giả làm địch nhân",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-728/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_729_Động_thủ.json",
+    "chapter_name": "Chương 729: Động thủ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-729/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_730_Gặp_biến_cố.json",
+    "chapter_name": "Chương 730: Gặp biến cố",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-730/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_731_Tình_thế_nguy_hiểm.json",
+    "chapter_name": "Chương 731: Tình thế nguy hiểm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-731/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_732_U_Lao.json",
+    "chapter_name": "Chương 732: U Lao",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-732/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_733_Vô_Gian_Ngục.json",
+    "chapter_name": "Chương 733: Vô Gian Ngục",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-733/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_734_Thất_bại_trong_gang_tấc.json",
+    "chapter_name": "Chương 734: Thất bại trong gang tấc?",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-734/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_735_Thực_trùng.json",
+    "chapter_name": "Chương 735: Thực trùng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-735/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_736_Không_thể_giải_thích.json",
+    "chapter_name": "Chương 736: Không thể giải thích",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-736/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_737_Rốt_cuộc_là_người_nào.json",
+    "chapter_name": "Chương 737: Rốt cuộc là người nào?",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-737/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_738_Trải_qua_gập_ghềnh.json",
+    "chapter_name": "Chương 738: Trải qua gập ghềnh",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-738/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_739_Thoát_khốn.json",
+    "chapter_name": "Chương 739: Thoát khốn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-739/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_740_Ước_định.json",
+    "chapter_name": "Chương 740: Ước định",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-740/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_741_Mất_liên_lạc.json",
+    "chapter_name": "Chương 741: Mất liên lạc",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-741/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_742_Hợp_lực_đẩy_lui_quân_địch.json",
+    "chapter_name": "Chương 742: Hợp lực đẩy lui quân địch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-742/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_743_Theo_đuổi_không_bỏ.json",
+    "chapter_name": "Chương 743: Theo đuổi không bỏ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-743/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_744_Xông_vào_cấm_địa.json",
+    "chapter_name": "Chương 744: Xông vào cấm địa",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-744/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_745_Liều_chết_đánh_cược_một_trận.json",
+    "chapter_name": "Chương 745: Liều chết đánh cược một trận",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-745/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_746_Lại_bị_giam_cầm.json",
+    "chapter_name": "Chương 746: Lại bị giam cầm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-746/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_747_Nước_cờ_nguy_hiểm.json",
+    "chapter_name": "Chương 747: Nước cờ nguy hiểm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-747/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_748_Dị_thú_thái_cổ.json",
+    "chapter_name": "Chương 748: Dị thú thái cổ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-748/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_749_Xuất_thế.json",
+    "chapter_name": "Chương 749: Xuất thế",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-749/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_750_Giải_phong_ấn_lần_hai.json",
+    "chapter_name": "Chương 750: Giải phong ấn lần hai",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-750/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_751_Minh_tranh_ám_đấu.json",
+    "chapter_name": "Chương 751: Minh tranh ám đấu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-751/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_752_Kinh_người_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 752: Kinh người ngoài ý muốn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-752/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_753_Bốn_màu_lôi_cấm.json",
+    "chapter_name": "Chương 753: Bốn màu lôi cấm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-753/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_754_Thiên_Hồ_Lão_tổ.json",
+    "chapter_name": "Chương 754: Thiên Hồ Lão tổ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-754/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_755_Tiên_khí_tam_phẩm.json",
+    "chapter_name": "Chương 755: Tiên khí tam phẩm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-755/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_756_Giao_dịch.json",
+    "chapter_name": "Chương 756: Giao dịch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-756/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_757_Tiến_vào_Lôi_Trì.json",
+    "chapter_name": "Chương 757: Tiến vào Lôi Trì",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-757/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_758_Không_phá_thì_không_thể_xây.json",
+    "chapter_name": "Chương 758: Không phá thì không thể xây",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-758/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_759_Chém_xích.json",
+    "chapter_name": "Chương 759: Chém xích",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-759/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_760_Thần_niệm_phân_thân.json",
+    "chapter_name": "Chương 760: Thần niệm phân thân",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-760/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_761_Tình_thầy_trò.json",
+    "chapter_name": "Chương 761: Tình thầy trò",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-761/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_762_Giấc_mộng_Nam_Kha_.json",
+    "chapter_name": "Chương 762: Giấc mộng Nam Kha (*)",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-762/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_763_Chém_lôi_liên_thứ_hai.json",
+    "chapter_name": "Chương 763: Chém lôi liên thứ hai",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-763/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_764_Liều_mạng_đánh_cược.json",
+    "chapter_name": "Chương 764: Liều mạng đánh cược",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-764/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_765_Chiến_đấu_với_Đại_La.json",
+    "chapter_name": "Chương 765: Chiến đấu với Đại La",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-765/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_766_Chiến_đấu_với_Đại_La_2.json",
+    "chapter_name": "Chương 766: Chiến đấu với Đại La (2)",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-766/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_767_Sát_Vực.json",
+    "chapter_name": "Chương 767: Sát Vực",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-767/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_768_Xuất_kỳ_chế_thắng.json",
+    "chapter_name": "Chương 768: Xuất kỳ chế thắng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-768/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_769_Gác_lại_tranh_luận.json",
+    "chapter_name": "Chương 769: Gác lại tranh luận",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-769/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_770_Tiến_hoá.json",
+    "chapter_name": "Chương 770: Tiến hoá",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-770/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_771_Lửa_sém_lông_mày.json",
+    "chapter_name": "Chương 771: Lửa sém lông mày",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-771/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_772_Cực_kỳ_nguy_hiểm.json",
+    "chapter_name": "Chương 772: Cực kỳ nguy hiểm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-772/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_773_Đại_nạn_không_chết.json",
+    "chapter_name": "Chương 773: Đại nạn không chết",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-773/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_774_Tẩy_rửa_Ngọc_Thể.json",
+    "chapter_name": "Chương 774: Tẩy rửa Ngọc Thể",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-774/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_775_Tiến_giai_Thái_Ất.json",
+    "chapter_name": "Chương 775: Tiến giai Thái Ất",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-775/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_776_Tìm_kiếm_hồng_nhan.json",
+    "chapter_name": "Chương 776: Tìm kiếm hồng nhan",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-776/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_777_Đại_hoàng_tử.json",
+    "chapter_name": "Chương 777: Đại hoàng tử",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-777/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_778_Chặn_đường.json",
+    "chapter_name": "Chương 778: Chặn đường",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-778/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_779_Kiếm_giết_quần_hung.json",
+    "chapter_name": "Chương 779: Kiếm giết quần hung",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-779/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_780_Trảm_thảo_trừ_căn.json",
+    "chapter_name": "Chương 780: Trảm thảo trừ căn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-780/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_781_Bao_vây_chặn_đánh.json",
+    "chapter_name": "Chương 781: Bao vây chặn đánh",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-781/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_782_Chiến_Song_Vũ.json",
+    "chapter_name": "Chương 782: Chiến Song Vũ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-782/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_783_Nói_về_kinh_nghiệm.json",
+    "chapter_name": "Chương 783: Nói về kinh nghiệm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-783/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_784_Liều_mạng_chạy_trốn.json",
+    "chapter_name": "Chương 784: Liều mạng chạy trốn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-784/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_785_Xua_hổ_nuốt_sói.json",
+    "chapter_name": "Chương 785: Xua hổ nuốt sói",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-785/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_786_Một_lòng_hướng_tục.json",
+    "chapter_name": "Chương 786: Một lòng hướng tục",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-786/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_787_Trắng_trợn_thu_mua.json",
+    "chapter_name": "Chương 787: Trắng trợn thu mua",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-787/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_788_Giao_dịch_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 788: Giao dịch ngoài ý muốn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-788/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_789_Gương_mặt_thật.json",
+    "chapter_name": "Chương 789: Gương mặt thật",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-789/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_790_Hoàng_tước_phía_sau.json",
+    "chapter_name": "Chương 790: Hoàng tước phía sau",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-790/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_791_Trong_nháy_mắt_phá_địch.json",
+    "chapter_name": "Chương 791: Trong nháy mắt phá địch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-791/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_792_Nhận_chủ.json",
+    "chapter_name": "Chương 792: Nhận chủ",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-792/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_793_Về_nhà_mà_không_vào.json",
+    "chapter_name": "Chương 793: Về nhà mà không vào",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-793/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_794_Giải_thích_điều_khó_hiểu.json",
+    "chapter_name": "Chương 794: Giải thích điều khó hiểu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-794/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_795_Vạn_vật_đều_ẩn_chứa_thời_gian.json",
+    "chapter_name": "Chương 795: Vạn vật đều ẩn chứa thời gian",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-795/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_796_Lấy_khỏe_ứng_mệt.json",
+    "chapter_name": "Chương 796: Lấy khỏe ứng mệt",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-796/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_797_Đồng_thể_song_hồn.json",
+    "chapter_name": "Chương 797: Đồng thể song hồn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-797/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_798_Địa_bàn_nhà_mình.json",
+    "chapter_name": "Chương 798: Địa bàn nhà mình",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-798/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_799_Nuốt_không_gian_mà_đi.json",
+    "chapter_name": "Chương 799: Nuốt không gian mà đi",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-799/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_800_Thương_đô_Ma_Vực.json",
+    "chapter_name": "Chương 800: Thương đô Ma Vực",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-800/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_801_Vắng_mặt.json",
+    "chapter_name": "Chương 801: Vắng mặt",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-801/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_802_Phản_bội.json",
+    "chapter_name": "Chương 802: Phản bội?",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-802/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_803_Dị_thường.json",
+    "chapter_name": "Chương 803: Dị thường",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-803/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_804_Thủ_đoạn_quỷ_dị.json",
+    "chapter_name": "Chương 804: Thủ đoạn quỷ dị",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-804/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_805_Trúng_chiêu.json",
+    "chapter_name": "Chương 805: Trúng chiêu",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-805/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_806_Phong_hồn.json",
+    "chapter_name": "Chương 806: Phong hồn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-806/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_807_Lực_phá_Hoa_Kính.json",
+    "chapter_name": "Chương 807: Lực phá Hoa Kính",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-807/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_808_Rời_thành.json",
+    "chapter_name": "Chương 808: Rời thành",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-808/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_809_Cường_địch.json",
+    "chapter_name": "Chương 809: Cường địch",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-809/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_810_Ngầm_đến_Sở_Vũ_thành.json",
+    "chapter_name": "Chương 810: Ngầm đến Sở Vũ thành",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-810/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_811_Đường_cùng.json",
+    "chapter_name": "Chương 811: Đường cùng",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-811/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_812_Bồi_luyện.json",
+    "chapter_name": "Chương 812: Bồi luyện",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-812/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_813_Nảy_mầm.json",
+    "chapter_name": "Chương 813: Nảy mầm",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-813/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_814_Trấn_nhỏ_sơn_dã.json",
+    "chapter_name": "Chương 814: Trấn nhỏ sơn dã",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-814/"
+  },
+  {
+    "path": "data/Phàm_Nhân_Tu_Tiên_Chi_Tiên_Giới_Thiên_Phàm_Nhân_Tu_Tiên_2/Chương_815_Dị_thú_Bàn_Sơn.json",
+    "chapter_name": "Chương 815: Dị thú Bàn Sơn",
+    "url": "https://truyenfull.vn/pham-nhan-tu-tien-chi-tien-gioi-thien-pham-nhan-tu-tien-2/chuong-815/"
   }
 ]
