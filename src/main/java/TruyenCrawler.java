@@ -53,7 +53,7 @@ public class TruyenCrawler {
 
                     for (int i = 0; i < stories.size(); i++) {
                         Map<String, String> existingStory = stories.get(i);
-                        if (existingStory.get("url").equals(storyUrl)) {
+                        if (existingStory.get("url") != null && existingStory.get("url").equals(storyUrl)) {
                             storyExists = true;
                             existingStoryIndex = i;
                             if ("true".equals(existingStory.get("success"))) {
