@@ -461,10 +461,28 @@
     "author": "Thanh Phong",
     "genres": "Ngôn Tình, Gia Đấu",
     "success": "false",
-    "new_chapter_count": "200",
+    "new_chapter_count": "0",
     "name": "Đệ Nhất Kiếm Thần",
     "url": "https://truyenfull.vn/de-nhat-kiem-than-799220/",
     "status": "Full",
     "desc": "Bạn đang đọc truyện Đệ Nhất Kiếm Thần của tác giả Thanh Phong. Diệp Huyên thân là Thế tử được gia tử chọn lựa, tẫn hết trách nhiệm và năng lực của bản thân, đi tranh quyền lợi và tài nguyên tốt nhất cho tộc nhân. Nhưng hắn không thể những tên trưởng lão vong ân bội nghĩa kia lại dám lấy lý do không ra gì kia phế truất hắn, còn đám động đến muội muội và người của hắn. Không tài không đức??? Buồn cười! Là ai đem tài nguyên về cho gia tộc? Thực lực của hắn thế nào, những kẻ kia còn không rõ ư? Tốt lắm! Thiên tuyển nhân ư???? Hắn sẽ cho mọi người thấy, rốt cuộc là hắn mạnh, hay kẻ mà những tên trưởng lão tận lực nâng đỡ thành Thế tử kia mạnh???"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/cung-chieu-vo-nho-troi-ban-930006/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/tu-la-vu-than/]"
+  },
+  {
+    "image": "https://static.8cache.com/cover/o/eJzLyTDR1zXIcizwyM0vSK0y0Q9zrzQr9db1yUr01HeEghzHQH3_Eq8wQ_-wSmNHC_1yI0NT3QxjIyMAXDISSw\u003d\u003d/ngao-the-cuu-trong-thien.jpg",
+    "path": "data/Ngạo_Thế_Cửu_Trọng_Thiên/chapter.json",
+    "author": "Phong Lăng Thiên Hạ",
+    "genres": "Tiên Hiệp, Kiếm Hiệp, Huyền Huyễn",
+    "success": "false",
+    "new_chapter_count": "200",
+    "name": "Ngạo Thế Cửu Trọng Thiên",
+    "url": "https://truyenfull.vn/ngao-the-cuu-trong-thien/",
+    "status": "Full",
+    "desc": "Giới Thiệu Truyện Tác giả Phong Lăng Thiên Hạ cũng không phải là xa lạ với tác phẩm Dị Thế Tà Quân. Sau kết thúc bộ Dị Thế Tà Quân thì tác giả này đã viết tiếp bộ Ngạo Thế Cửu Trùng Thiên. Với phong cách viết hài hước, xây dựng tình tiết hợp lý và kịch tính, truyện không mất bao nhiêu thời gian đã liên tục dẫn đầu bảng xếp hạng truyện Tiêp hiệp - Kỳ huyễn của trang truyện qidian. - Sở Dương kiếp trước vì lấy được bí tịch Cửu Kiếp kiếm mà bị cao thủ trong thiên hạ vây giết. Trước khi chết, hắn mới ngộ ra con đường của mình từ trước đến nay là sai. Dưới sự nuối tiếc, tuyệt vọng, hắn đã dùng chính máu trong tim của mình để kích phát ra tuyệt chiêu cuối cùng của Cửu Kiếp kiếm, không ngờ đã làm sống lại kiếm hồn của Cửu Kiếp kiếm. Nhờ năng lực đặc dị của kiếm hồn Cửu Kiếp kiếm, hắn đã quay trở lại thời điểm hắn mới gia nhập môn phái của hắn - Thiên Ngoại lâu. Trùng sinh lại với kiếm hồn Cửu Kiếp kiếm trong người, hắn đã đi trên một con đường mới khác hẳn hoàn toàn với kiếp trước, ân oán tình thù kiếm này sẽ giải quyết như thế nào, hắn đi trên con đường kiếm đạo đỉnh phong như thế nào, kiếm đạo là vô tình hay hữu tình, mời quý độc giả theo dõi bộ truyện sẽ rõ… - Tags: ngao the cuu trong thien prc full"
   }
 ]
