@@ -5998,5 +5998,910 @@
     "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1201_Liên_Động_Dẫn_Đường_Pháo_Thượng.json",
     "chapter_name": "Chương 1201: Liên Động ! Dẫn Đường Pháo ( Thượng)",
     "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1201/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1202_Liên_Động_Đạo_Dẫn_Pháo_Trung_.json",
+    "chapter_name": "Chương 1202: . Liên Động! Đạo Dẫn Pháo ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1202/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1203_Liên_Động_Dẫn_Đường_Pháo_hạ.json",
+    "chapter_name": "Chương 1203: Liên Động ! Dẫn Đường Pháo (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1203/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1204_Tập_Kích_Đến_Từ_Sử_Lai_Khắc.json",
+    "chapter_name": "Chương 1204: Tập Kích Đến Từ Sử Lai Khắc?",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1204/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1205_Khổng_Lão_Thượng.json",
+    "chapter_name": "Chương 1205: Khổng Lão ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1205/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1206_Khổng_Lão_Trung_.json",
+    "chapter_name": "Chương 1206: . Khổng Lão ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1206/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1207_Khổng_Lão_Hạ_.json",
+    "chapter_name": "Chương 1207: . Khổng Lão ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1207/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1208_Nội_Tâm_Thu_Nhi_Thượng.json",
+    "chapter_name": "Chương 1208: Nội Tâm Thu Nhi ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1208/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1209_Nội_Tâm_Thu_Nhi_trung.json",
+    "chapter_name": "Chương 1209: Nội Tâm Thu Nhi (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1209/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1210_Nội_Tâm_Thu_Nhi_hạ.json",
+    "chapter_name": "Chương 1210: Nội Tâm Thu Nhi (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1210/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1211_Đáng_Sợ_Quất_Tử_Dương_Mưu_Thượng.json",
+    "chapter_name": "Chương 1211: Đáng Sợ Quất Tử Dương Mưu ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1211/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1212_Đáng_Sợ_Quất_Tử_Dương_Mưu_Trung_.json",
+    "chapter_name": "Chương 1212: . Đáng Sợ Quất Tử Dương Mưu ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1212/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1213_Đáng_Sợ_Quất_Tử_Dương_Mưu_hạ.json",
+    "chapter_name": "Chương 1213: Đáng Sợ Quất Tử Dương Mưu (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1213/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1214_Giác_Ngộ_Thượng.json",
+    "chapter_name": "Chương 1214: Giác Ngộ ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1214/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1215_Giác_Ngộ_trung.json",
+    "chapter_name": "Chương 1215: Giác Ngộ (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1215/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1216_Giác_Ngộ_Hạ_.json",
+    "chapter_name": "Chương 1216: . Giác Ngộ ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1216/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1217_Âm_Dương_Hỗ_Bổ_Thứ_Hai_Hồn_Hạch_Thượng.json",
+    "chapter_name": "Chương 1217: Âm Dương Hỗ Bổ , Thứ Hai Hồn Hạch ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1217/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1218_Âm_Dương_Hỗ_Bổ_Thứ_Hai_Hồn_Hạch_trung.json",
+    "chapter_name": "Chương 1218: Âm Dương Hỗ Bổ , Thứ Hai Hồn Hạch (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1218/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1219_Âm_Dương_Hỗ_Bổ_Thứ_Hai_Hồn_Hạch_hạ.json",
+    "chapter_name": "Chương 1219: Âm Dương Hỗ Bổ , Thứ Hai Hồn Hạch (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1219/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1220_Mục_Lão_Thủ_Hộ_Thượng.json",
+    "chapter_name": "Chương 1220: Mục Lão Thủ Hộ ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1220/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1221_Mục_Lão_Bảo_Vệ_Trung_.json",
+    "chapter_name": "Chương 1221: . Mục Lão Bảo Vệ ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1221/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1222_Mục_Lão_Bảo_Vệ_Hạ_.json",
+    "chapter_name": "Chương 1222: . Mục Lão Bảo Vệ ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1222/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1223_Long_Đan_Bí_Mật.json",
+    "chapter_name": "Chương 1223: . Long Đan Bí Mật",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1223/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1224_Điên_Cuồng_Tu_Luyện_Thượng.json",
+    "chapter_name": "Chương 1224: Điên Cuồng Tu Luyện ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1224/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1225_Điên_Cuồng_Tu_Luyện_trung.json",
+    "chapter_name": "Chương 1225: Điên Cuồng Tu Luyện (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1225/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1226_Điên_Cuồng_Tu_Luyện_hạ.json",
+    "chapter_name": "Chương 1226: Điên Cuồng Tu Luyện (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1226/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1227_Thần_Thú_Cường_Thế_Thượng.json",
+    "chapter_name": "Chương 1227: Thần Thú Cường Thế ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1227/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1228_Thần_Thú_Cường_Thế_trung.json",
+    "chapter_name": "Chương 1228: Thần Thú Cường Thế (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1228/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1229_Thần_Thú_Cường_Thế_hạ.json",
+    "chapter_name": "Chương 1229: Thần Thú Cường Thế (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1229/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1230_Âm_Dương_Hỗ_Bổ_Vũ_Hạo_Xuất_Quan_Thượng.json",
+    "chapter_name": "Chương 1230: Âm Dương Hỗ Bổ , Vũ Hạo Xuất Quan ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1230/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1231_Âm_Dương_Bổ_Sung_Vũ_Hạo_Xuất_Quan_Trung_.json",
+    "chapter_name": "Chương 1231: . Âm Dương Bổ Sung, Vũ Hạo Xuất Quan ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1231/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1232_Âm_Dương_Bổ_Sung_Vũ_Hạo_Xuất_Quan_Hạ_.json",
+    "chapter_name": "Chương 1232: . Âm Dương Bổ Sung, Vũ Hạo Xuất Quan ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1232/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1233_Thú_Thần_Thương_Độn_Thánh_Linh_Biển_Máu_Thượng_.json",
+    "chapter_name": "Chương 1233: . Thú Thần Thương Độn, Thánh Linh Biển Máu ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1233/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1234_Thú_Thần_Thương_Độn_Thánh_Linh_Biển_Máu_Trung_.json",
+    "chapter_name": "Chương 1234: . Thú Thần Thương Độn, Thánh Linh Biển Máu ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1234/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1235_Thần_Thú_Tổn_Thương_Chui_Thánh_Linh_Biển_Máu_hạ.json",
+    "chapter_name": "Chương 1235: Thần Thú Tổn Thương Chui , Thánh Linh Biển Máu (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1235/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1236_Bắt_Cóc_Thượng.json",
+    "chapter_name": "Chương 1236: Bắt Cóc ! ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1236/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1237_Bắt_Cóc_trung.json",
+    "chapter_name": "Chương 1237: Bắt Cóc ! (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1237/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1238_Bắt_Cóc_hạ.json",
+    "chapter_name": "Chương 1238: Bắt Cóc ! (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1238/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1239_Mục_Tiêu_Của_Ta_Là_Đấu_Linh_Thượng.json",
+    "chapter_name": "Chương 1239: Mục Tiêu Của Ta Là Đấu Linh ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1239/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1240_Mục_Tiêu_Của_Ta_Là_Đấu_Linh_Trung_.json",
+    "chapter_name": "Chương 1240: . Mục Tiêu Của Ta Là Đấu Linh ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1240/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1241_Mục_Tiêu_Của_Ta_Là_Đấu_Linh_hạ.json",
+    "chapter_name": "Chương 1241: Mục Tiêu Của Ta Là Đấu Linh (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1241/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1242_Nhật_Nguyệt_Đế_Quốc_Chém_Đầu_Hành_Động.json",
+    "chapter_name": "Chương 1242: . Nhật Nguyệt Đế Quốc Chém Đầu Hành Động",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1242/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1243_Khói_Thuốc_Súng_Tràn_Ngập_Bên_Trong_Tâp_Kich_Thượng.json",
+    "chapter_name": "Chương 1243: Khói Thuốc Súng Tràn Ngập Bên Trong Tập Kích ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1243/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1244_Khói_Thuốc_Súng_Tràn_Ngập_Bên_Trong_Tâp_Kich_trung.json",
+    "chapter_name": "Chương 1244: Khói Thuốc Súng Tràn Ngập Bên Trong Tập Kích (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1244/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1245_Khói_Thuốc_Súng_Tràn_Ngập_Bên_Trong_Tâp_Kich_hạ.json",
+    "chapter_name": "Chương 1245: Khói Thuốc Súng Tràn Ngập Bên Trong Tập Kích (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1245/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1246_Thân_Người_Từ_Tam_Thạch_Đời_Thượng.json",
+    "chapter_name": "Chương 1246: Thân Người Từ Tam Thạch Đời ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1246/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1247_Thân_Người_Từ_Tam_Thạch_Đời_trung.json",
+    "chapter_name": "Chương 1247: Thân Người Từ Tam Thạch Đời (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1247/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1248_Thân_Người_Từ_Tam_Thạch_Đời_hạ.json",
+    "chapter_name": "Chương 1248: Thân Người Từ Tam Thạch Đời (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1248/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1249_Kế_Hoạch_Cải_Biến_Thượng.json",
+    "chapter_name": "Chương 1249: Kế Hoạch Cải Biến ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1249/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1250_Kế_Hoạch_Cải_Biến_trung.json",
+    "chapter_name": "Chương 1250: Kế Hoạch Cải Biến (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1250/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1251_Kế_Hoạch_Cải_Biến_hạ.json",
+    "chapter_name": "Chương 1251: Kế Hoạch Cải Biến (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1251/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1252_Thú_Vương_Hồn_Đạo_Sư_Đoàn_Sợ_Hãi_Thượng.json",
+    "chapter_name": "Chương 1252: Thú Vương Hồn Đạo Sư Đoàn Sợ Hãi ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1252/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1253_Thú_Vương_Hồn_Đạo_Sư_Đoàn_Sợ_Hãi_trung.json",
+    "chapter_name": "Chương 1253: Thú Vương Hồn Đạo Sư Đoàn Sợ Hãi (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1253/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1254_Thú_Vương_Hồn_Đạo_Sư_Đoàn_Sợ_Hãi_hạ.json",
+    "chapter_name": "Chương 1254: Thú Vương Hồn Đạo Sư Đoàn Sợ Hãi (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1254/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1255_Hoàn_Mỹ_Tập_Kích_Bất_Ngờ_Thượng.json",
+    "chapter_name": "Chương 1255: Hoàn Mỹ Tập Kích Bất Ngờ ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1255/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1256_Hoàn_Mỹ_Tập_Kích_Bất_Ngờ_trung.json",
+    "chapter_name": "Chương 1256: Hoàn Mỹ Tập Kích Bất Ngờ (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1256/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1257_Hoàn_Mỹ_Tập_Kích_Bất_Ngờ_hạ.json",
+    "chapter_name": "Chương 1257: Hoàn Mỹ Tập Kích Bất Ngờ (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1257/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1258_Thân_Vương_Từ_Tam_Thạch_Thượng.json",
+    "chapter_name": "Chương 1258: Thân Vương Từ Tam Thạch ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1258/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1259_Thân_Vương_Từ_Tam_Thạch_Trung_.json",
+    "chapter_name": "Chương 1259: . Thân Vương Từ Tam Thạch ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1259/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1260_Thân_Vương_Từ_Tam_Thạch_hạ.json",
+    "chapter_name": "Chương 1260: Thân Vương Từ Tam Thạch (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1260/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1261_Ta_Tới_.json",
+    "chapter_name": "Chương 1261: . Ta Tới !",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1261/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1262_Ta_Tới_Thượng_.json",
+    "chapter_name": "Chương 1262: . Ta Tới ! ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1262/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1263_Ta_Tới_Trung_.json",
+    "chapter_name": "Chương 1263: . Ta Tới ! ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1263/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1264_Ta_Tới_Hạ_.json",
+    "chapter_name": "Chương 1264: . Ta Tới ! ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1264/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1265_Lấy_Một_Địch_Mười_Thượng_.json",
+    "chapter_name": "Chương 1265: . Lấy Một Địch Mười! ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1265/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1266_Lấy_Một_Địch_Mười_Trung_.json",
+    "chapter_name": "Chương 1266: . Lấy Một Địch Mười! ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1266/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1267_Lấy_Nhảy_Lên_Mười_hạ.json",
+    "chapter_name": "Chương 1267: Lấy Nhảy Lên Mười ! (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1267/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1268_Trận_Đầu_Diệt_Sát_Thượng.json",
+    "chapter_name": "Chương 1268: Trận Đầu , Diệt Sát ! ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1268/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1269_Trận_Đầu_Diệt_Sát_trung.json",
+    "chapter_name": "Chương 1269: Trận Đầu , Diệt Sát ! (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1269/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1270_Trận_Đầu_Diệt_Sát_hạ.json",
+    "chapter_name": "Chương 1270: Trận Đầu , Diệt Sát ! (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1270/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1271_Nhị_Chiến_Phượng_Lăng_Thượng.json",
+    "chapter_name": "Chương 1271: Nhị Chiến! Phượng Lăng ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1271/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1272_Nhị_Chiến_Phượng_Lăng_Trung_.json",
+    "chapter_name": "Chương 1272: . Nhị Chiến! Phượng Lăng ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1272/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1273_Nhị_Chiến_Phượng_Lăng_Hạ_.json",
+    "chapter_name": "Chương 1273: . Nhị Chiến! Phượng Lăng ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1273/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1274_Ba_Chiến_Phượng_Hoàng_Thánh_Nữ_Thượng_.json",
+    "chapter_name": "Chương 1274: . Ba Chiến, Phượng Hoàng Thánh Nữ ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1274/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1275_Ba_Chiến_Phượng_Hoàng_Thánh_Nữ_Trung_.json",
+    "chapter_name": "Chương 1275: . Ba Chiến, Phượng Hoàng Thánh Nữ ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1275/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1276_Ba_Chiến_Phượng_Hoàng_Thánh_Nữ_Hạ_.json",
+    "chapter_name": "Chương 1276: . Ba Chiến, Phượng Hoàng Thánh Nữ ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1276/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1277_Hạt_Hổ_Vẫn_Chung_Ly_Ra_Thượng.json",
+    "chapter_name": "Chương 1277: Hạt Hổ Vẫn , Chung Ly Ra ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1277/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1278_Hạt_Hổ_Vẫn_Chung_Ly_Xuất_trung_.json",
+    "chapter_name": "Chương 1278: Hạt Hổ Vẫn, Chung Ly Xuất (trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1278/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1279_Hạt_Hổ_Vẫn_Chung_Ly_Xuất_Hạ_.json",
+    "chapter_name": "Chương 1279: Hạt Hổ Vẫn, Chung Ly Xuất ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1279/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1280_Phong_Hỏa_Biến.json",
+    "chapter_name": "Chương 1280: . Phong Hỏa Biến",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1280/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1281_Người_Nào_Tính_Toán_Người_Nào_Thượng_.json",
+    "chapter_name": "Chương 1281: . Người Nào Tính Toán Người Nào? ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1281/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1282_Người_Nào_Tính_Toán_Người_Nào_Trung_.json",
+    "chapter_name": "Chương 1282: . Người Nào Tính Toán Người Nào? ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1282/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1283_Ai_Tính_Kế_Ai_hạ.json",
+    "chapter_name": "Chương 1283: Ai Tính Kế Ai? (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1283/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1284_Thần_Giới_Đao_Pháp_Thượng.json",
+    "chapter_name": "Chương 1284: Thần Giới Đao Pháp ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1284/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1285_Thần_Giới_Đao_Pháp_trung.json",
+    "chapter_name": "Chương 1285: Thần Giới Đao Pháp (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1285/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1286_Thần_Giới_Đao_Pháp_hạ.json",
+    "chapter_name": "Chương 1286: Thần Giới Đao Pháp (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1286/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1287_Đường_Tam_Tiểu_Vũ_Dung_Niệm_Băng_thượng.json",
+    "chapter_name": "Chương 1287: Đường Tam , Tiểu Vũ , Dung Niệm Băng (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1287/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1288_Đường_Tam_Tiểu_Vũ_Dung_Niệm_Băng_Trung_.json",
+    "chapter_name": "Chương 1288: Đường Tam , Tiểu Vũ , Dung Niệm Băng ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1288/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1289_Đường_Tam_Tiểu_Vũ_Dung_Niệm_Băng_hạ.json",
+    "chapter_name": "Chương 1289: Đường Tam , Tiểu Vũ , Dung Niệm Băng (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1289/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1290_Sí_Giao_Cực_Trí_Chi_Hỏa_Mã_Tiểu_Đào_Thượng_.json",
+    "chapter_name": "Chương 1290: . Sí Giao! Cực Trí Chi Hỏa Mã Tiểu Đào ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1290/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1291_Sí_Giao_Cực_Trí_Chi_Hỏa_Mã_Tiểu_Đào_Trung_.json",
+    "chapter_name": "Chương 1291: . Sí Giao! Cực Trí Chi Hỏa Mã Tiểu Đào ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1291/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1292_Sí_Giao_Cực_Trí_Chi_Hỏa_Mã_Tiểu_Đào_Hạ_.json",
+    "chapter_name": "Chương 1292: . Sí Giao! Cực Trí Chi Hỏa Mã Tiểu Đào ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1292/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1293_Vì_Nàng_Hi_Sinh_thượng.json",
+    "chapter_name": "Chương 1293: Vì Nàng Hi Sinh? (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1293/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1294_Vì_Nàng_Hi_Sinh_Trung_.json",
+    "chapter_name": "Chương 1294: Vì Nàng Hi Sinh? ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1294/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1295_Vì_Nàng_Hi_Sinh_hạ.json",
+    "chapter_name": "Chương 1295: Vì Nàng Hi Sinh? (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1295/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1296_Chiếu_Rọi_Dung_Hợp_Thượng.json",
+    "chapter_name": "Chương 1296: Chiếu Rọi ! Dung Hợp ! ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1296/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1297_Chiếu_Rọi_Dung_Hợp_trung.json",
+    "chapter_name": "Chương 1297: Chiếu Rọi ! Dung Hợp ! (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1297/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1298_Chiếu_Rọi_Dung_Hợp_hạ.json",
+    "chapter_name": "Chương 1298: Chiếu Rọi ! Dung Hợp ! (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1298/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1299_Song_Thăng_Siêu_Cấp_Đấu_La_.json",
+    "chapter_name": "Chương 1299: Song Thăng Siêu Cấp Đấu La !",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1299/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1300_Từ_Tam_Thạch_Chi_Khốn_Thượng_.json",
+    "chapter_name": "Chương 1300: . Từ Tam Thạch Chi Khốn ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1300/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1301_Từ_Tam_Thạch_Chi_Khốn_Trung_.json",
+    "chapter_name": "Chương 1301: . Từ Tam Thạch Chi Khốn ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1301/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1302_Từ_Tam_Thạch_Chi_Khốn_Hạ_.json",
+    "chapter_name": "Chương 1302: . Từ Tam Thạch Chi Khốn ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1302/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1303_Tuyệt_Cảnh_Thượng.json",
+    "chapter_name": "Chương 1303: Tuyệt Cảnh ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1303/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1304_Tuyệt_Cảnh_trung.json",
+    "chapter_name": "Chương 1304: Tuyệt Cảnh (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1304/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1305_Tuyệt_Cảnh_hạ.json",
+    "chapter_name": "Chương 1305: Tuyệt Cảnh (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1305/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1306_Linh_Băng_Đấu_La_Phủ_Xuống_Thượng_.json",
+    "chapter_name": "Chương 1306: . Linh Băng Đấu La Phủ Xuống ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1306/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1307_Linh_Băng_Đấu_La_Hạ_Xuống_trung.json",
+    "chapter_name": "Chương 1307: Linh Băng Đấu La Hạ Xuống (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1307/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1308_Linh_Băng_Đấu_La_Hàng_Lâm_Hạ_.json",
+    "chapter_name": "Chương 1308: Linh Băng Đấu La Hàng Lâm ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1308/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1309_Phương_Hướng_Thượng.json",
+    "chapter_name": "Chương 1309: Phương Hướng ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1309/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1310_Phương_Hướng_Trung_.json",
+    "chapter_name": "Chương 1310: . Phương Hướng ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1310/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1311_Phương_Hướng_Hạ_.json",
+    "chapter_name": "Chương 1311: . Phương Hướng ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1311/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1312_Hồng_Trần_Gia_Tộc_Thượng.json",
+    "chapter_name": "Chương 1312: Hồng Trần Gia Tộc ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1312/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1313_Hồng_Trần_Gia_Tộc_Trung_.json",
+    "chapter_name": "Chương 1313: . Hồng Trần Gia Tộc ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1313/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1314_Hồng_Trần_Gia_Tộc_hạ.json",
+    "chapter_name": "Chương 1314: Hồng Trần Gia Tộc (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1314/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1315_Sơn_Cốc_Đại_Quân_Thượng_.json",
+    "chapter_name": "Chương 1315: . Sơn Cốc Đại Quân ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1315/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1316_Sơn_Cốc_Đại_Quân_Trung_.json",
+    "chapter_name": "Chương 1316: . Sơn Cốc Đại Quân ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1316/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1317_Sơn_Cốc_Đại_Quân_Hạ_.json",
+    "chapter_name": "Chương 1317: . Sơn Cốc Đại Quân ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1317/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1318_Song_Cực_Hạn_Đấu_La_Cường_Đại.json",
+    "chapter_name": "Chương 1318: . Song Cực Hạn Đấu La Cường Đại",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1318/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1319_Giao_Hòa_Tu_Luyện_Thượng.json",
+    "chapter_name": "Chương 1319: Giao Hòa Tu Luyện ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1319/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1320_Giao_Hòa_Tu_Luyện_trung.json",
+    "chapter_name": "Chương 1320: Giao Hòa Tu Luyện (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1320/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1321_Giao_Hòa_Tu_Luyện_hạ.json",
+    "chapter_name": "Chương 1321: Giao Hòa Tu Luyện (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1321/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1322_Hợp_Tác_Thượng.json",
+    "chapter_name": "Chương 1322: Hợp Tác ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1322/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1323_Hợp_Tác_trung.json",
+    "chapter_name": "Chương 1323: Hợp Tác (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1323/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1324_Hợp_Tác_hạ.json",
+    "chapter_name": "Chương 1324: Hợp Tác (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1324/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1325_Thương_Tâm_Quất_Tử_Thượng_.json",
+    "chapter_name": "Chương 1325: . Thương Tâm Quất Tử ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1325/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1326_Thương_Tâm_Quất_Tử_trung.json",
+    "chapter_name": "Chương 1326: Thương Tâm Quất Tử (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1326/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1327_Thương_Tâm_Quất_Tử_hạ.json",
+    "chapter_name": "Chương 1327: Thương Tâm Quất Tử (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1327/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1328_Từ_Thiên_Nhiên_Quyết_Đoán_Thượng.json",
+    "chapter_name": "Chương 1328: Từ Thiên Nhiên Quyết Đoán ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1328/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1329_Từ_Thiên_Nhiên_Quyết_Đoán_trung.json",
+    "chapter_name": "Chương 1329: Từ Thiên Nhiên Quyết Đoán (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1329/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1330_Từ_Thiên_Nhiên_Quyết_Đoán_hạ.json",
+    "chapter_name": "Chương 1330: Từ Thiên Nhiên Quyết Đoán (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1330/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1331_Hắc_Ám_Thánh_Long_Câu_Chuyện_Thượng.json",
+    "chapter_name": "Chương 1331: Hắc Ám Thánh Long Câu Chuyện ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1331/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1332_Hắc_Ám_Thánh_Long_Chuyện_Xưa_Trung_.json",
+    "chapter_name": "Chương 1332: . Hắc Ám Thánh Long Chuyện Xưa ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1332/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1333_Hắc_Ám_Thánh_Long_Chuyện_Xưa_Hạ_.json",
+    "chapter_name": "Chương 1333: . Hắc Ám Thánh Long Chuyện Xưa ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1333/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1334_Vây_Giết_Cực_Hạn_Đấu_La_Bẩy_Rập_Thượng.json",
+    "chapter_name": "Chương 1334: Vây Giết Cực Hạn Đấu La Bẩy Rập ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1334/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1335_Vây_Giết_Cực_Hạn_Đấu_La_Bẩy_Rập_trung.json",
+    "chapter_name": "Chương 1335: Vây Giết Cực Hạn Đấu La Bẩy Rập (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1335/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1336_Vây_Giết_Cực_Hạn_Đấu_La_Bẫy_Rập_Hạ_.json",
+    "chapter_name": "Chương 1336: . Vây Giết Cực Hạn Đấu La Bẫy Rập ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1336/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1337_Cực_Hạn_Đấu_La_Chi_Vẫn.json",
+    "chapter_name": "Chương 1337: Cực Hạn Đấu La Chi Vẫn?",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1337/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1338_Song_Truyền_Công_Thượng_.json",
+    "chapter_name": "Chương 1338: . Song Truyền Công ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1338/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1339_Song_Truyền_Công_trung.json",
+    "chapter_name": "Chương 1339: Song Truyền Công (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1339/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1340_Song_Truyền_Công_hạ.json",
+    "chapter_name": "Chương 1340: Song Truyền Công (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1340/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1341_Chín_Mươi_Tám_Cấp_thượng.json",
+    "chapter_name": "Chương 1341: Chín Mươi Tám Cấp ! (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1341/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1342_Chín_Mươi_Tám_Cấp_Trung_.json",
+    "chapter_name": "Chương 1342: Chín Mươi Tám Cấp ! ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1342/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1343_Chín_Mươi_Tám_Cấp_Hạ_.json",
+    "chapter_name": "Chương 1343: Chín Mươi Tám Cấp ! ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1343/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1344_Thánh_Linh_Diệt_thượng.json",
+    "chapter_name": "Chương 1344: Thánh Linh Diệt (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1344/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1345_Thánh_Linh_Diệt_Trung_.json",
+    "chapter_name": "Chương 1345: Thánh Linh Diệt ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1345/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1346_Thánh_Linh_Diệt_Hạ_.json",
+    "chapter_name": "Chương 1346: Thánh Linh Diệt ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1346/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1347_Tà_Quân_Vẫn_thượng.json",
+    "chapter_name": "Chương 1347: Tà Quân Vẫn (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1347/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1348_Tà_Quân_Vẫn_Trung_.json",
+    "chapter_name": "Chương 1348: Tà Quân Vẫn ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1348/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1349_Tà_Quân_Vẫn_Hạ_.json",
+    "chapter_name": "Chương 1349: Tà Quân Vẫn ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1349/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1350_Vũ_Hạo_Đến_thượng.json",
+    "chapter_name": "Chương 1350: Vũ Hạo Đến (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1350/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1351_Vũ_Hạo_Đến_Trung_.json",
+    "chapter_name": "Chương 1351: Vũ Hạo Đến ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1351/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1352_Vũ_Hạo_Đến_Hạ_.json",
+    "chapter_name": "Chương 1352: Vũ Hạo Đến ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1352/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1353_Tiệc_Rượu_Tập_Kích_thượng.json",
+    "chapter_name": "Chương 1353: Tiệc Rượu Tập Kích (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1353/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1354_Tiệc_Rượu_Tập_Kích_trung.json",
+    "chapter_name": "Chương 1354: Tiệc Rượu Tập Kích (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1354/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1355_Tiệc_Rượu_Tập_Kích_hạ.json",
+    "chapter_name": "Chương 1355: Tiệc Rượu Tập Kích (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1355/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1356_Đế_Hoàng_Rơi.json",
+    "chapter_name": "Chương 1356: Đế Hoàng Rơi",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1356/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1357_Đoạt_Xá_thượng.json",
+    "chapter_name": "Chương 1357: Đoạt Xá (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1357/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1358_Đoạt_Xá_trung.json",
+    "chapter_name": "Chương 1358: Đoạt Xá (trung)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1358/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1359_Đoạt_Xá_hạ.json",
+    "chapter_name": "Chương 1359: Đoạt Xá (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1359/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1360_Phản_Khống_Thượng_.json",
+    "chapter_name": "Chương 1360: . Phản Khống ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1360/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1361_phản_Khống_Trung_.json",
+    "chapter_name": "Chương 1361: phản Khống ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1361/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1362_Phản_Khống_Hạ_.json",
+    "chapter_name": "Chương 1362: Phản Khống ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1362/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1363_Bức_Bách_Thượng.json",
+    "chapter_name": "Chương 1363: Bức Bách ( Thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1363/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1364_Bức_Bách_Trung_.json",
+    "chapter_name": "Chương 1364: Bức Bách ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1364/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1365_Bức_Bách_hạ.json",
+    "chapter_name": "Chương 1365: Bức Bách (hạ)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1365/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1366_Áp_Chế_Thượng_.json",
+    "chapter_name": "Chương 1366: . Áp Chế ( Thượng )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1366/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1367_Áp_Chế_Trung_.json",
+    "chapter_name": "Chương 1367: Áp Chế ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1367/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1368_Áp_Chế_Hạ_.json",
+    "chapter_name": "Chương 1368: Áp Chế ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1368/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1369_Ngươi_Dám_thượng.json",
+    "chapter_name": "Chương 1369: Ngươi Dám ! (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1369/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1370_Ngươi_Dám_Trung_.json",
+    "chapter_name": "Chương 1370: Ngươi Dám ! ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1370/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1371_Ngươi_Dám_Hạ_.json",
+    "chapter_name": "Chương 1371: . Ngươi Dám! ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1371/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1372_Vô_Địch_thượng.json",
+    "chapter_name": "Chương 1372: Vô Địch ! (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1372/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1373_Vô_Địch_Trung_.json",
+    "chapter_name": "Chương 1373: . Vô Địch! ( Trung )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1373/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1374_Vô_Địch_Hạ_.json",
+    "chapter_name": "Chương 1374: Vô Địch ! ( Hạ )",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1374/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1375_Nhi_Tử.json",
+    "chapter_name": "Chương 1375: Nhi Tử",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1375/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1376_Nhường_Ngôi_thượng.json",
+    "chapter_name": "Chương 1376: Nhường Ngôi (thượng)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1376/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1377_Nhường_Ngôi_không_Biết_Là_Tác_Giả_Bị_Lộ_Chap_Hay_Là_Tụi_Độc_Giả_Viết_Nhưng_Pos.json",
+    "chapter_name": "Chương 1377: Nhường Ngôi (không Biết Là Tác Giả Bị Lộ Chap Hay Là Tụi Độc Giả Viết Nhưng Pos",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1377/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1378_Khiêu_Chiến_Thần_Thú_.json",
+    "chapter_name": "Chương 1378: Khiêu Chiến Thần Thú !",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1378/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1379_Đệ_Tam_Hồn_Hạch.json",
+    "chapter_name": "Chương 1379: Đệ Tam Hồn Hạch",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1379/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1380_Tiểu_Hoắc_Phi_Đao_Đang_dịch_lại_từ_chương_640_18032020.json",
+    "chapter_name": "Chương 1380: Tiểu Hoắc Phi Đao (Đang dịch lại từ chương 640 (18/03/2020)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1380/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1381_Đái_Mộc_Bạch_cùng_Chu_Trúc_Thanh_Đã_dịch_lại_đến_chương_662_01042020.json",
+    "chapter_name": "Chương 1381: Đái Mộc Bạch cùng Chu Trúc Thanh (Đã dịch lại đến chương 662 (01/04/2020)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1381/"
+  },
+  {
+    "path": "data/Đấu_La_Đại_Lục_II_Tuyệt_Thế_Đường_Môn/Chương_1382_Đại_Kết_CụcHết_Đang_dịch_lại_từ_chương_640.json",
+    "chapter_name": "Chương 1382: Đại Kết Cục(Hết) (Đang dịch lại từ chương 640)",
+    "url": "https://truyenfull.vn/dau-la-dai-luc-2/chuong-1382/"
   }
 ]
