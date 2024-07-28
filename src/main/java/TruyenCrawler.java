@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -28,8 +29,7 @@ public class TruyenCrawler {
 
             if (dsTruyenFile.exists()) {
                 try (FileReader reader = new FileReader(dsTruyenFile)) {
-                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
-                    }.getType());
+                    stories = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -187,8 +187,7 @@ public class TruyenCrawler {
         File chapterExistFile = new File(chapterFileExistPath);
         if (chapterExistFile.exists()) {
             try (FileReader reader = new FileReader(chapterFileExistPath)) {
-                existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {
-                }.getType());
+                existingChapters = new Gson().fromJson(reader, new TypeToken<List<Map<String, String>>>() {}.getType());
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -252,6 +251,18 @@ public class TruyenCrawler {
                     }
                 }
 
+            } catch (HttpStatusException e) {
+                if (e.getStatusCode() == 503) {
+                    System.out.println("Received 503 error, retrying after a delay...");
+                    try {
+                        Thread.sleep(5000); // Đợi 5 giây trước khi thử lại
+                    } catch (InterruptedException ie) {
+                        ie.printStackTrace();
+                    }
+                } else {
+                    e.printStackTrace();
+                    break;
+                }
             } catch (IOException e) {
                 e.printStackTrace();
                 break;
