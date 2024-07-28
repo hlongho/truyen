@@ -461,22 +461,46 @@
     "author": "Thanh Phong",
     "genres": "Ngôn Tình, Gia Đấu",
     "success": "false",
-    "new_chapter_count": "200",
+    "new_chapter_count": "0",
     "name": "Đệ Nhất Kiếm Thần",
     "url": "https://truyenfull.vn/de-nhat-kiem-than-799220/",
     "status": "Full",
     "desc": "Bạn đang đọc truyện Đệ Nhất Kiếm Thần của tác giả Thanh Phong. Diệp Huyên thân là Thế tử được gia tử chọn lựa, tẫn hết trách nhiệm và năng lực của bản thân, đi tranh quyền lợi và tài nguyên tốt nhất cho tộc nhân. Nhưng hắn không thể những tên trưởng lão vong ân bội nghĩa kia lại dám lấy lý do không ra gì kia phế truất hắn, còn đám động đến muội muội và người của hắn. Không tài không đức??? Buồn cười! Là ai đem tài nguyên về cho gia tộc? Thực lực của hắn thế nào, những kẻ kia còn không rõ ư? Tốt lắm! Thiên tuyển nhân ư???? Hắn sẽ cho mọi người thấy, rốt cuộc là hắn mạnh, hay kẻ mà những tên trưởng lão tận lực nâng đỡ thành Thế tử kia mạnh???"
   },
   {
-    "image": "https://static.8cache.com/cover/o/eJzLyTDR1zXIcizwyM0vSK0y0Q9zrzQr9db1yUr01HeEghzHQH3_Eq8wQ_-wSmNHC_1yI0NT3QxjIyMAXDISSw\u003d\u003d/ngao-the-cuu-trong-thien.jpg",
-    "path": "data/Ngạo_Thế_Cửu_Trọng_Thiên/chapter.json",
-    "author": "Phong Lăng Thiên Hạ",
-    "genres": "Tiên Hiệp, Kiếm Hiệp, Huyền Huyễn",
-    "success": "false",
-    "new_chapter_count": "200",
-    "name": "Ngạo Thế Cửu Trọng Thiên",
-    "url": "https://truyenfull.vn/ngao-the-cuu-trong-thien/",
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/ngao-the-cuu-trong-thien/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/cung-chieu-vo-nho-troi-ban-930006/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/tu-la-vu-than/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/tu-cam-270192/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/de-ton/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/nga-duc-phong-thien/]"
+  },
+  {
+    "error": "org.jsoup.HttpStatusException: HTTP error fetching URL. Status\u003d503, URL\u003d[https://truyenfull.vn/thien-dao-do-thu-quan-070820/]"
+  },
+  {
+    "image": "https://static.8cache.com/cover/eJzLyTDWzyw19LbMSworjko38XUp93Y0Si13NMgq9DL2NjZxDY1I9XDKSDV1MUkvKc8MTXMpCKzKqzB38kjOr3QpDChJKTNNNSiPzHJOiS8yMTDLdUm2LTcyNNXNMDYyAgDE6R6s/kho-do-danh.jpg",
+    "path": "data/Khó_Dỗ_Dành/chapter.json",
+    "author": "Trúc Dĩ",
+    "genres": "Ngôn Tình",
+    "success": "true",
+    "new_chapter_count": "89",
+    "name": "Khó Dỗ Dành",
+    "url": "https://truyenfull.vn/kho-do-danh/",
     "status": "Full",
-    "desc": "Giới Thiệu Truyện Tác giả Phong Lăng Thiên Hạ cũng không phải là xa lạ với tác phẩm Dị Thế Tà Quân. Sau kết thúc bộ Dị Thế Tà Quân thì tác giả này đã viết tiếp bộ Ngạo Thế Cửu Trùng Thiên. Với phong cách viết hài hước, xây dựng tình tiết hợp lý và kịch tính, truyện không mất bao nhiêu thời gian đã liên tục dẫn đầu bảng xếp hạng truyện Tiêp hiệp - Kỳ huyễn của trang truyện qidian. - Sở Dương kiếp trước vì lấy được bí tịch Cửu Kiếp kiếm mà bị cao thủ trong thiên hạ vây giết. Trước khi chết, hắn mới ngộ ra con đường của mình từ trước đến nay là sai. Dưới sự nuối tiếc, tuyệt vọng, hắn đã dùng chính máu trong tim của mình để kích phát ra tuyệt chiêu cuối cùng của Cửu Kiếp kiếm, không ngờ đã làm sống lại kiếm hồn của Cửu Kiếp kiếm. Nhờ năng lực đặc dị của kiếm hồn Cửu Kiếp kiếm, hắn đã quay trở lại thời điểm hắn mới gia nhập môn phái của hắn - Thiên Ngoại lâu. Trùng sinh lại với kiếm hồn Cửu Kiếp kiếm trong người, hắn đã đi trên một con đường mới khác hẳn hoàn toàn với kiếp trước, ân oán tình thù kiếm này sẽ giải quyết như thế nào, hắn đi trên con đường kiếm đạo đỉnh phong như thế nào, kiếm đạo là vô tình hay hữu tình, mời quý độc giả theo dõi bộ truyện sẽ rõ… - Tags: ngao the cuu trong thien prc full"
+    "desc": "Bạn đang đọc truyện Khó Dỗ Dành của tác giả Trúc Dĩ. Tình cờ, Ôn Dĩ Phàm cùng người bạn học cấp ba từng bị cô cự tuyệt là Tang Diên thuê chung một nhà. Hai người nước giếng không phạm nước sông, như hai người xa lạ sống dưới cùng một mái hiên. Cuộc sống bình yên dừng lại ở một buổi sáng. Tối trước đó Ôn Dĩ Phàm ngủ ở phòng mình, vậy mà sáng hôm sau lại tỉnh dậy ở trên giường Tang Diên. Biết mình bị mộng du, Ôn Dĩ Phàm chỉ có thể giải thích và xin lỗi anh. Nhưng rồi chuyện này lại liên tiếp xuất hiện, cô đành thương lượng cùng anh, đề nghị anh trước khi ngủ khóa cửa phòng lại. Tang Diên lơ đễnh: “Em sẽ cạy khóa.” Ôn Dĩ Phàm nhún nhường nói: “Tôi nào có bản lĩnh đó?” “Để cùng chung chăn gối với tôi” Tang Duyên chậm rãi giương mắt, không tập trung, “em có cái gì không làm được?” Ôn Dĩ Phàm yên lặng hai giây, thành khẩn nói: “Nếu đúng thật như vậy, anh nguyện ý khóa cửa sao?” “...”..... Ôn Dĩ Phàm: “Vậy tới luôn đi.” Tang Diên: “?” • Tóm tắt một câu: Bạn cùng phòng luôn cho là tôi muốn tán tỉnh anh ta."
   }
 ]
