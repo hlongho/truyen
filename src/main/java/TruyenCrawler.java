@@ -200,7 +200,7 @@ public class TruyenCrawler {
         // Chuyển danh sách các chương hiện có sang dạng Map để dễ kiểm tra
         Map<String, Boolean> existingChapterUrls = new HashMap<>();
         for (Map<String, String> existingChapter : existingChapters) {
-            existingChapterUrls.put(existingChapter.get("url"), true);
+            existingChapterUrls.put(existingChapter.get("url").replace("//truyenfull.vn", "//truyenfull.io"), true);
         }
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
