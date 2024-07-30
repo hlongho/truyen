@@ -1,0 +1,1002 @@
+[
+  {
+    "path": "data/Tự_Cẩm/Chương_1_Đêm.json",
+    "chapter_name": "Chương 1: Đêm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-1/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_2_Tai_nghe_là_giả.json",
+    "chapter_name": "Chương 2: Tai nghe là giả",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-2/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_3_Cứu_người.json",
+    "chapter_name": "Chương 3: Cứu người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-3/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_4_Vô_sỉ.json",
+    "chapter_name": "Chương 4: Vô sỉ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-4/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_5_Lương_thiếp.json",
+    "chapter_name": "Chương 5: Lương thiếp",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-5/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_6_Phụ_huynh.json",
+    "chapter_name": "Chương 6: Phụ huynh",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-6/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_7_Từ_tâm_đường.json",
+    "chapter_name": "Chương 7: Từ tâm đường",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-7/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_8_Hôn_nhân_đại_sự.json",
+    "chapter_name": "Chương 8: Hôn nhân đại sự",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-8/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_9_Thưởng_phạt.json",
+    "chapter_name": "Chương 9: Thưởng phạt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-9/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_10_Ngựa_quen_đường_cũ.json",
+    "chapter_name": "Chương 10: Ngựa quen đường cũ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-10/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_11_Ngõ_tối.json",
+    "chapter_name": "Chương 11: Ngõ tối",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-11/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_12_Thiếu_niên_cùng_cẩu.json",
+    "chapter_name": "Chương 12: Thiếu niên cùng cẩu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-12/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_13_Dư_Thất.json",
+    "chapter_name": "Chương 13: Dư Thất",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-13/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_14_Từ_hôn.json",
+    "chapter_name": "Chương 14: Từ hôn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-14/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_15_Phá_gia_chi_tử.json",
+    "chapter_name": "Chương 15: Phá gia chi tử",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-15/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_16_Người_yêu_nhau_cuối_cùng_cũng_sống_cùng_nhau.json",
+    "chapter_name": "Chương 16: Người yêu nhau cuối cùng cũng sống cùng nhau",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-16/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_17_Nhị_đường_tỷ.json",
+    "chapter_name": "Chương 17: Nhị đường tỷ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-17/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_18_Mộng.json",
+    "chapter_name": "Chương 18: Mộng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-18/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_19_Trà_lâu.json",
+    "chapter_name": "Chương 19: Trà lâu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-19/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_20_Chim_tình_yêu.json",
+    "chapter_name": "Chương 20: Chim tình yêu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-20/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_21_Hái_thuốc.json",
+    "chapter_name": "Chương 21: Hái thuốc",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-21/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_22_Ngẫu_nhiên_gặp.json",
+    "chapter_name": "Chương 22: Ngẫu nhiên gặp",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-22/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_23_Thái_độ_của_Nhị_thái_thái.json",
+    "chapter_name": "Chương 23: Thái độ của Nhị thái thái",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-23/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_24_Rao_giá_trên_trời.json",
+    "chapter_name": "Chương 24: Rao giá trên trời",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-24/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_25_Đào_hố_mặc_chôn.json",
+    "chapter_name": "Chương 25: Đào hố mặc chôn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-25/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_26_Mất_mặt.json",
+    "chapter_name": "Chương 26: Mất mặt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-26/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_27_Trò_khôi_hài.json",
+    "chapter_name": "Chương 27: Trò khôi hài",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-27/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_28_Đừng_để_ta_nghe_thấy_là_được.json",
+    "chapter_name": "Chương 28: Đừng để ta nghe thấy là được",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-28/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_29_Đu_dây.json",
+    "chapter_name": "Chương 29: Đu dây",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-29/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_30_Còn_muốn_đánh_nữa_hay_không_hả.json",
+    "chapter_name": "Chương 30: Còn muốn đánh nữa hay không hả?",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-30/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_31_Đây_là_xá_muội.json",
+    "chapter_name": "Chương 31: Đây là xá muội",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-31/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_32_Tên_khốn_nạn_lừa_hôn.json",
+    "chapter_name": "Chương 32: Tên khốn nạn lừa hôn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-32/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_33_Túi_tiền.json",
+    "chapter_name": "Chương 33: Túi tiền",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-33/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_34_Tỷ_muội.json",
+    "chapter_name": "Chương 34: Tỷ muội",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-34/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_35_Ứng_Nghiệm.json",
+    "chapter_name": "Chương 35: Ứng Nghiệm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-35/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_36_Trò_cũ.json",
+    "chapter_name": "Chương 36: Trò cũ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-36/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_37_Tiên_Cô.json",
+    "chapter_name": "Chương 37: Tiên Cô",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-37/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_38_Mồi_câu.json",
+    "chapter_name": "Chương 38: Mồi câu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-38/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_39_Nhược_Điểm.json",
+    "chapter_name": "Chương 39: Nhược Điểm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-39/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_40_Lòng_người_hiểm_ác.json",
+    "chapter_name": "Chương 40: Lòng người hiểm ác",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-40/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_41_Dương_danh_hiếu_tâm.json",
+    "chapter_name": "Chương 41: Dương danh hiếu tâm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-41/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_42_Lên_đài.json",
+    "chapter_name": "Chương 42: Lên đài",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-42/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_43_Linh_âm_Cầu_đặt_đơn_trước.json",
+    "chapter_name": "Chương 43: Linh âm (Cầu đặt đơn trước)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-43/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_44_Người_câm_ăn_hoàng_liên.json",
+    "chapter_name": "Chương 44: Người câm ăn hoàng liên",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-44/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_45_Kế_Tiếp_Thiên_Vũ_Thiên_Nguyệt_Trứng_Linh_Thú.json",
+    "chapter_name": "Chương 45: Kế Tiếp (Thiên Vũ , Thiên Nguyệt Trứng Linh Thú)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-45/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_46_Làm_Ăn.json",
+    "chapter_name": "Chương 46: Làm Ăn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-46/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_47_Mượn_Tiền.json",
+    "chapter_name": "Chương 47: Mượn Tiền",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-47/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_48_Lại_gặp_Nhị_Ngưu.json",
+    "chapter_name": "Chương 48: Lại gặp Nhị Ngưu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-48/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_49_Chó_nhà_người_khác.json",
+    "chapter_name": "Chương 49: Chó nhà người khác",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-49/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_50_Quan_sai_đến.json",
+    "chapter_name": "Chương 50: Quan sai đến",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-50/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_51_Chó_chiêu_tài.json",
+    "chapter_name": "Chương 51: Chó chiêu tài",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-51/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_52_Bán_mình_trả_nợ.json",
+    "chapter_name": "Chương 52: Bán mình trả nợ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-52/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_53_Trước_cửa_náo_nhiệt.json",
+    "chapter_name": "Chương 53: Trước cửa náo nhiệt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-53/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_54_Thông_cảm_cho_nhau.json",
+    "chapter_name": "Chương 54: Thông cảm cho nhau",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-54/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_55_Sắp_Công_Bố.json",
+    "chapter_name": "Chương 55: Sắp Công Bố",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-55/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_56_Hồi_phục_thị_lực_Đông_Thảo_1125_Trứng_linh_thú.json",
+    "chapter_name": "Chương 56: Hồi phục thị lực (Đông Thảo 1125 Trứng linh thú)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-56/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_57_Phát_Tài.json",
+    "chapter_name": "Chương 57: Phát Tài",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-57/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_58_Thiên_Lí_Tuần_Hoàn.json",
+    "chapter_name": "Chương 58: Thiên Lí Tuần Hoàn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-58/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_59_Báo_ứng_khó_tránh.json",
+    "chapter_name": "Chương 59: Báo ứng khó tránh",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-59/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_60_Phiền_não_của_nhà_hàng_xóm.json",
+    "chapter_name": "Chương 60: Phiền não của nhà hàng xóm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-60/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_61_Người_Si_Tâm.json",
+    "chapter_name": "Chương 61: Người Si Tâm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-61/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_62_Biến_Thái.json",
+    "chapter_name": "Chương 62: Biến Thái",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-62/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_63_Đón_mời.json",
+    "chapter_name": "Chương 63: Đón mời",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-63/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_64_Cá_cược_trong_xe_ngựa.json",
+    "chapter_name": "Chương 64: Cá cược trong xe ngựa",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-64/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_65_Nhập_Hầu_Phủ.json",
+    "chapter_name": "Chương 65: Nhập Hầu Phủ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-65/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_66_Ngắm_Hoa.json",
+    "chapter_name": "Chương 66: Ngắm Hoa",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-66/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_67_Dưới_Hoa_Chôn_Cốt.json",
+    "chapter_name": "Chương 67: Dưới Hoa Chôn Cốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-67/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_68_Vào_Đêm.json",
+    "chapter_name": "Chương 68: Vào Đêm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-68/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_69_Người_đến.json",
+    "chapter_name": "Chương 69: Người đến",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-69/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_70_Đêm_dò_hoa_viên.json",
+    "chapter_name": "Chương 70: Đêm dò hoa viên",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-70/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_71_Thi_thể_mới.json",
+    "chapter_name": "Chương 71: Thi thể mới",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-71/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_72_Huyễn_Huỳnh.json",
+    "chapter_name": "Chương 72: Huyễn Huỳnh",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-72/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_73_Vật_Chứng.json",
+    "chapter_name": "Chương 73: Vật Chứng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-73/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_74_Bảo_Tiêu.json",
+    "chapter_name": "Chương 74: Bảo Tiêu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-74/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_75_Hầu_phu_nhân.json",
+    "chapter_name": "Chương 75: Hầu phu nhân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-75/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_76_Thoát_Thân.json",
+    "chapter_name": "Chương 76: Thoát Thân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-76/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_77_Đón_Dâu.json",
+    "chapter_name": "Chương 77: Đón Dâu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-77/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_78_Cướp_Hôn.json",
+    "chapter_name": "Chương 78: Cướp Hôn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-78/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_79_Chất_vấn_đến_từ_trong_cung.json",
+    "chapter_name": "Chương 79: Chất vấn đến từ trong cung",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-79/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_80_Đi_gặp_úc_thất.json",
+    "chapter_name": "Chương 80: Đi gặp úc thất",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-80/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_81_Chứng_Thực.json",
+    "chapter_name": "Chương 81: Chứng Thực",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-81/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_82_Nhân_tình.json",
+    "chapter_name": "Chương 82: Nhân tình",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-82/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_83_Sai_Lầm_Gia_tăng_trứng_linh_thú_Thiên_Vũ_Thiên_Nguyệt_.json",
+    "chapter_name": "Chương 83: Sai Lầm (Gia tăng trứng linh thú Thiên Vũ , Thiên Nguyệt) ☆☆",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-83/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_84_Người_hành_hung.json",
+    "chapter_name": "Chương 84: Người hành hung",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-84/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_85_Phương_hồn_trở_về.json",
+    "chapter_name": "Chương 85: Phương hồn trở về",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-85/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_86_Sau_người_có_người.json",
+    "chapter_name": "Chương 86: Sau người có người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-86/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_87_Uy_Hiếp.json",
+    "chapter_name": "Chương 87: Uy Hiếp",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-87/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_88_Thư_phòng_dạ_đàm.json",
+    "chapter_name": "Chương 88: Thư phòng dạ đàm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-88/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_89_Đền_bù.json",
+    "chapter_name": "Chương 89: Đền bù",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-89/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_90_Cự_Tuyệt.json",
+    "chapter_name": "Chương 90: Cự Tuyệt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-90/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_91_Ta_biết_giết_người.json",
+    "chapter_name": "Chương 91: Ta biết giết người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-91/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_92_Chùa_Linh_Vụ.json",
+    "chapter_name": "Chương 92: Chùa Linh Vụ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-92/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_93_Bình_An_Phù.json",
+    "chapter_name": "Chương 93: Bình An Phù",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-93/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_94_Món_Sốt.json",
+    "chapter_name": "Chương 94: Món Sốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-94/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_95_Tâm_Ý.json",
+    "chapter_name": "Chương 95: Tâm Ý",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-95/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_96_Nước_Giếng.json",
+    "chapter_name": "Chương 96: Nước Giếng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-96/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_97_Lại_ra_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 97: Lại ra ngoài ý muốn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-97/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_98_Chuyện_của_chúng_ta.json",
+    "chapter_name": "Chương 98: Chuyện của chúng ta",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-98/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_99_Tìm_người.json",
+    "chapter_name": "Chương 99: Tìm người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-99/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_100_Thi_thể_trong_giếng_Trứng_linh_thú_Thiên_Nguyệt_Thiên_Vũ.json",
+    "chapter_name": "Chương 100: Thi thể trong giếng (Trứng linh thú Thiên Nguyệt, Thiên Vũ)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-100/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_101_Phiền_toái.json",
+    "chapter_name": "Chương 101: Phiền toái",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-101/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_102_Hiềm_Nghi.json",
+    "chapter_name": "Chương 102: Hiềm Nghi",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-102/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_103_Thẩm_Vấn_Trứng_linh_thú_của_Mạch_Mạch_Nhan.json",
+    "chapter_name": "Chương 103: Thẩm Vấn (Trứng linh thú của Mạch Mạch Nhan)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-103/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_104_Không_thẹn_với_lương_tâm.json",
+    "chapter_name": "Chương 104: Không thẹn với lương tâm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-104/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_105_Manh_mối.json",
+    "chapter_name": "Chương 105: Manh mối",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-105/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_106_Mấu_Chốt.json",
+    "chapter_name": "Chương 106: Mấu Chốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-106/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_107_Hung_thủ.json",
+    "chapter_name": "Chương 107: Hung thủ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-107/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_108_Động_cơ.json",
+    "chapter_name": "Chương 108: Động cơ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-108/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_109_Chứng_cứ.json",
+    "chapter_name": "Chương 109: Chứng cứ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-109/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_110_Nhận_Tội.json",
+    "chapter_name": "Chương 110: Nhận Tội",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-110/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_111_Có_vấn_đề.json",
+    "chapter_name": "Chương 111: Có vấn đề",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-111/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_112_Mưa_to_lưu_khách.json",
+    "chapter_name": "Chương 112: Mưa to lưu khách",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-112/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_113_Tìm_Chết.json",
+    "chapter_name": "Chương 113: Tìm Chết",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-113/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_114_Sau_này_còn_gặp_lại.json",
+    "chapter_name": "Chương 114: Sau này còn gặp lại",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-114/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_115_Bức_Họa.json",
+    "chapter_name": "Chương 115: Bức Họa",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-115/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_116_Đổi_Mặt.json",
+    "chapter_name": "Chương 116: Đổi Mặt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-116/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_117_Yến_Tử_trấn.json",
+    "chapter_name": "Chương 117: Yến Tử trấn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-117/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_118_Trì_phủ.json",
+    "chapter_name": "Chương 118: Trì phủ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-118/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_119_Hồi_Kinh.json",
+    "chapter_name": "Chương 119: Hồi Kinh",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-119/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_120_Khinh_bỉ_đến_từ_Nhị_Ngưu.json",
+    "chapter_name": "Chương 120: Khinh bỉ đến từ Nhị Ngưu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-120/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_121_Chân_đại_nhân_vào_kinh.json",
+    "chapter_name": "Chương 121: Chân đại nhân vào kinh",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-121/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_122_Khổ_chủ_thứ_hai.json",
+    "chapter_name": "Chương 122: Khổ chủ thứ hai",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-122/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_123_Lại_đăng_Trường_Hưng_Hầu_phủ_.json",
+    "chapter_name": "Chương 123: Lại đăng Trường Hưng Hầu phủ ☆☆",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-123/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_124_Cơ_hội_tốt.json",
+    "chapter_name": "Chương 124: Cơ hội tốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-124/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_125_Tìm_xương_cốt.json",
+    "chapter_name": "Chương 125: Tìm xương cốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-125/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_126_Lại_thấy_ánh_mặt_trời.json",
+    "chapter_name": "Chương 126: Lại thấy ánh mặt trời",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-126/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_127_Lưới_trời_tuy_thưa.json",
+    "chapter_name": "Chương 127: Lưới trời tuy thưa",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-127/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_128_Nhưng_khó_lọt.json",
+    "chapter_name": "Chương 128: Nhưng khó lọt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-128/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_129_Nói_dối.json",
+    "chapter_name": "Chương 129: Nói dối",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-129/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_130_Có_thưởng.json",
+    "chapter_name": "Chương 130: Có thưởng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-130/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_131_Thanh_thiên.json",
+    "chapter_name": "Chương 131: Thanh thiên",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-131/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_132_Không_lương_tâm.json",
+    "chapter_name": "Chương 132: Không lương tâm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-132/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_133_Nguyên_nhân.json",
+    "chapter_name": "Chương 133: Nguyên nhân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-133/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_134_Liên_lụy.json",
+    "chapter_name": "Chương 134: Liên lụy",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-134/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_135_Gặp_lại_chân_thế_thành.json",
+    "chapter_name": "Chương 135: Gặp lại chân thế thành",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-135/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_136_Trắc_ẩn.json",
+    "chapter_name": "Chương 136: Trắc ẩn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-136/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_137_Một_dĩa_bánh_hoa_quế.json",
+    "chapter_name": "Chương 137: Một dĩa bánh hoa quế",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-137/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_138_Úc_Cẩn_18_tuổi.json",
+    "chapter_name": "Chương 138: Úc Cẩn 18 tuổi",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-138/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_139_Uống_nhiều_quá.json",
+    "chapter_name": "Chương 139: Uống nhiều quá",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-139/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_140_Hỗn_chiến_của_các_hoàng_tử.json",
+    "chapter_name": "Chương 140: Hỗn chiến của các hoàng tử",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-140/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_141_Trẫm_thực_tức_giận.json",
+    "chapter_name": "Chương 141: Trẫm thực tức giận",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-141/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_142_Vui_như_lên_trời.json",
+    "chapter_name": "Chương 142: Vui như lên trời",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-142/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_143_Người_thắng.json",
+    "chapter_name": "Chương 143: Người thắng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-143/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_144_Lo_lắng.json",
+    "chapter_name": "Chương 144: Lo lắng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-144/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_145_Tiền_cưới_vợ_của_long_đán.json",
+    "chapter_name": "Chương 145: Tiền cưới vợ của long đán",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-145/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_146_Ba_ngày_sau.json",
+    "chapter_name": "Chương 146: Ba ngày sau",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-146/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_147_Úc_cẩn_đồng_học_tìm_đường_chết.json",
+    "chapter_name": "Chương 147: Úc cẩn đồng học tìm đường chết",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-147/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_148_Vạch_trần.json",
+    "chapter_name": "Chương 148: Vạch trần",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-148/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_149_Một_lần_bị_vạch_trần.json",
+    "chapter_name": "Chương 149: Một lần bị vạch trần",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-149/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_150_Có_mến_mộ_không.json",
+    "chapter_name": "Chương 150: Có mến mộ không?",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-150/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_151_Xảo_ngộ.json",
+    "chapter_name": "Chương 151: Xảo ngộ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-151/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_152_Thương_Tâm_Mộng_Điền_Daddy_Minh_Chủ.json",
+    "chapter_name": "Chương 152: Thương Tâm (Mộng Điền Daddy Minh Chủ)",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-152/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_153_Thiếu_niên_như_ngọc.json",
+    "chapter_name": "Chương 153: Thiếu niên như ngọc",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-153/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_154_Biến_cố_kinh_người.json",
+    "chapter_name": "Chương 154: Biến cố kinh người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-154/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_155_Cái_chết_của_Vĩnh_Xương_Bá_phu_nhân.json",
+    "chapter_name": "Chương 155: Cái chết của Vĩnh Xương Bá phu nhân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-155/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_156_Dấu_vết_để_lại.json",
+    "chapter_name": "Chương 156: Dấu vết để lại",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-156/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_157_Thiếu_niên_ngươi_phải_có_theo_đuổi.json",
+    "chapter_name": "Chương 157: Thiếu niên, ngươi phải có theo đuổi",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-157/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_158_Nhi_tử_không_biết_cố_gắng.json",
+    "chapter_name": "Chương 158: Nhi tử không biết cố gắng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-158/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_159_Nha_hoàn_mất_tích.json",
+    "chapter_name": "Chương 159: Nha hoàn mất tích",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-159/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_160_Tìm_được.json",
+    "chapter_name": "Chương 160: Tìm được",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-160/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_161_Cái_chết_của_Thu_Lộ.json",
+    "chapter_name": "Chương 161: Cái chết của Thu Lộ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-161/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_162_Có_hung_thủ_khác.json",
+    "chapter_name": "Chương 162: Có hung thủ khác",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-162/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_163_Thông_phòng_già_của_Vĩnh_Xương_Bá.json",
+    "chapter_name": "Chương 163: Thông phòng già của Vĩnh Xương Bá☆☆",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-163/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_164_Nghi_Hung.json",
+    "chapter_name": "Chương 164: Nghi Hung",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-164/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_165_Nha_đầu_vừa_ý.json",
+    "chapter_name": "Chương 165: Nha đầu vừa ý",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-165/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_166_Tương_ngộ_lương_tài.json",
+    "chapter_name": "Chương 166: Tương ngộ lương tài",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-166/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_167_Triều_Vân_mở_miệng.json",
+    "chapter_name": "Chương 167: Triều Vân mở miệng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-167/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_168_Thiếu_hai_người.json",
+    "chapter_name": "Chương 168: Thiếu hai người",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-168/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_169_Tóc.json",
+    "chapter_name": "Chương 169: Tóc",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-169/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_170_Thì_ra_là_cố_nhân.json",
+    "chapter_name": "Chương 170: Thì ra là cố nhân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-170/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_171_Động_cơ.json",
+    "chapter_name": "Chương 171: Động cơ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-171/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_172_Trời_xui_đất_khiến.json",
+    "chapter_name": "Chương 172: Trời xui đất khiến",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-172/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_173_Chân_tướng_đến_muộn.json",
+    "chapter_name": "Chương 173: Chân tướng đến muộn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-173/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_174_Cánh_bướm.json",
+    "chapter_name": "Chương 174: Cánh bướm",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-174/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_175_Nước_Mắt.json",
+    "chapter_name": "Chương 175: Nước Mắt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-175/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_176_Ẩn_Sâu.json",
+    "chapter_name": "Chương 176: Ẩn Sâu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-176/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_177_Tâm_tư_tiếu_thị.json",
+    "chapter_name": "Chương 177: Tâm tư tiếu thị",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-177/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_178_Một_dòng_sông_lớn.json",
+    "chapter_name": "Chương 178: Một dòng sông lớn",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-178/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_179_Nếu.json",
+    "chapter_name": "Chương 179: Nếu",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-179/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_180_Khó.json",
+    "chapter_name": "Chương 180: Khó",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-180/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_181_Điểm_mấu_chốt.json",
+    "chapter_name": "Chương 181: Điểm mấu chốt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-181/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_182_Trước_linh_đường_nói_việc_hôn_nhân.json",
+    "chapter_name": "Chương 182: Trước linh đường nói việc hôn nhân",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-182/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_183_Chột_dạ_sinh_quỷ.json",
+    "chapter_name": "Chương 183: Chột dạ sinh quỷ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-183/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_184_Ác_niệm_lại_nổi.json",
+    "chapter_name": "Chương 184: Ác niệm lại nổi",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-184/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_185_Giả_Quỷ.json",
+    "chapter_name": "Chương 185: Giả Quỷ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-185/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_186_Chê_Cười.json",
+    "chapter_name": "Chương 186: Chê Cười",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-186/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_187_Có_yêu_quái.json",
+    "chapter_name": "Chương 187: Có yêu quái",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-187/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_188_Khương_tứ_muội_không_phải_là_người_như_thế.json",
+    "chapter_name": "Chương 188: Khương tứ muội không phải là người như thế!",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-188/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_189_Ác_có_ác_báo.json",
+    "chapter_name": "Chương 189: Ác có ác báo",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-189/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_190_Bị_tập_kích.json",
+    "chapter_name": "Chương 190: Bị tập kích",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-190/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_191_Trúng_độc.json",
+    "chapter_name": "Chương 191: Trúng độc",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-191/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_192_Tuyệt_tình.json",
+    "chapter_name": "Chương 192: Tuyệt tình",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-192/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_193_Tâm_sẽ_đau.json",
+    "chapter_name": "Chương 193: Tâm sẽ đau",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-193/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_194_Tử_sĩ.json",
+    "chapter_name": "Chương 194: Tử sĩ",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-194/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_195_Hoàng_tử_cáo_quan.json",
+    "chapter_name": "Chương 195: Hoàng tử cáo quan",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-195/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_196_Đối_xử_bình_đẳng.json",
+    "chapter_name": "Chương 196: Đối xử bình đẳng",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-196/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_197_Tai_bay_vạ_gió.json",
+    "chapter_name": "Chương 197: Tai bay vạ gió",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-197/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_198_Xuân_Về.json",
+    "chapter_name": "Chương 198: Xuân Về",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-198/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_199_Lại_gặp_mặt.json",
+    "chapter_name": "Chương 199: Lại gặp mặt",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-199/"
+  },
+  {
+    "path": "data/Tự_Cẩm/Chương_200_Muốn_người_vợ_này_.json",
+    "chapter_name": "Chương 200: Muốn người vợ này ?",
+    "url": "https://truyenfull.io/tu-cam-270192/chuong-200/"
+  }
+]
