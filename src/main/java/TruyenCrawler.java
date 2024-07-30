@@ -41,6 +41,7 @@ public class TruyenCrawler {
             int chapterCountOverLimit = 2; // số chương mới cần có
 
             while (url != null) {
+                sleepToRun(1000);
                 Document doc = Jsoup.connect(url).get();
                 Elements storyLinks = doc.select(".truyen-title a");
 
@@ -106,6 +107,7 @@ public class TruyenCrawler {
     public static Map<String, String> crawlAndSaveStory(String url) {
         Map<String, String> storyData = new HashMap<>();
         try {
+            sleepToRun(1000);
             Document doc = Jsoup.connect(url).get();
 
             String title = doc.select("h3.title").text();
@@ -201,6 +203,7 @@ public class TruyenCrawler {
 
         while (nextPageUrl != null && chapterCount < chapterCountLimit) {
             try {
+                sleepToRun(1000);
                 doc = Jsoup.connect(nextPageUrl).get();
                 Elements chapters = doc.select(".list-chapter a");
                 for (Element chapter : chapters) {
@@ -284,11 +287,7 @@ public class TruyenCrawler {
     public static Map<String, Object> crawlChapter(String url) {
         Map<String, Object> chapterData = new HashMap<>();
         try {
-            try {
-                Thread.sleep(3000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+            sleepToRun(1000);
             Document doc = Jsoup.connect(url).get();
 
             String chapterTitle = doc.select(".chapter-title").text();
@@ -319,5 +318,13 @@ public class TruyenCrawler {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public static void sleepToRun(int m){
+        try {
+                Thread.sleep(m);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
     }
 }
