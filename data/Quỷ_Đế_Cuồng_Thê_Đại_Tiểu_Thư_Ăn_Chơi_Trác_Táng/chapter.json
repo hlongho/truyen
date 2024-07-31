@@ -9998,5 +9998,890 @@
     "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_1999_Vân_Lạc_Phong_bị_tính_kế_5.json",
     "chapter_name": "Chương 1999: Vân Lạc Phong bị tính kế (5)",
     "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-1999/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2000_Vân_Lạc_Phong_bị_tính_kế_6.json",
+    "chapter_name": "Chương 2000: Vân Lạc Phong bị tính kế (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2000/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2001_Giết_1.json",
+    "chapter_name": "Chương 2001: Giết (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2001/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2002_Giết_2.json",
+    "chapter_name": "Chương 2002: Giết (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2002/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2003_Giết_3.json",
+    "chapter_name": "Chương 2003: Giết (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2003/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2004_Giết_4.json",
+    "chapter_name": "Chương 2004: Giết (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2004/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2005_Giết_5.json",
+    "chapter_name": "Chương 2005: Giết (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2005/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2006_Giết_6.json",
+    "chapter_name": "Chương 2006: Giết (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2006/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2007_Trước_chiến_tranh_1.json",
+    "chapter_name": "Chương 2007: Trước chiến tranh (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2007/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2008_Trước_chiến_tranh_2.json",
+    "chapter_name": "Chương 2008: Trước chiến tranh (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2008/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2009_Trước_chiến_tranh_3.json",
+    "chapter_name": "Chương 2009: Trước chiến tranh (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2009/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2010_Trước_chiến_tranh_4.json",
+    "chapter_name": "Chương 2010: Trước chiến tranh (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2010/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2011_Trước_chiến_tranh_5.json",
+    "chapter_name": "Chương 2011: Trước chiến tranh (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2011/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2012_Trước_chiến_tranh_6.json",
+    "chapter_name": "Chương 2012: Trước chiến tranh (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2012/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2013_Âm_mưu_bại_lộ_1.json",
+    "chapter_name": "Chương 2013: Âm mưu bại lộ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2013/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2014_Âm_mưu_bại_lộ_2.json",
+    "chapter_name": "Chương 2014: Âm mưu bại lộ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2014/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2015_Lãng_Tân_Nguyệt_chết_1.json",
+    "chapter_name": "Chương 2015: Lãng Tân Nguyệt chết (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2015/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2016_Lãng_Tân_Nguyệt_chết_2.json",
+    "chapter_name": "Chương 2016: Lãng Tân Nguyệt chết (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2016/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2017_Lãng_Tân_Nguyệt_chết_3.json",
+    "chapter_name": "Chương 2017: Lãng Tân Nguyệt chết (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2017/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2018_Lãng_Tân_Nguyệt_chết_4.json",
+    "chapter_name": "Chương 2018: Lãng Tân Nguyệt chết (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2018/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2019_Lãng_Tân_Nguyệt_chết_5.json",
+    "chapter_name": "Chương 2019: Lãng Tân Nguyệt chết (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2019/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2020_Lãng_Tân_Nguyệt_chết_6.json",
+    "chapter_name": "Chương 2020: Lãng Tân Nguyệt chết (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2020/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2021_Lãng_Tân_Nguyệt_chết_7.json",
+    "chapter_name": "Chương 2021: Lãng Tân Nguyệt chết (7)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2021/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2022_Lãng_Tân_Nguyệt_chết_8.json",
+    "chapter_name": "Chương 2022: Lãng Tân Nguyệt chết (8)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2022/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2023_Lãng_Tân_Nguyệt_chết_9.json",
+    "chapter_name": "Chương 2023: Lãng Tân Nguyệt chết (9)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2023/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2024_Lãng_Tân_Nguyệt_chết_10.json",
+    "chapter_name": "Chương 2024: Lãng Tân Nguyệt chết (10)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2024/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2025_Nguy_cơ_1.json",
+    "chapter_name": "Chương 2025: Nguy cơ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2025/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2026_Nguy_cơ_2.json",
+    "chapter_name": "Chương 2026: Nguy cơ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2026/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2027_Nguy_cơ_3.json",
+    "chapter_name": "Chương 2027: Nguy cơ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2027/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2028_Nguy_cơ_4.json",
+    "chapter_name": "Chương 2028: Nguy cơ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2028/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2029_Nguy_cơ_5.json",
+    "chapter_name": "Chương 2029: Nguy cơ (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2029/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2030_Nguy_cơ_6.json",
+    "chapter_name": "Chương 2030: Nguy cơ (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2030/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2031_Thà_chết_không_lùi_1.json",
+    "chapter_name": "Chương 2031: Thà chết không lùi (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2031/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2032_Thà_chết_không_lùi_2.json",
+    "chapter_name": "Chương 2032: Thà chết không lùi (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2032/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2033_Thà_chết_không_lùi_3.json",
+    "chapter_name": "Chương 2033: Thà chết không lùi (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2033/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2034_Thà_chết_không_lùi_4.json",
+    "chapter_name": "Chương 2034: Thà chết không lùi (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2034/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2035_Thà_chết_không_lùi_5.json",
+    "chapter_name": "Chương 2035: Thà chết không lùi (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2035/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2036_Thà_chết_không_lùi_6.json",
+    "chapter_name": "Chương 2036: Thà chết không lùi (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2036/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2037_Phẫn_nộ_1.json",
+    "chapter_name": "Chương 2037: Phẫn nộ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2037/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2038_Phẫn_nộ_2.json",
+    "chapter_name": "Chương 2038: Phẫn nộ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2038/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2039_Phẫn_nộ_3.json",
+    "chapter_name": "Chương 2039: Phẫn nộ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2039/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2040_Phẫn_nộ_4.json",
+    "chapter_name": "Chương 2040: Phẫn nộ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2040/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2041_Phẫn_nộ_5.json",
+    "chapter_name": "Chương 2041: Phẫn nộ (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2041/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2042_Phẫn_nộ_6.json",
+    "chapter_name": "Chương 2042: Phẫn nộ (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2042/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2043_Biện_pháp_hồi_sinh_Hồng_Loan_1.json",
+    "chapter_name": "Chương 2043: Biện pháp hồi sinh Hồng Loan (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2043/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2044_Biện_pháp_hồi_sinh_Hồng_Loan_2.json",
+    "chapter_name": "Chương 2044: Biện pháp hồi sinh Hồng Loan (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2044/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2045_Biện_pháp_hồi_sinh_Hồng_Loan_3.json",
+    "chapter_name": "Chương 2045: Biện pháp hồi sinh Hồng Loan (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2045/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2046_Biện_pháp_hồi_sinh_Hồng_Loan_4.json",
+    "chapter_name": "Chương 2046: Biện pháp hồi sinh Hồng Loan (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2046/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2047_Bạch_Linh_đột_phá_1.json",
+    "chapter_name": "Chương 2047: Bạch Linh đột phá (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2047/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2048_Bạch_Linh_đột_phá_2.json",
+    "chapter_name": "Chương 2048: Bạch Linh đột phá (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2048/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2049_Bạch_Linh_đột_phá_3.json",
+    "chapter_name": "Chương 2049: Bạch Linh đột phá (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2049/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2050_Bạch_Linh_đột_phá_4.json",
+    "chapter_name": "Chương 2050: Bạch Linh đột phá (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2050/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2051_Bạch_Linh_đột_phá_5.json",
+    "chapter_name": "Chương 2051: Bạch Linh đột phá (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2051/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2052_Bạch_Linh_đột_phá_6.json",
+    "chapter_name": "Chương 2052: Bạch Linh đột phá (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2052/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2053_Các_thế_lực_khiếp_sợ_1.json",
+    "chapter_name": "Chương 2053: Các thế lực khiếp sợ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2053/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2054_Các_thế_lực_khiếp_sợ_2.json",
+    "chapter_name": "Chương 2054: Các thế lực khiếp sợ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2054/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2055_Các_thế_lực_khiếp_sợ_3.json",
+    "chapter_name": "Chương 2055: Các thế lực khiếp sợ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2055/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2056_Các_thế_lực_khiếp_sợ_4.json",
+    "chapter_name": "Chương 2056: Các thế lực khiếp sợ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2056/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2057_Các_thế_lực_khiếp_sợ_5.json",
+    "chapter_name": "Chương 2057: Các thế lực khiếp sợ (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2057/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2058_Các_thế_lực_khiếp_sợ_6.json",
+    "chapter_name": "Chương 2058: Các thế lực khiếp sợ (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2058/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2059_Vân_Nhược_Thủy_và_Vô_Ngôn_1.json",
+    "chapter_name": "Chương 2059: Vân Nhược Thủy và Vô Ngôn (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2059/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2060_Vân_Nhược_Thủy_và_Vô_Ngôn_2.json",
+    "chapter_name": "Chương 2060: Vân Nhược Thủy và Vô Ngôn (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2060/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2061_Vân_Nhược_Thủy_và_Vô_Ngôn_3.json",
+    "chapter_name": "Chương 2061: Vân Nhược Thủy và Vô Ngôn (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2061/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2062_Vân_Nhược_Thủy_và_Vô_Ngôn_4.json",
+    "chapter_name": "Chương 2062: Vân Nhược Thủy và Vô Ngôn (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2062/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2063_Vân_Nhược_Thủy_và_Vô_Ngôn_5.json",
+    "chapter_name": "Chương 2063: Vân Nhược Thủy và Vô Ngôn (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2063/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2064_Vân_Nhược_Thủy_và_Vô_Ngôn_6.json",
+    "chapter_name": "Chương 2064: Vân Nhược Thủy và Vô Ngôn (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2064/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2065_Linh_Thần_Đại_Lục.json",
+    "chapter_name": "Chương 2065: Linh Thần Đại Lục",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2065/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2066_Linh_Thần_Đại_Lục_2.json",
+    "chapter_name": "Chương 2066: Linh Thần Đại Lục (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2066/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2067_Linh_Thần_Đại_Lục_3.json",
+    "chapter_name": "Chương 2067: Linh Thần Đại Lục (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2067/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2068_Linh_Thần_Đại_Lục_4.json",
+    "chapter_name": "Chương 2068: Linh Thần Đại Lục (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2068/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2069_Linh_Thần_Đại_Lục_5.json",
+    "chapter_name": "Chương 2069: Linh Thần Đại Lục (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2069/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2070_Linh_Thần_Đại_Lục_6.json",
+    "chapter_name": "Chương 2070: Linh Thần Đại Lục (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2070/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2071_Tổ_Long_Long_La_1.json",
+    "chapter_name": "Chương 2071: Tổ Long, Long La (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2071/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2072_Tổ_Long_Long_La_2.json",
+    "chapter_name": "Chương 2072: Tổ Long, Long La (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2072/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2073_Tổ_Long_Long_La_3.json",
+    "chapter_name": "Chương 2073: Tổ Long, Long La (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2073/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2074_Vu_oan_hãm_hại_1.json",
+    "chapter_name": "Chương 2074: Vu oan hãm hại (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2074/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2075_Vu_oan_hãm_hại_2.json",
+    "chapter_name": "Chương 2075: Vu oan hãm hại (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2075/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2076_Vu_oan_hãm_hại_3.json",
+    "chapter_name": "Chương 2076: Vu oan hãm hại (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2076/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2077_Vu_oan_hãm_hại_4.json",
+    "chapter_name": "Chương 2077: Vu oan hãm hại (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2077/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2078_Vu_oan_hãm_hại_5.json",
+    "chapter_name": "Chương 2078: Vu oan hãm hại (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2078/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2079_Ta_muốn_thay_nàng_mang_thai_1.json",
+    "chapter_name": "Chương 2079: Ta muốn thay nàng mang thai (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2079/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2080_Ta_muốn_thay_nàng_mang_thai_2.json",
+    "chapter_name": "Chương 2080: Ta muốn thay nàng mang thai (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2080/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2081_Tần_Nguyên_chết_1.json",
+    "chapter_name": "Chương 2081: Tần Nguyên chết (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2081/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2082_Tần_Nguyên_chết_2.json",
+    "chapter_name": "Chương 2082: Tần Nguyên chết (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2082/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2083_Tần_Nguyên_chết_3.json",
+    "chapter_name": "Chương 2083: Tần Nguyên chết (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2083/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2084_Tần_Nguyên_chết_4.json",
+    "chapter_name": "Chương 2084: Tần Nguyên chết (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2084/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2085_Tộc_Tổ_Long_1.json",
+    "chapter_name": "Chương 2085: Tộc Tổ Long (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2085/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2086_Tộc_Tổ_Long_2.json",
+    "chapter_name": "Chương 2086: Tộc Tổ Long (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2086/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2087_Vân_Lạc_Phong_đuổi_tới_1.json",
+    "chapter_name": "Chương 2087: Vân Lạc Phong đuổi tới (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2087/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2088_Vân_Lạc_Phong_đuối_tới_2.json",
+    "chapter_name": "Chương 2088: Vân Lạc Phong đuối tới (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2088/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2089_Vân_Lạc_Phong_đuổi_tới_3.json",
+    "chapter_name": "Chương 2089: Vân Lạc Phong đuổi tới (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2089/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2090_Vân_Lạc_Phong_đuổi_tới_4.json",
+    "chapter_name": "Chương 2090: Vân Lạc Phong đuổi tới (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2090/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2091_Vân_Lạc_Phong_đuổi_tới_5.json",
+    "chapter_name": "Chương 2091: Vân Lạc Phong đuổi tới (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2091/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2092_Vân_Lạc_Phong_đuổi_tới_6.json",
+    "chapter_name": "Chương 2092: Vân Lạc Phong đuổi tới (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2092/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2093_Chiến_1.json",
+    "chapter_name": "Chương 2093: Chiến! (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2093/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2094_Chiến_2.json",
+    "chapter_name": "Chương 2094: Chiến! (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2094/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2095_Chiến_3.json",
+    "chapter_name": "Chương 2095: Chiến! (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2095/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2096_Chiến_4.json",
+    "chapter_name": "Chương 2096: Chiến! (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2096/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2097_Tuyệt_Thiên_1.json",
+    "chapter_name": "Chương 2097: Tuyệt Thiên (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2097/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2098_Tuyệt_Thiên_2.json",
+    "chapter_name": "Chương 2098: Tuyệt Thiên (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2098/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2099_Sống_không_hối_hận_chết_không_hối_hận_1.json",
+    "chapter_name": "Chương 2099: Sống không hối hận, chết không hối hận (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2099/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2100_Sống_không_hối_hận_chết_không_hối_hận_2.json",
+    "chapter_name": "Chương 2100: Sống không hối hận, chết không hối hận (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2100/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2101_Sống_không_hối_hận_chết_không_hối_hận_2.json",
+    "chapter_name": "Chương 2101: Sống không hối hận, chết không hối hận (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2101/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2102_Sống_không_hối_hận_chết_không_hối_hận_4.json",
+    "chapter_name": "Chương 2102: Sống không hối hận, chết không hối hận (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2102/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2103_Sống_không_hối_hận_chết_không_hối_hận_5.json",
+    "chapter_name": "Chương 2103: Sống không hối hận, chết không hối hận (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2103/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2104_Tộc_trưởng_1.json",
+    "chapter_name": "Chương 2104: Tộc trưởng (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2104/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2105_Tộc_trưởng_2.json",
+    "chapter_name": "Chương 2105: Tộc trưởng (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2105/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2106_Tộc_trưởng_3.json",
+    "chapter_name": "Chương 2106: Tộc trưởng (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2106/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2107_Tộc_trưởng_4.json",
+    "chapter_name": "Chương 2107: Tộc trưởng (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2107/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2108_Tộc_trưởng_5.json",
+    "chapter_name": "Chương 2108: Tộc trưởng (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2108/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2109_Trở_lại_thành_Vô_Tận_1.json",
+    "chapter_name": "Chương 2109: Trở lại thành Vô Tận (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2109/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2110_Trở_lại_thành_Vô_Tận_2.json",
+    "chapter_name": "Chương 2110: Trở lại thành Vô Tận (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2110/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2111_Trở_lại_thành_Vô_Tận_3.json",
+    "chapter_name": "Chương 2111: Trở lại thành Vô Tận (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2111/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2112_Cửu_Dực_Thiên_Long_1.json",
+    "chapter_name": "Chương 2112: Cửu Dực Thiên Long (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2112/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2113_Cửu_Dực_Thiên_Long_2.json",
+    "chapter_name": "Chương 2113: Cửu Dực Thiên Long (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2113/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2114_Nhặt_một_cô_bé_đáng_yêu_1.json",
+    "chapter_name": "Chương 2114: Nhặt một cô bé đáng yêu (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2114/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2115_Nhặt_một_cô_bé_đáng_yêu_2.json",
+    "chapter_name": "Chương 2115: Nhặt một cô bé đáng yêu (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2115/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2116_Nhặt_một_cô_bé_đáng_yêu_3.json",
+    "chapter_name": "Chương 2116: Nhặt một cô bé đáng yêu (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2116/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2117_Nhặt_một_cô_bé_đáng_yêu_4.json",
+    "chapter_name": "Chương 2117: Nhặt một cô bé đáng yêu (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2117/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2118_Nhặt_một_cô_bé_đáng_yêu_5.json",
+    "chapter_name": "Chương 2118: Nhặt một cô bé đáng yêu (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2118/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2119_Chiến_tranh_Đại_Lục_1.json",
+    "chapter_name": "Chương 2119: Chiến tranh Đại Lục (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2119/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2120_Chiến_tranh_Đại_Lục_2.json",
+    "chapter_name": "Chương 2120: Chiến tranh Đại Lục (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2120/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2121_Chiến_tranh_đại_lục_3.json",
+    "chapter_name": "Chương 2121: Chiến tranh đại lục (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2121/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2122_Chiến_tranh_đại_lục_4.json",
+    "chapter_name": "Chương 2122: Chiến tranh đại lục (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2122/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2123_Chiến_tranh_Đại_Lục_5.json",
+    "chapter_name": "Chương 2123: Chiến tranh Đại Lục (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2123/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2124_Trở_về_đại_lục_1.json",
+    "chapter_name": "Chương 2124: Trở về đại lục (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2124/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2125_Trở_về_đại_lục_2.json",
+    "chapter_name": "Chương 2125: Trở về đại lục (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2125/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2126_Hồng_Loan_1.json",
+    "chapter_name": "Chương 2126: Hồng Loan? (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2126/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2127_Hồng_Loan_2.json",
+    "chapter_name": "Chương 2127: Hồng Loan? (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2127/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2128_Hồng_Loan_4.json",
+    "chapter_name": "Chương 2128: Hồng Loan? (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2128/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2129_Hồng_Loan_5.json",
+    "chapter_name": "Chương 2129: Hồng Loan? (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2129/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2130_Vân_Lạc_Phong_trở_về_1.json",
+    "chapter_name": "Chương 2130: Vân Lạc Phong trở về (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2130/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2131_Vân_Lạc_Phong_trở_về_2.json",
+    "chapter_name": "Chương 2131: Vân Lạc Phong trở về (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2131/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2132_Vân_Lạc_Phong_trở_về_3.json",
+    "chapter_name": "Chương 2132: Vân Lạc Phong trở về (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2132/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2133_Vân_Lạc_Phong_trở_về_4.json",
+    "chapter_name": "Chương 2133: Vân Lạc Phong trở về (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2133/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2134_Vân_Lạc_Phong_trở_về_5.json",
+    "chapter_name": "Chương 2134: Vân Lạc Phong trở về (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2134/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2135_Vân_Lạc_Phong_trở_về_6.json",
+    "chapter_name": "Chương 2135: Vân Lạc Phong trở về (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2135/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2136_Vân_Lạc_Phong_trở_về_7.json",
+    "chapter_name": "Chương 2136: Vân Lạc Phong trở về (7)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2136/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2137_Vân_Lạc_Phong_trở_về_8.json",
+    "chapter_name": "Chương 2137: Vân Lạc Phong trở về (8)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2137/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2138_Đột_phá_Thần_Quân_1.json",
+    "chapter_name": "Chương 2138: Đột phá Thần Quân (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2138/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2139_Đột_phá_Thần_Quân_2.json",
+    "chapter_name": "Chương 2139: Đột phá Thần Quân (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2139/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2140_Đột_phá_Thần_Quân_3.json",
+    "chapter_name": "Chương 2140: Đột phá Thần Quân (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2140/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2141_Đuổi_tới_1.json",
+    "chapter_name": "Chương 2141: Đuổi tới (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2141/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2142_Đuổi_tới_2.json",
+    "chapter_name": "Chương 2142: Đuổi tới (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2142/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2143_Đuổi_tới_3.json",
+    "chapter_name": "Chương 2143: Đuổi tới (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2143/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2144_Dư_Thiên_chết_1.json",
+    "chapter_name": "Chương 2144: Dư Thiên chết (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2144/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2145_Dư_Thiên_chết_2.json",
+    "chapter_name": "Chương 2145: Dư Thiên chết (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2145/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2146_Nguy_cơ_1.json",
+    "chapter_name": "Chương 2146: Nguy cơ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2146/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2147_Nguy_cơ_2.json",
+    "chapter_name": "Chương 2147: Nguy cơ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2147/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2148_Nguy_cơ_3.json",
+    "chapter_name": "Chương 2148: Nguy cơ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2148/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2149_Nguy_cơ_4.json",
+    "chapter_name": "Chương 2149: Nguy cơ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2149/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2150_Tác_dụng_của_Vân_Sơ_Thiên.json",
+    "chapter_name": "Chương 2150: Tác dụng của Vân Sơ Thiên",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2150/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2151_Lai_lịch_Vân_Sơ_Thiên.json",
+    "chapter_name": "Chương 2151: Lai lịch Vân Sơ Thiên",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2151/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2152_Mẫu_thân_con_yêu_mẹ_1.json",
+    "chapter_name": "Chương 2152: Mẫu thân, con yêu mẹ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2152/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2153_Mẫu_thân_con_yêu_mẹ_2.json",
+    "chapter_name": "Chương 2153: Mẫu thân, con yêu mẹ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2153/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2154_Mẫu_thân_con_yêu_mẹ_3.json",
+    "chapter_name": "Chương 2154: Mẫu thân, con yêu mẹ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2154/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2155_Mẫu_thân_con_yêu_mẹ_4.json",
+    "chapter_name": "Chương 2155: Mẫu thân, con yêu mẹ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2155/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2156_Mẫu_thân_con_yêu_mẹ_5.json",
+    "chapter_name": "Chương 2156: Mẫu thân, con yêu mẹ (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2156/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2157_Kết_cục_tốt_nhất_1.json",
+    "chapter_name": "Chương 2157: Kết cục tốt nhất (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2157/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2158_Kết_cục_tốt_nhất_2.json",
+    "chapter_name": "Chương 2158: Kết cục tốt nhất (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2158/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2159_Kết_cục_tốt_nhất_3.json",
+    "chapter_name": "Chương 2159: Kết cục tốt nhất (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2159/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2160_Kết_cục_tốt_nhất_4.json",
+    "chapter_name": "Chương 2160: Kết cục tốt nhất (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2160/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2161_Ngoại_truyện_Hoa_Hạ_1.json",
+    "chapter_name": "Chương 2161: Ngoại truyện: Hoa Hạ (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2161/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2162_Hoa_Hạ_2.json",
+    "chapter_name": "Chương 2162: Hoa Hạ (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2162/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2163_Hoa_Hạ_3.json",
+    "chapter_name": "Chương 2163: Hoa Hạ (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2163/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2164_Hoa_Hạ_4.json",
+    "chapter_name": "Chương 2164: Hoa Hạ (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2164/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2165_Hoa_Hạ_5.json",
+    "chapter_name": "Chương 2165: Hoa Hạ (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2165/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2166_Hoa_Hạ_6.json",
+    "chapter_name": "Chương 2166: Hoa Hạ (6)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2166/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2167_Hoa_Hạ_7.json",
+    "chapter_name": "Chương 2167: Hoa Hạ (7)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2167/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2168_Hoa_Hạ_8.json",
+    "chapter_name": "Chương 2168: Hoa Hạ (8)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2168/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2169_Hoa_Hạ_9.json",
+    "chapter_name": "Chương 2169: Hoa Hạ (9)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2169/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2170_Hoa_Hạ_10.json",
+    "chapter_name": "Chương 2170: Hoa Hạ (10)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2170/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2171_Hoa_Hạ_11.json",
+    "chapter_name": "Chương 2171: Hoa Hạ (11)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2171/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2172_Ngoại_truyện_Lang_kỵ_trúc_mã_1.json",
+    "chapter_name": "Chương 2172: Ngoại truyện : Lang kỵ trúc mã (1)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2172/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2173_Lang_kỵ_trúc_mã_2.json",
+    "chapter_name": "Chương 2173: Lang kỵ trúc mã (2)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2173/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2174_Lang_kỵ_trúc_mã_3.json",
+    "chapter_name": "Chương 2174: Lang kỵ trúc mã (3)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2174/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2175_Lang_kỵ_trúc_mã_4.json",
+    "chapter_name": "Chương 2175: Lang kỵ trúc mã (4)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2175/"
+  },
+  {
+    "path": "data/Quỷ_Đế_Cuồng_Thê_Đại_Tiểu_Thư_Ăn_Chơi_Trác_Táng/Chương_2176_Lang_kỵ_trúc_mã_5.json",
+    "chapter_name": "Chương 2176: Lang kỵ trúc mã (5)",
+    "url": "https://truyenfull.io/quy-de-cuong-the-dai-tieu-thu-an-choi-trac-tang/chuong-2176/"
   }
 ]
