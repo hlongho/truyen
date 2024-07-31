@@ -1,0 +1,1002 @@
+[
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_1_Đồ_Lừa_đảo.json",
+    "chapter_name": "Chương 1: Đồ Lừa đảo",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-1/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_2_Không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 2: Không biết xấu hổ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-2/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_3_Thiên_đạo_có_thiếu_sót.json",
+    "chapter_name": "Chương 3: Thiên đạo có thiếu sót",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-3/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_4_Bẽ_mặt.json",
+    "chapter_name": "Chương 4: Bẽ mặt",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-4/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_5_Đại_Tiểu_Thư.json",
+    "chapter_name": "Chương 5: Đại Tiểu Thư",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-5/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_6_Ngươi_đã_làm_gì_tiểu_thư_nhà_chúng_ta.json",
+    "chapter_name": "Chương 6: Ngươi đã làm gì tiểu thư nhà chúng ta?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-6/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_7_Ngươi_đã_từng_bị_người_từ_chối.json",
+    "chapter_name": "Chương 7: Ngươi đã từng bị người từ chối?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-7/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_8_Ta_chính_là_lão_sư_phế_vật_đó.json",
+    "chapter_name": "Chương 8: Ta chính là lão sư phế vật đó",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-8/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_9_Đánh_cược.json",
+    "chapter_name": "Chương 9: Đánh cược",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-9/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_10_Quỵt_nợ.json",
+    "chapter_name": "Chương 10: Quỵt nợ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-10/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_11_Cầu_xin_tha_thứ.json",
+    "chapter_name": "Chương 11: Cầu xin tha thứ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-11/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_12_Huyết_thống_Long_Tê.json",
+    "chapter_name": "Chương 12: Huyết thống Long Tê",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-12/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_13_Học_viên_không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 13: Học viên không biết xấu hổ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-13/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_14_Sửa_đổi_cách_tu_luyện.json",
+    "chapter_name": "Chương 14: Sửa đổi cách tu luyện",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-14/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_15_Thiên_Đạo_thần_công.json",
+    "chapter_name": "Chương 15: Thiên Đạo thần công",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-15/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_16_Thay_da_đổi_thịt.json",
+    "chapter_name": "Chương 16: Thay da đổi thịt",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-16/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_17_Có_người_ám_sát.json",
+    "chapter_name": "Chương 17: Có người ám sát",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-17/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_18_Bị_lừa.json",
+    "chapter_name": "Chương 18: Bị lừa",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-18/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_19_Đổ_tội.json",
+    "chapter_name": "Chương 19: Đổ tội",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-19/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_20_Vương_Dĩnh_khiếp_sợ.json",
+    "chapter_name": "Chương 20: Vương Dĩnh khiếp sợ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-20/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_21_Huyền_Không_châm_cứu.json",
+    "chapter_name": "Chương 21: Huyền Không châm cứu",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-21/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_22_Nguyên_nhân_bệnh_tình_của_Triệu_Nhã.json",
+    "chapter_name": "Chương 22: Nguyên nhân bệnh tình của Triệu Nhã",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-22/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_23_Có_người_gây_sự.json",
+    "chapter_name": "Chương 23: Có người gây sự",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-23/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_24_Bị_ném_ra_ngoài.json",
+    "chapter_name": "Chương 24: Bị ném ra ngoài",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-24/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_25_Bị_làm_phiền.json",
+    "chapter_name": "Chương 25: Bị làm phiền",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-25/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_26_Học_tâm_khảo_vấn.json",
+    "chapter_name": "Chương 26: Học tâm khảo vấn",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-26/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_27_Đám_người_Vương_gia_phát_điên.json",
+    "chapter_name": "Chương 27: Đám người Vương gia phát điên",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-27/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_28_Mặc_lão_tức_giận.json",
+    "chapter_name": "Chương 28: Mặc lão tức giận",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-28/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_29_Nàng_bị_điên_à.json",
+    "chapter_name": "Chương 29: Nàng bị điên à!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-29/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_30_Thẩm_Bích_Như_kinh_ngạc.json",
+    "chapter_name": "Chương 30: Thẩm Bích Như kinh ngạc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-30/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_31_Tâm_như_chỉ_thủy.json",
+    "chapter_name": "Chương 31: Tâm như chỉ thủy",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-31/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_32_Hồng_Thiên_lâu.json",
+    "chapter_name": "Chương 32: Hồng Thiên lâu",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-32/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_33_Ra_vẻ_hào_phóng.json",
+    "chapter_name": "Chương 33: Ra vẻ hào phóng",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-33/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_34_Lừa_gạt.json",
+    "chapter_name": "Chương 34: Lừa gạt",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-34/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_35_Chuyện_gì_xảy_ra_vậy.json",
+    "chapter_name": "Chương 35: Chuyện gì xảy ra vậy?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-35/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_36_Ẩm_thực_gia.json",
+    "chapter_name": "Chương 36: Ẩm thực gia",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-36/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_37_Đại_tỉ_à_ngươi_buông_tha_cho_ta_đi.json",
+    "chapter_name": "Chương 37: Đại tỉ à, ngươi buông tha cho ta đi!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-37/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_38_Lục_lạc_Thoa_Âm.json",
+    "chapter_name": "Chương 38: Lục lạc Thoa Âm",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-38/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_39_Mẫu_Hàn_Dương_thảo.json",
+    "chapter_name": "Chương 39: Mẫu Hàn Dương thảo",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-39/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_40_Đại_sư_đến_rồi.json",
+    "chapter_name": "Chương 40: Đại sư đến rồi",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-40/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_41_Cược_bảo.json",
+    "chapter_name": "Chương 41: Cược bảo",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-41/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_42_Có_người_giả_bộ_1.json",
+    "chapter_name": "Chương 42: Có người giả bộ (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-42/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_43_Có_người_giả_bộ_2.json",
+    "chapter_name": "Chương 43: Có người giả bộ (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-43/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_44_Ta_chọn_một_cái.json",
+    "chapter_name": "Chương 44: Ta chọn một cái",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-44/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_45_Tiền_boa.json",
+    "chapter_name": "Chương 45: Tiền boa",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-45/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_46_Vạch_trần_âm_mưu.json",
+    "chapter_name": "Chương 46: Vạch trần âm mưu",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-46/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_47_Hoàng_Ngữ.json",
+    "chapter_name": "Chương 47: Hoàng Ngữ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-47/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_48_Là_thứ_đồ_Gì.json",
+    "chapter_name": "Chương 48: Là thứ đồ Gì",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-48/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_49_Sao_hắn_làm_được.json",
+    "chapter_name": "Chương 49: Sao hắn làm được?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-49/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_50_Ngang_hàng_luận_giao.json",
+    "chapter_name": "Chương 50: Ngang hàng luận giao",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-50/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_51_Thiên_Đạo_Kim_Thân.json",
+    "chapter_name": "Chương 51: Thiên Đạo Kim Thân",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-51/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_52_Lục_Trầm_đại_sư_sắp_khóc.json",
+    "chapter_name": "Chương 52: Lục Trầm đại sư sắp khóc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-52/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_53_Bạch_Tốn_sụp_đổ.json",
+    "chapter_name": "Chương 53: Bạch Tốn sụp đổ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-53/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_54_Hồng_Kim_Châu_Quả.json",
+    "chapter_name": "Chương 54: Hồng Kim Châu Quả",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-54/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_55_Bị_bao_vây_thượng.json",
+    "chapter_name": "Chương 55: Bị bao vây (thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-55/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_56_Bị_bao_vây_hạ.json",
+    "chapter_name": "Chương 56: Bị bao vây (hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-56/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_57_Nhẫn_trữ_vật_1.json",
+    "chapter_name": "Chương 57: Nhẫn trữ vật (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-57/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_58_Hắn_làm_sao_làm_được.json",
+    "chapter_name": "Chương 58: Hắn làm sao làm được?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-58/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_59_Các_học_viên_phát_rồ.json",
+    "chapter_name": "Chương 59: Các học viên phát rồ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-59/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_60_Người_vĩ_đại_nhất.json",
+    "chapter_name": "Chương 60: Người vĩ đại nhất",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-60/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_61_Nang_yêu_ta.json",
+    "chapter_name": "Chương 61: Nàng yêu ta?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-61/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_62_Thượng_Bân_tan_vỡ.json",
+    "chapter_name": "Chương 62: Thượng Bân tan vỡ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-62/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_63_Mạc_Tường_trưởng_lão.json",
+    "chapter_name": "Chương 63: Mạc Tường trưởng lão",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-63/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_64_Giải_thích_độ_tín_nhiệm.json",
+    "chapter_name": "Chương 64: Giải thích độ tín nhiệm",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-64/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_65_Mười.json",
+    "chapter_name": "Chương 65: Mười?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-65/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_66_Đây_không_phải_là_sự_thật.json",
+    "chapter_name": "Chương 66: Đây không phải là sự thật!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-66/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_67_Người_Vương_gia_tới.json",
+    "chapter_name": "Chương 67: Người Vương gia tới",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-67/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_68_Bái_kiến_Trương_Huyền_lão_sư.json",
+    "chapter_name": "Chương 68: Bái kiến Trương Huyền lão sư",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-68/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_69_Hủy_khóa.json",
+    "chapter_name": "Chương 69: Hủy khóa",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-69/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_70_Nghi_vấn.json",
+    "chapter_name": "Chương 70: Nghi vấn",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-70/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_71_Bạch_tiểu_vương_gia_hung_hăng.json",
+    "chapter_name": "Chương 71: Bạch tiểu vương gia hung hăng",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-71/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_72_Không_cách_nào_khai_trừ.json",
+    "chapter_name": "Chương 72: Không cách nào khai trừ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-72/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_73_Tào_Hùng_phản_kích.json",
+    "chapter_name": "Chương 73: Tào Hùng phản kích",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-73/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_74_Phòng_giáo_vụ_giở_trò.json",
+    "chapter_name": "Chương 74: Phòng giáo vụ giở trò?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-74/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_75_Thượng_Thần_thổ_huyết.json",
+    "chapter_name": "Chương 75: Thượng Thần thổ huyết",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-75/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_76_Học_viên_tẩu_hỏa_nhập_ma.json",
+    "chapter_name": "Chương 76: Học viên tẩu hỏa nhập ma",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-76/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_77_Trời_sinh_tỏa_mạch.json",
+    "chapter_name": "Chương 77: Trời sinh tỏa mạch",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-77/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_78_Giúp_ngươi_đột_phá_trong_nửa_canh_giờ.json",
+    "chapter_name": "Chương 78: Giúp ngươi đột phá trong nửa canh giờ!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-78/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_79_Dậy_sóng_bái_sư.json",
+    "chapter_name": "Chương 79: Dậy sóng bái sư",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-79/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_80_Làm_sao_dạy.json",
+    "chapter_name": "Chương 80: Làm sao dạy?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-80/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_81_Ta_muốn_trả_lại_khóa_học_Thượng.json",
+    "chapter_name": "Chương 81: Ta muốn trả lại khóa học (Thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-81/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_82_Ta_muốn_trả_lại_khóa_học_Hạ.json",
+    "chapter_name": "Chương 82: Ta muốn trả lại khóa học (Hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-82/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_83_Chu_Hồng_hung_hăng_càn_quấy.json",
+    "chapter_name": "Chương 83: Chu Hồng hung hăng càn quấy",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-83/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_84_Hành_hung_Chu_Hồng_Thượng.json",
+    "chapter_name": "Chương 84: Hành hung Chu Hồng (Thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-84/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_85_Hành_hung_Chu_Hồng_Trung.json",
+    "chapter_name": "Chương 85: Hành hung Chu Hồng (Trung)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-85/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_86_Hành_hung_Chu_Hồng_Hạ.json",
+    "chapter_name": "Chương 86: Hành hung Chu Hồng (Hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-86/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_87_Thật_sự_là_lão_sư_kém_nhất.json",
+    "chapter_name": "Chương 87: Thật sự là lão sư kém nhất?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-87/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_88_Luyện_đan_sư_công_hội.json",
+    "chapter_name": "Chương 88: Luyện đan sư công hội",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-88/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_89_Văn_Tuyết_phẫn_nộ.json",
+    "chapter_name": "Chương 89: Văn Tuyết phẫn nộ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-89/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_90_Khảo_Hạch_đường.json",
+    "chapter_name": "Chương 90: Khảo Hạch đường",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-90/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_91_Ba_vòng_khảo_thí.json",
+    "chapter_name": "Chương 91: Ba vòng khảo thí",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-91/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_92_Ngươi_hết_hi_vọng_đi.json",
+    "chapter_name": "Chương 92: Ngươi hết hi vọng đi!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-92/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_93_Phê_duyệt_bài_thi.json",
+    "chapter_name": "Chương 93: Phê duyệt bài thi",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-93/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_94_Nhận_biết_trong_thời_gian_giới_hạn.json",
+    "chapter_name": "Chương 94: Nhận biết trong thời gian giới hạn",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-94/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_95_Long_Lân_thảo.json",
+    "chapter_name": "Chương 95: Long Lân thảo",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-95/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_96_Khảo_hạch_một_lần_thử_xem.json",
+    "chapter_name": "Chương 96: Khảo hạch một lần thử xem",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-96/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_97_Luận_đan.json",
+    "chapter_name": "Chương 97: Luận đan",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-97/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_98_Ta_muốn_Luận_đan.json",
+    "chapter_name": "Chương 98: Ta muốn Luận đan",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-98/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_99_Âu_Dương_Thành_ngơ_ngác.json",
+    "chapter_name": "Chương 99: Âu Dương Thành ngơ ngác",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-99/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_100_Diêu_Hàn_nghi_hoặc.json",
+    "chapter_name": "Chương 100: Diêu Hàn nghi hoặc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-100/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_101_Triệu_Nhã_cảm_động.json",
+    "chapter_name": "Chương 101: Triệu Nhã cảm động",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-101/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_102_Mãi_đến_tận_đỉnh_phong_của_thế_giới.json",
+    "chapter_name": "Chương 102: Mãi đến tận đỉnh phong của thế giới",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-102/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_103_Võ_Giả_Lục_Trọng_Tích_Huyệt_Cảnh_thượng.json",
+    "chapter_name": "Chương 103: Võ Giả Lục Trọng Tích Huyệt Cảnh (thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-103/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_104_Võ_Giả_Lục_Trọng_Tích_Huyệt_Cảnh_Hạ.json",
+    "chapter_name": "Chương 104: Võ Giả Lục Trọng Tích Huyệt Cảnh (Hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-104/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_105_Phiền_Não_Mới_Thượng.json",
+    "chapter_name": "Chương 105: Phiền Não Mới (Thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-105/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_106_Phiền_Não_Mới_Hạ.json",
+    "chapter_name": "Chương 106: Phiền Não Mới (Hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-106/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_107_Luận_Đan_Bắt_Đầu.json",
+    "chapter_name": "Chương 107: Luận Đan Bắt Đầu",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-107/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_108_Mạnh_Nham.json",
+    "chapter_name": "Chương 108: Mạnh Nham",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-108/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_109_Tĩnh_Tâm_đan.json",
+    "chapter_name": "Chương 109: Tĩnh Tâm đan",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-109/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_110_Ngươi_sắp_chết_rồi.json",
+    "chapter_name": "Chương 110: Ngươi sắp chết rồi",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-110/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_111_Tử_khí.json",
+    "chapter_name": "Chương 111: Tử khí",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-111/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_112_Trình_Giang.json",
+    "chapter_name": "Chương 112: Trình Giang",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-112/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_113_Thủ_pháp.json",
+    "chapter_name": "Chương 113: Thủ pháp",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-113/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_114_Vạn_Lưu_Quy_Giang.json",
+    "chapter_name": "Chương 114: Vạn Lưu Quy Giang",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-114/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_115_Nhuận_huyệt_đan.json",
+    "chapter_name": "Chương 115: Nhuận huyệt đan",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-115/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_116_Bạch_Minh_đan_sư_tan_vỡ_Thượng.json",
+    "chapter_name": "Chương 116: Bạch Minh đan sư tan vỡ (Thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-116/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_117_Bạch_Minh_Đan_Sư_Tan_Vỡ_Hạ.json",
+    "chapter_name": "Chương 117: Bạch Minh Đan Sư Tan Vỡ (Hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-117/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_118_Luận_đan_chân_chính_thượng.json",
+    "chapter_name": "Chương 118: Luận đan chân chính (thượng)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-118/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_119_Luận_đan_chân_chính_hạ.json",
+    "chapter_name": "Chương 119: Luận đan chân chính (hạ)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-119/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_120_Chẳng_ra_gì.json",
+    "chapter_name": "Chương 120: Chẳng ra gì",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-120/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_121_Tranh_nhau_chen_lấn.json",
+    "chapter_name": "Chương 121: Tranh nhau chen lấn",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-121/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_122_Luận_đan_kết_thúc.json",
+    "chapter_name": "Chương 122: Luận đan kết thúc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-122/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_123_Tìm_được_phương_pháp_giải_quyết.json",
+    "chapter_name": "Chương 123: Tìm được phương pháp giải quyết",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-123/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_124_Nghĩ_biện_pháp.json",
+    "chapter_name": "Chương 124: Nghĩ biện pháp",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-124/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_125_Thuê_phủ_đệ.json",
+    "chapter_name": "Chương 125: Thuê phủ đệ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-125/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_126_Ta_là_danh_sư.json",
+    "chapter_name": "Chương 126: Ta là danh sư",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-126/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_127_Danh_sách_đối_chiến_xuất_hiện.json",
+    "chapter_name": "Chương 127: Danh sách đối chiến xuất hiện",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-127/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_128_Không_người_đến.json",
+    "chapter_name": "Chương 128: Không người đến",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-128/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_129_Đề_Nam_Thanh_Ngọc.json",
+    "chapter_name": "Chương 129: Đề Nam Thanh Ngọc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-129/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_130_Cả_nhà_ngươi_có_khỏe_không.json",
+    "chapter_name": "Chương 130: Cả nhà ngươi có khỏe không?",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-130/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_131_Trình_Viễn_Đại_Sư.json",
+    "chapter_name": "Chương 131: Trình Viễn Đại Sư",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-131/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_132_Tôn_cường_tự_hào.json",
+    "chapter_name": "Chương 132: Tôn cường tự hào",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-132/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_133_Nhốt_ở_ngoài_cửa.json",
+    "chapter_name": "Chương 133: Nhốt ở ngoài cửa",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-133/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_134_Đỗ_viễn_tràn_ngập_nghi_hoặc.json",
+    "chapter_name": "Chương 134: Đỗ viễn tràn ngập nghi hoặc",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-134/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_135_Huyện_ba_năm_phút_đồng_hồ.json",
+    "chapter_name": "Chương 135: Huyện ba, năm phút đồng hồ",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-135/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_136_Danh_sư_dương_huyền.json",
+    "chapter_name": "Chương 136: Danh sư dương huyền",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-136/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_137_Sờ_sờ_lão_bà_ngươi.json",
+    "chapter_name": "Chương 137: Sờ sờ lão bà ngươi",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-137/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_138_Có_thể_trị.json",
+    "chapter_name": "Chương 138: Có thể trị",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-138/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_139_Thiệt_thòi_lớn_rồi.json",
+    "chapter_name": "Chương 139: Thiệt thòi lớn rồi!",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-139/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_140_Tin_tức_truyền_ra.json",
+    "chapter_name": "Chương 140: Tin tức truyền ra",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-140/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_141_Ngươi_Là_Đồ_Súc_Sinh.json",
+    "chapter_name": "Chương 141: Ngươi Là Đồ Súc Sinh",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-141/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_142_Quỳ_ở_bên_ngoài.json",
+    "chapter_name": "Chương 142: Quỳ ở bên ngoài",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-142/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_143_Lấy_tiền_1.json",
+    "chapter_name": "Chương 143: Lấy tiền (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-143/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_144_Lấy_tiền_2.json",
+    "chapter_name": "Chương 144: Lấy tiền (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-144/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_145_Cao_thủ_thương_pháp_1.json",
+    "chapter_name": "Chương 145: Cao thủ thương pháp (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-145/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_146_Cao_thủ_thương_pháp_2.json",
+    "chapter_name": "Chương 146: Cao thủ thương pháp (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-146/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_147_Thiên_Đạo_thương_pháp_1.json",
+    "chapter_name": "Chương 147: Thiên Đạo thương pháp (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-147/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_148_Thiên_Đạo_thương_pháp_2.json",
+    "chapter_name": "Chương 148: Thiên Đạo thương pháp (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-148/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_149_Thương_ý_1.json",
+    "chapter_name": "Chương 149: Thương ý (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-149/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_150_Thương_ý_2.json",
+    "chapter_name": "Chương 150: Thương ý (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-150/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_151_Ta_có_thể_theo_ngươi_học_không_1.json",
+    "chapter_name": "Chương 151: Ta có thể theo ngươi học không? (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-151/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_152_Ta_có_thể_theo_ngươi_học_không_2.json",
+    "chapter_name": "Chương 152: Ta có thể theo ngươi học không? (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-152/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_153_Học_Chiến_thai_1.json",
+    "chapter_name": "Chương 153: Học Chiến thai (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-153/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_154_Học_Chiến_thai_2.json",
+    "chapter_name": "Chương 154: Học Chiến thai (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-154/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_155_Trương_Huyền_quyết_định_1.json",
+    "chapter_name": "Chương 155: Trương Huyền quyết định (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-155/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_156_Trương_Huyền_quyết_định_2.json",
+    "chapter_name": "Chương 156: Trương Huyền quyết định (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-156/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_157_Truyền_thụ_thương_pháp_1.json",
+    "chapter_name": "Chương 157: Truyền thụ thương pháp (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-157/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_158_Truyền_thụ_thương_pháp_2.json",
+    "chapter_name": "Chương 158: Truyền thụ thương pháp (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-158/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_159_Ca_tới_đây_là_muốn_làm_cho_ngươi_mất_mặt_1.json",
+    "chapter_name": "Chương 159: Ca tới đây là muốn làm cho ngươi mất mặt (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-159/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_160_Ca_tới_đây_là_muốn_làm_cho_ngươi_mất_mặt_2.json",
+    "chapter_name": "Chương 160: Ca tới đây là muốn làm cho ngươi mất mặt (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-160/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_161_Trị_liệu_cho_Đỗ_Mạc_Hiên_1.json",
+    "chapter_name": "Chương 161: Trị liệu cho Đỗ Mạc Hiên (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-161/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_162_Trị_liệu_cho_Đỗ_Mạc_Hiên_2.json",
+    "chapter_name": "Chương 162: Trị liệu cho Đỗ Mạc Hiên (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-162/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_163_Ăn_nhiều_chết_no_1.json",
+    "chapter_name": "Chương 163: Ăn nhiều chết no (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-163/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_164_Ăn_nhiều_chết_no_2.json",
+    "chapter_name": "Chương 164: Ăn nhiều chết no (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-164/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_165_Tác_dụng_của_Thư_tịch_màu_vàng_1.json",
+    "chapter_name": "Chương 165: Tác dụng của Thư tịch màu vàng? (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-165/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_166_Tác_dụng_của_Thư_tịch_màu_vàng_2.json",
+    "chapter_name": "Chương 166: Tác dụng của Thư tịch màu vàng? (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-166/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_167_Sự_kiện_ngũ_tinh_1.json",
+    "chapter_name": "Chương 167: Sự kiện ngũ tinh (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-167/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_168_Sự_kiện_ngũ_tinh_2.json",
+    "chapter_name": "Chương 168: Sự kiện ngũ tinh (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-168/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_169_Vang_vọng_Vương_thành_1.json",
+    "chapter_name": "Chương 169: Vang vọng Vương thành (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-169/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_170_Vang_vọng_Vương_thành_2.json",
+    "chapter_name": "Chương 170: Vang vọng Vương thành (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-170/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_171_Sát_hạch_thư_họa_1.json",
+    "chapter_name": "Chương 171: Sát hạch thư họa (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-171/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_172_Sát_hạch_thư_họa_2.json",
+    "chapter_name": "Chương 172: Sát hạch thư họa (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-172/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_173_Đến_lượt_ngươi_1.json",
+    "chapter_name": "Chương 173: Đến lượt ngươi (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-173/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_174_Đến_lượt_ngươi_2.json",
+    "chapter_name": "Chương 174: Đến lượt ngươi (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-174/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_175_Tên_lừa_đảo_1.json",
+    "chapter_name": "Chương 175: Tên lừa đảo? (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-175/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_176_Tên_lừa_đảo_2.json",
+    "chapter_name": "Chương 176: Tên lừa đảo? (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-176/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_177_Huynh_đệ_giao_đấu_1.json",
+    "chapter_name": "Chương 177: Huynh đệ giao đấu (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-177/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_178_Huynh_đệ_giao_đấu_2.json",
+    "chapter_name": "Chương 178: Huynh đệ giao đấu (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-178/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_179_Tả_Hữu_Du_Long_1.json",
+    "chapter_name": "Chương 179: Tả Hữu Du Long (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-179/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_180_Tả_Hữu_Du_Long_2.json",
+    "chapter_name": "Chương 180: Tả Hữu Du Long (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-180/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_181_Đệ_nhị_cảnh_1.json",
+    "chapter_name": "Chương 181: Đệ nhị cảnh? (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-181/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_182_Đệ_nhị_cảnh_2.json",
+    "chapter_name": "Chương 182: Đệ nhị cảnh? (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-182/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_183_Vẽ_tiếp_một_bộ_khác_là_được_1.json",
+    "chapter_name": "Chương 183: Vẽ tiếp một bộ khác là được! (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-183/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_184_Vẽ_tiếp_một_bộ_khác_là_được_2.json",
+    "chapter_name": "Chương 184: Vẽ tiếp một bộ khác là được! (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-184/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_185_Nghiệt_súc_này_1.json",
+    "chapter_name": "Chương 185: Nghiệt súc này (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-185/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_186_Nghiệt_súc_này_2.json",
+    "chapter_name": "Chương 186: Nghiệt súc này (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-186/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_187_Tam_sư_hội_chuẩn_1.json",
+    "chapter_name": "Chương 187: Tam sư hội chuẩn (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-187/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_188_Tam_sư_hội_chuẩn_2.json",
+    "chapter_name": "Chương 188: Tam sư hội chuẩn (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-188/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_189_Vương_thất_tàng_thư_khố_1.json",
+    "chapter_name": "Chương 189: Vương thất tàng thư khố (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-189/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_190_Vương_thất_tàng_thư_khố_2.json",
+    "chapter_name": "Chương 190: Vương thất tàng thư khố (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-190/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_191_Tôn_Cường_hung_hăng_1.json",
+    "chapter_name": "Chương 191: Tôn Cường hung hăng (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-191/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_192_Tôn_Cường_hung_hăng_2.json",
+    "chapter_name": "Chương 192: Tôn Cường hung hăng (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-192/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_193_Ánh_mắt_của_Danh_sư_1.json",
+    "chapter_name": "Chương 193: Ánh mắt của Danh sư (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-193/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_194_Ánh_mắt_của_Danh_sư_2.json",
+    "chapter_name": "Chương 194: Ánh mắt của Danh sư (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-194/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_195_Thiên_Đạo_Thần_Công_đệ_lục_trọng_1.json",
+    "chapter_name": "Chương 195: Thiên Đạo Thần Công đệ lục trọng (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-195/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_196_Thiên_Đạo_Thần_Công_đệ_lục_trọng_2.json",
+    "chapter_name": "Chương 196: Thiên Đạo Thần Công đệ lục trọng (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-196/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_197_Dẫn_động_phong_vân_1.json",
+    "chapter_name": "Chương 197: Dẫn động phong vân (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-197/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_198_Dẫn_động_phong_vân_2.json",
+    "chapter_name": "Chương 198: Dẫn động phong vân (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-198/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_199_Lão_gia_trở_về_1.json",
+    "chapter_name": "Chương 199: Lão gia trở về (1)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-199/"
+  },
+  {
+    "path": "data/Thiên_Đạo_Đồ_Thư_Quán/Chương_200_Lão_gia_trở_về_2.json",
+    "chapter_name": "Chương 200: Lão gia trở về (2)",
+    "url": "https://truyenfull.io/thien-dao-do-thu-quan-070820/chuong-200/"
+  }
+]
