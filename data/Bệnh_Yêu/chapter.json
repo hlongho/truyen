@@ -1,0 +1,482 @@
+[
+  {
+    "path": "data/Bệnh_Yêu/Chương_1_Trở_về_năm_lớp_11.json",
+    "chapter_name": "Chương 1: Trở về năm lớp 11",
+    "url": "https://truyenfull.io/benh-yeu/chuong-1/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_2_Người_mù.json",
+    "chapter_name": "Chương 2: Người mù?",
+    "url": "https://truyenfull.io/benh-yeu/chuong-2/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_3_Cô_bé_câm.json",
+    "chapter_name": "Chương 3: Cô bé câm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-3/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_4_Đừng_khóc.json",
+    "chapter_name": "Chương 4: Đừng khóc﻿",
+    "url": "https://truyenfull.io/benh-yeu/chuong-4/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_5_Sẽ_không_yêu_sớm.json",
+    "chapter_name": "Chương 5: Sẽ không yêu sớm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-5/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_6_Coi_thường.json",
+    "chapter_name": "Chương 6: Coi thường",
+    "url": "https://truyenfull.io/benh-yeu/chuong-6/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_7_Cuộc_thi_Olympic_Toán_học.json",
+    "chapter_name": "Chương 7: Cuộc thi Olympic Toán học",
+    "url": "https://truyenfull.io/benh-yeu/chuong-7/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_8_Quán_quân.json",
+    "chapter_name": "Chương 8: Quán quân",
+    "url": "https://truyenfull.io/benh-yeu/chuong-8/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_9_Bá_đạo.json",
+    "chapter_name": "Chương 9: Bá đạo",
+    "url": "https://truyenfull.io/benh-yeu/chuong-9/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_10_Thật_xinh_đẹp.json",
+    "chapter_name": "Chương 10: Thật xinh đẹp",
+    "url": "https://truyenfull.io/benh-yeu/chuong-10/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_11_Lên_đây_đi.json",
+    "chapter_name": "Chương 11: Lên đây đi",
+    "url": "https://truyenfull.io/benh-yeu/chuong-11/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_12_Lồng_ngực.json",
+    "chapter_name": "Chương 12: Lồng ngực",
+    "url": "https://truyenfull.io/benh-yeu/chuong-12/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_13_Phát_bệnh.json",
+    "chapter_name": "Chương 13: Phát bệnh",
+    "url": "https://truyenfull.io/benh-yeu/chuong-13/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_14_Hồi_phục.json",
+    "chapter_name": "Chương 14: Hồi phục",
+    "url": "https://truyenfull.io/benh-yeu/chuong-14/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_15_Không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 15: Không biết xấu hổ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-15/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_16_Ngả_bài.json",
+    "chapter_name": "Chương 16: Ngả bài",
+    "url": "https://truyenfull.io/benh-yeu/chuong-16/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_17_Mỹ_lệ.json",
+    "chapter_name": "Chương 17: Mỹ lệ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-17/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_18_Hoa_khôi_giảng_đường.json",
+    "chapter_name": "Chương 18: Hoa khôi giảng đường",
+    "url": "https://truyenfull.io/benh-yeu/chuong-18/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_19_Cô_ấy_thơm_quá.json",
+    "chapter_name": "Chương 19: Cô ấy thơm quá",
+    "url": "https://truyenfull.io/benh-yeu/chuong-19/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_20_Anh_rất_nghiêm_túc.json",
+    "chapter_name": "Chương 20: Anh rất nghiêm túc",
+    "url": "https://truyenfull.io/benh-yeu/chuong-20/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_21_Anh_sợ_em_đau.json",
+    "chapter_name": "Chương 21: Anh sợ em đau",
+    "url": "https://truyenfull.io/benh-yeu/chuong-21/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_22_Đùa_giỡn_lưu_manh.json",
+    "chapter_name": "Chương 22: Đùa giỡn lưu manh",
+    "url": "https://truyenfull.io/benh-yeu/chuong-22/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_23_Xấu_xa.json",
+    "chapter_name": "Chương 23: Xấu xa",
+    "url": "https://truyenfull.io/benh-yeu/chuong-23/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_24_Ôm_anh_đi.json",
+    "chapter_name": "Chương 24: Ôm anh đi",
+    "url": "https://truyenfull.io/benh-yeu/chuong-24/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_25_Nụ_hôn_đầu_tiên.json",
+    "chapter_name": "Chương 25: Nụ hôn đầu tiên",
+    "url": "https://truyenfull.io/benh-yeu/chuong-25/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_26_Đừng_sợ.json",
+    "chapter_name": "Chương 26: Đừng sợ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-26/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_27_Kiểm_điểm.json",
+    "chapter_name": "Chương 27: Kiểm điểm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-27/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_28_Đầu_óc_bã_đậu.json",
+    "chapter_name": "Chương 28: Đầu óc bã đậu",
+    "url": "https://truyenfull.io/benh-yeu/chuong-28/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_29_Đàn_dương_cầm.json",
+    "chapter_name": "Chương 29: Đàn dương cầm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-29/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_30_Ban_đêm.json",
+    "chapter_name": "Chương 30: Ban đêm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-30/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_31_Hết_hy_vọng.json",
+    "chapter_name": "Chương 31: Hết hy vọng",
+    "url": "https://truyenfull.io/benh-yeu/chuong-31/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_32_Có_nên_buông.json",
+    "chapter_name": "Chương 32: Có nên buông?",
+    "url": "https://truyenfull.io/benh-yeu/chuong-32/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_33_Điên_cuồng.json",
+    "chapter_name": "Chương 33: Điên cuồng",
+    "url": "https://truyenfull.io/benh-yeu/chuong-33/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_34_Giết_tôi_đi.json",
+    "chapter_name": "Chương 34: Giết tôi đi",
+    "url": "https://truyenfull.io/benh-yeu/chuong-34/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_35_Đáng_yêu.json",
+    "chapter_name": "Chương 35: Đáng yêu",
+    "url": "https://truyenfull.io/benh-yeu/chuong-35/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_36_Vô_liêm_sỉ.json",
+    "chapter_name": "Chương 36: Vô liêm sỉ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-36/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_37_Dê_xồm.json",
+    "chapter_name": "Chương 37: Dê xồm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-37/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_38_Anh_dám_chứ.json",
+    "chapter_name": "Chương 38: Anh dám chứ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-38/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_39_Eo_nhỏ.json",
+    "chapter_name": "Chương 39: Eo nhỏ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-39/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_40_Không_được_phép.json",
+    "chapter_name": "Chương 40: Không được phép",
+    "url": "https://truyenfull.io/benh-yeu/chuong-40/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_41_Tôi_không_hôn_cậu_ta.json",
+    "chapter_name": "Chương 41: Tôi không hôn cậu ta",
+    "url": "https://truyenfull.io/benh-yeu/chuong-41/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_42_Tu_La_Tràng.json",
+    "chapter_name": "Chương 42: Tu La Tràng*",
+    "url": "https://truyenfull.io/benh-yeu/chuong-42/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_43_Cưỡng_hôn.json",
+    "chapter_name": "Chương 43: Cưỡng hôn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-43/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_44_Không_cứu_nổi.json",
+    "chapter_name": "Chương 44: Không cứu nổi",
+    "url": "https://truyenfull.io/benh-yeu/chuong-44/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_45_Bổ_túc.json",
+    "chapter_name": "Chương 45: Bổ túc",
+    "url": "https://truyenfull.io/benh-yeu/chuong-45/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_46_Khích_lệ.json",
+    "chapter_name": "Chương 46: Khích lệ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-46/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_47_Làm_nũng.json",
+    "chapter_name": "Chương 47: Làm nũng",
+    "url": "https://truyenfull.io/benh-yeu/chuong-47/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_48_Yêu_tinh.json",
+    "chapter_name": "Chương 48: Yêu tinh",
+    "url": "https://truyenfull.io/benh-yeu/chuong-48/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_49_Tù_binh.json",
+    "chapter_name": "Chương 49: Tù binh",
+    "url": "https://truyenfull.io/benh-yeu/chuong-49/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_50_Đêm_mưa.json",
+    "chapter_name": "Chương 50: Đêm mưa",
+    "url": "https://truyenfull.io/benh-yeu/chuong-50/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_51_My_princess.json",
+    "chapter_name": "Chương 51: My princess",
+    "url": "https://truyenfull.io/benh-yeu/chuong-51/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_52_Thương_tiếc.json",
+    "chapter_name": "Chương 52: Thương tiếc",
+    "url": "https://truyenfull.io/benh-yeu/chuong-52/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_53_Tiểu_Giang_gia.json",
+    "chapter_name": "Chương 53: Tiểu Giang gia",
+    "url": "https://truyenfull.io/benh-yeu/chuong-53/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_54_Hôn_một_cái.json",
+    "chapter_name": "Chương 54: Hôn một cái",
+    "url": "https://truyenfull.io/benh-yeu/chuong-54/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_55_Động_lòng.json",
+    "chapter_name": "Chương 55: Động lòng",
+    "url": "https://truyenfull.io/benh-yeu/chuong-55/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_56_Bạn_gái_nhỏ.json",
+    "chapter_name": "Chương 56: Bạn gái nhỏ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-56/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_57_Cưng_chiều.json",
+    "chapter_name": "Chương 57: Cưng chiều",
+    "url": "https://truyenfull.io/benh-yeu/chuong-57/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_58_Đề_bài_phiên_dịch.json",
+    "chapter_name": "Chương 58: Đề bài phiên dịch",
+    "url": "https://truyenfull.io/benh-yeu/chuong-58/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_59_Tâm_sự_thiếu_nữ.json",
+    "chapter_name": "Chương 59: Tâm sự thiếu nữ",
+    "url": "https://truyenfull.io/benh-yeu/chuong-59/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_60_Hoả_hoạn.json",
+    "chapter_name": "Chương 60: Hoả hoạn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-60/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_61_Nước_mắt.json",
+    "chapter_name": "Chương 61: Nước mắt",
+    "url": "https://truyenfull.io/benh-yeu/chuong-61/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_62_Nhận_thua.json",
+    "chapter_name": "Chương 62: Nhận thua",
+    "url": "https://truyenfull.io/benh-yeu/chuong-62/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_63_Ẩn_nhẫn.json",
+    "chapter_name": "Chương 63: Ẩn nhẫn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-63/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_64_Dưới_lớp_áo.json",
+    "chapter_name": "Chương 64: Dưới lớp áo",
+    "url": "https://truyenfull.io/benh-yeu/chuong-64/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_65_Chín_chắn.json",
+    "chapter_name": "Chương 65: Chín chắn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-65/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_66_Em_dám_không.json",
+    "chapter_name": "Chương 66: Em dám không?",
+    "url": "https://truyenfull.io/benh-yeu/chuong-66/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_67_Ham_muốn.json",
+    "chapter_name": "Chương 67: Ham muốn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-67/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_68_Hai_ngôi_sao.json",
+    "chapter_name": "Chương 68: Hai ngôi sao",
+    "url": "https://truyenfull.io/benh-yeu/chuong-68/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_69_Hòa_giải.json",
+    "chapter_name": "Chương 69: Hòa giải",
+    "url": "https://truyenfull.io/benh-yeu/chuong-69/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_70_Bảo_bối.json",
+    "chapter_name": "Chương 70: Bảo bối",
+    "url": "https://truyenfull.io/benh-yeu/chuong-70/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_71_Nuôi_em.json",
+    "chapter_name": "Chương 71: Nuôi em",
+    "url": "https://truyenfull.io/benh-yeu/chuong-71/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_72_Kỳ_thi_đại_học.json",
+    "chapter_name": "Chương 72: Kỳ thi đại học",
+    "url": "https://truyenfull.io/benh-yeu/chuong-72/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_73_Đau_lòng.json",
+    "chapter_name": "Chương 73: Đau lòng",
+    "url": "https://truyenfull.io/benh-yeu/chuong-73/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_74_Không_ngại_mất_mặt.json",
+    "chapter_name": "Chương 74: Không ngại mất mặt",
+    "url": "https://truyenfull.io/benh-yeu/chuong-74/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_75_Anh_không_có_tiền.json",
+    "chapter_name": "Chương 75: Anh không có tiền",
+    "url": "https://truyenfull.io/benh-yeu/chuong-75/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_76_Đánh_nhau.json",
+    "chapter_name": "Chương 76: Đánh nhau",
+    "url": "https://truyenfull.io/benh-yeu/chuong-76/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_77_Anh_trai.json",
+    "chapter_name": "Chương 77: Anh trai",
+    "url": "https://truyenfull.io/benh-yeu/chuong-77/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_78_Chảy_máu_mũi.json",
+    "chapter_name": "Chương 78: Chảy máu mũi",
+    "url": "https://truyenfull.io/benh-yeu/chuong-78/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_79_Động_tình.json",
+    "chapter_name": "Chương 79: Động tình",
+    "url": "https://truyenfull.io/benh-yeu/chuong-79/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_80_Xấu_xí.json",
+    "chapter_name": "Chương 80: Xấu xí",
+    "url": "https://truyenfull.io/benh-yeu/chuong-80/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_81_Năm_mới.json",
+    "chapter_name": "Chương 81: Năm mới",
+    "url": "https://truyenfull.io/benh-yeu/chuong-81/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_82_Phất_lên.json",
+    "chapter_name": "Chương 82: Phất lên",
+    "url": "https://truyenfull.io/benh-yeu/chuong-82/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_83_Khởi_đầu.json",
+    "chapter_name": "Chương 83: Khởi đầu",
+    "url": "https://truyenfull.io/benh-yeu/chuong-83/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_84_Ông_chủ_lớn.json",
+    "chapter_name": "Chương 84: Ông chủ lớn",
+    "url": "https://truyenfull.io/benh-yeu/chuong-84/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_85_Em_có_cho_anh_chạm_qua_chưa.json",
+    "chapter_name": "Chương 85: Em có cho anh chạm qua chưa?",
+    "url": "https://truyenfull.io/benh-yeu/chuong-85/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_86_Trưởng_thành.json",
+    "chapter_name": "Chương 86: Trưởng thành",
+    "url": "https://truyenfull.io/benh-yeu/chuong-86/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_87_Cho_chút_tôn_nghiêm.json",
+    "chapter_name": "Chương 87: Cho chút tôn nghiêm",
+    "url": "https://truyenfull.io/benh-yeu/chuong-87/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_88_Lấn_sang.json",
+    "chapter_name": "Chương 88: Lấn sang",
+    "url": "https://truyenfull.io/benh-yeu/chuong-88/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_89_Vị_thần_của_cô.json",
+    "chapter_name": "Chương 89: Vị thần của cô",
+    "url": "https://truyenfull.io/benh-yeu/chuong-89/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_90_Bụi_tuyết.json",
+    "chapter_name": "Chương 90: Bụi tuyết",
+    "url": "https://truyenfull.io/benh-yeu/chuong-90/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_91_Bệnh_lý.json",
+    "chapter_name": "Chương 91: Bệnh lý",
+    "url": "https://truyenfull.io/benh-yeu/chuong-91/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_92_Kết_thúc.json",
+    "chapter_name": "Chương 92: Kết thúc",
+    "url": "https://truyenfull.io/benh-yeu/chuong-92/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_93_Phiên_ngoại_1_Triệu_Noãn_Chanh.json",
+    "chapter_name": "Chương 93: Phiên ngoại 1: Triệu Noãn Chanh",
+    "url": "https://truyenfull.io/benh-yeu/chuong-93/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_94_Phiên_ngoại_1_Triệu_Noãn_Chanh_Phần_2.json",
+    "chapter_name": "Chương 94: Phiên ngoại 1: Triệu Noãn Chanh – Phần 2",
+    "url": "https://truyenfull.io/benh-yeu/chuong-94/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_95_Phiên_ngoại_2_Giang_Nhẫn_Mạnh_Thính.json",
+    "chapter_name": "Chương 95: Phiên ngoại 2 Giang Nhẫn – Mạnh Thính",
+    "url": "https://truyenfull.io/benh-yeu/chuong-95/"
+  },
+  {
+    "path": "data/Bệnh_Yêu/Chương_96_Phiên_ngoại_3_Phiên_ngoại_trên_Weibo_Giang_Nhẫn_Có_chuyện_tốt_như_vậy_sao.json",
+    "chapter_name": "Chương 96: Phiên ngoại 3 – Phiên ngoại trên Weibo Giang Nhẫn: Có chuyện tốt như vậy sao?",
+    "url": "https://truyenfull.io/benh-yeu/chuong-96/"
+  }
+]
