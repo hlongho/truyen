@@ -1,0 +1,1002 @@
+[
+  {
+    "path": "data/Cầu_Ma/Chương_1_Tô_Minh.json",
+    "chapter_name": "Chương 1: Tô Minh",
+    "url": "https://truyenfull.io/cau-ma/chuong-1/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_2_Man_Khải.json",
+    "chapter_name": "Chương 2: Man Khải",
+    "url": "https://truyenfull.io/cau-ma/chuong-2/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_3_U_thứ.json",
+    "chapter_name": "Chương 3: U thứ",
+    "url": "https://truyenfull.io/cau-ma/chuong-3/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_4_Dị_biến.json",
+    "chapter_name": "Chương 4: Dị biến",
+    "url": "https://truyenfull.io/cau-ma/chuong-4/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_5_Mộng_ư.json",
+    "chapter_name": "Chương 5: Mộng ư",
+    "url": "https://truyenfull.io/cau-ma/chuong-5/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_6_Ân_trạch.json",
+    "chapter_name": "Chương 6: Ân trạch",
+    "url": "https://truyenfull.io/cau-ma/chuong-6/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_7_Hoang.json",
+    "chapter_name": "Chương 7: Hoang!",
+    "url": "https://truyenfull.io/cau-ma/chuong-7/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_8_Hồng_nê.json",
+    "chapter_name": "Chương 8: Hồng nê",
+    "url": "https://truyenfull.io/cau-ma/chuong-8/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_9_Thối_tán.json",
+    "chapter_name": "Chương 9: Thối tán",
+    "url": "https://truyenfull.io/cau-ma/chuong-9/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_10_Huyết_nhiên.json",
+    "chapter_name": "Chương 10: Huyết nhiên",
+    "url": "https://truyenfull.io/cau-ma/chuong-10/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_11_Tô_Minh_nổi_giận.json",
+    "chapter_name": "Chương 11: Tô Minh nổi giận",
+    "url": "https://truyenfull.io/cau-ma/chuong-11/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_12_Sát_cơ.json",
+    "chapter_name": "Chương 12: Sát cơ",
+    "url": "https://truyenfull.io/cau-ma/chuong-12/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_13_Tà_man.json",
+    "chapter_name": "Chương 13: Tà man",
+    "url": "https://truyenfull.io/cau-ma/chuong-13/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_14_Lột_xác.json",
+    "chapter_name": "Chương 14: Lột xác",
+    "url": "https://truyenfull.io/cau-ma/chuong-14/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_15_A_Công.json",
+    "chapter_name": "Chương 15: A Công",
+    "url": "https://truyenfull.io/cau-ma/chuong-15/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_16_Man_Văn.json",
+    "chapter_name": "Chương 16: Man Văn",
+    "url": "https://truyenfull.io/cau-ma/chuong-16/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_17_Tiền_Man_Thuật.json",
+    "chapter_name": "Chương 17: Tiền Man Thuật",
+    "url": "https://truyenfull.io/cau-ma/chuong-17/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_18_Cánh_cửa_thứ_hai.json",
+    "chapter_name": "Chương 18: Cánh cửa thứ hai",
+    "url": "https://truyenfull.io/cau-ma/chuong-18/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_19_Bắc_Lăng.json",
+    "chapter_name": "Chương 19: Bắc Lăng",
+    "url": "https://truyenfull.io/cau-ma/chuong-19/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_20_Hàn_toan.json",
+    "chapter_name": "Chương 20: Hàn toan",
+    "url": "https://truyenfull.io/cau-ma/chuong-20/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_21_Chúng_ta_sẽ_thay_đổi_sao.json",
+    "chapter_name": "Chương 21: Chúng ta sẽ thay đổi sao",
+    "url": "https://truyenfull.io/cau-ma/chuong-21/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_22_Mới_gặp.json",
+    "chapter_name": "Chương 22: Mới gặp",
+    "url": "https://truyenfull.io/cau-ma/chuong-22/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_23_Hiện_tại_nó_đã_chết.json",
+    "chapter_name": "Chương 23: Hiện tại, nó đã chết",
+    "url": "https://truyenfull.io/cau-ma/chuong-23/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_24_Cô_ấy_gọi_là_Bạch_Linh.json",
+    "chapter_name": "Chương 24: Cô ấy gọi là Bạch Linh",
+    "url": "https://truyenfull.io/cau-ma/chuong-24/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_25_Huyết_nguyệt_sơ_hiện.json",
+    "chapter_name": "Chương 25: Huyết nguyệt sơ hiện",
+    "url": "https://truyenfull.io/cau-ma/chuong-25/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_26_Truyền_thuyết_Hỏa_Man.json",
+    "chapter_name": "Chương 26: Truyền thuyết Hỏa Man!",
+    "url": "https://truyenfull.io/cau-ma/chuong-26/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_27_Lệ_không.json",
+    "chapter_name": "Chương 27: Lệ không",
+    "url": "https://truyenfull.io/cau-ma/chuong-27/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_28_Bộ_lạc_vạn_năm_trước.json",
+    "chapter_name": "Chương 28: Bộ lạc vạn năm trước",
+    "url": "https://truyenfull.io/cau-ma/chuong-28/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_29_Bi_ngâm.json",
+    "chapter_name": "Chương 29: Bi ngâm",
+    "url": "https://truyenfull.io/cau-ma/chuong-29/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_30_Bỉ_thương_giả_thiên_cớ_gì_ngươi_khóc.json",
+    "chapter_name": "Chương 30: Bỉ thương giả thiên, cớ gì ngươi khóc",
+    "url": "https://truyenfull.io/cau-ma/chuong-30/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_31_Đoạn_thời_gian_tốt_đẹp_ấy.json",
+    "chapter_name": "Chương 31: Đoạn thời gian tốt đẹp ấy",
+    "url": "https://truyenfull.io/cau-ma/chuong-31/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_32_Tháng_năm_tuổi_trẻ_là_ai_đang_thở_dài.json",
+    "chapter_name": "Chương 32: Tháng năm tuổi trẻ là ai đang thở dài",
+    "url": "https://truyenfull.io/cau-ma/chuong-32/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_33_Thuật_Hỏa_Man.json",
+    "chapter_name": "Chương 33: Thuật Hỏa Man",
+    "url": "https://truyenfull.io/cau-ma/chuong-33/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_34_Hỏa_nguyệt_ló_mây.json",
+    "chapter_name": "Chương 34: Hỏa nguyệt ló mây",
+    "url": "https://truyenfull.io/cau-ma/chuong-34/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_35_Trào_phúng_vạn_năm_trước.json",
+    "chapter_name": "Chương 35: Trào phúng vạn năm trước",
+    "url": "https://truyenfull.io/cau-ma/chuong-35/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_36_Tiểu_Hồng_say_mê.json",
+    "chapter_name": "Chương 36: Tiểu Hồng say mê",
+    "url": "https://truyenfull.io/cau-ma/chuong-36/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_37_Huyết_hỏa_trùng_trùng.json",
+    "chapter_name": "Chương 37: Huyết hỏa trùng trùng!",
+    "url": "https://truyenfull.io/cau-ma/chuong-37/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_38_Tôi_muốn_biến_mạnh.json",
+    "chapter_name": "Chương 38: Tôi muốn biến mạnh!",
+    "url": "https://truyenfull.io/cau-ma/chuong-38/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_39_Địch_ý.json",
+    "chapter_name": "Chương 39: Địch ý!",
+    "url": "https://truyenfull.io/cau-ma/chuong-39/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_40_Tư_Không.json",
+    "chapter_name": "Chương 40: Tư Không",
+    "url": "https://truyenfull.io/cau-ma/chuong-40/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_41_Thiếu_nợ_thì_trả_tiền.json",
+    "chapter_name": "Chương 41: Thiếu nợ thì trả tiền",
+    "url": "https://truyenfull.io/cau-ma/chuong-41/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_42_Dạy_dỗ.json",
+    "chapter_name": "Chương 42: Dạy dỗ",
+    "url": "https://truyenfull.io/cau-ma/chuong-42/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_43_Mặc_Tang.json",
+    "chapter_name": "Chương 43: Mặc Tang",
+    "url": "https://truyenfull.io/cau-ma/chuong-43/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_44_Ngươi_chính_là_Tô_Minh.json",
+    "chapter_name": "Chương 44: Ngươi chính là Tô Minh?",
+    "url": "https://truyenfull.io/cau-ma/chuong-44/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_45_Một_năm_kia_mười_sáu_tuổi.json",
+    "chapter_name": "Chương 45: Một năm kia mười sáu tuổi",
+    "url": "https://truyenfull.io/cau-ma/chuong-45/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_46_Bí_mật_của_A_Công.json",
+    "chapter_name": "Chương 46: Bí mật của A Công",
+    "url": "https://truyenfull.io/cau-ma/chuong-46/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_47_Sáu_hàng_số.json",
+    "chapter_name": "Chương 47: Sáu hàng số!",
+    "url": "https://truyenfull.io/cau-ma/chuong-47/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_48_Một_kích_sấm_sét.json",
+    "chapter_name": "Chương 48: Một kích sấm sét!",
+    "url": "https://truyenfull.io/cau-ma/chuong-48/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_49_Ba_cách.json",
+    "chapter_name": "Chương 49: Ba cách!",
+    "url": "https://truyenfull.io/cau-ma/chuong-49/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_50_Chú_em_ta_và_cậu_có_duyên.json",
+    "chapter_name": "Chương 50: Chú em, ta và cậu có duyên!",
+    "url": "https://truyenfull.io/cau-ma/chuong-50/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_51_Lằn_ranh.json",
+    "chapter_name": "Chương 51: Lằn ranh",
+    "url": "https://truyenfull.io/cau-ma/chuong-51/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_52_Phong_Quyến_Sơn.json",
+    "chapter_name": "Chương 52: Phong Quyến Sơn",
+    "url": "https://truyenfull.io/cau-ma/chuong-52/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_53_Bí_mật_sáu_hàng_số.json",
+    "chapter_name": "Chương 53: Bí mật sáu hàng số",
+    "url": "https://truyenfull.io/cau-ma/chuong-53/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_54_Phát_hiện_tỉ_mỉ.json",
+    "chapter_name": "Chương 54: Phát hiện tỉ mỉ",
+    "url": "https://truyenfull.io/cau-ma/chuong-54/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_55_Nguyệt_dạ_thuộc_về_hắn.json",
+    "chapter_name": "Chương 55: Nguyệt dạ, thuộc về hắn!",
+    "url": "https://truyenfull.io/cau-ma/chuong-55/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_56_Ngưng_Huyết_cảnh_tầng_thứ_năm.json",
+    "chapter_name": "Chương 56: Ngưng Huyết cảnh tầng thứ năm!",
+    "url": "https://truyenfull.io/cau-ma/chuong-56/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_57_Ngươi_tin_hay_không.json",
+    "chapter_name": "Chương 57: Ngươi tin hay không?",
+    "url": "https://truyenfull.io/cau-ma/chuong-57/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_58_Chẻ_tre.json",
+    "chapter_name": "Chương 58: Chẻ tre!",
+    "url": "https://truyenfull.io/cau-ma/chuong-58/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_59_Hành_động_kinh_người.json",
+    "chapter_name": "Chương 59: Hành động kinh người!",
+    "url": "https://truyenfull.io/cau-ma/chuong-59/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_60_Bọn_họ_sợ.json",
+    "chapter_name": "Chương 60: Bọn họ, sợ!",
+    "url": "https://truyenfull.io/cau-ma/chuong-60/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_61_Mở_ra_dây_cột.json",
+    "chapter_name": "Chương 61: Mở ra dây cột",
+    "url": "https://truyenfull.io/cau-ma/chuong-61/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_62_Uy_hiếp_mạnh_mẽ.json",
+    "chapter_name": "Chương 62: Uy hiếp mạnh mẽ!",
+    "url": "https://truyenfull.io/cau-ma/chuong-62/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_63_Bậc_thang_tâm_luyện.json",
+    "chapter_name": "Chương 63: Bậc thang tâm luyện",
+    "url": "https://truyenfull.io/cau-ma/chuong-63/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_64_Diệp_Vọng_biến_sắc.json",
+    "chapter_name": "Chương 64: Diệp Vọng biến sắc!",
+    "url": "https://truyenfull.io/cau-ma/chuong-64/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_65_Đây_là_quyết_chiến.json",
+    "chapter_name": "Chương 65: Đây là quyết chiến!",
+    "url": "https://truyenfull.io/cau-ma/chuong-65/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_66_Huyết_hỏa_lại_cháy.json",
+    "chapter_name": "Chương 66: Huyết hỏa lại cháy!",
+    "url": "https://truyenfull.io/cau-ma/chuong-66/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_67_Ngưng_Huyết_tầng_thứ_sáu.json",
+    "chapter_name": "Chương 67: Ngưng Huyết tầng thứ sáu!",
+    "url": "https://truyenfull.io/cau-ma/chuong-67/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_68_Cố_gắng_cố_gắng.json",
+    "chapter_name": "Chương 68: Cố gắng, cố gắng",
+    "url": "https://truyenfull.io/cau-ma/chuong-68/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_69_Có_thể_cùng_tôi_đi_vòng_vòng_không_.json",
+    "chapter_name": "Chương 69: Có thể cùng tôi đi vòng vòng không ?",
+    "url": "https://truyenfull.io/cau-ma/chuong-69/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_70_A_Công_chuẩn_bị.json",
+    "chapter_name": "Chương 70: A Công chuẩn bị",
+    "url": "https://truyenfull.io/cau-ma/chuong-70/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_71_Khu_vực_Tây_Minh.json",
+    "chapter_name": "Chương 71: Khu vực Tây Minh",
+    "url": "https://truyenfull.io/cau-ma/chuong-71/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_72_Giới_Man_Sơn.json",
+    "chapter_name": "Chương 72: Giới Man Sơn!",
+    "url": "https://truyenfull.io/cau-ma/chuong-72/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_73_Là_hắn_ư.json",
+    "chapter_name": "Chương 73: Là hắn ư",
+    "url": "https://truyenfull.io/cau-ma/chuong-73/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_74_Cướp_tiền.json",
+    "chapter_name": "Chương 74: Cướp tiền!",
+    "url": "https://truyenfull.io/cau-ma/chuong-74/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_75_Cái_túi_rách.json",
+    "chapter_name": "Chương 75: Cái túi rách",
+    "url": "https://truyenfull.io/cau-ma/chuong-75/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_7677_Cùng_nhau_đi_vòng_vòng.json",
+    "chapter_name": "Chương 76-77: Cùng nhau đi vòng vòng",
+    "url": "https://truyenfull.io/cau-ma/chuong-76-77/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_78_Ước_hẹn_đó_là_ai_đang_thở_dài.json",
+    "chapter_name": "Chương 78: Ước hẹn đó, là ai đang thở dài",
+    "url": "https://truyenfull.io/cau-ma/chuong-78/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_79_Tôi_phải_trở_lại.json",
+    "chapter_name": "Chương 79: Tôi phải trở lại!",
+    "url": "https://truyenfull.io/cau-ma/chuong-79/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_80_Điên_cuồng_không_hối_hận.json",
+    "chapter_name": "Chương 80: Điên cuồng không hối hận!",
+    "url": "https://truyenfull.io/cau-ma/chuong-80/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_81_Không_thể.json",
+    "chapter_name": "Chương 81: Không thể!",
+    "url": "https://truyenfull.io/cau-ma/chuong-81/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_82_Tô_Minh_Diệp_Vọng.json",
+    "chapter_name": "Chương 82: Tô Minh, Diệp Vọng!",
+    "url": "https://truyenfull.io/cau-ma/chuong-82/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_83_Phong_Quyến_Sơn_kinh_biến.json",
+    "chapter_name": "Chương 83: Phong Quyến Sơn kinh biến!",
+    "url": "https://truyenfull.io/cau-ma/chuong-83/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_84_Nhìn_thấy_bộ_lạc.json",
+    "chapter_name": "Chương 84: Nhìn thấy bộ lạc",
+    "url": "https://truyenfull.io/cau-ma/chuong-84/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_85_Lưu_luyến_quê_hương.json",
+    "chapter_name": "Chương 85: Lưu luyến quê hương",
+    "url": "https://truyenfull.io/cau-ma/chuong-85/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_86_Hắc_Sơn_bộ_lạc_truy_sát.json",
+    "chapter_name": "Chương 86: Hắc Sơn bộ lạc truy sát!",
+    "url": "https://truyenfull.io/cau-ma/chuong-86/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_87_Kẻ_phản_bội_là_ai.json",
+    "chapter_name": "Chương 87: Kẻ phản bội là ai?",
+    "url": "https://truyenfull.io/cau-ma/chuong-87/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_88_Táng_ca.json",
+    "chapter_name": "Chương 88: Táng ca",
+    "url": "https://truyenfull.io/cau-ma/chuong-88/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_89_Trôi_qua_rồi_hãy_để_nó_qua_đi.json",
+    "chapter_name": "Chương 89: Trôi qua rồi, hãy để nó qua đi",
+    "url": "https://truyenfull.io/cau-ma/chuong-89/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_90_Tuẫn_táng_và_bi_thương.json",
+    "chapter_name": "Chương 90: Tuẫn táng và bi thương",
+    "url": "https://truyenfull.io/cau-ma/chuong-90/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_91_Tất_Túc_Hắc_Sơn_bộ_lạc.json",
+    "chapter_name": "Chương 91: Tất Túc Hắc Sơn bộ lạc",
+    "url": "https://truyenfull.io/cau-ma/chuong-91/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_92_Huyết_nguyệt.json",
+    "chapter_name": "Chương 92: Huyết nguyệt",
+    "url": "https://truyenfull.io/cau-ma/chuong-92/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_93_Mũi_tên_thứ_tư.json",
+    "chapter_name": "Chương 93: Mũi tên thứ tư",
+    "url": "https://truyenfull.io/cau-ma/chuong-93/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_94_Là_ai_giết_Túc_nhi_của_ta.json",
+    "chapter_name": "Chương 94: Là ai giết Túc nhi của ta!?",
+    "url": "https://truyenfull.io/cau-ma/chuong-94/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_95_Thức_tỉnh.json",
+    "chapter_name": "Chương 95: Thức tỉnh!",
+    "url": "https://truyenfull.io/cau-ma/chuong-95/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_96_Thảo_nguyên_Phong_Quyến.json",
+    "chapter_name": "Chương 96: Thảo nguyên Phong Quyến!",
+    "url": "https://truyenfull.io/cau-ma/chuong-96/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_97_Kẻ_phản_bội_là_gã.json",
+    "chapter_name": "Chương 97: Kẻ phản bội là gã!",
+    "url": "https://truyenfull.io/cau-ma/chuong-97/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_98_Lựa_chọn_của_Lôi_Thần.json",
+    "chapter_name": "Chương 98: Lựa chọn của Lôi Thần!",
+    "url": "https://truyenfull.io/cau-ma/chuong-98/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_99_Truy_sát.json",
+    "chapter_name": "Chương 99: Truy sát!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-99/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_100_Ngay_mặt_cắt_đầu.json",
+    "chapter_name": "Chương 100: Ngay mặt cắt đầu!",
+    "url": "https://truyenfull.io/cau-ma/chuong-100/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_101_Vì_sao.json",
+    "chapter_name": "Chương 101: Vì sao",
+    "url": "https://truyenfull.io/cau-ma/chuong-101/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_102_Sơn_Ngân.json",
+    "chapter_name": "Chương 102: Sơn Ngân",
+    "url": "https://truyenfull.io/cau-ma/chuong-102/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_103_Nơi_gần_với_trời_nhất.json",
+    "chapter_name": "Chương 103: Nơi gần với trời nhất",
+    "url": "https://truyenfull.io/cau-ma/chuong-103/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_104_Đạp_nguyệt_chiến_đấu.json",
+    "chapter_name": "Chương 104: Đạp nguyệt chiến đấu!",
+    "url": "https://truyenfull.io/cau-ma/chuong-104/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_105_Đạp_nguyệt_chiến_đấu_2.json",
+    "chapter_name": "Chương 105: Đạp nguyệt chiến đấu! (2)",
+    "url": "https://truyenfull.io/cau-ma/chuong-105/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_106_Tà_Man_giáng_thế.json",
+    "chapter_name": "Chương 106: Tà Man giáng thế!",
+    "url": "https://truyenfull.io/cau-ma/chuong-106/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_107_Bí_mật_của_A_Công.json",
+    "chapter_name": "Chương 107: Bí mật của A Công!",
+    "url": "https://truyenfull.io/cau-ma/chuong-107/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_108_Hình.json",
+    "chapter_name": "Chương 108: Hình!",
+    "url": "https://truyenfull.io/cau-ma/chuong-108/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_109_Một_lá_cờ.json",
+    "chapter_name": "Chương 109: Một lá cờ!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-109/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_110_Gió_cuốn_mây_bay.json",
+    "chapter_name": "Chương 110: Gió cuốn mây bay",
+    "url": "https://truyenfull.io/cau-ma/chuong-110/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_111_Tô_Minh_tỉnh_lại_ở_nơi_xa_lạ.json",
+    "chapter_name": "Chương 111: Tô Minh tỉnh lại ở nơi xa lạ",
+    "url": "https://truyenfull.io/cau-ma/chuong-111/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_112_Sét_đánh_mộc_sinh_hỏa.json",
+    "chapter_name": "Chương 112: Sét đánh mộc sinh hỏa",
+    "url": "https://truyenfull.io/cau-ma/chuong-112/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_113_Ngộ_sinh.json",
+    "chapter_name": "Chương 113: Ngộ sinh",
+    "url": "https://truyenfull.io/cau-ma/chuong-113/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_114_Vùng_đất_của_Nam_Thần.json",
+    "chapter_name": "Chương 114: Vùng đất của Nam Thần!",
+    "url": "https://truyenfull.io/cau-ma/chuong-114/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_115_Bất_phạm_vãng_quá.json",
+    "chapter_name": "Chương 115: Bất phạm vãng quá!",
+    "url": "https://truyenfull.io/cau-ma/chuong-115/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_116_Đoạt_Linh_Dược.json",
+    "chapter_name": "Chương 116: Đoạt Linh Dược",
+    "url": "https://truyenfull.io/cau-ma/chuong-116/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_117_Đi_ra.json",
+    "chapter_name": "Chương 117: Đi ra",
+    "url": "https://truyenfull.io/cau-ma/chuong-117/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_118_Hàm_Sơn_Thành.json",
+    "chapter_name": "Chương 118: Hàm Sơn Thành",
+    "url": "https://truyenfull.io/cau-ma/chuong-118/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_119_Là_hắn.json",
+    "chapter_name": "Chương 119: Là hắn!",
+    "url": "https://truyenfull.io/cau-ma/chuong-119/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_120_Hòa_Phong.json",
+    "chapter_name": "Chương 120: Hòa Phong",
+    "url": "https://truyenfull.io/cau-ma/chuong-120/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_121_Hàn_Phỉ_Tử.json",
+    "chapter_name": "Chương 121: Hàn Phỉ Tử",
+    "url": "https://truyenfull.io/cau-ma/chuong-121/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_122_Tô_Minh_thăm_dò.json",
+    "chapter_name": "Chương 122: Tô Minh thăm dò",
+    "url": "https://truyenfull.io/cau-ma/chuong-122/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_123_Lễ_vật_từ_tộc_trưởng_An_Đông_bộ_lạc.json",
+    "chapter_name": "Chương 123: Lễ vật từ tộc trưởng An Đông bộ lạc",
+    "url": "https://truyenfull.io/cau-ma/chuong-123/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_124_Hứa_huynh_chạy_mau.json",
+    "chapter_name": "Chương 124: Hứa huynh, chạy mau!",
+    "url": "https://truyenfull.io/cau-ma/chuong-124/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_125_Hòa_Phong_Hứa_ta_đến_đây.json",
+    "chapter_name": "Chương 125: Hòa Phong, Hứa ta đến đây!",
+    "url": "https://truyenfull.io/cau-ma/chuong-125/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_126_Một_vấn_đề_cuối_cùng.json",
+    "chapter_name": "Chương 126: Một vấn đề cuối cùng",
+    "url": "https://truyenfull.io/cau-ma/chuong-126/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_127_Bí_mật_Hàm_Sơn_Thành.json",
+    "chapter_name": "Chương 127: Bí mật Hàm Sơn Thành!",
+    "url": "https://truyenfull.io/cau-ma/chuong-127/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_128_Thu_hoạch_lớn.json",
+    "chapter_name": "Chương 128: Thu hoạch lớn",
+    "url": "https://truyenfull.io/cau-ma/chuong-128/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_129_Một_tấm_da_thú.json",
+    "chapter_name": "Chương 129: Một tấm da thú",
+    "url": "https://truyenfull.io/cau-ma/chuong-129/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_130_Bãi_cỏ_đỏ.json",
+    "chapter_name": "Chương 130: Bãi cỏ đỏ",
+    "url": "https://truyenfull.io/cau-ma/chuong-130/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_131_Kinh_biến_trong_lúc_bình_yên.json",
+    "chapter_name": "Chương 131: Kinh biến trong lúc bình yên",
+    "url": "https://truyenfull.io/cau-ma/chuong-131/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_132_Hàn_Phỉ_Tử.json",
+    "chapter_name": "Chương 132: Hàn Phỉ Tử!",
+    "url": "https://truyenfull.io/cau-ma/chuong-132/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_133_Học_gian_dối.json",
+    "chapter_name": "Chương 133: Học gian dối",
+    "url": "https://truyenfull.io/cau-ma/chuong-133/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_134_Nó_gọi_là_túi_trữ_vật.json",
+    "chapter_name": "Chương 134: Nó gọi là túi trữ vật!",
+    "url": "https://truyenfull.io/cau-ma/chuong-134/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_135_Ngưng_Huyết_tầng_thứ_tám.json",
+    "chapter_name": "Chương 135: Ngưng Huyết tầng thứ tám!",
+    "url": "https://truyenfull.io/cau-ma/chuong-135/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_136_Báu_vật_Hàm_Sơn.json",
+    "chapter_name": "Chương 136: Báu vật Hàm Sơn",
+    "url": "https://truyenfull.io/cau-ma/chuong-136/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_137_Phân_biệt_đãi_ngộ.json",
+    "chapter_name": "Chương 137: Phân biệt đãi ngộ",
+    "url": "https://truyenfull.io/cau-ma/chuong-137/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_138_Ngưng_Huyết_Hậu_Kì.json",
+    "chapter_name": "Chương 138: Ngưng Huyết Hậu Kì",
+    "url": "https://truyenfull.io/cau-ma/chuong-138/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_139_Bế_quan.json",
+    "chapter_name": "Chương 139: Bế quan",
+    "url": "https://truyenfull.io/cau-ma/chuong-139/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_140_Thăm_viếng_An_Đông.json",
+    "chapter_name": "Chương 140: Thăm viếng An Đông",
+    "url": "https://truyenfull.io/cau-ma/chuong-140/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_141_Khách_quý.json",
+    "chapter_name": "Chương 141: Khách quý",
+    "url": "https://truyenfull.io/cau-ma/chuong-141/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_142_Biến_mất_nhiều_năm_qua.json",
+    "chapter_name": "Chương 142: Biến mất nhiều năm qua",
+    "url": "https://truyenfull.io/cau-ma/chuong-142/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_143_Ta_quên_cái_gì.json",
+    "chapter_name": "Chương 143: Ta quên cái gì",
+    "url": "https://truyenfull.io/cau-ma/chuong-143/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_144_Để_Phương_ta_xem_thử.json",
+    "chapter_name": "Chương 144: Để Phương ta xem thử",
+    "url": "https://truyenfull.io/cau-ma/chuong-144/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_145_Hắn.json",
+    "chapter_name": "Chương 145: Hắn",
+    "url": "https://truyenfull.io/cau-ma/chuong-145/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_146_Gặp_lại_Huyền_Luân.json",
+    "chapter_name": "Chương 146: Gặp lại Huyền Luân",
+    "url": "https://truyenfull.io/cau-ma/chuong-146/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_147_Bầu_trời_sao_đó.json",
+    "chapter_name": "Chương 147: Bầu trời sao đó",
+    "url": "https://truyenfull.io/cau-ma/chuong-147/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_148_Đi_hướng_mục_đích.json",
+    "chapter_name": "Chương 148: Đi hướng mục đích",
+    "url": "https://truyenfull.io/cau-ma/chuong-148/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_149_Tổ_tiên_Hàm_Sơn_không_chết.json",
+    "chapter_name": "Chương 149: Tổ tiên Hàm Sơn không chết!",
+    "url": "https://truyenfull.io/cau-ma/chuong-149/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_150_Truy_đuổi.json",
+    "chapter_name": "Chương 150: Truy đuổi",
+    "url": "https://truyenfull.io/cau-ma/chuong-150/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_151_Phản_kích.json",
+    "chapter_name": "Chương 151: Phản kích",
+    "url": "https://truyenfull.io/cau-ma/chuong-151/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_152_Nhìn_không_thấu_cô_gái_này.json",
+    "chapter_name": "Chương 152: Nhìn không thấu cô gái này",
+    "url": "https://truyenfull.io/cau-ma/chuong-152/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_153_Mặc_Tô_đại_nhân.json",
+    "chapter_name": "Chương 153: Mặc Tô đại nhân",
+    "url": "https://truyenfull.io/cau-ma/chuong-153/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_154_Man_Thần.json",
+    "chapter_name": "Chương 154: Man Thần!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-154/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_155_Có_một_số_lời_không_thể_nghe.json",
+    "chapter_name": "Chương 155: Có một số lời không thể nghe",
+    "url": "https://truyenfull.io/cau-ma/chuong-155/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_156_Có_một_số_lời_không_thể_nói.json",
+    "chapter_name": "Chương 156: Có một số lời không thể nói",
+    "url": "https://truyenfull.io/cau-ma/chuong-156/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_157_Ánh_mắt_lạnh_lùng.json",
+    "chapter_name": "Chương 157: Ánh mắt lạnh lùng",
+    "url": "https://truyenfull.io/cau-ma/chuong-157/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_158_Số_mệnh.json",
+    "chapter_name": "Chương 158: Số mệnh!",
+    "url": "https://truyenfull.io/cau-ma/chuong-158/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_159_Truyền_tống_phá_cấm_chế.json",
+    "chapter_name": "Chương 159: Truyền tống phá cấm chế!",
+    "url": "https://truyenfull.io/cau-ma/chuong-159/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_160_Hàm_Không.json",
+    "chapter_name": "Chương 160: Hàm Không!",
+    "url": "https://truyenfull.io/cau-ma/chuong-160/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_161_Mất_trí_nhớ.json",
+    "chapter_name": "Chương 161: Mất trí nhớ!",
+    "url": "https://truyenfull.io/cau-ma/chuong-161/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_162_Dẫn_ta_đi.json",
+    "chapter_name": "Chương 162: Dẫn ta đi!",
+    "url": "https://truyenfull.io/cau-ma/chuong-162/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_163_Nếu_không_chết_thì_là_tạo_hóa.json",
+    "chapter_name": "Chương 163: Nếu không chết thì là tạo hóa",
+    "url": "https://truyenfull.io/cau-ma/chuong-163/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_164_Ta_là_ai.json",
+    "chapter_name": "Chương 164: Ta là ai",
+    "url": "https://truyenfull.io/cau-ma/chuong-164/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_165_Tự_xem.json",
+    "chapter_name": "Chương 165: Tự xem",
+    "url": "https://truyenfull.io/cau-ma/chuong-165/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_166_Hoàn_thành_Ngưng_Huyết_cảnh.json",
+    "chapter_name": "Chương 166: Hoàn thành Ngưng Huyết cảnh!",
+    "url": "https://truyenfull.io/cau-ma/chuong-166/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_167_Tham_một_lần_lớn.json",
+    "chapter_name": "Chương 167: Tham một lần lớn!",
+    "url": "https://truyenfull.io/cau-ma/chuong-167/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_168_Đại_thần_tượng_.json",
+    "chapter_name": "Chương 168: Đại thần tượng !",
+    "url": "https://truyenfull.io/cau-ma/chuong-168/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_169_Chú_ở_đây.json",
+    "chapter_name": "Chương 169: Chú, ở đây…",
+    "url": "https://truyenfull.io/cau-ma/chuong-169/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_170_Tư_Mã_Tín.json",
+    "chapter_name": "Chương 170: Tư Mã Tín!",
+    "url": "https://truyenfull.io/cau-ma/chuong-170/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_171_Lại_một_ước_hẹn.json",
+    "chapter_name": "Chương 171: Lại một ước hẹn",
+    "url": "https://truyenfull.io/cau-ma/chuong-171/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_172_Hàm_Sơn_Xích_trong_mưa.json",
+    "chapter_name": "Chương 172: Hàm Sơn Xích trong mưa",
+    "url": "https://truyenfull.io/cau-ma/chuong-172/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_173_Chuông_ngân_kinh_người_.json",
+    "chapter_name": "Chương 173: Chuông ngân kinh người !",
+    "url": "https://truyenfull.io/cau-ma/chuong-173/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_174_Bối_Sơn_Quy_Huyền.json",
+    "chapter_name": "Chương 174: Bối Sơn Quy Huyền",
+    "url": "https://truyenfull.io/cau-ma/chuong-174/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_175_Bảo_vật_vô_giá.json",
+    "chapter_name": "Chương 175: Bảo vật vô giá!",
+    "url": "https://truyenfull.io/cau-ma/chuong-175/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_176_Cửu_Anh.json",
+    "chapter_name": "Chương 176: Cửu Anh",
+    "url": "https://truyenfull.io/cau-ma/chuong-176/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_177_Chưa_chắc_ư.json",
+    "chapter_name": "Chương 177: Chưa chắc ư",
+    "url": "https://truyenfull.io/cau-ma/chuong-177/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_178_Hàm_Sơn_Xích.json",
+    "chapter_name": "Chương 178: Hàm Sơn Xích",
+    "url": "https://truyenfull.io/cau-ma/chuong-178/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_179_Thay_đổi_tính_cách.json",
+    "chapter_name": "Chương 179: Thay đổi tính cách",
+    "url": "https://truyenfull.io/cau-ma/chuong-179/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_180_Bí_mật_Hàm_Sơn_Xích.json",
+    "chapter_name": "Chương 180: Bí mật Hàm Sơn Xích",
+    "url": "https://truyenfull.io/cau-ma/chuong-180/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_181_Lôi_Thần.json",
+    "chapter_name": "Chương 181: Lôi Thần!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-181/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_182_Thất_bại.json",
+    "chapter_name": "Chương 182: Thất bại",
+    "url": "https://truyenfull.io/cau-ma/chuong-182/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_183_Thức_tỉnh.json",
+    "chapter_name": "Chương 183: Thức tỉnh!",
+    "url": "https://truyenfull.io/cau-ma/chuong-183/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_184_A_Công_xuất_hiện_đi.json",
+    "chapter_name": "Chương 184: A Công, xuất hiện đi",
+    "url": "https://truyenfull.io/cau-ma/chuong-184/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_185_Không_đồng_ý.json",
+    "chapter_name": "Chương 185: Không đồng ý!",
+    "url": "https://truyenfull.io/cau-ma/chuong-185/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_186_Bùng_phát_trong_im_lặng.json",
+    "chapter_name": "Chương 186: Bùng phát trong im lặng",
+    "url": "https://truyenfull.io/cau-ma/chuong-186/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_187_Là_hắn.json",
+    "chapter_name": "Chương 187: Là hắn!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-187/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_188_Hoàn_mỹ.json",
+    "chapter_name": "Chương 188: Hoàn mỹ!",
+    "url": "https://truyenfull.io/cau-ma/chuong-188/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_189_Sứ_giả_Thiên_Hàn_đến.json",
+    "chapter_name": "Chương 189: Sứ giả Thiên Hàn đến",
+    "url": "https://truyenfull.io/cau-ma/chuong-189/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_190_Chắc_là_sư_muội.json",
+    "chapter_name": "Chương 190: Chắc là sư muội!",
+    "url": "https://truyenfull.io/cau-ma/chuong-190/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_191_Luyện_Hòa_Phong.json",
+    "chapter_name": "Chương 191: Luyện Hòa Phong!",
+    "url": "https://truyenfull.io/cau-ma/chuong-191/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_192_Đối_kháng_thần_tượng.json",
+    "chapter_name": "Chương 192: Đối kháng thần tượng!",
+    "url": "https://truyenfull.io/cau-ma/chuong-192/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_193_Khai_Trần.json",
+    "chapter_name": "Chương 193: Khai Trần!!!",
+    "url": "https://truyenfull.io/cau-ma/chuong-193/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_194_Phong_thần_tượng.json",
+    "chapter_name": "Chương 194: Phong thần tượng!",
+    "url": "https://truyenfull.io/cau-ma/chuong-194/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_195_Bảo_bối_Khai_Trần.json",
+    "chapter_name": "Chương 195: Bảo bối Khai Trần!",
+    "url": "https://truyenfull.io/cau-ma/chuong-195/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_196_Lực_lượng_sét.json",
+    "chapter_name": "Chương 196: Lực lượng sét",
+    "url": "https://truyenfull.io/cau-ma/chuong-196/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_197_Đã_lâu_không_gặp_Phương_sư_muội.json",
+    "chapter_name": "Chương 197: Đã lâu không gặp, Phương sư muội",
+    "url": "https://truyenfull.io/cau-ma/chuong-197/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_198_Tư_Mã_Tín.json",
+    "chapter_name": "Chương 198: Tư Mã Tín!",
+    "url": "https://truyenfull.io/cau-ma/chuong-198/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_199_Rời_đi.json",
+    "chapter_name": "Chương 199: Rời đi",
+    "url": "https://truyenfull.io/cau-ma/chuong-199/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_200_Thiên_Tà_Tử.json",
+    "chapter_name": "Chương 200: Thiên Tà Tử!",
+    "url": "https://truyenfull.io/cau-ma/chuong-200/"
+  },
+  {
+    "path": "data/Cầu_Ma/Chương_201_Man_Văn.json",
+    "chapter_name": "Chương 201: Man Văn",
+    "url": "https://truyenfull.io/cau-ma/chuong-201/"
+  }
+]
