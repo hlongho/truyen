@@ -1,0 +1,492 @@
+[
+  {
+    "path": "data/Tỏ_Tình/Chương_1_Gặp_lại.json",
+    "chapter_name": "Chương 1: Gặp lại",
+    "url": "https://truyenfull.io/to-tinh/chuong-1/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_2_Chúng_tôi_không_có_quan_hệ.json",
+    "chapter_name": "Chương 2: Chúng tôi không có quan hệ",
+    "url": "https://truyenfull.io/to-tinh/chuong-2/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_3_Bắt_gặp_cảnh_tượng_mờ_ám_phóng_đãng_của_anh.json",
+    "chapter_name": "Chương 3: Bắt gặp cảnh tượng mờ ám phóng đãng của anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-3/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_4_Cậu_thích_cậu_ta_à.json",
+    "chapter_name": "Chương 4: Cậu thích cậu ta à?",
+    "url": "https://truyenfull.io/to-tinh/chuong-4/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_5_Châu_Kinh_Trạch_nói_qua_loa_đại_khái_Chia_tay_rồi.json",
+    "chapter_name": "Chương 5: Châu Kinh Trạch nói qua loa đại khái: \"Chia tay rồi.\"",
+    "url": "https://truyenfull.io/to-tinh/chuong-5/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_6_Kẹo_bạc_hà_màu_xanh_lá.json",
+    "chapter_name": "Chương 6: Kẹo bạc hà màu xanh lá",
+    "url": "https://truyenfull.io/to-tinh/chuong-6/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_7_Người_này_hiện_đã_là_bạn_bè_của_bạn_hãy_gửi_lời_chào_đến_họ.json",
+    "chapter_name": "Chương 7: Người này hiện đã là bạn bè của bạn, hãy gửi lời chào đến họ.",
+    "url": "https://truyenfull.io/to-tinh/chuong-7/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_8_Mẹ_kiếp_như_này_ai_mà_chịu_được.json",
+    "chapter_name": "Chương 8: Mẹ kiếp, như này ai mà chịu được.",
+    "url": "https://truyenfull.io/to-tinh/chuong-8/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_9_Sao_lại_có_người_xấu_xa_như_vậy_chứ.json",
+    "chapter_name": "Chương 9: Sao lại có người xấu xa như vậy chứ",
+    "url": "https://truyenfull.io/to-tinh/chuong-9/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_10_Đổi_cho_cô_một_cốc_sữa.json",
+    "chapter_name": "Chương 10: Đổi cho cô một cốc sữa",
+    "url": "https://truyenfull.io/to-tinh/chuong-10/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_11_Đúng_là_có_chút_hứng_thú.json",
+    "chapter_name": "Chương 11: Đúng là có chút hứng thú",
+    "url": "https://truyenfull.io/to-tinh/chuong-11/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_12_Dì_giữ_người_của_cháu_ở_đây_rồi.json",
+    "chapter_name": "Chương 12: Dì giữ người của cháu ở đây rồi",
+    "url": "https://truyenfull.io/to-tinh/chuong-12/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_13_Cảm_nhận_được_hơi_ấm_từ_khung_xương_của_anh.json",
+    "chapter_name": "Chương 13: Cảm nhận được hơi ấm từ khung xương của anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-13/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_14_Băng_cá_nhân_màu_hồng.json",
+    "chapter_name": "Chương 14: Băng cá nhân màu hồng",
+    "url": "https://truyenfull.io/to-tinh/chuong-14/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_15_Nắm_chặt_tay_nhau_trong_bóng_tối.json",
+    "chapter_name": "Chương 15: Nắm chặt tay nhau trong bóng tối",
+    "url": "https://truyenfull.io/to-tinh/chuong-15/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_16_Vô_tình_cố_ý_né_tránh_anh.json",
+    "chapter_name": "Chương 16: Vô tình cố ý né tránh anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-16/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_17_Thật_ra_mình_và_cậu_là_bạn_học_cùng_lớp_hồi_cấp_ba.json",
+    "chapter_name": "Chương 17: Thật ra mình và cậu là bạn học cùng lớp hồi cấp ba",
+    "url": "https://truyenfull.io/to-tinh/chuong-17/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_18_Kiểu_con_gái_ngoan_thế_này_cậu_cũng_thích_à.json",
+    "chapter_name": "Chương 18: Kiểu con gái ngoan thế này, cậu cũng thích à?",
+    "url": "https://truyenfull.io/to-tinh/chuong-18/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_19_Hứa_Tùy_lại_đây.json",
+    "chapter_name": "Chương 19: Hứa Tùy, lại đây.",
+    "url": "https://truyenfull.io/to-tinh/chuong-19/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_20_Hứa_Tùy_chúc_cậu_sinh_nhật_vui_vẻ.json",
+    "chapter_name": "Chương 20: Hứa Tùy, chúc cậu sinh nhật vui vẻ.",
+    "url": "https://truyenfull.io/to-tinh/chuong-20/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_21_Bây_giờ_theo_đuổi_cậu_cần_phải_xếp_hàng_sao.json",
+    "chapter_name": "Chương 21: Bây giờ theo đuổi cậu cần phải xếp hàng sao?",
+    "url": "https://truyenfull.io/to-tinh/chuong-21/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_22_Là_mèo_của_hai_người.json",
+    "chapter_name": "Chương 22: Là mèo của hai người",
+    "url": "https://truyenfull.io/to-tinh/chuong-22/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_23_Đối_phương_gửi_đến_yêu_cầu_gọi_video.json",
+    "chapter_name": "Chương 23: Đối phương gửi đến yêu cầu gọi video",
+    "url": "https://truyenfull.io/to-tinh/chuong-23/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_24_Cậu_ấy_không_thích_mày_là_sự_thật.json",
+    "chapter_name": "Chương 24: Cậu ấy không thích mày là sự thật",
+    "url": "https://truyenfull.io/to-tinh/chuong-24/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_25_Ông_đây_không_muốn_cho_cậu_đi_cậu_đi_được_chắc.json",
+    "chapter_name": "Chương 25: Ông đây không muốn cho cậu đi, cậu đi được chắc?",
+    "url": "https://truyenfull.io/to-tinh/chuong-25/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_26_Lần_đầu_tiên_trong_đời_bị_gạt_sang_một_bên.json",
+    "chapter_name": "Chương 26: Lần đầu tiên trong đời bị gạt sang một bên",
+    "url": "https://truyenfull.io/to-tinh/chuong-26/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_27_Có_phải_áo_của_mình_vẫn_ở_chỗ_cậu_không.json",
+    "chapter_name": "Chương 27: Có phải áo của mình vẫn ở chỗ cậu không?",
+    "url": "https://truyenfull.io/to-tinh/chuong-27/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_28_Cậu_thả_mình_xuống_trước_đã.json",
+    "chapter_name": "Chương 28: Cậu thả mình xuống trước đã",
+    "url": "https://truyenfull.io/to-tinh/chuong-28/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_29_Crush_Tình_yêu_thầm_kín_cháy_bỏng_nhưng_nhút_nhát_và_ngắn_ngủi.json",
+    "chapter_name": "Chương 29: \"Crush\" Tình yêu thầm kín cháy bỏng nhưng nhút nhát và ngắn ngủi",
+    "url": "https://truyenfull.io/to-tinh/chuong-29/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_30_Khiến_người_ta_rung_động.json",
+    "chapter_name": "Chương 30: Khiến người ta rung động",
+    "url": "https://truyenfull.io/to-tinh/chuong-30/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_31_Xin_lỗi_nhé_cậu_ngoan_quá_rồi.json",
+    "chapter_name": "Chương 31: Xin lỗi nhé, cậu ngoan quá rồi",
+    "url": "https://truyenfull.io/to-tinh/chuong-31/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_32_Bắt_đầu_từ_hôm_nay_sẽ_thử_ăn_đồ_Ngọt.json",
+    "chapter_name": "Chương 32: Bắt đầu từ hôm nay sẽ thử ăn đồ Ngọt",
+    "url": "https://truyenfull.io/to-tinh/chuong-32/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_33_Anh_đăng_một_bài_viết_lên_vòng_bạn_bè.json",
+    "chapter_name": "Chương 33: Anh đăng một bài viết lên vòng bạn bè",
+    "url": "https://truyenfull.io/to-tinh/chuong-33/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_34_Chạm_nhẹ_khóe_môi_cô.json",
+    "chapter_name": "Chương 34: Chạm nhẹ khóe môi cô",
+    "url": "https://truyenfull.io/to-tinh/chuong-34/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_35_Xoa_khẽ_một_cái_như_có_như_không.json",
+    "chapter_name": "Chương 35: Xoa khẽ một cái như có như không",
+    "url": "https://truyenfull.io/to-tinh/chuong-35/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_36_Chịu_rồi_sao_lại_có_người_lắm_chuyện_vậy_chứ.json",
+    "chapter_name": "Chương 36: Chịu rồi, sao lại có người lắm chuyện vậy chứ",
+    "url": "https://truyenfull.io/to-tinh/chuong-36/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_37_Hôn_nhau_cách_một_chiếc_khăn_giấy_à_có_ướt_át_không_vậy.json",
+    "chapter_name": "Chương 37: “Hôn nhau cách một chiếc khăn giấy à, có ướt át không vậy?”",
+    "url": "https://truyenfull.io/to-tinh/chuong-37/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_38_Bây_giờ_là_của_anh.json",
+    "chapter_name": "Chương 38: Bây giờ là của anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-38/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_39_Anh_ở_đây_dỗ_dành_cô.json",
+    "chapter_name": "Chương 39: Anh ở đây dỗ dành cô",
+    "url": "https://truyenfull.io/to-tinh/chuong-39/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_40_Vẫn_không_tin_trả_lời.json",
+    "chapter_name": "Chương 40: Vẫn không tin trả lời",
+    "url": "https://truyenfull.io/to-tinh/chuong-40/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_41_Quan_trọng_là_ông_đây_cực_thích.json",
+    "chapter_name": "Chương 41: Quan trọng là ông đây cực thích",
+    "url": "https://truyenfull.io/to-tinh/chuong-41/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_42_Đó_là_vợ_của_ông_đây.json",
+    "chapter_name": "Chương 42: Đó là vợ của ông đây",
+    "url": "https://truyenfull.io/to-tinh/chuong-42/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_43_Ngoan_há_miệng_ra.json",
+    "chapter_name": "Chương 43: Ngoan, há miệng ra",
+    "url": "https://truyenfull.io/to-tinh/chuong-43/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_44_Chủ_động_hôn_anh_một_cái_phát_ra_một_tiếng_chụt.json",
+    "chapter_name": "Chương 44: Chủ động hôn anh một cái, phát ra một tiếng “chụt”",
+    "url": "https://truyenfull.io/to-tinh/chuong-44/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_45_Cô_cảm_thấy_mình_rất_buồn_cười.json",
+    "chapter_name": "Chương 45: Cô cảm thấy mình rất buồn cười",
+    "url": "https://truyenfull.io/to-tinh/chuong-45/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_46_Không_phải_là_không_thích.json",
+    "chapter_name": "Chương 46: Không phải là không thích",
+    "url": "https://truyenfull.io/to-tinh/chuong-46/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_47_Đừng_nhúc_nhích_năm_phút.json",
+    "chapter_name": "Chương 47: Đừng nhúc nhích, năm phút",
+    "url": "https://truyenfull.io/to-tinh/chuong-47/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_48_Tôi_yêu_thích_bạn.json",
+    "chapter_name": "Chương 48: Tôi, yêu, thích, bạn",
+    "url": "https://truyenfull.io/to-tinh/chuong-48/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_49_Ôm_cô_đến_bồn_rửa_tay.json",
+    "chapter_name": "Chương 49: Ôm cô đến bồn rửa tay",
+    "url": "https://truyenfull.io/to-tinh/chuong-49/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_50_Trước_đây_cô_ta_từng_theo_đuổi_cậu_của_tớ.json",
+    "chapter_name": "Chương 50: Trước đây cô ta từng theo đuổi cậu của tớ",
+    "url": "https://truyenfull.io/to-tinh/chuong-50/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_51_Chúng_ta_dừng_lại_đi.json",
+    "chapter_name": "Chương 51: Chúng ta dừng lại đi",
+    "url": "https://truyenfull.io/to-tinh/chuong-51/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_52_Anh_có_thể_đừng_quấn_lấy_tôi_nữa_được_không.json",
+    "chapter_name": "Chương 52: Anh có thể đừng quấn lấy tôi nữa được không",
+    "url": "https://truyenfull.io/to-tinh/chuong-52/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_53_Xuống_xe_Anh_nói.json",
+    "chapter_name": "Chương 53: “Xuống xe.” Anh nói",
+    "url": "https://truyenfull.io/to-tinh/chuong-53/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_54_Nhìn_thấy_cô_và_người_đàn_ông_khác.json",
+    "chapter_name": "Chương 54: Nhìn thấy cô và người đàn ông khác",
+    "url": "https://truyenfull.io/to-tinh/chuong-54/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_55_Cả_người_bị_đè_lên_tường.json",
+    "chapter_name": "Chương 55: Cả người bị đè lên tường",
+    "url": "https://truyenfull.io/to-tinh/chuong-55/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_56_Chúng_ta_đã_chia_tay_rồi.json",
+    "chapter_name": "Chương 56: Chúng ta đã chia tay rồi",
+    "url": "https://truyenfull.io/to-tinh/chuong-56/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_57_Càng_ngày_càng_có_bản_lĩnh.json",
+    "chapter_name": "Chương 57: Càng ngày càng có bản lĩnh",
+    "url": "https://truyenfull.io/to-tinh/chuong-57/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_58_Không_thể_làm_lỡ_việc_hai_chúng_tôi_tìm_đối_tượng_được.json",
+    "chapter_name": "Chương 58: Không thể làm lỡ việc hai chúng tôi tìm đối tượng được",
+    "url": "https://truyenfull.io/to-tinh/chuong-58/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_59_Có_một_lọn_tóc_ướt_dính_vào_xương_quai_xanh_của_anh.json",
+    "chapter_name": "Chương 59: Có một lọn tóc ướt dính vào xương quai xanh của anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-59/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_60_Có_phải_cậu_đang_theo_đuổi_Hứa_Tùy_không.json",
+    "chapter_name": "Chương 60: \"Có phải cậu đang theo đuổi Hứa Tùy không?\"",
+    "url": "https://truyenfull.io/to-tinh/chuong-60/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_61_Tôi_không_phải_chỉ_học_cờ_vua_qua_một_người.json",
+    "chapter_name": "Chương 61: Tôi không phải chỉ học cờ vua qua một người",
+    "url": "https://truyenfull.io/to-tinh/chuong-61/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_62_Đầu_lưỡi_mang_theo_mùi_gỉ_sắt.json",
+    "chapter_name": "Chương 62: Đầu lưỡi mang theo mùi gỉ sắt",
+    "url": "https://truyenfull.io/to-tinh/chuong-62/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_63_Để_xem_anh_có_nhịn_được_hay_khôn.json",
+    "chapter_name": "Chương 63: Để xem anh có nhịn được hay khôn",
+    "url": "https://truyenfull.io/to-tinh/chuong-63/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_64_Đúng_vậy_là_tôi_đang_theo_đuổi_em.json",
+    "chapter_name": "Chương 64: Đúng vậy, là tôi đang theo đuổi em",
+    "url": "https://truyenfull.io/to-tinh/chuong-64/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_65_Bây_giờ_anh_mới_nếm_được_mùi_vị_của_sự_từ_chối.json",
+    "chapter_name": "Chương 65: Bây giờ anh mới nếm được mùi vị của sự từ chối",
+    "url": "https://truyenfull.io/to-tinh/chuong-65/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_66_Không_phải_số_1_trong_1_2_3_4_mà_là_Nhất_Nhất.json",
+    "chapter_name": "Chương 66: Không phải số 1 trong 1, 2, 3, 4, mà là Nhất Nhất",
+    "url": "https://truyenfull.io/to-tinh/chuong-66/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_67_Bao_nhiêu_năm_ghi_dấu_những_chuyến_bay_khắc_khoải.json",
+    "chapter_name": "Chương 67: Bao nhiêu năm ghi dấu những chuyến bay khắc khoải",
+    "url": "https://truyenfull.io/to-tinh/chuong-67/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_68_Bắt_gặp_cảnh_Bách_Úc_Thật_đưa_cô_về_nhà.json",
+    "chapter_name": "Chương 68: Bắt gặp cảnh Bách Úc Thật đưa cô về nhà",
+    "url": "https://truyenfull.io/to-tinh/chuong-68/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_69_Ai_đó_nổi_máu_ghen_rồi.json",
+    "chapter_name": "Chương 69: Ai đó nổi máu ghen rồi",
+    "url": "https://truyenfull.io/to-tinh/chuong-69/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_70_Chu_Kinh_Trạch_nheo_mắt_nhìn_hai_người_trước_mặt.json",
+    "chapter_name": "Chương 70: Chu Kinh Trạch nheo mắt nhìn hai người trước mặt",
+    "url": "https://truyenfull.io/to-tinh/chuong-70/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_71_Tôi_không_còn_thích_anh_nữa.json",
+    "chapter_name": "Chương 71: Tôi không còn thích anh nữa",
+    "url": "https://truyenfull.io/to-tinh/chuong-71/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_72_Một_tay_ôm_người_vào_trong_lòng.json",
+    "chapter_name": "Chương 72: Một tay ôm người vào trong lòng",
+    "url": "https://truyenfull.io/to-tinh/chuong-72/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_73_Yêu_em_càng_lâu_tôi_càng_thụ_động.json",
+    "chapter_name": "Chương 73: Yêu em càng lâu tôi càng thụ động",
+    "url": "https://truyenfull.io/to-tinh/chuong-73/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_74_Anh_nhìn_chằm_chằm_vào_hình_xăm_ở_xương_sườn_của_cô.json",
+    "chapter_name": "Chương 74: Anh nhìn chằm chằm vào hình xăm ở xương sườn của cô",
+    "url": "https://truyenfull.io/to-tinh/chuong-74/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_75_Là_một_loại_trời_quang_khác_sau_cơn_bão_khác.json",
+    "chapter_name": "Chương 75: Là một loại trời quang khác sau cơn bão khác",
+    "url": "https://truyenfull.io/to-tinh/chuong-75/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_76_Hôn_môi_không.json",
+    "chapter_name": "Chương 76: Hôn môi không?",
+    "url": "https://truyenfull.io/to-tinh/chuong-76/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_77_Ngày_17_tháng_10_năm_2010.json",
+    "chapter_name": "Chương 77: Ngày 17 tháng 10 năm 2010",
+    "url": "https://truyenfull.io/to-tinh/chuong-77/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_78_Nhớ_em_nên_về_sớm.json",
+    "chapter_name": "Chương 78: Nhớ em, nên về sớm",
+    "url": "https://truyenfull.io/to-tinh/chuong-78/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_79_Anh_phát_hiện_ra_rằng_em_không_còn_thích_anh_như_trước_đây.json",
+    "chapter_name": "Chương 79: Anh phát hiện ra rằng em không còn thích anh như trước đây",
+    "url": "https://truyenfull.io/to-tinh/chuong-79/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_80_Cả_thanh_xuân_của_em_đều_là_anh.json",
+    "chapter_name": "Chương 80: Cả thanh xuân của em đều là anh",
+    "url": "https://truyenfull.io/to-tinh/chuong-80/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_81_Chỉ_có_thể_là_em.json",
+    "chapter_name": "Chương 81: Chỉ có thể là em",
+    "url": "https://truyenfull.io/to-tinh/chuong-81/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_82_Em_có_nhớ_anh_hay_không.json",
+    "chapter_name": "Chương 82: Em có nhớ anh hay không",
+    "url": "https://truyenfull.io/to-tinh/chuong-82/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_83_Chu_Kinh_Trạch_là_của_Hứa_Tùy.json",
+    "chapter_name": "Chương 83: Chu Kinh Trạch là của Hứa Tùy",
+    "url": "https://truyenfull.io/to-tinh/chuong-83/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_84_Thế_giới_vẫn_tốt_đẹp.json",
+    "chapter_name": "Chương 84: Thế giới vẫn tốt đẹp",
+    "url": "https://truyenfull.io/to-tinh/chuong-84/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_85_Có_anh_ở_đây_cho_em_phó_thác.json",
+    "chapter_name": "Chương 85: Có anh ở đây cho em phó thác",
+    "url": "https://truyenfull.io/to-tinh/chuong-85/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_86_Chân_tướng.json",
+    "chapter_name": "Chương 86: Chân tướng",
+    "url": "https://truyenfull.io/to-tinh/chuong-86/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_87_Điều_duy_nhất_tôi_muốn.json",
+    "chapter_name": "Chương 87: Điều duy nhất tôi muốn",
+    "url": "https://truyenfull.io/to-tinh/chuong-87/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_88_Người_phụ_nữ_xinh_đẹp_này_làm_cho_tôi_phải_đỏ_mặt.json",
+    "chapter_name": "Chương 88: Người phụ nữ xinh đẹp này làm cho tôi phải đỏ mặt",
+    "url": "https://truyenfull.io/to-tinh/chuong-88/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_89_Con_chỉ_muốn_ở_bên_anh_ấy.json",
+    "chapter_name": "Chương 89: \"Con chỉ muốn ở bên anh ấy.\"",
+    "url": "https://truyenfull.io/to-tinh/chuong-89/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_90_Anh_gằn_từng_chữ_một_Không_chia_tay.json",
+    "chapter_name": "Chương 90: Anh gằn từng chữ một: Không chia tay",
+    "url": "https://truyenfull.io/to-tinh/chuong-90/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_91_Nhớ_anh_rất_nhiều.json",
+    "chapter_name": "Chương 91: Nhớ anh rất nhiều",
+    "url": "https://truyenfull.io/to-tinh/chuong-91/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_92_Sống_mãi_dưới_ánh_mặt_trời.json",
+    "chapter_name": "Chương 92: Sống mãi dưới ánh mặt trời",
+    "url": "https://truyenfull.io/to-tinh/chuong-92/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_93_Vì_bạn_hộ_tống_vinh_quang_vô_thượng.json",
+    "chapter_name": "Chương 93: Vì bạn hộ tống, vinh quang vô thượng",
+    "url": "https://truyenfull.io/to-tinh/chuong-93/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_94_Tên_nó_là_Kế_hoạch_Hứa_Tùy.json",
+    "chapter_name": "Chương 94: Tên nó là ‘Kế hoạch Hứa Tùy",
+    "url": "https://truyenfull.io/to-tinh/chuong-94/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_95_Tiếng_ve_vĩnh_viễn_kêu_không_ngừng.json",
+    "chapter_name": "Chương 95: Tiếng ve vĩnh viễn kêu không ngừng",
+    "url": "https://truyenfull.io/to-tinh/chuong-95/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_96_Diệp_Tái_Ninh.json",
+    "chapter_name": "Chương 96: Diệp Tái Ninh",
+    "url": "https://truyenfull.io/to-tinh/chuong-96/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_97_Thịnh_x_Tây.json",
+    "chapter_name": "Chương 97: Thịnh x Tây",
+    "url": "https://truyenfull.io/to-tinh/chuong-97/"
+  },
+  {
+    "path": "data/Tỏ_Tình/Chương_98_Thịnh_x_Tây.json",
+    "chapter_name": "Chương 98: Thịnh x Tây",
+    "url": "https://truyenfull.io/to-tinh/chuong-98/"
+  }
+]
