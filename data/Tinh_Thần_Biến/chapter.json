@@ -2998,5 +2998,360 @@
     "path": "data/Tinh_Thần_Biến/Chương_600_Thực_lực_đột_thăng.json",
     "chapter_name": "Chương 600: Thực lực đột thăng",
     "url": "https://truyenfull.io/tinh-than-bien/chuong-600/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_601_Thông_đạo.json",
+    "chapter_name": "Chương 601: Thông đạo",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-601/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_602_Chúc_mục.json",
+    "chapter_name": "Chương 602: Chúc mục",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-602/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_603_Linh_hồn_công_kích.json",
+    "chapter_name": "Chương 603: Linh hồn công kích",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-603/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_604_Chu_Thông.json",
+    "chapter_name": "Chương 604: Chu Thông",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-604/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_605_Tọa_khán_chúng_thần_vương.json",
+    "chapter_name": "Chương 605: Tọa khán chúng thần vương",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-605/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_606_Bế_quan.json",
+    "chapter_name": "Chương 606: Bế quan",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-606/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_607_Bế_quan_2.json",
+    "chapter_name": "Chương 607: Bế quan (2)",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-607/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_608_Thủy_mạc.json",
+    "chapter_name": "Chương 608: Thủy mạc",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-608/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_609_Khuyến_thuyết.json",
+    "chapter_name": "Chương 609: Khuyến thuyết",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-609/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_610_Hỏa_Nguyên_Linh_châu.json",
+    "chapter_name": "Chương 610: Hỏa Nguyên Linh châu",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-610/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_611_Vạn_lí_giang_sơn.json",
+    "chapter_name": "Chương 611: Vạn lí giang sơn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-611/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_612_Thánh_hoàng_quyết_liệt.json",
+    "chapter_name": "Chương 612: Thánh hoàng quyết liệt",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-612/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_613_Lôi_Phạt_thiên_tôn_đích_hàng_lâm.json",
+    "chapter_name": "Chương 613: Lôi Phạt thiên tôn đích hàng lâm",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-613/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_614_Tỷ_tỷ_Tả_Thu_Mi.json",
+    "chapter_name": "Chương 614: Tỷ tỷ Tả Thu Mi",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-614/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_615_Bắc_hải_chi_cực.json",
+    "chapter_name": "Chương 615: Bắc hải chi cực",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-615/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_616_Băng_phủ_địa_ngục.json",
+    "chapter_name": "Chương 616: Băng phủ địa ngục",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-616/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_617_Đông_hải_lão_quỷ.json",
+    "chapter_name": "Chương 617: Đông hải lão quỷ",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-617/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_618_Sanh_sanh_bất_tức.json",
+    "chapter_name": "Chương 618: Sanh sanh bất tức",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-618/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_619_Cao_thủ_chân_chính.json",
+    "chapter_name": "Chương 619: Cao thủ chân chính",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-619/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_620_Vũ_trụ_bổn_nguyên.json",
+    "chapter_name": "Chương 620: Vũ trụ bổn nguyên",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-620/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_621_Thần_vương_cảnh.json",
+    "chapter_name": "Chương 621: Thần vương cảnh",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-621/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_622_Kiến_cơ_Làm_nền.json",
+    "chapter_name": "Chương 622: Kiến cơ (Làm nền)",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-622/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_623_Mê_Vụ_thành.json",
+    "chapter_name": "Chương 623: Mê Vụ thành",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-623/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_624_Hãn_Nhiên_Lai_Tập.json",
+    "chapter_name": "Chương 624: Hãn Nhiên Lai Tập",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-624/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_625_Đống_Kết.json",
+    "chapter_name": "Chương 625: Đống Kết",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-625/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_626_Thần_Vương_Vẫn_Lạc.json",
+    "chapter_name": "Chương 626: Thần Vương Vẫn Lạc",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-626/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_627_Hàng_lâm.json",
+    "chapter_name": "Chương 627: Hàng lâm",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-627/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_628_Địa_vị.json",
+    "chapter_name": "Chương 628: Địa vị",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-628/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_629_Phù_Điêu_Thông_Đạo.json",
+    "chapter_name": "Chương 629: Phù Điêu Thông Đạo",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-629/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_630_Huyền_phù_đích_thạch_bản.json",
+    "chapter_name": "Chương 630: Huyền phù đích thạch bản",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-630/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_631_Nữ_hài_Tử_Hà.json",
+    "chapter_name": "Chương 631: Nữ hài Tử Hà",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-631/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_632_Nhi_tử_Tần_Tư.json",
+    "chapter_name": "Chương 632: Nhi tử Tần Tư",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-632/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_633_Khắc_Lôi_Duy_Cách.json",
+    "chapter_name": "Chương 633: Khắc Lôi Duy Cách",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-633/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_634_Nhị_ca.json",
+    "chapter_name": "Chương 634: Nhị ca",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-634/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_635_Phù_Thế_ấn.json",
+    "chapter_name": "Chương 635: Phù Thế ấn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-635/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_636_Thương_Thiên_ấn.json",
+    "chapter_name": "Chương 636: Thương Thiên ấn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-636/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_637_Đồ_lục.json",
+    "chapter_name": "Chương 637: Đồ lục",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-637/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_638_Thối_nhất_bộ.json",
+    "chapter_name": "Chương 638: Thối nhất bộ",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-638/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_639_Thệ_ngôn.json",
+    "chapter_name": "Chương 639: Thệ ngôn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-639/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_640_Huyết_hải_nữ_vương.json",
+    "chapter_name": "Chương 640: Huyết hải nữ vương",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-640/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_641_Huyền_thanh_nhất_khí_côn.json",
+    "chapter_name": "Chương 641: Huyền thanh nhất khí côn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-641/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_642_Thân_thể_đích_chàng_kích.json",
+    "chapter_name": "Chương 642: Thân thể đích chàng kích",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-642/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_643_Cải_biến_đột_ngột.json",
+    "chapter_name": "Chương 643: Cải biến đột ngột",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-643/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_644_Mười_năm.json",
+    "chapter_name": "Chương 644: Mười năm",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-644/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_645_Hậu_thổ_ấn_xuất_thế.json",
+    "chapter_name": "Chương 645: Hậu thổ ấn xuất thế",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-645/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_646_Trọng_trọng_kiếp_sát.json",
+    "chapter_name": "Chương 646: Trọng trọng kiếp sát",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-646/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_647_Tất_cả_để_cho_con.json",
+    "chapter_name": "Chương 647: Tất cả để cho con",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-647/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_648_Chấn_nhiếp_sát_chiêu.json",
+    "chapter_name": "Chương 648: Chấn nhiếp sát chiêu",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-648/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_649_Lại_một_Tu_La_thần_vương.json",
+    "chapter_name": "Chương 649: Lại một Tu La thần vương",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-649/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_650_Tàn_Sát_Lạnh_Lùng.json",
+    "chapter_name": "Chương 650: Tàn Sát Lạnh Lùng",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-650/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_651_Lạt_Thủ.json",
+    "chapter_name": "Chương 651: Lạt Thủ",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-651/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_652_Thối_Lui.json",
+    "chapter_name": "Chương 652: Thối Lui",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-652/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_653_Dò_hỏi.json",
+    "chapter_name": "Chương 653: Dò hỏi",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-653/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_654_Súc_thế.json",
+    "chapter_name": "Chương 654: Súc thế",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-654/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_655_Vạn_Dân_Ấn_xuất_thế.json",
+    "chapter_name": "Chương 655: Vạn Dân Ấn xuất thế",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-655/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_656_Thánh_Hoàng_gục_ngã.json",
+    "chapter_name": "Chương 656: Thánh Hoàng gục ngã",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-656/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_657_Thiên_tôn_xuất_thủ.json",
+    "chapter_name": "Chương 657: Thiên tôn xuất thủ",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-657/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_658_Thời_gian_đảo_lưu.json",
+    "chapter_name": "Chương 658: Thời gian đảo lưu",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-658/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_659_Mộc_Ngư.json",
+    "chapter_name": "Chương 659: Mộc Ngư",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-659/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_660_Ngày_tàn_của_các_thần_vương.json",
+    "chapter_name": "Chương 660: Ngày tàn của các thần vương",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-660/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_661_Tiêu_Diêu_Thiên_Tôn.json",
+    "chapter_name": "Chương 661: Tiêu Diêu Thiên Tôn",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-661/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_662_Kết_cục_mới.json",
+    "chapter_name": "Chương 662: Kết cục mới",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-662/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_663_Thanh_tu_lão_giả.json",
+    "chapter_name": "Chương 663: Thanh tu lão giả",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-663/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_664_Xa_Hầu_Viên.json",
+    "chapter_name": "Chương 664: Xa Hầu Viên",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-664/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_665_Thiên_Tôn_Linh_bảo.json",
+    "chapter_name": "Chương 665: Thiên Tôn Linh bảo",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-665/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_666_Tặng_dữ.json",
+    "chapter_name": "Chương 666: Tặng dữ",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-666/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_667_Đây_là_số_mệnh.json",
+    "chapter_name": "Chương 667: Đây là số mệnh",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-667/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_668_Phụ_thân.json",
+    "chapter_name": "Chương 668: Phụ thân?",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-668/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_669_Thiên_Tôn_Thị_Tha.json",
+    "chapter_name": "Chương 669: Thiên Tôn Thị Tha",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-669/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_670_Hồng_Mông_kim_bảng_Đại_kết_cục_Thượng.json",
+    "chapter_name": "Chương 670: Hồng Mông kim bảng (Đại kết cục - Thượng)",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-670/"
+  },
+  {
+    "path": "data/Tinh_Thần_Biến/Chương_671_Hồng_Mông_kim_bảng_Đại_kết_cục_cuối.json",
+    "chapter_name": "Chương 671: Hồng Mông kim bảng (Đại kết cục) - cuối",
+    "url": "https://truyenfull.io/tinh-than-bien/chuong-671/"
   }
 ]
