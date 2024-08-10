@@ -1,0 +1,652 @@
+[
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_11_Nhân_vật_chính.json",
+    "chapter_name": "Chương 1-1: Nhân vật chính",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-1-1/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_12_Trùng_sinh_nhất.json",
+    "chapter_name": "Chương 1-2: Trùng sinh (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-1-2/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_2_Trùng_sinh_nhị.json",
+    "chapter_name": "Chương 2: Trùng sinh (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-2/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_3_Bát_dã_nhất.json",
+    "chapter_name": "Chương 3: Bát dã (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-3/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_4_Bát_dã_nhị.json",
+    "chapter_name": "Chương 4: Bát dã (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-4/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_5_Bát_dã_tam.json",
+    "chapter_name": "Chương 5: Bát dã (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-5/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_6_Kiêu_căng_nhất.json",
+    "chapter_name": "Chương 6: Kiêu căng (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-6/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_7_Kiêu_căng_nhị.json",
+    "chapter_name": "Chương 7: Kiêu căng (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-7/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_8_Kiêu_căng_tam.json",
+    "chapter_name": "Chương 8: Kiêu căng (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-8/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_9_Kiêu_căng_tứ.json",
+    "chapter_name": "Chương 9: Kiêu căng (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-9/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_10_Kiêu_căng_ngũ.json",
+    "chapter_name": "Chương 10: Kiêu căng (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-10/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_11_Nhã_tao_nhất.json",
+    "chapter_name": "Chương 11: Nhã tao (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-11/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_12_Nhã_tao_nhị.json",
+    "chapter_name": "Chương 12: Nhã tao (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-12/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_13_Nhã_tao_tam.json",
+    "chapter_name": "Chương 13: Nhã tao (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-13/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_14_Nhã_tao_tứ.json",
+    "chapter_name": "Chương 14: Nhã tao (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-14/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_15_Nhã_tao_ngũ.json",
+    "chapter_name": "Chương 15: Nhã tao (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-15/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_16_Nhã_tao_lục.json",
+    "chapter_name": "Chương 16: Nhã tao (lục)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-16/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_17_Nhã_tao_thất.json",
+    "chapter_name": "Chương 17: Nhã tao (thất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-17/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_18_Nhã_tao_bát.json",
+    "chapter_name": "Chương 18: Nhã tao (bát)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-18/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_19_Dương_Dương_nhất.json",
+    "chapter_name": "Chương 19: Dương Dương (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-19/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_20_Dương_dương_nhị.json",
+    "chapter_name": "Chương 20: Dương dương (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-20/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_21_Dương_dương_tam.json",
+    "chapter_name": "Chương 21: Dương dương (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-21/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_22_Dương_dương_tứ.json",
+    "chapter_name": "Chương 22: Dương dương (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-22/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_23_Âm_chí_nhất.json",
+    "chapter_name": "Chương 23: Âm chí (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-23/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_24_Âm_chí_nhị.json",
+    "chapter_name": "Chương 24: Âm chí (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-24/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_25_Âm_chí_tam.json",
+    "chapter_name": "Chương 25: Âm chí (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-25/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_26_Âm_chí_tứ.json",
+    "chapter_name": "Chương 26: Âm chí (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-26/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_27_Âm_chí_ngũ.json",
+    "chapter_name": "Chương 27: Âm chí (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-27/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_28_Kiểu_kiểu_sáng_trong.json",
+    "chapter_name": "Chương 28: Kiểu kiểu (sáng trong)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-28/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_29_Kiểu_kiểu_nhị.json",
+    "chapter_name": "Chương 29: Kiểu kiểu (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-29/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_30_Kiểu_kiểu_tam.json",
+    "chapter_name": "Chương 30: Kiểu kiểu (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-30/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_31_Kiểu_kiểu_tứ.json",
+    "chapter_name": "Chương 31: Kiểu kiểu (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-31/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_32_Kiểu_kiểu_ngũ.json",
+    "chapter_name": "Chương 32: Kiểu kiểu (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-32/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_33_Thảo_mộc_nhất.json",
+    "chapter_name": "Chương 33: Thảo mộc (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-33/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_34_Thảo_mộc_nhị.json",
+    "chapter_name": "Chương 34: Thảo mộc (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-34/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_35_Thảo_mộc_tam.json",
+    "chapter_name": "Chương 35: Thảo mộc (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-35/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_36_Thảo_mộc_tứ.json",
+    "chapter_name": "Chương 36: Thảo mộc (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-36/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_37_Thảo_mộc_ngũ.json",
+    "chapter_name": "Chương 37: Thảo mộc (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-37/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_38_Thảo_mộc_lục.json",
+    "chapter_name": "Chương 38: Thảo mộc (lục)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-38/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_39_Thảo_mộc_thất.json",
+    "chapter_name": "Chương 39: Thảo mộc (thất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-39/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_40_Thảo_mộc_bát.json",
+    "chapter_name": "Chương 40: Thảo mộc (bát)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-40/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_41_Thảo_mộc_cửu.json",
+    "chapter_name": "Chương 41: Thảo mộc (cửu)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-41/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_42_Thảo_mộc_thập.json",
+    "chapter_name": "Chương 42: Thảo mộc (thập)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-42/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_43_Giảo_Liêu_nhất.json",
+    "chapter_name": "Chương 43: Giảo Liêu (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-43/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_44_Giảo_liêu_nhị.json",
+    "chapter_name": "Chương 44: Giảo liêu (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-44/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_45_Giảo_liêu_tam.json",
+    "chapter_name": "Chương 45: Giảo liêu (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-45/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_46_Giảo_đồng_nhất.json",
+    "chapter_name": "Chương 46: Giảo đồng (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-46/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_47_Giảo_đồng_nhị.json",
+    "chapter_name": "Chương 47: Giảo đồng (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-47/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_48_Giảo_đồng_tam.json",
+    "chapter_name": "Chương 48: Giảo đồng (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-48/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_49_Giảo_đồng_tứ.json",
+    "chapter_name": "Chương 49: Giảo đồng (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-49/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_50_Giảo_đồng_ngũ.json",
+    "chapter_name": "Chương 50: Giảo đồng (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-50/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_51_Tuyệt_dũng_nhất.json",
+    "chapter_name": "Chương 51: Tuyệt dũng (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-51/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_52_Tuyệt_dũng_nhị.json",
+    "chapter_name": "Chương 52: Tuyệt dũng (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-52/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_53_Tuyệt_dũng_tam.json",
+    "chapter_name": "Chương 53: Tuyệt dũng (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-53/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_54_Tuyệt_dũng_tứ.json",
+    "chapter_name": "Chương 54: Tuyệt dũng (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-54/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_55_Tuyệt_dũng_ngũ.json",
+    "chapter_name": "Chương 55: Tuyệt dũng (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-55/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_56_Tam_độc_nhất.json",
+    "chapter_name": "Chương 56: Tam độc (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-56/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_57_Tam_độc_nhị.json",
+    "chapter_name": "Chương 57: Tam độc (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-57/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_58_Tam_Độc_tam.json",
+    "chapter_name": "Chương 58: Tam Độc (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-58/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_59_Tam_Độc_tứ.json",
+    "chapter_name": "Chương 59: Tam Độc (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-59/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_60_Tam_độc_ngũ.json",
+    "chapter_name": "Chương 60: Tam độc (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-60/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_61_Phong_Tà_nhất.json",
+    "chapter_name": "Chương 61: Phong Tà (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-61/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_62_Phong_Tà_nhị.json",
+    "chapter_name": "Chương 62: Phong Tà (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-62/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_63_Ôn_Nhu.json",
+    "chapter_name": "Chương 63: Ôn Nhu",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-63/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_64_Ôn_Nhu_nhị.json",
+    "chapter_name": "Chương 64: Ôn Nhu (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-64/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_65_Ôn_Nhu_tam.json",
+    "chapter_name": "Chương 65: Ôn Nhu (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-65/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_66_Trù_mâu_nhất.json",
+    "chapter_name": "Chương 66: Trù mâu (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-66/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_67_Trù_mâu_nhị.json",
+    "chapter_name": "Chương 67: Trù mâu (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-67/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_68_Trù_mâu_tam.json",
+    "chapter_name": "Chương 68: Trù mâu (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-68/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_69_Tương_ly_nhất.json",
+    "chapter_name": "Chương 69: Tương ly (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-69/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_70_Tương_ly_nhị.json",
+    "chapter_name": "Chương 70: Tương ly (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-70/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_71_Tương_Ly_tam.json",
+    "chapter_name": "Chương 71: Tương Ly (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-71/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_72_Kiệt_Ngạo_nhất.json",
+    "chapter_name": "Chương 72: Kiệt Ngạo (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-72/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_73_Kiệt_ngạo_Nhị.json",
+    "chapter_name": "Chương 73: Kiệt ngạo (Nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-73/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_74_Kiệt_ngạo_tam.json",
+    "chapter_name": "Chương 74: Kiệt ngạo (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-74/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_75_Kiệt_ngạo_tứ.json",
+    "chapter_name": "Chương 75: Kiệt ngạo (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-75/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_76_Dạ_bôn_nhất.json",
+    "chapter_name": "Chương 76: Dạ bôn (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-76/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_77_Dạ_bôn_nhị.json",
+    "chapter_name": "Chương 77: Dạ bôn (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-77/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_78_Dạ_bôn_tam.json",
+    "chapter_name": "Chương 78: Dạ bôn (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-78/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_79_Đan_tâm_nhất.json",
+    "chapter_name": "Chương 79: Đan tâm (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-79/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_80_Đan_tâm_nhị.json",
+    "chapter_name": "Chương 80: Đan tâm (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-80/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_81_Lòng_son_tam.json",
+    "chapter_name": "Chương 81: Lòng son (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-81/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_82_Lòng_son_tứ.json",
+    "chapter_name": "Chương 82: Lòng son (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-82/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_83_Lòng_son_ngũ.json",
+    "chapter_name": "Chương 83: Lòng son (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-83/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_84_Lòng_Son_lục.json",
+    "chapter_name": "Chương 84: Lòng Son (lục)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-84/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_85_Đan_tâm_thất.json",
+    "chapter_name": "Chương 85: Đan tâm (thất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-85/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_86_Đan_tâm_bát.json",
+    "chapter_name": "Chương 86: Đan tâm (bát)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-86/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_87_Đan_tâm_cửu.json",
+    "chapter_name": "Chương 87: Đan tâm (cửu)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-87/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_88_Đan_tâm_thập.json",
+    "chapter_name": "Chương 88: Đan tâm (thập)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-88/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_89_Đan_tâm_thập_nhất.json",
+    "chapter_name": "Chương 89: Đan tâm (thập nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-89/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_90_Ngụ_mị.json",
+    "chapter_name": "Chương 90: Ngụ mị",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-90/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_91_Ngụ_mị_nhị.json",
+    "chapter_name": "Chương 91: Ngụ mị (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-91/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_92_Ngụ_mị_tam.json",
+    "chapter_name": "Chương 92: Ngụ mị (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-92/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_93_Ngụ_mị_tứ.json",
+    "chapter_name": "Chương 93: Ngụ mị (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-93/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_94_Ngụ_mị_ngũ.json",
+    "chapter_name": "Chương 94: Ngụ mị (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-94/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_95_Ngụ_mị_lục.json",
+    "chapter_name": "Chương 95: Ngụ mị (lục)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-95/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_96_Ngụ_mị_thất.json",
+    "chapter_name": "Chương 96: Ngụ mị (thất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-96/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_97_Ngụ_mị_bát.json",
+    "chapter_name": "Chương 97: Ngụ mị (bát)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-97/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_98_Hận_sinh_nhất.json",
+    "chapter_name": "Chương 98: Hận sinh (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-98/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_99_Hận_sinh_nhị.json",
+    "chapter_name": "Chương 99: Hận sinh (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-99/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_100_Hận_sinh_tam.json",
+    "chapter_name": "Chương 100: Hận sinh (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-100/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_101_Hận_sinh_tứ.json",
+    "chapter_name": "Chương 101: Hận sinh (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-101/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_102_Hận_sinh_ngũ.json",
+    "chapter_name": "Chương 102: Hận sinh (ngũ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-102/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_103_Hận_sinh_lục.json",
+    "chapter_name": "Chương 103: Hận sinh (lục)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-103/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_104_Hận_sinh_thất.json",
+    "chapter_name": "Chương 104: Hận sinh (thất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-104/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_105_Hận_sinh_bát.json",
+    "chapter_name": "Chương 105: Hận sinh (bát)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-105/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_106_Hận_sinh_cửu.json",
+    "chapter_name": "Chương 106: Hận sinh (cửu)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-106/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_107_Giấu_mối_nhất.json",
+    "chapter_name": "Chương 107: Giấu mối (nhất)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-107/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_108_Giấu_mối_nhị.json",
+    "chapter_name": "Chương 108: Giấu mối (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-108/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_109_Giấu_mối_tam.json",
+    "chapter_name": "Chương 109: Giấu mối (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-109/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_110_Giấu_mối_tứ.json",
+    "chapter_name": "Chương 110: Giấu mối (tứ)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-110/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_111_h.json",
+    "chapter_name": "Chương 111: (h)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-111/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_112_Quên_ước_nhị.json",
+    "chapter_name": "Chương 112: Quên ước (nhị)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-112/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_113_Quên_ước_tam.json",
+    "chapter_name": "Chương 113: Quên ước (tam)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-113/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_114_PN_Gia_Yến.json",
+    "chapter_name": "Chương 114: PN Gia Yến",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-114/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_115_Phiên_Ngoại.json",
+    "chapter_name": "Chương 115: Phiên Ngoại",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-115/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_116_PN_Lư_Hương.json",
+    "chapter_name": "Chương 116: PN Lư Hương",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-116/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_117_PN_Lư_Hương_2.json",
+    "chapter_name": "Chương 117: PN Lư Hương (2)",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-117/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_118_PN_Ác_Hữu.json",
+    "chapter_name": "Chương 118: PN Ác Hữu",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-118/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_119_Drama_Ma_Đạo_Tổ_Sư_Trần_Tình_Lệnh.json",
+    "chapter_name": "Chương 119: Drama Ma Đạo Tổ Sư- Trần Tình Lệnh",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-119/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_120_PN_Đoạt_môn.json",
+    "chapter_name": "Chương 120: PN Đoạt môn",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-120/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_121_PN_trường_săn_ở_núi_Bách_Phượng.json",
+    "chapter_name": "Chương 121: PN trường săn ở núi Bách Phượng",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-121/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_122_PN_Móc_sắt.json",
+    "chapter_name": "Chương 122: PN Móc sắt",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-122/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_123_PN_Đài_sen.json",
+    "chapter_name": "Chương 123: PN Đài sen",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-123/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_124_PN_Vân_Mộng.json",
+    "chapter_name": "Chương 124: PN Vân Mộng",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-124/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_125_Drama_Ma_đạo_tổ_sư_Trần_Tình_lệnh_2.json",
+    "chapter_name": "Chương 125: Drama Ma đạo tổ sư- Trần Tình lệnh 2",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-125/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_126_Drama_Ma_Đạo_Tổ_Sư_Trần_Tình_Lệnh_3.json",
+    "chapter_name": "Chương 126: Drama Ma Đạo Tổ Sư- Trần Tình Lệnh 3",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-126/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_127_Drama_Ma_Đạo_Tổ_Sư_Trần_Tình_Lệnh_4.json",
+    "chapter_name": "Chương 127: Drama Ma Đạo Tổ Sư- Trần Tình Lệnh 4",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-127/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_128_Drama_Ma_Đạo_Tổ_Sư_Trần_Tình_Lệnh_5.json",
+    "chapter_name": "Chương 128: Drama Ma Đạo Tổ Sư- Trần Tình Lệnh 5",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-128/"
+  },
+  {
+    "path": "data/Ma_Đạo_Tổ_Sư/Chương_129_Drama_Ma_Đạo_Tổ_Sư_Trần_Tình_Lệnh_6.json",
+    "chapter_name": "Chương 129: Drama Ma Đạo Tổ Sư- Trần Tình Lệnh 6",
+    "url": "https://truyenfull.io/ma-dao-to-su/chuong-129/"
+  }
+]
