@@ -1,13 +1,13 @@
 name: Crawl and Push
 
 on:
-  # schedule:
-  #   - cron: "0 */1 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-    # Điều này cho phép workflow có thể được kích hoạt thông qua API
+  schedule:
+    - cron: "0 */2 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
+  # push:
+  #   branches:
+  #     - main
+  # workflow_dispatch:
+  #   # Điều này cho phép workflow có thể được kích hoạt thông qua API
 
 jobs:
   build:
@@ -58,11 +58,11 @@ jobs:
           git commit -m 'Update truyen.json'
           git push
 
-      - name: Trigger Self
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          curl -X POST -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
-          https://api.github.com/repos/hlongho/truyen/actions/workflows/107210601/dispatches \
-          -d '{"ref":"main"}'
+      # - name: Trigger Self
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      #   run: |
+      #     curl -X POST -H "Accept: application/vnd.github.v3+json" \
+      #     -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
+      #     https://api.github.com/repos/hlongho/truyen/actions/workflows/107210601/dispatches \
+      #     -d '{"ref":"main"}'
