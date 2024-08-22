@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_1_Một_nhát_đao_nhẹ_dàng.json",
+    "chapter_name": "Chương 1: Một nhát đao nhẹ dàng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-1/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_2_Ra_tay_trước_chiếm_tiên_cơ.json",
+    "chapter_name": "Chương 2: Ra tay trước chiếm tiên cơ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-2/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_3_Nữ_giáo_viên_nông_thôn.json",
+    "chapter_name": "Chương 3: Nữ giáo viên nông thôn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-3/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_4_Vỗ_mông_ngựa_xuống_đùi_ngựa.json",
+    "chapter_name": "Chương 4: Vỗ mông ngựa xuống đùi ngựa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-4/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_5_Chó_sủa_không_cắn_người_chó_không_sủa_cắn_người.json",
+    "chapter_name": "Chương 5: Chó sủa không cắn người, chó không sủa cắn người",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-5/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_6_Chỉ_đánh_loại_người_không_có_mắt.json",
+    "chapter_name": "Chương 6: Chỉ đánh loại người không có mắt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-6/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_7_Đời_người_sao_chẳng_gặp_lại.json",
+    "chapter_name": "Chương 7: Đời người sao chẳng gặp lại?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-7/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_8_Người_sắt_không_ăn_cơm_cũng_đói_bụng.json",
+    "chapter_name": "Chương 8: Người sắt không ăn cơm cũng đói bụng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-8/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_9_Dân_không_chọc_vào_quan.json",
+    "chapter_name": "Chương 9: Dân không chọc vào quan",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-9/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_10_Cỏ_đầu_tường_ngã_theo_chiều_gió.json",
+    "chapter_name": "Chương 10: Cỏ đầu tường ngã theo chiều gió",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-10/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_11_Đánh_rắn_giập_đầu_ra_tay_chuẩn_và_hung_ác.json",
+    "chapter_name": "Chương 11: Đánh rắn giập đầu, ra tay chuẩn và hung ác",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-11/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_12_Vung_kiếm.json",
+    "chapter_name": "Chương 12: Vung kiếm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-12/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_13_Chọc_anh_vào_tổ_ong_vò_vẽ.json",
+    "chapter_name": "Chương 13: Chọc anh vào tổ ong vò vẽ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-13/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_14_Gió_bùng_lên_báo_hiệu_giông_bão_sắp_đến.json",
+    "chapter_name": "Chương 14: Gió bùng lên báo hiệu giông bão sắp đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-14/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_15_Để_lộ_mũi_nhọn.json",
+    "chapter_name": "Chương 15: Để lộ mũi nhọn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-15/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_16_Đào_hố_chờ_ngươi_nhảy_xuống.json",
+    "chapter_name": "Chương 16: Đào hố chờ ngươi nhảy xuống",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-16/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_17_Thư_tình_hay_phiếu_nợ.json",
+    "chapter_name": "Chương 17: Thư tình hay phiếu nợ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-17/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_18_Lớn_nhỏ_gì_cũng_là_rồng.json",
+    "chapter_name": "Chương 18: Lớn nhỏ gì cũng là rồng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-18/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_19_Cảm_giác_gọi_là_mập_mờ.json",
+    "chapter_name": "Chương 19: Cảm giác gọi là mập mờ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-19/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_20_Đạp_xe_chở_người_yêu.json",
+    "chapter_name": "Chương 20: Đạp xe chở người yêu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-20/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_21_Đội_trưởng_cảnh_sát_hình_sự.json",
+    "chapter_name": "Chương 21: Đội trưởng cảnh sát hình sự",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-21/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_22_Bàn_rượu.json",
+    "chapter_name": "Chương 22: Bàn rượu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-22/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_23_Sợ_mình_đứng_sai_hàng_ngũ.json",
+    "chapter_name": "Chương 23: Sợ mình đứng sai hàng ngũ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-23/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_24_Ban_ân_kết_bạn.json",
+    "chapter_name": "Chương 24: Ban ân kết bạn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-24/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_25_Úp_mặt_nóng_lên_mông_lạnh.json",
+    "chapter_name": "Chương 25: Úp mặt nóng lên mông lạnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-25/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_26_Đâm_lao_phải_theo_lao.json",
+    "chapter_name": "Chương 26: Đâm lao phải theo lao",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-26/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_27_Ngừng_lại_sẽ_đứt_gãy.json",
+    "chapter_name": "Chương 27: Ngừng lại sẽ đứt gãy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-27/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_28_Chỉ_cần_tư_tưởng_không_tụt_dốc_thì_khó_khăn_gì_không_vượt_qua.json",
+    "chapter_name": "Chương 28: Chỉ cần tư tưởng không tụt dốc thì khó khăn gì không vượt qua?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-28/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_29_Bão_tố_sắp_xảy_ra.json",
+    "chapter_name": "Chương 29: Bão tố sắp xảy ra",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-29/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_30_Kêu_oan.json",
+    "chapter_name": "Chương 30: Kêu oan",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-30/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_31_Tôi_không_phải_là_ai_khác_tôi_là_Vương_Tử_Quân.json",
+    "chapter_name": "Chương 31: Tôi không phải là ai khác, tôi là Vương Tử Quân",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-31/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_32_Mọi_người_vỗ_tay.json",
+    "chapter_name": "Chương 32: Mọi người vỗ tay",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-32/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_33_Tận_dụng_nhân_tài.json",
+    "chapter_name": "Chương 33: Tận dụng nhân tài",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-33/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_34_Nên_ra_tay_thì_ra_tay.json",
+    "chapter_name": "Chương 34: Nên ra tay thì ra tay",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-34/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_35_Nước_quá_trong_không_có_cá.json",
+    "chapter_name": "Chương 35: Nước quá trong không có cá",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-35/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_36_Công_bộc_của_dân_chính_là_người_giúp_việc_đại_chúng.json",
+    "chapter_name": "Chương 36: Công bộc của dân chính là người giúp việc đại chúng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-36/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_37_Ba_giai_đoạn_trên_bàn_rượu.json",
+    "chapter_name": "Chương 37: Ba giai đoạn trên bàn rượu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-37/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_38_Một_lần_bại_thì_không_sao_nhiều_lần_bại_thì_năng_lực_có_vấn_đề.json",
+    "chapter_name": "Chương 38: Một lần bại thì không sao; nhiều lần bại thì năng lực có vấn đề",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-38/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_39_Đánh_giá.json",
+    "chapter_name": "Chương 39: Đánh giá",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-39/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_40_Tên_đã_lên_lên_dây_cung_không_thể_không_bắn.json",
+    "chapter_name": "Chương 40: Tên đã lên lên dây cung không thể không bắn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-40/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_41_Nói_phải_làm_đã_làm_phải_quyết_đoán.json",
+    "chapter_name": "Chương 41: Nói phải làm, đã làm phải quyết đoán",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-41/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_42_Kết_thúc_đặc_sắc.json",
+    "chapter_name": "Chương 42: Kết thúc đặc sắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-42/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_43_Xe_trước_đi_xe_sau_đến.json",
+    "chapter_name": "Chương 43: Xe trước đi xe sau đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-43/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_44_Nghe_anh_nói_vài_lời_thật_sự_nâng_cao_tri_thức.json",
+    "chapter_name": "Chương 44: Nghe anh nói vài lời thật sự nâng cao tri thức",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-44/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_45_Trưởng_ban_tài_chính.json",
+    "chapter_name": "Chương 45: Trưởng ban tài chính",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-45/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_46_Về_nhà.json",
+    "chapter_name": "Chương 46: Về nhà",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-46/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_47_Trung_thu_vui_vẻ.json",
+    "chapter_name": "Chương 47: Trung thu vui vẻ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-47/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_48_Làm_người_phải_hiểu_có_lúc_yếu_thế.json",
+    "chapter_name": "Chương 48: Làm người phải hiểu có lúc yếu thế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-48/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_49_Tỏ_ra_tâm_lý_nắm_chắc.json",
+    "chapter_name": "Chương 49: Tỏ ra tâm lý nắm chắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-49/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_50_Không_phải_mỗi_lần_nói_lời_xin_lỗi_là_xong.json",
+    "chapter_name": "Chương 50: Không phải mỗi lần nói lời xin lỗi là xong",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-50/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_51_Gặp_mặt_trên_đường.json",
+    "chapter_name": "Chương 51: Gặp mặt trên đường",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-51/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_52_Nhà_số_hai.json",
+    "chapter_name": "Chương 52: Nhà số hai",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-52/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_53_Có_triển_vọng_mới_có_phát_triển.json",
+    "chapter_name": "Chương 53: Có triển vọng mới có phát triển",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-53/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_54_Chịu_khó_làm_việc_mới_có_thể_thành_công.json",
+    "chapter_name": "Chương 54: Chịu khó làm việc mới có thể thành công",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-54/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_55_Nếu_lên_triều_sẽ_chết_có_trốn_cũng_khó_sống_yên.json",
+    "chapter_name": "Chương 55: Nếu lên triều sẽ chết, có trốn cũng khó sống yên",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-55/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_56_Mặc_kệ_anh_tin_hay_không_dù_sao_thì_tôi_cũng_tin.json",
+    "chapter_name": "Chương 56: Mặc kệ anh tin hay không, dù sao thì tôi cũng tin",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-56/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_57_Cơm_nhà_bí_thư_tỉnh_ủy.json",
+    "chapter_name": "Chương 57: Cơm nhà bí thư tỉnh ủy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-57/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_58_Rất_tinh_tế.json",
+    "chapter_name": "Chương 58: Rất tinh tế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-58/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_59_Không_phải_cậu_không_biết_thế_giới_này_biến_hóa_nhanh.json",
+    "chapter_name": "Chương 59: Không phải cậu không biết thế giới này biến hóa nhanh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-59/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_60_Đời_người_sẽ_có_lúc_gặp_lại.json",
+    "chapter_name": "Chương 60: Đời người sẽ có lúc gặp lại",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-60/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_61_Không_phải_là_thứ_gì_cả_tôi_là_đàn_ông.json",
+    "chapter_name": "Chương 61: Không phải là thứ gì cả, tôi là đàn ông",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-61/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_62_Là_người_lớn_gan_cũng_lắm_tiền.json",
+    "chapter_name": "Chương 62: Là người lớn gan, cũng lắm tiền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-62/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_63_Liên_thủ.json",
+    "chapter_name": "Chương 63: Liên thủ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-63/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_64_Tiếp_tục_tu_luyện.json",
+    "chapter_name": "Chương 64: Tiếp tục tu luyện",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-64/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_65_Tồn_tại_là_hợp_lý.json",
+    "chapter_name": "Chương 65: Tồn tại là hợp lý",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-65/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_66_Cúi_đầu_là_dũng_khí_ngẩng_đầu_phải_xem_vào_thực_lực.json",
+    "chapter_name": "Chương 66: Cúi đầu là dũng khí, ngẩng đầu phải xem vào thực lực",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-66/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_67_Không_đánh_mặt_cười.json",
+    "chapter_name": "Chương 67: Không đánh mặt cười",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-67/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_68_Bắt_đầu_hành_động_đẩy_mạnh_học_tập_tư_tưởng.json",
+    "chapter_name": "Chương 68: Bắt đầu hành động đẩy mạnh học tập tư tưởng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-68/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_69_Lấy_độc_trị_độc.json",
+    "chapter_name": "Chương 69: Lấy độc trị độc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-69/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_70_Huyết_khí_phương_cương_và_uất_ức.json",
+    "chapter_name": "Chương 70: Huyết khí phương cương và uất ức",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-70/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_71_Tích_góp_và_bùng_phát.json",
+    "chapter_name": "Chương 71: Tích góp và bùng phát",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-71/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_72_Nên_ra_tay_thì_ra_tay.json",
+    "chapter_name": "Chương 72: Nên ra tay thì ra tay",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-72/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_73_Hát_bài_ca_ngợi_cho_ngài_nghe.json",
+    "chapter_name": "Chương 73: Hát bài ca ngợi cho ngài nghe",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-73/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_74_Cửa_khó_vào_mặt_khó_coi_lời_khó_nghe_việc_khó_làm.json",
+    "chapter_name": "Chương 74: Cửa khó vào, mặt khó coi, lời khó nghe, việc khó làm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-74/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_75_Hao_tổn_chính_là_anh.json",
+    "chapter_name": "Chương 75: Hao tổn chính là anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-75/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_76_Đừng_táo_bón_thì_trách_Địa_Cầu_không_có_lực_hấp_dẫn.json",
+    "chapter_name": "Chương 76: Đừng táo bón thì trách Địa Cầu không có lực hấp dẫn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-76/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_77_Sóng_sau_đè_sóng_trước_thế_hệ_sau_mạnh_hơn_thế_hệ_trước.json",
+    "chapter_name": "Chương 77: Sóng sau đè sóng trước, thế hệ sau mạnh hơn thế hệ trước",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-77/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_78_Không_nói_rõ_sẽ_không_phân_biệt_rõ.json",
+    "chapter_name": "Chương 78: Không nói rõ sẽ không phân biệt rõ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-78/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_79_An_phận_mới_là_cách_khoe_khoang_tốt_nhất.json",
+    "chapter_name": "Chương 79: An phận mới là cách khoe khoang tốt nhất",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-79/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_80_Tiến_có_thể_lên_giường_lùi_có_thể_xuống_bếp.json",
+    "chapter_name": "Chương 80: Tiến có thể lên giường, lùi có thể xuống bếp",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-80/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_81_Phụ_nữ_hổ_báo.json",
+    "chapter_name": "Chương 81: Phụ nữ hổ báo",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-81/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_82_Tự_mình_hạ_miệng.json",
+    "chapter_name": "Chương 82: Tự mình hạ miệng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-82/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_83_Không_có_lửa_sao_có_khói.json",
+    "chapter_name": "Chương 83: Không có lửa sao có khói",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-83/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_84_Cắn_vào_lưỡi.json",
+    "chapter_name": "Chương 84: Cắn vào lưỡi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-84/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_85_Bận_đến_tối_mặt_tắt_đèn.json",
+    "chapter_name": "Chương 85: Bận đến tối mặt tắt đèn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-85/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_86_Rượu_tốt.json",
+    "chapter_name": "Chương 86: Rượu tốt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-86/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_87_Trong_thôn_đều_là_mẹ_vợ.json",
+    "chapter_name": "Chương 87: Trong thôn đều là mẹ vợ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-87/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_88_Thích_véo_thì_cứ_véo_đi.json",
+    "chapter_name": "Chương 88: Thích véo thì cứ véo đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-88/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_89_Theo_đuổi_cũng_cần_sức_khỏe.json",
+    "chapter_name": "Chương 89: Theo đuổi cũng cần sức khỏe",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-89/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_90_Cứu_người_gánh_phiền.json",
+    "chapter_name": "Chương 90: Cứu người gánh phiền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-90/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_91_Tú_tài_gặp_quan_binh.json",
+    "chapter_name": "Chương 91: Tú tài gặp quan binh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-91/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_92_Nhấc_đá_đập_vào_chân_mình.json",
+    "chapter_name": "Chương 92: Nhấc đá đập vào chân mình",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-92/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_93_Khó_đoán_tâm_tư_của_các_cô_gái.json",
+    "chapter_name": "Chương 93: Khó đoán tâm tư của các cô gái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-93/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_94_Cô_gái_vui_vẻ.json",
+    "chapter_name": "Chương 94: Cô gái vui vẻ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-94/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_95_Nhờ_cậu_mà_tôi_được_dùng_bữa_cơm.json",
+    "chapter_name": "Chương 95: Nhờ cậu mà tôi được dùng bữa cơm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-95/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_96_Dũng_cảm_buông_bỏ_mới_chính_thức_có_được.json",
+    "chapter_name": "Chương 96: Dũng cảm buông bỏ mới chính thức có được",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-96/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_97_Cừu_gặp_sói.json",
+    "chapter_name": "Chương 97: Cừu gặp sói",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-97/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_98_Uy_phong_đều_là_tự_tay_mà_ra.json",
+    "chapter_name": "Chương 98: Uy phong đều là tự tay mà ra",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-98/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_99_Gãi_lòng_bàn_tay_thì_có_cảm_giác_gì.json",
+    "chapter_name": "Chương 99: Gãi lòng bàn tay thì có cảm giác gì?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-99/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_100_Bắt_đầu_yêu_đương.json",
+    "chapter_name": "Chương 100: Bắt đầu yêu đương",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-100/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_101_Luyện_thành_bại_hoại_như_thế_nào.json",
+    "chapter_name": "Chương 101: Luyện thành bại hoại như thế nào?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-101/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_102_Địa_bàn_của_ta_thì_ta_làm_chủ.json",
+    "chapter_name": "Chương 102: Địa bàn của ta thì ta làm chủ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-102/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_103_Mềm_sợ_cứng_cứng_sợ_không_muốn_sống.json",
+    "chapter_name": "Chương 103: Mềm sợ cứng, cứng sợ không muốn sống",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-103/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_104_Đề_bạt.json",
+    "chapter_name": "Chương 104: Đề bạt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-104/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_105_Cách_mạng_không_phải_mời_khách_ăn_cơm_mời_khách_ăn_cơm_chỉ_là_công_tác_cách_mạng.json",
+    "chapter_name": "Chương 105: Cách mạng không phải mời khách ăn cơm, mời khách ăn cơm chỉ là công tác cách mạng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-105/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_106_Rượu_giao_bôi_gây_họa.json",
+    "chapter_name": "Chương 106: Rượu giao bôi gây họa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-106/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_107_Đầy_trời_ngũ_sắc.json",
+    "chapter_name": "Chương 107: Đầy trời ngũ sắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-107/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_108_Ai_cũng_có_thể_thắng.json",
+    "chapter_name": "Chương 108: Ai cũng có thể thắng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-108/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_109_Tạo_thế.json",
+    "chapter_name": "Chương 109: Tạo thế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-109/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_110_Gặt_hái.json",
+    "chapter_name": "Chương 110: Gặt hái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-110/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_111_Nhiều_bạn_thì_nhiều_đường_để_đi.json",
+    "chapter_name": "Chương 111: Nhiều bạn thì nhiều đường để đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-111/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_112_Người_trong_giang_hồ_sao_có_thể_không_bị_chém_vài_đao.json",
+    "chapter_name": "Chương 112: Người trong giang hồ sao có thể không bị chém vài đao?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-112/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_113_Ngẩng_đầu_nhìn_đường_vùi_đầu_kéo_xe.json",
+    "chapter_name": "Chương 113: Ngẩng đầu nhìn đường vùi đầu kéo xe",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-113/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_114_Dù_sao_cũng_còn_muốn_tiếp_tục_phát_triển.json",
+    "chapter_name": "Chương 114: Dù sao cũng còn muốn tiếp tục phát triển",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-114/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_115_Không_sợ_bị_người_lợi_dụng_chỉ_sợ_vô_dụng.json",
+    "chapter_name": "Chương 115: Không sợ bị người lợi dụng, chỉ sợ vô dụng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-115/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_116_Trồng_cây_ngô_đồng_làm_phượng_hoàng_kéo_đến.json",
+    "chapter_name": "Chương 116: Trồng cây ngô đồng làm phượng hoàng kéo đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-116/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_117_Dòng_suy_nghĩ_quyết_định_hướng_đi.json",
+    "chapter_name": "Chương 117: Dòng suy nghĩ quyết định hướng đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-117/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_118_Treo_đầu_dê_bán_thịt_chó.json",
+    "chapter_name": "Chương 118: Treo đầu dê bán thịt chó",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-118/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_119_Hứa_hẹn_chỉ_là_ngân_phiếu_khống.json",
+    "chapter_name": "Chương 119: Hứa hẹn chỉ là ngân phiếu khống",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-119/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_120_Đi_đường_của_người_khác_ép_người_khác_không_còn_đường_để_đi.json",
+    "chapter_name": "Chương 120: Đi đường của người khác, ép người khác không còn đường để đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-120/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_121_Trò_phân_hóa.json",
+    "chapter_name": "Chương 121: Trò phân hóa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-121/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_122_Kịch_hay_bắt_đầu.json",
+    "chapter_name": "Chương 122: Kịch hay bắt đầu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-122/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_123_Một_bài_ca_lạc_nhịp.json",
+    "chapter_name": "Chương 123: Một bài ca lạc nhịp",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-123/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_124_Chơi_đến_khi_anh_tim_đập_chân_run.json",
+    "chapter_name": "Chương 124: Chơi đến khi anh tim đập chân run",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-124/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_125_Tôi_đến_làm_nhân_vật_chính.json",
+    "chapter_name": "Chương 125: Tôi đến làm nhân vật chính",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-125/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_126_Một_mũi_tên_trúng_hai_chim.json",
+    "chapter_name": "Chương 126: Một mũi tên trúng hai chim",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-126/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_127_Không_ôm_hết_công.json",
+    "chapter_name": "Chương 127: Không ôm hết công",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-127/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_128_Chờ_anh_về_nhà.json",
+    "chapter_name": "Chương 128: Chờ anh về nhà",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-128/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_129_Duyên_tới_là_anh.json",
+    "chapter_name": "Chương 129: Duyên tới là anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-129/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_130_Đàn_ông_không_xấu_phụ_nữ_không_yêu.json",
+    "chapter_name": "Chương 130: Đàn ông không xấu phụ nữ không yêu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-130/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_131_Bữa_tiệc_sinh_nhật_của_thư_ký_trưởng_Vương_1.json",
+    "chapter_name": "Chương 131: Bữa tiệc sinh nhật của thư ký trưởng Vương (1)",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-131/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_132_Bữa_tiệc_sinh_nhật_của_thư_ký_trưởng_Vương_2.json",
+    "chapter_name": "Chương 132: Bữa tiệc sinh nhật của thư ký trưởng Vương (2)",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-132/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_133_Chặn_xe_khiêu_khích.json",
+    "chapter_name": "Chương 133: Chặn xe khiêu khích",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-133/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_134_Từ_trong_quần_chúng_đi_vào_trong_quần_chúng.json",
+    "chapter_name": "Chương 134: Từ trong quần chúng đi vào trong quần chúng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-134/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_135_Con_rồng_cũng_phải_cúi_xuống_cho_ta.json",
+    "chapter_name": "Chương 135: Con rồng cũng phải cúi xuống cho ta",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-135/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_136_Anh_làm_việc_thì_tôi_yên_tâm.json",
+    "chapter_name": "Chương 136: Anh làm việc thì tôi yên tâm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-136/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_137_Làm_quan_không_tác_chủ_cho_dân_thì_không_bằng_về_nhà_bán_khoai_lang.json",
+    "chapter_name": "Chương 137: Làm quan không tác chủ cho dân thì không bằng về nhà bán khoai lang",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-137/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_138_Dù_có_mất_chức_cũng_không_chịu_xử_lý.json",
+    "chapter_name": "Chương 138: Dù có mất chức cũng không chịu xử lý",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-138/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_139_Ngõ_vắng_lặng.json",
+    "chapter_name": "Chương 139: Ngõ vắng lặng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-139/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_140_Chó_không_thể_không_sủa_mèo_không_thể_không_ăn_vụng.json",
+    "chapter_name": "Chương 140: Chó không thể không sủa, mèo không thể không ăn vụng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-140/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_141_Dân_tâm_ổn_thì_thiên_hạ_hưng.json",
+    "chapter_name": "Chương 141: Dân tâm ổn thì thiên hạ hưng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-141/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_142_Anh_chỉ_liều_mạng_vì_em.json",
+    "chapter_name": "Chương 142: Anh chỉ liều mạng vì em",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-142/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_143_Liều_mạng_cha.json",
+    "chapter_name": "Chương 143: Liều mạng cha",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-143/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_144_Là_ai.json",
+    "chapter_name": "Chương 144: Là ai?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-144/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_145_Yêu_giang_sơn_và_cũng_thích_người_đẹp.json",
+    "chapter_name": "Chương 145: Yêu giang sơn và cũng thích người đẹp",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-145/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_146_Hai_tay_nắm_hai_tay_đều_phải_cứng.json",
+    "chapter_name": "Chương 146: Hai tay nắm, hai tay đều phải cứng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-146/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_147_Cương_vị_ghẻ_lạnh.json",
+    "chapter_name": "Chương 147: Cương vị ghẻ lạnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-147/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_148_Rồng_sinh_rồng_phượng_sinh_phượng_con_chuột_đào_hang.json",
+    "chapter_name": "Chương 148: Rồng sinh rồng phượng sinh phượng, con chuột đào hang",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-148/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_149_Tôi_dùng_danh_nghĩa_của_thần_để_cảnh_cáo_anh_Phàm_nhân_chớ_quấy_rầy.json",
+    "chapter_name": "Chương 149: Tôi dùng danh nghĩa của thần để cảnh cáo anh: Phàm nhân chớ quấy rầy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-149/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_150_Xuân_phong_đắc_ý_Phàm_nhân_chớ_quấy_rầy.json",
+    "chapter_name": "Chương 150: Xuân phong đắc ý: Phàm nhân chớ quấy rầy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-150/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_151_Muốn_ngựa_chạy_phải_cho_ngựa_ăn_cỏ_Phàm_nhân_chớ_quấy_rầy.json",
+    "chapter_name": "Chương 151: Muốn ngựa chạy phải cho ngựa ăn cỏ: Phàm nhân chớ quấy rầy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-151/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_152_Thế_thân_Phàm_nhân_chớ_quấy_rầy.json",
+    "chapter_name": "Chương 152: Thế thân: Phàm nhân chớ quấy rầy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-152/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_153_Cá_và_gấu_không_thể_ở_cùng_nhau_Phàm_nhân_chớ_quấy_rầy.json",
+    "chapter_name": "Chương 153: Cá và gấu không thể ở cùng nhau: Phàm nhân chớ quấy rầy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-153/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_154_Cán_bộ_là_một_viên_gạch_nên_chuyển_vào_đúng_thời_điểm.json",
+    "chapter_name": "Chương 154: Cán bộ là một viên gạch nên chuyển vào đúng thời điểm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-154/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_155_Dòng_nước_xiết_không_tiến_thì_lui.json",
+    "chapter_name": "Chương 155: Dòng nước xiết không tiến thì lui",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-155/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_156_Gặp_nữ_quân_nhân_trên_đường_đi.json",
+    "chapter_name": "Chương 156: Gặp nữ quân nhân trên đường đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-156/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_157_Kiếp_trước_ngoái_đầu_nhìn_lại_kiếp_này_tương_kiến.json",
+    "chapter_name": "Chương 157: Kiếp trước ngoái đầu nhìn lại, kiếp này tương kiến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-157/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_158_Từ_chim_bồ_câu_đến_vĩnh_cửu.json",
+    "chapter_name": "Chương 158: Từ chim bồ câu đến vĩnh cửu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-158/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_159_Từ_chim_bồ_câu_đến_vĩnh_cửu_2.json",
+    "chapter_name": "Chương 159: Từ chim bồ câu đến vĩnh cửu (2)",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-159/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_160_Giết_gà_dọa_khỉ.json",
+    "chapter_name": "Chương 160: Giết gà dọa khỉ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-160/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_161_Đạo_lý_trung_dung.json",
+    "chapter_name": "Chương 161: Đạo lý trung dung",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-161/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_162_Trung_tâm.json",
+    "chapter_name": "Chương 162: Trung tâm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-162/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_163_Thiếu_nợ_hạt_vừng_trả_lại_quả_dưa_hấu.json",
+    "chapter_name": "Chương 163: Thiếu nợ hạt vừng trả lại quả dưa hấu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-163/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_164_Không_vượt_quyền_không_biểu_hiện.json",
+    "chapter_name": "Chương 164: Không vượt quyền, không biểu hiện",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-164/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_165_Không_cầm_kim_cương_không_ôm_đồ_sứ.json",
+    "chapter_name": "Chương 165: Không cầm kim cương không ôm đồ sứ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-165/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_166_Không_bột_đố_gột_nên_hồ.json",
+    "chapter_name": "Chương 166: Không bột đố gột nên hồ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-166/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_167_Rút_củi_đáy_nồi.json",
+    "chapter_name": "Chương 167: Rút củi đáy nồi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-167/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_168_Chuyện_có_hồi_âm_sự_việc_ắt_có_manh_mối.json",
+    "chapter_name": "Chương 168: Chuyện có hồi âm, sự việc ắt có manh mối",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-168/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_169_Hôm_nay_không_xem_tôi_là_bạn_ngày_mai_tôi_sẽ_là_đối_thủ_của_anh.json",
+    "chapter_name": "Chương 169: Hôm nay không xem tôi là bạn, ngày mai tôi sẽ là đối thủ của anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-169/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_170_Lời_của_lãnh_đạo_là_vàng_ngọc.json",
+    "chapter_name": "Chương 170: Lời của lãnh đạo là vàng ngọc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-170/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_171_Trên_người_của_anh_có_mùi_nước_hoa_của_cô_ấy.json",
+    "chapter_name": "Chương 171: Trên người của anh có mùi nước hoa của cô ấy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-171/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_172_Ra_chiêu_mạnh_mẽ_áp_chế_cường_địch.json",
+    "chapter_name": "Chương 172: Ra chiêu mạnh mẽ áp chế cường địch",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-172/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_173_Em_là_phụ_nữ_của_anh_anh_là_mặt_trời_của_em.json",
+    "chapter_name": "Chương 173: Em là phụ nữ của anh, anh là mặt trời của em",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-173/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_174_Trán_tướng_quân_có_thể_phi_ngựa_bụng_có_thể_chống_thuyền.json",
+    "chapter_name": "Chương 174: Trán tướng quân có thể phi ngựa, bụng có thể chống thuyền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-174/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_175_Đứng_cao_mới_thấy_xa.json",
+    "chapter_name": "Chương 175: Đứng cao mới thấy xa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-175/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_176_Thanh_niên_nếu_xúc_động_sẽ_là_ma_quỷ.json",
+    "chapter_name": "Chương 176: Thanh niên nếu xúc động sẽ là ma quỷ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-176/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_177_Đừng_chọc_vào_anh.json",
+    "chapter_name": "Chương 177: Đừng chọc vào anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-177/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_178_Nói_chuyện.json",
+    "chapter_name": "Chương 178: Nói chuyện",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-178/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_179_Bất_ngờ_gặp_mặt.json",
+    "chapter_name": "Chương 179: Bất ngờ gặp mặt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-179/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_180_Măng_non_héo_tàn.json",
+    "chapter_name": "Chương 180: Măng non héo tàn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-180/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_181_Con_sâu_làm_rầu_nồi_canh.json",
+    "chapter_name": "Chương 181: Con sâu làm rầu nồi canh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-181/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_182_Biểu_hiện_năng_lực_thể_hiện_tài_năng_rèn_luyện_khả_năng.json",
+    "chapter_name": "Chương 182: Biểu hiện năng lực, thể hiện tài năng, rèn luyện khả năng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-182/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_183_Quyền_nặng_đưa_ra.json",
+    "chapter_name": "Chương 183: Quyền nặng đưa ra",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-183/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_184_Anh_mạnh_tôi_yếu_anh_yếu_tôi_mạnh.json",
+    "chapter_name": "Chương 184: Anh mạnh tôi yếu, anh yếu tôi mạnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-184/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_185_Đủ_mọi_đường_mọi_hướng_mọi_cách.json",
+    "chapter_name": "Chương 185: Đủ mọi đường, mọi hướng, mọi cách",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-185/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_186_Yêu_không_được_hận_không_xong.json",
+    "chapter_name": "Chương 186: Yêu không được, hận không xong",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-186/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_187_Thân_cận.json",
+    "chapter_name": "Chương 187: Thân cận",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-187/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_188_Tôi_chính_là_tôi.json",
+    "chapter_name": "Chương 188: Tôi chính là tôi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-188/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_189_Tất_cả_đều_có_thể.json",
+    "chapter_name": "Chương 189: Tất cả đều có thể",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-189/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_190_Mãnh_thú_dễ_khuất_phục_nhân_tâm_khó_cúi_đầu.json",
+    "chapter_name": "Chương 190: Mãnh thú dễ khuất phục, nhân tâm khó cúi đầu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-190/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_191_Ngồi_xem_long_tranh_hổ_đấu.json",
+    "chapter_name": "Chương 191: Ngồi xem long tranh hổ đấu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-191/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_192_Lùi_một_bước_trời_cao_biển_rộng.json",
+    "chapter_name": "Chương 192: Lùi một bước trời cao biển rộng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-192/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_193_Bất_đắc_dĩ_thằng_mù_cưỡi_ngựa.json",
+    "chapter_name": "Chương 193: Bất đắc dĩ thằng mù cưỡi ngựa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-193/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_194_Tặng_anh_một_dĩa_bánh_trái.json",
+    "chapter_name": "Chương 194: Tặng anh một dĩa bánh trái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-194/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_195_Nhân_tài_cười_vào_lúc_cuối_cùng.json",
+    "chapter_name": "Chương 195: Nhân tài cười vào lúc cuối cùng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-195/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_196_Anh_phải_tìm_em_dù_là_nam_hay_bắc.json",
+    "chapter_name": "Chương 196: Anh phải tìm em dù là nam hay bắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-196/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_197_Minh_thương_dễ_tránh_ám_tiễn_khó_phòng.json",
+    "chapter_name": "Chương 197: Minh thương dễ tránh ám tiễn khó phòng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-197/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_198_Mượn_hoa_hiến_phật.json",
+    "chapter_name": "Chương 198: Mượn hoa hiến phật",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-198/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_199_Từ_trên_trời_rơi_xuống_một_cô_em_gái.json",
+    "chapter_name": "Chương 199: Từ trên trời rơi xuống một cô em gái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-199/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_200_Tay_bỏ_vào_túi_tiền.json",
+    "chapter_name": "Chương 200: Tay bỏ vào túi tiền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-200/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_201_Tôi_là_một_cây_tăm_sét_sẽ_đâm_vỡ_răng.json",
+    "chapter_name": "Chương 201: Tôi là một cây tăm sét, sẽ đâm vỡ răng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-201/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_202_Câu_cá_lớn.json",
+    "chapter_name": "Chương 202: Câu cá lớn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-202/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_203_Bắn_tên_không_thu_hồi.json",
+    "chapter_name": "Chương 203: Bắn tên không thu hồi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-203/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_204_Mở_cửa_sổ_ngoài_gió_còn_có_muỗi.json",
+    "chapter_name": "Chương 204: Mở cửa sổ ngoài gió còn có muỗi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-204/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_205_Kéo_hoàng_đế_xuống_ngựa.json",
+    "chapter_name": "Chương 205: Kéo hoàng đế xuống ngựa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-205/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_206_Có_một_loại_ăn_ý_thầm_hiểu_lẫn_nhau.json",
+    "chapter_name": "Chương 206: Có một loại ăn ý thầm hiểu lẫn nhau",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-206/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_207_Bắt_tay_xong_mới_biết_tốt_xấu.json",
+    "chapter_name": "Chương 207: Bắt tay xong mới biết tốt xấu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-207/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_208_Điều_tra_đến_cùng.json",
+    "chapter_name": "Chương 208: Điều tra đến cùng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-208/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_209_Em_là_hoa_hồng_của_anh.json",
+    "chapter_name": "Chương 209: Em là hoa hồng của anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-209/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_210_Không_muốn_nói_lời_tạm_biệt_với_em.json",
+    "chapter_name": "Chương 210: Không muốn nói lời tạm biệt với em",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-210/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_211_Mới_đến_đã_muốn_ta_nhớ_cả_đời.json",
+    "chapter_name": "Chương 211: Mới đến đã muốn ta nhớ cả đời",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-211/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_212_Phát_triển_mới_là_đạo_lý_cứng.json",
+    "chapter_name": "Chương 212: Phát triển mới là đạo lý cứng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-212/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_213_Nếu_muốn_giàu_thì_trước_tiên_phải_sửa_đường.json",
+    "chapter_name": "Chương 213: Nếu muốn giàu thì trước tiên phải sửa đường",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-213/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_214_Đến_gần_anh_làm_em_cảm_thấy_ấm_áp.json",
+    "chapter_name": "Chương 214: Đến gần anh làm em cảm thấy ấm áp",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-214/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_215_Nghiên_cứu.json",
+    "chapter_name": "Chương 215: Nghiên cứu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-215/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_216_Có_lý_tưởng_có_cảm_giác_rất_tốt.json",
+    "chapter_name": "Chương 216: Có lý tưởng có cảm giác rất tốt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-216/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_217_Nâng_lên_rồi_giết.json",
+    "chapter_name": "Chương 217: Nâng lên rồi giết",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-217/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_218_Anh_là_công_thần_của_thành_phố_này.json",
+    "chapter_name": "Chương 218: Anh là công thần của thành phố này",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-218/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_219_Đốt_một_ngọn_đèn_chiếu_rộng_cả_không_gian.json",
+    "chapter_name": "Chương 219: Đốt một ngọn đèn chiếu rộng cả không gian",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-219/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_220_Tiêu_khiển_giải_trí_cũng_là_công_tác_cách_mạng.json",
+    "chapter_name": "Chương 220: Tiêu khiển giải trí cũng là công tác cách mạng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-220/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_221_Vận_sức_chờ_phát_động.json",
+    "chapter_name": "Chương 221: Vận sức chờ phát động",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-221/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_222_Một_thoáng_trời_tối_đen.json",
+    "chapter_name": "Chương 222: Một thoáng trời tối đen",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-222/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_223_Không_có_Bá_Nhạc_không_có_Thường_Hữu.json",
+    "chapter_name": "Chương 223: Không có Bá Nhạc không có Thường Hữu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-223/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_224_Cầu_vồng_sau_cơn_mưa.json",
+    "chapter_name": "Chương 224: Cầu vồng sau cơn mưa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-224/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_225_Hoa_dại_ven_đường_không_dễ_hái.json",
+    "chapter_name": "Chương 225: Hoa dại ven đường không dễ hái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-225/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_226_Trong_ổn_định_ngoài_bồng_bềnh.json",
+    "chapter_name": "Chương 226: Trong ổn định ngoài bồng bềnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-226/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_227_Bị_chị_Hồng_cắm_sừng.json",
+    "chapter_name": "Chương 227: Bị chị Hồng cắm sừng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-227/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_228_Xúc_động_sẽ_bị_trừng_phạt.json",
+    "chapter_name": "Chương 228: Xúc động sẽ bị trừng phạt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-228/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_229_Chụp_hình_và_viết_báo_cáo.json",
+    "chapter_name": "Chương 229: Chụp hình và viết báo cáo",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-229/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_230_Mùa_xuân_đến.json",
+    "chapter_name": "Chương 230: Mùa xuân đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-230/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_231_Binh_tới_tướng_đỡ_nước_lên_đắp_đê.json",
+    "chapter_name": "Chương 231: Binh tới tướng đỡ, nước lên đắp đê",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-231/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_232_Như_gần_như_xa.json",
+    "chapter_name": "Chương 232: Như gần như xa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-232/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_233_Bắt_chước_nhưng_chưa_từng_vượt_qua.json",
+    "chapter_name": "Chương 233: Bắt chước nhưng chưa từng vượt qua",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-233/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_234_Có_tiền_có_thể_sai_khiến_được_cả_ma_quỷ.json",
+    "chapter_name": "Chương 234: Có tiền có thể sai khiến được cả ma quỷ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-234/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_235_Cứ_tự_bảo_vệ_tôi_không_sao_cả.json",
+    "chapter_name": "Chương 235: Cứ tự bảo vệ, tôi không sao cả",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-235/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_236_Sự_thật_quá_giả_cũng_là_ngươi_ngu_ngốc.json",
+    "chapter_name": "Chương 236: Sự thật quá giả cũng là ngươi ngu ngốc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-236/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_237_Con_chuột_chạy_phía_trước_cây_sào_ở_phía_sau.json",
+    "chapter_name": "Chương 237: Con chuột chạy phía trước, cây sào ở phía sau",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-237/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_238_Tôi_cho_anh_đẹp_mặt.json",
+    "chapter_name": "Chương 238: Tôi cho anh đẹp mặt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-238/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_239_Lãnh_đạo_phê_bình_là_một_mâm_bánh_trái.json",
+    "chapter_name": "Chương 239: Lãnh đạo phê bình là một mâm bánh trái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-239/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_240_Chấp_pháp_cần_phải_nghiêm_làm_trái_pháp_luật_cần_phải_truy_cứu.json",
+    "chapter_name": "Chương 240: Chấp pháp cần phải nghiêm, làm trái pháp luật cần phải truy cứu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-240/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_241_Kịch_hay_mở_màn.json",
+    "chapter_name": "Chương 241: Kịch hay mở màn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-241/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_242_Kết_thúc_công_việc_một_cách_đặc_sắc.json",
+    "chapter_name": "Chương 242: Kết thúc công việc một cách đặc sắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-242/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_243_Cho_anh_một_cơ_hội_lộ_mặt.json",
+    "chapter_name": "Chương 243: Cho anh một cơ hội lộ mặt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-243/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_244_Một_chuyện_còn_chưa_xong_thì_một_chuyện_đã_đến.json",
+    "chapter_name": "Chương 244: Một chuyện còn chưa xong thì một chuyện đã đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-244/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_245_Thành_tích_không_nói_sẽ_không_chạy_đi_vấn_đề_là_không_nói_vẫn_hiểu.json",
+    "chapter_name": "Chương 245: Thành tích không nói sẽ không chạy đi, vấn đề là không nói vẫn hiểu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-245/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_246_Cho_anh_gặp_lại_em_một_lần_nữa.json",
+    "chapter_name": "Chương 246: Cho anh gặp lại em một lần nữa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-246/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_247_Tôi_cho_cô_dựa_vào.json",
+    "chapter_name": "Chương 247: Tôi cho cô dựa vào",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-247/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_248_Cậu_là_anh_em_của_tôi.json",
+    "chapter_name": "Chương 248: Cậu là anh em của tôi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-248/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_249_Phóng_ra_trực_diện.json",
+    "chapter_name": "Chương 249: Phóng ra trực diện",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-249/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_250_Sắp_xếp_chờ_mưa_gió_đến.json",
+    "chapter_name": "Chương 250: Sắp xếp chờ mưa gió đến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-250/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_251_Nước_hoa_Cổ_Long.json",
+    "chapter_name": "Chương 251: Nước hoa Cổ Long",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-251/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_252_Đã_xảy_ra_chuyện.json",
+    "chapter_name": "Chương 252: Đã xảy ra chuyện",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-252/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_253_Có_cảm_nhận_sâu_sắc.json",
+    "chapter_name": "Chương 253: Có cảm nhận sâu sắc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-253/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_254_Giả_làm_sói_không_hay_bằng_giả_làm_cừu_1.json",
+    "chapter_name": "Chương 254: Giả làm sói không hay bằng giả làm cừu (1)",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-254/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_255_Giả_làm_sói_không_hay_bằng_giả_làm_cừu_2.json",
+    "chapter_name": "Chương 255: Giả làm sói không hay bằng giả làm cừu (2)",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-255/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_256_Chính_trị_cần_ngộ_tính.json",
+    "chapter_name": "Chương 256: Chính trị cần ngộ tính",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-256/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_257_Thà_làm_chó_trong_quan_trường_còn_hơn_làm_anh_hùng_trên_thương_trường.json",
+    "chapter_name": "Chương 257: Thà làm chó trong quan trường còn hơn làm anh hùng trên thương trường",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-257/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_258_Nóng_đầu_cho_ra_quyết_sách.json",
+    "chapter_name": "Chương 258: Nóng đầu cho ra quyết sách",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-258/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_259_Kêu_gọi_đầu_tư_có_nguy_hiểm_nên_cẩn_thận.json",
+    "chapter_name": "Chương 259: Kêu gọi đầu tư có nguy hiểm, nên cẩn thận",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-259/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_260_Ngày_xưa_một_đường_đến_Hoa_Sơn_bây_giờ_một_đường_chính_trị_tô_son_thiếp_vàng.json",
+    "chapter_name": "Chương 260: Ngày xưa một đường đến Hoa Sơn, bây giờ một đường chính trị tô son thiếp vàng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-260/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_261_Chờ_mong_thời_khắc_được_thấy_kỳ_tích.json",
+    "chapter_name": "Chương 261: Chờ mong thời khắc được thấy kỳ tích",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-261/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_262_Sáng_ý_chính_là_tài_phú.json",
+    "chapter_name": "Chương 262: Sáng ý chính là tài phú",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-262/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_263_Phải_thử_Phải_đổi_mới.json",
+    "chapter_name": "Chương 263: Phải thử, Phải đổi mới",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-263/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_264_Không_ai_không_thích_chủ_tịch_Mao.json",
+    "chapter_name": "Chương 264: Không ai không thích chủ tịch Mao",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-264/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_265_Không_ma_xát_thì_lấy_đâu_ra_lửa.json",
+    "chapter_name": "Chương 265: Không ma xát thì lấy đâu ra lửa?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-265/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_266_Lên_đài_thì_dễ_mà_chào_cảm_ơn_lại_khó.json",
+    "chapter_name": "Chương 266: Lên đài thì dễ mà chào cảm ơn lại khó",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-266/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_267_Tiến_lui_trong_vòng_xoáy_phải_có_chừng_mực.json",
+    "chapter_name": "Chương 267: Tiến lui trong vòng xoáy phải có chừng mực",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-267/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_268_Lúc_này_không_có_tiếng_động_thì_hay_hơn.json",
+    "chapter_name": "Chương 268: Lúc này không có tiếng động thì hay hơn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-268/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_269_Mượn_lực_phát_lực_đúng_là_hãm_hại_người.json",
+    "chapter_name": "Chương 269: Mượn lực phát lực đúng là hãm hại người",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-269/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_270_Cá_nhân_phục_tùng_tập_thể_tập_thể_phục_tùng_toàn_cục.json",
+    "chapter_name": "Chương 270: Cá nhân phục tùng tập thể, tập thể phục tùng toàn cục",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-270/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_271_Là_người_đều_như_vậy_tôi_cũng_không_ngoại_lệ.json",
+    "chapter_name": "Chương 271: Là người đều như vậy, tôi cũng không ngoại lệ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-271/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_272_Anh_hát_tôi_lên_đài.json",
+    "chapter_name": "Chương 272: Anh hát tôi lên đài",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-272/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_273_Thủy_triều_lên_xuống_tuyệt_xử_phùng_sanh.json",
+    "chapter_name": "Chương 273: Thủy triều lên xuống tuyệt xử phùng sanh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-273/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_274_Anh_chính_là_kỳ_tích.json",
+    "chapter_name": "Chương 274: Anh chính là kỳ tích",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-274/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_275_Trên_nhìn_thiên_dưới_nhìn_địa_giữa_nhìn_không_khí.json",
+    "chapter_name": "Chương 275: Trên nhìn thiên, dưới nhìn địa, giữa nhìn không khí",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-275/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_276_Người_không_thể_nhịn_tiểu_đến_chết.json",
+    "chapter_name": "Chương 276: Người không thể nhịn tiểu đến chết",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-276/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_277_Ai_cầm_dải_lụa_đưa_lên_cao.json",
+    "chapter_name": "Chương 277: Ai cầm dải lụa đưa lên cao",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-277/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_278_Nâng_ly_chung_vui.json",
+    "chapter_name": "Chương 278: Nâng ly chung vui",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-278/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_279_Không_phải_là_cậu_thì_không_ai_hơn.json",
+    "chapter_name": "Chương 279: Không phải là cậu thì không ai hơn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-279/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_280_Có_tài_khống_chế.json",
+    "chapter_name": "Chương 280: Có tài khống chế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-280/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_281_Đun_nước_sôi_thì_vịt_bay_mất.json",
+    "chapter_name": "Chương 281: Đun nước sôi thì vịt bay mất",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-281/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_282_Đừng_cầm_tính_cách_của_anh_để_khiêu_chiến_với_tính_tình_của_tôi.json",
+    "chapter_name": "Chương 282: Đừng cầm tính cách của anh để khiêu chiến với tính tình của tôi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-282/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_283_Giả_vờ_như_thật.json",
+    "chapter_name": "Chương 283: Giả vờ như thật",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-283/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_284_Không_sợ_đặc_quyền_không_ngồi_xe_đặc_quyền.json",
+    "chapter_name": "Chương 284: Không sợ đặc quyền, không ngồi xe đặc quyền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-284/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_285_Sao_để_cá_và_gấu_sống_chung.json",
+    "chapter_name": "Chương 285: Sao để cá và gấu sống chung?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-285/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_286_Cần_lớn_gan_làm_việc.json",
+    "chapter_name": "Chương 286: Cần lớn gan làm việc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-286/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_287_Có_phúc_cùng_hưởng.json",
+    "chapter_name": "Chương 287: Có phúc cùng hưởng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-287/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_288_Một_đấm_vào_bông.json",
+    "chapter_name": "Chương 288: Một đấm vào bông",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-288/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_289_Thay_đổi_là_linh_hồn_của_người_cầu_tiến.json",
+    "chapter_name": "Chương 289: Thay đổi là linh hồn của người cầu tiến",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-289/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_290_Ức_hiếp_người_thật_sự_rất_khoái_cảm.json",
+    "chapter_name": "Chương 290: Ức hiếp người thật sự rất khoái cảm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-290/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_291_Phóng_ra_sấm_sét.json",
+    "chapter_name": "Chương 291: Phóng ra sấm sét",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-291/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_292_Một_chiêu_chế_địch.json",
+    "chapter_name": "Chương 292: Một chiêu chế địch",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-292/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_293_Nhớ_kỹ_là_kẻ_có_thù_tất_báo.json",
+    "chapter_name": "Chương 293: Nhớ kỹ là kẻ có thù tất báo",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-293/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_294_Thân_nhân_ta_lấy_gì_an_ủi_anh.json",
+    "chapter_name": "Chương 294: Thân nhân ta lấy gì an ủi anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-294/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_295_Chất_lượng_là_danh_dự_hàng_đầu.json",
+    "chapter_name": "Chương 295: Chất lượng là danh dự hàng đầu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-295/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_296_Quan_viên_được_lợi_dân_chúng_tính_tiền.json",
+    "chapter_name": "Chương 296: Quan viên được lợi dân chúng tính tiền",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-296/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_297_Lãnh_đạo_mở_miệng_bên_dưới_chạy_mỏi_chân.json",
+    "chapter_name": "Chương 297: Lãnh đạo mở miệng bên dưới chạy mỏi chân",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-297/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_298_Giúp_nhau_diễn_một_vở_kịch_hay.json",
+    "chapter_name": "Chương 298: Giúp nhau diễn một vở kịch hay",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-298/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_299_Phục_tùng_như_lừa.json",
+    "chapter_name": "Chương 299: Phục tùng như lừa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-299/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_300_Đón_xe_cáo_trạng.json",
+    "chapter_name": "Chương 300: Đón xe cáo trạng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-300/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_301_Gió_thổi_mạnh_trên_đất_bằng.json",
+    "chapter_name": "Chương 301: Gió thổi mạnh trên đất bằng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-301/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_302_Bày_mưu_nghĩ_kế.json",
+    "chapter_name": "Chương 302: Bày mưu nghĩ kế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-302/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_303_Con_rận_trên_đầu_lãnh_đạo_cũng_có_hai_mắt.json",
+    "chapter_name": "Chương 303: Con rận trên đầu lãnh đạo cũng có hai mắt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-303/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_304_Đúng_lúc_sẽ_gọi_thiên_lý_mã.json",
+    "chapter_name": "Chương 304: Đúng lúc sẽ gọi thiên lý mã",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-304/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_305_Lời_ra_khỏi_miệng_như_nước_đổ_khó_hốt.json",
+    "chapter_name": "Chương 305: Lời ra khỏi miệng như nước đổ khó hốt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-305/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_306_Cứng_thì_dễ_gãy.json",
+    "chapter_name": "Chương 306: Cứng thì dễ gãy",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-306/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_307_Gió_đông_bùng_lên_trống_trận_đùng_đùng.json",
+    "chapter_name": "Chương 307: Gió đông bùng lên, trống trận đùng đùng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-307/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_308_Đứng_nghiêm_chào.json",
+    "chapter_name": "Chương 308: Đứng nghiêm chào",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-308/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_309_Dương_mưu_đường_đường_chính_chính.json",
+    "chapter_name": "Chương 309: Dương mưu đường đường chính chính",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-309/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_310_Con_bài_tẩy_của_anh_trong_tay_tôi.json",
+    "chapter_name": "Chương 310: Con bài tẩy của anh trong tay tôi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-310/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_311_Sinh_mạng_quý_ở_chỗ_vận_động_cán_bộ_chỉ_chú_trọng_điều_chỉnh.json",
+    "chapter_name": "Chương 311: Sinh mạng quý ở chỗ vận động, cán bộ chỉ chú trọng điều chỉnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-311/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_312_Giậm_chân_tại_chỗ_nhưng_vẫn_thâm_hụt_tiền_bạc.json",
+    "chapter_name": "Chương 312: Giậm chân tại chỗ nhưng vẫn thâm hụt tiền bạc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-312/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_313_Bưng_bát_cơm_lên_ăn_đặt_đũa_xuống_chửi_chó_má.json",
+    "chapter_name": "Chương 313: Bưng bát cơm lên ăn, đặt đũa xuống chửi chó má",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-313/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_314_Có_lợi_tranh_nhau_quản_lý_không_lợi_đùn_đẩy_cãi_vả.json",
+    "chapter_name": "Chương 314: Có lợi tranh nhau quản lý, không lợi đùn đẩy cãi vả",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-314/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_315_Một_viên_đá_làm_bùng_lên_vạn_con_sóng.json",
+    "chapter_name": "Chương 315: Một viên đá làm bùng lên vạn con sóng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-315/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_316_Hợp_tung_liên_hoành_tứ_phương_động.json",
+    "chapter_name": "Chương 316: Hợp tung liên hoành tứ phương động",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-316/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_317_Ông_trời_đã_chú_định_thì_dù_có_cố_gắng_thế_nào_cũng_vô_ích.json",
+    "chapter_name": "Chương 317: Ông trời đã chú định thì dù có cố gắng thế nào cũng vô ích",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-317/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_318_Lấy_nguyên_tắc_thỏa_mãn_lãnh_đạo_làm_tôn_chỉ.json",
+    "chapter_name": "Chương 318: Lấy nguyên tắc thỏa mãn lãnh đạo làm tôn chỉ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-318/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_319_Nghiên_cứu_là_một_công_tác_quan_trọng.json",
+    "chapter_name": "Chương 319: Nghiên cứu là một công tác quan trọng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-319/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_320_Đi_đến_bên_cửa_sổ_nhìn_khắp_thế_giới.json",
+    "chapter_name": "Chương 320: Đi đến bên cửa sổ nhìn khắp thế giới",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-320/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_321_Giương_buồm_ra_biển_cả.json",
+    "chapter_name": "Chương 321: Giương buồm ra biển cả",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-321/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_322_Người_trong_mộng.json",
+    "chapter_name": "Chương 322: Người trong mộng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-322/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_323_Muốn_tâng_bốc_cũng_cần_có_đại_trí_tuệ.json",
+    "chapter_name": "Chương 323: Muốn tâng bốc cũng cần có đại trí tuệ",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-323/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_324_Trước_khi_làm_chuyện_xấu_là_anh_hùng_sau_khi_làm_chuyện_xấu_là_cẩu_hùng.json",
+    "chapter_name": "Chương 324: Trước khi làm chuyện xấu là anh hùng, sau khi làm chuyện xấu là cẩu hùng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-324/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_325_Quá_trình_kiến_thiết_huyện_Lô_Bắc_phát_triển_cực_nhanh.json",
+    "chapter_name": "Chương 325: Quá trình kiến thiết huyện Lô Bắc phát triển cực nhanh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-325/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_326_Dê_bò_thành_đàn_cây_ăn_quả_thành_rừng.json",
+    "chapter_name": "Chương 326: Dê bò thành đàn, cây ăn quả thành rừng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-326/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_327_Mèo_sao_có_thể_mang_tiếng_oan_thay_chuột.json",
+    "chapter_name": "Chương 327: Mèo sao có thể mang tiếng oan thay chuột",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-327/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_328_Anh_lừa_dối_tôi_chỉ_có_thể_cho_anh_chết_chìm.json",
+    "chapter_name": "Chương 328: Anh lừa dối, tôi chỉ có thể cho anh chết chìm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-328/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_329_Các_bài_viết_trong_thiên_hạ_đều_là_bản_sao.json",
+    "chapter_name": "Chương 329: Các bài viết trong thiên hạ đều là bản sao",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-329/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_330_Tuyên_ngôn_tình_yêu_chính_là_quảng_cáo.json",
+    "chapter_name": "Chương 330: Tuyên ngôn tình yêu chính là quảng cáo",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-330/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_331_Kế_sách.json",
+    "chapter_name": "Chương 331: Kế sách",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-331/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_332_Nuôi_binh_ngàn_ngày_sử_dụng_nhất_thời.json",
+    "chapter_name": "Chương 332: Nuôi binh ngàn ngày sử dụng nhất thời",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-332/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_333_Ma_đao_không_dùng_đi_chém_củi.json",
+    "chapter_name": "Chương 333: Ma đao không dùng đi chém củi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-333/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_334_Một_là_kẻ_lỗ_mãng_một_là_anh_hùng.json",
+    "chapter_name": "Chương 334: Một là kẻ lỗ mãng, một là anh hùng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-334/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_335_Tôi_không_muốn_bị_dội_nước_bẩn_vào_người.json",
+    "chapter_name": "Chương 335: Tôi không muốn bị dội nước bẩn vào người",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-335/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_336_Chỗ_nào_có_mỹ_nữ_cũng_là_thiên_đường.json",
+    "chapter_name": "Chương 336: Chỗ nào có mỹ nữ cũng là thiên đường",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-336/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_337_Chúng_ta_kết_hôn.json",
+    "chapter_name": "Chương 337: Chúng ta kết hôn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-337/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_338_Chặt_một_thân_cây_gieo_xuống_ba_hạt.json",
+    "chapter_name": "Chương 338: Chặt một thân cây gieo xuống ba hạt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-338/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_339_Hét_rách_họng_không_bằng_làm_gì_đó.json",
+    "chapter_name": "Chương 339: Hét rách họng không bằng làm gì đó",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-339/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_340_Cười_vui_vẻ_nhưng_lòng_đầy_thương_cảm.json",
+    "chapter_name": "Chương 340: Cười vui vẻ nhưng lòng đầy thương cảm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-340/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_341_Đó_là_người_tôi_yêu_nhưng_nhân_vật_chính_trong_hôn_lễ_không_phải_là_tôi.json",
+    "chapter_name": "Chương 341: Đó là người tôi yêu, nhưng nhân vật chính trong hôn lễ không phải là tôi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-341/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_342_Quyết_định_ôm_cây_lớn_không_buông.json",
+    "chapter_name": "Chương 342: Quyết định ôm cây lớn không buông",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-342/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_343_Đêm_động_phòng_hoa_chúc.json",
+    "chapter_name": "Chương 343: Đêm động phòng hoa chúc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-343/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_344_Tôi_dùng_tính_mạng_kêu_gọi_anh.json",
+    "chapter_name": "Chương 344: Tôi dùng tính mạng kêu gọi anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-344/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_345_Có_đài_có_báo_có_truyền_hình.json",
+    "chapter_name": "Chương 345: Có đài có báo có truyền hình",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-345/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_346_Quần_chúng_gặp_nạn_khó_có_thể_bình_an.json",
+    "chapter_name": "Chương 346: Quần chúng gặp nạn khó có thể bình an",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-346/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_347_Đưa_cả_bố_ra.json",
+    "chapter_name": "Chương 347: Đưa cả bố ra",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-347/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_348_Đứng_bên_sông_nhìn_qua_phong_cảnh_bên_kia_sông_mênh_mang_cuồn_cuộn.json",
+    "chapter_name": "Chương 348: Đứng bên sông nhìn qua, phong cảnh bên kia sông mênh mang cuồn cuộn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-348/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_349_Vô_chiêu_thắng_hữu_chiêu.json",
+    "chapter_name": "Chương 349: Vô chiêu thắng hữu chiêu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-349/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_350_Ai_làm_loạn_tôi_sẽ_gỡ_mũ_ô_sa_của_kẻ_đó.json",
+    "chapter_name": "Chương 350: Ai làm loạn tôi sẽ gỡ mũ ô sa của kẻ đó",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-350/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_351_Vạch_trần_quá_sớm_cũng_là_do_anh_hành_động_quá_kém.json",
+    "chapter_name": "Chương 351: Vạch trần quá sớm cũng là do anh hành động quá kém",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-351/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_352_Sói_và_cừu.json",
+    "chapter_name": "Chương 352: Sói và cừu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-352/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_353_Vết_nhơ_cả_đời.json",
+    "chapter_name": "Chương 353: Vết nhơ cả đời",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-353/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_354_Hồ_đồ_ra_đi.json",
+    "chapter_name": "Chương 354: Hồ đồ ra đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-354/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_355_Thương_con.json",
+    "chapter_name": "Chương 355: Thương con",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-355/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_356_Đấu_tranh_chính_trị_anh_chưa_đến_tôi_chưa_đi.json",
+    "chapter_name": "Chương 356: Đấu tranh chính trị, anh chưa đến tôi chưa đi",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-356/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_357_Kẻ_thông_minh_không_lo_kẻ_có_chút_kiến_thức_lại_vui_mừng.json",
+    "chapter_name": "Chương 357: Kẻ thông minh không lo, kẻ có chút kiến thức lại vui mừng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-357/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_358_Mười_thớt_ngựa_yếu_cũng_có_thể_chạy_xa_ngàn_dặm.json",
+    "chapter_name": "Chương 358: Mười thớt ngựa yếu cũng có thể chạy xa ngàn dặm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-358/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_359_Kẻ_nào_chọc_ra.json",
+    "chapter_name": "Chương 359: Kẻ nào chọc ra?",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-359/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_360_Rút_kinh_nghiệm_sẽ_trưởng_thành.json",
+    "chapter_name": "Chương 360: Rút kinh nghiệm sẽ trưởng thành",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-360/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_361_Lặng_lẽ_thông_qua.json",
+    "chapter_name": "Chương 361: Lặng lẽ thông qua",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-361/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_362_Khó_khăn_gian_khổ_thế_sự_xoay_vần.json",
+    "chapter_name": "Chương 362: Khó khăn gian khổ, thế sự xoay vần",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-362/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_363_Chân_thành_đến_vĩnh_viễn.json",
+    "chapter_name": "Chương 363: Chân thành đến vĩnh viễn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-363/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_364_Một_cán_bộ_thanh_niên_đến_đoàn_thanh_niên_tỉnh.json",
+    "chapter_name": "Chương 364: Một cán bộ thanh niên đến đoàn thanh niên tỉnh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-364/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_365_Báo_danh.json",
+    "chapter_name": "Chương 365: Báo danh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-365/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_366_Tôi_đại_biểu_tổ_chức_an_ủi_anh.json",
+    "chapter_name": "Chương 366: Tôi đại biểu tổ chức an ủi anh",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-366/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_367_Giúp_đỡ_hàng_xóm.json",
+    "chapter_name": "Chương 367: Giúp đỡ hàng xóm",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-367/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_368_Lãnh_đạo_cũng_không_cần_phải_tự_mình_làm_tất_cả.json",
+    "chapter_name": "Chương 368: Lãnh đạo cũng không cần phải tự mình làm tất cả",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-368/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_369_Hỗ_trợ_không_thêm_phiền_giải_hạn_không_thêm_lo.json",
+    "chapter_name": "Chương 369: Hỗ trợ không thêm phiền, giải hạn không thêm lo",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-369/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_370_Phiền_toái.json",
+    "chapter_name": "Chương 370: Phiền toái",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-370/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_371_Lãnh_đạo_luôn_luôn_đúng.json",
+    "chapter_name": "Chương 371: Lãnh đạo luôn luôn đúng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-371/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_372_Đến_phê_bình.json",
+    "chapter_name": "Chương 372: Đến phê bình",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-372/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_373_Cảnh_sát_nhân_dân_vì_nhân_dân.json",
+    "chapter_name": "Chương 373: Cảnh sát nhân dân vì nhân dân",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-373/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_374_Bố_cục_quyết_định_kết_cục.json",
+    "chapter_name": "Chương 374: Bố cục quyết định kết cục",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-374/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_375_Thà_đắc_tội_quân_tử_chứ_không_đắc_tội_tiểu_nhân.json",
+    "chapter_name": "Chương 375: Thà đắc tội quân tử chứ không đắc tội tiểu nhân",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-375/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_376_Chạy_qua_lại_gãy_cả_chân.json",
+    "chapter_name": "Chương 376: Chạy qua lại gãy cả chân",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-376/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_377_Bứt_dây_động_rừng.json",
+    "chapter_name": "Chương 377: Bứt dây động rừng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-377/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_378_Tạo_ra_nhiều_chức_vị.json",
+    "chapter_name": "Chương 378: Tạo ra nhiều chức vị",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-378/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_379_Thượng_đế_sáng_tạo_thiếu_nữ_đàn_ông_sáng_tạo_đàn_bà.json",
+    "chapter_name": "Chương 379: Thượng đế sáng tạo thiếu nữ, đàn ông sáng tạo đàn bà",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-379/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_380_Đàn_ông_bốn_mốt_là_hoa_phụ_nữ_bốn_mốt_là_bã_đậu.json",
+    "chapter_name": "Chương 380: Đàn ông bốn mốt là hoa, phụ nữ bốn mốt là bã đậu",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-380/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_381_Tìm_hiểu_vạn_tuế.json",
+    "chapter_name": "Chương 381: Tìm hiểu vạn tuế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-381/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_382_Mặt_trời_mọc_hướng_tây.json",
+    "chapter_name": "Chương 382: Mặt trời mọc hướng tây",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-382/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_383_Để_tôi_nói_toạc_ra.json",
+    "chapter_name": "Chương 383: Để tôi nói toạc ra",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-383/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_384_Biến_bị_động_thành_chủ_động_đi_sau_tới_trước.json",
+    "chapter_name": "Chương 384: Biến bị động thành chủ động, đi sau tới trước",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-384/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_385_Bí_thư_Mễ_đang_nói_gì_vậy_Xin_lỗi_sao_Có_lỗi_gì_mà_phải_nhận.json",
+    "chapter_name": "Chương 385: \"Bí thư Mễ đang nói gì vậy? Xin lỗi sao? Có lỗi gì mà phải nhận?\"",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-385/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_386_Một_năm_có_một_ngày_lành_một_ngày_có_một_phút_vui.json",
+    "chapter_name": "Chương 386: Một năm có một ngày lành, một ngày có một phút vui",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-386/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_387_Trong_cuộc_sống_có_trăm_hồng_ngàn_tía_nhưng_anh_chỉ_yêu_em.json",
+    "chapter_name": "Chương 387: Trong cuộc sống có trăm hồng ngàn tía, nhưng anh chỉ yêu em",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-387/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_388_Thất_vọng_thành_hy_vọng.json",
+    "chapter_name": "Chương 388: Thất vọng thành hy vọng",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-388/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_389_Mượn_chút_ánh_sáng_tôi_sẽ_trở_nên_sáng_lạn.json",
+    "chapter_name": "Chương 389: Mượn chút ánh sáng tôi sẽ trở nên sáng lạn",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-389/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_390_Ngài_là_gậy_chỉ_huy_của_tôi_còn_tôi_là_một_cây_súng_của_ngài.json",
+    "chapter_name": "Chương 390: Ngài là gậy chỉ huy của tôi, còn tôi là một cây súng của ngài",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-390/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_391_Lợi_dụng_văn_hóa_phát_triển_kinh_tế.json",
+    "chapter_name": "Chương 391: Lợi dụng văn hóa phát triển kinh tế",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-391/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_392_Tôi_muốn_chính_là_thiên_thời_địa_lợi_nhân_hòa.json",
+    "chapter_name": "Chương 392: Tôi muốn chính là thiên thời địa lợi nhân hòa",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-392/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_393_Cung_kính_như_cháu_nội.json",
+    "chapter_name": "Chương 393: Cung kính như cháu nội",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-393/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_394_Nuôi_binh_ngàn_ngày_dùng_trong_một_ngày.json",
+    "chapter_name": "Chương 394: Nuôi binh ngàn ngày dùng trong một ngày",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-394/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_395_Học_viên_được_việc.json",
+    "chapter_name": "Chương 395: Học viên được việc",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-395/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_396_Người_phụ_nữ_sắt_gặp_đàn_ông_thứ_thiệt.json",
+    "chapter_name": "Chương 396: Người phụ nữ sắt gặp đàn ông thứ thiệt",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-396/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_397_Đủ_loại_hương_vị.json",
+    "chapter_name": "Chương 397: Đủ loại hương vị",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-397/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_398_Nói_mày_là_chó_thì_đúng_là_sỉ_nhục_động_vật.json",
+    "chapter_name": "Chương 398: Nói mày là chó thì đúng là sỉ nhục động vật",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-398/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_399_Khen_ngợi_và_phê_bình.json",
+    "chapter_name": "Chương 399: Khen ngợi và phê bình",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-399/"
+  },
+  {
+    "path": "data/Bí_Thư_Trùng_Sinh/Chương_400_Thể_diện_là_đại_thảo_nguyên_bao_la.json",
+    "chapter_name": "Chương 400: Thể diện là đại thảo nguyên bao la",
+    "url": "https://truyenfull.io/bi-thu-trung-sinh/chuong-400/"
+  }
+]
