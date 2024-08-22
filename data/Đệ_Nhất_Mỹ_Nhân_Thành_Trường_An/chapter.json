@@ -1,0 +1,772 @@
+[
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_1_Nghèo_Túng.json",
+    "chapter_name": "Chương 1: Nghèo Túng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-1/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_2_Gặp_Mặt.json",
+    "chapter_name": "Chương 2: Gặp Mặt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-2/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_3_Cảnh_Trong_Mơ.json",
+    "chapter_name": "Chương 3: Cảnh Trong Mơ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-3/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_4_Mạo_Phạm.json",
+    "chapter_name": "Chương 4: Mạo Phạm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-4/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_5_Tư_Vị.json",
+    "chapter_name": "Chương 5: Tư Vị",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-5/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_6_Bị_Bắt_Tại_Trận.json",
+    "chapter_name": "Chương 6: Bị Bắt Tại Trận",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-6/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_7_Ngoại_Thất.json",
+    "chapter_name": "Chương 7: Ngoại Thất",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-7/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_8_Tiệc_Mừng_Thọ.json",
+    "chapter_name": "Chương 8: Tiệc Mừng Thọ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-8/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_9_Ngủ_Lại.json",
+    "chapter_name": "Chương 9: Ngủ Lại",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-9/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_10_Dùng_Bữa.json",
+    "chapter_name": "Chương 10: Dùng Bữa",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-10/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_11_Cưỡng_Bách.json",
+    "chapter_name": "Chương 11: Cưỡng Bách",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-11/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_12_Theo_Dõi.json",
+    "chapter_name": "Chương 12: Theo Dõi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-12/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_13_Cố_Ý.json",
+    "chapter_name": "Chương 13: Cố Ý",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-13/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_14_Bức_Hoạ.json",
+    "chapter_name": "Chương 14: Bức Hoạ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-14/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_15_Cộng_Tình.json",
+    "chapter_name": "Chương 15: Cộng Tình",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-15/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_16_Đúng_Mực.json",
+    "chapter_name": "Chương 16: Đúng Mực",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-16/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_17_Sinh_Bệnh.json",
+    "chapter_name": "Chương 17: Sinh Bệnh",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-17/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_18_Thương_Tiếc.json",
+    "chapter_name": "Chương 18: Thương Tiếc",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-18/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_19_Tình_Cảm.json",
+    "chapter_name": "Chương 19: Tình Cảm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-19/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_20_Mê_Người.json",
+    "chapter_name": "Chương 20: Mê Người",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-20/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_21_Kiều_Thiếp.json",
+    "chapter_name": "Chương 21: Kiều Thiếp",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-21/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_22_Vung_Tiền.json",
+    "chapter_name": "Chương 22: Vung Tiền",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-22/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_23_Kiều_Diễm.json",
+    "chapter_name": "Chương 23: Kiều Diễm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-23/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_24_Chuốc_Say.json",
+    "chapter_name": "Chương 24: Chuốc Say",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-24/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_25_Đau_Lòng.json",
+    "chapter_name": "Chương 25: Đau Lòng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-25/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_26_Ngựa_Gầy_1.json",
+    "chapter_name": "Chương 26: Ngựa Gầy 1",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-26/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_27_Ngựa_Gầy_2.json",
+    "chapter_name": "Chương 27: Ngựa Gầy 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-27/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_28_Trong_Suốt.json",
+    "chapter_name": "Chương 28: Trong Suốt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-28/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_29_Lui_Bước.json",
+    "chapter_name": "Chương 29: Lui Bước",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-29/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_30_Bị_Bắt_Qua_Đêm.json",
+    "chapter_name": "Chương 30: Bị Bắt Qua Đêm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-30/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_31_Hoảng_Hốt.json",
+    "chapter_name": "Chương 31: Hoảng Hốt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-31/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_32_Đêm_Dài.json",
+    "chapter_name": "Chương 32: Đêm Dài",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-32/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_33_Hôn_Sự.json",
+    "chapter_name": "Chương 33: Hôn Sự",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-33/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_34_Mê_Choáng.json",
+    "chapter_name": "Chương 34: Mê Choáng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-34/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_35_Nhìn_Chăm_Chú.json",
+    "chapter_name": "Chương 35: Nhìn Chăm Chú",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-35/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_36_Mềm_Lòng.json",
+    "chapter_name": "Chương 36: Mềm Lòng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-36/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_37_Câu_Dẫn.json",
+    "chapter_name": "Chương 37: Câu Dẫn",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-37/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_38_Câu_Dẫn_End_2.json",
+    "chapter_name": "Chương 38: Câu Dẫn - End 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-38/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_39_Sai_Rồi.json",
+    "chapter_name": "Chương 39: Sai Rồi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-39/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_40_Vả_Mặt.json",
+    "chapter_name": "Chương 40: Vả Mặt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-40/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_41_Bị_Thương.json",
+    "chapter_name": "Chương 41: Bị Thương",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-41/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_42_Hồi_Kinh.json",
+    "chapter_name": "Chương 42: Hồi Kinh",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-42/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_43_Dỗ_Nàng.json",
+    "chapter_name": "Chương 43: Dỗ Nàng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-43/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_44_Thay_Đổi.json",
+    "chapter_name": "Chương 44: Thay Đổi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-44/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_45_Thỏa_Hiệp.json",
+    "chapter_name": "Chương 45: Thỏa Hiệp",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-45/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_46_Tâm_Tình.json",
+    "chapter_name": "Chương 46: Tâm Tình",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-46/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_47_Kịch_Bản.json",
+    "chapter_name": "Chương 47: Kịch Bản",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-47/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_48_Luống_Cuống.json",
+    "chapter_name": "Chương 48: Luống Cuống",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-48/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_49_Làm_Thiếp.json",
+    "chapter_name": "Chương 49: Làm Thiếp",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-49/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_50_Chân_Tướng.json",
+    "chapter_name": "Chương 50: Chân Tướng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-50/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_51_Lục_Đại_Nhân.json",
+    "chapter_name": "Chương 51: Lục Đại Nhân",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-51/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_52_Làm_Việc_Thiên_Tư.json",
+    "chapter_name": "Chương 52: Làm Việc Thiên Tư",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-52/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_53_Chột_Dạ.json",
+    "chapter_name": "Chương 53: Chột Dạ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-53/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_54_Không_Tên.json",
+    "chapter_name": "Chương 54: Không Tên",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-54/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_55_Nhớ_Người.json",
+    "chapter_name": "Chương 55: Nhớ Người",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-55/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_56_Động_Tâm.json",
+    "chapter_name": "Chương 56: Động Tâm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-56/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_57_Nâng_Đỡ.json",
+    "chapter_name": "Chương 57: Nâng Đỡ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-57/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_58_Thăm_Hỏi.json",
+    "chapter_name": "Chương 58: Thăm Hỏi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-58/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_59_Âm_Mưu.json",
+    "chapter_name": "Chương 59: Âm Mưu",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-59/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_60_Hứa_Ý_Thanh.json",
+    "chapter_name": "Chương 60: Hứa Ý Thanh",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-60/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_61_Làm_Nũng.json",
+    "chapter_name": "Chương 61: Làm Nũng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-61/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_62_Sinh_Nhật.json",
+    "chapter_name": "Chương 62: Sinh Nhật",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-62/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_63_Lưới_Tình.json",
+    "chapter_name": "Chương 63: Lưới Tình",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-63/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_64_Vào_Kinh.json",
+    "chapter_name": "Chương 64: Vào Kinh",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-64/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_65_Tu_La_Tràng.json",
+    "chapter_name": "Chương 65: Tu La Tràng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-65/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_66_Đã_Từng.json",
+    "chapter_name": "Chương 66: Đã Từng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-66/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_67_Hận_Ý.json",
+    "chapter_name": "Chương 67: Hận Ý",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-67/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_68_Bất_Công.json",
+    "chapter_name": "Chương 68: Bất Công",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-68/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_69_Thiên_Vị.json",
+    "chapter_name": "Chương 69: Thiên Vị",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-69/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_70_Kiếp_Trước_I.json",
+    "chapter_name": "Chương 70: Kiếp Trước I",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-70/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_71_Kiếp_Trước_Ii.json",
+    "chapter_name": "Chương 71: Kiếp Trước Ii",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-71/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_72_Kiếp_Trước_Iii.json",
+    "chapter_name": "Chương 72: Kiếp Trước Iii",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-72/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_73_Danh_Phận.json",
+    "chapter_name": "Chương 73: Danh Phận",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-73/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_74_Chờ_Ta.json",
+    "chapter_name": "Chương 74: Chờ Ta",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-74/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_75_Thanh_Mai_Trúc_Mã.json",
+    "chapter_name": "Chương 75: Thanh Mai Trúc Mã",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-75/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_76_Bị_Bắt.json",
+    "chapter_name": "Chương 76: Bị Bắt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-76/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_77_Giận.json",
+    "chapter_name": "Chương 77: Giận",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-77/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_78_Son_Môi.json",
+    "chapter_name": "Chương 78: Son Môi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-78/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_79_Vận_Mệnh_Quốc_Gia.json",
+    "chapter_name": "Chương 79: Vận Mệnh Quốc Gia",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-79/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_80_Che_Chở.json",
+    "chapter_name": "Chương 80: Che Chở",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-80/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_81_Nói_Một_Không_Hai.json",
+    "chapter_name": "Chương 81: Nói Một Không Hai",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-81/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_82_Giao_Dịch.json",
+    "chapter_name": "Chương 82: Giao Dịch",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-82/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_83_Xa_Lạ.json",
+    "chapter_name": "Chương 83: Xa Lạ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-83/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_84_Phá_Kế.json",
+    "chapter_name": "Chương 84: Phá Kế",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-84/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_85_Chiếu_Cố.json",
+    "chapter_name": "Chương 85: Chiếu Cố",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-85/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_86_Xét_Nhà.json",
+    "chapter_name": "Chương 86: Xét Nhà",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-86/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_87_Đêm_Trước1.json",
+    "chapter_name": "Chương 87: Đêm Trước1",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-87/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_88_Thăng_Quan.json",
+    "chapter_name": "Chương 88: Thăng Quan",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-88/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_89_Tốt.json",
+    "chapter_name": "Chương 89: Tốt",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-89/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_90_Tập_Kích.json",
+    "chapter_name": "Chương 90: Tập Kích",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-90/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_91_Thừa_Nhận.json",
+    "chapter_name": "Chương 91: Thừa Nhận",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-91/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_92_Mời_Khách.json",
+    "chapter_name": "Chương 92: Mời Khách",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-92/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_93_Cao_Quang.json",
+    "chapter_name": "Chương 93: Cao Quang",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-93/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_94_Bữa_Cơm.json",
+    "chapter_name": "Chương 94: Bữa Cơm",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-94/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_95_Nhận_Sai.json",
+    "chapter_name": "Chương 95: Nhận Sai",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-95/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_96_Hôn_Sự.json",
+    "chapter_name": "Chương 96: Hôn Sự",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-96/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_97_Nhẫn_Nại.json",
+    "chapter_name": "Chương 97: Nhẫn Nại",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-97/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_98_Tự_Kiềm_Chế.json",
+    "chapter_name": "Chương 98: Tự Kiềm Chế",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-98/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_99_Trung_Thu.json",
+    "chapter_name": "Chương 99: Trung Thu",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-99/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_100_Trung_Thu_End.json",
+    "chapter_name": "Chương 100: Trung Thu - End",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-100/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_101_Thanh_Danh.json",
+    "chapter_name": "Chương 101: Thanh Danh",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-101/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_102_Dục_Vọng_Chiếm_Hữu.json",
+    "chapter_name": "Chương 102: Dục Vọng Chiếm Hữu",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-102/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_103_Trước_Kia.json",
+    "chapter_name": "Chương 103: Trước Kia",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-103/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_104_Chọc_Người.json",
+    "chapter_name": "Chương 104: Chọc Người",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-104/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_105_Phong_Ba.json",
+    "chapter_name": "Chương 105: Phong Ba",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-105/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_106_Giấc_Mộng_Hoàng_Lương.json",
+    "chapter_name": "Chương 106: Giấc Mộng Hoàng Lương",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-106/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_107_Tỉnh_Mộng.json",
+    "chapter_name": "Chương 107: Tỉnh Mộng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-107/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_108_Vui_Mừng.json",
+    "chapter_name": "Chương 108: Vui Mừng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-108/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_109_Tứ_Hôn.json",
+    "chapter_name": "Chương 109: Tứ Hôn",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-109/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_110_Đính_Hôn.json",
+    "chapter_name": "Chương 110: Đính Hôn",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-110/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_111_Vô_Sỉ.json",
+    "chapter_name": "Chương 111: Vô Sỉ",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-111/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_112_Hòa_Li.json",
+    "chapter_name": "Chương 112: Hòa Li",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-112/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_113_Hoà_Li_End.json",
+    "chapter_name": "Chương 113: Hoà Li - End",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-113/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_114_Hoà_Li_End_2.json",
+    "chapter_name": "Chương 114: Hoà Li - End 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-114/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_115_Phép_Tắc.json",
+    "chapter_name": "Chương 115: Phép Tắc",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-115/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_116_Dưỡng_Ngoại_Thất.json",
+    "chapter_name": "Chương 116: Dưỡng Ngoại Thất",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-116/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_117_Ôn_Nhu_Hương.json",
+    "chapter_name": "Chương 117: Ôn Nhu Hương",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-117/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_118_Chuyện_Quan_Trọng.json",
+    "chapter_name": "Chương 118: Chuyện Quan Trọng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-118/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_119_Khom_Lưng.json",
+    "chapter_name": "Chương 119: Khom Lưng",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-119/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_120_Thẩm_Dao.json",
+    "chapter_name": "Chương 120: Thẩm Dao",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-120/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_121_Ô_Lợi.json",
+    "chapter_name": "Chương 121: Ô Lợi",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-121/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_122_Hứa_Hậu.json",
+    "chapter_name": "Chương 122: Hứa Hậu",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-122/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_123_Đừng_Quay_Đầu_Lại.json",
+    "chapter_name": "Chương 123: Đừng Quay Đầu Lại",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-123/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_124_124_Quay_Đầu_Lại.json",
+    "chapter_name": "Chương 124: 124: Quay Đầu Lại",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-124/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_125_125_16_Tháng_3.json",
+    "chapter_name": "Chương 125: 125: 16 Tháng 3",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-125/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_126_126_Đại_Hôn.json",
+    "chapter_name": "Chương 126: 126: Đại Hôn",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-126/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_127_127_Động_Phòng_Hoa_Chúc_Hoàn_Chính_Văn.json",
+    "chapter_name": "Chương 127: 127: Động Phòng Hoa Chúc - Hoàn Chính Văn",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-127/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_128_128_Phiên_Ngoại_1.json",
+    "chapter_name": "Chương 128: 128: Phiên Ngoại 1",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-128/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_129_129_Phiên_Ngoại_2.json",
+    "chapter_name": "Chương 129: 129: Phiên Ngoại 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-129/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_130_130_Phiên_Ngoại_3.json",
+    "chapter_name": "Chương 130: 130: Phiên Ngoại 3",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-130/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_131_131_Phiên_Ngoại_4.json",
+    "chapter_name": "Chương 131: 131: Phiên Ngoại 4",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-131/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_132_132_Phiên_Ngoại_5.json",
+    "chapter_name": "Chương 132: 132: Phiên Ngoại 5",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-132/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_133_133_Phiên_Ngoại_6.json",
+    "chapter_name": "Chương 133: 133: Phiên Ngoại 6",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-133/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_134_134_Phiên_Ngoại_7.json",
+    "chapter_name": "Chương 134: 134: Phiên Ngoại 7",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-134/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_135_135_Phiên_Ngoại_8.json",
+    "chapter_name": "Chương 135: 135: Phiên Ngoại 8",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-135/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_136_136_Phiên_Ngoại_9.json",
+    "chapter_name": "Chương 136: 136: Phiên Ngoại 9",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-136/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_137_137_Phiên_Ngoại_10.json",
+    "chapter_name": "Chương 137: 137: Phiên Ngoại 10",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-137/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_138_Chu_Thuật_An_X_Thẩm_Nhiễm_1.json",
+    "chapter_name": "Chương 138: Chu Thuật An X Thẩm Nhiễm 1",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-138/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_139_Chu_Thuật_An_X_Thẩm_Nhiễm_2.json",
+    "chapter_name": "Chương 139: Chu Thuật An X Thẩm Nhiễm 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-139/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_140_Chu_Thuật_An_X_Thẩm_Nhiễm_3.json",
+    "chapter_name": "Chương 140: Chu Thuật An X Thẩm Nhiễm 3",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-140/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_141_Chu_Thuật_An_X_Thẩm_Nhiễm_4.json",
+    "chapter_name": "Chương 141: Chu Thuật An X Thẩm Nhiễm 4",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-141/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_142_Chu_Thuật_An_X_Thẩm_Nhiễm_5.json",
+    "chapter_name": "Chương 142: Chu Thuật An X Thẩm Nhiễm 5",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-142/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_143_Chu_Thuật_An_X_Thẩm_Nhiễm_6.json",
+    "chapter_name": "Chương 143: Chu Thuật An X Thẩm Nhiễm 6",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-143/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_144_Chu_Thuật_An_X_Thẩm_Nhiễm_7.json",
+    "chapter_name": "Chương 144: Chu Thuật An X Thẩm Nhiễm 7",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-144/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_145_Chu_Thuận_An_X_Thẩm_Nhiễm_8.json",
+    "chapter_name": "Chương 145: Chu Thuận An X Thẩm Nhiễm 8",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-145/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_146_Chu_Thuật_An_Thẩm_Nhiễm_9.json",
+    "chapter_name": "Chương 146: Chu Thuật An × Thẩm Nhiễm 9",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-146/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_147_Kiếp_Thứ_Ba_1.json",
+    "chapter_name": "Chương 147: Kiếp Thứ Ba 1",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-147/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_148_Kiếp_Thứ_Ba_2.json",
+    "chapter_name": "Chương 148: Kiếp Thứ Ba 2",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-148/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_149_Kiếp_Thứ_Ba_3.json",
+    "chapter_name": "Chương 149: Kiếp Thứ Ba 3",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-149/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_150_Kiếp_Thứ_Ba_4.json",
+    "chapter_name": "Chương 150: Kiếp Thứ Ba 4",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-150/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_151_Kiếp_Thứ_Ba_5.json",
+    "chapter_name": "Chương 151: Kiếp Thứ Ba 5",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-151/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_152_Kiếp_Thứ_Ba_6.json",
+    "chapter_name": "Chương 152: Kiếp Thứ Ba 6",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-152/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_153_Kiếp_Thứ_Ba_7.json",
+    "chapter_name": "Chương 153: Kiếp Thứ Ba 7",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-153/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Mỹ_Nhân_Thành_Trường_An/Chương_154_Kiếp_Thứ_Ba_8.json",
+    "chapter_name": "Chương 154: Kiếp Thứ Ba 8",
+    "url": "https://truyenfull.io/de-nhat-my-nhan-thanh-truong-an/chuong-154/"
+  }
+]
