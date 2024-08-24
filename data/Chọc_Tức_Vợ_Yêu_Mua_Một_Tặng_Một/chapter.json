@@ -9998,5 +9998,830 @@
     "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2000_Không_phải_cùng_đẳng_cấp.json",
     "chapter_name": "Chương 2000: Không phải cùng đẳng cấp",
     "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2000/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2001_Tự_bảo_vệ_chính_mình_còn_khó.json",
+    "chapter_name": "Chương 2001: Tự bảo vệ chính mình còn khó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2001/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2002_Tao_không_tin_lần_này_mày_còn_thoát_được.json",
+    "chapter_name": "Chương 2002: Tao không tin lần này mày còn thoát được",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2002/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2003_Oát_the_fuck_bà_quyên_ru_ai.json",
+    "chapter_name": "Chương 2003: Oát the fuck, bà quyến rũ ai?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2003/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2004_Nam_căn_ba_nư_đê_tiên.json",
+    "chapter_name": "Chương 2004: Nam cặn bã, nữ đê tiện",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2004/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2005_Nam_chinh_nư_chinh_trong_scandal.json",
+    "chapter_name": "Chương 2005: Nam chính, nữ chính trong scandal",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2005/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2006_Don_sach_nha_Cưa.json",
+    "chapter_name": "Chương 2006: \"Dọn sạch nhà Cửa\"",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2006/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2007_Chuyên_nay_cư_giao_cho_anh.json",
+    "chapter_name": "Chương 2007: Chuyện này cứ giao cho anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2007/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2008_Bi_đe_đâu_cươi_cô_đên_mưc_không_ngâng_măt_lên_nôi.json",
+    "chapter_name": "Chương 2008: Bị đè đầu cưỡi cổ đến mức không ngẩng mặt lên nổi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2008/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2009_Lam_gi_Con_kha_năng_nao_đê_vưc_dây_nưa.json",
+    "chapter_name": "Chương 2009: Làm gì Còn khả năng nào để vực dậy nữa",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2009/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2010_Nôn_nong_không_thê_đơi_nôi_nưa.json",
+    "chapter_name": "Chương 2010: Nôn nóng không thể đợi nổi nữa",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2010/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2011_Chi_sơ_may_không_gia_vơ_Nữa_thôi.json",
+    "chapter_name": "Chương 2011: Chỉ sợ mày không giả vờ Nữa thôi!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2011/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2012_Xuât_hiên_trên_tham_đo.json",
+    "chapter_name": "Chương 2012: Xuất hiện trên thảm đỏ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2012/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2013_Cho_căn_cho.json",
+    "chapter_name": "Chương 2013: Chó cắn chó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2013/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2014_Thât_vô_trach_nhiêm.json",
+    "chapter_name": "Chương 2014: Thật vô trách nhiệm",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2014/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2015_Canh_tương_không_thê_miêu_ta.json",
+    "chapter_name": "Chương 2015: Cảnh tượng không thể miêu tả",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2015/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2016_Lân_nay_thưc_sư_xong_rôi.json",
+    "chapter_name": "Chương 2016: Lần này thực sự xong rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2016/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2017_Mơ_rông_tâm_măt.json",
+    "chapter_name": "Chương 2017: Mở rộng tầm mắt",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2017/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2018_Hay_cho_cai_canh_cho_căn_cho.json",
+    "chapter_name": "Chương 2018: Hay cho cái cảnh chó cắn chó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2018/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2019_Môt_câu_tra_lơi_hai_long.json",
+    "chapter_name": "Chương 2019: Một câu trả lời hài lòng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2019/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2020_Như_cac_vi_mong_muôn.json",
+    "chapter_name": "Chương 2020: Như các vị mong muốn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2020/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2021_Thiên_kim_la_Gia_ke_thư_ba_mơi_la_Thât.json",
+    "chapter_name": "Chương 2021: Thiên kim là Giả, kẻ thứ ba mới là Thật",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2021/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2022_Cung_sống_cùng_chết_cung_tiên_cung_lui.json",
+    "chapter_name": "Chương 2022: Cùng sống cùng chết, cùng tiến cùng lùi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2022/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2023_Chưa_bao_giơ_Bi_đanh_bai.json",
+    "chapter_name": "Chương 2023: Chưa bao giờ Bị đánh bại",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2023/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2024_Con_soi_gian_xao.json",
+    "chapter_name": "Chương 2024: Con sói gian xảo",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2024/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2025_Cô_la_cai_tha_gi_chư.json",
+    "chapter_name": "Chương 2025: Cô là cái thá gì chứ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2025/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2026_Tât_ca_đêu_đa_muôn_rôi.json",
+    "chapter_name": "Chương 2026: Tất cả đều đã muộn rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2026/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2027_Đô_tôi.json",
+    "chapter_name": "Chương 2027: Đổ tội",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2027/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2028_Tam_thơi_nhân_nhin.json",
+    "chapter_name": "Chương 2028: Tạm thời nhẫn nhịn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2028/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2029_Vung_vây_giay_chêt.json",
+    "chapter_name": "Chương 2029: Vùng vẫy giãy chết",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2029/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2030_Tao_cho_may_cơi_quân_ao_tới_đa_đơi_luôn.json",
+    "chapter_name": "Chương 2030: Tao cho mày cởi quần áo tới đã đời luôn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2030/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2031_Chị_tin_em.json",
+    "chapter_name": "Chương 2031: Chị tin em",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2031/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2032_Tất_cả_chỉ_là_để_Tiểu_Bảo_gặp_được_mẹ.json",
+    "chapter_name": "Chương 2032: Tất cả chỉ là để Tiểu Bảo gặp được mẹ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2032/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2033_Tôi_rất_chuyên_tâm.json",
+    "chapter_name": "Chương 2033: Tôi rất chuyên tâm",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2033/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2034_Mắt_chó_của_tôi.json",
+    "chapter_name": "Chương 2034: Mắt chó của tôi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2034/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2035_Không_còn_một_mình_nữa_rồi.json",
+    "chapter_name": "Chương 2035: Không còn một mình nữa rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2035/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2036_Sao_không_chết_luôn_đi.json",
+    "chapter_name": "Chương 2036: Sao không chết luôn đi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2036/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2037_Giới_đẳng_cấp_thấp.json",
+    "chapter_name": "Chương 2037: Giới đẳng cấp thấp",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2037/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2038_Chẳng_là_cái_thá_gì.json",
+    "chapter_name": "Chương 2038: Chẳng là cái thá gì",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2038/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2039_Nghê_Thường_Vũ_Y.json",
+    "chapter_name": "Chương 2039: Nghê Thường Vũ Y",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2039/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2040_Nỗi_đau_như_moi_tim.json",
+    "chapter_name": "Chương 2040: Nỗi đau như moi tim",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2040/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2041_Là_thiết_kế_của_tôi.json",
+    "chapter_name": "Chương 2041: Là thiết kế của tôi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2041/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2042_Ăn_cắp_bản_thiết_kế.json",
+    "chapter_name": "Chương 2042: Ăn cắp bản thiết kế",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2042/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2043_Nếu_tôi_có_thể_chứng_minh.json",
+    "chapter_name": "Chương 2043: Nếu tôi có thể chứng minh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2043/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2044_Cung_Thượng_Trạch.json",
+    "chapter_name": "Chương 2044: Cung Thượng Trạch!!!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2044/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2045_Sự_đảo_ngược_khiến_người_ta_khiếp_sợ.json",
+    "chapter_name": "Chương 2045: Sự đảo ngược khiến người ta khiếp sợ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2045/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2046_Kỹ_thuật_đặc_thù.json",
+    "chapter_name": "Chương 2046: Kỹ thuật đặc thù",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2046/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2047_Tất_cả_đều_xong_hết_rồi.json",
+    "chapter_name": "Chương 2047: Tất cả đều xong hết rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2047/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2048_Chân_tướng_rõ_ràng.json",
+    "chapter_name": "Chương 2048: Chân tướng rõ ràng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2048/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2049_Giãy_chết.json",
+    "chapter_name": "Chương 2049: Giãy chết",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2049/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2050_Tên_lừa_đảo_miệng_chỉ_biết_dối_trá.json",
+    "chapter_name": "Chương 2050: Tên lừa đảo miệng chỉ biết dối trá",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2050/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2051_Tương_lai_của_phong_cách_trung_hoa.json",
+    "chapter_name": "Chương 2051: Tương lai của phong cách trung hoa",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2051/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2052_Kho_báu_vô_tận.json",
+    "chapter_name": "Chương 2052: Kho báu vô tận",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2052/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2053_Giận_đến_phát_điên.json",
+    "chapter_name": "Chương 2053: Giận đến phát điên",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2053/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2054_Đào_góc_tường.json",
+    "chapter_name": "Chương 2054: Đào góc tường!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2054/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2055_Người_sáng_lập_của_tắc_linh.json",
+    "chapter_name": "Chương 2055: Người sáng lập của tắc linh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2055/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2056_Chủ_nào_chó_nấy.json",
+    "chapter_name": "Chương 2056: Chủ nào chó nấy",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2056/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2057_Tiểu_yêu_tinh_mệt_rồi.json",
+    "chapter_name": "Chương 2057: Tiểu yêu tinh mệt rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2057/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2058_Điếc.json",
+    "chapter_name": "Chương 2058: Điếc?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2058/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2059_Lông_vàng_của_chúng_ta_lợi_hại_quá_đi.json",
+    "chapter_name": "Chương 2059: Lông vàng của chúng ta lợi hại quá đi!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2059/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2060_Chúng_ta_cũng_ôm_một_cái.json",
+    "chapter_name": "Chương 2060: Chúng ta cũng ôm một cái?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2060/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2061_Ai_thắng_thì_nghe_người_đó.json",
+    "chapter_name": "Chương 2061: Ai thắng thì nghe người đó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2061/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2062_Một_đám_cừu_non.json",
+    "chapter_name": "Chương 2062: Một đám cừu non",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2062/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2063_Đi_thôi_đi_ăn_cướp.json",
+    "chapter_name": "Chương 2063: Đi thôi! đi ăn cướp!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2063/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2064_Lão_đại_cuối_cùng_cô_cũng_về_rồi.json",
+    "chapter_name": "Chương 2064: Lão đại, cuối cùng cô cũng về rồi!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2064/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2065_Thằng_đần_kia_chính_là_muội_hả.json",
+    "chapter_name": "Chương 2065: Thằng đần kia chính là muội hả!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2065/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2066_Thằng_đần_nào.json",
+    "chapter_name": "Chương 2066: Thằng đần nào?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2066/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2067_VỀ_NƯỚC.json",
+    "chapter_name": "Chương 2067: VỀ NƯỚC",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2067/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2068_Song_hỷ_lâm_môn.json",
+    "chapter_name": "Chương 2068: Song hỷ lâm môn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2068/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2069_Ép_cô_ta_đến_đường_cùng.json",
+    "chapter_name": "Chương 2069: Ép cô ta đến đường cùng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2069/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2070_Lông_Vàng_muốn_cắn_chết_em.json",
+    "chapter_name": "Chương 2070: Lông Vàng muốn cắn chết em",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2070/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2071_Tình_địch_biến_thái_đến_mức_đáng_sợ.json",
+    "chapter_name": "Chương 2071: Tình địch biến thái đến mức đáng sợ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2071/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2072_Xảy_ra_chuyện.json",
+    "chapter_name": "Chương 2072: Xảy ra chuyện",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2072/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2073_Hỗn_loạn.json",
+    "chapter_name": "Chương 2073: Hỗn loạn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2073/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2074_Mọi_chuyện_đều_đổ_sông_đổ_bể.json",
+    "chapter_name": "Chương 2074: Mọi chuyện đều đổ sông đổ bể",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2074/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2075_Thù_riêng.json",
+    "chapter_name": "Chương 2075: Thù riêng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2075/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2076_Nhận_định.json",
+    "chapter_name": "Chương 2076: Nhận định",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2076/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2077_Trở_về_ăn_thức_ăn_cho_chó.json",
+    "chapter_name": "Chương 2077: Trở về ăn thức ăn cho chó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2077/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2078_Nhớ_anh_nhớ_anh_nhớ_anh.json",
+    "chapter_name": "Chương 2078: Nhớ anh, nhớ anh, nhớ anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2078/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2079_Khả_năng_diễn_xuất.json",
+    "chapter_name": "Chương 2079: Khả năng diễn xuất",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2079/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2080_Chứng_cớ_xác_thực.json",
+    "chapter_name": "Chương 2080: Chứng cớ xác thực",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2080/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2081_Co_chuân_bi_trươc_rồi_mới_tới.json",
+    "chapter_name": "Chương 2081: Có chuẩn bị trước rồi mới tới",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2081/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2082_Quy_Trơi_quy_đât_quy_Cha_me.json",
+    "chapter_name": "Chương 2082: Quỳ Trời, quỳ đất, quỳ Cha mẹ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2082/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2083_Thưa_nhân.json",
+    "chapter_name": "Chương 2083: Thừa nhận",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2083/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2084_Không_co_hưng_thu_trung_hôn.json",
+    "chapter_name": "Chương 2084: Không có hứng thú trùng hôn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2084/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2085_Câm_câm_tay.json",
+    "chapter_name": "Chương 2085: Cầm… cầm tay?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2085/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2086_Cao_tân_trên_trơi.json",
+    "chapter_name": "Chương 2086: Cao tận trên trời",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2086/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2087_Không_xưng.json",
+    "chapter_name": "Chương 2087: Không xứng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2087/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2088_Chơi_cai_gi_Ma_Kich_thich_vây.json",
+    "chapter_name": "Chương 2088: Chơi cái gì Mà Kích thích vậy",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2088/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2089_Chuyên_nay_tuyêt_đôi_không_thê_nao.json",
+    "chapter_name": "Chương 2089: Chuyện này tuyệt đối không thể nào",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2089/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2090_Rôt_cuôc_la_Vân_đê_ơ_đâu.json",
+    "chapter_name": "Chương 2090: Rốt cuộc là Vấn đề ở đâu?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2090/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2091_Quá_đáng_sợ.json",
+    "chapter_name": "Chương 2091: Quá đáng sợ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2091/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2092_Vẫn_chưa_kết_thúc.json",
+    "chapter_name": "Chương 2092: Vẫn chưa kết thúc",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2092/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2093_Anh_à_mình_về_thôi.json",
+    "chapter_name": "Chương 2093: Anh à, mình về thôi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2093/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2094_Không_phải_lỗi_của_Ninh_Tịch.json",
+    "chapter_name": "Chương 2094: Không phải lỗi của Ninh Tịch",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2094/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2095_Sự_thật_đau_đớn_thấu_tim.json",
+    "chapter_name": "Chương 2095: Sự thật đau đớn thấu tim",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2095/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2096_Quỷ_đội_lốt_người.json",
+    "chapter_name": "Chương 2096: Quỷ đội lốt người",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2096/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2097_Đá_khỏi_công_ty.json",
+    "chapter_name": "Chương 2097: Đá khỏi công ty",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2097/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2098_Chẳng_liên_quan_gì_tới_nhau_nữa.json",
+    "chapter_name": "Chương 2098: Chẳng liên quan gì tới nhau nữa",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2098/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2099_Tiểu_Bảo_đánh_người_rồi.json",
+    "chapter_name": "Chương 2099: Tiểu Bảo đánh người rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2099/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2100_Đau_lòng_bé_con.json",
+    "chapter_name": "Chương 2100: Đau lòng bé con",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2100/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2101_Tinh_thân_hong_hơt_hưng_hưc.json",
+    "chapter_name": "Chương 2101: Tinh thần hóng hớt hừng hực",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2101/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2102_Lai_co_ngươi_đên_cươp_vơ_anh_nay.json",
+    "chapter_name": "Chương 2102: Lại có người đến cướp vợ anh này!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2102/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2103_So_tài.json",
+    "chapter_name": "Chương 2103: So tài",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2103/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2104_Tôi_thua_rôi.json",
+    "chapter_name": "Chương 2104: Tôi thua rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2104/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2105_Cảm_ơn_vợ_của_anh.json",
+    "chapter_name": "Chương 2105: Cảm ơn, vợ của anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2105/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2106_Nam_thân_đã_co_chu.json",
+    "chapter_name": "Chương 2106: Nam thần đã có chủ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2106/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2107_La_Phuc_ma_Nha_Ho_luc_đa_tu_mây_đơi.json",
+    "chapter_name": "Chương 2107: Là Phúc mà Nhà Họ lục đã tu mấy đời",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2107/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2108_Vôn_di_đa_la_Phương_hoang.json",
+    "chapter_name": "Chương 2108: Vốn dĩ đã là Phượng hoàng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2108/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2109_Nhưng_năm_thang_găm_thưc_ăn_cho_cun.json",
+    "chapter_name": "Chương 2109: Những năm tháng gặm thức ăn cho cún",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2109/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2110_Tâm_anh_năm_đo.json",
+    "chapter_name": "Chương 2110: Tấm ảnh năm đó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2110/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2111_Tiêu_bao_la_Con_ruôt_cua_tôi_va_Ninh_tịch.json",
+    "chapter_name": "Chương 2111: Tiểu bảo là Con ruột của tôi và Ninh tịch",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2111/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2112_Đưa_be_đo_không_chêt.json",
+    "chapter_name": "Chương 2112: Đứa bé đó không chết",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2112/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2113_Tât_ca_đêu_vui_ve.json",
+    "chapter_name": "Chương 2113: Tất cả đều vui vẻ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2113/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2114_Xin_lôi_ngươi_đan_ông_đo_la_Anh.json",
+    "chapter_name": "Chương 2114: Xin lỗi người đàn ông đó là Anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2114/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2115_Chuyên_tôt_đep_nhât.json",
+    "chapter_name": "Chương 2115: Chuyện tốt đẹp nhất",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2115/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2116_Lân_đâu_tiên_goi_ba.json",
+    "chapter_name": "Chương 2116: Lần đầu tiên gọi ba",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2116/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2117_Sương_mu_Năng_nê.json",
+    "chapter_name": "Chương 2117: Sương mù Nặng nề",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2117/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2118_Xem_ra_chi_dâu_không_tin_tương_tôi_rồi.json",
+    "chapter_name": "Chương 2118: Xem ra chị dâu không tin tưởng tôi rồi?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2118/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2119_Thơi_gian_chi_con_lai_môt_ngay.json",
+    "chapter_name": "Chương 2119: Thời gian chỉ còn lại một ngày",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2119/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2120_Lam_sao_co_thê_thê_đươc.json",
+    "chapter_name": "Chương 2120: Làm sao có thể thế được!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2120/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2121_Sự_biến_hóa_trong_chớp_mắt.json",
+    "chapter_name": "Chương 2121: Sự biến hóa trong chớp mắt",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2121/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2122_Chuyện_này_không_liên_quan_đến_cô.json",
+    "chapter_name": "Chương 2122: Chuyện này không liên quan đến cô",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2122/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2123_Cùng_là_người_lưu_lạc_nơi_chân_trời.json",
+    "chapter_name": "Chương 2123: Cùng là người lưu lạc nơi chân trời",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2123/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2124_Không_khách_khí_với_tôi_thế_nào.json",
+    "chapter_name": "Chương 2124: Không khách khí với tôi thế nào",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2124/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2125_Ba_con_tép.json",
+    "chapter_name": "Chương 2125: Ba con tép",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2125/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2126_Đừng_để_em_phải_hận_anh.json",
+    "chapter_name": "Chương 2126: Đừng để em phải hận anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2126/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2127_Hai_kẻ_điên.json",
+    "chapter_name": "Chương 2127: Hai kẻ điên",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2127/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2128_Đại_thần_tới.json",
+    "chapter_name": "Chương 2128: Đại thần tới",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2128/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2129_Ăn_hại.json",
+    "chapter_name": "Chương 2129: Ăn hại?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2129/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2130_Lộ_diện.json",
+    "chapter_name": "Chương 2130: Lộ diện",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2130/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2131_Nguyên_tắc_là_gì.json",
+    "chapter_name": "Chương 2131: Nguyên tắc là gì?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2131/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2132_Cực_kì_khôn_khéo.json",
+    "chapter_name": "Chương 2132: Cực kì khôn khéo",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2132/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2133_Không_sợ_cố_quá_thành_quá_cố_sao.json",
+    "chapter_name": "Chương 2133: Không sợ cố quá thành quá cố sao?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2133/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2134_Kết_thúc_ân_oán.json",
+    "chapter_name": "Chương 2134: Kết thúc ân oán",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2134/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2135_Lý_do_này_có_đủ_không.json",
+    "chapter_name": "Chương 2135: Lý do này có đủ không?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2135/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2136_Ông_nội_con_mà.json",
+    "chapter_name": "Chương 2136: Ông nội, con mà!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2136/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2137_Hậu_sinh_khả_úy.json",
+    "chapter_name": "Chương 2137: Hậu sinh khả úy",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2137/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2138_Chuyện_cũ.json",
+    "chapter_name": "Chương 2138: Chuyện cũ",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2138/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2139_Ghen_tị_với_vẻ_đẹp_trai_của_Đại_thần.json",
+    "chapter_name": "Chương 2139: Ghen tị với vẻ đẹp trai của Đại thần",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2139/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2140_Chim_chuột.json",
+    "chapter_name": "Chương 2140: Chim chuột?",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2140/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2141_Mỹ_nhân_kế.json",
+    "chapter_name": "Chương 2141: Mỹ nhân kế",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2141/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2142_Chán_lắm.json",
+    "chapter_name": "Chương 2142: Chán lắm",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2142/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2143_Tuyệt_đối_không_ly_hôn.json",
+    "chapter_name": "Chương 2143: Tuyệt đối không ly hôn",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2143/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2144_Tỉnh_ngộ_muộn_màng.json",
+    "chapter_name": "Chương 2144: Tỉnh ngộ muộn màng",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2144/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2145_Có_thai_rồi.json",
+    "chapter_name": "Chương 2145: Có thai rồi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2145/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2146_Lần_này_em_muốn_công_khai.json",
+    "chapter_name": "Chương 2146: Lần này, em muốn công khai",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2146/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2147_Fan_bạo_động.json",
+    "chapter_name": "Chương 2147: Fan bạo động",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2147/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2148_Thừa_nhận.json",
+    "chapter_name": "Chương 2148: Thừa nhận",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2148/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2149_Đứa_bé_là_con_tôi.json",
+    "chapter_name": "Chương 2149: Đứa bé là con tôi",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2149/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2150_Bình_tĩnh_đi_mà_anh_yêu.json",
+    "chapter_name": "Chương 2150: Bình tĩnh đi mà anh yêu",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2150/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2151_Tùng_xẻo.json",
+    "chapter_name": "Chương 2151: Tùng xẻo???",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2151/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2152_Để_cho_cả_thế_giới_biết.json",
+    "chapter_name": "Chương 2152: Để cho cả thế giới biết",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2152/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2153_Thức_ăn_cho_chó_chế_biến_kiểu_này_thì_tôi_cũng_phục_rồi.json",
+    "chapter_name": "Chương 2153: Thức ăn cho chó chế biến kiểu này thì tôi cũng phục rồi!",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2153/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2154_Ai_cũng_không_thoát_khỏi_cảnh_bị_ăn_thức_ăn_cho_chó.json",
+    "chapter_name": "Chương 2154: Ai cũng không thoát khỏi cảnh bị ăn thức ăn cho chó",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2154/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2155_Hôn_lễ_1.json",
+    "chapter_name": "Chương 2155: Hôn lễ (1)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2155/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2156_Hôn_lễ_2.json",
+    "chapter_name": "Chương 2156: Hôn lễ (2)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2156/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2157_Ngoại_truyện_1_Nháo_động_phòng_1.json",
+    "chapter_name": "Chương 2157: Ngoại truyện 1. Nháo động phòng (1)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2157/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2158_Ngoại_truyện_2_Nháo_động_phòng_2.json",
+    "chapter_name": "Chương 2158: Ngoại truyện 2. Nháo động phòng (2)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2158/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2159_Ngoại_truyện_3_Nháo_động_phòng_3.json",
+    "chapter_name": "Chương 2159: Ngoại truyện 3. Nháo động phòng (3)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2159/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2160_Ngoại_truyện_4_Nháo_động_phòng_4.json",
+    "chapter_name": "Chương 2160: Ngoại truyện 4. Nháo động phòng (4)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2160/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2161_Ngoại_truyện_5_Nháo_động_phòng_5.json",
+    "chapter_name": "Chương 2161: Ngoại truyện 5. Nháo động phòng (5)",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2161/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2162_Ngoại_truyện_6_Không_đươc_phep_quyên_ru_anh.json",
+    "chapter_name": "Chương 2162: Ngoại truyện 6. Không được phép quyến rũ anh",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2162/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2163_Ngoại_truyện_7_Nhật_ký_đặt_tên_của_Tiêu_công_chua.json",
+    "chapter_name": "Chương 2163: Ngoại truyện 7. Nhật ký đặt tên của Tiểu công chúa",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2163/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2164_Ngoại_truyện_8_Long_nay_yêu_chang_chang_đâu_có_hay.json",
+    "chapter_name": "Chương 2164: Ngoại truyện 8. Lòng này yêu chàng chàng đâu có hay",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2164/"
+  },
+  {
+    "path": "data/Chọc_Tức_Vợ_Yêu_Mua_Một_Tặng_Một/Chương_2165_Ngoại_truyện_9_Trai_tim_nho_be_cua_chau.json",
+    "chapter_name": "Chương 2165: Ngoại truyện 9. Trái tim nhỏ bé của cháu",
+    "url": "https://truyenfull.io/choc-tuc-vo-yeu-mua-mot-tang-mot-150520/chuong-2165/"
   }
 ]
