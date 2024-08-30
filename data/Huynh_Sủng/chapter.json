@@ -1,0 +1,872 @@
+[
+  {
+    "path": "data/Huynh_Sủng/Chương_1_gả_lần_hai.json",
+    "chapter_name": "Chương 1: gả lần hai",
+    "url": "https://truyenfull.io/huynh-sung/chuong-1/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_2_tranh_chấp.json",
+    "chapter_name": "Chương 2: tranh chấp",
+    "url": "https://truyenfull.io/huynh-sung/chuong-2/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_3_làm_mai.json",
+    "chapter_name": "Chương 3: làm mai",
+    "url": "https://truyenfull.io/huynh-sung/chuong-3/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_4_đào_yêu.json",
+    "chapter_name": "Chương 4: đào yêu",
+    "url": "https://truyenfull.io/huynh-sung/chuong-4/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_5_thành_sự.json",
+    "chapter_name": "Chương 5: thành sự",
+    "url": "https://truyenfull.io/huynh-sung/chuong-5/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_6_tuyệt_tình.json",
+    "chapter_name": "Chương 6: tuyệt tình",
+    "url": "https://truyenfull.io/huynh-sung/chuong-6/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_7_quyết_định.json",
+    "chapter_name": "Chương 7: quyết định",
+    "url": "https://truyenfull.io/huynh-sung/chuong-7/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_8_sính_lễ.json",
+    "chapter_name": "Chương 8: sính lễ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-8/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_9_ngọc_phật.json",
+    "chapter_name": "Chương 9: ngọc phật",
+    "url": "https://truyenfull.io/huynh-sung/chuong-9/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_10_mở_miệng.json",
+    "chapter_name": "Chương 10: mở miệng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-10/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_11_công_lao.json",
+    "chapter_name": "Chương 11: công lao",
+    "url": "https://truyenfull.io/huynh-sung/chuong-11/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_12_gặp_mặt.json",
+    "chapter_name": "Chương 12: gặp mặt",
+    "url": "https://truyenfull.io/huynh-sung/chuong-12/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_13_ăn_kẹo.json",
+    "chapter_name": "Chương 13: ăn kẹo",
+    "url": "https://truyenfull.io/huynh-sung/chuong-13/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_14_cẩn_thận.json",
+    "chapter_name": "Chương 14: cẩn thận",
+    "url": "https://truyenfull.io/huynh-sung/chuong-14/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_15_gọi_người.json",
+    "chapter_name": "Chương 15: gọi người",
+    "url": "https://truyenfull.io/huynh-sung/chuong-15/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_16_rắc_rối.json",
+    "chapter_name": "Chương 16: rắc rối",
+    "url": "https://truyenfull.io/huynh-sung/chuong-16/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_17_ở_chung.json",
+    "chapter_name": "Chương 17: ở chung",
+    "url": "https://truyenfull.io/huynh-sung/chuong-17/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_18_điêu_khắc_gỗ.json",
+    "chapter_name": "Chương 18: điêu khắc gỗ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-18/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_19_trợ_lực.json",
+    "chapter_name": "Chương 19: trợ lực",
+    "url": "https://truyenfull.io/huynh-sung/chuong-19/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_20_tân_hôn.json",
+    "chapter_name": "Chương 20: tân hôn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-20/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_21_giúp_đỡ.json",
+    "chapter_name": "Chương 21: giúp đỡ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-21/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_22_làm_chủ.json",
+    "chapter_name": "Chương 22: làm chủ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-22/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_23_tặng_hoa.json",
+    "chapter_name": "Chương 23: tặng hoa",
+    "url": "https://truyenfull.io/huynh-sung/chuong-23/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_24_bảo_hộ.json",
+    "chapter_name": "Chương 24: bảo hộ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-24/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_25_lời_nói_trong_đêm.json",
+    "chapter_name": "Chương 25: lời nói trong đêm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-25/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_26_đáp_lễ.json",
+    "chapter_name": "Chương 26: đáp lễ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-26/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_27_sủng_ái.json",
+    "chapter_name": "Chương 27: sủng ái",
+    "url": "https://truyenfull.io/huynh-sung/chuong-27/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_28_đút_kẹo.json",
+    "chapter_name": "Chương 28: đút kẹo",
+    "url": "https://truyenfull.io/huynh-sung/chuong-28/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_29_ý_xấu.json",
+    "chapter_name": "Chương 29: ý xấu",
+    "url": "https://truyenfull.io/huynh-sung/chuong-29/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_30_đoạt_đất.json",
+    "chapter_name": "Chương 30: đoạt đất",
+    "url": "https://truyenfull.io/huynh-sung/chuong-30/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_31_tộc_trưởng.json",
+    "chapter_name": "Chương 31: tộc trưởng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-31/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_32_giải_vây.json",
+    "chapter_name": "Chương 32: giải vây",
+    "url": "https://truyenfull.io/huynh-sung/chuong-32/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_33_giữ_gìn.json",
+    "chapter_name": "Chương 33: giữ gìn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-33/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_34_công_chính_1.json",
+    "chapter_name": "Chương 34: công chính (1)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-34/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_35_đưa_đẩy.json",
+    "chapter_name": "Chương 35: đưa đẩy",
+    "url": "https://truyenfull.io/huynh-sung/chuong-35/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_36_kết_cục_đã_định.json",
+    "chapter_name": "Chương 36: kết cục đã định",
+    "url": "https://truyenfull.io/huynh-sung/chuong-36/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_37_xuất_khí.json",
+    "chapter_name": "Chương 37: xuất khí",
+    "url": "https://truyenfull.io/huynh-sung/chuong-37/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_38_đồng_lòng.json",
+    "chapter_name": "Chương 38: đồng lòng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-38/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_39_biết_chữ.json",
+    "chapter_name": "Chương 39: biết chữ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-39/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_40_vào_trấn.json",
+    "chapter_name": "Chương 40: vào trấn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-40/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_41_thuốc_mỡ.json",
+    "chapter_name": "Chương 41: thuốc mỡ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-41/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_42_lễ_vật.json",
+    "chapter_name": "Chương 42: lễ vật",
+    "url": "https://truyenfull.io/huynh-sung/chuong-42/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_43_tri_ân.json",
+    "chapter_name": "Chương 43: tri ân",
+    "url": "https://truyenfull.io/huynh-sung/chuong-43/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_44_cảm_động.json",
+    "chapter_name": "Chương 44: cảm động",
+    "url": "https://truyenfull.io/huynh-sung/chuong-44/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_45_hài_tử.json",
+    "chapter_name": "Chương 45: hài tử",
+    "url": "https://truyenfull.io/huynh-sung/chuong-45/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_46_phòng_ở.json",
+    "chapter_name": "Chương 46: phòng ở",
+    "url": "https://truyenfull.io/huynh-sung/chuong-46/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_47_đậu_hoa.json",
+    "chapter_name": "Chương 47: đậu hoa",
+    "url": "https://truyenfull.io/huynh-sung/chuong-47/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_48_ghen_ghét.json",
+    "chapter_name": "Chương 48: ghen ghét",
+    "url": "https://truyenfull.io/huynh-sung/chuong-48/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_49_tiếp_ngươi.json",
+    "chapter_name": "Chương 49: tiếp ngươi",
+    "url": "https://truyenfull.io/huynh-sung/chuong-49/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_50_khen_ngợi_lẫn_nhau.json",
+    "chapter_name": "Chương 50: khen ngợi lẫn nhau",
+    "url": "https://truyenfull.io/huynh-sung/chuong-50/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_51_nổi_giận.json",
+    "chapter_name": "Chương 51: nổi giận",
+    "url": "https://truyenfull.io/huynh-sung/chuong-51/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_52_trò_đùa.json",
+    "chapter_name": "Chương 52: trò đùa",
+    "url": "https://truyenfull.io/huynh-sung/chuong-52/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_53_giấy_cắt_hoa.json",
+    "chapter_name": "Chương 53: giấy cắt hoa",
+    "url": "https://truyenfull.io/huynh-sung/chuong-53/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_54_giao_thừa.json",
+    "chapter_name": "Chương 54: giao thừa",
+    "url": "https://truyenfull.io/huynh-sung/chuong-54/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_55_say_rượu.json",
+    "chapter_name": "Chương 55: say rượu",
+    "url": "https://truyenfull.io/huynh-sung/chuong-55/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_56_gác_đêm.json",
+    "chapter_name": "Chương 56: gác đêm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-56/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_57_nói_chuyện_phiếm.json",
+    "chapter_name": "Chương 57: nói chuyện phiếm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-57/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_58_sinh_bệnh.json",
+    "chapter_name": "Chương 58: sinh bệnh",
+    "url": "https://truyenfull.io/huynh-sung/chuong-58/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_59_chiếu_cố.json",
+    "chapter_name": "Chương 59: chiếu cố",
+    "url": "https://truyenfull.io/huynh-sung/chuong-59/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_60_ôn_nhu.json",
+    "chapter_name": "Chương 60: ôn nhu",
+    "url": "https://truyenfull.io/huynh-sung/chuong-60/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_61_ấm_áp.json",
+    "chapter_name": "Chương 61: ấm áp",
+    "url": "https://truyenfull.io/huynh-sung/chuong-61/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_62_nói_dối.json",
+    "chapter_name": "Chương 62: nói dối",
+    "url": "https://truyenfull.io/huynh-sung/chuong-62/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_63_đoạt_phòng.json",
+    "chapter_name": "Chương 63: đoạt phòng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-63/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_64_bảo_hộ.json",
+    "chapter_name": "Chương 64: bảo hộ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-64/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_65_dọn_nhà_một.json",
+    "chapter_name": "Chương 65: dọn nhà (một)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-65/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_66_dọn_nhà_hai.json",
+    "chapter_name": "Chương 66: dọn nhà (hai)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-66/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_67_hoa_đăng.json",
+    "chapter_name": "Chương 67: hoa đăng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-67/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_68_thư_sướng.json",
+    "chapter_name": "Chương 68: thư sướng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-68/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_69_báo_ứng.json",
+    "chapter_name": "Chương 69: báo ứng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-69/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_70_thân_thủ.json",
+    "chapter_name": "Chương 70: thân thủ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-70/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_71_tán_dương.json",
+    "chapter_name": "Chương 71: tán dương",
+    "url": "https://truyenfull.io/huynh-sung/chuong-71/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_72_trị_chân_một.json",
+    "chapter_name": "Chương 72: trị chân (một)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-72/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_73_trị_chân_hai.json",
+    "chapter_name": "Chương 73: trị chân (hai)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-73/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_74_mời_ngủ.json",
+    "chapter_name": "Chương 74: mời ngủ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-74/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_75_cùng_ngủ.json",
+    "chapter_name": "Chương 75: cùng ngủ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-75/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_76_chuyển_biến_tốt_đẹp.json",
+    "chapter_name": "Chương 76: chuyển biến tốt đẹp",
+    "url": "https://truyenfull.io/huynh-sung/chuong-76/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_77_hi_vọng.json",
+    "chapter_name": "Chương 77: hi vọng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-77/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_78_huynh_sủng.json",
+    "chapter_name": "Chương 78: huynh sủng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-78/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_79_đu_dây.json",
+    "chapter_name": "Chương 79: đu dây",
+    "url": "https://truyenfull.io/huynh-sung/chuong-79/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_80_chia_sẻ.json",
+    "chapter_name": "Chương 80: chia sẻ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-80/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_81_bị_cắn.json",
+    "chapter_name": "Chương 81: bị cắn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-81/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_82_kinh_hãi.json",
+    "chapter_name": "Chương 82: kinh hãi",
+    "url": "https://truyenfull.io/huynh-sung/chuong-82/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_83_trấn_an.json",
+    "chapter_name": "Chương 83: trấn an",
+    "url": "https://truyenfull.io/huynh-sung/chuong-83/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_84_suy_nghĩ_nhiều.json",
+    "chapter_name": "Chương 84: suy nghĩ nhiều",
+    "url": "https://truyenfull.io/huynh-sung/chuong-84/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_85_thi_viện.json",
+    "chapter_name": "Chương 85: thi viện",
+    "url": "https://truyenfull.io/huynh-sung/chuong-85/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_86_ôm.json",
+    "chapter_name": "Chương 86: ôm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-86/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_87_lẫm_sinh.json",
+    "chapter_name": "Chương 87: lẫm sinh",
+    "url": "https://truyenfull.io/huynh-sung/chuong-87/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_88_thổi_sáo.json",
+    "chapter_name": "Chương 88: thổi sáo",
+    "url": "https://truyenfull.io/huynh-sung/chuong-88/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_89_làm_bạn.json",
+    "chapter_name": "Chương 89: làm bạn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-89/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_90_lấy_chồng.json",
+    "chapter_name": "Chương 90: lấy chồng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-90/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_91_tìm_người.json",
+    "chapter_name": "Chương 91: tìm người",
+    "url": "https://truyenfull.io/huynh-sung/chuong-91/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_92_sát_tâm.json",
+    "chapter_name": "Chương 92: sát tâm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-92/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_93_lừa_tiền.json",
+    "chapter_name": "Chương 93: lừa tiền",
+    "url": "https://truyenfull.io/huynh-sung/chuong-93/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_94_chột_dạ.json",
+    "chapter_name": "Chương 94: chột dạ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-94/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_95_đại_biến.json",
+    "chapter_name": "Chương 95: đại biến",
+    "url": "https://truyenfull.io/huynh-sung/chuong-95/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_96_đền_mạng.json",
+    "chapter_name": "Chương 96: đền mạng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-96/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_97_vào_thành.json",
+    "chapter_name": "Chương 97: vào thành",
+    "url": "https://truyenfull.io/huynh-sung/chuong-97/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_98_thân_thế.json",
+    "chapter_name": "Chương 98: thân thế",
+    "url": "https://truyenfull.io/huynh-sung/chuong-98/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_99_tín_vật.json",
+    "chapter_name": "Chương 99: tín vật",
+    "url": "https://truyenfull.io/huynh-sung/chuong-99/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/huynh-sung/chuong-100/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_101_ăn_dấm.json",
+    "chapter_name": "Chương 101: ăn dấm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-101/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_102_muội_tao.json",
+    "chapter_name": "Chương 102: muội tao",
+    "url": "https://truyenfull.io/huynh-sung/chuong-102/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_103_cùng_ăn.json",
+    "chapter_name": "Chương 103: cùng ăn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-103/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_104_nữ_trang.json",
+    "chapter_name": "Chương 104: nữ trang",
+    "url": "https://truyenfull.io/huynh-sung/chuong-104/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_105_gạt_người.json",
+    "chapter_name": "Chương 105: gạt người",
+    "url": "https://truyenfull.io/huynh-sung/chuong-105/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_106_hôn_sự.json",
+    "chapter_name": "Chương 106: hôn sự",
+    "url": "https://truyenfull.io/huynh-sung/chuong-106/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_107_sinh_khí.json",
+    "chapter_name": "Chương 107: sinh khí",
+    "url": "https://truyenfull.io/huynh-sung/chuong-107/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_108_bóc_trần.json",
+    "chapter_name": "Chương 108: bóc trần",
+    "url": "https://truyenfull.io/huynh-sung/chuong-108/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_109_khai_khiếu.json",
+    "chapter_name": "Chương 109: khai khiếu*",
+    "url": "https://truyenfull.io/huynh-sung/chuong-109/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_110_nhận_ra.json",
+    "chapter_name": "Chương 110: nhận ra",
+    "url": "https://truyenfull.io/huynh-sung/chuong-110/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_111_chiêu_tế.json",
+    "chapter_name": "Chương 111: chiêu tế",
+    "url": "https://truyenfull.io/huynh-sung/chuong-111/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_112_đi_đường.json",
+    "chapter_name": "Chương 112: đi đường",
+    "url": "https://truyenfull.io/huynh-sung/chuong-112/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_113_bà_mối.json",
+    "chapter_name": "Chương 113: bà mối",
+    "url": "https://truyenfull.io/huynh-sung/chuong-113/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_114_từ_chối.json",
+    "chapter_name": "Chương 114: từ chối",
+    "url": "https://truyenfull.io/huynh-sung/chuong-114/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_115_bệnh.json",
+    "chapter_name": "Chương 115: bệnh",
+    "url": "https://truyenfull.io/huynh-sung/chuong-115/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_116_tra_hỏi.json",
+    "chapter_name": "Chương 116: tra hỏi",
+    "url": "https://truyenfull.io/huynh-sung/chuong-116/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_117_bắt_giam.json",
+    "chapter_name": "Chương 117: bắt giam",
+    "url": "https://truyenfull.io/huynh-sung/chuong-117/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_118_thăm_tù.json",
+    "chapter_name": "Chương 118: thăm tù",
+    "url": "https://truyenfull.io/huynh-sung/chuong-118/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_119_hôn.json",
+    "chapter_name": "Chương 119: hôn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-119/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_120_thả_ra.json",
+    "chapter_name": "Chương 120: thả ra",
+    "url": "https://truyenfull.io/huynh-sung/chuong-120/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_121_còn_thân_hơn.json",
+    "chapter_name": "Chương 121: còn thân hơn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-121/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_122_thổ_lộ.json",
+    "chapter_name": "Chương 122: thổ lộ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-122/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_123_nghiêm_túc.json",
+    "chapter_name": "Chương 123: nghiêm túc",
+    "url": "https://truyenfull.io/huynh-sung/chuong-123/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_124_lại_hôn.json",
+    "chapter_name": "Chương 124: lại hôn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-124/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_125_đánh_lén.json",
+    "chapter_name": "Chương 125: đánh lén",
+    "url": "https://truyenfull.io/huynh-sung/chuong-125/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_126_phát_hiện.json",
+    "chapter_name": "Chương 126: phát hiện",
+    "url": "https://truyenfull.io/huynh-sung/chuong-126/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_127_thẳng_thắn.json",
+    "chapter_name": "Chương 127: thẳng thắn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-127/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_128_thi_hương.json",
+    "chapter_name": "Chương 128: thi hương",
+    "url": "https://truyenfull.io/huynh-sung/chuong-128/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_129_yên_ắng.json",
+    "chapter_name": "Chương 129: yên ắng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-129/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_130_vào_kinh.json",
+    "chapter_name": "Chương 130: vào kinh",
+    "url": "https://truyenfull.io/huynh-sung/chuong-130/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_131_cầm_cố.json",
+    "chapter_name": "Chương 131: cầm cố",
+    "url": "https://truyenfull.io/huynh-sung/chuong-131/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_132_quý_nhân.json",
+    "chapter_name": "Chương 132: quý nhân",
+    "url": "https://truyenfull.io/huynh-sung/chuong-132/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_133_nương.json",
+    "chapter_name": "Chương 133: nương",
+    "url": "https://truyenfull.io/huynh-sung/chuong-133/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_134_hiển_hiện.json",
+    "chapter_name": "Chương 134: hiển hiện",
+    "url": "https://truyenfull.io/huynh-sung/chuong-134/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_135_tìm_kiếm.json",
+    "chapter_name": "Chương 135: tìm kiếm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-135/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_136_tình_ý.json",
+    "chapter_name": "Chương 136: tình ý",
+    "url": "https://truyenfull.io/huynh-sung/chuong-136/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_137_tìm_được.json",
+    "chapter_name": "Chương 137: tìm được",
+    "url": "https://truyenfull.io/huynh-sung/chuong-137/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_138_xác_nhận.json",
+    "chapter_name": "Chương 138: xác nhận",
+    "url": "https://truyenfull.io/huynh-sung/chuong-138/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_139_gặp_lại.json",
+    "chapter_name": "Chương 139: gặp lại",
+    "url": "https://truyenfull.io/huynh-sung/chuong-139/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_140_tìm_người_thân.json",
+    "chapter_name": "Chương 140: tìm người thân",
+    "url": "https://truyenfull.io/huynh-sung/chuong-140/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_141_địch_ý.json",
+    "chapter_name": "Chương 141: địch ý",
+    "url": "https://truyenfull.io/huynh-sung/chuong-141/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_142_đuổi_khách.json",
+    "chapter_name": "Chương 142: đuổi khách",
+    "url": "https://truyenfull.io/huynh-sung/chuong-142/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_143_nghĩ_mà_sợ.json",
+    "chapter_name": "Chương 143: nghĩ mà sợ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-143/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_144_cưới_gả.json",
+    "chapter_name": "Chương 144: cưới gả",
+    "url": "https://truyenfull.io/huynh-sung/chuong-144/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_145_thành_thân.json",
+    "chapter_name": "Chương 145: thành thân",
+    "url": "https://truyenfull.io/huynh-sung/chuong-145/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_146_kết_thúc_buổi_lễ.json",
+    "chapter_name": "Chương 146: kết thúc buổi lễ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-146/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_147_rời_kinh.json",
+    "chapter_name": "Chương 147: rời kinh",
+    "url": "https://truyenfull.io/huynh-sung/chuong-147/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_148_xương_trắng.json",
+    "chapter_name": "Chương 148: xương trắng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-148/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_149_trước_kia.json",
+    "chapter_name": "Chương 149: trước kia",
+    "url": "https://truyenfull.io/huynh-sung/chuong-149/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_150_ân_cần.json",
+    "chapter_name": "Chương 150: ân cần",
+    "url": "https://truyenfull.io/huynh-sung/chuong-150/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_151_lựa_chọn.json",
+    "chapter_name": "Chương 151: lựa chọn",
+    "url": "https://truyenfull.io/huynh-sung/chuong-151/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_152_muội_phu_.json",
+    "chapter_name": "Chương 152: muội phu (*)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-152/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_153_thân_cận.json",
+    "chapter_name": "Chương 153: thân cận",
+    "url": "https://truyenfull.io/huynh-sung/chuong-153/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_154_nhận_người_thân.json",
+    "chapter_name": "Chương 154: nhận người thân",
+    "url": "https://truyenfull.io/huynh-sung/chuong-154/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_155_đến_nhận_chức.json",
+    "chapter_name": "Chương 155: đến nhận chức",
+    "url": "https://truyenfull.io/huynh-sung/chuong-155/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_156_hầu_hạ.json",
+    "chapter_name": "Chương 156: hầu hạ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-156/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_157_sinh_nghi.json",
+    "chapter_name": "Chương 157: sinh nghi",
+    "url": "https://truyenfull.io/huynh-sung/chuong-157/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_158_nguy_hiểm.json",
+    "chapter_name": "Chương 158: nguy hiểm",
+    "url": "https://truyenfull.io/huynh-sung/chuong-158/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_159_mang_thai.json",
+    "chapter_name": "Chương 159: mang thai",
+    "url": "https://truyenfull.io/huynh-sung/chuong-159/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_160_hài_tử.json",
+    "chapter_name": "Chương 160: hài tử",
+    "url": "https://truyenfull.io/huynh-sung/chuong-160/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_161_vui_vẻ.json",
+    "chapter_name": "Chương 161: vui vẻ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-161/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_162_uống_rượu_拼酒.json",
+    "chapter_name": "Chương 162: uống rượu (拼酒)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-162/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_163_chịu_đựng.json",
+    "chapter_name": "Chương 163: chịu đựng",
+    "url": "https://truyenfull.io/huynh-sung/chuong-163/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_164_trung_thu.json",
+    "chapter_name": "Chương 164: trung thu",
+    "url": "https://truyenfull.io/huynh-sung/chuong-164/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_165_chém_giết.json",
+    "chapter_name": "Chương 165: chém giết",
+    "url": "https://truyenfull.io/huynh-sung/chuong-165/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_166_bảo_vệ.json",
+    "chapter_name": "Chương 166: bảo vệ",
+    "url": "https://truyenfull.io/huynh-sung/chuong-166/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_167_tỉnh_lại.json",
+    "chapter_name": "Chương 167: tỉnh lại",
+    "url": "https://truyenfull.io/huynh-sung/chuong-167/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_168_phản.json",
+    "chapter_name": "Chương 168: phản",
+    "url": "https://truyenfull.io/huynh-sung/chuong-168/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_169_Đơn_giản.json",
+    "chapter_name": "Chương 169: Đơn giản",
+    "url": "https://truyenfull.io/huynh-sung/chuong-169/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_170_Kết_thúc_Hoàn_chính_văn.json",
+    "chapter_name": "Chương 170: Kết thúc (Hoàn chính văn)",
+    "url": "https://truyenfull.io/huynh-sung/chuong-170/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_171_Phiên_Ngoại_Một.json",
+    "chapter_name": "Chương 171: Phiên Ngoại Một",
+    "url": "https://truyenfull.io/huynh-sung/chuong-171/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_172_Phiên_Ngoại_2.json",
+    "chapter_name": "Chương 172: Phiên Ngoại 2",
+    "url": "https://truyenfull.io/huynh-sung/chuong-172/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_173_Phiên_Ngoại_Ba.json",
+    "chapter_name": "Chương 173: Phiên Ngoại Ba",
+    "url": "https://truyenfull.io/huynh-sung/chuong-173/"
+  },
+  {
+    "path": "data/Huynh_Sủng/Chương_174_Phiên_Ngoại_4.json",
+    "chapter_name": "Chương 174: Phiên Ngoại 4",
+    "url": "https://truyenfull.io/huynh-sung/chuong-174/"
+  }
+]
