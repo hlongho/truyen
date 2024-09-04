@@ -1,0 +1,582 @@
+[
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_1_Chương_1.json",
+    "chapter_name": "Chương 1: Chương 1",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-1/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_2_Chương_2.json",
+    "chapter_name": "Chương 2: Chương 2",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-2/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_3_Chương_3.json",
+    "chapter_name": "Chương 3: Chương 3",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-3/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_4_Chương_4.json",
+    "chapter_name": "Chương 4: Chương 4",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-4/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_5_Chương_5.json",
+    "chapter_name": "Chương 5: Chương 5",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-5/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_6_Chương_6.json",
+    "chapter_name": "Chương 6: Chương 6",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-6/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_7_Chương_7.json",
+    "chapter_name": "Chương 7: Chương 7",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-7/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_8_Chương_8.json",
+    "chapter_name": "Chương 8: Chương 8",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-8/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_9_Chương_9.json",
+    "chapter_name": "Chương 9: Chương 9",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-9/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_1011.json",
+    "chapter_name": "Chương 10-11",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-10-11/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_12_Chương_12.json",
+    "chapter_name": "Chương 12: Chương 12",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-12/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_13_Chương_13.json",
+    "chapter_name": "Chương 13: Chương 13",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-13/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_14_Chương_14.json",
+    "chapter_name": "Chương 14: Chương 14",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-14/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_15_Chương_15.json",
+    "chapter_name": "Chương 15: Chương 15",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-15/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_16_Chương_16.json",
+    "chapter_name": "Chương 16: Chương 16",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-16/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_17_Chương_17.json",
+    "chapter_name": "Chương 17: Chương 17",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-17/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_18_Chương_18.json",
+    "chapter_name": "Chương 18: Chương 18",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-18/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_19_Chương_19.json",
+    "chapter_name": "Chương 19: Chương 19",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-19/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_20_Chương_20.json",
+    "chapter_name": "Chương 20: Chương 20",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-20/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_21_Chương_21.json",
+    "chapter_name": "Chương 21: Chương 21",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-21/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_22_Chương_22.json",
+    "chapter_name": "Chương 22: Chương 22",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-22/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_23_Chương_23.json",
+    "chapter_name": "Chương 23: Chương 23",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-23/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_24_Chương_24.json",
+    "chapter_name": "Chương 24: Chương 24",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-24/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_25_Chương_25.json",
+    "chapter_name": "Chương 25: Chương 25",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-25/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_26_Chương_26.json",
+    "chapter_name": "Chương 26: Chương 26",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-26/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_27_Chương_27.json",
+    "chapter_name": "Chương 27: Chương 27",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-27/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_28_Chương_28.json",
+    "chapter_name": "Chương 28: Chương 28",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-28/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_29_Chương_29.json",
+    "chapter_name": "Chương 29: Chương 29",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-29/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_30_Chương_30.json",
+    "chapter_name": "Chương 30: Chương 30",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-30/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_31_Chương_31.json",
+    "chapter_name": "Chương 31: Chương 31",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-31/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_32_Chương_32.json",
+    "chapter_name": "Chương 32: Chương 32",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-32/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_33_Chương_33.json",
+    "chapter_name": "Chương 33: Chương 33",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-33/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_34_Chương_34.json",
+    "chapter_name": "Chương 34: Chương 34",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-34/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_35_Chương_35.json",
+    "chapter_name": "Chương 35: Chương 35",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-35/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_36_36_Trên_Đời_Này_Tôi_Yêu_Anh_Nhất.json",
+    "chapter_name": "Chương 36: 36: Trên Đời Này Tôi Yêu Anh Nhất",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-36/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_37_37_Nhớ_Anh.json",
+    "chapter_name": "Chương 37: 37: Nhớ Anh",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-37/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_38_38_Nói_Rằng_Tôi_Nhớ_Anh_Ấy_Rồi.json",
+    "chapter_name": "Chương 38: 38: Nói Rằng Tôi Nhớ Anh Ấy Rồi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-38/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_39_39_Thích.json",
+    "chapter_name": "Chương 39: 39: Thích",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-39/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_40_40_Ngọt_Ngào.json",
+    "chapter_name": "Chương 40: 40: Ngọt Ngào",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-40/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_41_41_Lâm_Tham_Tài_Háo_Sắc_Quỳnh.json",
+    "chapter_name": "Chương 41: 41: Lâm- Tham Tài Háo Sắc- Quỳnh",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-41/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_42_42_Chỉ_Yêu_Mình_Anh.json",
+    "chapter_name": "Chương 42: 42: Chỉ Yêu Mình Anh",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-42/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_43_43_Người_Mình_Thích.json",
+    "chapter_name": "Chương 43: 43: Người Mình Thích",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-43/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_44_44_Tôi_Đã_Có_Anh_Rồi.json",
+    "chapter_name": "Chương 44: 44: Tôi Đã Có Anh Rồi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-44/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_45_45_Làm_Nũng.json",
+    "chapter_name": "Chương 45: 45: Làm Nũng",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-45/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_46_46_Đồ_Đôi.json",
+    "chapter_name": "Chương 46: 46: Đồ Đôi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-46/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_47_47_Sao_Có_Thể_Ăn_Thỏ_Thỏ.json",
+    "chapter_name": "Chương 47: 47: Sao Có Thể Ăn Thỏ Thỏ",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-47/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_48_48_Chồng.json",
+    "chapter_name": "Chương 48: 48: Chồng",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-48/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_49_49_Nợ_Đào_Hoa.json",
+    "chapter_name": "Chương 49: 49: Nợ Đào Hoa",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-49/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_50_50_Càng_Thích_Anh_Ấy_Hơn_Rồi.json",
+    "chapter_name": "Chương 50: 50: Càng Thích Anh Ấy Hơn Rồi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-50/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_51_51_Cậu_Ấy_Có_Chồng.json",
+    "chapter_name": "Chương 51: 51: Cậu Ấy Có Chồng",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-51/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_52_52_Cậu_Ấy_Yêu_Tôi.json",
+    "chapter_name": "Chương 52: 52: Cậu Ấy Yêu Tôi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-52/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_53_53_Yêu_Tất_Cả_Mọi_Thứ_Thuộc_Về_Anh.json",
+    "chapter_name": "Chương 53: 53: Yêu Tất Cả Mọi Thứ Thuộc Về Anh",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-53/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_54_54_Đánh_Gãy_Chân.json",
+    "chapter_name": "Chương 54: 54: Đánh Gãy Chân",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-54/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_55_55_Ngọt_Không.json",
+    "chapter_name": "Chương 55: 55: Ngọt Không",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-55/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_56_56_Điều_Ước.json",
+    "chapter_name": "Chương 56: 56: Điều Ước",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-56/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_57_57_Bệnh_Điên.json",
+    "chapter_name": "Chương 57: 57: Bệnh Điên",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-57/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_58_58_Thứ_Chó_Má.json",
+    "chapter_name": "Chương 58: 58: Thứ Chó Má!!!",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-58/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_59_59_Nghe_Lời_Như_Chó_Lớn.json",
+    "chapter_name": "Chương 59: 59: Nghe Lời Như Chó Lớn",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-59/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_60_60_Hai_Trăm_Rưỡi.json",
+    "chapter_name": "Chương 60: 60: Hai Trăm Rưỡi",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-60/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_61_61_Tình_Yêu_Đáng_Chết.json",
+    "chapter_name": "Chương 61: 61: Tình Yêu Đáng Chết",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-61/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_62_62_Viên_Đạn_Tình_Yêu.json",
+    "chapter_name": "Chương 62: 62: Viên Đạn Tình Yêu",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-62/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_63_63_Kiss_Gián_Tiếp.json",
+    "chapter_name": "Chương 63: 63: Kiss Gián Tiếp",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-63/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_64_64_Anh_Có_Cảm_Giác_Không.json",
+    "chapter_name": "Chương 64: 64: Anh Có Cảm Giác Không",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-64/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_65_65_Sắc_Sắc.json",
+    "chapter_name": "Chương 65: 65: Sắc Sắc",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-65/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_66_66_Làm_Nũng.json",
+    "chapter_name": "Chương 66: 66: Làm Nũng",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-66/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_67_67_Quà.json",
+    "chapter_name": "Chương 67: 67: Quà",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-67/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_68_68_Hôn_Cái_Nào.json",
+    "chapter_name": "Chương 68: 68: Hôn Cái Nào",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-68/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_69_69_Hôn.json",
+    "chapter_name": "Chương 69: 69: Hôn",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-69/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-70/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-71/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-72/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-73/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-74/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-75/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-76/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-77/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-78/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-79/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-80/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-81/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-82/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-83/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-84/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-85/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-86/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-87/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-88/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-89/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-90/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-91/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-92/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-93/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-94/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-95/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-96/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-97/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-98/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-99/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-100/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-101/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-102/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-103/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-104/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-105/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-106/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_107_Ngoại_truyện_1.json",
+    "chapter_name": "Chương 107: Ngoại truyện 1",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-107/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_108_Ngoại_truyện_2.json",
+    "chapter_name": "Chương 108: Ngoại truyện 2",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-108/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_109_Ngoại_truyện_3.json",
+    "chapter_name": "Chương 109: Ngoại truyện 3",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-109/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_110_Ngoại_truyện_4.json",
+    "chapter_name": "Chương 110: Ngoại truyện 4",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-110/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_111_Ngoại_truyện_5.json",
+    "chapter_name": "Chương 111: Ngoại truyện 5",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-111/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_112_Ngoại_truyện_7.json",
+    "chapter_name": "Chương 112: Ngoại truyện 7",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-112/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_113_Ngoại_truyện_7.json",
+    "chapter_name": "Chương 113: Ngoại truyện 7",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-113/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_114_Ngoại_truyện_8.json",
+    "chapter_name": "Chương 114: Ngoại truyện 8",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-114/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_115_Ngoại_truyện_9.json",
+    "chapter_name": "Chương 115: Ngoại truyện 9",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-115/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_116_Ngoại_truyện_10.json",
+    "chapter_name": "Chương 116: Ngoại truyện 10",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-116/"
+  },
+  {
+    "path": "data/Xuyên_Thành_Nam_Thê_Pháo_Hôi_Của_Nhân_Vật_Phản_Diện/Chương_117_Ngoại_truyện_11.json",
+    "chapter_name": "Chương 117: Ngoại truyện 11",
+    "url": "https://truyenfull.io/xuyen-thanh-nam-the-phao-hoi-cua-nhan-vat-phan-dien/chuong-117/"
+  }
+]
