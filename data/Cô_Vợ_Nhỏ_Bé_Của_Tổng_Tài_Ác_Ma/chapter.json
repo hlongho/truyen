@@ -1,0 +1,402 @@
+[
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_1_Đến_nhà_thăm.json",
+    "chapter_name": "Chương 1: Đến nhà thăm",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-1/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_2_Tin_nhắn_hiểu_lầm.json",
+    "chapter_name": "Chương 2: Tin nhắn hiểu lầm",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-2/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_3_Đừng_mơ_tưởng_có_đêm_tân_hôn.json",
+    "chapter_name": "Chương 3: Đừng mơ tưởng có đêm tân hôn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-3/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_4_Cô_có_quyền_từ_chối_sao.json",
+    "chapter_name": "Chương 4: Cô có quyền từ chối sao?",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-4/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_5_Bán_thân_lấy_tiền.json",
+    "chapter_name": "Chương 5: Bán thân lấy tiền",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-5/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_6_Cô_sống_vui_vẻ_chứ.json",
+    "chapter_name": "Chương 6: Cô sống vui vẻ chứ?",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-6/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_7_Nhược_Nhiên_Nhi.json",
+    "chapter_name": "Chương 7: Nhược Nhiên Nhi",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-7/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_8_Tác_dụng_của_xuân_dược.json",
+    "chapter_name": "Chương 8: Tác dụng của xuân dược",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-8/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_9_Sỉ_nhục_đến_cùng_cực.json",
+    "chapter_name": "Chương 9: Sỉ nhục đến cùng cực",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-9/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_10_Đi_công_tác_bên_Mỹ.json",
+    "chapter_name": "Chương 10: Đi công tác bên Mỹ",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-10/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_11_Công_việc_bên_Mỹ.json",
+    "chapter_name": "Chương 11: Công việc bên Mỹ",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-11/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_12_Nỗi_đau_thể_xác.json",
+    "chapter_name": "Chương 12: Nỗi đau thể xác",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-12/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_13_Dễ_dàng_đồng_ý.json",
+    "chapter_name": "Chương 13: Dễ dàng đồng ý",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-13/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_14_Tình_cờ_gặp_mặt.json",
+    "chapter_name": "Chương 14: Tình cờ gặp mặt",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-14/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_15_Có_chút_ôn_nhu.json",
+    "chapter_name": "Chương 15: Có chút ôn nhu",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-15/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_16_Hiềm_khích.json",
+    "chapter_name": "Chương 16: Hiềm khích",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-16/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_17_Tức_giận.json",
+    "chapter_name": "Chương 17: Tức giận",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-17/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_18_Hẹn_gặp.json",
+    "chapter_name": "Chương 18: Hẹn gặp",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-18/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_19_Bị_bỏ_thuốc.json",
+    "chapter_name": "Chương 19: Bị bỏ thuốc",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-19/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_20_Hoan_ái.json",
+    "chapter_name": "Chương 20: Hoan ái",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-20/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_21_Diệp_Mộc_Vân_trở_về.json",
+    "chapter_name": "Chương 21: Diệp Mộc Vân trở về",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-21/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_22_Tàn_nhẫn.json",
+    "chapter_name": "Chương 22: Tàn nhẫn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-22/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_23_Áy_náy.json",
+    "chapter_name": "Chương 23: Áy náy",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-23/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_24_Tìm_gặp_anh.json",
+    "chapter_name": "Chương 24: Tìm gặp anh",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-24/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_25_Ngỏ_ý.json",
+    "chapter_name": "Chương 25: Ngỏ ý",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-25/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_26_Trả_thù.json",
+    "chapter_name": "Chương 26: Trả thù",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-26/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_27_Nguy_hiểm.json",
+    "chapter_name": "Chương 27: Nguy hiểm",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-27/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_28_Trừ_khử.json",
+    "chapter_name": "Chương 28: Trừ khử",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-28/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_29_Mộc_Nhiên_mang_thai.json",
+    "chapter_name": "Chương 29: Mộc Nhiên mang thai",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-29/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_30_Hiểu_lầm.json",
+    "chapter_name": "Chương 30: Hiểu lầm",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-30/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_31_Xảy_thai.json",
+    "chapter_name": "Chương 31: Xảy thai",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-31/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_32_Rời_đi.json",
+    "chapter_name": "Chương 32: Rời đi",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-32/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_33_Khám_thai.json",
+    "chapter_name": "Chương 33: Khám thai",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-33/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_34_Bắt_đi.json",
+    "chapter_name": "Chương 34: Bắt đi",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-34/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_35_Ân_hận.json",
+    "chapter_name": "Chương 35: Ân hận",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-35/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_36_Thay_đổi.json",
+    "chapter_name": "Chương 36: Thay đổi",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-36/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_37_Trở_về.json",
+    "chapter_name": "Chương 37: Trở về",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-37/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_38_Gặp_mặt.json",
+    "chapter_name": "Chương 38: Gặp mặt",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-38/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_39_Về_Diệp_gia.json",
+    "chapter_name": "Chương 39: Về Diệp gia",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-39/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_40_Cuộc_nói_chuyện_giữa_người_cũ.json",
+    "chapter_name": "Chương 40: Cuộc nói chuyện giữa người cũ",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-40/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_41_Một_mạng_đền_một_mạng.json",
+    "chapter_name": "Chương 41: Một mạng đền một mạng",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-41/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_42_Kế_hoạch_trả_thù.json",
+    "chapter_name": "Chương 42: Kế hoạch trả thù",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-42/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_43_Buổi_họp_báo.json",
+    "chapter_name": "Chương 43: Buổi họp báo",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-43/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_44_Xảy_ra_tai_nạn.json",
+    "chapter_name": "Chương 44: Xảy ra tai nạn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-44/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_45_Cuộc_trò_chuyện_bí_ẩn.json",
+    "chapter_name": "Chương 45: Cuộc trò chuyện bí ẩn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-45/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_46_Người_đàn_ông_bí_ẩn_Vương_Hùng.json",
+    "chapter_name": "Chương 46: Người đàn ông bí ẩn - Vương Hùng",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-46/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_47_Bắt_đầu.json",
+    "chapter_name": "Chương 47: Bắt đầu",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-47/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_48_Bữa_tiệc.json",
+    "chapter_name": "Chương 48: Bữa tiệc",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-48/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_49_Nhận_ra.json",
+    "chapter_name": "Chương 49: Nhận ra",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-49/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_50_Sự_thật.json",
+    "chapter_name": "Chương 50: Sự thật",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-50/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_51_Lo_sợ.json",
+    "chapter_name": "Chương 51: Lo sợ",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-51/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_52_Hoạn_nạn_mới_biết_chân_tình.json",
+    "chapter_name": "Chương 52: Hoạn nạn mới biết chân tình",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-52/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_53_Hạnh_phúc.json",
+    "chapter_name": "Chương 53: Hạnh phúc",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-53/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_54_Hoan_ái.json",
+    "chapter_name": "Chương 54: Hoan ái",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-54/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_55_Nói_chuyện_cùng_Diệp_Mộc_Vân.json",
+    "chapter_name": "Chương 55: Nói chuyện cùng Diệp Mộc Vân",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-55/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_56_Thử_giường_mới.json",
+    "chapter_name": "Chương 56: Thử giường mới",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-56/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_57_Cầu_hôn.json",
+    "chapter_name": "Chương 57: Cầu hôn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-57/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_58_Ngày_giỗ.json",
+    "chapter_name": "Chương 58: Ngày giỗ",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-58/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_59_Em_không_thích_tư_thế_này.json",
+    "chapter_name": "Chương 59: Em không thích tư thế này",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-59/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_60_Biết_sự_thật.json",
+    "chapter_name": "Chương 60: Biết sự thật",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-60/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_61_Rời_đi.json",
+    "chapter_name": "Chương 61: Rời đi",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-61/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_62_Mộc_Nhiên_mất_tích.json",
+    "chapter_name": "Chương 62: Mộc Nhiên mất tích",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-62/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_63_Nguy_hiểm.json",
+    "chapter_name": "Chương 63: Nguy hiểm",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-63/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_64_Hôn_mê.json",
+    "chapter_name": "Chương 64: Hôn mê",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-64/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_65_Ngày_hạnh_phúc.json",
+    "chapter_name": "Chương 65: Ngày hạnh phúc",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-65/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_66_Diệp_Mộc_Vân_chết.json",
+    "chapter_name": "Chương 66: Diệp Mộc Vân chết",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-66/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_67_Đêm_tân_hôn.json",
+    "chapter_name": "Chương 67: Đêm tân hôn",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-67/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_68_Sinh_nhật_Hàn_Thiên_Lãnh.json",
+    "chapter_name": "Chương 68: Sinh nhật Hàn Thiên Lãnh",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-68/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_69_Hành_hạ_anh.json",
+    "chapter_name": "Chương 69: Hành hạ anh",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-69/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_70_Cuồng_nhiệt.json",
+    "chapter_name": "Chương 70: Cuồng nhiệt",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-70/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_71_Về_nhà.json",
+    "chapter_name": "Chương 71: Về nhà",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-71/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_72_Kết_quả_kiểm_tra.json",
+    "chapter_name": "Chương 72: Kết quả kiểm tra",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-72/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_73_Vui_vẻ_cùng_nhauI.json",
+    "chapter_name": "Chương 73: Vui vẻ cùng nhau(I)",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-73/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_74_Vui_vẻ_cùng_nhauII.json",
+    "chapter_name": "Chương 74: Vui vẻ cùng nhau(II)",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-74/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_75_Vui_vẻ_cùng_nhauIII.json",
+    "chapter_name": "Chương 75: Vui vẻ cùng nhau(III)",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-75/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_76_Phát_hiện.json",
+    "chapter_name": "Chương 76: Phát hiện",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-76/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_77_Thương_xót.json",
+    "chapter_name": "Chương 77: Thương xót",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-77/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_78_Phòng_làm_việc.json",
+    "chapter_name": "Chương 78: Phòng làm việc",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-78/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_79_Mộc_Nhiên_mang_thai.json",
+    "chapter_name": "Chương 79: Mộc Nhiên mang thai",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-79/"
+  },
+  {
+    "path": "data/Cô_Vợ_Nhỏ_Bé_Của_Tổng_Tài_Ác_Ma/Chương_80_Đại_kết_cục.json",
+    "chapter_name": "Chương 80: Đại kết cục",
+    "url": "https://truyenfull.io/co-vo-nho-be-cua-tong-tai-ac-ma/chuong-80/"
+  }
+]
