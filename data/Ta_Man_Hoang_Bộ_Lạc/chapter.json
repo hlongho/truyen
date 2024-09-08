@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_1_Ta_Khổ_Quá_Mà.json",
+    "chapter_name": "Chương 1: Ta Khổ Quá Mà",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-1/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_2_Hạt_Châu_Thần_Bí.json",
+    "chapter_name": "Chương 2: Hạt Châu Thần Bí",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-2/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_3_Ta_Bật_Hack_Rồi.json",
+    "chapter_name": "Chương 3: Ta Bật Hack Rồi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-3/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_4_Đi_Săn.json",
+    "chapter_name": "Chương 4: Đi Săn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-4/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_5_Khủng_Long.json",
+    "chapter_name": "Chương 5: Khủng Long",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-5/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_6_Hung_Hiểm.json",
+    "chapter_name": "Chương 6: Hung Hiểm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-6/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_7_Cấm_Khu.json",
+    "chapter_name": "Chương 7: Cấm Khu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-7/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_8_Hài_Cốt.json",
+    "chapter_name": "Chương 8: Hài Cốt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-8/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_9_Bất_Tường.json",
+    "chapter_name": "Chương 9: Bất Tường",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-9/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_10_Thiên_Quân_Chi_Lực.json",
+    "chapter_name": "Chương 10: Thiên Quân Chi Lực",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-10/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_11_Mài_Cốt_Binh.json",
+    "chapter_name": "Chương 11: Mài Cốt Binh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-11/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_12_Tế_Thần.json",
+    "chapter_name": "Chương 12: Tế Thần",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-12/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_13_Cái_Gọi_Là_Thần.json",
+    "chapter_name": "Chương 13: Cái Gọi Là Thần",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-13/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_14_Đồ_Thần.json",
+    "chapter_name": "Chương 14: Đồ Thần",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-14/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_15_Có_Bảo_Vật.json",
+    "chapter_name": "Chương 15: Có Bảo Vật",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-15/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_16_Bảo_Cốt.json",
+    "chapter_name": "Chương 16: Bảo Cốt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-16/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_17_Truyền_Thừa_Bí_Bảo.json",
+    "chapter_name": "Chương 17: Truyền Thừa Bí Bảo",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-17/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_18_Rung_Động.json",
+    "chapter_name": "Chương 18: Rung Động",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-18/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_19_Niềm_Tin_Bất_Khuất.json",
+    "chapter_name": "Chương 19: Niềm Tin Bất Khuất",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-19/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_20_Thể_Phách_Cường_Đại.json",
+    "chapter_name": "Chương 20: Thể Phách Cường Đại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-20/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_21_Hoảng_Sợ.json",
+    "chapter_name": "Chương 21: Hoảng Sợ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-21/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_22_Hai_Đại_Hung_Vật.json",
+    "chapter_name": "Chương 22: Hai Đại Hung Vật",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-22/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_23_Phàm_Thể_Nhất_Giai.json",
+    "chapter_name": "Chương 23: Phàm Thể Nhất Giai",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-23/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_24_Hỏa_Long.json",
+    "chapter_name": "Chương 24: Hỏa Long",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-24/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_25_Hắc_Thủy.json",
+    "chapter_name": "Chương 25: Hắc Thủy",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-25/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_26_Trấn_Áp.json",
+    "chapter_name": "Chương 26: Trấn Áp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-26/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_27_Man_Ngưu_Quyền.json",
+    "chapter_name": "Chương 27: Man Ngưu Quyền",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-27/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_28_Lực_Lượng_Kinh_Người.json",
+    "chapter_name": "Chương 28: Lực Lượng Kinh Người",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-28/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_29_Khủng_Lang.json",
+    "chapter_name": "Chương 29: Khủng Lang",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-29/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_30_Ngân_Nguyệt_Lang_Vương.json",
+    "chapter_name": "Chương 30: Ngân Nguyệt Lang Vương",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-30/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_31_Tai_Họa_Ngầm.json",
+    "chapter_name": "Chương 31: Tai Họa Ngầm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-31/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_32_Gia_Viên_Mới.json",
+    "chapter_name": "Chương 32: Gia Viên Mới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-32/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_33_Trọng_Kiến_Bộ_Lạc.json",
+    "chapter_name": "Chương 33: Trọng Kiến Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-33/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_34_Hắc_Lân_Thử.json",
+    "chapter_name": "Chương 34: Hắc Lân Thử",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-34/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_35_Hoang_Cổ.json",
+    "chapter_name": "Chương 35: Hoang Cổ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-35/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_36_Truy_Tung.json",
+    "chapter_name": "Chương 36: Truy Tung",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-36/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_37_Lang_Cốc.json",
+    "chapter_name": "Chương 37: Lang Cốc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-37/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_38_Hổ_Lang_Chi_Tranh.json",
+    "chapter_name": "Chương 38: Hổ Lang Chi Tranh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-38/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_39_Trấn_Sát.json",
+    "chapter_name": "Chương 39: Trấn Sát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-39/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_40_Không_Có_Hiệu_Quả.json",
+    "chapter_name": "Chương 40: Không Có Hiệu Quả",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-40/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_41_Thu_Phục_Bạch_Hổ.json",
+    "chapter_name": "Chương 41: Thu Phục Bạch Hổ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-41/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_42_Đẳng_Cấp.json",
+    "chapter_name": "Chương 42: Đẳng Cấp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-42/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_43_Bảo_Khí_Nguyệt_Nhận.json",
+    "chapter_name": "Chương 43: Bảo Khí Nguyệt Nhận",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-43/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_44_Thanh_Bì_Thú_Nhân.json",
+    "chapter_name": "Chương 44: Thanh Bì Thú Nhân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-44/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_45_Mỏ_Lớn.json",
+    "chapter_name": "Chương 45: Mỏ Lớn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-45/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_46_Chặn_Giết.json",
+    "chapter_name": "Chương 46: Chặn Giết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-46/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_47_Cốt_Khí_Nạp_Giới.json",
+    "chapter_name": "Chương 47: Cốt Khí Nạp Giới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-47/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_48_Tu_Luyện.json",
+    "chapter_name": "Chương 48: Tu Luyện",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-48/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_49_Tinh_Luyện_Hắc_Đồng.json",
+    "chapter_name": "Chương 49: Tinh Luyện Hắc Đồng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-49/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_50_Lại_Vào_Lang_Cốc.json",
+    "chapter_name": "Chương 50: Lại Vào Lang Cốc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-50/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_51_Đại_Chiến_Kinh_Khủng.json",
+    "chapter_name": "Chương 51: Đại Chiến Kinh Khủng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-51/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_52_Một_Gốc_Huyết_Liên.json",
+    "chapter_name": "Chương 52: Một Gốc Huyết Liên",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-52/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_53_Kết_Thúc.json",
+    "chapter_name": "Chương 53: Kết Thúc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-53/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_54_Kim_Tộc.json",
+    "chapter_name": "Chương 54: Kim Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-54/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_55_Không_Cam_Tâm.json",
+    "chapter_name": "Chương 55: Không Cam Tâm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-55/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_56_Đại_Thu_Hoạch.json",
+    "chapter_name": "Chương 56: Đại Thu Hoạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-56/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_57_Rốt_Cục_Hết_Mù.json",
+    "chapter_name": "Chương 57: Rốt Cục Hết Mù",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-57/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_58_Tình_Cảnh_Nhân_Tộc.json",
+    "chapter_name": "Chương 58: Tình Cảnh Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-58/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_59_Tôi_Thể_Cổ_Dược.json",
+    "chapter_name": "Chương 59: Tôi Thể Cổ Dược",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-59/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_60_Luyện_Thể_Trong_Đỉnh.json",
+    "chapter_name": "Chương 60: Luyện Thể Trong Đỉnh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-60/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_61_Phàm_Thể_Thập_Giai.json",
+    "chapter_name": "Chương 61: Phàm Thể Thập Giai",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-61/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_62_Độ_Kiếp.json",
+    "chapter_name": "Chương 62: Độ Kiếp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-62/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_63_Thạch_Nhân_Kiệt.json",
+    "chapter_name": "Chương 63: Thạch Nhân Kiệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-63/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_64_Đại_Chiến.json",
+    "chapter_name": "Chương 64: Đại Chiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-64/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_65_Đấu_Ngang.json",
+    "chapter_name": "Chương 65: Đấu Ngang",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-65/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_66_Không_Dám_Giết_Ngươi.json",
+    "chapter_name": "Chương 66: Không Dám Giết Ngươi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-66/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_67_Não_Tàn.json",
+    "chapter_name": "Chương 67: Não Tàn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-67/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_68_Cút.json",
+    "chapter_name": "Chương 68: Cút",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-68/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_69_Bách_Chiến_Ma_Thể.json",
+    "chapter_name": "Chương 69: Bách Chiến Ma Thể",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-69/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_70_Luyện_Bách_Chiến_Ma_Thể.json",
+    "chapter_name": "Chương 70: Luyện Bách Chiến Ma Thể",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-70/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_71_Nguyên_Thủy_Chân_Phù.json",
+    "chapter_name": "Chương 71: Nguyên Thủy Chân Phù",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-71/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_72_Cường_Đại.json",
+    "chapter_name": "Chương 72: Cường Đại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-72/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_73_Lực_Lượng_Nguyên_Thủy.json",
+    "chapter_name": "Chương 73: Lực Lượng Nguyên Thủy",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-73/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_74_Bách_Man_Sơn.json",
+    "chapter_name": "Chương 74: Bách Man Sơn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-74/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_75_Hung_Nhân.json",
+    "chapter_name": "Chương 75: Hung Nhân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-75/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_76_Xà_Nhân_Tộc.json",
+    "chapter_name": "Chương 76: Xà Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-76/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_77_Tìm_Chết.json",
+    "chapter_name": "Chương 77: Tìm Chết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-77/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_78_Tam_Nhãn_Kim_Nghê.json",
+    "chapter_name": "Chương 78: Tam Nhãn Kim Nghê",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-78/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_79_Thừa_Dịp_Mà_Vào.json",
+    "chapter_name": "Chương 79: Thừa Dịp Mà Vào",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-79/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_80_Ma_Khô_Huyết_Thụ.json",
+    "chapter_name": "Chương 80: Ma Khô Huyết Thụ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-80/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_81_Phân_Công.json",
+    "chapter_name": "Chương 81: Phân Công",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-81/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_82_Vận_Dụng_Chân_Phù.json",
+    "chapter_name": "Chương 82: Vận Dụng Chân Phù",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-82/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_83_Tức_Giận_Tới_Thổ_Huyết.json",
+    "chapter_name": "Chương 83: Tức Giận Tới Thổ Huyết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-83/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_84_Thoát_Thân.json",
+    "chapter_name": "Chương 84: Thoát Thân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-84/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_85_Tiên_Thiên_Thạch_Kiếm.json",
+    "chapter_name": "Chương 85: Tiên Thiên Thạch Kiếm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-85/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_86_Thạch_Điện.json",
+    "chapter_name": "Chương 86: Thạch Điện",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-86/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_87_Nửa_Quyển_Thạch_Thư.json",
+    "chapter_name": "Chương 87: Nửa Quyển Thạch Thư",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-87/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_88_Là_Ngươi.json",
+    "chapter_name": "Chương 88: Là Ngươi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-88/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_89_Đánh_Tan.json",
+    "chapter_name": "Chương 89: Đánh Tan",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-89/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_90_Kinh_Biến.json",
+    "chapter_name": "Chương 90: Kinh Biến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-90/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_91_Cường_Đại.json",
+    "chapter_name": "Chương 91: Cường Đại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-91/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_92_Khủng_Bố.json",
+    "chapter_name": "Chương 92: Khủng Bố",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-92/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_93_Độ_Kiếp.json",
+    "chapter_name": "Chương 93: Độ Kiếp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-93/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_94_Cùng_Chết_Đi.json",
+    "chapter_name": "Chương 94: Cùng Chết Đi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-94/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_95_Cuồng_Chống_Thiên_Kiếp.json",
+    "chapter_name": "Chương 95: Cuồng Chống Thiên Kiếp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-95/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_96_Đã_Chết_Rồi_Sao.json",
+    "chapter_name": "Chương 96: Đã Chết Rồi Sao",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-96/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_97_Thanh_Thạch_Bộ_Lạc.json",
+    "chapter_name": "Chương 97: Thanh Thạch Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-97/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_98_Lôi_Kiếp_Chi_Lực.json",
+    "chapter_name": "Chương 98: Lôi Kiếp Chi Lực",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-98/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_99_Bí_Mật_Của_Thạch_Thư.json",
+    "chapter_name": "Chương 99: Bí Mật Của Thạch Thư",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-99/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_100_Phân_Chia_Bộ_Lạc.json",
+    "chapter_name": "Chương 100: Phân Chia Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-100/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_101_Không_Thể_Tu_Luyện.json",
+    "chapter_name": "Chương 101: Không Thể Tu Luyện",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-101/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_102_Kèn_Lệnh_Giao_Dịch.json",
+    "chapter_name": "Chương 102: Kèn Lệnh Giao Dịch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-102/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_103_Huyền_Điểu_Bộ_Lạc.json",
+    "chapter_name": "Chương 103: Huyền Điểu Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-103/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_104_Vật_Phẩm_Trao_Đổi.json",
+    "chapter_name": "Chương 104: Vật Phẩm Trao Đổi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-104/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_105_Giao_Dịch_Nhân_Khẩu.json",
+    "chapter_name": "Chương 105: Giao Dịch Nhân Khẩu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-105/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_106_M_Mưu_Thượng.json",
+    "chapter_name": "Chương 106: M Mưu Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-106/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_107_M_Mưu_Hạ.json",
+    "chapter_name": "Chương 107: M Mưu Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-107/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_108_Đột_Phá_Luyện_Khí_Cảnh.json",
+    "chapter_name": "Chương 108: Đột Phá Luyện Khí Cảnh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-108/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_109_Có_Chuyện.json",
+    "chapter_name": "Chương 109: Có Chuyện",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-109/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_110_Phản_Loạn.json",
+    "chapter_name": "Chương 110: Phản Loạn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-110/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_111_Hung_Lệ.json",
+    "chapter_name": "Chương 111: Hung Lệ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-111/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_112_Quái_Vật_A.json",
+    "chapter_name": "Chương 112: Quái Vật A",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-112/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_113_Đánh_Nổ_Tất_Cả.json",
+    "chapter_name": "Chương 113: Đánh Nổ Tất Cả",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-113/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_114_Thử_Động_Ta_Xem.json",
+    "chapter_name": "Chương 114: Thử Động Ta Xem",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-114/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_115_Nhổ_Cỏ_Tận_Gốc.json",
+    "chapter_name": "Chương 115: Nhổ Cỏ Tận Gốc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-115/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_116_Quá_Nghèo.json",
+    "chapter_name": "Chương 116: Quá Nghèo",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-116/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_117_Làm_Tế_Thần_Tức_Giận.json",
+    "chapter_name": "Chương 117: Làm Tế Thần Tức Giận",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-117/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_118_Huyết_Thạch_Quỷ_Dị.json",
+    "chapter_name": "Chương 118: Huyết Thạch Quỷ Dị",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-118/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_119_Tưởng_Thế_Nào.json",
+    "chapter_name": "Chương 119: Tưởng Thế Nào",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-119/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_120_Một_Đạo_Tàn_Hồn.json",
+    "chapter_name": "Chương 120: Một Đạo Tàn Hồn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-120/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_121_Đoạt_Xá_Không_Thành_Lại_Bị_Nuốt.json",
+    "chapter_name": "Chương 121: Đoạt Xá Không Thành Lại Bị Nuốt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-121/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_122_Lục_Đạo_Luyện_Hồn_Thuật.json",
+    "chapter_name": "Chương 122: Lục Đạo Luyện Hồn Thuật",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-122/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_123_Linh_Hồn_Tử_Phủ.json",
+    "chapter_name": "Chương 123: Linh Hồn Tử Phủ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-123/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_124_Chuẩn_Bị_Trở_Về.json",
+    "chapter_name": "Chương 124: Chuẩn Bị Trở Về",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-124/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_125_Lửa_Giận.json",
+    "chapter_name": "Chương 125: Lửa Giận",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-125/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_126_Đánh_Tới.json",
+    "chapter_name": "Chương 126: Đánh Tới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-126/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_127_Thanh_Thạch_Nguy_Hiểm.json",
+    "chapter_name": "Chương 127: Thanh Thạch Nguy Hiểm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-127/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_128_Thảm_Biến.json",
+    "chapter_name": "Chương 128: Thảm Biến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-128/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_129_Trở_Về.json",
+    "chapter_name": "Chương 129: Trở Về",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-129/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_130_Bách_Man_Sơn.json",
+    "chapter_name": "Chương 130: Bách Man Sơn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-130/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_131_Tiên_Thiên_Kiếm_Ý.json",
+    "chapter_name": "Chương 131: Tiên Thiên Kiếm Ý",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-131/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_132_Muốn_Mở_Rộng_Bộ_Lạc.json",
+    "chapter_name": "Chương 132: Muốn Mở Rộng Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-132/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_133_Cơ_Hội_Tới.json",
+    "chapter_name": "Chương 133: Cơ Hội Tới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-133/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_134_Phục_Kích.json",
+    "chapter_name": "Chương 134: Phục Kích",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-134/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_135_Chiến_Đầu.json",
+    "chapter_name": "Chương 135: Chiến Đầu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-135/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_136_Toàn_Diệt.json",
+    "chapter_name": "Chương 136: Toàn Diệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-136/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_137_Yêu_Nghiệt.json",
+    "chapter_name": "Chương 137: Yêu Nghiệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-137/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_138_Kế_Hoạch.json",
+    "chapter_name": "Chương 138: Kế Hoạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-138/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_139_Tu_Vi_Tinh_Tiến.json",
+    "chapter_name": "Chương 139: Tu Vi Tinh Tiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-139/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_140_Đại_Kỳ_Đánh_Tới.json",
+    "chapter_name": "Chương 140: Đại Kỳ Đánh Tới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-140/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_141_Là_Đồng_Tộc.json",
+    "chapter_name": "Chương 141: Là Đồng Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-141/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_142_Nhân_Tộc_Thiên_Kiêu.json",
+    "chapter_name": "Chương 142: Nhân Tộc Thiên Kiêu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-142/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_143_Cuồng_Hóa.json",
+    "chapter_name": "Chương 143: Cuồng Hóa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-143/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_144_Hoán_Huyết_Cường_Giả.json",
+    "chapter_name": "Chương 144: Hoán Huyết Cường Giả",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-144/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_145_Sinh_Ra_Đã_Cao_Quý.json",
+    "chapter_name": "Chương 145: Sinh Ra Đã Cao Quý",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-145/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_146_Kinh_Dị.json",
+    "chapter_name": "Chương 146: Kinh Dị",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-146/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_147_Thần_Uy.json",
+    "chapter_name": "Chương 147: Thần Uy",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-147/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_148_Không_Làm_Sâu_Kiến.json",
+    "chapter_name": "Chương 148: Không Làm Sâu Kiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-148/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_149_Rung_Động.json",
+    "chapter_name": "Chương 149: Rung Động",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-149/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_150_Gầm_Thét.json",
+    "chapter_name": "Chương 150: Gầm Thét",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-150/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_151_Khu_Vực_Nông_Trường.json",
+    "chapter_name": "Chương 151: Khu Vực Nông Trường",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-151/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_152_Thời_Đại_Thanh_Đồng.json",
+    "chapter_name": "Chương 152: Thời Đại Thanh Đồng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-152/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_153_Vấn_Đề_Tinh_Luyện_Kim_Loại.json",
+    "chapter_name": "Chương 153: Vấn Đề Tinh Luyện Kim Loại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-153/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_154_Cầu_Kiến.json",
+    "chapter_name": "Chương 154: Cầu Kiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-154/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_155_Tin_Tức_Linh_Viên.json",
+    "chapter_name": "Chương 155: Tin Tức Linh Viên",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-155/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_156_Song_Trọng_Tôi_Thể_Thượng.json",
+    "chapter_name": "Chương 156: Song Trọng Tôi Thể Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-156/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_157_Song_Trọng_Tôi_Thể_Trung.json",
+    "chapter_name": "Chương 157: Song Trọng Tôi Thể Trung",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-157/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_158_Song_Trọng_Tôi_Thể_Hạ.json",
+    "chapter_name": "Chương 158: Song Trọng Tôi Thể Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-158/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_159_Con_Chim_Kỳ_Quái.json",
+    "chapter_name": "Chương 159: Con Chim Kỳ Quái",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-159/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_160_Nhân_Tộc.json",
+    "chapter_name": "Chương 160: Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-160/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_161_Phát_Hiện_Ngoài_Ý_Liệu.json",
+    "chapter_name": "Chương 161: Phát Hiện Ngoài Ý Liệu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-161/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_162_Cường_Lực_Đánh_Giết.json",
+    "chapter_name": "Chương 162: Cường Lực Đánh Giết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-162/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_163_Mời_Về.json",
+    "chapter_name": "Chương 163: Mời Về",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-163/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_164_Sư_Thứu.json",
+    "chapter_name": "Chương 164: Sư Thứu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-164/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_165_Sơn_Cốc.json",
+    "chapter_name": "Chương 165: Sơn Cốc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-165/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_166_Dược_Viên.json",
+    "chapter_name": "Chương 166: Dược Viên",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-166/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_167_Phát_Tài.json",
+    "chapter_name": "Chương 167: Phát Tài",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-167/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_168_Linh_Tuyền_Dược_Vương.json",
+    "chapter_name": "Chương 168: Linh Tuyền Dược Vương",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-168/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_169_Nẫng_Tay_Trên.json",
+    "chapter_name": "Chương 169: Nẫng Tay Trên",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-169/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_170_Bị_Lừa.json",
+    "chapter_name": "Chương 170: Bị Lừa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-170/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_171_Thu_Hoạch.json",
+    "chapter_name": "Chương 171: Thu Hoạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-171/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_172_Tiên_Thiên_Linh_Tủy.json",
+    "chapter_name": "Chương 172: Tiên Thiên Linh Tủy",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-172/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_173_Dốc_Toàn_Lực.json",
+    "chapter_name": "Chương 173: Dốc Toàn Lực",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-173/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_174_Đột_Phá.json",
+    "chapter_name": "Chương 174: Đột Phá",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-174/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_175_Bảo_Thể_Đại_Viên_Mãn.json",
+    "chapter_name": "Chương 175: Bảo Thể Đại Viên Mãn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-175/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_176_Bại_Lộ.json",
+    "chapter_name": "Chương 176: Bại Lộ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-176/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_177_Đại_Chiến.json",
+    "chapter_name": "Chương 177: Đại Chiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-177/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_178_Ai_Chết.json",
+    "chapter_name": "Chương 178: Ai Chết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-178/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_179_Liên_Thủ.json",
+    "chapter_name": "Chương 179: Liên Thủ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-179/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_180_Nghiền_Ép.json",
+    "chapter_name": "Chương 180: Nghiền Ép",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-180/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_181_Đối_Cứng_Chân_Khí.json",
+    "chapter_name": "Chương 181: Đối Cứng Chân Khí",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-181/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_182_Tiếp_Tục_Thiêu_Đốt.json",
+    "chapter_name": "Chương 182: Tiếp Tục Thiêu Đốt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-182/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_183_Giết.json",
+    "chapter_name": "Chương 183: Giết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-183/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_184_Đánh_Nổ.json",
+    "chapter_name": "Chương 184: Đánh Nổ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-184/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_185_Thiên_Tài_Vẫn_Lạc.json",
+    "chapter_name": "Chương 185: Thiên Tài Vẫn Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-185/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_186_Thu_Hoạch.json",
+    "chapter_name": "Chương 186: Thu Hoạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-186/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_187_Thú_Nhân_Tộc.json",
+    "chapter_name": "Chương 187: Thú Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-187/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_188_Tế_Tự.json",
+    "chapter_name": "Chương 188: Tế Tự",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-188/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_189_Huyết_Chú.json",
+    "chapter_name": "Chương 189: Huyết Chú",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-189/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_190_Đại_Bổ.json",
+    "chapter_name": "Chương 190: Đại Bổ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-190/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_191_Biến_Cố.json",
+    "chapter_name": "Chương 191: Biến Cố",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-191/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_192_Cần_Thay_Đổi.json",
+    "chapter_name": "Chương 192: Cần Thay Đổi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-192/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_193_Thành_Công.json",
+    "chapter_name": "Chương 193: Thành Công",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-193/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_194_Thiên_Địa_Không_Cho_Phép.json",
+    "chapter_name": "Chương 194: Thiên Địa Không Cho Phép",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-194/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_195_Cấm_Kỵ.json",
+    "chapter_name": "Chương 195: Cấm Kỵ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-195/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_196_Thử_Luyện.json",
+    "chapter_name": "Chương 196: Thử Luyện",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-196/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_197_Không_Thể_Sao.json",
+    "chapter_name": "Chương 197: Không Thể Sao",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-197/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_198_Thiên_Phạt.json",
+    "chapter_name": "Chương 198: Thiên Phạt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-198/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_199_Thiên_Phạt_Chi_Nhãn.json",
+    "chapter_name": "Chương 199: Thiên Phạt Chi Nhãn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-199/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_200_Nhân_Họa_Đắc_Phúc.json",
+    "chapter_name": "Chương 200: Nhân Họa Đắc Phúc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-200/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_201_Đạo_Khí.json",
+    "chapter_name": "Chương 201: Đạo Khí",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-201/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_202_Thanh_Đồng_Phù_Văn.json",
+    "chapter_name": "Chương 202: Thanh Đồng Phù Văn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-202/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_203_Bia_Đá_Truyền_Thừa.json",
+    "chapter_name": "Chương 203: Bia Đá Truyền Thừa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-203/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_204_Bia_Đá_Truyền_Thừa_Hạ.json",
+    "chapter_name": "Chương 204: Bia Đá Truyền Thừa Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-204/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_205_Cuối_Cùng_Thành_Công.json",
+    "chapter_name": "Chương 205: Cuối Cùng Thành Công",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-205/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_206_Tề_Tụ_Bộ_Lạc.json",
+    "chapter_name": "Chương 206: Tề Tụ Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-206/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_207_Thanh_Đồng_Bất_Hủ.json",
+    "chapter_name": "Chương 207: Thanh Đồng Bất Hủ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-207/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_208_Tính_Đường_Phát_Triển.json",
+    "chapter_name": "Chương 208: Tính Đường Phát Triển",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-208/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_209_Nhân_Khẩu_Có_Chỗ_Dựa_Rồi.json",
+    "chapter_name": "Chương 209: Nhân Khẩu Có Chỗ Dựa Rồi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-209/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_210_Ô_Mộc_Bộ_Lạc.json",
+    "chapter_name": "Chương 210: Ô Mộc Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-210/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_211_Hậu_Cần.json",
+    "chapter_name": "Chương 211: Hậu Cần",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-211/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_212_Thanh_Đồng_Chi_Binh.json",
+    "chapter_name": "Chương 212: Thanh Đồng Chi Binh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-212/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_213_Minh_Văn.json",
+    "chapter_name": "Chương 213: Minh Văn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-213/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_214_Cực_Hạn.json",
+    "chapter_name": "Chương 214: Cực Hạn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-214/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_215_Lên_Đường.json",
+    "chapter_name": "Chương 215: Lên Đường",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-215/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_216_Ô_Mộc.json",
+    "chapter_name": "Chương 216: Ô Mộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-216/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_217_Tình_Huống_Đột_Phát.json",
+    "chapter_name": "Chương 217: Tình Huống Đột Phát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-217/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_218_Thạch_Tộc.json",
+    "chapter_name": "Chương 218: Thạch Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-218/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_219_Tế_Thần_Ô_Mộc.json",
+    "chapter_name": "Chương 219: Tế Thần Ô Mộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-219/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_220_Bi_Ai.json",
+    "chapter_name": "Chương 220: Bi Ai",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-220/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_221_Hiến_Tế_Đi.json",
+    "chapter_name": "Chương 221: Hiến Tế Đi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-221/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_222_Bản_Thể.json",
+    "chapter_name": "Chương 222: Bản Thể",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-222/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_223_Chém_Ô_Mộc.json",
+    "chapter_name": "Chương 223: Chém Ô Mộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-223/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_224_Không_Chết_Không_Thôi.json",
+    "chapter_name": "Chương 224: Không Chết Không Thôi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-224/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_225_Đi_Chết_Đi.json",
+    "chapter_name": "Chương 225: Đi Chết Đi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-225/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_226_Hai_Mặt_Giáp_Công.json",
+    "chapter_name": "Chương 226: Hai Mặt Giáp Công",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-226/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_227_Liên_Hợp.json",
+    "chapter_name": "Chương 227: Liên Hợp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-227/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_228_Ngộ_Thương_Thế.json",
+    "chapter_name": "Chương 228: Ngộ Thương Thế",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-228/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_229_Giết_Thạch_Liệt.json",
+    "chapter_name": "Chương 229: Giết Thạch Liệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-229/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_230_Muốn_Lui.json",
+    "chapter_name": "Chương 230: Muốn Lui",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-230/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_231_Đại_Thắng_Thượng.json",
+    "chapter_name": "Chương 231: Đại Thắng Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-231/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_232_Hậu_Chiến.json",
+    "chapter_name": "Chương 232: Hậu Chiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-232/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_233_Hoàn_Thành.json",
+    "chapter_name": "Chương 233: Hoàn Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-233/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_234_Tình_Thế.json",
+    "chapter_name": "Chương 234: Tình Thế",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-234/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_235_Kiểm_Kê.json",
+    "chapter_name": "Chương 235: Kiểm Kê",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-235/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_236_Đếm_Chậm_Một_Bước.json",
+    "chapter_name": "Chương 236: Đếm Chậm Một Bước",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-236/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_237_Đến_Chậm_Một_Bước_Hạ.json",
+    "chapter_name": "Chương 237: Đến Chậm Một Bước Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-237/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_238_Thạch_Tộc_Cường_Dại.json",
+    "chapter_name": "Chương 238: Thạch Tộc Cường Dại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-238/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_239_Dấu_Hiệu_Đại_Loạn.json",
+    "chapter_name": "Chương 239: Dấu Hiệu Đại Loạn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-239/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_240_Quy_Hoạch_Phát_Triển.json",
+    "chapter_name": "Chương 240: Quy Hoạch Phát Triển",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-240/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_241_Sắp_Xếp.json",
+    "chapter_name": "Chương 241: Sắp Xếp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-241/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_242_Bí_Pháp_Mới.json",
+    "chapter_name": "Chương 242: Bí Pháp Mới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-242/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_243_Thanh_Đồng_Bí_Giáp.json",
+    "chapter_name": "Chương 243: Thanh Đồng Bí Giáp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-243/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_244_Tu_Luyện_Đúc_Đỉnh.json",
+    "chapter_name": "Chương 244: Tu Luyện Đúc Đỉnh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-244/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_245_Một_Ngàn_Đạo_Chiến_Khí.json",
+    "chapter_name": "Chương 245: Một Ngàn Đạo Chiến Khí",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-245/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_246_Đột_Phá.json",
+    "chapter_name": "Chương 246: Đột Phá",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-246/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_247_Lại_Đấu_Thiên_Kiếp.json",
+    "chapter_name": "Chương 247: Lại Đấu Thiên Kiếp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-247/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_248_Thiên_Lôi_Đạo_Văn.json",
+    "chapter_name": "Chương 248: Thiên Lôi Đạo Văn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-248/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_249_Ma_Cốt_Tiểu_Thành.json",
+    "chapter_name": "Chương 249: Ma Cốt Tiểu Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-249/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_250_Nguy_Cơ.json",
+    "chapter_name": "Chương 250: Nguy Cơ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-250/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_251_Kỹ_Năng_Bắn_Cung.json",
+    "chapter_name": "Chương 251: Kỹ Năng Bắn Cung",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-251/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_252_Trinh_Sát.json",
+    "chapter_name": "Chương 252: Trinh Sát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-252/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_253_Tam_Giác_Long.json",
+    "chapter_name": "Chương 253: Tam Giác Long",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-253/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_254_Chuẩn_Bị_Trước_Chiến.json",
+    "chapter_name": "Chương 254: Chuẩn Bị Trước Chiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-254/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_255_Thú_Tộc_Đánh_Tới.json",
+    "chapter_name": "Chương 255: Thú Tộc Đánh Tới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-255/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_256_Mãnh_Tượng.json",
+    "chapter_name": "Chương 256: Mãnh Tượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-256/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_257_Không_Chừa_Người_Sống.json",
+    "chapter_name": "Chương 257: Không Chừa Người Sống",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-257/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_258_Nớpdiu.json",
+    "chapter_name": "Chương 258: Nớpdiu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-258/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_259_Tử_Chiến_Không_Lùi.json",
+    "chapter_name": "Chương 259: Tử Chiến Không Lùi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-259/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_260_Long_Kỵ_Xung_Phong.json",
+    "chapter_name": "Chương 260: Long Kỵ Xung Phong",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-260/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_261_Bắt_Về_Nghiên_Cứu.json",
+    "chapter_name": "Chương 261: Bắt Về Nghiên Cứu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-261/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_262_Thảm_Liệt.json",
+    "chapter_name": "Chương 262: Thảm Liệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-262/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_263_Nhị_Vương_Tử.json",
+    "chapter_name": "Chương 263: Nhị Vương Tử",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-263/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_264_Phi_Long.json",
+    "chapter_name": "Chương 264: Phi Long",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-264/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_265_Chứng_Minh_Ngươi_Vô_Năng.json",
+    "chapter_name": "Chương 265: Chứng Minh Ngươi Vô Năng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-265/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_266_Tình_Thế_Nguy_Hiểm.json",
+    "chapter_name": "Chương 266: Tình Thế Nguy Hiểm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-266/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_267_Sắp_Thua_Sao.json",
+    "chapter_name": "Chương 267: Sắp Thua Sao",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-267/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_268_Phá_Hủy_Tín_Niệm.json",
+    "chapter_name": "Chương 268: Phá Hủy Tín Niệm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-268/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_269_Bí_Giáp_Ra_Sân.json",
+    "chapter_name": "Chương 269: Bí Giáp Ra Sân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-269/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_270_Thô_Bạo.json",
+    "chapter_name": "Chương 270: Thô Bạo",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-270/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_271_Xé_Thành_Hai_Khúc.json",
+    "chapter_name": "Chương 271: Xé Thành Hai Khúc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-271/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_272_Uy_Lực_Kiếm_Ý.json",
+    "chapter_name": "Chương 272: Uy Lực Kiếm Ý",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-272/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_273_Đáng_Chết.json",
+    "chapter_name": "Chương 273: Đáng Chết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-273/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_274_Thiêu_Đôt_Chân_Huyết.json",
+    "chapter_name": "Chương 274: Thiêu Đôt Chân Huyết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-274/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_275_Bất_Khuất.json",
+    "chapter_name": "Chương 275: Bất Khuất",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-275/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_276_Rất_Ngoài_Ý_Muốn.json",
+    "chapter_name": "Chương 276: Rất Ngoài Ý Muốn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-276/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_277_Cứng_Rắn_Đánh_Bại.json",
+    "chapter_name": "Chương 277: Cứng Rắn Đánh Bại",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-277/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_278_Đầu_Hàng_Không_Giết.json",
+    "chapter_name": "Chương 278: Đầu Hàng Không Giết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-278/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_279_Vinh_Diệu_Của_Thần_Thú.json",
+    "chapter_name": "Chương 279: Vinh Diệu Của Thần Thú",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-279/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_280_Thắng_Thảm.json",
+    "chapter_name": "Chương 280: Thắng Thảm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-280/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_281_Thắng_Lợi.json",
+    "chapter_name": "Chương 281: Thắng Lợi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-281/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_282_Huyết_Mễ.json",
+    "chapter_name": "Chương 282: Huyết Mễ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-282/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_283_Thu_Hoạch.json",
+    "chapter_name": "Chương 283: Thu Hoạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-283/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_284_Thanh_Đồng_Thành.json",
+    "chapter_name": "Chương 284: Thanh Đồng Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-284/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_285_Chỉ_Tế_Tổ_Không_Kính_Thần.json",
+    "chapter_name": "Chương 285: Chỉ Tế Tổ Không Kính Thần",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-285/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_286_Lương_Thực_Lương_Thực.json",
+    "chapter_name": "Chương 286: Lương Thực! Lương Thực!",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-286/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_287_Kế_Hoạch_Thượng.json",
+    "chapter_name": "Chương 287: Kế Hoạch Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-287/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_288_Kế_Hoạch_Hạ.json",
+    "chapter_name": "Chương 288: Kế Hoạch Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-288/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_289_Thanh_Đồng_Điện_Thượng.json",
+    "chapter_name": "Chương 289: Thanh Đồng Điện Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-289/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_290_Thanh_Đồng_Điện_Hạ.json",
+    "chapter_name": "Chương 290: Thanh Đồng Điện Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-290/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_291_Đại_Điện_Hạ.json",
+    "chapter_name": "Chương 291: Đại Điện Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-291/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_292_Động_Tĩnh_Của_Thú_Nhân.json",
+    "chapter_name": "Chương 292: Động Tĩnh Của Thú Nhân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-292/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_293_Vừa_Lúc.json",
+    "chapter_name": "Chương 293: Vừa Lúc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-293/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_294_Ma_Cốt_Đại_Thành.json",
+    "chapter_name": "Chương 294: Ma Cốt Đại Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-294/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_295_Độc_Nhãn_Cự_Nhân.json",
+    "chapter_name": "Chương 295: Độc Nhãn Cự Nhân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-295/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_296_Giết_Hay_Tha.json",
+    "chapter_name": "Chương 296: Giết Hay Tha",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-296/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_297_Bị_Đánh_Khóc.json",
+    "chapter_name": "Chương 297: Bị Đánh Khóc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-297/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_298_Thay_Đổi_Ý_Tưởng.json",
+    "chapter_name": "Chương 298: Thay Đổi Ý Tưởng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-298/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_299_Bản_Mệnh_Chi_Khí.json",
+    "chapter_name": "Chương 299: Bản Mệnh Chi Khí",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-299/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_300_Khắc_Văn_Trên_Người.json",
+    "chapter_name": "Chương 300: Khắc Văn Trên Người",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-300/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_301_Lột_Xác_Đáng_Kinh_Ngạc.json",
+    "chapter_name": "Chương 301: Lột Xác Đáng Kinh Ngạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-301/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_302_Nguyên_Thủy_Chân_Phù.json",
+    "chapter_name": "Chương 302: Nguyên Thủy Chân Phù",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-302/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_303_Tin_Tốt.json",
+    "chapter_name": "Chương 303: Tin Tốt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-303/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_304_Đàn_Tam_Giác_Long.json",
+    "chapter_name": "Chương 304: Đàn Tam Giác Long",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-304/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_305_Thu_Phục.json",
+    "chapter_name": "Chương 305: Thu Phục",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-305/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_306_Thanh_Đồng_Đúc_Thành_Thượng.json",
+    "chapter_name": "Chương 306: Thanh Đồng Đúc Thành Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-306/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_307_Thanh_Đồng_Đúc_Thành_Hạ.json",
+    "chapter_name": "Chương 307: Thanh Đồng Đúc Thành Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-307/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_308_Uy_Hiếp_Mạnh_Mẽ.json",
+    "chapter_name": "Chương 308: Uy Hiếp Mạnh Mẽ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-308/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_309_Nhân_Tộc_Bị_Nuôi_Thả.json",
+    "chapter_name": "Chương 309: Nhân Tộc Bị Nuôi Thả",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-309/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_310_Triệu_Tập.json",
+    "chapter_name": "Chương 310: Triệu Tập",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-310/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_311_Thu_Phục.json",
+    "chapter_name": "Chương 311: Thu Phục",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-311/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_312_Trinh_Sát_Thạch_Tộc.json",
+    "chapter_name": "Chương 312: Trinh Sát Thạch Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-312/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_313_Nghiền_Nát.json",
+    "chapter_name": "Chương 313: Nghiền Nát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-313/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_314_Ngưng_Khí_Thành_Tiễn.json",
+    "chapter_name": "Chương 314: Ngưng Khí Thành Tiễn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-314/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_315_Tiến_Công.json",
+    "chapter_name": "Chương 315: Tiến Công",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-315/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_316_Tạo_Phản.json",
+    "chapter_name": "Chương 316: Tạo Phản",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-316/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_317_Thanh_Đồng_Đại_Ấn.json",
+    "chapter_name": "Chương 317: Thanh Đồng Đại Ấn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-317/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_318_Hung_Uy_Thượng.json",
+    "chapter_name": "Chương 318: Hung Uy Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-318/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_319_Hung_Uy_Hạ.json",
+    "chapter_name": "Chương 319: Hung Uy Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-319/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_320_Tàn_Sát.json",
+    "chapter_name": "Chương 320: Tàn Sát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-320/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_321_Tàn_Sát_Hạ.json",
+    "chapter_name": "Chương 321: Tàn Sát Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-321/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_322_Linh_Điền.json",
+    "chapter_name": "Chương 322: Linh Điền",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-322/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_323_Dược_Nhân.json",
+    "chapter_name": "Chương 323: Dược Nhân",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-323/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_324_Trở_Về_Bộ_Lạc.json",
+    "chapter_name": "Chương 324: Trở Về Bộ Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-324/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_325_Sóng_Ngầm_Mãnh_Liệt.json",
+    "chapter_name": "Chương 325: Sóng Ngầm Mãnh Liệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-325/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_326_Ta_Có_Một_Giấc_Mộng.json",
+    "chapter_name": "Chương 326: Ta Có Một Giấc Mộng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-326/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_327_Huyết_Tế_Anh_Linh.json",
+    "chapter_name": "Chương 327: Huyết Tế Anh Linh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-327/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_328_Lựa_Chọn_Xót_Xa.json",
+    "chapter_name": "Chương 328: Lựa Chọn Xót Xa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-328/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_329_Mở_Núi_Đúc_Thành.json",
+    "chapter_name": "Chương 329: Mở Núi Đúc Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-329/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_330_Khắc_Văn_Tường_Thành.json",
+    "chapter_name": "Chương 330: Khắc Văn Tường Thành",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-330/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_331_Tiên_Thiên_Chân_Thể_Đại_Viên_Mãn.json",
+    "chapter_name": "Chương 331: Tiên Thiên Chân Thể Đại Viên Mãn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-331/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_332_Trồng_Lúa.json",
+    "chapter_name": "Chương 332: Trồng Lúa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-332/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_333_Thanh_Đồng_Chi_Thư.json",
+    "chapter_name": "Chương 333: Thanh Đồng Chi Thư",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-333/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_334_Chữ_nhân.json",
+    "chapter_name": "Chương 334: Chữ “nhân”",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-334/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_335_Thiên_Lôi_Phủ_Xuống.json",
+    "chapter_name": "Chương 335: Thiên Lôi Phủ Xuống",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-335/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_336_Ý_Chí_Nhân_Tộc.json",
+    "chapter_name": "Chương 336: Ý Chí Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-336/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_337_Khắc_Chữ.json",
+    "chapter_name": "Chương 337: Khắc Chữ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-337/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_338_Thiên_Biến.json",
+    "chapter_name": "Chương 338: Thiên Biến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-338/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_339_Kết_Thúc.json",
+    "chapter_name": "Chương 339: Kết Thúc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-339/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_340_Chí_Bảo_Truyền_Thừa.json",
+    "chapter_name": "Chương 340: Chí Bảo Truyền Thừa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-340/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_341_Mạo_Hiểm_Ẩn_Núp.json",
+    "chapter_name": "Chương 341: Mạo Hiểm Ẩn Núp",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-341/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_342_Truyền_Thừa_Chữ_Viết.json",
+    "chapter_name": "Chương 342: Truyền Thừa Chữ Viết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-342/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_343_Niềm_Vui_Bội_Thu.json",
+    "chapter_name": "Chương 343: Niềm Vui Bội Thu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-343/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_344_Niềm_Vui_Bội_Thu.json",
+    "chapter_name": "Chương 344: Niềm Vui Bội Thu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-344/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_345_Du_Mục_Bộ_Tộc.json",
+    "chapter_name": "Chương 345: Du Mục Bộ Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-345/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_346_Kinh_Hoàng.json",
+    "chapter_name": "Chương 346: Kinh Hoàng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-346/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_347_Kinh_Hoàng_Hạ.json",
+    "chapter_name": "Chương 347: Kinh Hoàng Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-347/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_348_Còn_Gì_Tốt_Hơn_Không.json",
+    "chapter_name": "Chương 348: Còn Gì Tốt Hơn Không",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-348/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_349_Giao_Dịch.json",
+    "chapter_name": "Chương 349: Giao Dịch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-349/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_350_Trao_Đổi.json",
+    "chapter_name": "Chương 350: Trao Đổi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-350/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_351_Tình_Huống_Đột_Phát.json",
+    "chapter_name": "Chương 351: Tình Huống Đột Phát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-351/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_352_Khí_Vận.json",
+    "chapter_name": "Chương 352: Khí Vận",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-352/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_353_Về_Nhà.json",
+    "chapter_name": "Chương 353: Về Nhà",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-353/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_354_Cự_Nhân_Tộc.json",
+    "chapter_name": "Chương 354: Cự Nhân Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-354/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_355_Cự_Nhân_Tộc_Hạ.json",
+    "chapter_name": "Chương 355: Cự Nhân Tộc Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-355/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_356_Đại_Chiến_Cự_Ma.json",
+    "chapter_name": "Chương 356: Đại Chiến Cự Ma",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-356/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_357_Cự_Ma_Đáng_Thương.json",
+    "chapter_name": "Chương 357: Cự Ma Đáng Thương",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-357/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_358_Thu_Phục_Thượng.json",
+    "chapter_name": "Chương 358: Thu Phục Thượng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-358/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_359_Thu_Phục_Hạ.json",
+    "chapter_name": "Chương 359: Thu Phục Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-359/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_360_Cửu_Khiếu_Thạch_Tâm.json",
+    "chapter_name": "Chương 360: Cửu Khiếu Thạch Tâm",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-360/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_361_Trở_Về.json",
+    "chapter_name": "Chương 361: Trở Về",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-361/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_362_Lại_Vào_Bí_Cảnh.json",
+    "chapter_name": "Chương 362: Lại Vào Bí Cảnh",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-362/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_363_Thạch_Trận.json",
+    "chapter_name": "Chương 363: Thạch Trận",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-363/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_364_Xương_Khô.json",
+    "chapter_name": "Chương 364: Xương Khô",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-364/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_365_Suýt_Bị_Đoạt_Xá.json",
+    "chapter_name": "Chương 365: Suýt Bị Đoạt Xá",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-365/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_366_Bí_Cảnh_Sụp_Đổ.json",
+    "chapter_name": "Chương 366: Bí Cảnh Sụp Đổ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-366/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_367_Một_Chưởng_Vỗ_Chết.json",
+    "chapter_name": "Chương 367: Một Chưởng Vỗ Chết",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-367/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_368_Đại_Thanh_Tẩy.json",
+    "chapter_name": "Chương 368: Đại Thanh Tẩy",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-368/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_369_Rời_Bách_Man_Sơn.json",
+    "chapter_name": "Chương 369: Rời Bách Man Sơn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-369/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_370_Miểu_Sát.json",
+    "chapter_name": "Chương 370: Miểu Sát",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-370/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_371_Lại_Thu_Một_Tộc.json",
+    "chapter_name": "Chương 371: Lại Thu Một Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-371/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_372_Đào_Rỗng_Mỏ_Quặng.json",
+    "chapter_name": "Chương 372: Đào Rỗng Mỏ Quặng",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-372/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_373_Chuẩn_Bị_Chiến_Đấu.json",
+    "chapter_name": "Chương 373: Chuẩn Bị Chiến Đấu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-373/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_374_Dị_Tộc_Giết_Tới.json",
+    "chapter_name": "Chương 374: Dị Tộc Giết Tới",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-374/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_375_Tiểu_Thạch_Vương.json",
+    "chapter_name": "Chương 375: Tiểu Thạch Vương",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-375/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_376_Huyết_Mạch_Cảnh_Thiên_Kiêu.json",
+    "chapter_name": "Chương 376: Huyết Mạch Cảnh Thiên Kiêu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-376/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_377_Kịch_Chiến.json",
+    "chapter_name": "Chương 377: Kịch Chiến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-377/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_378_Kinh_Biến.json",
+    "chapter_name": "Chương 378: Kinh Biến",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-378/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_379_Rút_Lui.json",
+    "chapter_name": "Chương 379: Rút Lui",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-379/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_380_Lấy_Một_Địch_Hai.json",
+    "chapter_name": "Chương 380: Lấy Một Địch Hai",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-380/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_381_Giết_Các_Ngươi_Trước.json",
+    "chapter_name": "Chương 381: Giết Các Ngươi Trước",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-381/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_382_Đại_Chiến_Thảm_Liệt.json",
+    "chapter_name": "Chương 382: Đại Chiến Thảm Liệt",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-382/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_383_Đại_Chiến_Thảm_Liệt_Hạ.json",
+    "chapter_name": "Chương 383: Đại Chiến Thảm Liệt Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-383/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_384_Liên_Quân_Tam_Tộc.json",
+    "chapter_name": "Chương 384: Liên Quân Tam Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-384/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_385_Tam_Đại_Thiên_Kiêu.json",
+    "chapter_name": "Chương 385: Tam Đại Thiên Kiêu",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-385/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_386_Sương_Mù_Chết_Chóc.json",
+    "chapter_name": "Chương 386: Sương Mù Chết Chóc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-386/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_387_Sương_Mù_Chết_Chóc_Hạ.json",
+    "chapter_name": "Chương 387: Sương Mù Chết Chóc Hạ",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-387/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_388_Bóng_Đen_Kỳ_Dị.json",
+    "chapter_name": "Chương 388: Bóng Đen Kỳ Dị",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-388/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_389_Công_Kích_Linh_Hồn.json",
+    "chapter_name": "Chương 389: Công Kích Linh Hồn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-389/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_390_Thiên_Kiêu_Vẫn_Lạc.json",
+    "chapter_name": "Chương 390: Thiên Kiêu Vẫn Lạc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-390/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_391_Cắn_Nuốt_Chiến_Hồn.json",
+    "chapter_name": "Chương 391: Cắn Nuốt Chiến Hồn",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-391/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_392_Khí_Tức_Bất_Tường.json",
+    "chapter_name": "Chương 392: Khí Tức Bất Tường",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-392/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_393_Khí_Vận_Biến_Hóa.json",
+    "chapter_name": "Chương 393: Khí Vận Biến Hóa",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-393/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_394_Mông_Lôi_Cũng_Đi.json",
+    "chapter_name": "Chương 394: Mông Lôi Cũng Đi",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-394/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_395_Không_Có_Huyết_Mạch.json",
+    "chapter_name": "Chương 395: Không Có Huyết Mạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-395/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_396_Nên_Làm_Gì_Đây.json",
+    "chapter_name": "Chương 396: Nên Làm Gì Đây",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-396/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_397_Bí_Ẩn_Huyết_Mạch.json",
+    "chapter_name": "Chương 397: Bí Ẩn Huyết Mạch",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-397/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_398_Bạch_Hổ_Lột_Xác.json",
+    "chapter_name": "Chương 398: Bạch Hổ Lột Xác",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-398/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_399_Phân_Phối.json",
+    "chapter_name": "Chương 399: Phân Phối",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-399/"
+  },
+  {
+    "path": "data/Ta_Man_Hoang_Bộ_Lạc/Chương_400_Lửa_Giận_Từ_Tam_Tộc.json",
+    "chapter_name": "Chương 400: Lửa Giận Từ Tam Tộc",
+    "url": "https://truyenfull.io/ta-man-hoang-bo-lac/chuong-400/"
+  }
+]
