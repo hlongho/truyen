@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_1_Phụ_Tử.json",
+    "chapter_name": "Chương 1: Phụ Tử",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-1/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_2_Tứ_Đại_Học_Phủ.json",
+    "chapter_name": "Chương 2: Tứ Đại Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-2/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_3_Sách_Họa_Vạn_Tộc.json",
+    "chapter_name": "Chương 3: Sách Họa Vạn Tộc",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-3/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_4_Phương_Pháp_Gia_Tốc_Khai_Nguyên_Cảnh.json",
+    "chapter_name": "Chương 4: Phương Pháp Gia Tốc Khai Nguyên Cảnh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-4/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_5_Mộng_Cảnh.json",
+    "chapter_name": "Chương 5: Mộng Cảnh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-5/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_6_Thiết_Dực_Điểu_Tái_Hiện.json",
+    "chapter_name": "Chương 6: Thiết Dực Điểu Tái Hiện",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-6/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_7_Quyển_Sách_Kỳ_Bí.json",
+    "chapter_name": "Chương 7: Quyển Sách Kỳ Bí",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-7/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_8_Thiên_Tài_Của_Đại_Hạ_Phủ_1.json",
+    "chapter_name": "Chương 8: Thiên Tài Của Đại Hạ Phủ (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-8/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_9_Thiên_Tài_Của_Đại_Hạ_Phủ_2.json",
+    "chapter_name": "Chương 9: Thiên Tài Của Đại Hạ Phủ (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-9/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_10_Thủ_Đoạn_Của_Văn_Minh_Học_Phủ_1.json",
+    "chapter_name": "Chương 10: Thủ Đoạn Của Văn Minh Học Phủ (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-10/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_11_Thủ_Đoạn_Của_Văn_Minh_Học_Phủ_2.json",
+    "chapter_name": "Chương 11: Thủ Đoạn Của Văn Minh Học Phủ (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-11/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_12_Khai_Nguyên_Tứ_Trọng_1.json",
+    "chapter_name": "Chương 12: Khai Nguyên Tứ Trọng (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-12/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_13_Khai_Nguyên_Tứ_Trọng_2.json",
+    "chapter_name": "Chương 13: Khai Nguyên Tứ Trọng (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-13/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_14_Trước_Thềm_Gió_Êm_Sóng_Lặng.json",
+    "chapter_name": "Chương 14: Trước Thềm Gió Êm Sóng Lặng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-14/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_15_Dẫn_Xà_Xuất_Động_1.json",
+    "chapter_name": "Chương 15: Dẫn Xà Xuất Động? (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-15/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_16_Dẫn_Xà_Xuất_Động_2.json",
+    "chapter_name": "Chương 16: Dẫn Xà Xuất Động? (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-16/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_17_Dẫn_Xà_Xuất_Động_3.json",
+    "chapter_name": "Chương 17: Dẫn Xà Xuất Động (3)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-17/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_18_Tại_Sao_Nhân_Tộc_Lại_Có_Nhiều_Địch_Nhân_Như_Vậy.json",
+    "chapter_name": "Chương 18: Tại Sao Nhân Tộc Lại Có Nhiều Địch Nhân Như Vậy?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-18/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_19_Uy_Danh_Của_Vạn_Tộc_Giáo.json",
+    "chapter_name": "Chương 19: Uy Danh Của Vạn Tộc Giáo",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-19/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_20_Đêm_Mai_Hành_Động.json",
+    "chapter_name": "Chương 20: Đêm Mai: Hành Động!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-20/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_21_Ngươi_Sẽ_Lựa_Chọn_Thế_Nào.json",
+    "chapter_name": "Chương 21: Ngươi Sẽ Lựa Chọn Thế Nào?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-21/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_22_Chuẩn_Bị_Sẵn_Sàng.json",
+    "chapter_name": "Chương 22: Chuẩn Bị Sẵn Sàng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-22/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_23_Là_Kế_Điệu_Hổ_Ly_Sơn.json",
+    "chapter_name": "Chương 23: Là Kế Điệu Hổ Ly Sơn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-23/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_24_Trần_Hạo_Cảm_Động_Rồi.json",
+    "chapter_name": "Chương 24: Trần Hạo Cảm Động Rồi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-24/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_25_Người_Đến_Là_Ai.json",
+    "chapter_name": "Chương 25: Người Đến Là Ai?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-25/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_26_Bị_Lừa_Rồi.json",
+    "chapter_name": "Chương 26: Bị Lừa Rồi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-26/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_27_Chủ_Động_Đặt_Bẫy.json",
+    "chapter_name": "Chương 27: Chủ Động Đặt Bẫy",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-27/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_28_Vô_Ngân_Xong_Rồi.json",
+    "chapter_name": "Chương 28: Vô Ngân Xong Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-28/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_29_Bạch_Phong.json",
+    "chapter_name": "Chương 29: Bạch Phong",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-29/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_30_Cầu_Xin_Tha_Mạng.json",
+    "chapter_name": "Chương 30: Cầu Xin Tha Mạng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-30/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_31_Chia_Chác_Thu_Hoạch.json",
+    "chapter_name": "Chương 31: Chia Chác Thu Hoạch",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-31/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_32_Ngươi_Đúng_Là_Lão_Cáo_Già.json",
+    "chapter_name": "Chương 32: Ngươi Đúng Là Lão Cáo Già",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-32/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_33_Tính_Toán_Của_Tô_Vũ.json",
+    "chapter_name": "Chương 33: Tính Toán Của Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-33/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_34_Trần_Hạo_Bị_Thẩm_Vấn.json",
+    "chapter_name": "Chương 34: Trần Hạo Bị Thẩm Vấn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-34/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_35_Công_Pháp_Và_Võ_Kỹ.json",
+    "chapter_name": "Chương 35: Công Pháp Và Võ Kỹ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-35/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_36_Quái_Vật_Trong_Giấc_Mơ.json",
+    "chapter_name": "Chương 36: Quái Vật Trong Giấc Mơ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-36/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_37_Sư_Đồ_Ăn_Ý.json",
+    "chapter_name": "Chương 37: Sư Đồ Ăn Ý",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-37/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_38_Lực_Lượng_Ý_Chí_Và_Lực_Lượng_Thân_Thể.json",
+    "chapter_name": "Chương 38: Lực Lượng Ý Chí Và Lực Lượng Thân Thể",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-38/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_39_Nhìn_Bằng_Con_Mắt_Khác.json",
+    "chapter_name": "Chương 39: Nhìn Bằng Con Mắt Khác",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-39/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_40_Khắc_Họa_Thần_Văn.json",
+    "chapter_name": "Chương 40: Khắc Họa Thần Văn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-40/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_41_Cố_Gắng_Nắm_Bắt_Cơ_Hội_Này.json",
+    "chapter_name": "Chương 41: Cố Gắng Nắm Bắt Cơ Hội Này",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-41/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_42_Có_Phục_Hay_Không.json",
+    "chapter_name": "Chương 42: Có Phục Hay Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-42/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_43_Ta_Không_Tin.json",
+    "chapter_name": "Chương 43: Ta Không Tin!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-43/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_44_Lừa_Gạt_Sư_Bá.json",
+    "chapter_name": "Chương 44: Lừa Gạt Sư Bá",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-44/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_45_Tư_Tâm_Của_Bạch_Phong.json",
+    "chapter_name": "Chương 45: Tư Tâm Của Bạch Phong",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-45/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_46_Giấc_Mộng_Đặc_Biệt.json",
+    "chapter_name": "Chương 46: Giấc Mộng Đặc Biệt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-46/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_47_Tấm_Lòng_Của_Các_Bậc_Trưởng_Bối.json",
+    "chapter_name": "Chương 47: Tấm Lòng Của Các Bậc Trưởng Bối",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-47/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_48_Cha_Ta_Là_Nhi_Tử_Thất_Lạc_Của_Ngài.json",
+    "chapter_name": "Chương 48: Cha Ta Là Nhi Tử Thất Lạc Của Ngài?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-48/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_49_Không_Thể_Trộm_Đồ_Ở_Đây.json",
+    "chapter_name": "Chương 49: Không Thể Trộm Đồ Ở Đây",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-49/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_50_Khai_Nguyên_Thất_Trọng.json",
+    "chapter_name": "Chương 50: Khai Nguyên Thất Trọng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-50/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_51_Bí_Mật_Của_Liễu_Văn_Ngạn.json",
+    "chapter_name": "Chương 51: Bí Mật Của Liễu Văn Ngạn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-51/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_52_Quá_Mất_Mặt_Lão_Tử_Rồi.json",
+    "chapter_name": "Chương 52: Quá Mất Mặt Lão Tử Rồi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-52/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_53_Rốt_Cuộc_Là_Mạnh_Hay_Là_Yếu.json",
+    "chapter_name": "Chương 53: Rốt Cuộc Là Mạnh Hay Là Yếu?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-53/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_54_Nên_Làm_Sư_Đệ_Hay_Làm_Đệ_Tử.json",
+    "chapter_name": "Chương 54: Nên Làm Sư Đệ Hay Làm Đệ Tử?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-54/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_55_Thực_Chiến_Với_Thiên_Quân_Lục_Trọng.json",
+    "chapter_name": "Chương 55: Thực Chiến Với Thiên Quân Lục Trọng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-55/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_56_Từ_Khi_Nào_Mà_Ngươi_Lại_Thay_Đổi_Như_Vậy.json",
+    "chapter_name": "Chương 56: Từ Khi Nào Mà Ngươi Lại Thay Đổi Như Vậy?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-56/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_57_Ta_Dạy_Hư_Ngươi_Rồi.json",
+    "chapter_name": "Chương 57: Ta Dạy Hư Ngươi Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-57/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_58_Ngươi_Chính_Là_Gỗ_Mục.json",
+    "chapter_name": "Chương 58: Ngươi Chính Là Gỗ Mục",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-58/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_59_Không_Rét_Mà_Run.json",
+    "chapter_name": "Chương 59: Không Rét Mà Run",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-59/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_60_Món_Quà_Quý_Giá.json",
+    "chapter_name": "Chương 60: Món Quà Quý Giá",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-60/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_61_Nhận_Hắn_Về_Chỗ_Của_Ta_Đi.json",
+    "chapter_name": "Chương 61: Nhận Hắn Về Chỗ Của Ta Đi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-61/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_62_Chờ_Xem_Trò_Vui.json",
+    "chapter_name": "Chương 62: Chờ Xem Trò Vui",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-62/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_63_Không_Đặt_Vào_Mắt.json",
+    "chapter_name": "Chương 63: Không Đặt Vào Mắt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-63/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_64_Chuẩn_Bị_Sẵn_Sàng_Cho_Tô_Vũ.json",
+    "chapter_name": "Chương 64: Chuẩn Bị Sẵn Sàng Cho Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-64/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_65_Năm_Vạn_Điểm_Công_Huân.json",
+    "chapter_name": "Chương 65: Năm Vạn Điểm Công Huân",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-65/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_66_Khai_Nguyên_Bát_Trọng.json",
+    "chapter_name": "Chương 66: Khai Nguyên Bát Trọng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-66/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_67_Cung_Phản_Xạ_Quá_Dài.json",
+    "chapter_name": "Chương 67: Cung Phản Xạ Quá Dài",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-67/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_68_Tính_Toán_Của_Tô_Long.json",
+    "chapter_name": "Chương 68: Tính Toán Của Tô Long",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-68/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_69_Lời_Khuyên_Của_Hạ_Binh.json",
+    "chapter_name": "Chương 69: Lời Khuyên Của Hạ Binh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-69/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_70_Mâu_Thuẫn_Giữa_Hạ_Long_Võ_Và_Văn_Minh_Học_Phủ.json",
+    "chapter_name": "Chương 70: Mâu Thuẫn Giữa Hạ Long Võ Và Văn Minh Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-70/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_71_Cuộc_Tranh_Cãi_Nảy_Lửa_Giữa_Văn_Minh_Học_Phủ_Và_Long_Võ_Vệ_1.json",
+    "chapter_name": "Chương 71: Cuộc Tranh Cãi Nảy Lửa Giữa Văn Minh Học Phủ Và Long Võ Vệ (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-71/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_72_Cuộc_Tranh_Cãi_Nảy_Lửa_Giữa_Văn_Minh_Học_Phủ_Và_Long_Võ_Vệ_2.json",
+    "chapter_name": "Chương 72: Cuộc Tranh Cãi Nảy Lửa Giữa Văn Minh Học Phủ Và Long Võ Vệ (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-72/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_73_Cuộc_Tranh_Cãi_Nảy_Lửa_Giữa_Văn_Minh_Học_Phủ_Và_Long_Võ_Vệ_3.json",
+    "chapter_name": "Chương 73: Cuộc Tranh Cãi Nảy Lửa Giữa Văn Minh Học Phủ Và Long Võ Vệ (3)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-73/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_74_Một_Người_Từ_Bỏ.json",
+    "chapter_name": "Chương 74: Một Người Từ Bỏ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-74/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_75_Thần_Văn_Chữ_Lôi.json",
+    "chapter_name": "Chương 75: Thần Văn Chữ \"Lôi\"",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-75/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_76_Tự_Bê_Đá_Đập_Chân_Mình.json",
+    "chapter_name": "Chương 76: Tự Bê Đá Đập Chân Mình",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-76/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_77_Thiếu_Mất_Một_Chân.json",
+    "chapter_name": "Chương 77: Thiếu Mất Một Chân",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-77/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_78_Không_Hiểu_Lòng_Người.json",
+    "chapter_name": "Chương 78: Không Hiểu Lòng Người",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-78/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_79_Khám_Phá_Ra_Công_Năng_Mới_Của_Sách_Họa.json",
+    "chapter_name": "Chương 79: Khám Phá Ra Công Năng Mới Của Sách Họa",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-79/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_80_Tác_Dụng_Của_Hạ_Hầu_Gia.json",
+    "chapter_name": "Chương 80: Tác Dụng Của Hạ Hầu Gia",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-80/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_81_Suy_Nghĩ_Nông_Cạn.json",
+    "chapter_name": "Chương 81: Suy Nghĩ Nông Cạn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-81/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_82_Giá_Nhà_Tăng_Vọt.json",
+    "chapter_name": "Chương 82: Giá Nhà Tăng Vọt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-82/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_83_Hạ_Hầu_Gia_Đáng_Thương.json",
+    "chapter_name": "Chương 83: Hạ Hầu Gia Đáng Thương",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-83/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_84_Một_Mình_Tiến_Đến_Tập_Phong_Đường.json",
+    "chapter_name": "Chương 84: Một Mình Tiến Đến Tập Phong Đường",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-84/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_85_Chuẩn_Bị_Kỹ_Càng.json",
+    "chapter_name": "Chương 85: Chuẩn Bị Kỹ Càng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-85/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_86_Bị_Cuốn_Vào_Trận_Chiến.json",
+    "chapter_name": "Chương 86: Bị Cuốn Vào Trận Chiến",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-86/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_87_Gặp_Phải_Thủ_Lĩnh_Vạn_Thạch_Cảnh.json",
+    "chapter_name": "Chương 87: Gặp Phải Thủ Lĩnh Vạn Thạch Cảnh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-87/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_88_Có_Dám_Đánh_Cược_Hay_Không.json",
+    "chapter_name": "Chương 88: Có Dám Đánh Cược Hay Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-88/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_89_Tâm_Tư_Của_Tô_Vũ.json",
+    "chapter_name": "Chương 89: Tâm Tư Của Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-89/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_90_Kỳ_Vọng_Của_Lưu_Bình_Sơn.json",
+    "chapter_name": "Chương 90: Kỳ Vọng Của Lưu Bình Sơn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-90/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_91_Nhận_Được_Lời_Mời_Của_Tập_Phong_Đường.json",
+    "chapter_name": "Chương 91: Nhận Được Lời Mời Của Tập Phong Đường",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-91/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_92_Ta_Muốn_Trông_Thấy_Dáng_Vẻ_Xấu_Hổ_Của_Ngươi.json",
+    "chapter_name": "Chương 92: Ta Muốn Trông Thấy Dáng Vẻ Xấu Hổ Của Ngươi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-92/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_93_Vạn_Thiên_Thánh_Thừa_Cơ_Đoạt_Quyền.json",
+    "chapter_name": "Chương 93: Vạn Thiên Thánh Thừa Cơ Đoạt Quyền?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-93/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_94_Cắt_Giảm_Kinh_Phí.json",
+    "chapter_name": "Chương 94: Cắt Giảm Kinh Phí",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-94/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_95_Buổi_Họp_Trước_Kỳ_Sát_Hạch.json",
+    "chapter_name": "Chương 95: Buổi Họp Trước Kỳ Sát Hạch",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-95/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_96_Lén_Lút_Mật_Báo_Cho_Long_Võ_Học_Phủ.json",
+    "chapter_name": "Chương 96: Lén Lút \"Mật Báo\" Cho Long Võ Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-96/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_97_Khách_Ghé_Thăm_Nhà.json",
+    "chapter_name": "Chương 97: Khách Ghé Thăm Nhà",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-97/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_98_Đãi_Ngộ_Dành_Cho_Thiên_Tài.json",
+    "chapter_name": "Chương 98: Đãi Ngộ Dành Cho Thiên Tài",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-98/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_99_Ta_Chính_Là_Thiên_Tài.json",
+    "chapter_name": "Chương 99: Ta Chính Là Thiên Tài",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-99/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_100_Mục_Đích_Của_Các_Học_Viên_Ở_Đại_Hạ_Phủ.json",
+    "chapter_name": "Chương 100: Mục Đích Của Các Học Viên Ở Đại Hạ Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-100/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_101_Vào_Trường_Dự_Thi.json",
+    "chapter_name": "Chương 101: Vào Trường Dự Thi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-101/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_102_Đổi_Mới_Luật_Thi_Đề_Mục_Văn_Hóa.json",
+    "chapter_name": "Chương 102: Đổi Mới Luật Thi Đề Mục Văn Hóa",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-102/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_103_Sát_Hạch_Khai_Nguyên_Tam_Trọng_Trở_Xuống.json",
+    "chapter_name": "Chương 103: Sát Hạch Khai Nguyên Tam Trọng Trở Xuống",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-103/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_104_Trần_Hạo_Thật_Gan_Dạ.json",
+    "chapter_name": "Chương 104: Trần Hạo Thật Gan Dạ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-104/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_105_Bài_Thi_Thứ_Ba.json",
+    "chapter_name": "Chương 105: Bài Thi Thứ Ba",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-105/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_106_Gian_Lận_Trong_Phòng_Thi.json",
+    "chapter_name": "Chương 106: \"Gian Lận\" Trong Phòng Thi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-106/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_107_Bài_Thi_Thứ_Tư.json",
+    "chapter_name": "Chương 107: Bài Thi Thứ Tư",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-107/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_108_Bài_Thi_Thứ_Tư_2.json",
+    "chapter_name": "Chương 108: Bài Thi Thứ Tư (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-108/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_109_Lời_Khuyên_Của_Ngô_Lam.json",
+    "chapter_name": "Chương 109: Lời Khuyên Của Ngô Lam",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-109/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_110_Kế_Hoạch_Đạt_Được_Phân_Vị_Thượng_Đẳng_Thất_Bại.json",
+    "chapter_name": "Chương 110: Kế Hoạch Đạt Được Phân Vị Thượng Đẳng Thất Bại?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-110/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_111_Tư_Liệu_Mới_Nhất_Về_Tô_Vũ.json",
+    "chapter_name": "Chương 111: Tư Liệu Mới Nhất Về Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-111/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_112_Nơi_Nào_Là_An_Toàn_Nhất.json",
+    "chapter_name": "Chương 112: Nơi Nào Là An Toàn Nhất?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-112/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_113_Quy_Tắc_Vòng_Khảo_Hạch_Cuối_Cùng.json",
+    "chapter_name": "Chương 113: Quy Tắc Vòng Khảo Hạch Cuối Cùng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-113/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_114_Kết_Quả_Cuối_Cùng.json",
+    "chapter_name": "Chương 114: Kết Quả Cuối Cùng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-114/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_115_Đừng_Quỵt_Nợ_Hài_Tử.json",
+    "chapter_name": "Chương 115: Đừng Quỵt Nợ Hài Tử",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-115/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_116_Nữ_Nhân_Quả_Thật_Quá_Phiền_Phức.json",
+    "chapter_name": "Chương 116: Nữ Nhân Quả Thật Quá Phiền Phức",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-116/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_117_Ngươi_Nên_Học_Tính_Toán_Lại_Đi.json",
+    "chapter_name": "Chương 117: Ngươi Nên Học Tính Toán Lại Đi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-117/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_118_Ngươi_Không_Xứng.json",
+    "chapter_name": "Chương 118: Ngươi Không Xứng!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-118/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_119_Hợp_Tác_Đi.json",
+    "chapter_name": "Chương 119: Hợp Tác Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-119/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_120_Mục_Tiêu_Công_Kích.json",
+    "chapter_name": "Chương 120: Mục Tiêu Công Kích",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-120/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_121_Gây_Ra_Họa_Lớn_Rồi.json",
+    "chapter_name": "Chương 121: Gây Ra Họa Lớn Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-121/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_122_Hình_Phạt_Cho_Những_Kẻ_Gây_Rối.json",
+    "chapter_name": "Chương 122: Hình Phạt Cho Những Kẻ Gây Rối",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-122/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_123_Đừng_Để_Ta_Nhìn_Thấy_Ngươi.json",
+    "chapter_name": "Chương 123: Đừng Để Ta Nhìn Thấy Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-123/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_124_Mang_Họa_Khắp_Nơi.json",
+    "chapter_name": "Chương 124: Mang Họa Khắp Nơi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-124/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_125_Thiên_Phú_Của_Ngô_Lam.json",
+    "chapter_name": "Chương 125: Thiên Phú Của Ngô Lam",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-125/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_126_Ta_Quá_Thiện_Lương.json",
+    "chapter_name": "Chương 126: Ta Quá Thiện Lương!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-126/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_127_Hoài_Nghi_Nhân_Sinh.json",
+    "chapter_name": "Chương 127: Hoài Nghi Nhân Sinh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-127/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_128_Ngươi_Làm_Vậy_Là_Có_Ý_Gì.json",
+    "chapter_name": "Chương 128: Ngươi Làm Vậy Là Có Ý Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-128/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_129_Ngươi_Đi_Cửa_Sau_À.json",
+    "chapter_name": "Chương 129: Ngươi Đi Cửa Sau À?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-129/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_130_Khảo_Nghiệm_Ý_Chí_Chi_Văn.json",
+    "chapter_name": "Chương 130: Khảo Nghiệm Ý Chí Chi Văn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-130/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_131_Báu_Vật_Của_Văn_Minh_Học_Phủ.json",
+    "chapter_name": "Chương 131: Báu Vật Của Văn Minh Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-131/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_132_Giám_Khảo_Gian_Lận.json",
+    "chapter_name": "Chương 132: Giám Khảo Gian Lận?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-132/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_133_Coi_Chừng_Ta_Đánh_Cả_Hai_Ngươi.json",
+    "chapter_name": "Chương 133: Coi Chừng Ta Đánh Cả Hai Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-133/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_134_Gặp_Phải_Phiền_Phức_Lớn_Rồi.json",
+    "chapter_name": "Chương 134: Gặp Phải Phiền Phức Lớn Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-134/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_135_Ưu_Đãi_Của_Cửu_Thiên_Học_Phủ.json",
+    "chapter_name": "Chương 135: Ưu Đãi Của Cửu Thiên Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-135/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_136_Chúng_Ta_Làm_Cái_Giao_Dịch_Ngầm_Đi.json",
+    "chapter_name": "Chương 136: Chúng Ta Làm Cái Giao Dịch Ngầm Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-136/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_137_Ông_Trời_Thật_Đúng_Là_Không_Có_Mắt.json",
+    "chapter_name": "Chương 137: Ông Trời Thật Đúng Là Không Có Mắt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-137/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_138_Nguy_Cơ_Của_Sở_Nghiên_Cứu.json",
+    "chapter_name": "Chương 138: Nguy Cơ Của Sở Nghiên Cứu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-138/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_139_Đòn_Roi_Đánh_Lên_Da_Thịt_Thì_Mới_Nhớ_Kỹ_Một_Chút.json",
+    "chapter_name": "Chương 139: Đòn Roi Đánh Lên Da Thịt Thì Mới Nhớ Kỹ Một Chút",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-139/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_140_Tới_Nhà_Tô_Vũ_Làm_Thuyết_Khách.json",
+    "chapter_name": "Chương 140: Tới Nhà Tô Vũ Làm Thuyết Khách",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-140/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_141_Quyết_Định_Của_Tô_Vũ.json",
+    "chapter_name": "Chương 141: Quyết Định Của Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-141/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_142_Tự_Thân_Khó_Đảm_Bảo.json",
+    "chapter_name": "Chương 142: Tự Thân Khó Đảm Bảo?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-142/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_143_Ta_Không_Phải_Là_Kẻ_Ngốc.json",
+    "chapter_name": "Chương 143: Ta Không Phải Là Kẻ Ngốc",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-143/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_144_Nhiệm_Vụ_Quan_Trọng.json",
+    "chapter_name": "Chương 144: Nhiệm Vụ Quan Trọng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-144/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_145_Tầm_Quan_Trọng_Của_Việc_Quyết_Định_Công_Pháp_Tu_Luyện_1.json",
+    "chapter_name": "Chương 145: Tầm Quan Trọng Của Việc Quyết Định Công Pháp Tu Luyện (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-145/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_146_Tầm_Quan_Trọng_Của_Việc_Quyết_Định_Công_Pháp_Tu_Luyện_2.json",
+    "chapter_name": "Chương 146: Tầm Quan Trọng Của Việc Quyết Định Công Pháp Tu Luyện (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-146/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_147_Ta_Thấy_Đau_Lòng_Thay_Các_Ngươi.json",
+    "chapter_name": "Chương 147: Ta Thấy Đau Lòng Thay Các Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-147/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_148_Sức_Mạnh_Của_Bạo_Viên_Tộc.json",
+    "chapter_name": "Chương 148: Sức Mạnh Của Bạo Viên Tộc",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-148/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_149_Quân_Lệnh_Của_Nhân_Tộc_Dành_Cho_Học_Viên_Vạn_Tộc_1.json",
+    "chapter_name": "Chương 149: Quân Lệnh Của Nhân Tộc Dành Cho Học Viên Vạn Tộc (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-149/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_150_Quân_Lệnh_Của_Nhân_Tộc_Dành_Cho_Học_Viên_Vạn_Tộc_2.json",
+    "chapter_name": "Chương 150: Quân Lệnh Của Nhân Tộc Dành Cho Học Viên Vạn Tộc (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-150/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_151_Ngươi_Đừng_Bái_Bạch_Phong_Làm_Thầy_Nữa.json",
+    "chapter_name": "Chương 151: Ngươi Đừng Bái Bạch Phong Làm Thầy Nữa",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-151/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_152_Thu_Hoạch_Đầu_Tiên.json",
+    "chapter_name": "Chương 152: Thu Hoạch Đầu Tiên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-152/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_153_Ảnh_Hưởng_Đến_Tiền_Đồ_Của_Bạch_Phong_và_Hồng_Đàm.json",
+    "chapter_name": "Chương 153: Ảnh Hưởng Đến Tiền Đồ Của Bạch Phong và Hồng Đàm",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-153/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_154_Thần_Văn_Chữ_Lôi_Và_Thần_Văn_Chữ_Máu_Cái_Nào_Tốt_Hơn.json",
+    "chapter_name": "Chương 154: Thần Văn Chữ \"Lôi\" Và Thần Văn Chữ \"Máu\", Cái Nào Tốt Hơn?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-154/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_155_Ngươi_Ăn_Điểm_Công_Huân_Để_Sống_Sao.json",
+    "chapter_name": "Chương 155: Ngươi Ăn Điểm Công Huân Để Sống Sao?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-155/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_156_Tô_Long_Quả_Thật_Là_Người_May_Mắn.json",
+    "chapter_name": "Chương 156: Tô Long Quả Thật Là Người May Mắn!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-156/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_157_Thư_Sinh_Yếu_Đuối.json",
+    "chapter_name": "Chương 157: Thư Sinh Yếu Đuối",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-157/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_158_Không_Nỡ_Rời_Đi.json",
+    "chapter_name": "Chương 158: Không Nỡ Rời Đi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-158/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_159_Tạm_Biệt_Nam_Nguyên.json",
+    "chapter_name": "Chương 159: Tạm Biệt Nam Nguyên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-159/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_160_Nam_Nhân_Tốt_Không_Đánh_Nhau_Với_Nữ_Sinh.json",
+    "chapter_name": "Chương 160: Nam Nhân Tốt Không Đánh Nhau Với Nữ Sinh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-160/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_161_Đừng_Ôm_Tâm_Lý_Cầu_May.json",
+    "chapter_name": "Chương 161: Đừng Ôm Tâm Lý Cầu May",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-161/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_162_Kế_Hoạch_Tập_Kích_Của_Huyết_Hỏa_Giáo.json",
+    "chapter_name": "Chương 162: Kế Hoạch Tập Kích Của Huyết Hỏa Giáo",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-162/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_163_Kế_Hoạch_Của_Đôi_Bên.json",
+    "chapter_name": "Chương 163: Kế Hoạch Của Đôi Bên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-163/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_164_Đừng_Giết_Hết_Toàn_Bộ.json",
+    "chapter_name": "Chương 164: Đừng Giết Hết Toàn Bộ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-164/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_165_Có_Gì_Đó_Không_Ổn.json",
+    "chapter_name": "Chương 165: Có Gì Đó Không Ổn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-165/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_166_Học_Viên_Chạy_Loạn_Chết_Không_Đáng_Tiếc.json",
+    "chapter_name": "Chương 166: Học Viên Chạy Loạn? Chết Không Đáng Tiếc!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-166/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_167_Dựa_Vào_Cái_Gì_Mà_Phải_Hy_Sinh_Cho_Các_Ngươi.json",
+    "chapter_name": "Chương 167: Dựa Vào Cái Gì Mà Phải Hy Sinh Cho Các Ngươi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-167/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_168_Lão_Sư_Của_Hồng_Đạm_Và_Liễu_Văn_Ngạn.json",
+    "chapter_name": "Chương 168: Lão Sư Của Hồng Đạm Và Liễu Văn Ngạn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-168/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_169_Ta_Muốn_Nói_Chuyện_Riêng_Với_Tô_Vũ.json",
+    "chapter_name": "Chương 169: Ta Muốn Nói Chuyện Riêng Với Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-169/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_170_Ta_Có_Tiền_Lại_Có_Thực_Lực_Bạch_Phong_Thì_Tính_Là_Cái_Gì.json",
+    "chapter_name": "Chương 170: Ta Có Tiền, Lại Có Thực Lực, Bạch Phong Thì Tính Là Cái Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-170/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_171_Thay_Đổi_Kế_Hoạch.json",
+    "chapter_name": "Chương 171: Thay Đổi Kế Hoạch",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-171/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_172_Ngươi_Có_Muốn_Gia_Nhập_Thiên_Thủy_Hội_Không.json",
+    "chapter_name": "Chương 172: Ngươi Có Muốn Gia Nhập Thiên Thủy Hội Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-172/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_173_Khinh_Thường_Người_Nam_Nguyên.json",
+    "chapter_name": "Chương 173: Khinh Thường Người Nam Nguyên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-173/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_174_Nội_Bộ_Tu_Tâm_Các_Tranh_Cãi_Kịch_Liệt_1.json",
+    "chapter_name": "Chương 174: Nội Bộ Tu Tâm Các Tranh Cãi Kịch Liệt (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-174/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_175_Nội_Bộ_Tu_Tâm_Các_Tranh_Cãi_Kịch_Liệt_2.json",
+    "chapter_name": "Chương 175: Nội Bộ Tu Tâm Các Tranh Cãi Kịch Liệt (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-175/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_176_Nội_Bộ_Tu_Tâm_Các_Tranh_Cãi_Kịch_Liệt_3.json",
+    "chapter_name": "Chương 176: Nội Bộ Tu Tâm Các Tranh Cãi Kịch Liệt (3)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-176/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_177_Ngươi_Sẽ_Đi_Theo_Hệ_Nào.json",
+    "chapter_name": "Chương 177: Ngươi Sẽ Đi Theo Hệ Nào?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-177/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_178_Mở_Mang_Tầm_Mắt_Trước_Đại_Hạ_Phủ.json",
+    "chapter_name": "Chương 178: Mở Mang Tầm Mắt Trước Đại Hạ Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-178/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_179_Gặp_Gỡ_Người_Hướng_Dẫn_Tân_Sinh.json",
+    "chapter_name": "Chương 179: Gặp Gỡ Người Hướng Dẫn Tân Sinh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-179/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_180_Nghe_Lão_Sinh_Kể_Chuyện_Về_Học_Phủ_1.json",
+    "chapter_name": "Chương 180: Nghe Lão Sinh Kể Chuyện Về Học Phủ (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-180/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_181_Nghe_Lão_Sinh_Kể_Chuyện_Về_Học_Phủ_2.json",
+    "chapter_name": "Chương 181: Nghe Lão Sinh Kể Chuyện Về Học Phủ (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-181/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_182_Nghe_Lão_Sinh_Kể_Chuyện_Về_Học_Phủ_3.json",
+    "chapter_name": "Chương 182: Nghe Lão Sinh Kể Chuyện Về Học Phủ (3)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-182/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_183_Bởi_Vì_Ngươi_Không_Đủ_Tư_Cách.json",
+    "chapter_name": "Chương 183: Bởi Vì Ngươi Không Đủ Tư Cách",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-183/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_184_Sổ_Tay_Giới_Thiệu_Các_Nhân_Vật_Chủ_Chốt_Của_Đại_Hạ_Văn_Minh_Học_Phủ.json",
+    "chapter_name": "Chương 184: Sổ Tay Giới Thiệu Các Nhân Vật Chủ Chốt Của Đại Hạ Văn Minh Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-184/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_185_Nữ_Nhân_Chính_Là_Trở_Ngại_Vật.json",
+    "chapter_name": "Chương 185: Nữ Nhân Chính Là Trở Ngại Vật",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-185/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_186_Càng_Nói_Lời_Xui_Xẻo_Lại_Càng_Dễ_Gặp_Phải.json",
+    "chapter_name": "Chương 186: Càng Nói Lời Xui Xẻo Lại Càng Dễ Gặp Phải",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-186/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_187_Hâm_Mộ_Cũng_Vô_Ích_Ai_Có_Tiền_Thì_Người_Ấy_Đi_Đốt.json",
+    "chapter_name": "Chương 187: Hâm Mộ Cũng Vô Ích, Ai Có Tiền Thì Người Ấy Đi Đốt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-187/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_188_Học_Viên_Bị_Bạch_Phong_Từ_Chối.json",
+    "chapter_name": "Chương 188: Học Viên Bị Bạch Phong Từ Chối",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-188/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_189_Trong_Vòng_Ba_Tháng_Ta_Sẽ_Giúp_Hắn_Tiến_Vào_Bách_Cường_Bảng.json",
+    "chapter_name": "Chương 189: Trong Vòng Ba Tháng, Ta Sẽ Giúp Hắn Tiến Vào Bách Cường Bảng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-189/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_190_Tiến_Vào_Dưỡng_Tính_Viên.json",
+    "chapter_name": "Chương 190: Tiến Vào Dưỡng Tính Viên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-190/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_191_Ngươi_Là_Người_Của_Hạ_Gia_À.json",
+    "chapter_name": "Chương 191: Ngươi Là Người Của Hạ Gia À?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-191/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_192_Ngươi_Có_Muốn_Hợp_Tác_Kiếm_Tiền_Với_Ta_Không.json",
+    "chapter_name": "Chương 192: Ngươi Có Muốn Hợp Tác Kiếm Tiền Với Ta Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-192/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_193_Ta_Có_Nên_Bái_Nhập_Vào_Môn_Hạ_Của_Bạch_Phong.json",
+    "chapter_name": "Chương 193: Ta Có Nên Bái Nhập Vào Môn Hạ Của Bạch Phong?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-193/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_194_Phải_Học_Cách_Tàn_Nhẫn.json",
+    "chapter_name": "Chương 194: Phải Học Cách Tàn Nhẫn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-194/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_195_Ngươi_Có_Trả_Tiền_Cho_Ta_Không.json",
+    "chapter_name": "Chương 195: Ngươi Có Trả Tiền Cho Ta Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-195/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_196_Tới_Thật_Là_Nhanh.json",
+    "chapter_name": "Chương 196: Tới Thật Là Nhanh!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-196/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_197_Cường_Giả_Nhiều_Như_Mây.json",
+    "chapter_name": "Chương 197: Cường Giả Nhiều Như Mây",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-197/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_198_Sống_Không_Qua_Nổi_30_Giây.json",
+    "chapter_name": "Chương 198: Sống Không Qua Nổi 30 Giây",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-198/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_199_Nỗi_Khổ_Tâm_Của_Các_Học_Viện_Ít_Người.json",
+    "chapter_name": "Chương 199: Nỗi Khổ Tâm Của Các Học Viện Ít Người",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-199/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_200_Ngươi_Có_Thể_Gánh_Chịu_Một_Nửa_Tổn_Thất_Với_Ta_Được_Không.json",
+    "chapter_name": "Chương 200: Ngươi Có Thể Gánh Chịu Một Nửa Tổn Thất Với Ta Được Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-200/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_201_Ra_Sức_Chiêu_Sinh_Học_Viên.json",
+    "chapter_name": "Chương 201: Ra Sức Chiêu Sinh Học Viên",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-201/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_202_Sư_Bá_Hố_Ta_Các_Ngươi_Đều_Hại_Ta_Thảm_Rồi.json",
+    "chapter_name": "Chương 202: Sư Bá Hố Ta, Các Ngươi Đều Hại Ta Thảm Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-202/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_203_Vì_Sao_Lại_Cố_Ý_Chế_Tạo_Một_Chút_Trở_Ngại.json",
+    "chapter_name": "Chương 203: Vì Sao Lại Cố Ý Chế Tạo Một Chút Trở Ngại?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-203/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_204_Ta_Sẽ_Bái_Ngài_Làm_Lão_Sư_Phụ_Tu.json",
+    "chapter_name": "Chương 204: Ta Sẽ Bái Ngài Làm Lão Sư Phụ Tu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-204/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_205_Bạch_Phong_Rất_Coi_Trọng_Ngươi.json",
+    "chapter_name": "Chương 205: Bạch Phong Rất Coi Trọng Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-205/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_206_Ta_Sẽ_Giúp_Ngươi_Trừng_Trị_Y.json",
+    "chapter_name": "Chương 206: Ta Sẽ Giúp Ngươi Trừng Trị Y",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-206/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_207_Nhất_Hệ_Của_Bọn_Ta_Là_Phe_Phái_Gì.json",
+    "chapter_name": "Chương 207: Nhất Hệ Của Bọn Ta Là Phe Phái Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-207/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_208_Có_Ai_Nhắm_Vào_Nhất_Hệ_Của_Bọn_Ta_Không.json",
+    "chapter_name": "Chương 208: Có Ai Nhắm Vào Nhất Hệ Của Bọn Ta Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-208/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_209_Các_Ngươi_Chuẩn_Bị_Bùng_Nổ_Trở_Lại.json",
+    "chapter_name": "Chương 209: Các Ngươi Chuẩn Bị Bùng Nổ Trở Lại?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-209/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_210_Tu_Luyện_Sẽ_Làm_Ảnh_Hưởng_Tới_Người_Khác.json",
+    "chapter_name": "Chương 210: Tu Luyện Sẽ Làm Ảnh Hưởng Tới Người Khác",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-210/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_211_Nhiệm_Vụ_Của_Ta_Là_Gì.json",
+    "chapter_name": "Chương 211: Nhiệm Vụ Của Ta Là Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-211/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_212_Đã_Từng_Rất_Giàu_Có.json",
+    "chapter_name": "Chương 212: Đã Từng Rất Giàu Có",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-212/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_213_Sổ_Tay_Những_Điều_Cần_Biết_Về_Sở_Nghiên_Cứu_.json",
+    "chapter_name": "Chương 213: Sổ Tay《 Những Điều Cần Biết Về Sở Nghiên Cứu 》",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-213/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_214_Phòng_Mảnh_Vỡ.json",
+    "chapter_name": "Chương 214: Phòng Mảnh Vỡ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-214/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_215_Phòng_Loại_Bỏ.json",
+    "chapter_name": "Chương 215: Phòng Loại Bỏ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-215/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_216_Ngươi_Ở_Trong_Phòng_Mảnh_Vỡ_Bao_Lâu.json",
+    "chapter_name": "Chương 216: Ngươi Ở Trong Phòng Mảnh Vỡ Bao Lâu?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-216/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_217_Ngươi_Có_Tin_Ta_Không.json",
+    "chapter_name": "Chương 217: Ngươi Có Tin Ta Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-217/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_218_Đừng_Hiểu_Lầm_Ta_Không_Nhòm_Ngó_Đồ_Của_Ngài.json",
+    "chapter_name": "Chương 218: Đừng Hiểu Lầm, Ta Không Nhòm Ngó Đồ Của Ngài!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-218/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_219_Sự_Hy_Sinh_Của_Bạch_Phong_Dành_Cho_Tô_Vũ.json",
+    "chapter_name": "Chương 219: \"Sự Hy Sinh\" Của Bạch Phong Dành Cho Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-219/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_220_Bạch_Phong_Khiêu_Chiến_Hồ_Văn_Thăng.json",
+    "chapter_name": "Chương 220: Bạch Phong Khiêu Chiến Hồ Văn Thăng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-220/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_221_Xếp_Dưới_Đệ_Nhất_Thì_Đều_Là_Phế_Vật.json",
+    "chapter_name": "Chương 221: Xếp Dưới Đệ Nhất Thì Đều Là Phế Vật!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-221/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_222_Tìm_Người_Áp_Chế_Bạch_Phong_Đi.json",
+    "chapter_name": "Chương 222: Tìm Người Áp Chế Bạch Phong Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-222/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_223_Gặp_Phải_Một_Người_Không_Ngờ_Tới.json",
+    "chapter_name": "Chương 223: Gặp Phải Một Người Không Ngờ Tới",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-223/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_224_Là_Ai_Chặt_Đứt_Tiền_Đồ_Của_Ai.json",
+    "chapter_name": "Chương 224: Là Ai Chặt Đứt Tiền Đồ Của Ai?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-224/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_225_Ai_cũng_Nhòm_Ngó_Tới_Trăm_Giọt_Tinh_Huyết_Của_Hắn.json",
+    "chapter_name": "Chương 225: Ai cũng Nhòm Ngó Tới Trăm Giọt Tinh Huyết Của Hắn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-225/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_226_Khó_Trách_Đối_Phương_Tự_Tin_Như_Vậy.json",
+    "chapter_name": "Chương 226: Khó Trách Đối Phương Tự Tin Như Vậy!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-226/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_227_Bị_Nhốt_Bên_Ngoài_Những_Hai_Lần.json",
+    "chapter_name": "Chương 227: Bị Nhốt Bên Ngoài Những Hai Lần",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-227/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_228_Ngươi_Làm_Lớp_Trưởng_Đi.json",
+    "chapter_name": "Chương 228: Ngươi Làm Lớp Trưởng Đi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-228/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_229_Lưu_Hồng_Làm_Vậy_Là_Có_Dụng_Ý_Gì.json",
+    "chapter_name": "Chương 229: Lưu Hồng Làm Vậy Là Có Dụng Ý Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-229/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_230_Đánh_Chết_Mười_Người_Thì_Chắc_Chắn_Chín_Kẻ_Không_Oan.json",
+    "chapter_name": "Chương 230: Đánh Chết Mười Người Thì Chắc Chắn Chín Kẻ Không Oan",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-230/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_231_Đuổi_Tận_Giết_Tuyệt.json",
+    "chapter_name": "Chương 231: Đuổi Tận Giết Tuyệt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-231/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_232_Nguy_Khốn_Đủ_Đường.json",
+    "chapter_name": "Chương 232: Nguy Khốn Đủ Đường",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-232/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_233_Hé_Lộ_Một_Phần_Bí_Mật_Cho_Bạch_Phong_Biết.json",
+    "chapter_name": "Chương 233: Hé Lộ Một Phần Bí Mật Cho Bạch Phong Biết",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-233/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_234_Đồ_Đệ_Bảo_Bối_Của_Ta.json",
+    "chapter_name": "Chương 234: Đồ Đệ Bảo Bối Của Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-234/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_235_Ta_Không_Tin_Đa_Thần_Văn_Nhất_Hệ_Sẽ_Tàn_Lụi_Trong_Tay_Chúng_Ta.json",
+    "chapter_name": "Chương 235: Ta Không Tin Đa Thần Văn Nhất Hệ Sẽ Tàn Lụi Trong Tay Chúng Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-235/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_236_Càng_Sống_Lại_Càng_Thảm.json",
+    "chapter_name": "Chương 236: Càng Sống Lại Càng Thảm",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-236/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_237_Đáng_Lẽ_Ngươi_Nên_Bái_Ta_Làm_Sư_Phụ_Mới_Phải.json",
+    "chapter_name": "Chương 237: Đáng Lẽ Ngươi Nên Bái Ta Làm Sư Phụ Mới Phải",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-237/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_238_Tô_Vũ_Bẫy_Người_Khác_Thế_Mà_Được_À.json",
+    "chapter_name": "Chương 238: Tô Vũ, Bẫy Người Khác Thế Mà Được À?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-238/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_239_Ban_Ngày_Vất_Vả_Ban_Đêm_Tăng_Ca.json",
+    "chapter_name": "Chương 239: Ban Ngày Vất Vả, Ban Đêm Tăng Ca",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-239/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_240_Tô_Long_Hạnh_Ngộ_Hồng_Đàm_Đại_Sư.json",
+    "chapter_name": "Chương 240: Tô Long Hạnh Ngộ Hồng Đàm Đại Sư",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-240/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_241_Tội_Đồ_Lâm_Diệu.json",
+    "chapter_name": "Chương 241: \"Tội Đồ\" Lâm Diệu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-241/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_242_Chỗ_Tốt_Của_Việc_Làm_Lớp_Trưởng.json",
+    "chapter_name": "Chương 242: Chỗ Tốt Của Việc Làm Lớp Trưởng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-242/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_243_Học_Viên_Yêu_Nghiệt_Hạ_Thiền.json",
+    "chapter_name": "Chương 243: Học Viên Yêu Nghiệt - Hạ Thiền",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-243/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_244_Ngươi_Đúng_Là_Ngôi_Sao_May_Mắn_Của_Ta.json",
+    "chapter_name": "Chương 244: Ngươi Đúng Là Ngôi Sao May Mắn Của Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-244/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_245_Trách_Nhiệm_Của_Lão_Sư_Là_Cái_Gì.json",
+    "chapter_name": "Chương 245: Trách Nhiệm Của Lão Sư Là Cái Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-245/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_246_Có_Phải_Cũng_Có_Người_Cầu_Thân_Thể_Của_Ngươi.json",
+    "chapter_name": "Chương 246: Có Phải Cũng Có Người Cầu Thân Thể Của Ngươi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-246/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_247_Sự_Khác_Biệt_Giữa_Văn_Binh_Và_Võ_Binh.json",
+    "chapter_name": "Chương 247: Sự Khác Biệt Giữa Văn Binh Và Võ Binh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-247/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_248_Đúc_Binh_Sư_Vô_Cùng_Lợi_Hại.json",
+    "chapter_name": "Chương 248: Đúc Binh Sư Vô Cùng Lợi Hại!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-248/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_249_Bí_Mật_Của_Nghề_Đúc_Binh_Sư.json",
+    "chapter_name": "Chương 249: Bí Mật Của Nghề Đúc Binh Sư",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-249/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_250_Tự_Đi_Tìm_Lão_Sư_Bạch_Phong_Của_Ngươi_Đi.json",
+    "chapter_name": "Chương 250: Tự Đi Tìm Lão Sư Bạch Phong Của Ngươi Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-250/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_251_Đó_Là_Ái_Nhân_Của_Liễu_Văn_Ngạn.json",
+    "chapter_name": "Chương 251: Đó Là Ái Nhân Của Liễu Văn Ngạn?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-251/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_252_Ngươi_Dám_Dùng_Lưu_Hồng_Để_Uy_Hiếp_Ta.json",
+    "chapter_name": "Chương 252: Ngươi Dám Dùng Lưu Hồng Để Uy Hiếp Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-252/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_253_Giao_Kèo_Của_Trần_Khải_Và_Tô_Vũ.json",
+    "chapter_name": "Chương 253: Giao Kèo Của Trần Khải Và Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-253/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_254_Bán_Cho_Lâm_Diệu_Một_Cái_Nhân_Tình.json",
+    "chapter_name": "Chương 254: Bán Cho Lâm Diệu Một Cái Nhân Tình",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-254/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_255_Ta_Muốn_Vào_Bí_Cảnh_Ngay_Bây_Giờ.json",
+    "chapter_name": "Chương 255: Ta Muốn Vào Bí Cảnh Ngay Bây Giờ!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-255/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_256_Vậy_Chúng_Ta_Sẽ_Đợi_Ngươi_Giáo_Huấn_Lưu_Hồng.json",
+    "chapter_name": "Chương 256: Vậy Chúng Ta Sẽ Đợi Ngươi Giáo Huấn Lưu Hồng!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-256/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_257_Có_Tin_Ta_Sẽ_Lập_Tức_Vạch_Trần_Cả_Ba_Người_Các_Ngươi.json",
+    "chapter_name": "Chương 257: Có Tin Ta Sẽ Lập Tức Vạch Trần Cả Ba Người Các Ngươi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-257/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_258_Không_Tin_Lời_Sách_Nói.json",
+    "chapter_name": "Chương 258: Không Tin Lời Sách Nói",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-258/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_259_Ta_Đã_Từng_Bị_Trâu_Giết_Chết.json",
+    "chapter_name": "Chương 259: Ta Đã Từng Bị Trâu Giết Chết?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-259/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_260_Người_Kiên_Trì_Lâu_Nhất_Ở_Trong_Bí_Cảnh_Là_Ai.json",
+    "chapter_name": "Chương 260: Người Kiên Trì Lâu Nhất Ở Trong Bí Cảnh Là Ai?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-260/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_261_Sao_Tô_Vũ_Vẫn_Còn_Chưa_Đi_Ra.json",
+    "chapter_name": "Chương 261: Sao Tô Vũ Vẫn Còn Chưa Đi Ra?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-261/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_262_Lại_Bị_Vả_Mặt.json",
+    "chapter_name": "Chương 262: Lại Bị Vả Mặt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-262/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_263_Lão_Sư_Của_Ngươi_Lợi_Hại_Hơn_Hay_Là_Ngô_Kỳ_Lợi_Hại_Hơn.json",
+    "chapter_name": "Chương 263: Lão Sư Của Ngươi Lợi Hại Hơn Hay Là Ngô Kỳ Lợi Hại Hơn?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-263/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_264_Anh_Không_Đủ_Thiên_Tài_Sao.json",
+    "chapter_name": "Chương 264: Anh Không Đủ Thiên Tài Sao?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-264/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_265_Tranh_Thủ_Kiếm_Một_Chút_Tiện_Nghi_Đi.json",
+    "chapter_name": "Chương 265: Tranh Thủ Kiếm Một Chút Tiện Nghi Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-265/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_266_Cũng_Tại_Ngươi_Quá_Nổi_Bật.json",
+    "chapter_name": "Chương 266: Cũng Tại Ngươi Quá Nổi Bật",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-266/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_267_Món_Quà_Ra_Mắt_Của_Sư_Bá.json",
+    "chapter_name": "Chương 267: Món Quà Ra Mắt Của Sư Bá",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-267/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_268_Vạn_Sự_Không_Rõ_Cứ_Hỏi_Hạ_Hổ_Vưu.json",
+    "chapter_name": "Chương 268: Vạn Sự Không Rõ Cứ Hỏi Hạ Hổ Vưu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-268/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_269_Vận_Khí_Là_Thứ_Hết_Sức_Có_Tác_Dụng.json",
+    "chapter_name": "Chương 269: Vận Khí Là Thứ Hết Sức Có Tác Dụng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-269/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_270_Tính_Toán_Của_Lưu_Hồng.json",
+    "chapter_name": "Chương 270: Tính Toán Của Lưu Hồng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-270/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_271_Rất_Đáng_Nghi.json",
+    "chapter_name": "Chương 271: Rất Đáng Nghi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-271/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_272_Hỗn_Chiến_Kịch_Liệt.json",
+    "chapter_name": "Chương 272: Hỗn Chiến Kịch Liệt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-272/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_273_Đúng_Là_Quá_Ấu_Trĩ.json",
+    "chapter_name": "Chương 273: Đúng Là Quá Ấu Trĩ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-273/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_274_Nhóm_Học_Viên_Kỳ_Quái.json",
+    "chapter_name": "Chương 274: Nhóm Học Viên Kỳ Quái!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-274/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_275_Các_Lão_Không_Thể_Xuất_Thủ_Nhưng_Là_Học_Viên_Thì_Không_Thành_Vấn_Đề.json",
+    "chapter_name": "Chương 275: Các Lão Không Thể Xuất Thủ, Nhưng Là Học Viên Thì Không Thành Vấn Đề",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-275/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_276_Khinh_Người_Quá_Đáng.json",
+    "chapter_name": "Chương 276: Khinh Người Quá Đáng!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-276/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_277_Hào_Phú_Hàn_Môn_Chi_Tranh.json",
+    "chapter_name": "Chương 277: Hào Phú Hàn Môn Chi Tranh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-277/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_278_Hàn_Môn_Muốn_Phản_Kích_Rồi.json",
+    "chapter_name": "Chương 278: Hàn Môn Muốn Phản Kích Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-278/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_279_Tiểu_Đồ_Đệ_Đáng_Thương.json",
+    "chapter_name": "Chương 279: Tiểu Đồ Đệ Đáng Thương",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-279/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_280_Thật_Sự_Chỉ_Là_Trùng_Hợp.json",
+    "chapter_name": "Chương 280: Thật Sự Chỉ Là Trùng Hợp?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-280/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_281_Quá_Mất_Mặt.json",
+    "chapter_name": "Chương 281: Quá Mất Mặt!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-281/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_282_Không_Có_Khả_Năng.json",
+    "chapter_name": "Chương 282: Không Có Khả Năng!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-282/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_283_Đây_Chính_Là_Chỗ_Không_Bình_Thường.json",
+    "chapter_name": "Chương 283: Đây Chính Là Chỗ Không Bình Thường?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-283/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_284_Phiền_Toái_Lớn_Rồi.json",
+    "chapter_name": "Chương 284: Phiền Toái Lớn Rồi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-284/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_285_Cảm_Giác_Mất_Mát_Và_Không_Cam_Lòng.json",
+    "chapter_name": "Chương 285: Cảm Giác Mất Mát Và Không Cam Lòng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-285/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_286_Ngươi_Dám_Ám_Toán_Ta.json",
+    "chapter_name": "Chương 286: Ngươi Dám Ám Toán Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-286/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_287_Trần_Khải_Đấu_Một_Trận_Đi.json",
+    "chapter_name": "Chương 287: Trần Khải, Đấu Một Trận Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-287/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_288_Thái_Độ_Của_Người_Vây_Xem.json",
+    "chapter_name": "Chương 288: Thái Độ Của Người Vây Xem",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-288/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_289_Nếu_Còn_Có_Lần_Sau_Ta_Sẽ_Không_Thủ_Hạ_Lưu_Tình.json",
+    "chapter_name": "Chương 289: Nếu Còn Có Lần Sau, Ta Sẽ Không Thủ Hạ Lưu Tình",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-289/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_290_Vạch_Mặt_Đối_Phương.json",
+    "chapter_name": "Chương 290: Vạch Mặt Đối Phương",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-290/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_291_Lão_Sư_Sẽ_Cùng_Đi_Đòi_Tiền_Với_Ngươi.json",
+    "chapter_name": "Chương 291: Lão Sư Sẽ Cùng Đi Đòi Tiền Với Ngươi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-291/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_292_Tu_Tâm_Các_Ra_Mặt_Hạ_Hổ_Vưu_Bị_Tóm.json",
+    "chapter_name": "Chương 292: Tu Tâm Các Ra Mặt, Hạ Hổ Vưu Bị Tóm!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-292/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_293_Người_Được_Lợi_Cuối_Cùng_Là_Ai.json",
+    "chapter_name": "Chương 293: Người Được Lợi Cuối Cùng Là Ai?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-293/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_294_Học_Phủ_Đã_Xóa_Bỏ_Đa_Thần_Văn_Nhất_Hệ_Ngài_Chưa_Biết.json",
+    "chapter_name": "Chương 294: Học Phủ Đã Xóa Bỏ Đa Thần Văn Nhất Hệ, Ngài Chưa Biết?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-294/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_295_Khôi_Phục_Lại_Nguyên_Dạng_Cho_Ta.json",
+    "chapter_name": "Chương 295: Khôi Phục Lại Nguyên Dạng Cho Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-295/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_296_Lão_Sư_Của_Ta_Chẳng_Ra_Sao_Cả.json",
+    "chapter_name": "Chương 296: Lão Sư Của Ta... Chẳng Ra Sao Cả!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-296/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_297_Ngươi_Đang_Thương_Hại_Ai.json",
+    "chapter_name": "Chương 297: Ngươi Đang Thương Hại Ai?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-297/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_298_Lý_Do_Đa_Thần_Văn_Nhất_Hệ_Bị_Chèn_Ép.json",
+    "chapter_name": "Chương 298: Lý Do Đa Thần Văn Nhất Hệ Bị Chèn Ép?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-298/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_299_Bí_Mật_Của_Sơ_Dung_Các.json",
+    "chapter_name": "Chương 299: Bí Mật Của Sơ Dung Các",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-299/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_300_Ngươi_Không_Hiểu_Tô_Vũ.json",
+    "chapter_name": "Chương 300: Ngươi Không Hiểu Tô Vũ!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-300/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_301_Sách_Họa_Vạn_Tộc_Điên_Rồi.json",
+    "chapter_name": "Chương 301: Sách Họa Vạn Tộc Điên Rồi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-301/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_302_Rốt_Cuộc_Ngươi_Muốn_Làm_Gì.json",
+    "chapter_name": "Chương 302: Rốt Cuộc Ngươi Muốn Làm Gì?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-302/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_303_Hai_Lần_9.json",
+    "chapter_name": "Chương 303: Hai Lần 9",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-303/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_304_99_Cái_Thần_Văn.json",
+    "chapter_name": "Chương 304: 99 Cái Thần Văn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-304/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_305_Cuộc_Trò_Chuyện_Giữa_Vạn_Thiên_Thánh_Và_Hạ_Hầu_Gia_1.json",
+    "chapter_name": "Chương 305: Cuộc Trò Chuyện Giữa Vạn Thiên Thánh Và Hạ Hầu Gia (1)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-305/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_306_Cuộc_Trò_Chuyện_Giữa_Vạn_Thiên_Thánh_Và_Hạ_Hầu_Gia_2.json",
+    "chapter_name": "Chương 306: Cuộc Trò Chuyện Giữa Vạn Thiên Thánh Và Hạ Hầu Gia (2)",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-306/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_307_Thủ_Tiêu_Và_Thôn_Phệ.json",
+    "chapter_name": "Chương 307: Thủ Tiêu Và Thôn Phệ?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-307/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_308_Sự_Đối_Địch_Giữa_Sách_Họa_Và_Thần_Văn.json",
+    "chapter_name": "Chương 308: Sự Đối Địch Giữa Sách Họa Và Thần Văn",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-308/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_309_Dấu_Hiệu_Tấn_Cấp.json",
+    "chapter_name": "Chương 309: Dấu Hiệu Tấn Cấp",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-309/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_310_Ngươi_Phụ_Trách_Việc_Ăn_Uống_Cho_Yêu_Tộc_Bị_Giam_Đi.json",
+    "chapter_name": "Chương 310: Ngươi Phụ Trách Việc Ăn Uống Cho Yêu Tộc Bị Giam Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-310/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_311_6_Sinh_Vật_Còn_Sống.json",
+    "chapter_name": "Chương 311: 6 Sinh Vật Còn Sống",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-311/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_312_Ta_Là_Loại_Người_Này_Sao.json",
+    "chapter_name": "Chương 312: Ta Là Loại Người Này Sao?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-312/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_313_Các_Ngươi_Muốn_Thông_Đồng_Với_Ta.json",
+    "chapter_name": "Chương 313: Các Ngươi Muốn Thông Đồng Với Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-313/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_314_Ngươi_Không_Có_Tư_Cách_Nói_Chuyện_Với_Ta.json",
+    "chapter_name": "Chương 314: Ngươi Không Có Tư Cách Nói Chuyện Với Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-314/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_315_Đến_18_Tuổi_Hãy_Trở_Về.json",
+    "chapter_name": "Chương 315: Đến 18 Tuổi Hãy Trở Về",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-315/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_316_Kẻ_Nào_Dám_Hố_Ta.json",
+    "chapter_name": "Chương 316: Kẻ Nào Dám Hố Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-316/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_317_Không_Có_So_Sánh_Thì_Không_Có_Tổn_Thương.json",
+    "chapter_name": "Chương 317: Không Có So Sánh Thì Không Có Tổn Thương",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-317/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_318_Tu_Luyện_Khắc_Khổ.json",
+    "chapter_name": "Chương 318: Tu Luyện Khắc Khổ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-318/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_319_Tích_Lũy_Công_Huân_Hơn_Trăm_Điểm.json",
+    "chapter_name": "Chương 319: Tích Lũy Công Huân Hơn Trăm Điểm",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-319/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_320_Thực_Lực_Không_Cho_Phép.json",
+    "chapter_name": "Chương 320: Thực Lực Không Cho Phép!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-320/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_321_Ngươi_Đang_Uy_Hiếp_Ta.json",
+    "chapter_name": "Chương 321: Ngươi Đang Uy Hiếp Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-321/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_322_Logic_Thật_Kỳ_Quái.json",
+    "chapter_name": "Chương 322: Logic Thật Kỳ Quái!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-322/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_323_Ngươi_Đừng_Hòng_Vả_Mặt_Ta.json",
+    "chapter_name": "Chương 323: Ngươi Đừng Hòng Vả Mặt Ta!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-323/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_324_Năm_Đó_Liễu_Văn_Ngạn_Có_Thích_Cười_Không.json",
+    "chapter_name": "Chương 324: Năm Đó Liễu Văn Ngạn Có Thích Cười Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-324/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_325_Xem_Như_Ngươi_Lợi_Hại.json",
+    "chapter_name": "Chương 325: Xem Như Ngươi Lợi Hại",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-325/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_326_Ta_Được_Lời.json",
+    "chapter_name": "Chương 326: Ta Được Lời?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-326/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_327_Kế_Hoạch_Hố_Người_Của_Tô_Vũ_Và_Trịnh_Vân_Huy.json",
+    "chapter_name": "Chương 327: Kế Hoạch Hố Người Của Tô Vũ Và Trịnh Vân Huy",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-327/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_328_Ngươi_Là_Người_Đầu_Tiên.json",
+    "chapter_name": "Chương 328: Ngươi Là Người Đầu Tiên!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-328/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_329_Khai_Chiến_Lần_Thứ_Nhất.json",
+    "chapter_name": "Chương 329: Khai Chiến Lần Thứ Nhất",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-329/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_330_Logic_Quái_Dị_Của_Ngô_Lam.json",
+    "chapter_name": "Chương 330: Logic Quái Dị Của Ngô Lam",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-330/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_331_Rốt_Cuộc_Ai_Là_Người_Của_Đa_Thần_Văn_Nhất_Hệ.json",
+    "chapter_name": "Chương 331: Rốt Cuộc Ai Là Người Của Đa Thần Văn Nhất Hệ?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-331/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_332_Trần_Vĩnh_Choáng_Váng.json",
+    "chapter_name": "Chương 332: Trần Vĩnh Choáng Váng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-332/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_333_Nếu_Không_Cho_Ta_Xem_Ta_Sẽ_Xé_Xác_Ngươi.json",
+    "chapter_name": "Chương 333: Nếu Không Cho Ta Xem... Ta Sẽ Xé Xác Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-333/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_334_Nhìn_Tô_Vũ_Bằng_Con_Mắt_Khác.json",
+    "chapter_name": "Chương 334: Nhìn Tô Vũ Bằng Con Mắt Khác",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-334/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_335_Hẳn_Là_Chưa_Chết_Đâu.json",
+    "chapter_name": "Chương 335: Hẳn Là Chưa Chết Đâu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-335/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_336_Tin_Tưởng_Ta.json",
+    "chapter_name": "Chương 336: Tin Tưởng Ta",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-336/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_337_Thiên_Giai_Võ_Kỹ.json",
+    "chapter_name": "Chương 337: Thiên Giai Võ Kỹ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-337/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_338_Trần_Hạo_Hắc_Hóa_Rồi.json",
+    "chapter_name": "Chương 338: Trần Hạo Hắc Hóa Rồi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-338/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_339_Không_Phải_Người_Tốt.json",
+    "chapter_name": "Chương 339: Không Phải Người Tốt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-339/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_340_Lưu_Hồng_Kích_Động.json",
+    "chapter_name": "Chương 340: Lưu Hồng Kích Động",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-340/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_341_Lưu_Hồng_Động_Tâm.json",
+    "chapter_name": "Chương 341: Lưu Hồng Động Tâm",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-341/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_342_Làm_Sao_Phân_Rõ_Thật_Giả.json",
+    "chapter_name": "Chương 342: Làm Sao Phân Rõ Thật Giả?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-342/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_343_Chưa_Chắc_Ngươi_Đã_Thắng_Tô_Vũ.json",
+    "chapter_name": "Chương 343: Chưa Chắc Ngươi Đã Thắng Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-343/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_344_Bọn_Họ_Không_Dám_Tính_Kế_Ta.json",
+    "chapter_name": "Chương 344: Bọn Họ Không Dám Tính Kế Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-344/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_345_Các_Ngươi_Còn_Non_Lắm.json",
+    "chapter_name": "Chương 345: Các Ngươi Còn Non Lắm!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-345/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_346_Mâu_Thuẫn_Trước_Sau_Bất_Nhất.json",
+    "chapter_name": "Chương 346: Mâu Thuẫn Trước Sau Bất Nhất",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-346/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_347_Ta_Chờ_Ngươi_Gọi_Gia_Gia.json",
+    "chapter_name": "Chương 347: Ta Chờ Ngươi Gọi Gia Gia",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-347/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_348_Muốn_Tiền_Đến_Phát_Điên.json",
+    "chapter_name": "Chương 348: Muốn Tiền Đến Phát Điên?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-348/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_349_Lão_Triệu_Đã_Làm_Gì_Hắn.json",
+    "chapter_name": "Chương 349: Lão Triệu Đã Làm Gì Hắn?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-349/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_350_Rốt_Cuộc_Là_Thật_Hay_Giả.json",
+    "chapter_name": "Chương 350: Rốt Cuộc Là Thật Hay Giả?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-350/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_351_Ta_Là_Người_Có_Nguyên_Tắc.json",
+    "chapter_name": "Chương 351: Ta Là Người Có Nguyên Tắc",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-351/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_352_Ta_Sẽ_Càng_Thất_Vọng.json",
+    "chapter_name": "Chương 352: Ta Sẽ Càng Thất Vọng!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-352/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_353_Tụ_Tập_Xem_Quyết_Đấu.json",
+    "chapter_name": "Chương 353: Tụ Tập Xem Quyết Đấu",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-353/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_354_Toàn_Lực_Ứng_Phó.json",
+    "chapter_name": "Chương 354: Toàn Lực Ứng Phó",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-354/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_355_Tuyệt_Học_Sở_Trường_Của_Trịnh_Gia.json",
+    "chapter_name": "Chương 355: Tuyệt Học Sở Trường Của Trịnh Gia",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-355/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_356_Ngươi_Còn_Có_Thể_Đánh.json",
+    "chapter_name": "Chương 356: Ngươi... Còn Có Thể Đánh?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-356/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_357_Quá_Độc_Ác_Quá_Tàn_Nhẫn.json",
+    "chapter_name": "Chương 357: Quá Độc Ác! Quá Tàn Nhẫn!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-357/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_358_Tài_Liệu_Kia_Rốt_Cuộc_Là_Thật_Hay_Giả.json",
+    "chapter_name": "Chương 358: Tài Liệu Kia... Rốt Cuộc Là Thật Hay Giả?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-358/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_359_Bắt_Lấy_Đống_Tài_Liệu_Kia.json",
+    "chapter_name": "Chương 359: Bắt Lấy Đống Tài Liệu Kia",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-359/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_360_Sao_Lại_Kéo_Tới_Nhiều_Người_Như_Vậy.json",
+    "chapter_name": "Chương 360: Sao Lại Kéo Tới Nhiều Người Như Vậy?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-360/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_361_Thật_Điền_Cuồng_Thật_Khó_Chịu.json",
+    "chapter_name": "Chương 361: Thật Điền Cuồng! Thật Khó Chịu!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-361/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_362_Thật_Sự_Không_Coi_Ai_Ra_Gì.json",
+    "chapter_name": "Chương 362: Thật Sự Không Coi Ai Ra Gì!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-362/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_363_Đây_Là_Tiếng_Người_Nói_Sao.json",
+    "chapter_name": "Chương 363: Đây Là Tiếng Người Nói Sao?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-363/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_364_Người_Trẻ_Tuổi_Càng_Ngày_Càng_Đáng_Sợ.json",
+    "chapter_name": "Chương 364: Người Trẻ Tuổi, Càng Ngày Càng Đáng Sợ!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-364/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_365_Nổ_Chết_Đồ_Con_Rùa_Nhà_Ngươi.json",
+    "chapter_name": "Chương 365: Nổ Chết Đồ Con Rùa Nhà Ngươi",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-365/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_366_Ta_Sẽ_Dập_Đầu_Bồi_Tội_Với_Lưu_Lão_Sư.json",
+    "chapter_name": "Chương 366: Ta Sẽ Dập Đầu Bồi Tội Với Lưu Lão Sư",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-366/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_367_Gặp_Ma_À.json",
+    "chapter_name": "Chương 367: Gặp Ma À?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-367/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_368_Ngươi_Mà_Cũng_Xứng_Làm_Học_Trò_Ta.json",
+    "chapter_name": "Chương 368: Ngươi Mà Cũng Xứng Làm Học Trò Ta?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-368/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_369_So_Cười_Mà_Thôi_Ai_Sợ_Ai_Chứ.json",
+    "chapter_name": "Chương 369: So Cười Mà Thôi, Ai Sợ Ai Chứ?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-369/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_370_Ý_Của_Ngài_Là_Nằm_Vùng.json",
+    "chapter_name": "Chương 370: Ý Của Ngài Là... Nằm Vùng?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-370/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_371_Ta_Có_Nên_Tin_Tưởng_Đối_Phương.json",
+    "chapter_name": "Chương 371: Ta Có Nên Tin Tưởng Đối Phương?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-371/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_372_Ta_Nguyện_Ý_Quyên_Tặng_Đại_Hạ_Văn_Minh_Học_Phủ_10_Bản_Lăng_Vân_Nguyên_Bản.json",
+    "chapter_name": "Chương 372: Ta Nguyện Ý Quyên Tặng Đại Hạ Văn Minh Học Phủ 10 Bản Lăng Vân Nguyên Bản",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-372/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_373_Tam_Quan_Được_Khai_Sáng.json",
+    "chapter_name": "Chương 373: Tam Quan Được Khai Sáng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-373/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_374_Ban_Cao_Cấp_Thâm_Niên.json",
+    "chapter_name": "Chương 374: Ban Cao Cấp Thâm Niên?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-374/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_375_Bạch_Phong_Chết_Rồi.json",
+    "chapter_name": "Chương 375: Bạch Phong Chết Rồi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-375/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_376_Nguyên_Nhân_Lưu_Hồng_Luôn_Đấu_Thua_Bạch_Phong.json",
+    "chapter_name": "Chương 376: Nguyên Nhân Lưu Hồng Luôn Đấu Thua Bạch Phong",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-376/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_377_Cầu_Xin_Ngươi_Cho_Chúng_Ta_Ăn_Đi.json",
+    "chapter_name": "Chương 377: Cầu Xin Ngươi... Cho Chúng Ta Ăn Đi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-377/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_378_Ta_Có_Quên_Chuyện_Gì_Không.json",
+    "chapter_name": "Chương 378: Ta Có Quên Chuyện Gì Không?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-378/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_379_Thiên_Giai_Võ_Kỹ_Trung_Đẳng.json",
+    "chapter_name": "Chương 379: Thiên Giai Võ Kỹ Trung Đẳng",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-379/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_380_Các_Ngươi_Cố_Ý.json",
+    "chapter_name": "Chương 380: Các Ngươi Cố Ý!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-380/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_381_Hố_Ta_Thành_Nghiện_Rồi.json",
+    "chapter_name": "Chương 381: Hố Ta Thành Nghiện Rồi?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-381/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_382_Ta_Sợ_Làm_Bẩn_Đôi_Tay_Cao_Quý_Này.json",
+    "chapter_name": "Chương 382: Ta Sợ Làm Bẩn Đôi Tay Cao Quý Này",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-382/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_383_Dám_Trộm_Đồ_Của_Sư_Tổ.json",
+    "chapter_name": "Chương 383: Dám Trộm Đồ Của Sư Tổ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-383/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_384_Lại_Vào_Bí_Cảnh.json",
+    "chapter_name": "Chương 384: Lại Vào Bí Cảnh",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-384/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_385_Cơ_Thể_Con_Người_Có_Tổng_Cộng_Bao_Nhiêu_Khiếu_Huyệt.json",
+    "chapter_name": "Chương 385: Cơ Thể Con Người Có Tổng Cộng Bao Nhiêu Khiếu Huyệt?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-385/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_386_Tuyệt_Thế_Yêu_Nghiệt.json",
+    "chapter_name": "Chương 386: Tuyệt Thế Yêu Nghiệt",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-386/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_387_Gặp_Mặt_Chiêm_Hải.json",
+    "chapter_name": "Chương 387: \"Gặp Mặt\" Chiêm Hải",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-387/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_388_Tu_Luyện_Phá_Thiên_Sát_.json",
+    "chapter_name": "Chương 388: Tu Luyện《 Phá Thiên Sát 》",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-388/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_389_Tổ_Tông_Tô_Vũ_Là_Phá_Sơn_Ngưu.json",
+    "chapter_name": "Chương 389: Tổ Tông Tô Vũ Là Phá Sơn Ngưu?",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-389/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_390_Ăn_Mòn_Ý_Chí_Lực.json",
+    "chapter_name": "Chương 390: Ăn Mòn Ý Chí Lực",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-390/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_391_Bôi_Đen_Học_Phủ.json",
+    "chapter_name": "Chương 391: Bôi Đen Học Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-391/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_392_Có_Rất_Nhiều_Lời_Muốn_Nói.json",
+    "chapter_name": "Chương 392: Có Rất Nhiều Lời Muốn Nói",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-392/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_393_Vị_Trí_Phủ_Chủ_Đại_Hạ_Phủ.json",
+    "chapter_name": "Chương 393: Vị Trí Phủ Chủ Đại Hạ Phủ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-393/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_394_Lỡ_Tay_Một_Cái_Đập_Chết_Ngươi.json",
+    "chapter_name": "Chương 394: Lỡ Tay Một Cái... Đập Chết Ngươi!",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-394/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_395_Ta_Còn_Chưa_Tu_Thành_Lão_Rùa_Đen_Như_Ngài.json",
+    "chapter_name": "Chương 395: Ta Còn Chưa Tu Thành Lão Rùa Đen Như Ngài",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-395/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_396_Vạn_Thạch_Cảnh_Chân_Chính.json",
+    "chapter_name": "Chương 396: Vạn Thạch Cảnh Chân Chính",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-396/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_397_Tình_Cảnh_Trái_Ngược.json",
+    "chapter_name": "Chương 397: Tình Cảnh Trái Ngược",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-397/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_398_Hoàng_Khải_Phong.json",
+    "chapter_name": "Chương 398: Hoàng Khải Phong",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-398/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_399_Mật_Báo_Cho_Tô_Vũ.json",
+    "chapter_name": "Chương 399: Mật Báo Cho Tô Vũ",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-399/"
+  },
+  {
+    "path": "data/Vạn_Tộc_Chi_Kiếp/Chương_400_Thần_Văn_Thứ_Năm.json",
+    "chapter_name": "Chương 400: Thần Văn Thứ Năm",
+    "url": "https://truyenfull.io/van-toc-chi-kiep/chuong-400/"
+  }
+]
