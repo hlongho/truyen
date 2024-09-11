@@ -1,0 +1,417 @@
+[
+  {
+    "path": "data/Trụy_Lạc/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/truy-lac/chuong-1/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/truy-lac/chuong-2/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/truy-lac/chuong-3/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/truy-lac/chuong-4/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/truy-lac/chuong-5/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/truy-lac/chuong-6/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/truy-lac/chuong-7/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/truy-lac/chuong-8/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/truy-lac/chuong-9/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/truy-lac/chuong-10/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/truy-lac/chuong-11/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/truy-lac/chuong-12/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/truy-lac/chuong-13/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/truy-lac/chuong-14/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/truy-lac/chuong-15/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/truy-lac/chuong-16/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/truy-lac/chuong-17/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/truy-lac/chuong-18/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/truy-lac/chuong-19/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_20_20_Lục_Tây_Kiêu_Để_Tôi_Đưa_Cậu_Đi_Chơi.json",
+    "chapter_name": "Chương 20: 20: Lục Tây Kiêu Để Tôi Đưa Cậu Đi Chơi",
+    "url": "https://truyenfull.io/truy-lac/chuong-20/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_21_21_Hi_Vọng_Cậu_Dám_Yêu_Dám_Hận_Vạn_Sự_Suôn_Sẻ.json",
+    "chapter_name": "Chương 21: 21: Hi Vọng Cậu Dám Yêu Dám Hận Vạn Sự Suôn Sẻ",
+    "url": "https://truyenfull.io/truy-lac/chuong-21/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_22_22_Mày_Là_Cái_Thá_Gì_Mà_Cũng_Dám_Động_Vào_Người_Của_Ông_Đây.json",
+    "chapter_name": "Chương 22: 22: Mày Là Cái Thá Gì Mà Cũng Dám Động Vào Người Của Ông Đây",
+    "url": "https://truyenfull.io/truy-lac/chuong-22/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_23_23_Cậu_Đang_Giận_À.json",
+    "chapter_name": "Chương 23: 23: Cậu Đang Giận À",
+    "url": "https://truyenfull.io/truy-lac/chuong-23/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_24_Chương_24.json",
+    "chapter_name": "Chương 24: Chương 24",
+    "url": "https://truyenfull.io/truy-lac/chuong-24/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_25_25_Như_Là_Bị_Cái_Gì_Đó_Dọa_Nên_Nói_Mớ.json",
+    "chapter_name": "Chương 25: 25: Như Là Bị Cái Gì Đó Dọa Nên Nói Mớ",
+    "url": "https://truyenfull.io/truy-lac/chuong-25/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_26_26_Dường_Như_Cô_Lại_Nhìn_Thấy_Bí_Mật_Của_Lục_Tây_Kiêu.json",
+    "chapter_name": "Chương 26: 26: Dường Như Cô Lại Nhìn Thấy Bí Mật Của Lục Tây Kiêu",
+    "url": "https://truyenfull.io/truy-lac/chuong-26/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_27_27_Có_Muốn_Yêu_Đương_Với_Tôi_Không.json",
+    "chapter_name": "Chương 27: 27: Có Muốn Yêu Đương Với Tôi Không",
+    "url": "https://truyenfull.io/truy-lac/chuong-27/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_28_28_Bạn_Trai.json",
+    "chapter_name": "Chương 28: 28: Bạn Trai",
+    "url": "https://truyenfull.io/truy-lac/chuong-28/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_29_29_Hôn_Một_Cái_Anh_Sẽ_Tha_Thứ_Cho_Em.json",
+    "chapter_name": "Chương 29: 29: Hôn Một Cái Anh Sẽ Tha Thứ Cho Em",
+    "url": "https://truyenfull.io/truy-lac/chuong-29/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_30_30_Tiến_Bộ_Vài_Bậc_Là_Có_Thể_Hôn_Em.json",
+    "chapter_name": "Chương 30: 30: Tiến Bộ Vài Bậc Là Có Thể Hôn Em",
+    "url": "https://truyenfull.io/truy-lac/chuong-30/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_31_31_Bàn_Tay_Lạnh_Như_Băng_Được_Sự_Ấm_Áp_Bao_Trùm.json",
+    "chapter_name": "Chương 31: 31: Bàn Tay Lạnh Như Băng Được Sự Ấm Áp Bao Trùm",
+    "url": "https://truyenfull.io/truy-lac/chuong-31/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_32_32_Phá_Vỡ.json",
+    "chapter_name": "Chương 32: 32: Phá Vỡ",
+    "url": "https://truyenfull.io/truy-lac/chuong-32/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_33_33_Vãn_Vãn_Đêm_Bình_An_Vui_Vẻ_Lễ_Giáng_Sinh_Vui_Vẻ.json",
+    "chapter_name": "Chương 33: 33: Vãn Vãn Đêm Bình An Vui Vẻ Lễ Giáng Sinh Vui Vẻ",
+    "url": "https://truyenfull.io/truy-lac/chuong-33/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_34_34_Nhưng_Có_Anh.json",
+    "chapter_name": "Chương 34: 34: Nhưng Có Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-34/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_35_35_Gọi_Anh.json",
+    "chapter_name": "Chương 35: 35: Gọi Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-35/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_36_36_Chu_Vãn_Chúng_Ta_Đi_Ngắm_Tuyết_Đi.json",
+    "chapter_name": "Chương 36: 36: Chu Vãn Chúng Ta Đi Ngắm Tuyết Đi",
+    "url": "https://truyenfull.io/truy-lac/chuong-36/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_37_37_Sau_Này_Năm_Mới_Mỗi_Năm_Đều_Trải_Qua_Với_Anh_Đi.json",
+    "chapter_name": "Chương 37: 37: Sau Này Năm Mới Mỗi Năm Đều Trải Qua Với Anh Đi",
+    "url": "https://truyenfull.io/truy-lac/chuong-37/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_38_38_Tất_Cả_Dường_Như_Được_Nối_Lại_Với_Nhau_Bằng_Một_Sợi_Dây.json",
+    "chapter_name": "Chương 38: 38: Tất Cả Dường Như Được Nối Lại Với Nhau Bằng Một Sợi Dây",
+    "url": "https://truyenfull.io/truy-lac/chuong-38/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_39_39_Chu_Vãn_Có_Người_Nào_Yêu_Đương_Như_Em_Không.json",
+    "chapter_name": "Chương 39: 39: Chu Vãn Có Người Nào Yêu Đương Như Em Không",
+    "url": "https://truyenfull.io/truy-lac/chuong-39/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_40_40_Nói_Cho_Cô_Biết_Anh_Thích_Cô_Bao_Nhiêu.json",
+    "chapter_name": "Chương 40: 40: Nói Cho Cô Biết Anh Thích Cô Bao Nhiêu",
+    "url": "https://truyenfull.io/truy-lac/chuong-40/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_41_41_Anh_Sẽ_Lớn_Lên_Cùng_Em.json",
+    "chapter_name": "Chương 41: 41: Anh Sẽ Lớn Lên Cùng Em",
+    "url": "https://truyenfull.io/truy-lac/chuong-41/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_42_42_Chu_Vãn_Sinh_Nhật_Tuổi_17_Vui_Vẻ.json",
+    "chapter_name": "Chương 42: 42: Chu Vãn Sinh Nhật Tuổi 17 Vui Vẻ",
+    "url": "https://truyenfull.io/truy-lac/chuong-42/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_43_43_Sợ_Lãng_Tử_Cuối_Cùng_Cũng_Quay_Đầu.json",
+    "chapter_name": "Chương 43: 43: Sợ Lãng Tử Cuối Cùng Cũng Quay Đầu",
+    "url": "https://truyenfull.io/truy-lac/chuong-43/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_44_44_Giữ_Lại_Làm_Kỷ_Niệm_Cuối_Cùng_Của_Cô.json",
+    "chapter_name": "Chương 44: 44: Giữ Lại Làm Kỷ Niệm Cuối Cùng Của Cô",
+    "url": "https://truyenfull.io/truy-lac/chuong-44/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_45_45_Con_Gái_Là_Chu_Vãn_Vãn_Trong_Vãn_Hồi.json",
+    "chapter_name": "Chương 45: 45: Con Gái Là Chu Vãn Vãn Trong Vãn Hồi",
+    "url": "https://truyenfull.io/truy-lac/chuong-45/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_46_46_Đừng_Quay_Đầu_Lục_Tây_Kiêu.json",
+    "chapter_name": "Chương 46: 46: Đừng Quay Đầu Lục Tây Kiêu",
+    "url": "https://truyenfull.io/truy-lac/chuong-46/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_47_47_Một_Cô_Bé_17_Tuổi_Đã_Có_Can_Đảm_Uy_Hiếp_Anh.json",
+    "chapter_name": "Chương 47: 47: Một Cô Bé 17 Tuổi Đã Có Can Đảm Uy Hiếp Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-47/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_48_48_Nếu_Mọi_Người_Biết_Quan_Hệ_Của_Hai_Đứa_Người_Ta_Sẽ_Nói_Gì.json",
+    "chapter_name": "Chương 48: 48: Nếu Mọi Người Biết Quan Hệ Của Hai Đứa Người Ta Sẽ Nói Gì",
+    "url": "https://truyenfull.io/truy-lac/chuong-48/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_49_49_Anh_Trai.json",
+    "chapter_name": "Chương 49: 49: Anh Trai",
+    "url": "https://truyenfull.io/truy-lac/chuong-49/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_50_50_Chỉ_Cần_Em_Nói_Một_Câu_Yêu_Anh_Anh_Sẽ_Tha_Thứ_Cho_Em.json",
+    "chapter_name": "Chương 50: 50: Chỉ Cần Em Nói Một Câu Yêu Anh Anh Sẽ Tha Thứ Cho Em",
+    "url": "https://truyenfull.io/truy-lac/chuong-50/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_51_51_Chu_Vãn_Em_Còn_Dám_Xuất_Hiện.json",
+    "chapter_name": "Chương 51: 51: Chu Vãn Em Còn Dám Xuất Hiện",
+    "url": "https://truyenfull.io/truy-lac/chuong-51/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_52_52_Lại_Lần_Nữa_Dây_Dưa_Không_Thôi.json",
+    "chapter_name": "Chương 52: 52: Lại Lần Nữa Dây Dưa Không Thôi",
+    "url": "https://truyenfull.io/truy-lac/chuong-52/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_53_53_Đi_Theo_Tôi_Tôi_Trả_Tiền_Cho_Em.json",
+    "chapter_name": "Chương 53: 53: Đi Theo Tôi Tôi Trả Tiền Cho Em",
+    "url": "https://truyenfull.io/truy-lac/chuong-53/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_54_54_Chu_Vãn_Gọi_Anh_Trai.json",
+    "chapter_name": "Chương 54: 54: Chu Vãn Gọi Anh Trai",
+    "url": "https://truyenfull.io/truy-lac/chuong-54/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_55_55_Quá_Khứ.json",
+    "chapter_name": "Chương 55: 55: Quá Khứ",
+    "url": "https://truyenfull.io/truy-lac/chuong-55/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_56_56_Nhưng_Vinh_Quang_Và_Ánh_Sáng_Của_Anh_Đều_Là_Chu_Vãn_Ban_Cho.json",
+    "chapter_name": "Chương 56: 56: Nhưng Vinh Quang Và Ánh Sáng Của Anh Đều Là Chu Vãn Ban Cho",
+    "url": "https://truyenfull.io/truy-lac/chuong-56/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_57_57_Tình_Yêu_Của_Một_Chàng_Trai_Không_Thể_Cân_Đo_Không_Thể_Đong_Đếm.json",
+    "chapter_name": "Chương 57: 57: Tình Yêu Của Một Chàng Trai Không Thể Cân Đo Không Thể Đong Đếm",
+    "url": "https://truyenfull.io/truy-lac/chuong-57/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_58_58_Anh_Mượn_Men_Rượu_Tuy_Say_Nhưng_Lại_Tỉnh_Táo.json",
+    "chapter_name": "Chương 58: 58: Anh Mượn Men Rượu Tuy Say Nhưng Lại Tỉnh Táo",
+    "url": "https://truyenfull.io/truy-lac/chuong-58/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_59_59_Ngủ_Với_Tôi_Xong_Còn_Muốn_Trở_Mặt.json",
+    "chapter_name": "Chương 59: 59: Ngủ Với Tôi Xong Còn Muốn Trở Mặt",
+    "url": "https://truyenfull.io/truy-lac/chuong-59/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_60_60_Vậy_Làm_Lại_Hết_Tất_Cả_Một_Lần_Nữa.json",
+    "chapter_name": "Chương 60: 60: Vậy Làm Lại Hết Tất Cả Một Lần Nữa",
+    "url": "https://truyenfull.io/truy-lac/chuong-60/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_61_61_Đúng_Vậy_Có_Anh_Nên_Cái_Gì_Em_Cũng_Có.json",
+    "chapter_name": "Chương 61: 61: Đúng Vậy Có Anh Nên Cái Gì Em Cũng Có",
+    "url": "https://truyenfull.io/truy-lac/chuong-61/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_62_Chương_62.json",
+    "chapter_name": "Chương 62: Chương 62",
+    "url": "https://truyenfull.io/truy-lac/chuong-62/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_63_63_Dỗ_Anh_Đi.json",
+    "chapter_name": "Chương 63: 63: Dỗ Anh Đi",
+    "url": "https://truyenfull.io/truy-lac/chuong-63/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_64_64_Vì_Em_Là_Đích_Đến_Mà_Anh_Đã_Theo_Đuổi_Suốt_Cuộc_Đời.json",
+    "chapter_name": "Chương 64: 64: Vì Em Là Đích Đến Mà Anh Đã Theo Đuổi Suốt Cuộc Đời",
+    "url": "https://truyenfull.io/truy-lac/chuong-64/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_65_65_Chỉ_Có_Anh_Là_Đang_Khóc.json",
+    "chapter_name": "Chương 65: 65: Chỉ Có Anh Là Đang Khóc",
+    "url": "https://truyenfull.io/truy-lac/chuong-65/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_66_66_Cô_Nhìn_Thấy_Hình_Xăm_Trên_Xương_Quai_Xanh_Của_Anh.json",
+    "chapter_name": "Chương 66: 66: Cô Nhìn Thấy Hình Xăm Trên Xương Quai Xanh Của Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-66/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_67_Chương_67.json",
+    "chapter_name": "Chương 67: Chương 67",
+    "url": "https://truyenfull.io/truy-lac/chuong-67/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_68_68_Em_Yêu_Anh_Lục_Tây_Kiêu.json",
+    "chapter_name": "Chương 68: 68: Em Yêu Anh Lục Tây Kiêu",
+    "url": "https://truyenfull.io/truy-lac/chuong-68/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_69_69_Em_Là_Ước_Mơ_Duy_Nhất_Của_Anh.json",
+    "chapter_name": "Chương 69: 69: Em Là Ước Mơ Duy Nhất Của Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-69/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_70_Chương_70.json",
+    "chapter_name": "Chương 70: Chương 70",
+    "url": "https://truyenfull.io/truy-lac/chuong-70/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_71_71_Có_Phải_Em_Nên_Bồi_Thường_Cho_Anh_Trước_Không.json",
+    "chapter_name": "Chương 71: 71: Có Phải Em Nên Bồi Thường Cho Anh Trước Không",
+    "url": "https://truyenfull.io/truy-lac/chuong-71/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_72_72_Đây_Là_Bức_Ảnh_Chụp_Chung_Đầu_Tiên_Của_Cô_Và_Lục_Tây_Kiêu.json",
+    "chapter_name": "Chương 72: 72: Đây Là Bức Ảnh Chụp Chung Đầu Tiên Của Cô Và Lục Tây Kiêu",
+    "url": "https://truyenfull.io/truy-lac/chuong-72/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_73_73_Chu_Vãn_Là_Cơn_Nghiện_Của_Anh_Cũng_Là_Thuốc_Của_Anh.json",
+    "chapter_name": "Chương 73: 73: Chu Vãn Là Cơn Nghiện Của Anh Cũng Là Thuốc Của Anh",
+    "url": "https://truyenfull.io/truy-lac/chuong-73/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_74_74_15082013_Lục_Tây_Kiêu_Mộng_Đẹp_Trở_Thành_Sự_Thật.json",
+    "chapter_name": "Chương 74: 74: 15082013 Lục Tây Kiêu Mộng Đẹp Trở Thành Sự Thật",
+    "url": "https://truyenfull.io/truy-lac/chuong-74/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_75_Bởi_vì_có_em_ở_đây_anh_mới_có_thể_nhìn_thấy_thế_gian_này_một_lần_nữa.json",
+    "chapter_name": "Chương 75: Bởi vì có em ở đây, anh mới có thể nhìn thấy thế gian này một lần nữa",
+    "url": "https://truyenfull.io/truy-lac/chuong-75/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_76_Anh_Muốn_Làm_Rồi.json",
+    "chapter_name": "Chương 76: Anh Muốn Làm Rồi",
+    "url": "https://truyenfull.io/truy-lac/chuong-76/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_77_Xăm_một_hình_xăm_đỏ_tươi.json",
+    "chapter_name": "Chương 77: Xăm một hình xăm đỏ tươi",
+    "url": "https://truyenfull.io/truy-lac/chuong-77/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_78_Em_sẽ_không_bao_giờ_bỏ_anh_lại_một_mình_nữa.json",
+    "chapter_name": "Chương 78: Em sẽ không bao giờ bỏ anh lại một mình nữa",
+    "url": "https://truyenfull.io/truy-lac/chuong-78/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_79_Nếu_như_em_cầu_hôn_anh_anh_có_vui_không.json",
+    "chapter_name": "Chương 79: “Nếu như… em cầu hôn anh… anh có vui không?”",
+    "url": "https://truyenfull.io/truy-lac/chuong-79/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_80_Gió_nâng_vạt_áo_anh_mang_theo_ánh_sáng_duy_nhất_của_thiếu_niên.json",
+    "chapter_name": "Chương 80: Gió nâng vạt áo anh, mang theo ánh sáng duy nhất của thiếu niên",
+    "url": "https://truyenfull.io/truy-lac/chuong-80/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_81_Chúng_ta_cùng_nhau_trồng_hoa_dưới_địa_ngục.json",
+    "chapter_name": "Chương 81: Chúng ta cùng nhau trồng hoa dưới địa ngục",
+    "url": "https://truyenfull.io/truy-lac/chuong-81/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_82_Ngoại_truyện_1_Một_giấc_mơ_không_ai_hay_biết.json",
+    "chapter_name": "Chương 82: Ngoại truyện 1: Một giấc mơ không ai hay biết",
+    "url": "https://truyenfull.io/truy-lac/chuong-82/"
+  },
+  {
+    "path": "data/Trụy_Lạc/Chương_83_Ngoại_truyện_2_Ba_năm_sau.json",
+    "chapter_name": "Chương 83: Ngoại truyện 2: Ba năm sau",
+    "url": "https://truyenfull.io/truy-lac/chuong-83/"
+  }
+]
