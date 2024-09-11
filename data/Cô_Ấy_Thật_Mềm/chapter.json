@@ -1,0 +1,677 @@
+[
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_1_Chi_Một_Ngàn_Vạn_Để_Tìm_Đàn_Ông.json",
+    "chapter_name": "Chương 1: Chi Một Ngàn Vạn Để Tìm Đàn Ông",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-1/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_2_Uống_Say.json",
+    "chapter_name": "Chương 2: Uống Say",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-2/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_3_Thuốc_Tránh_Thai_Khẩn_Cấp.json",
+    "chapter_name": "Chương 3: Thuốc Tránh Thai Khẩn Cấp",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-3/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_4_Từ_Chối.json",
+    "chapter_name": "Chương 4: Từ Chối",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-4/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_5_Nôn.json",
+    "chapter_name": "Chương 5: Nôn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-5/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_6_Bị_Trêu_Chọc.json",
+    "chapter_name": "Chương 6: Bị Trêu Chọc",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-6/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_7_Ái_Muội.json",
+    "chapter_name": "Chương 7: Ái Muội",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-7/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_8_Phân_Rõ_Quan_Hệ.json",
+    "chapter_name": "Chương 8: Phân Rõ Quan Hệ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-8/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_9_Suốt_Một_Đêm_Lăn_Lộn.json",
+    "chapter_name": "Chương 9: Suốt Một Đêm Lăn Lộn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-9/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_10_Muốn_Ngủ_Thêm_Lần_Nữa.json",
+    "chapter_name": "Chương 10: Muốn Ngủ Thêm Lần Nữa",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-10/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_11_Xem_Mắt.json",
+    "chapter_name": "Chương 11: Xem Mắt",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-11/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_12_Ám_Chỉ_Ái_Muội.json",
+    "chapter_name": "Chương 12: Ám Chỉ Ái Muội",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-12/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_13_Duyên_Phận.json",
+    "chapter_name": "Chương 13: Duyên Phận",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-13/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_14_Tiểu_Bảo_Bảo.json",
+    "chapter_name": "Chương 14: Tiểu Bảo Bảo",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-14/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_15_Làm_Bạn_Gái.json",
+    "chapter_name": "Chương 15: Làm Bạn Gái",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-15/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_16_Con_Dâu.json",
+    "chapter_name": "Chương 16: Con Dâu",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-16/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_17_Không_Biết_Xấu_Hổ.json",
+    "chapter_name": "Chương 17: Không Biết Xấu Hổ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-17/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_18_Ám_Chỉ.json",
+    "chapter_name": "Chương 18: Ám Chỉ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-18/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-19/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_20.json",
+    "chapter_name": "Chương 20",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-20/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_21_Tán_Tỉnh.json",
+    "chapter_name": "Chương 21: Tán Tỉnh",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-21/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_22_Cầm_Thú.json",
+    "chapter_name": "Chương 22: Cầm Thú",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-22/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_23_Bệnh_Viện_Phụ_Sản.json",
+    "chapter_name": "Chương 23: Bệnh Viện Phụ Sản",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-23/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_24_Phá_Thai.json",
+    "chapter_name": "Chương 24: Phá Thai",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-24/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_25_Xóa_Sạch_Đứa_Bé.json",
+    "chapter_name": "Chương 25: Xóa Sạch Đứa Bé",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-25/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_26_Không_Mang_Thai.json",
+    "chapter_name": "Chương 26: Không Mang Thai",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-26/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_27_Hôn.json",
+    "chapter_name": "Chương 27: Hôn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-27/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_28_Ngủ_Chung.json",
+    "chapter_name": "Chương 28: Ngủ Chung",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-28/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_29_Phản_Bội.json",
+    "chapter_name": "Chương 29: Phản Bội",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-29/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_30_Biến_Thái.json",
+    "chapter_name": "Chương 30: Biến Thái",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-30/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_31_Chị_Dâu.json",
+    "chapter_name": "Chương 31: Chị Dâu",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-31/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_32_Quan_Hệ_Bất_Chính.json",
+    "chapter_name": "Chương 32: Quan Hệ Bất Chính",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-32/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_33_Hôn.json",
+    "chapter_name": "Chương 33: Hôn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-33/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_34_Cầu_Hôn.json",
+    "chapter_name": "Chương 34: Cầu Hôn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-34/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_35_Cô_Vợ_Nhỏ.json",
+    "chapter_name": "Chương 35: Cô Vợ Nhỏ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-35/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_36_Lưu_Manh.json",
+    "chapter_name": "Chương 36: Lưu Manh",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-36/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_37_Lợi_Ích.json",
+    "chapter_name": "Chương 37: Lợi Ích",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-37/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_38_Nội_Y.json",
+    "chapter_name": "Chương 38: Nội Y",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-38/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_39_Bình_Đẳng.json",
+    "chapter_name": "Chương 39: Bình Đẳng",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-39/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_40_Kiều_Doãn_Yên.json",
+    "chapter_name": "Chương 40: Kiều Doãn Yên",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-40/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_41_Bạo_Hành.json",
+    "chapter_name": "Chương 41: Bạo Hành",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-41/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_42_Xin_Lỗi.json",
+    "chapter_name": "Chương 42: Xin Lỗi",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-42/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_43_Làm_Phim.json",
+    "chapter_name": "Chương 43: Làm Phim",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-43/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_44_Quỷ_Ấu_Trĩ.json",
+    "chapter_name": "Chương 44: Quỷ Ấu Trĩ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-44/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_45_Ngủ_Riêng.json",
+    "chapter_name": "Chương 45: Ngủ Riêng",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-45/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_46_Chu_Thần_Hưng.json",
+    "chapter_name": "Chương 46: Chu Thần Hưng",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-46/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_47_Chúa_Lươn_Phó_Thời_Lễ.json",
+    "chapter_name": "Chương 47: Chúa Lươn – Phó Thời Lễ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-47/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_48_Cảm_Ơn_Chồng.json",
+    "chapter_name": "Chương 48: Cảm Ơn Chồng",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-48/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_49_Em_Dâu.json",
+    "chapter_name": "Chương 49: Em Dâu",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-49/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_50_Ghen.json",
+    "chapter_name": "Chương 50: Ghen",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-50/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_51_Phó_Gia_Trọng_Nam_Khinh_Nữ.json",
+    "chapter_name": "Chương 51: Phó Gia Trọng Nam Khinh Nữ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-51/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_52_Khương_Từ_Bắt_Gian.json",
+    "chapter_name": "Chương 52: Khương Từ… Bắt Gian",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-52/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_53_Bán_Thân.json",
+    "chapter_name": "Chương 53: Bán Thân",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-53/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_54_Đường_Hàm_Hàm_Đóng_Nữ_Chính.json",
+    "chapter_name": "Chương 54: Đường Hàm Hàm Đóng Nữ Chính",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-54/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_55_Cướp_Diễn.json",
+    "chapter_name": "Chương 55: Cướp Diễn",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-55/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_56_Phó_Thời_Lễ_Muốn_Đánh_Khương_Từ.json",
+    "chapter_name": "Chương 56: Phó Thời Lễ Muốn Đánh Khương Từ",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-56/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-57/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-58/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-59/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-60/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-61/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-62/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-63/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-64/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-65/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-66/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-67/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-68/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-69/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-70/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-71/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-72/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-73/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-74/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-75/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-76/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-77/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-78/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-79/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-80/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-81/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-82/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-83/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-84/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-85/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-86/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-87/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-88/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-89/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-90/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-91/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-92/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-93/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-94/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-95/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-96/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-97/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-98/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-99/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-100/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-101/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-102/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-103/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-104/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-105/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-106/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-107/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-108/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_109.json",
+    "chapter_name": "Chương 109",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-109/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_110.json",
+    "chapter_name": "Chương 110",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-110/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-111/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_112.json",
+    "chapter_name": "Chương 112",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-112/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_113.json",
+    "chapter_name": "Chương 113",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-113/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_114.json",
+    "chapter_name": "Chương 114",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-114/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_115.json",
+    "chapter_name": "Chương 115",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-115/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_116.json",
+    "chapter_name": "Chương 116",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-116/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_117.json",
+    "chapter_name": "Chương 117",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-117/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_118.json",
+    "chapter_name": "Chương 118",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-118/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_119.json",
+    "chapter_name": "Chương 119",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-119/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_120.json",
+    "chapter_name": "Chương 120",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-120/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_121.json",
+    "chapter_name": "Chương 121",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-121/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_122.json",
+    "chapter_name": "Chương 122",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-122/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_123.json",
+    "chapter_name": "Chương 123",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-123/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_124.json",
+    "chapter_name": "Chương 124",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-124/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_125.json",
+    "chapter_name": "Chương 125",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-125/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_126.json",
+    "chapter_name": "Chương 126",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-126/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_127.json",
+    "chapter_name": "Chương 127",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-127/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_128.json",
+    "chapter_name": "Chương 128",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-128/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_129.json",
+    "chapter_name": "Chương 129",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-129/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_130.json",
+    "chapter_name": "Chương 130",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-130/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_131.json",
+    "chapter_name": "Chương 131",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-131/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_132.json",
+    "chapter_name": "Chương 132",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-132/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_133.json",
+    "chapter_name": "Chương 133",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-133/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_134_Ngoại_Truyện_1.json",
+    "chapter_name": "Chương 134: Ngoại Truyện 1",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-134/"
+  },
+  {
+    "path": "data/Cô_Ấy_Thật_Mềm/Chương_135_Ngoại_Truyện_2.json",
+    "chapter_name": "Chương 135: Ngoại Truyện 2",
+    "url": "https://truyenfull.io/co-ay-that-mem/chuong-135/"
+  }
+]
