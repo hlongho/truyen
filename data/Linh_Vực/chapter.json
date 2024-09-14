@@ -9998,5 +9998,535 @@
     "path": "data/Linh_Vực/Chương_2010_Nữ_hoàng.json",
     "chapter_name": "Chương 2010: Nữ hoàng",
     "url": "https://truyenfull.io/linh-vuc/chuong-2010/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2011_Không_giảng_đạo_lý.json",
+    "chapter_name": "Chương 2011: Không giảng đạo lý!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2011/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2012_Ngăn_cơn_sóng_dữ.json",
+    "chapter_name": "Chương 2012: Ngăn cơn sóng dữ",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2012/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2013_Chân_thần_duy_nhất_1.json",
+    "chapter_name": "Chương 2013: Chân thần duy nhất! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2013/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2014_Chân_thần_duy_nhất_2.json",
+    "chapter_name": "Chương 2014: Chân thần duy nhất! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2014/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2015_Tinh_không_tiêu_điểm.json",
+    "chapter_name": "Chương 2015: Tinh không tiêu điểm",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2015/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2016_Tầng_tầng_áp_lực.json",
+    "chapter_name": "Chương 2016: Tầng tầng áp lực",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2016/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2017_Huyết_mạch_tiến_giai.json",
+    "chapter_name": "Chương 2017: Huyết mạch tiến giai",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2017/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2018_Kiên_hậu_ban_để.json",
+    "chapter_name": "Chương 2018: Kiên hậu ban để",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2018/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2019_Người_khiêu_chiến.json",
+    "chapter_name": "Chương 2019: Người khiêu chiến",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2019/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2020_Quân_chủ_thứ_tám.json",
+    "chapter_name": "Chương 2020: Quân chủ thứ tám!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2020/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2021_Quân_chủ_chi_tranh.json",
+    "chapter_name": "Chương 2021: Quân chủ chi tranh",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2021/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2022_Huyết_chi_khát_vọng.json",
+    "chapter_name": "Chương 2022: Huyết chi khát vọng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2022/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2023_Ngươi_trốn_không_thoát_đâu.json",
+    "chapter_name": "Chương 2023: Ngươi trốn không thoát đâu!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2023/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2024_A_Thập_Nạp_Tư_do_dự.json",
+    "chapter_name": "Chương 2024: A Thập Nạp Tư do dự...",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2024/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2025_Khủng_hoảng_lan_tràn.json",
+    "chapter_name": "Chương 2025: Khủng hoảng lan tràn",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2025/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2026_Thông_qua_khảo_nghiệm_1.json",
+    "chapter_name": "Chương 2026: Thông qua khảo nghiệm! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2026/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2027_Thông_qua_khảo_nghiệm_2.json",
+    "chapter_name": "Chương 2027: Thông qua khảo nghiệm! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2027/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2028_Luyện_hóa.json",
+    "chapter_name": "Chương 2028: Luyện hóa",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2028/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2029_Hàng_lâm.json",
+    "chapter_name": "Chương 2029: Hàng lâm!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2029/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2030_Dọn_dẹp.json",
+    "chapter_name": "Chương 2030: Dọn dẹp!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2030/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2031_Hoang_mang.json",
+    "chapter_name": "Chương 2031: Hoang mang",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2031/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2032_Người_cứu_hoả.json",
+    "chapter_name": "Chương 2032: Người cứu hoả",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2032/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2033_Đồ_Sát_1.json",
+    "chapter_name": "Chương 2033: Đồ Sát (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2033/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2034_Đồ_Sát_2.json",
+    "chapter_name": "Chương 2034: Đồ Sát (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2034/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2035_Tiêu_điểm.json",
+    "chapter_name": "Chương 2035: Tiêu điểm",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2035/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2036_Nội_bộ_mâu_thuẫn.json",
+    "chapter_name": "Chương 2036: Nội bộ mâu thuẫn",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2036/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2037_Chứng_minh_bản_thân.json",
+    "chapter_name": "Chương 2037: Chứng minh bản thân!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2037/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2038_Rục_rịch_muốn_động.json",
+    "chapter_name": "Chương 2038: Rục rịch muốn động",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2038/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2039_Bị_đoạt_tiên_cơ.json",
+    "chapter_name": "Chương 2039: Bị đoạt tiên cơ!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2039/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2040_Huyết_đế_điên_cuồng.json",
+    "chapter_name": "Chương 2040: Huyết đế điên cuồng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2040/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2041_Máu_hỗn_loạn.json",
+    "chapter_name": "Chương 2041: Máu hỗn loạn",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2041/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2042_Ngươi_suy_nghĩ_nhiều_quá_rồi.json",
+    "chapter_name": "Chương 2042: Ngươi suy nghĩ nhiều quá rồi?",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2042/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2043_Biến_số.json",
+    "chapter_name": "Chương 2043: Biến số",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2043/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2044_Chúng_Thần_điện.json",
+    "chapter_name": "Chương 2044: Chúng Thần điện",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2044/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2045_Khác_thường_1.json",
+    "chapter_name": "Chương 2045: Khác thường (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2045/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2046_Khác_thường_2.json",
+    "chapter_name": "Chương 2046: Khác thường (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2046/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2047_Hồn_tộc_chi_biến.json",
+    "chapter_name": "Chương 2047: Hồn tộc chi biến",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2047/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2048_Luyện_Ngục_thất_quân_chủ.json",
+    "chapter_name": "Chương 2048: Luyện Ngục thất quân chủ!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2048/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2049_Thực_hiện_sứ_mệnh.json",
+    "chapter_name": "Chương 2049: Thực hiện sứ mệnh!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2049/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2050_Giãy_dụa.json",
+    "chapter_name": "Chương 2050: Giãy dụa!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2050/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2051_Dung_Nham_Luyện_Ngục_1.json",
+    "chapter_name": "Chương 2051: Dung Nham Luyện Ngục! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2051/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2052_Dung_Nham_Luyện_Ngục_2.json",
+    "chapter_name": "Chương 2052: Dung Nham Luyện Ngục! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2052/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2053_Cường_thủ_hào_đoạt.json",
+    "chapter_name": "Chương 2053: Cường thủ hào đoạt!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2053/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2054_Thân_phận_nhận_đồng.json",
+    "chapter_name": "Chương 2054: Thân phận nhận đồng",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2054/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2055_Thịnh_huống.json",
+    "chapter_name": "Chương 2055: Thịnh huống!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2055/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2056_Động_thủ_trước.json",
+    "chapter_name": "Chương 2056: Động thủ trước!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2056/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2057_Ác_chiến_1.json",
+    "chapter_name": "Chương 2057: Ác chiến! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2057/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2058_Ác_chiến_2.json",
+    "chapter_name": "Chương 2058: Ác chiến! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2058/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2059_Vết_rạn_hồn_đàn.json",
+    "chapter_name": "Chương 2059: Vết rạn hồn đàn",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2059/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2060_Tiên_trảm_phân_thân.json",
+    "chapter_name": "Chương 2060: Tiên trảm phân thân!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2060/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2061_Thay_đổi_bất_ngờ.json",
+    "chapter_name": "Chương 2061: Thay đổi bất ngờ",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2061/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2062_Đoạt_lại_quyền_nắm_trong_tay_1.json",
+    "chapter_name": "Chương 2062: Đoạt lại quyền nắm trong tay! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2062/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2063_Đoạt_lại_quyền_nắm_trong_tay_2.json",
+    "chapter_name": "Chương 2063: Đoạt lại quyền nắm trong tay! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2063/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2064_Đoạt_lại.json",
+    "chapter_name": "Chương 2064: Đoạt lại!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2064/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2065_Điên_cuồng_cắn_xé.json",
+    "chapter_name": "Chương 2065: Điên cuồng cắn xé!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2065/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2066_Choáng_váng_đầu_óc_rồi_sao.json",
+    "chapter_name": "Chương 2066: Choáng váng đầu óc rồi sao?",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2066/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2067_Ác_ma_thịnh_hội.json",
+    "chapter_name": "Chương 2067: Ác ma thịnh hội!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2067/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2068_Dư_uy_còn_đó.json",
+    "chapter_name": "Chương 2068: Dư uy còn đó!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2068/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2069_Tự_tìm_đường_chết.json",
+    "chapter_name": "Chương 2069: Tự tìm đường chết!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2069/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2070_Thiên_Khải_nhận_túng.json",
+    "chapter_name": "Chương 2070: Thiên Khải nhận túng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2070/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2071_Có_thể_xưng_vô_địch_1.json",
+    "chapter_name": "Chương 2071: Có thể xưng vô địch! (1)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2071/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2072_Có_thể_xưng_vô_địch_2.json",
+    "chapter_name": "Chương 2072: Có thể xưng vô địch! (2)",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2072/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2073_Cành_oliu_cho_ác_ma.json",
+    "chapter_name": "Chương 2073: Cành oliu cho ác ma!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2073/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2074_Hối_hận_lúc_trước_không_nên.json",
+    "chapter_name": "Chương 2074: Hối hận lúc trước không nên!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2074/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2075_Tinh_hà_đệ_nhất_nhân.json",
+    "chapter_name": "Chương 2075: Tinh hà đệ nhất nhân!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2075/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2076_Chỉ_thiếu_chút_nữa.json",
+    "chapter_name": "Chương 2076: Chỉ thiếu chút nữa",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2076/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2077_Ta_đến_rồi.json",
+    "chapter_name": "Chương 2077: Ta đến rồi!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2077/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2078_Tân_sinh.json",
+    "chapter_name": "Chương 2078: Tân sinh!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2078/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2079_Đáp_án.json",
+    "chapter_name": "Chương 2079: Đáp án",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2079/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2080_Liệt_Diễm_Diên_không_cam_lòng.json",
+    "chapter_name": "Chương 2080: Liệt Diễm Diên không cam lòng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2080/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2081_Người_giữ_cửa.json",
+    "chapter_name": "Chương 2081: Người giữ cửa!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2081/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2082_Hỏa_diễm_cuối_cùng.json",
+    "chapter_name": "Chương 2082: Hỏa diễm cuối cùng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2082/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2083_Trạng_thái_trống_rỗng.json",
+    "chapter_name": "Chương 2083: Trạng thái trống rỗng!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2083/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2084_Kết_thúc_một_thời_đại.json",
+    "chapter_name": "Chương 2084: Kết thúc một thời đại!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2084/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2085_Luyện_hóa.json",
+    "chapter_name": "Chương 2085: Luyện hóa!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2085/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2086_Tứ_sứ_đồ.json",
+    "chapter_name": "Chương 2086: Tứ sứ đồ!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2086/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2087_Hồn_giới.json",
+    "chapter_name": "Chương 2087: Hồn giới",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2087/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2088_Chủ_nhân_vực_sâu_mới.json",
+    "chapter_name": "Chương 2088: Chủ nhân vực sâu mới!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2088/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2089_Một_lời_đồn_đại.json",
+    "chapter_name": "Chương 2089: Một lời đồn đại!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2089/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2090_Tinh_hà_chi_biến.json",
+    "chapter_name": "Chương 2090: Tinh hà chi biến!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2090/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2091_Trí_giả.json",
+    "chapter_name": "Chương 2091: Trí giả?",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2091/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2092_Vấn_đề_khó_giải_quyết.json",
+    "chapter_name": "Chương 2092: Vấn đề khó giải quyết",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2092/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2093_Xin_tin_tưởng_ta.json",
+    "chapter_name": "Chương 2093: Xin tin tưởng ta!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2093/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2094_Cuộc_chiến_thứ_hai.json",
+    "chapter_name": "Chương 2094: Cuộc chiến thứ hai!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2094/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2095_Linh_hồn_đánh_cờ.json",
+    "chapter_name": "Chương 2095: Linh hồn đánh cờ!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2095/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2096_Tai_hoạ_phủ_xuống.json",
+    "chapter_name": "Chương 2096: Tai hoạ phủ xuống!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2096/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2097_Làm_rõ_sai_trái.json",
+    "chapter_name": "Chương 2097: Làm rõ sai trái",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2097/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2098_Trái_tim_tinh_hà.json",
+    "chapter_name": "Chương 2098: Trái tim tinh hà",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2098/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2099_Liên_thủ.json",
+    "chapter_name": "Chương 2099: Liên thủ",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2099/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2100_Khối_u_ác_tính.json",
+    "chapter_name": "Chương 2100: Khối u ác tính?",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2100/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2101_Gieo_gió_gặt_bão.json",
+    "chapter_name": "Chương 2101: Gieo gió gặt bão",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2101/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2102_Phản_kích.json",
+    "chapter_name": "Chương 2102: Phản kích!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2102/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2103_Chỗ_kinh_khủng_của_Tử_hồn.json",
+    "chapter_name": "Chương 2103: Chỗ kinh khủng của Tử hồn!",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2103/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2104_Điểm_cuối_hư_không.json",
+    "chapter_name": "Chương 2104: Điểm cuối hư không",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2104/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2105_Biến_huyễn_mạc_trắc.json",
+    "chapter_name": "Chương 2105: Biến huyễn mạc trắc",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2105/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2106_Chiến_tranh_toàn_diện.json",
+    "chapter_name": "Chương 2106: Chiến tranh toàn diện",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2106/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2107_Năng_lượng_không_biết.json",
+    "chapter_name": "Chương 2107: Năng lượng không biết",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2107/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2108_Tuyệt_cảnh_thự_quang.json",
+    "chapter_name": "Chương 2108: Tuyệt cảnh thự quang",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2108/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2109_Chuyển_cơ.json",
+    "chapter_name": "Chương 2109: Chuyển cơ",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2109/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2110_Một_phân_thành_hai.json",
+    "chapter_name": "Chương 2110: Một phân thành hai",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2110/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2111_Lực_hủy_diệt.json",
+    "chapter_name": "Chương 2111: Lực hủy diệt",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2111/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2112_Trợ_lực_mới.json",
+    "chapter_name": "Chương 2112: Trợ lực mới",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2112/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2113_Thân_phận_chân_thật_của_Tác_Mỗ_Nhĩ.json",
+    "chapter_name": "Chương 2113: Thân phận chân thật của Tác Mỗ Nhĩ",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2113/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2114_Linh_hồn_quấn_quanh.json",
+    "chapter_name": "Chương 2114: Linh hồn quấn quanh",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2114/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2115_Phản_kích_cuối_cùng.json",
+    "chapter_name": "Chương 2115: Phản kích cuối cùng",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2115/"
+  },
+  {
+    "path": "data/Linh_Vực/Chương_2116_Mở_ra_thời_đại_mới.json",
+    "chapter_name": "Chương 2116: Mở ra thời đại mới",
+    "url": "https://truyenfull.io/linh-vuc/chuong-2116/"
   }
 ]
