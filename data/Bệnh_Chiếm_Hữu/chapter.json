@@ -1,0 +1,732 @@
+[
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_1_Thiếu_niên_trầm_mặc_.json",
+    "chapter_name": "Chương 1: Thiếu niên trầm mặc 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_2_Cậu_ổn_chứ_.json",
+    "chapter_name": "Chương 2: \"Cậu ổn chứ?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_3_Nhịn_một_chút_tôi_sẽ_làm_nhẹ_thôi_.json",
+    "chapter_name": "Chương 3: \"Nhịn một chút, tôi sẽ làm nhẹ thôi.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_4_Bẩn_.json",
+    "chapter_name": "Chương 4: Bẩn 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-4/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_5_Cậuở_đây_cả_đêm_sao_.json",
+    "chapter_name": "Chương 5: \"Cậu...ở đây cả đêm sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-5/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_6_Cậu_có_thể_đưa_tôi_về_không_.json",
+    "chapter_name": "Chương 6: \"Cậu có thể đưa tôi về không?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-6/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_7_Cậu_chán_ghét_tôi_.json",
+    "chapter_name": "Chương 7: \"Cậu chán ghét tôi?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-7/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_8_Để_tôi_đưa_cậu_về_.json",
+    "chapter_name": "Chương 8: \"Để tôi đưa cậu về.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-8/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_9_Mua_thêm_bao_nhiêu_phần_đi_nữa_cũng_không_phải_do_cô_mua_П.json",
+    "chapter_name": "Chương 9: Mua thêm bao nhiêu phần đi nữa, cũng không phải do cô mua. П��",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-9/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_10_Hôm_nay_tôi_ăn_sáng_.json",
+    "chapter_name": "Chương 10: \"Hôm nay tôi ăn sáng.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-10/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_11_Chu_công_nói_tuổi_này_của_tôi_phải_nuôi_chiều_cao_.json",
+    "chapter_name": "Chương 11: \"Chu công nói, tuổi này của tôi phải nuôi chiều cao.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-11/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_12_Cậu_không_cho_phép_tôi_gỡ_ra_.json",
+    "chapter_name": "Chương 12: \"Cậu không cho phép tôi gỡ ra.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-12/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_13_Giấy_.json",
+    "chapter_name": "Chương 13: \"Giấy.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-13/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_14_Cậu_cũng_muốn_chơi_cầu_lông_sao_.json",
+    "chapter_name": "Chương 14: \"Cậu cũng muốn chơi cầu lông sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-14/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_15_Cậu_ấy_sẽ_không_tức_giận_.json",
+    "chapter_name": "Chương 15: \"Cậu ấy sẽ không tức giận.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-15/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_16_Đánh_nhau_.json",
+    "chapter_name": "Chương 16: Đánh nhau 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-16/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_17_Xử_lí_vết_thương_của_cậu_trước_.json",
+    "chapter_name": "Chương 17: \"Xử lí vết thương của cậu trước.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-17/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_18_Trần_Trì_nếu_không_buông_ra_tôi_sẽ_không_để_ý_cậu_nữa_.json",
+    "chapter_name": "Chương 18: \"Trần Trì, nếu không buông ra tôi sẽ không để ý cậu nữa.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-18/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_19_Nói_dối_.json",
+    "chapter_name": "Chương 19: Nói dối 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-19/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_20_Trần_trì_sinh_.json",
+    "chapter_name": "Chương 20: Trần trì sinh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-20/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_21_Cậu_cảm_thấy_tôi_ghê_tởm_sao_.json",
+    "chapter_name": "Chương 21: \"Cậu cảm thấy tôi ghê tởm sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-21/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_22_Cậu_muốn_bức_điên_tôi_sao_.json",
+    "chapter_name": "Chương 22: \"Cậu muốn bức điên tôi sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-22/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_23_Mình_có_thể_dạy_cậu_.json",
+    "chapter_name": "Chương 23: \"Mình có thể dạy cậu.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-23/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_24_Quỷ_hút_máu_.json",
+    "chapter_name": "Chương 24: Quỷ hút máu 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-24/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_25_Chúng_ta_xem_chung_.json",
+    "chapter_name": "Chương 25: \"Chúng ta xem chung.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-25/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_26_Trừ_cậu_tôi_không_muốn_xem_chung_với_ai_cả_.json",
+    "chapter_name": "Chương 26: \"Trừ cậu, tôi không muốn xem chung với ai cả.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-26/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_27_Cậu_đang_làm_nũng_sao_.json",
+    "chapter_name": "Chương 27: \"Cậu đang làm nũng sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-27/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_28_Vậy_tôi_có_được_cậu_khen_thưởng_cái_gì_không_.json",
+    "chapter_name": "Chương 28: \"Vậy tôi có được cậu khen thưởng cái gì không?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-28/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_29_Trần_Trì_chúng_ta_là_bạn_.json",
+    "chapter_name": "Chương 29: \"Trần Trì, chúng ta là bạn.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-29/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_30_Bởi_vì_cậu_.json",
+    "chapter_name": "Chương 30: \"Bởi vì cậu.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-30/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_31_Không_cần_giúp_tôi_.json",
+    "chapter_name": "Chương 31: \"Không cần giúp tôi.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-31/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_32_Đau_.json",
+    "chapter_name": "Chương 32: \"Đau\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-32/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_33_Vì_không_có_cô_bên_cạnh_П.json",
+    "chapter_name": "Chương 33: Vì không có cô bên cạnh. П��",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-33/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_34_Vậy_cậu_ta_thích_mày.json",
+    "chapter_name": "Chương 34: \"Vậy cậu ta thích mày?\"🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-34/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_35_Cậu_ghen_tị_đến_phát_điên_П.json",
+    "chapter_name": "Chương 35: Cậu ghen tị đến phát điên. П��",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-35/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_36_Người_trong_lòng_.json",
+    "chapter_name": "Chương 36: Người trong lòng 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-36/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_371_Tôi_sẽ_không_để_cho_ai_khi_dễ_cậu_ấy_1.json",
+    "chapter_name": "Chương 37-1: Tôi sẽ không để cho ai khi dễ cậu ấy 🌵 (1)",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-37-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_372_Tôi_sẽ_không_để_cho_ai_khi_dễ_cậu_ấy_2.json",
+    "chapter_name": "Chương 37-2: Tôi sẽ không để cho ai khi dễ cậu ấy 🌵 (2)",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-37-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_373_Tôi_sẽ_không_để_cho_ai_khi_dễ_cậu_ấy_3.json",
+    "chapter_name": "Chương 37-3: Tôi sẽ không để cho ai khi dễ cậu ấy 🌵 (3)",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-37-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_374_Ôn_Ôn_đừng_cười_với_hắn_.json",
+    "chapter_name": "Chương 37-4: \"Ôn Ôn, đừng cười với hắn...\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-37-4/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_381_Đừng_động_vào_cô_ấy_.json",
+    "chapter_name": "Chương 38-1: \"Đừng động vào cô ấy\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-38-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_382_Lưu_li_.json",
+    "chapter_name": "Chương 38-2: Lưu li 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-38-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_383_Đó_là_do_tôi_ghen_.json",
+    "chapter_name": "Chương 38-3: \"Đó là do tôi ghen\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-38-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_391_Bạn_gái_.json",
+    "chapter_name": "Chương 39-1: Bạn gái 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-39-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_392_Lớp_phó_kỉ_luật_.json",
+    "chapter_name": "Chương 39-2: Lớp phó kỉ luật 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-39-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_393_Ghen_ghét_.json",
+    "chapter_name": "Chương 39-3: Ghen ghét 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-39-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_401_Cô_xấu_.json",
+    "chapter_name": "Chương 40-1: \"Cô xấu\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-40-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_402_Không_được_chạm_vào_cô_ấy_.json",
+    "chapter_name": "Chương 40-2: \"Không được chạm vào cô ấy\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-40-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_403_Ôn_Ôn_em_thơm_quá_.json",
+    "chapter_name": "Chương 40-3: \"Ôn Ôn, em thơm quá!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-40-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_404_Lưỡng_tình_tương_duyệt_.json",
+    "chapter_name": "Chương 40-4: \"Lưỡng tình tương duyệt\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-40-4/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_411_Ôn_tư_sương_.json",
+    "chapter_name": "Chương 41-1: Ôn tư sương 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-41-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_412_Thích_anh_.json",
+    "chapter_name": "Chương 41-2: Thích anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-41-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_413_Em_không_phải_bạn_gái_của_anh_sao_.json",
+    "chapter_name": "Chương 41-3: \"Em không phải bạn gái của anh sao?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-41-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_414_Đưa_bạn_gái_về_nhà.json",
+    "chapter_name": "Chương 41-4: \"Đưa bạn gái về nhà.\"🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-41-4/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_421_Ôn_Ôn_anh_vẫn_luôn_nhìn_em_.json",
+    "chapter_name": "Chương 42-1: \"Ôn Ôn, anh vẫn luôn nhìn em!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-42-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_422_Bí_mật_.json",
+    "chapter_name": "Chương 42-2: \"Bí mật\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-42-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_423_Em_thích_anh_ở_điểm_gì_.json",
+    "chapter_name": "Chương 42-3: \"Em thích anh ở điểm gì?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-42-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_431_Em_ghen_à_.json",
+    "chapter_name": "Chương 43-1: \"Em ghen à?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-43-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_432_Phát_hiện_.json",
+    "chapter_name": "Chương 43-2: Phát hiện 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-43-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_433_Ôn_Ôn_em_không_ngoan.json",
+    "chapter_name": "Chương 43-3: \"Ôn Ôn, em không ngoan!\"🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-43-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_441_Không_được_gặp_em_anh_sẽ_chết_.json",
+    "chapter_name": "Chương 44-1: Không được gặp em, anh sẽ chết 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-44-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_442_Cậu_đẹp_cũng_không_đẹp_bằng_bạn_gái_của_tôi_.json",
+    "chapter_name": "Chương 44-2: \"Cậu đẹp, cũng không đẹp bằng bạn gái của tôi.\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-44-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_443_Ăn_ngon_.json",
+    "chapter_name": "Chương 44-3: \"Ăn ngon\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-44-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_451_Ôn_Ôn_anh_nhớ_em_lắm_.json",
+    "chapter_name": "Chương 45-1: Ôn Ôn, anh nhớ em lắm 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-45-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_452_Anh_ơi_em_nhớ_anh_lắm_.json",
+    "chapter_name": "Chương 45-2: \"Anh ơi, em nhớ anh lắm!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-45-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_461_Em_chỉ_được_cười_với_anh_.json",
+    "chapter_name": "Chương 46-1: \"Em chỉ được cười với anh!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-46-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_462_Em_cũng_trốn_không_thoát_.json",
+    "chapter_name": "Chương 46-2: \"Em cũng trốn không thoát!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-46-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_463_Trần_Trì_của_em_ngủ_ngon_.json",
+    "chapter_name": "Chương 46-3: \"Trần Trì của em, ngủ ngon!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-46-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_471_Đừng_lừa_gạt_em_.json",
+    "chapter_name": "Chương 47-1: \"Đừng lừa gạt em!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-47-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_472_Lừa_dối_.json",
+    "chapter_name": "Chương 47-2: Lừa dối 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-47-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_48_Chúng_ta_chia_tay_đi_.json",
+    "chapter_name": "Chương 48: \"Chúng ta chia tay đi!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-48/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_491_Đây_mới_là_bộ_dáng_chân_thật_của_anh_đúng_không.json",
+    "chapter_name": "Chương 49-1: \"Đây mới là bộ dáng chân thật của anh đúng không?\"🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-49-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_492_Đồ_Điên_.json",
+    "chapter_name": "Chương 49-2: \"Đồ Điên!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-49-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_501_Anh_đau_lắm_em_quan_tâm_anh_một_chút_được_không_.json",
+    "chapter_name": "Chương 50-1: \"Anh đau lắm, em quan tâm anh một chút được không?\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-50-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_502_Anh_chịu_không_nổi_.json",
+    "chapter_name": "Chương 50-2: \"Anh chịu không nổi!\" 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-50-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_511_Có_anh_bên_cạnh_em_không_sợ_nguy_hiểm_nữa_.json",
+    "chapter_name": "Chương 51-1: Có anh bên cạnh em không sợ nguy hiểm nữa! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-51-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_512_Hôn_.json",
+    "chapter_name": "Chương 51-2: Hôn 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-51-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_513_Ôn_Ôn_em_trốn_không_thoát_.json",
+    "chapter_name": "Chương 51-3: Ôn Ôn, em trốn không thoát! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-51-3/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_52_Bệnh_tâm_thần_.json",
+    "chapter_name": "Chương 52: Bệnh tâm thần 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-52/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_53_Lạnh_nhạt_.json",
+    "chapter_name": "Chương 53: Lạnh nhạt 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-53/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_54_Hiểu_lầm_.json",
+    "chapter_name": "Chương 54: Hiểu lầm 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-54/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_55_Anh_còn_yêu_em_không_.json",
+    "chapter_name": "Chương 55: Anh còn yêu em không? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-55/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_56_Cái_này_chính_là_do_cô_ấy_cắn_.json",
+    "chapter_name": "Chương 56: Cái này, chính là do cô ấy cắn! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-56/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_57_Anh_cam_tâm_tình_nguyện_bị_em_trói_lại_.json",
+    "chapter_name": "Chương 57: Anh cam tâm tình nguyện bị em trói lại 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-57/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_58_Trong_đầu_anh_chỉ_có_em_.json",
+    "chapter_name": "Chương 58: Trong đầu anh chỉ có em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-58/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_59_Em_không_chê_anh_.json",
+    "chapter_name": "Chương 59: Em không chê anh! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-59/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_60_Muốn_nhìn_thấy_em.json",
+    "chapter_name": "Chương 60: Muốn nhìn thấy em!🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-60/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_61_Muốn_được_em_an_ủi_.json",
+    "chapter_name": "Chương 61: Muốn được em an ủi! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-61/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_62_Chỉ_muốn_gặp_anh_.json",
+    "chapter_name": "Chương 62: Chỉ muốn gặp anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-62/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_63_Muốn_anh_ôm_.json",
+    "chapter_name": "Chương 63: Muốn anh ôm 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-63/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_64_Em_phải_ở_bên_anh_ấy_.json",
+    "chapter_name": "Chương 64: Em phải ở bên anh ấy! 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-64/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_65_Ôn_Ôn_đừng_khóc_.json",
+    "chapter_name": "Chương 65: Ôn Ôn, đừng khóc 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-65/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_66_Chia_rẽ_.json",
+    "chapter_name": "Chương 66: Chia rẽ 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-66/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_67_Tiên_nữ_.json",
+    "chapter_name": "Chương 67: Tiên nữ 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-67/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_68_Cả_đời_này_cũng_không_muốn_buông_tay_em_.json",
+    "chapter_name": "Chương 68: Cả đời này cũng không muốn buông tay em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-68/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_69_Em_muốn_anh_đau_lòng_đến_chết_mới_chịu_à_.json",
+    "chapter_name": "Chương 69: Em muốn anh đau lòng đến chết mới chịu à? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-69/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_70_Thích_dính_anh_.json",
+    "chapter_name": "Chương 70: Thích dính anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-70/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_711_Con_cảm_thấy_con_quan_trọng_bằng_gia_đình_cô_ta_sao_.json",
+    "chapter_name": "Chương 71-1: Con cảm thấy con quan trọng bằng gia đình cô ta sao? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-71-1/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_712_Con_xin_mẹ_cho_con_đi_gặp_anh_ấy_.json",
+    "chapter_name": "Chương 71-2: Con xin mẹ, cho con đi gặp anh ấy 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-71-2/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_72_Bảy_năm_.json",
+    "chapter_name": "Chương 72: Bảy năm 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-72/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_73_Bạn_trai_cũ_.json",
+    "chapter_name": "Chương 73: Bạn trai cũ 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-73/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_74_Văn_nhã_bại_hoại_.json",
+    "chapter_name": "Chương 74: Văn nhã bại hoại 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-74/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_75_Em_muốn_tôi_ôm_em_lên_.json",
+    "chapter_name": "Chương 75: Em muốn tôi ôm em lên? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-75/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_76_Không_cần_anh_giúp_.json",
+    "chapter_name": "Chương 76: Không cần anh giúp 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-76/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_77_Ôn_Ôn_của_anh_.json",
+    "chapter_name": "Chương 77: Ôn Ôn của anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-77/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_78_Ôn_Ôn_anh_rất_nhớ_em_.json",
+    "chapter_name": "Chương 78: Ôn Ôn, anh rất nhớ em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-78/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_79_Cho_dù_em_không_trang_điểm_vẫn_rất_xinh_đẹp_.json",
+    "chapter_name": "Chương 79: Cho dù em không trang điểm vẫn rất xinh đẹp 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-79/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_80_Tôi_đã_có_bạn_trai_rồi_.json",
+    "chapter_name": "Chương 80: Tôi đã có bạn trai rồi 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-80/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_81_Hãm_hại_.json",
+    "chapter_name": "Chương 81: Hãm hại 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-81/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_82_Chỗ_dựa_cho_em_.json",
+    "chapter_name": "Chương 82: Chỗ dựa cho em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-82/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_83_Em_có_tư_cách_này_.json",
+    "chapter_name": "Chương 83: Em có tư cách này 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-83/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_84_Tàn_nhẫn_.json",
+    "chapter_name": "Chương 84: Tàn nhẫn 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-84/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_85_Muốn_gặp_em_.json",
+    "chapter_name": "Chương 85: Muốn gặp em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-85/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_86_Em_lo_lắng_cho_anh_.json",
+    "chapter_name": "Chương 86: Em lo lắng cho anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-86/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_87_Tôi_hiểu_lầm_cô_ấy_.json",
+    "chapter_name": "Chương 87: Tôi hiểu lầm cô ấy 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-87/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_88_Bắt_đầu_từ_hôm_nay_anh_muốn_theo_đuổi_em_.json",
+    "chapter_name": "Chương 88: Bắt đầu từ hôm nay, anh muốn theo đuổi em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-88/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_89_Tiểu_soái_ca_.json",
+    "chapter_name": "Chương 89: Tiểu soái ca 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-89/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_90_Ôn_Ôn_đừng_khóc_.json",
+    "chapter_name": "Chương 90: Ôn Ôn, đừng khóc 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-90/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_91_Tôi_là_bạn_trai_của_cô_ấy_.json",
+    "chapter_name": "Chương 91: Tôi là bạn trai của cô ấy 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-91/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_92_Muốn_chiều_chuộng_em_.json",
+    "chapter_name": "Chương 92: Muốn chiều chuộng em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-92/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_93_Ghen_ghét_với_anh_ta_.json",
+    "chapter_name": "Chương 93: Ghen ghét với anh ta 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-93/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_94_Em_cho_rằng_anh_muốn_làm_gì_.json",
+    "chapter_name": "Chương 94: Em cho rằng anh muốn làm gì? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-94/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_95_Đáng_yêu_bằng_em_không_.json",
+    "chapter_name": "Chương 95: Đáng yêu bằng em không? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-95/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_96_Ôn_Ôn_em_muốn_sinh_mấy_đứa_.json",
+    "chapter_name": "Chương 96: Ôn Ôn, em muốn sinh mấy đứa? 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-96/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_97_Người_thứ_ba_.json",
+    "chapter_name": "Chương 97: Người thứ ba 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-97/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_98_Bệnh_tâm_thần_.json",
+    "chapter_name": "Chương 98: Bệnh tâm thần 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-98/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_99_Triền_miên_.json",
+    "chapter_name": "Chương 99: Triền miên 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-99/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_100_Hôn_em_không_đủ_.json",
+    "chapter_name": "Chương 100: Hôn em không đủ 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-100/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-101/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_102_Chúng_tôi_sắp_kết_hôn_rồi_.json",
+    "chapter_name": "Chương 102: Chúng tôi sắp kết hôn rồi 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-102/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_103_Làm_nũng_.json",
+    "chapter_name": "Chương 103: Làm nũng 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-103/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_104_Ông_xã_.json",
+    "chapter_name": "Chương 104: Ông xã 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-104/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_105_Đồ_Lừa_đảo_.json",
+    "chapter_name": "Chương 105: Đồ Lừa đảo 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-105/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_106_Vĩnh_viễn_ở_bên_nhau_.json",
+    "chapter_name": "Chương 106: Vĩnh viễn ở bên nhau 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-106/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_107_Đời_đời_kiếp_kiếp_quấn_lấy_em_.json",
+    "chapter_name": "Chương 107: Đời đời kiếp kiếp quấn lấy em 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-107/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_108_Kết_thúc_.json",
+    "chapter_name": "Chương 108: Kết thúc 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-108/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_109_Phiên_ngoại_1_Bảy_năm_của_Trần_Trì_.json",
+    "chapter_name": "Chương 109: Phiên ngoại 1: Bảy năm của Trần Trì 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-109/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_110_Phiên_Ngoại_2_Em_chỉ_có_thể_thuộc_về_anh_.json",
+    "chapter_name": "Chương 110: Phiên Ngoại 2: Em chỉ có thể thuộc về anh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-110/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_111_Phiên_Ngoại_3_Bảy_năm_của_Thời_Ôn_.json",
+    "chapter_name": "Chương 111: Phiên Ngoại 3: Bảy năm của Thời Ôn 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-111/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_112_Phiên_Ngoại_4_Lạ_lẫm_.json",
+    "chapter_name": "Chương 112: Phiên Ngoại 4: Lạ lẫm 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-112/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_113_Phiên_Ngoại_5_Chỉ_mình_em_hiểu_.json",
+    "chapter_name": "Chương 113: Phiên Ngoại 5: Chỉ mình em hiểu 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-113/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_114_Phiên_Ngoại_6_Mang_thai_.json",
+    "chapter_name": "Chương 114: Phiên Ngoại 6: Mang thai 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-114/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_115_Phiên_Ngoại_7_Tiểu_tinh_linh_.json",
+    "chapter_name": "Chương 115: Phiên Ngoại 7: Tiểu tinh linh 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-115/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_116_Phiên_Ngoại_8_Kiếp_trước_.json",
+    "chapter_name": "Chương 116: Phiên Ngoại 8: Kiếp trước 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-116/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_117_Phiên_Ngoại_9_Kiếp_trước_2_.json",
+    "chapter_name": "Chương 117: Phiên Ngoại 9: Kiếp trước (2) 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-117/"
+  },
+  {
+    "path": "data/Bệnh_Chiếm_Hữu/Chương_118_Phiên_Ngoại_10_Kiếp_trước_3_.json",
+    "chapter_name": "Chương 118: Phiên Ngoại 10: Kiếp trước (3) 🌵",
+    "url": "https://truyenfull.io/benh-chiem-huu/chuong-118/"
+  }
+]
