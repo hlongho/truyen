@@ -5998,5 +5998,710 @@
     "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1205_Hiểm_hiểm_đào_thoát.json",
     "chapter_name": "Chương 1205: Hiểm hiểm đào thoát",
     "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1205/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1206_Đột_phá_Cửu_Thiên_Huyền_Tiên.json",
+    "chapter_name": "Chương 1206: Đột phá Cửu Thiên Huyền Tiên",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1206/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1207_Hình_Thiên_chiến_Côn_Bằng.json",
+    "chapter_name": "Chương 1207: Hình Thiên chiến Côn Bằng",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1207/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1208_Bồ_Đề_tử_cùng_thần_bí_ngọc_giản.json",
+    "chapter_name": "Chương 1208: Bồ Đề tử cùng thần bí ngọc giản",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1208/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1209_Đánh_chết_tiên_quân_sơ_kỳ.json",
+    "chapter_name": "Chương 1209: Đánh chết tiên quân sơ kỳ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1209/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1210_Kích_đấu_tiên_quân.json",
+    "chapter_name": "Chương 1210: Kích đấu tiên quân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1210/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1211_Chiến_đấu_kịch_liệt_nguyên_thần_lực.json",
+    "chapter_name": "Chương 1211: Chiến đấu kịch liệt nguyên thần lực",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1211/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1212_Chó_giữ_nhà_ngươi_muốn_chết.json",
+    "chapter_name": "Chương 1212: Chó giữ nhà, ngươi muốn chết",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1212/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1213_Dao_Cơ_Tiên_Tử.json",
+    "chapter_name": "Chương 1213: Dao Cơ Tiên Tử",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1213/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1214_Giống_như_đã_từng_quen_biết.json",
+    "chapter_name": "Chương 1214: Giống như đã từng quen biết",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1214/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1215_Đại_hôn_lễ_trọng.json",
+    "chapter_name": "Chương 1215: Đại hôn lễ trọng",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1215/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1216_Nhạc_Thành_Huyền_Tiêu_VS_Dương_Tiển.json",
+    "chapter_name": "Chương 1216: Nhạc Thành, Huyền Tiêu VS Dương Tiển",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1216/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1217_Tin_tức_Hỗn_Thế_Ma_Vương.json",
+    "chapter_name": "Chương 1217: Tin tức Hỗn Thế Ma Vương",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1217/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1218_Vây_công_Hỗn_Thế_Ma_Vương.json",
+    "chapter_name": "Chương 1218: Vây công Hỗn Thế Ma Vương",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1218/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1219_Hạo_Thiên_Đại_Đế_tái_hiện.json",
+    "chapter_name": "Chương 1219: Hạo Thiên Đại Đế tái hiện",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1219/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1220_Thượng_cổ_ma_khí_Hỗn_Thiên_Nghi.json",
+    "chapter_name": "Chương 1220: Thượng cổ ma khí Hỗn Thiên Nghi",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1220/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1221_Thánh_nhân_xuất_hiện.json",
+    "chapter_name": "Chương 1221: Thánh nhân xuất hiện",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1221/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1222_Nhạc_Thành_đột_phá.json",
+    "chapter_name": "Chương 1222: Nhạc Thành đột phá",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1222/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1223_Hạo_Thiên_Đại_Đế_quay_lại_Hạo_Thiên_môn.json",
+    "chapter_name": "Chương 1223: Hạo Thiên Đại Đế quay lại Hạo Thiên môn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1223/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1224_Ta_cho_ngươi_biết_thế_nào_là_nam_nhân.json",
+    "chapter_name": "Chương 1224: Ta cho ngươi biết thế nào là nam nhân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1224/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1225_Chúng_ma_trở_về_núi.json",
+    "chapter_name": "Chương 1225: Chúng ma trở về núi",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1225/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1226_Bất_Chu_Sơn_hạ.json",
+    "chapter_name": "Chương 1226: Bất Chu Sơn hạ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1226/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1227_Tam_Mao_chân_quân.json",
+    "chapter_name": "Chương 1227: Tam Mao chân quân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1227/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1228_Tái_nhập_Hồng_Hoang_chiến_trường.json",
+    "chapter_name": "Chương 1228: Tái nhập Hồng Hoang chiến trường",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1228/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1229_Vạn_Vu_Đại_Trận.json",
+    "chapter_name": "Chương 1229: Vạn Vu Đại Trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1229/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1230_Vô_số_dị_thú.json",
+    "chapter_name": "Chương 1230: Vô số dị thú",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1230/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1231_Đánh_chết_Nguyên_Thiên_Ma_quân.json",
+    "chapter_name": "Chương 1231: Đánh chết Nguyên Thiên Ma quân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1231/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1232_Vu_tộc_hung_vật.json",
+    "chapter_name": "Chương 1232: Vu tộc hung vật",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1232/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1233_Cường_hãn_khí_tức.json",
+    "chapter_name": "Chương 1233: Cường hãn khí tức",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1233/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1234_Thần_bí_cường_giả.json",
+    "chapter_name": "Chương 1234: Thần bí cường giả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1234/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1235_Yêu_hoàng_Đế_Tuấn.json",
+    "chapter_name": "Chương 1235: Yêu hoàng Đế Tuấn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1235/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1236_Tranh_đoạt_bảo_vật.json",
+    "chapter_name": "Chương 1236: Tranh đoạt bảo vật",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1236/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1237_Thần_bí_cường_giả.json",
+    "chapter_name": "Chương 1237: Thần bí cường giả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1237/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1238_Một_chết_một_thu_phục.json",
+    "chapter_name": "Chương 1238: Một chết một thu phục",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1238/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1239_Tổ_vu_bí_tân.json",
+    "chapter_name": "Chương 1239: Tổ vu bí tân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1239/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1240_Ra_tay_trả_thù_lao.json",
+    "chapter_name": "Chương 1240: Ra tay trả thù lao",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1240/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1241_Đại_chiến_bắt_đầu.json",
+    "chapter_name": "Chương 1241: Đại chiến bắt đầu",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1241/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1242_Thiên_Thủ_Ma_Quân.json",
+    "chapter_name": "Chương 1242: Thiên Thủ Ma Quân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1242/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1243_Ngươi_là_Kim_Giáp_Chiến_Thần_Nhạc_Thành.json",
+    "chapter_name": "Chương 1243: Ngươi là Kim Giáp Chiến Thần Nhạc Thành?",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1243/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1244_Kinh_Thiên_đại_chiến.json",
+    "chapter_name": "Chương 1244: Kinh Thiên đại chiến",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1244/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1245_Chậm_đi_chết_đi.json",
+    "chapter_name": "Chương 1245: Chậm, đi chết đi",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1245/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1246_Tễ_thân_siêu_cấp_cường_giả_chi_liệt.json",
+    "chapter_name": "Chương 1246: Tễ thân siêu cấp cường giả chi liệt",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1246/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1247_Minh_giới_hành_trình.json",
+    "chapter_name": "Chương 1247: Minh giới hành trình",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1247/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1248_Đánh_chết_Địa_Tạng_VS_trọng_bảo_xuất_thế.json",
+    "chapter_name": "Chương 1248: Đánh chết Địa Tạng VS trọng bảo xuất thế",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1248/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1249_Đệ_nhị_điều_Hóa_Xà_thần_thú.json",
+    "chapter_name": "Chương 1249: Đệ nhị điều Hóa Xà thần thú",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1249/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1250_Lấy_đi_Hoàng_Trung_Lý.json",
+    "chapter_name": "Chương 1250: Lấy đi Hoàng Trung Lý",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1250/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1251_Tuyệt_phẩm_đan_dược_tử_tinh_linh_đan.json",
+    "chapter_name": "Chương 1251: Tuyệt phẩm đan dược tử tinh linh đan",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1251/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1252_Tuyệt_phẩm_đan_dược_xuất_thế.json",
+    "chapter_name": "Chương 1252: Tuyệt phẩm đan dược xuất thế",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1252/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1253_Hỗn_Nguyên_Chân_Thân_tầng_thứ_bảy.json",
+    "chapter_name": "Chương 1253: Hỗn Nguyên Chân Thân tầng thứ bảy",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1253/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1254_Ngươi_còn_không_mau_hỗ_trợ.json",
+    "chapter_name": "Chương 1254: Ngươi còn không mau hỗ trợ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1254/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1255_Chiến_đấu_kịch_liệt_Tiên_tôn_cường_giả.json",
+    "chapter_name": "Chương 1255: Chiến đấu kịch liệt Tiên tôn cường giả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1255/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1256_Cha_mẹ_sinh_ra_Thanh_Đồng.json",
+    "chapter_name": "Chương 1256: Cha mẹ sinh ra Thanh Đồng?",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1256/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1257_Tinh_thạch_núi_non.json",
+    "chapter_name": "Chương 1257: Tinh thạch núi non",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1257/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1258.json",
+    "chapter_name": "Chương 1258",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1258/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1259.json",
+    "chapter_name": "Chương 1259",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1259/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1260.json",
+    "chapter_name": "Chương 1260",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1260/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1261_Tuyệt_đối_kinh_sợ.json",
+    "chapter_name": "Chương 1261: Tuyệt đối kinh sợ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1261/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1262_Cổ_Phẩm_tinh_thạch.json",
+    "chapter_name": "Chương 1262: Cổ Phẩm tinh thạch",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1262/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1263_Thời_hồng_hoang_cổ_tinh.json",
+    "chapter_name": "Chương 1263: Thời hồng hoang cổ tinh",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1263/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1264_Cường_địch_đột_kích.json",
+    "chapter_name": "Chương 1264: Cường địch đột kích",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1264/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1265_Minh_giới_chi_môn.json",
+    "chapter_name": "Chương 1265: Minh giới chi môn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1265/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1266_Suy_Sụp.json",
+    "chapter_name": "Chương 1266: Suy Sụp",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1266/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1267_Diệt_Quỷ_Cốc_Môn.json",
+    "chapter_name": "Chương 1267: Diệt Quỷ Cốc Môn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1267/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1268_Thiên_Đình_động_tác.json",
+    "chapter_name": "Chương 1268: Thiên Đình động tác",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1268/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1269_Thực_lực_của_ngươi_còn_chưa_đủ.json",
+    "chapter_name": "Chương 1269: Thực lực của ngươi còn chưa đủ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1269/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1270_Ta_nhưng_thật_ra_muốn_nhìn_còn_có_ai_dám_động_ngươi.json",
+    "chapter_name": "Chương 1270: Ta nhưng thật ra muốn nhìn còn có ai dám động ngươi",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1270/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1271_Thượng_cổ_thần_khí_Luyện_Yêu_hồ.json",
+    "chapter_name": "Chương 1271: Thượng cổ thần khí Luyện Yêu hồ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1271/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1272_Thừa_cơ_đại_phát_động.json",
+    "chapter_name": "Chương 1272: Thừa cơ đại phát động",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1272/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1273_Lại_lên_Thiên_Đình.json",
+    "chapter_name": "Chương 1273: Lại lên Thiên Đình",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1273/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1274_Bế_quan_lĩnh_ngộ.json",
+    "chapter_name": "Chương 1274: Bế quan lĩnh ngộ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1274/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1275_Đánh_chết_Tây_Phương_quỷ_đế.json",
+    "chapter_name": "Chương 1275: Đánh chết Tây Phương quỷ đế",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1275/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1276_Định_Thần_bảng_xuất_thế.json",
+    "chapter_name": "Chương 1276: Định Thần bảng xuất thế",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1276/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1277_Huyền_Tiêu_trọng_thương.json",
+    "chapter_name": "Chương 1277: Huyền Tiêu trọng thương",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1277/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1278_Lười_chơi_cùng_các_ngươi.json",
+    "chapter_name": "Chương 1278: Lười chơi cùng các ngươi",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1278/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1279_Thiên_Linh_Căn_thứ_nhất.json",
+    "chapter_name": "Chương 1279: Thiên Linh Căn thứ nhất",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1279/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1280_Là_chính_ngươi_muốn_chết.json",
+    "chapter_name": "Chương 1280: Là chính ngươi muốn chết",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1280/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1281_Quỷ_dị_đại_trận.json",
+    "chapter_name": "Chương 1281: Quỷ dị đại trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1281/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1282_Hồng_Hoang_Thất_Tuyệt_Đại_Trận.json",
+    "chapter_name": "Chương 1282: Hồng Hoang Thất Tuyệt Đại Trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1282/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1283_Thần_bí_cường_giả_cùng_Thất_Diệu_Thiên_quả.json",
+    "chapter_name": "Chương 1283: Thần bí cường giả cùng Thất Diệu Thiên quả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1283/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1284_Thu_trận.json",
+    "chapter_name": "Chương 1284: Thu trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1284/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1285_Tàn_hồn_cự_thú.json",
+    "chapter_name": "Chương 1285: Tàn hồn cự thú",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1285/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1286_Thập_đại_thượng_cổ_ma_thú.json",
+    "chapter_name": "Chương 1286: Thập đại thượng cổ ma thú",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1286/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1287_Tuyệt_thế_cường_giả_Đông_hoàng_Thái_Nhất.json",
+    "chapter_name": "Chương 1287: Tuyệt thế cường giả Đông hoàng Thái Nhất",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1287/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1288_Đông_hoàng_chung.json",
+    "chapter_name": "Chương 1288: Đông hoàng chung",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1288/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1289_Bàn_Cổ_chân_thân.json",
+    "chapter_name": "Chương 1289: Bàn Cổ chân thân",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1289/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1290_Ngọc_giản_hơi_thở.json",
+    "chapter_name": "Chương 1290: Ngọc giản hơi thở",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1290/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1291_Thất_đoàn_linh_dịch.json",
+    "chapter_name": "Chương 1291: Thất đoàn linh dịch",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1291/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1292_Khóc_không_ra_nước_mắt.json",
+    "chapter_name": "Chương 1292: Khóc không ra nước mắt",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1292/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1293_Xích_Dương_thành.json",
+    "chapter_name": "Chương 1293: Xích Dương thành",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1293/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1294_Yêu_tôn_trung_kỳ_cường_giả.json",
+    "chapter_name": "Chương 1294: Yêu tôn trung kỳ cường giả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1294/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1295_Hồng_hoang_đại_địa_Kỳ_Lân_bộ_tộc.json",
+    "chapter_name": "Chương 1295: Hồng hoang đại địa Kỳ Lân bộ tộc",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1295/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1296_Đánh_chết_Tà_tôn.json",
+    "chapter_name": "Chương 1296: Đánh chết Tà tôn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1296/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1297_Thiên_Cương_thần_thú_trận.json",
+    "chapter_name": "Chương 1297: Thiên Cương thần thú trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1297/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1298_Phá_trận_mà_ra.json",
+    "chapter_name": "Chương 1298: Phá trận mà ra",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1298/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1299_Đánh_chết_Phong_tôn.json",
+    "chapter_name": "Chương 1299: Đánh chết Phong tôn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1299/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1300_Kỳ_Lân_lão_tổ.json",
+    "chapter_name": "Chương 1300: Kỳ Lân lão tổ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1300/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1301_Vân_Trung_Tử.json",
+    "chapter_name": "Chương 1301: Vân Trung Tử",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1301/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1302_Thu_đồ_đệ_Thiên_ưng.json",
+    "chapter_name": "Chương 1302: Thu đồ đệ Thiên ưng",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1302/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1303_Trong_hư_không.json",
+    "chapter_name": "Chương 1303: Trong hư không",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1303/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1304_Định_Thần_bảng_xuất_hiện.json",
+    "chapter_name": "Chương 1304: Định Thần bảng xuất hiện",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1304/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1305_Lấy_máu_nhận_chủ.json",
+    "chapter_name": "Chương 1305: Lấy máu nhận chủ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1305/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1306_Hư_không_tan_biến.json",
+    "chapter_name": "Chương 1306: Hư không tan biến",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1306/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1307_Thúc_dục_Định_Thần_bảng.json",
+    "chapter_name": "Chương 1307: Thúc dục Định Thần bảng",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1307/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1308_Thúc_dục_Đông_hoàng_chung.json",
+    "chapter_name": "Chương 1308: Thúc dục Đông hoàng chung",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1308/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1309_Tính_toán.json",
+    "chapter_name": "Chương 1309: Tính toán",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1309/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1310_Ngộ_phục.json",
+    "chapter_name": "Chương 1310: Ngộ phục",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1310/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1311_Chiến_đấu_kịch_liệt_Đấu_Chiến_Thắng_Phật.json",
+    "chapter_name": "Chương 1311: Chiến đấu kịch liệt Đấu Chiến Thắng Phật",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1311/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1312_Luyện_hóa_Côn_Lôn_kính.json",
+    "chapter_name": "Chương 1312: Luyện hóa Côn Lôn kính",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1312/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1313_Vân_Tiêu_chiến_đấu_kịch_liệt_Thiên_ma_thú.json",
+    "chapter_name": "Chương 1313: Vân Tiêu chiến đấu kịch liệt Thiên ma thú",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1313/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1314_Vân_Tiêu_bản_thể.json",
+    "chapter_name": "Chương 1314: Vân Tiêu bản thể",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1314/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1315_Đầu_bạc_cô_gái.json",
+    "chapter_name": "Chương 1315: Đầu bạc cô gái",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1315/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1316_Phục_Hy_cầm.json",
+    "chapter_name": "Chương 1316: Phục Hy cầm",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1316/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1317_Bàn_Cổ_phủ_V_Nhiên_Đăng_cổ_phật.json",
+    "chapter_name": "Chương 1317: Bàn Cổ phủ V Nhiên Đăng cổ phật",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1317/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1318_Đánh_chết_Chiến_ma.json",
+    "chapter_name": "Chương 1318: Đánh chết Chiến ma",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1318/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1319_Định_Thần_bảng_hút_Nhiên_Đăng_cổ_phật.json",
+    "chapter_name": "Chương 1319: Định Thần bảng hút Nhiên Đăng cổ phật",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1319/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1320_Thần_bí_lão_giả.json",
+    "chapter_name": "Chương 1320: Thần bí lão giả",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1320/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1321_Hỗn_Nguyên_lão_tổ.json",
+    "chapter_name": "Chương 1321: Hỗn Nguyên lão tổ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1321/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1322_Dung_hợp_Thập_đại_thượng_cổ_thần_khí.json",
+    "chapter_name": "Chương 1322: Dung hợp Thập đại thượng cổ thần khí",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1322/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1323_Cường_giả_hội_tụ_Ngọc_Hư_sơn.json",
+    "chapter_name": "Chương 1323: Cường giả hội tụ Ngọc Hư sơn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1323/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1324_Huyền_Đô_sư.json",
+    "chapter_name": "Chương 1324: Huyền Đô sư",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1324/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1325_Chúng_cường_giả_thương_nghị.json",
+    "chapter_name": "Chương 1325: Chúng cường giả thương nghị",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1325/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1326_Canh_một.json",
+    "chapter_name": "Chương 1326: Canh một",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1326/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1327_Thực_lực_Phật_giáo.json",
+    "chapter_name": "Chương 1327: Thực lực Phật giáo",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1327/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1328_Tố_Sắc_Vân_Giới_Kỳ.json",
+    "chapter_name": "Chương 1328: Tố Sắc Vân Giới Kỳ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1328/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1329_Phá_trận.json",
+    "chapter_name": "Chương 1329: Phá trận",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1329/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1330_Nguyên_thần_giao_phong.json",
+    "chapter_name": "Chương 1330: Nguyên thần giao phong",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1330/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1331_Ngọc_Đế_Trương_Bách_Nhẫn.json",
+    "chapter_name": "Chương 1331: Ngọc Đế Trương Bách Nhẫn",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1331/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1332_Hạo_Thiên_kính_và_mười_hai_khỏa_Định_Hải_Thần_Châu.json",
+    "chapter_name": "Chương 1332: Hạo Thiên kính và mười hai khỏa Định Hải Thần Châu",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1332/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1333_Thiên_thư_VS_Hỗn_Độn_chung.json",
+    "chapter_name": "Chương 1333: Thiên thư VS Hỗn Độn chung",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1333/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1334_Phong_thần.json",
+    "chapter_name": "Chương 1334: Phong thần",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1334/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1335_Ma_đạo_lão_tổ_Âm_Dương_lão_tổ.json",
+    "chapter_name": "Chương 1335: Ma đạo lão tổ, Âm Dương lão tổ",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1335/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1336_Thánh_nhân_dưới_đều_là_vì_con_kiến.json",
+    "chapter_name": "Chương 1336: Thánh nhân dưới đều là vì con kiến",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1336/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1337_Hình_Thiên_đột_phá.json",
+    "chapter_name": "Chương 1337: Hình Thiên đột phá",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1337/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1338_Hỗn_Độn_thanh_liên.json",
+    "chapter_name": "Chương 1338: Hỗn Độn thanh liên",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1338/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1339_Cây_bồ_đề.json",
+    "chapter_name": "Chương 1339: Cây bồ đề",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1339/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1340_Đại_kiếp_nạn_tới.json",
+    "chapter_name": "Chương 1340: Đại kiếp nạn tới",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1340/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1341_Nhân_tộc_tam_tộc.json",
+    "chapter_name": "Chương 1341: Nhân tộc tam tộc",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1341/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1342_Dung_hợp_quy_tắc.json",
+    "chapter_name": "Chương 1342: Dung hợp quy tắc",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1342/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1343_Thiên_địa_cường_giả_hội_tụ_Hỗn_Độn_hải.json",
+    "chapter_name": "Chương 1343: Thiên địa cường giả hội tụ Hỗn Độn hải",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1343/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1344_Tru_thánh_nhân_diệt_Cực_Đạo.json",
+    "chapter_name": "Chương 1344: Tru thánh nhân, diệt Cực Đạo",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1344/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1345_Như_Lai_mạt_pháp_thế_giới.json",
+    "chapter_name": "Chương 1345: Như Lai mạt pháp thế giới",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1345/"
+  },
+  {
+    "path": "data/Tu_Chân_Giả_Tại_Dị_Thế/Chương_1346_Cái_gì_gọi_là_thiên_đạo_cuối.json",
+    "chapter_name": "Chương 1346: Cái gì gọi là thiên đạo (cuối)",
+    "url": "https://truyenfull.io/tu-chan-gia-tai-di-the/chuong-1346/"
   }
 ]
