@@ -1,0 +1,517 @@
+[
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_1_Đường_Vực_thất_tình_rồi_mình_có_thể_tiến_lên_không.json",
+    "chapter_name": "Chương 1: Đường Vực thất tình rồi, mình có thể “tiến lên” không?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-1/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_2_Anh_ngẫm_nghĩ_cảm_thấy_hình_như_sếp_tổng_bị_dắt_mũi_rồi.json",
+    "chapter_name": "Chương 2: Anh ngẫm nghĩ, cảm thấy hình như sếp tổng bị dắt mũi rồi!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-2/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_3_Theo_đuổi_đàn_ông_mà_phải_đuổi_theo_tới_tận_phòng_làm_việc_của_anh_ta_ở_tầng_trên_sao.json",
+    "chapter_name": "Chương 3: Theo đuổi đàn ông mà phải đuổi theo tới tận phòng làm việc của anh ta ở tầng trên sao?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-3/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_4_Không_em_không_cần_người_khác_em_chỉ_cần_anh_thôi.json",
+    "chapter_name": "Chương 4: Không, em không cần người khác, em chỉ cần anh thôi!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-4/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_5_Khẳng_định_khi_nãy_cô_vững_vàng_như_chú_chó_già.json",
+    "chapter_name": "Chương 5: Khẳng định khi nãy cô vững vàng như chú chó già",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-5/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_6_Hôm_nay_chị_Hoan_là_bà_chủ_của_tôi.json",
+    "chapter_name": "Chương 6: Hôm nay chị Hoan là bà chủ của tôi!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-6/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_7_Em_dùng_đầu_lưỡi_liếm_đó_sếp_tin_không.json",
+    "chapter_name": "Chương 7: Em dùng đầu lưỡi liếm đó, sếp tin không?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-7/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_8_Cô_ấy_lại_dắt_mũi_sếp_tổng_rồi_Phần_2.json",
+    "chapter_name": "Chương 8: Cô ấy lại dắt mũi sếp tổng rồi [Phần 2]",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-8/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_9_Cậu_không_định_thổ_lộ_sao.json",
+    "chapter_name": "Chương 9: Cậu không định thổ lộ sao?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-9/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_10_Đường_papa_papa_khó_chiều_quá_đi.json",
+    "chapter_name": "Chương 10: Đường papa, papa khó chiều quá đi!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-10/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_11_Con_thích_sếp_của_con_Đường_Vực.json",
+    "chapter_name": "Chương 11: Con thích sếp của con, Đường Vực",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-11/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_12_Nhìn_gần_thế_làm_gì.json",
+    "chapter_name": "Chương 12: Nhìn gần thế làm gì?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-12/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_13_Thế_sếp_tặng_nó_cho_em_được_không_Em_thích_nó.json",
+    "chapter_name": "Chương 13: “Thế sếp tặng nó cho em được không? Em thích nó”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-13/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_14_Em_thích_tôi_sao.json",
+    "chapter_name": "Chương 14: Em thích tôi sao?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-14/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_15_Lưu_lại_nụ_hôn_thật_đẹp_trên_môi_anh.json",
+    "chapter_name": "Chương 15: Lưu lại nụ hôn thật đẹp trên môi anh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-15/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-16/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-17/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_18_Không_cần_Đường_papa_đâu.json",
+    "chapter_name": "Chương 18: Không cần Đường papa đâu",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-18/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-19/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_20_Đường_papa_thật_đáng_thương.json",
+    "chapter_name": "Chương 20: Đường papa thật đáng thương",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-20/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_21_Cô_cũng_đã_gọi_tôi_là_Lục_papa_rồi_sao_có_thể_đổi_ý_được.json",
+    "chapter_name": "Chương 21: \"Cô cũng đã gọi tôi là Lục papa rồi, sao có thể đổi ý được?\"",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-21/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_22_Lắm_tiền_nhưng_không_ngu_ngốc.json",
+    "chapter_name": "Chương 22: Lắm tiền nhưng không ngu ngốc",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-22/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_23_Một_con_dê_béo_múp.json",
+    "chapter_name": "Chương 23: Một con dê béo múp",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-23/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_24_Sau_đó_định_đi_tìm_Lục_papa_của_em_hả.json",
+    "chapter_name": "Chương 24: “Sau đó định đi tìm Lục papa của em hả?”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-24/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_25_Phần_I_Cô_ấy_nói_cô_ấy_muốn_rời_đi.json",
+    "chapter_name": "Chương 25: [Phần I] Cô ấy nói cô ấy muốn rời đi",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-25/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_26_Phần_II_Yeah_Đường_Vực_chào_mừng_anh_bước_vào_giấc_mộng_của_em.json",
+    "chapter_name": "Chương 26: [Phần II] Yeah! Đường Vực, chào mừng anh bước vào giấc mộng của em",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-26/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_27_Anh_gửi_thẳng_cho_cô_một_cái_bao_lì_xì.json",
+    "chapter_name": "Chương 27: Anh gửi thẳng cho cô một cái bao lì xì",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-27/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_28_Dê_con_béo_múp_Tiểu_Đinh_Đinh_lại_tới_rồi_kìa.json",
+    "chapter_name": "Chương 28: Dê con béo múp Tiểu Đinh Đinh lại tới rồi kìa!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-28/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_29_Phần_I_Nhà_mình_có_điều_kiện_mà_cứ_để_cô_ấy_cắt_cổ_mấy_trăm_lần_cũng_chưa_phá_sản_được_đâu.json",
+    "chapter_name": "Chương 29: [Phần I] Nhà mình có điều kiện mà, cứ để cô ấy “cắt cổ” mấy trăm lần cũng chưa phá sản được đâu",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-29/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_30_Phần_II_Em_thực_sự_ung_dung_thế_à_Nói_đi_là_đi_luôn.json",
+    "chapter_name": "Chương 30: [Phần II] “Em thực sự ung dung thế à? Nói đi là đi luôn?”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-30/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_31_Phần_I_Thích_thích_đến_phát_cáu_lên_được.json",
+    "chapter_name": "Chương 31: [Phần I] “Thích, thích đến phát cáu lên được.”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-31/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_32_Phần_II_Chị_Đường_Tâm_lòng_dạ_đen_tối_quá_đi.json",
+    "chapter_name": "Chương 32: [Phần II] “Chị Đường Tâm lòng dạ đen tối quá đi.”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-32/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_33_Mẹ_nó_Cô_ấy_làm_mình_tức_chết_đi_được.json",
+    "chapter_name": "Chương 33: Mẹ nó! Cô ấy làm mình tức chết đi được",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-33/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_34_Phần_I_Không_phải_em_thích_tiền_của_tôi_à_Giờ_tôi_vung_tiền_lấy_lòng_em_sao_em_lại_không_vui.json",
+    "chapter_name": "Chương 34: [Phần I] Không phải em thích tiền của tôi à? Giờ tôi vung tiền lấy lòng em, sao em lại không vui?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-34/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_35_Phần_II_Ê_dê_béo_đi_đi_thịt_hắn.json",
+    "chapter_name": "Chương 35: [Phần II] “Ê dê béo, đi đi, thịt hắn!”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-35/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_36_Cô_ấy_ư_kiêu_lắm_đó_giờ_vừa_khó_theo_đuổi_lại_khó_dỗ_dành.json",
+    "chapter_name": "Chương 36: Cô ấy ư, kiêu lắm đó, giờ vừa khó theo đuổi lại khó dỗ dành",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-36/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_37_Phần_I_Anh_ấy_mặc_vest_đẹp_trai_chết_đi_được.json",
+    "chapter_name": "Chương 37: [Phần I] Anh ấy mặc vest đẹp trai chết đi được",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-37/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_38_Phần_II_Tôi_không_gặm_anh_những_ba_phút_cùng_lắm_cũng_chỉ_hai_phút_thôi.json",
+    "chapter_name": "Chương 38: [Phần II] “Tôi không gặm anh những ba phút, cùng lắm cũng chỉ hai phút thôi.”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-38/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_39_Hôm_nay_mới_dọn_qua_đây.json",
+    "chapter_name": "Chương 39: Hôm nay mới dọn qua đây",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-39/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_40_Phần_I_Chị_đại_không_bao_giờ_chịu_thiệt_thòi_đâu.json",
+    "chapter_name": "Chương 40: [Phần I] “Chị đại không bao giờ chịu thiệt thòi đâu!”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-40/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_41_Phần_II_Lần_này_đến_lượt_tôi_theo_đuổi_em.json",
+    "chapter_name": "Chương 41: [Phần II] “Lần này, đến lượt tôi theo đuổi em",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-41/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_42_Phần_I_Tôi_sẽ_tự_mình_theo_đuổi_em_theo_đuổi_tới_khi_em_đồng_ý_mới_thôi.json",
+    "chapter_name": "Chương 42: [Phần I] “Tôi sẽ tự mình theo đuổi em, theo đuổi tới khi em đồng ý mới thôi.”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-42/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_43_Phần_II_Tay_tì_lên_gối_cúi_người_hôn_môi_cô.json",
+    "chapter_name": "Chương 43: [Phần II] Tay tì lên gối, cúi người hôn môi cô",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-43/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_44_Đường_Vực_tối_qua_có_phải_anh_nói_mấy_lời_cợt_nhả_với_tôi_không.json",
+    "chapter_name": "Chương 44: “Đường Vực, tối qua có phải anh nói mấy lời cợt nhả với tôi không?”",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-44/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_45_Tôi_đổ_vốn_đầu_tư_cho_cô_ấy_vào_đoàn.json",
+    "chapter_name": "Chương 45: Tôi đổ vốn đầu tư cho cô ấy vào đoàn",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-45/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_46_Còn_Cười_Được_À.json",
+    "chapter_name": "Chương 46: Còn Cười Được À",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-46/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_47_Tiểu_Đinh_Đinh_Em_Đi_Đâu_Thế.json",
+    "chapter_name": "Chương 47: Tiểu Đinh Đinh , Em Đi Đâu Thế",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-47/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_48_Em_Đẹp_Lắm_Rồi.json",
+    "chapter_name": "Chương 48: Em Đẹp Lắm Rồi",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-48/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-49/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_50.json",
+    "chapter_name": "Chương 50",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-50/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-51/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_52_Xem_Mắt.json",
+    "chapter_name": "Chương 52: Xem Mắt",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-52/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_53_Nụ_Hôn_Ba_Phút_Đó_Tôi_Muốn_Đòi_Lại.json",
+    "chapter_name": "Chương 53: Nụ Hôn Ba Phút Đó, Tôi Muốn Đòi Lại!",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-53/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-54/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_55_Sau_Khi_Chia_Tay_Anh_Định_Cho_Tôi_Bao_Nhiều_Tiền_Phí_.json",
+    "chapter_name": "Chương 55: Sau Khi Chia Tay, Anh Định Cho Tôi Bao Nhiều Tiền Phí ?",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-55/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_56_Không_Phải_Là_Bạn_Gái_Cắn.json",
+    "chapter_name": "Chương 56: Không Phải, Là Bạn Gái Cắn",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-56/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-57/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_58_Cho_Anh_ThêmMột_Phút_Được_Chưa.json",
+    "chapter_name": "Chương 58: Cho Anh Thêm.......Một Phút Được Chưa",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-58/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-59/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-60/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-61/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-62/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-63/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-64/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-65/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-66/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-67/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-68/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-69/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-70/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-71/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-72/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-73/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-74/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-75/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-76/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-77/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-78/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-79/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-80/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-81/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-82/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-83/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-84/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-85/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-86/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_87_Lấy_Anh_Nhé.json",
+    "chapter_name": "Chương 87: Lấy Anh Nhé",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-87/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_88_Phiên_Ngoại_Số_I.json",
+    "chapter_name": "Chương 88: Phiên Ngoại Số I",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-88/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_89_Phiên_Ngoại_Số_II.json",
+    "chapter_name": "Chương 89: Phiên Ngoại Số II",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-89/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_90_Phiên_Ngoại_Số_III.json",
+    "chapter_name": "Chương 90: Phiên Ngoại Số III",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-90/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_91_Phiên_Ngoại_Số_IV.json",
+    "chapter_name": "Chương 91: Phiên Ngoại Số IV",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-91/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_92_Phiên_Ngoại_Số_V.json",
+    "chapter_name": "Chương 92: Phiên Ngoại Số V",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-92/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_93_Phiên_Ngoại_Số_VI.json",
+    "chapter_name": "Chương 93: Phiên Ngoại Số VI",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-93/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_94_Phiên_Ngoại_Số_VII.json",
+    "chapter_name": "Chương 94: Phiên Ngoại Số VII",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-94/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_95_Phiên_Ngoại_Số_VIII.json",
+    "chapter_name": "Chương 95: Phiên Ngoại Số VIII",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-95/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_96_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 96: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-96/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_97_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 97: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-97/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_98_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 98: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-98/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_99_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 99: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-99/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_100_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 100: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-100/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_101_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 101: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-101/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_102_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 102: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-102/"
+  },
+  {
+    "path": "data/Hết_Thảy_Mộng_Đẹp_Đều_Dành_Cho_Em/Chương_103_Ngoại_Truyện_Về_Đường_Đinh_Đinh.json",
+    "chapter_name": "Chương 103: Ngoại Truyện Về Đường Đinh Đinh",
+    "url": "https://truyenfull.io/het-thay-mong-dep-deu-danh-cho-em/chuong-103/"
+  }
+]
