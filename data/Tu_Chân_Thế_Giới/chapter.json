@@ -3998,5 +3998,580 @@
     "path": "data/Tu_Chân_Thế_Giới/Chương_800_Đánh_lén.json",
     "chapter_name": "Chương 800: Đánh lén",
     "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-800/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_801_Thập_Phẩm_Nho_nhỏ.json",
+    "chapter_name": "Chương 801: Thập Phẩm Nho nhỏ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-801/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_802_Tâm_trạng_của_Tả_Mạc.json",
+    "chapter_name": "Chương 802: Tâm trạng của Tả Mạc",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-802/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_803_Đại_Ám_Luân_Hoàng_Tịch_Vũ.json",
+    "chapter_name": "Chương 803: Đại Ám Luân Hoàng Tịch Vũ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-803/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_804_Thắng_lợi.json",
+    "chapter_name": "Chương 804: Thắng lợi",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-804/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_805_Mạc_Vân_Hải_đến_rồi.json",
+    "chapter_name": "Chương 805: Mạc Vân Hải đến rồi!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-805/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_806_Hạ_cung.json",
+    "chapter_name": "Chương 806: Hạ cung",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-806/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_807_San_hô_hỏa_tê_trụ.json",
+    "chapter_name": "Chương 807: San hô hỏa tê trụ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-807/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_808_Thanh_Đằng_hậu_nhân.json",
+    "chapter_name": "Chương 808: Thanh Đằng hậu nhân",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-808/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_809_Nguy_hiểm.json",
+    "chapter_name": "Chương 809: Nguy hiểm",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-809/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_810_Tỉnh_lại.json",
+    "chapter_name": "Chương 810: Tỉnh lại",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-810/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_811_Thiên_Hoàn_đánh_úp_toàn_diện.json",
+    "chapter_name": "Chương 811: Thiên Hoàn đánh úp toàn diện",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-811/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_812_Khôi_tháp.json",
+    "chapter_name": "Chương 812: Khôi tháp",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-812/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_813_Minh_hữu.json",
+    "chapter_name": "Chương 813: Minh hữu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-813/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_814_Con_tin.json",
+    "chapter_name": "Chương 814: Con tin",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-814/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_815_Khó_khăn_của_Dưỡng_Nguyên_Hạo.json",
+    "chapter_name": "Chương 815: Khó khăn của Dưỡng Nguyên Hạo",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-815/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_816_Biến_loạn_trong_Yêu_tộc.json",
+    "chapter_name": "Chương 816: Biến loạn trong Yêu tộc",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-816/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_817_Ý_nghĩ_điên_cuồng_của_Chung_Đức.json",
+    "chapter_name": "Chương 817: Ý nghĩ điên cuồng của Chung Đức",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-817/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_818_Vương_bài_che_dấu.json",
+    "chapter_name": "Chương 818: Vương bài che dấu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-818/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_819_Đánh_cờ.json",
+    "chapter_name": "Chương 819: Đánh cờ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-819/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_820_Bẫy_rập.json",
+    "chapter_name": "Chương 820: Bẫy rập",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-820/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_821_Ngoài_dự_đoán_của_mọi_người.json",
+    "chapter_name": "Chương 821: Ngoài dự đoán của mọi người",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-821/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_822_Minh_Nguyệt_Dạ.json",
+    "chapter_name": "Chương 822: Minh Nguyệt Dạ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-822/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_823_Chức_Nữ_toa.json",
+    "chapter_name": "Chương 823: Chức Nữ toa",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-823/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_824_Tả_Mạc_phẫn_nộ.json",
+    "chapter_name": "Chương 824: Tả Mạc phẫn nộ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-824/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_825_Đột_phá.json",
+    "chapter_name": "Chương 825: Đột phá",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-825/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_826_Kiểm_tra_chiến_lợi_phẩm_đưa_tới.json",
+    "chapter_name": "Chương 826: Kiểm tra chiến lợi phẩm đưa tới",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-826/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_827_Quyết_định_của_Dưỡng_Nguyên_Hạo.json",
+    "chapter_name": "Chương 827: Quyết định của Dưỡng Nguyên Hạo",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-827/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_828_Sơ_hở.json",
+    "chapter_name": "Chương 828: Sơ hở",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-828/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_829_Phản_kích_1.json",
+    "chapter_name": "Chương 829: Phản kích (1)",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-829/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_830_Phản_kích_2.json",
+    "chapter_name": "Chương 830: Phản kích (2)",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-830/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_831_Phản_kích_3.json",
+    "chapter_name": "Chương 831: Phản kích (3)",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-831/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_832_Phản_kích_4.json",
+    "chapter_name": "Chương 832: Phản kích (4)",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-832/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_833_Ý_đồ.json",
+    "chapter_name": "Chương 833: Ý đồ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-833/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_834_Thiên_Hoàn_tấn_công.json",
+    "chapter_name": "Chương 834: Thiên Hoàn tấn công",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-834/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_835_Thiên_Hoàn_đại_trưởng_lão.json",
+    "chapter_name": "Chương 835: Thiên Hoàn đại trưởng lão",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-835/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_836_Tiểu_hỏa.json",
+    "chapter_name": "Chương 836: Tiểu hỏa",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-836/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_837_Đại_trưởng_lão_thiêu_đốt.json",
+    "chapter_name": "Chương 837: Đại trưởng lão thiêu đốt",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-837/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_838_Ta_là_vua_của_Mạc_Vân_Hải.json",
+    "chapter_name": "Chương 838: Ta là vua của Mạc Vân Hải!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-838/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_839_Lý_do_chiến_đấu.json",
+    "chapter_name": "Chương 839: Lý do chiến đấu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-839/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_840_Đây_là_Mạc_Vân_Hải.json",
+    "chapter_name": "Chương 840: Đây là Mạc Vân Hải",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-840/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_841_Hủy_diệt_đi.json",
+    "chapter_name": "Chương 841: Hủy diệt đi!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-841/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_842_Phiền_phức_to_rồi.json",
+    "chapter_name": "Chương 842: Phiền phức to rồi",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-842/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_843_Thần_cấp.json",
+    "chapter_name": "Chương 843: Thần cấp!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-843/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_844_Lâm_Khiêm.json",
+    "chapter_name": "Chương 844: Lâm Khiêm",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-844/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_845_Sức_mạnh_mãnh_liệt.json",
+    "chapter_name": "Chương 845: Sức mạnh mãnh liệt",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-845/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_846_Biển_hoa_văn.json",
+    "chapter_name": "Chương 846: Biển hoa văn",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-846/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_847_Ý_đồ_của_mỗi_người.json",
+    "chapter_name": "Chương 847: Ý đồ của mỗi người",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-847/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_848_Bồ_Vệ.json",
+    "chapter_name": "Chương 848: Bồ Vệ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-848/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_849_Đồng_ý_không.json",
+    "chapter_name": "Chương 849: Đồng ý không?",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-849/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_850_Không_liên_quan_tới_lý_trí.json",
+    "chapter_name": "Chương 850: Không liên quan tới lý trí",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-850/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_851_Thế_cục_xoay_vần.json",
+    "chapter_name": "Chương 851: Thế cục xoay vần",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-851/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_852_Người_kéo_quan_tài.json",
+    "chapter_name": "Chương 852: Người kéo quan tài",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-852/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_853_Hoàng_Kim_chiến_xa.json",
+    "chapter_name": "Chương 853: Hoàng Kim chiến xa",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-853/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_854_Thanh_Hiểu.json",
+    "chapter_name": "Chương 854: Thanh Hiểu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-854/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_855_Xung_đột.json",
+    "chapter_name": "Chương 855: Xung đột",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-855/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_856_Mạch_khoáng.json",
+    "chapter_name": "Chương 856: Mạch khoáng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-856/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_857_Chỉ_điểm.json",
+    "chapter_name": "Chương 857: Chỉ điểm",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-857/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_858_Thanh_Hiểu.json",
+    "chapter_name": "Chương 858: Thanh Hiểu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-858/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_859_Lam_Băng.json",
+    "chapter_name": "Chương 859: Lam Băng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-859/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_860_Giao_dịch.json",
+    "chapter_name": "Chương 860: Giao dịch",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-860/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_861_Âm_Lăng_Quỷ_Chủ.json",
+    "chapter_name": "Chương 861: Âm Lăng Quỷ Chủ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-861/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_862_Bổn_nguyên_Thần_lực.json",
+    "chapter_name": "Chương 862: Bổn nguyên Thần lực",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-862/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_863_Chuẩn_bị.json",
+    "chapter_name": "Chương 863: Chuẩn bị",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-863/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_864_Luyện_hóa_Thần_cốt.json",
+    "chapter_name": "Chương 864: Luyện hóa Thần cốt",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-864/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_865_Quỷ_hỏa_luyện_khí.json",
+    "chapter_name": "Chương 865: Quỷ hỏa luyện khí",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-865/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_866_Vạn_phí_trì_hải.json",
+    "chapter_name": "Chương 866: Vạn phí trì hải",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-866/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_867_Đấu_Bồng_Nhân.json",
+    "chapter_name": "Chương 867: Đấu Bồng Nhân",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-867/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_868_Phản_kích.json",
+    "chapter_name": "Chương 868: Phản kích",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-868/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_869_Biến_hóa.json",
+    "chapter_name": "Chương 869: Biến hóa",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-869/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_870_Hỏa_phần_tràng.json",
+    "chapter_name": "Chương 870: Hỏa phần tràng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-870/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_871_Ba_trăm_thần_trang.json",
+    "chapter_name": "Chương 871: Ba trăm thần trang",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-871/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_872_Vương_Chi_Hào_Giác.json",
+    "chapter_name": "Chương 872: Vương Chi Hào Giác",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-872/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_873_Tử_nhãn_ngưng_châu.json",
+    "chapter_name": "Chương 873: Tử nhãn ngưng châu",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-873/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_874_Biến_cố.json",
+    "chapter_name": "Chương 874: Biến cố",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-874/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_875_Gặp_lại.json",
+    "chapter_name": "Chương 875: Gặp lại",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-875/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_876_Thi.json",
+    "chapter_name": "Chương 876: Thi",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-876/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_877_Tân_vương.json",
+    "chapter_name": "Chương 877: Tân vương",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-877/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_878_Mười_năm.json",
+    "chapter_name": "Chương 878: Mười năm!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-878/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_879_Hội_hợp.json",
+    "chapter_name": "Chương 879: Hội hợp",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-879/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_880_Bồ_Vệ.json",
+    "chapter_name": "Chương 880: Bồ Vệ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-880/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_881_Tình_thế_không_ổn.json",
+    "chapter_name": "Chương 881: Tình thế không ổn",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-881/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_882_Chiến.json",
+    "chapter_name": "Chương 882: Chiến!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-882/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_883_Thủ_chiến.json",
+    "chapter_name": "Chương 883: Thủ chiến",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-883/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_884_Tiến_lên.json",
+    "chapter_name": "Chương 884: Tiến lên!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-884/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_885_Cơ_hội_cuối_cùng.json",
+    "chapter_name": "Chương 885: Cơ hội cuối cùng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-885/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_886_Thanh_thế.json",
+    "chapter_name": "Chương 886: Thanh thế",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-886/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_887_Giằng_co.json",
+    "chapter_name": "Chương 887: Giằng co",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-887/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_888_Từ_lúc_nào_ta_cho_phép_các_ngươi_gắn_tên_mình_với_Minh_Cảnh.json",
+    "chapter_name": "Chương 888: Từ lúc nào ta cho phép các ngươi gắn tên mình với Minh Cảnh?",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-888/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_889_Thực_lực_tuyệt_đối.json",
+    "chapter_name": "Chương 889: Thực lực tuyệt đối",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-889/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_890_Hải_Tâm_Băng_xong_đời.json",
+    "chapter_name": "Chương 890: Hải Tâm Băng xong đời",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-890/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_891_Tân_vương_lão_vương.json",
+    "chapter_name": "Chương 891: Tân vương - lão vương",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-891/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_892_Chuẩn_bị_phát_lực.json",
+    "chapter_name": "Chương 892: Chuẩn bị phát lực",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-892/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_893_Động_thủ.json",
+    "chapter_name": "Chương 893: Động thủ",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-893/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_894_Phản_ứng.json",
+    "chapter_name": "Chương 894: Phản ứng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-894/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_895_Biến_cố_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 895: Biến cố ngoài ý muốn",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-895/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_896_Không_thể_không_chiến.json",
+    "chapter_name": "Chương 896: Không thể không chiến!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-896/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_897_Kế_hoạch_của_Lương_Vi.json",
+    "chapter_name": "Chương 897: Kế hoạch của Lương Vi",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-897/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_898_Cường_công.json",
+    "chapter_name": "Chương 898: Cường công",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-898/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_899_Hào_Giác_Thần_Cấp.json",
+    "chapter_name": "Chương 899: Hào Giác! Thần Cấp!",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-899/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_900_Tử_chiến.json",
+    "chapter_name": "Chương 900: Tử chiến",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-900/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_901_Các_ngươi_có_tốt_không.json",
+    "chapter_name": "Chương 901: Các ngươi có tốt không?",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-901/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_902_Quyết_chiến_với_Thần_Cấp.json",
+    "chapter_name": "Chương 902: Quyết chiến với Thần Cấp",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-902/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_903_Danh_tiếng_Đại_sư_huynh.json",
+    "chapter_name": "Chương 903: Danh tiếng Đại sư huynh",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-903/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_904_Biệt_Hàn_VS_Mục_Huyên.json",
+    "chapter_name": "Chương 904: Biệt Hàn VS Mục Huyên",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-904/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_905_Kiếm_của_Vi_Thắng.json",
+    "chapter_name": "Chương 905: Kiếm của Vi Thắng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-905/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_906_Cái_chết_của_Mễ_Nam.json",
+    "chapter_name": "Chương 906: Cái chết của Mễ Nam",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-906/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_907_Ánh_bình_minh_sắp_tới.json",
+    "chapter_name": "Chương 907: Ánh bình minh sắp tới",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-907/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_908_Ma_thần_điên_cuồng.json",
+    "chapter_name": "Chương 908: Ma thần điên cuồng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-908/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_909_Kiếm_Thần_Vi_Thắng.json",
+    "chapter_name": "Chương 909: Kiếm Thần Vi Thắng",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-909/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_910_Kiếm_của_Lâm_Khiêm.json",
+    "chapter_name": "Chương 910: Kiếm của Lâm Khiêm",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-910/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_911_Lâm_Khiêm_phản_kích.json",
+    "chapter_name": "Chương 911: Lâm Khiêm phản kích",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-911/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_912_Con_bài_mười_năm_Vưu_Cầm_Liệt.json",
+    "chapter_name": "Chương 912: Con bài mười năm Vưu Cầm Liệt",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-912/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_913_Đối_sách.json",
+    "chapter_name": "Chương 913: Đối sách",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-913/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_914_Kiêu_ngạo.json",
+    "chapter_name": "Chương 914: Kiêu ngạo",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-914/"
+  },
+  {
+    "path": "data/Tu_Chân_Thế_Giới/Chương_915_Đại_kết_cục_cuối.json",
+    "chapter_name": "Chương 915: Đại kết cục (cuối)",
+    "url": "https://truyenfull.io/tu-chan-the-gioi/chuong-915/"
   }
 ]
