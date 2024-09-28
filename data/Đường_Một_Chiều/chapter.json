@@ -1,0 +1,397 @@
+[
+  {
+    "path": "data/Đường_Một_Chiều/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-1/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-2/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-3/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-4/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-5/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-6/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-7/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-8/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-9/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-10/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-11/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-12/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-13/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-14/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-15/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-16/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-17/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-18/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-19/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_20.json",
+    "chapter_name": "Chương 20",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-20/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_21.json",
+    "chapter_name": "Chương 21",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-21/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_22.json",
+    "chapter_name": "Chương 22",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-22/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_23.json",
+    "chapter_name": "Chương 23",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-23/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_24.json",
+    "chapter_name": "Chương 24",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-24/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_25.json",
+    "chapter_name": "Chương 25",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-25/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_26.json",
+    "chapter_name": "Chương 26",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-26/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_27.json",
+    "chapter_name": "Chương 27",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-27/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_28.json",
+    "chapter_name": "Chương 28",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-28/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_29.json",
+    "chapter_name": "Chương 29",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-29/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_30.json",
+    "chapter_name": "Chương 30",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-30/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_31.json",
+    "chapter_name": "Chương 31",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-31/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_32.json",
+    "chapter_name": "Chương 32",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-32/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_33.json",
+    "chapter_name": "Chương 33",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-33/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_34.json",
+    "chapter_name": "Chương 34",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-34/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_35.json",
+    "chapter_name": "Chương 35",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-35/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_36.json",
+    "chapter_name": "Chương 36",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-36/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_37.json",
+    "chapter_name": "Chương 37",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-37/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_38.json",
+    "chapter_name": "Chương 38",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-38/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_39.json",
+    "chapter_name": "Chương 39",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-39/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_40.json",
+    "chapter_name": "Chương 40",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-40/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_41.json",
+    "chapter_name": "Chương 41",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-41/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_42.json",
+    "chapter_name": "Chương 42",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-42/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_43.json",
+    "chapter_name": "Chương 43",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-43/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_44.json",
+    "chapter_name": "Chương 44",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-44/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_45.json",
+    "chapter_name": "Chương 45",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-45/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_46.json",
+    "chapter_name": "Chương 46",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-46/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_47.json",
+    "chapter_name": "Chương 47",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-47/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_48.json",
+    "chapter_name": "Chương 48",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-48/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-49/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_50.json",
+    "chapter_name": "Chương 50",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-50/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-51/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_52.json",
+    "chapter_name": "Chương 52",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-52/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_53.json",
+    "chapter_name": "Chương 53",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-53/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-54/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_55.json",
+    "chapter_name": "Chương 55",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-55/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_56.json",
+    "chapter_name": "Chương 56",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-56/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-57/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-58/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-59/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-60/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-61/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-62/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-63/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-64/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-65/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-66/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-67/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-68/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-69/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-70/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-71/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-72/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-73/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-74/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-75/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-76/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-77/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-78/"
+  },
+  {
+    "path": "data/Đường_Một_Chiều/Chương_79_Ngoại_truyện.json",
+    "chapter_name": "Chương 79: Ngoại truyện",
+    "url": "https://truyenfull.io/duong-mot-chieu/chuong-79/"
+  }
+]
