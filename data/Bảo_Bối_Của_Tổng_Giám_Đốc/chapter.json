@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_1_Gặp_nhau.json",
+    "chapter_name": "Chương 1: Gặp nhau",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-1/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_2_Chi_phiếu.json",
+    "chapter_name": "Chương 2: Chi phiếu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-2/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_3_Chuyện_này_không_bình_thường.json",
+    "chapter_name": "Chương 3: Chuyện này không bình thường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-3/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_4_Uy_hiếp.json",
+    "chapter_name": "Chương 4: Uy hiếp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-4/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_5_Thả_ta_đi.json",
+    "chapter_name": "Chương 5: Thả ta đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-5/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_6_Đau_.json",
+    "chapter_name": "Chương 6: Đau. . . . .",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-6/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_7_Đem_thuốc_uống.json",
+    "chapter_name": "Chương 7: Đem thuốc uống",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-7/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_8_Nhốt.json",
+    "chapter_name": "Chương 8: Nhốt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-8/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_9_Chạm_mặt_mẹ_con_kia.json",
+    "chapter_name": "Chương 9: Chạm mặt mẹ con kia",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-9/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_10_Tỷ_muội_tương_tàn.json",
+    "chapter_name": "Chương 10: Tỷ muội tương tàn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-10/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_11_Giúp_tôi_chuẩn_bị_nước_tắm.json",
+    "chapter_name": "Chương 11: Giúp tôi chuẩn bị nước tắm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-11/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_12_Phòng_tắm.json",
+    "chapter_name": "Chương 12: Phòng tắm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-12/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_13_Tự_mình_mua_nội_y_đi.json",
+    "chapter_name": "Chương 13: Tự mình mua nội y đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-13/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_14_Được_voi_đòi_tiên.json",
+    "chapter_name": "Chương 14: Được voi đòi tiên",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-14/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_15_Phòng_thay_đồ.json",
+    "chapter_name": "Chương 15: Phòng thay đồ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-15/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_16_Phục_vụ_nội_y.json",
+    "chapter_name": "Chương 16: Phục vụ nội y",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-16/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_17_Thích_không.json",
+    "chapter_name": "Chương 17: Thích không",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-17/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_18_Đừng_ở_đây.json",
+    "chapter_name": "Chương 18: Đừng ở đây",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-18/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_19_Mang_giày.json",
+    "chapter_name": "Chương 19: Mang giày",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-19/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_20_Vacheron_constantin.json",
+    "chapter_name": "Chương 20: Vacheron constantin",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-20/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_21_Chuyện_xấu.json",
+    "chapter_name": "Chương 21: Chuyện xấu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-21/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_22_Quần_áo_mới.json",
+    "chapter_name": "Chương 22: Quần áo mới?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-22/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_23_Nói_dối_thiện_ý.json",
+    "chapter_name": "Chương 23: Nói dối thiện ý",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-23/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_24_Kích_hôn_trên_xe.json",
+    "chapter_name": "Chương 24: Kích hôn trên xe",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-24/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_25_Bằng_mặt_không_bằng_lòng.json",
+    "chapter_name": "Chương 25: Bằng mặt không bằng lòng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-25/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_26_Thử_hưởng_thụ_đi.json",
+    "chapter_name": "Chương 26: Thử hưởng thụ đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-26/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_27_Thì_ra_là_em_rất_thích.json",
+    "chapter_name": "Chương 27: Thì ra là em rất thích",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-27/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_28_Tự_mình_chọn.json",
+    "chapter_name": "Chương 28: Tự mình chọn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-28/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_29_Nói_dối.json",
+    "chapter_name": "Chương 29: Nói dối",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-29/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_30_Say_rượu.json",
+    "chapter_name": "Chương 30: Say rượu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-30/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_31_Tôi_đang_đợi_em_trả_lời.json",
+    "chapter_name": "Chương 31: Tôi đang đợi em trả lời",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-31/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_32_Tầng_32.json",
+    "chapter_name": "Chương 32: Tầng 32",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-32/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_33_Thư_tình.json",
+    "chapter_name": "Chương 33: Thư tình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-33/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_34_Cậu_hại_chết_tớ_rồi.json",
+    "chapter_name": "Chương 34: Cậu hại chết tớ rồi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-34/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_35_Tức_giận_đến_không_rõ_ràng.json",
+    "chapter_name": "Chương 35: Tức giận đến không rõ ràng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-35/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_36_Chuyển_trường.json",
+    "chapter_name": "Chương 36: Chuyển trường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-36/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_37_Đánh_một_chút.json",
+    "chapter_name": "Chương 37: Đánh một chút",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-37/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_38_Bị_đánh.json",
+    "chapter_name": "Chương 38: Bị đánh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-38/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_39_Gọi_tên_tôi.json",
+    "chapter_name": "Chương 39: Gọi tên tôi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-39/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_40_Động_tâm.json",
+    "chapter_name": "Chương 40: Động tâm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-40/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_41_Lau_son_môi.json",
+    "chapter_name": "Chương 41: Lau son môi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-41/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_42_Tiểu_tam.json",
+    "chapter_name": "Chương 42: Tiểu tam",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-42/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_43_Mục_thiên_tuyết.json",
+    "chapter_name": "Chương 43: Mục thiên tuyết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-43/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_44_Chà_lưng_cho_tôi.json",
+    "chapter_name": "Chương 44: Chà lưng cho tôi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-44/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_45_Phong_ba_nơi_WC.json",
+    "chapter_name": "Chương 45: Phong ba nơi WC",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-45/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_46_Nghĩ_hay_quá_ha.json",
+    "chapter_name": "Chương 46: Nghĩ hay quá ha",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-46/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_47_Cùng_xe.json",
+    "chapter_name": "Chương 47: Cùng xe",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-47/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_48_Bảo_vệ_cái_mông_không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 48: Bảo vệ cái mông không biết xấu hổ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-48/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_49_Nổi_điên.json",
+    "chapter_name": "Chương 49: Nổi điên",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-49/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_50_Vì_cái_gì_không_đánh_trả.json",
+    "chapter_name": "Chương 50: Vì cái gì không đánh trả",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-50/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_51_Đi_tắm.json",
+    "chapter_name": "Chương 51: Đi tắm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-51/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_52_Cửa_bị_phá.json",
+    "chapter_name": "Chương 52: Cửa bị phá",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-52/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_53_Anh_trai_tốt.json",
+    "chapter_name": "Chương 53: Anh trai tốt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-53/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_54_Đập_lên_mặt_cô_ta.json",
+    "chapter_name": "Chương 54: Đập lên mặt cô ta",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-54/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_55_Đánh_nhau.json",
+    "chapter_name": "Chương 55: Đánh nhau",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-55/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_56_Đối_tốt_với_cô.json",
+    "chapter_name": "Chương 56: Đối tốt với cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-56/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_57_Nam_nhân_già.json",
+    "chapter_name": "Chương 57: Nam nhân già",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-57/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_58_Mời.json",
+    "chapter_name": "Chương 58: Mời",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-58/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_59_Triệu_mĩ_na.json",
+    "chapter_name": "Chương 59: Triệu mĩ na",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-59/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_60_Tâm_cơ.json",
+    "chapter_name": "Chương 60: Tâm cơ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-60/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_61_Mua_đồ_ăn.json",
+    "chapter_name": "Chương 61: Mua đồ ăn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-61/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_62_Muốn_tôi_làm_sao_đây.json",
+    "chapter_name": "Chương 62: Muốn tôi làm sao đây?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-62/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_63_Biến_cố.json",
+    "chapter_name": "Chương 63: Biến cố",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-63/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_64_Diễn_trò.json",
+    "chapter_name": "Chương 64: Diễn trò",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-64/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_65_Hắn_sẽ_không_làm_khó_dễ_cô.json",
+    "chapter_name": "Chương 65: Hắn sẽ không làm khó dễ cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-65/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_66_Mê_mang.json",
+    "chapter_name": "Chương 66: Mê mang",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-66/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_67_Thiên_Dương_cứu_ta.json",
+    "chapter_name": "Chương 67: Thiên Dương cứu ta",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-67/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_68_Nếu_không_có_Uyển_Tình.json",
+    "chapter_name": "Chương 68: Nếu không có Uyển Tình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-68/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_69_Tâm_tư_nhẵn_nhụi.json",
+    "chapter_name": "Chương 69: Tâm tư nhẵn nhụi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-69/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_70_Khó_uống.json",
+    "chapter_name": "Chương 70: Khó uống",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-70/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_71_Xin_hắn_nhẹ_một_chút.json",
+    "chapter_name": "Chương 71: Xin hắn nhẹ một chút",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-71/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_72_Thành_tích_kiểm_tra_hàng_tháng.json",
+    "chapter_name": "Chương 72: Thành tích kiểm tra hàng tháng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-72/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_73_Chắc_là_tôi.json",
+    "chapter_name": "Chương 73: Chắc là tôi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-73/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_74_Tôi_khinh_thường.json",
+    "chapter_name": "Chương 74: Tôi khinh thường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-74/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_75_Mèo_hoang_nhỏ.json",
+    "chapter_name": "Chương 75: Mèo hoang nhỏ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-75/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_76_Đắc_ý.json",
+    "chapter_name": "Chương 76: Đắc ý",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-76/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_77_Dưa_hấu.json",
+    "chapter_name": "Chương 77: Dưa hấu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-77/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_78_Các_anh_ăn_đi.json",
+    "chapter_name": "Chương 78: Các anh ăn đi!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-78/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_79_Tôi_phải_về_nhà.json",
+    "chapter_name": "Chương 79: Tôi phải về nhà",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-79/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_80_Các_em_đánh_một_trận.json",
+    "chapter_name": "Chương 80: Các em đánh một trận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-80/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_81_Em_đi_đi.json",
+    "chapter_name": "Chương 81: Em đi đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-81/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_82_Sinh_bệnh_H.json",
+    "chapter_name": "Chương 82: Sinh bệnh (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-82/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_83_Tức_giận.json",
+    "chapter_name": "Chương 83: Tức giận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-83/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_84_Nội_trú.json",
+    "chapter_name": "Chương 84: Nội trú",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-84/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_85_Mời.json",
+    "chapter_name": "Chương 85: Mời",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-85/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_86_Mua_quần_áo.json",
+    "chapter_name": "Chương 86: Mua quần áo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-86/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_87_Ác_ma_gọi_về.json",
+    "chapter_name": "Chương 87: Ác ma gọi về",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-87/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_88_Thư_phòng_của_gia_gia_H.json",
+    "chapter_name": "Chương 88: Thư phòng của gia gia (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-88/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_89_Lần_thứ_hai_H.json",
+    "chapter_name": "Chương 89: Lần thứ hai (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-89/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_90_Cô_ta_chỉ_là_một_quân_cờ.json",
+    "chapter_name": "Chương 90: Cô ta chỉ là một quân cờ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-90/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_91_Có_tiểu_bảo_bảo_làm_sao_bây_giờ.json",
+    "chapter_name": "Chương 91: Có tiểu bảo bảo làm sao bây giờ?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-91/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_92_Hợp_mưu.json",
+    "chapter_name": "Chương 92: Hợp mưu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-92/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_93_Uyển_Tình_em_trở_về_cho_anh.json",
+    "chapter_name": "Chương 93: Uyển Tình, em trở về cho anh!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-93/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_94_Cút.json",
+    "chapter_name": "Chương 94: Cút",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-94/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_95_Anh_không_cần_tạ_ơn_anh_muốn_tình_yêu.json",
+    "chapter_name": "Chương 95: Anh không cần tạ ơn, anh muốn tình yêu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-95/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_96_Xuống_dưới.json",
+    "chapter_name": "Chương 96: Xuống dưới",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-96/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_97_Ở_trong_xe.json",
+    "chapter_name": "Chương 97: Ở trong xe",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-97/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_98_Chuyển_phát_thuốc.json",
+    "chapter_name": "Chương 98: Chuyển phát thuốc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-98/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_99_Ôn_tồn.json",
+    "chapter_name": "Chương 99: Ôn tồn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-99/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_100_Bôi_thuốc.json",
+    "chapter_name": "Chương 100: Bôi thuốc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-100/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_101_Anh_dạy_cho_em.json",
+    "chapter_name": "Chương 101: Anh dạy cho em",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-101/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_102_Phu_nhân_tương_lai.json",
+    "chapter_name": "Chương 102: Phu nhân tương lai",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-102/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_103_Rửa_chén.json",
+    "chapter_name": "Chương 103: Rửa chén",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-103/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_104_Anh_chính_là_điên_rồi.json",
+    "chapter_name": "Chương 104: Anh chính là điên rồi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-104/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_105_Cả_đời.json",
+    "chapter_name": "Chương 105: Cả đời",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-105/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_106_Sủng_ái.json",
+    "chapter_name": "Chương 106: Sủng ái",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-106/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_107_Cảm_giác_gì.json",
+    "chapter_name": "Chương 107: Cảm giác gì",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-107/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_108_Nghi_kỵ_với_Uyển_Tình.json",
+    "chapter_name": "Chương 108: Nghi kỵ với Uyển Tình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-108/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_109_Không_nghe_lời_em_nói_chịu_thiệt_ngay_trước_mắt.json",
+    "chapter_name": "Chương 109: Không nghe lời em nói, chịu thiệt ngay trước mắt!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-109/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_110_Coi_chừng_cô.json",
+    "chapter_name": "Chương 110: Coi chừng cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-110/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_111_Chuyên_gia_tình_yêu.json",
+    "chapter_name": "Chương 111: Chuyên gia tình yêu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-111/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_112_Dám_đùa_giỡn_nữ_nhân_của_anh.json",
+    "chapter_name": "Chương 112: Dám đùa giỡn nữ nhân của anh!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-112/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_113_Không_cần_diễn_trò.json",
+    "chapter_name": "Chương 113: Không cần diễn trò",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-113/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_114_Kế_hoạch_mơ_hồ.json",
+    "chapter_name": "Chương 114: Kế hoạch mơ hồ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-114/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_115_Hình_thức_tình_yêu_cuồng_nhiệt.json",
+    "chapter_name": "Chương 115: Hình thức tình yêu cuồng nhiệt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-115/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_116_Trèo_tường.json",
+    "chapter_name": "Chương 116: Trèo tường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-116/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_117_Suối_nước_nóng.json",
+    "chapter_name": "Chương 117: Suối nước nóng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-117/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_118_Báo_chí.json",
+    "chapter_name": "Chương 118: Báo chí",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-118/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_119_Đoán.json",
+    "chapter_name": "Chương 119: Đoán",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-119/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_120_Bị_ma_quỷ_ám_ảnh.json",
+    "chapter_name": "Chương 120: Bị ma quỷ ám ảnh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-120/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_121_Hai_valy_lớn.json",
+    "chapter_name": "Chương 121: Hai valy lớn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-121/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_122_Bao_dưỡng.json",
+    "chapter_name": "Chương 122: Bao dưỡng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-122/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_123_Nôn_mửa.json",
+    "chapter_name": "Chương 123: Nôn mửa",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-123/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_124_Ai_dính_ai.json",
+    "chapter_name": "Chương 124: Ai dính ai",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-124/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_125_Em_cái_kia_không_đều.json",
+    "chapter_name": "Chương 125: Em cái kia không đều",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-125/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_126_Cầu_hôn.json",
+    "chapter_name": "Chương 126: Cầu hôn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-126/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_127_Kinh_hách.json",
+    "chapter_name": "Chương 127: Kinh hách",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-127/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_128_Món_quà.json",
+    "chapter_name": "Chương 128: Món quà",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-128/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_129_Ăn_no_ba_phần.json",
+    "chapter_name": "Chương 129: Ăn no ba phần",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-129/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_130_Chị_dâu_nhỏ.json",
+    "chapter_name": "Chương 130: Chị dâu nhỏ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-130/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_131_Mày_đang_nhìn_ở_đâu_đấy.json",
+    "chapter_name": "Chương 131: Mày đang nhìn ở đâu đấy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-131/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_132_Hai_chị_dâu.json",
+    "chapter_name": "Chương 132: Hai chị dâu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-132/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_133_Người_phía_dưới.json",
+    "chapter_name": "Chương 133: Người phía dưới",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-133/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_134_Thần_mã_nghe_giường.json",
+    "chapter_name": "Chương 134: Thần mã nghe giường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-134/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_135_Chụp_trộm.json",
+    "chapter_name": "Chương 135: Chụp trộm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-135/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_136_Lại_đắc_thủ.json",
+    "chapter_name": "Chương 136: Lại đắc thủ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-136/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_137_Dương_Dương.json",
+    "chapter_name": "Chương 137: Dương Dương",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-137/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_138_Đánh_cuộc.json",
+    "chapter_name": "Chương 138: Đánh cuộc!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-138/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_139_Bất_công.json",
+    "chapter_name": "Chương 139: Bất công",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-139/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_140_Dã_tâm.json",
+    "chapter_name": "Chương 140: Dã tâm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-140/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_141_Tính_kế_cái_gì.json",
+    "chapter_name": "Chương 141: Tính kế cái gì",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-141/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_142_Kế_hoạch_lâu_dài.json",
+    "chapter_name": "Chương 142: Kế hoạch lâu dài",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-142/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_143_Bí_mật_H.json",
+    "chapter_name": "Chương 143: Bí mật (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-143/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_144_An_tâm_suy_nghĩ.json",
+    "chapter_name": "Chương 144: An tâm suy nghĩ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-144/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_145_Thật_nhiều_trai_đẹp.json",
+    "chapter_name": "Chương 145: Thật nhiều trai đẹp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-145/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_146_Đồng_tính_luyến_ái.json",
+    "chapter_name": "Chương 146: Đồng tính luyến ái?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-146/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_147_Chủ_ý_của_ai.json",
+    "chapter_name": "Chương 147: Chủ ý của ai?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-147/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_148_Bất_Dạ_Thành.json",
+    "chapter_name": "Chương 148: Bất Dạ Thành",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-148/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_149_Đổi_xe.json",
+    "chapter_name": "Chương 149: Đổi xe",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-149/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_150_Món_quà_của_cô_cho.json",
+    "chapter_name": "Chương 150: Món quà của cô cho",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-150/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_151_Uyển_Tình_đánh_bạc.json",
+    "chapter_name": "Chương 151: Uyển Tình đánh bạc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-151/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_152_Bỏ_thuốc.json",
+    "chapter_name": "Chương 152: Bỏ thuốc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-152/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_153_Vợ_hát_chồng_theo.json",
+    "chapter_name": "Chương 153: Vợ hát chồng theo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-153/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_154_Mộng.json",
+    "chapter_name": "Chương 154: Mộng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-154/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_155_Ông_kỳ_quái.json",
+    "chapter_name": "Chương 155: Ông kỳ quái",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-155/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_156_Điều_tra_một_chút.json",
+    "chapter_name": "Chương 156: Điều tra một chút",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-156/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_157_Bà_Phó_đưa_cho.json",
+    "chapter_name": "Chương 157: Bà Phó đưa cho",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-157/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_158_Có_chút_không_tra_được.json",
+    "chapter_name": "Chương 158: Có chút không tra được",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-158/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_159_Thật_sự_không_có_ý_tưởng_gì.json",
+    "chapter_name": "Chương 159: Thật sự không có ý tưởng gì",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-159/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_160_Lại_có_thể_không_phải_họ_Kim.json",
+    "chapter_name": "Chương 160: Lại có thể không phải họ Kim",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-160/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_161_Lại_vào_thư_phòng.json",
+    "chapter_name": "Chương 161: Lại vào thư phòng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-161/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_162_Đánh_cờ.json",
+    "chapter_name": "Chương 162: Đánh cờ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-162/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_163_Sáng_sớm_hoan_ái_H.json",
+    "chapter_name": "Chương 163: Sáng sớm hoan ái (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-163/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_164_Nhắc_lại_quá_khứ.json",
+    "chapter_name": "Chương 164: Nhắc lại quá khứ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-164/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_165_Sầu_não.json",
+    "chapter_name": "Chương 165: Sầu não",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-165/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_166_Trở_về_nhanh.json",
+    "chapter_name": "Chương 166: Trở về nhanh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-166/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_167_Đẹp_không.json",
+    "chapter_name": "Chương 167: Đẹp không?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-167/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_168_Trúng_kế.json",
+    "chapter_name": "Chương 168: Trúng kế",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-168/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_169_Tự_cứu.json",
+    "chapter_name": "Chương 169: Tự cứu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-169/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_170_Được_cứu.json",
+    "chapter_name": "Chương 170: Được cứu?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-170/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_171_Không_có_việc_gì.json",
+    "chapter_name": "Chương 171: Không có việc gì",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-171/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_172_Đau_lòng.json",
+    "chapter_name": "Chương 172: Đau lòng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-172/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_173_Cám_ơn_anh_H.json",
+    "chapter_name": "Chương 173: Cám ơn anh (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-173/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_174_Cảnh_cáo.json",
+    "chapter_name": "Chương 174: Cảnh cáo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-174/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_175_Có_phải_là_anh_hay_không.json",
+    "chapter_name": "Chương 175: Có phải là anh hay không?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-175/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_176_Đoán.json",
+    "chapter_name": "Chương 176: Đoán",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-176/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_177_Cách_xa_bọn_họ_một_chút.json",
+    "chapter_name": "Chương 177: Cách xa bọn họ một chút",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-177/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_178_Lấy_lòng.json",
+    "chapter_name": "Chương 178: Lấy lòng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-178/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_179_Tai_nạn_xe_cộ.json",
+    "chapter_name": "Chương 179: Tai nạn xe cộ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-179/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_180_Ánh_mắt_có_hơi_kỳ_lạ.json",
+    "chapter_name": "Chương 180: Ánh mắt có hơi kỳ lạ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-180/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_181_Sinh_nhật.json",
+    "chapter_name": "Chương 181: Sinh nhật",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-181/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_182_Kimônô.json",
+    "chapter_name": "Chương 182: Kimônô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-182/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_183_Ghen_tị.json",
+    "chapter_name": "Chương 183: Ghen tị",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-183/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_184_Chúc_mừng.json",
+    "chapter_name": "Chương 184: Chúc mừng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-184/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_185_Xe_đạp.json",
+    "chapter_name": "Chương 185: Xe đạp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-185/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_186_Kiếp_sau_nhanh_lên.json",
+    "chapter_name": "Chương 186: Kiếp sau nhanh lên",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-186/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_187_Tốt_nghiệp.json",
+    "chapter_name": "Chương 187: Tốt nghiệp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-187/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_188_Anh_sẽ_thương_em_thật_tốt.json",
+    "chapter_name": "Chương 188: Anh sẽ thương em thật tốt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-188/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_189_Không_đủ.json",
+    "chapter_name": "Chương 189: Không đủ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-189/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_190_Thảo_luận.json",
+    "chapter_name": "Chương 190: Thảo luận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-190/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_191_Động_tác_lớn.json",
+    "chapter_name": "Chương 191: Động tác lớn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-191/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_192_Hướng_tới_gần_như_thế.json",
+    "chapter_name": "Chương 192: Hướng tới gần như thế",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-192/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_193_Người_ngoài_hành_tinh_phái_đến.json",
+    "chapter_name": "Chương 193: Người ngoài hành tinh phái đến",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-193/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_194_Sự_trang_bị_của_người_thường.json",
+    "chapter_name": "Chương 194: Sự trang bị của người thường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-194/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_195_Ứng_tuyển.json",
+    "chapter_name": "Chương 195: Ứng tuyển",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-195/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_196_Đừng_làm_cho_anh_tức_giận.json",
+    "chapter_name": "Chương 196: Đừng làm cho anh tức giận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-196/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_197_Giận.json",
+    "chapter_name": "Chương 197: Giận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-197/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_198_Nấu_cơm.json",
+    "chapter_name": "Chương 198: Nấu cơm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-198/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_199_Hâm_mộ.json",
+    "chapter_name": "Chương 199: Hâm mộ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-199/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_200_Rối_loạn.json",
+    "chapter_name": "Chương 200: Rối loạn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-200/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_201_Lại_có_chuyện_như_vậy.json",
+    "chapter_name": "Chương 201: Lại có chuyện như vậy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-201/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_202_Có_ý_nghĩa_với_hắn.json",
+    "chapter_name": "Chương 202: Có ý nghĩa với hắn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-202/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_203_Phản_kích.json",
+    "chapter_name": "Chương 203: Phản kích",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-203/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_204_Chị_em_đánh_nhau.json",
+    "chapter_name": "Chương 204: Chị em đánh nhau",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-204/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_205_Mạo_hiểm.json",
+    "chapter_name": "Chương 205: Mạo hiểm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-205/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_206_Hơi_loạn_uyên_ương.json",
+    "chapter_name": "Chương 206: Hơi loạn uyên ương",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-206/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_207_Muốn_cứu_vãn.json",
+    "chapter_name": "Chương 207: Muốn cứu vãn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-207/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_208_Đổi_trắng_thay_đen.json",
+    "chapter_name": "Chương 208: Đổi trắng thay đen",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-208/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_209_Đoạt_lại_hắn.json",
+    "chapter_name": "Chương 209: Đoạt lại hắn!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-209/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_210_Em_tới_đeo.json",
+    "chapter_name": "Chương 210: Em tới đeo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-210/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_211_Tức_giận.json",
+    "chapter_name": "Chương 211: Tức giận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-211/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_212_Đều_là_vì_chị_dâu_nhỏ_nha.json",
+    "chapter_name": "Chương 212: Đều là vì chị dâu nhỏ nha!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-212/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_213_Nhỏ_tham_tiền.json",
+    "chapter_name": "Chương 213: Nhỏ tham tiền",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-213/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_214_Thang_máy_kinh_hồn.json",
+    "chapter_name": "Chương 214: Thang máy kinh hồn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-214/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_215_Nằm_mơ_gọi_hắn.json",
+    "chapter_name": "Chương 215: Nằm mơ gọi hắn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-215/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_216_Tranh_cãi.json",
+    "chapter_name": "Chương 216: Tranh cãi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-216/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_217_Trăm_ngàn_lần_đừng_quậy_to.json",
+    "chapter_name": "Chương 217: Trăm ngàn lần đừng quậy to",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-217/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_218_Khéo.json",
+    "chapter_name": "Chương 218: Khéo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-218/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_219_Không_trách_em.json",
+    "chapter_name": "Chương 219: Không trách em",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-219/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_220_Âm_thanh_quen_thuộc.json",
+    "chapter_name": "Chương 220: Âm thanh quen thuộc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-220/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_221_Tránh_đi.json",
+    "chapter_name": "Chương 221: Tránh đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-221/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_222_Nói_rõ.json",
+    "chapter_name": "Chương 222: Nói rõ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-222/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_223_Càng_ngày_càng_loạn.json",
+    "chapter_name": "Chương 223: Càng ngày càng loạn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-223/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_224_Tạm_giam_vài_ngày_đi.json",
+    "chapter_name": "Chương 224: Tạm giam vài ngày đi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-224/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_225_Ngươi_không_hiểu.json",
+    "chapter_name": "Chương 225: Ngươi không hiểu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-225/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_226_Xin_lỗi.json",
+    "chapter_name": "Chương 226: Xin lỗi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-226/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_227_Em_không_làm_anh_thất_vọng.json",
+    "chapter_name": "Chương 227: Em không làm anh thất vọng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-227/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_228_Điều_tra_tám_đời_tổ_tông_hắn.json",
+    "chapter_name": "Chương 228: Điều tra tám đời tổ tông hắn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-228/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_229_Uyển_Tình_rối_rắm.json",
+    "chapter_name": "Chương 229: Uyển Tình rối rắm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-229/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_230_Có_hơi_khó_giải_quyết.json",
+    "chapter_name": "Chương 230: Có hơi khó giải quyết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-230/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_231_Mở_quan_tài_ra_lấy_tro_cốt.json",
+    "chapter_name": "Chương 231: Mở quan tài ra lấy tro cốt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-231/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_232_Không_thiếu_một_cái_này_của_tớ.json",
+    "chapter_name": "Chương 232: Không thiếu một cái này của tớ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-232/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_233_Đi_chung_đường.json",
+    "chapter_name": "Chương 233: Đi chung đường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-233/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_234_Đưa_tin.json",
+    "chapter_name": "Chương 234: Đưa tin",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-234/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_235_Đi_gặp_anh_mình.json",
+    "chapter_name": "Chương 235: Đi gặp anh mình!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-235/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_236_Năm_đóa_hoa_hồng.json",
+    "chapter_name": "Chương 236: Năm đóa hoa hồng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-236/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_237_Thà_rằng_hiện_tại_vất_vả_một_chút_H.json",
+    "chapter_name": "Chương 237: Thà rằng hiện tại vất vả một chút (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-237/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_238_Nhân_sinh_hà_xứ_bất_tương_phùng.json",
+    "chapter_name": "Chương 238: Nhân sinh hà xứ bất tương phùng.*",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-238/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_239_Đưa_hắn_caravat.json",
+    "chapter_name": "Chương 239: Đưa hắn caravat",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-239/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_240_Thắt_lên_cho_anh.json",
+    "chapter_name": "Chương 240: Thắt lên cho anh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-240/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_241_Tác_phẩm_nghệ_thuật_xuất_sắc.json",
+    "chapter_name": "Chương 241: Tác phẩm nghệ thuật xuất sắc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-241/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_242_Đã_trở_lại.json",
+    "chapter_name": "Chương 242: Đã trở lại",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-242/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_243_Tiểu_biệt_thắng_tân_hôn_H.json",
+    "chapter_name": "Chương 243: Tiểu biệt thắng tân hôn (H)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-243/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_244_Chủ_động_toàn_bộ_hành_trình.json",
+    "chapter_name": "Chương 244: Chủ động toàn bộ hành trình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-244/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_245_Đuổi_theo.json",
+    "chapter_name": "Chương 245: Đuổi theo!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-245/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_246_Mới_mẻ_lại_bận_rộn.json",
+    "chapter_name": "Chương 246: Mới mẻ lại bận rộn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-246/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_247_Quả_nhiên_đến_đây.json",
+    "chapter_name": "Chương 247: Quả nhiên đến đây",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-247/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_248_Cô_chủ_động_hôn_hắn.json",
+    "chapter_name": "Chương 248: Cô chủ động hôn hắn…",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-248/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_249_Hoa_hậu_học_đường.json",
+    "chapter_name": "Chương 249: Hoa hậu học đường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-249/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_250_Chuyện_xấu_bạn_gái.json",
+    "chapter_name": "Chương 250: Chuyện xấu bạn gái",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-250/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_251_Hàng_tháng_luôn_luôn_có_vài_ngày_như_vậy.json",
+    "chapter_name": "Chương 251: Hàng tháng luôn luôn có vài ngày như vậy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-251/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_252_Chúng_ta_bạch_niên_giai_lão_đi.json",
+    "chapter_name": "Chương 252: Chúng ta bạch niên giai lão đi!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-252/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_253_Du_lịch.json",
+    "chapter_name": "Chương 253: Du lịch",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-253/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_254_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 254: Oan gia ngõ hẹp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-254/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_255_Nghe_diễn_trò.json",
+    "chapter_name": "Chương 255: Nghe diễn trò",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-255/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_256_Cô_không_xứng.json",
+    "chapter_name": "Chương 256: Cô không xứng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-256/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_257_Nhìn_thấy.json",
+    "chapter_name": "Chương 257: Nhìn thấy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-257/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_258_Không_được_phép_ở_bên_anh_ta.json",
+    "chapter_name": "Chương 258: Không được phép ở bên anh ta",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-258/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_259_Gặp_lại.json",
+    "chapter_name": "Chương 259: Gặp lại",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-259/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_260_Cảm_mạo.json",
+    "chapter_name": "Chương 260: Cảm mạo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-260/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_261_Thổ_lộ.json",
+    "chapter_name": "Chương 261: Thổ lộ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-261/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_262_Xin_lỗi.json",
+    "chapter_name": "Chương 262: Xin lỗi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-262/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_263_Trò_truyện_với_em_gái.json",
+    "chapter_name": "Chương 263: Trò truyện với em gái",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-263/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_264_Lãi.json",
+    "chapter_name": "Chương 264: Lãi",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-264/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_265_Lại_là_một_đêm_bình_an.json",
+    "chapter_name": "Chương 265: Lại là một đêm bình an",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-265/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_266_Tình_địch_này_thật_phiền_toái.json",
+    "chapter_name": "Chương 266: Tình địch này thật phiền toái",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-266/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_267_Cho_em_mượn_ngủ_một_đêm.json",
+    "chapter_name": "Chương 267: Cho em mượn ngủ một đêm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-267/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_268_Ông_đến_đấy.json",
+    "chapter_name": "Chương 268: Ông đến đấy!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-268/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_269_Phát_hiện_dấu_vết_để_lại.json",
+    "chapter_name": "Chương 269: Phát hiện dấu vết để lại",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-269/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_270_Làm_sáng_tỏ.json",
+    "chapter_name": "Chương 270: Làm sáng tỏ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-270/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_271_Giám_sát.json",
+    "chapter_name": "Chương 271: Giám sát",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-271/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_272_Kinh_biến.json",
+    "chapter_name": "Chương 272: Kinh biến",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-272/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_273_Âm_thầm_đau.json",
+    "chapter_name": "Chương 273: Âm thầm đau",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-273/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_274_Vui_lên.json",
+    "chapter_name": "Chương 274: Vui lên",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-274/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_275_Chiếc_nhẫn.json",
+    "chapter_name": "Chương 275: Chiếc nhẫn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-275/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_276_Không_thấy.json",
+    "chapter_name": "Chương 276: Không thấy?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-276/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_277_Dây_chuyền_vui_vẻ.json",
+    "chapter_name": "Chương 277: Dây chuyền vui vẻ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-277/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_278_Đi_khám_bác_sĩ.json",
+    "chapter_name": "Chương 278: Đi khám bác sĩ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-278/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_279_Cảm_tình_trên_do_dự.json",
+    "chapter_name": "Chương 279: Cảm tình trên do dự",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-279/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_280_Đáp_xe_nhường_đường.json",
+    "chapter_name": "Chương 280: Đáp xe nhường đường",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-280/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_281_Từ_chối.json",
+    "chapter_name": "Chương 281: Từ chối",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-281/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_282_Bầu_không_khí_hài_hòa.json",
+    "chapter_name": "Chương 282: Bầu không khí hài hòa",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-282/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_283_Kém_một_chút_như_vậy.json",
+    "chapter_name": "Chương 283: Kém một chút như vậy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-283/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_284_Không_khoa_học.json",
+    "chapter_name": "Chương 284: Không khoa học",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-284/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_285_Giống_như_chúc_tết_à.json",
+    "chapter_name": "Chương 285: Giống như chúc tết à",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-285/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_286_Con_dâu_dự_bị_của_trưởng_nam.json",
+    "chapter_name": "Chương 286: Con dâu dự bị của trưởng nam",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-286/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_287_Uy_hiếp.json",
+    "chapter_name": "Chương 287: Uy hiếp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-287/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_288_Bị_hố.json",
+    "chapter_name": "Chương 288: Bị hố",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-288/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_289_Suy_nghĩ_đẹp.json",
+    "chapter_name": "Chương 289: Suy nghĩ đẹp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-289/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_290_Ý_trời.json",
+    "chapter_name": "Chương 290: Ý trời",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-290/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_291_Anh_hùng_cứu_mỹ_nhân.json",
+    "chapter_name": "Chương 291: Anh hùng cứu mỹ nhân",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-291/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_292_Hỏi_cô.json",
+    "chapter_name": "Chương 292: Hỏi cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-292/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_293_Đừng_phát_triển_quá_nhanh.json",
+    "chapter_name": "Chương 293: Đừng phát triển quá nhanh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-293/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_294_Nổi_bật.json",
+    "chapter_name": "Chương 294: Nổi bật",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-294/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_295_Em_mới_không_ăn_dấm_chua.json",
+    "chapter_name": "Chương 295: Em mới không ăn dấm chua",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-295/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_296_Bối_phận_anh_lớn.json",
+    "chapter_name": "Chương 296: Bối phận anh lớn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-296/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_297_Đã_muốn_làm.json",
+    "chapter_name": "Chương 297: Đã muốn làm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-297/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_298_Thổ_lộ_thật_phức_tạp.json",
+    "chapter_name": "Chương 298: Thổ lộ thật phức tạp",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-298/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_299_Đánh_nhau.json",
+    "chapter_name": "Chương 299: Đánh nhau",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-299/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_300_Nguy_cơ.json",
+    "chapter_name": "Chương 300: Nguy cơ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-300/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_301_Nhu_cầu_vàng.json",
+    "chapter_name": "Chương 301: Nhu cầu vàng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-301/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_302_Muốn_kết_hôn.json",
+    "chapter_name": "Chương 302: Muốn kết hôn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-302/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_303_Đánh.json",
+    "chapter_name": "Chương 303: Đánh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-303/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_304_Rơi_nước_mắt.json",
+    "chapter_name": "Chương 304: Rơi nước mắt",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-304/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_305_Trút_giận.json",
+    "chapter_name": "Chương 305: Trút giận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-305/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_306_Dấu_môi_son.json",
+    "chapter_name": "Chương 306: Dấu môi son",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-306/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_307_Rốt_cuộc_gặp_được_chú_Đỗ.json",
+    "chapter_name": "Chương 307: Rốt cuộc gặp được chú Đỗ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-307/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_308_Tạm_hài_lòng.json",
+    "chapter_name": "Chương 308: Tạm hài lòng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-308/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_309_A_Thành_và_Thiên_Tuyết.json",
+    "chapter_name": "Chương 309: A Thành và Thiên Tuyết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-309/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_310_Thiên_Tuyết_tàn_bạo_13.json",
+    "chapter_name": "Chương 310: Thiên Tuyết tàn bạo (1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-310/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_311_Thầm_mến_23.json",
+    "chapter_name": "Chương 311: Thầm mến (2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-311/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_312_Gia_đình_nhỏ_ấm_áp_33.json",
+    "chapter_name": "Chương 312: Gia đình nhỏ ấm áp (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-312/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_313_Muốn_trở_về_13.json",
+    "chapter_name": "Chương 313: Muốn trở về (1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-313/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_314_Dám_mặc_bikini_em_nhất_định_sẽ_chết.json",
+    "chapter_name": "Chương 314: Dám mặc bikini, em nhất định sẽ chết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-314/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_315_Thứ_sáu_là_sinh_nhật_của_anh_trai_mình.json",
+    "chapter_name": "Chương 315: Thứ sáu là sinh nhật của anh trai mình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-315/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_316_Lạnh_lùng_cao_quý.json",
+    "chapter_name": "Chương 316: Lạnh lùng cao quý",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-316/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_317_Đưa_anh_một_lần_đầu_tiên.json",
+    "chapter_name": "Chương 317: Đưa anh một lần đầu tiên",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-317/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_318_Đây_là_món_quà_tốt_nhất_33.json",
+    "chapter_name": "Chương 318: Đây là món quà tốt nhất (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-318/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_319_Cấu_kết_với_nhau_làm_việc_xấu.json",
+    "chapter_name": "Chương 319: Cấu kết với nhau làm việc xấu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-319/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_320_Ngày_mai_đi_kết_hôn23.json",
+    "chapter_name": "Chương 320: Ngày mai đi kết hôn(2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-320/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_321_Làm_việc_tốt_thường_gian_nan33.json",
+    "chapter_name": "Chương 321: Làm việc tốt thường gian nan(3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-321/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_322_Tại_sao_là_cô.json",
+    "chapter_name": "Chương 322: Tại sao là cô?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-322/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_323_Sos.json",
+    "chapter_name": "Chương 323: Sos",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-323/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_324_Cô_bé_lọ_lem_13.json",
+    "chapter_name": "Chương 324: Cô bé lọ lem (1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-324/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_325_Phỉ_thúy_23.json",
+    "chapter_name": "Chương 325: Phỉ thúy (2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-325/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_326_Chuyển_nhượng_33.json",
+    "chapter_name": "Chương 326: Chuyển nhượng (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-326/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_327_Bây_giờ_bắt_đầu_học.json",
+    "chapter_name": "Chương 327: Bây giờ bắt đầu học",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-327/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_328_Trận_đấu.json",
+    "chapter_name": "Chương 328: Trận đấu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-328/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_329_Không_cần_quan_tâm_đến_nó.json",
+    "chapter_name": "Chương 329: Không cần quan tâm đến nó",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-329/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_330_Vội_vã_thấy_anh.json",
+    "chapter_name": "Chương 330: Vội vã thấy anh?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-330/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_331_Em_mới_không_có_lo_lắng_đâu.json",
+    "chapter_name": "Chương 331: Em mới không có lo lắng đâu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-331/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_332_Đại_trượng_phu_náo_loạn_cái_tính_tình_gì.json",
+    "chapter_name": "Chương 332: Đại trượng phu náo loạn cái tính tình gì",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-332/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_333_Anh_đi_mua_thức_ăn.json",
+    "chapter_name": "Chương 333: Anh đi mua thức ăn?",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-333/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_334_Công_nghiệp_chuyên_về_phẫu_thuật.json",
+    "chapter_name": "Chương 334: Công nghiệp chuyên về phẫu thuật",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-334/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_335_Nem_rán.json",
+    "chapter_name": "Chương 335: Nem rán",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-335/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_336_Ngày_nghỉ_thật_dài.json",
+    "chapter_name": "Chương 336: Ngày nghỉ thật dài",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-336/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_337_Bóp_chết_đứa_em_gái_kia2.json",
+    "chapter_name": "Chương 337: Bóp chết đứa em gái kia(2)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-337/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_338_Chê_thổ_lộ_ít.json",
+    "chapter_name": "Chương 338: Chê thổ lộ ít",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-338/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_339_Xảy_ra_vấn_đề_13.json",
+    "chapter_name": "Chương 339: Xảy ra vấn đề (1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-339/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_340_Đánh_rơi_ba_lần23.json",
+    "chapter_name": "Chương 340: Đánh rơi ba lần(2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-340/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_341_Qúa_hỗn_loạn.json",
+    "chapter_name": "Chương 341: Qúa hỗn loạn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-341/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_342_Vỡ_thành_căn_ba_13.json",
+    "chapter_name": "Chương 342: Vỡ thành cặn bã (1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-342/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_343_Nhớ_em.json",
+    "chapter_name": "Chương 343: Nhớ em",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-343/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_344_Tượng_phật_thật_lớn13.json",
+    "chapter_name": "Chương 344: Tượng phật thật lớn(1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-344/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_345_Báo_ứng_tới_rất_vui_vẻ_23.json",
+    "chapter_name": "Chương 345: Báo ứng tới rất vui vẻ (2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-345/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_346_Cô_thư_ký_đep_33.json",
+    "chapter_name": "Chương 346: Cô thư ký đẹp (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-346/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_347_Chương_347_Kẻ_lừa_đảo13.json",
+    "chapter_name": "Chương 347: Chương 347: Kẻ lừa đảo(1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-347/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_348_Làm_thế_nào_để_quên_anh_23.json",
+    "chapter_name": "Chương 348: Làm thế nào để quên anh? (2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-348/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_349_Hoài_nghi_33.json",
+    "chapter_name": "Chương 349: Hoài nghi (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-349/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_350_Chỉ_có_thích_là_không_đủ.json",
+    "chapter_name": "Chương 350: Chỉ có thích là không đủ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-350/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_351_Rùng_mình.json",
+    "chapter_name": "Chương 351: Rùng mình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-351/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_352_Đều_phải_hỏng_mất.json",
+    "chapter_name": "Chương 352: Đều phải hỏng mất",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-352/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_353_Người_một_nhà_không_thể_có_việc13.json",
+    "chapter_name": "Chương 353: Người một nhà không thể có việc(1/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-353/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_354_Có_cần_mua_thảm_hay_không23.json",
+    "chapter_name": "Chương 354: Có cần mua thảm hay không?(2/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-354/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_355_Tiết_tháo.json",
+    "chapter_name": "Chương 355: Tiết tháo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-355/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_356_Rối_rắm_nha_16.json",
+    "chapter_name": "Chương 356: Rối rắm nha..... (1/6)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-356/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_357_Đại_sự_bị_phơi_bày26.json",
+    "chapter_name": "Chương 357: Đại sự bị phơi bày(2/6)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-357/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_358_Có_ma_quỷ_bên_trong.json",
+    "chapter_name": "Chương 358: Có ma quỷ bên trong",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-358/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_359_Ai_cung_tinh_nghi_46.json",
+    "chapter_name": "Chương 359: Ai cũng tình nghi (4/6)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-359/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_360_Là_cô.json",
+    "chapter_name": "Chương 360: Là cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-360/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_361_Hàng_ngũ_heo.json",
+    "chapter_name": "Chương 361: Hàng ngũ heo",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-361/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_362_Lâm_Huy_Nhân_ngay_nay_15.json",
+    "chapter_name": "Chương 362: Lâm Huy Nhân ngày nay (1/5)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-362/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_363_Lợi_cho_các_cô_quá.json",
+    "chapter_name": "Chương 363: Lợi cho các cô quá",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-363/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_364.json",
+    "chapter_name": "Chương 364",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-364/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_365_365_So_với_Mục_Thiên_Dương_hầu_hạ_càng_khó_chịu.json",
+    "chapter_name": "Chương 365: 365: So với Mục Thiên Dương hầu hạ càng khó chịu",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-365/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_366_Ân_ái_55.json",
+    "chapter_name": "Chương 366: Ân ái (5/5)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-366/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_367_Vui_vẻ.json",
+    "chapter_name": "Chương 367: Vui vẻ",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-367/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_368_Giả_vờ_bệnh.json",
+    "chapter_name": "Chương 368: Giả vờ bệnh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-368/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_369_Sanh_non_35.json",
+    "chapter_name": "Chương 369: Sanh non (3/5)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-369/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_370_Lo_trước_khỏi_họa.json",
+    "chapter_name": "Chương 370: Lo trước khỏi họa",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-370/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_371_Nghe_nói_em_tìm_anh.json",
+    "chapter_name": "Chương 371: Nghe nói em tìm anh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-371/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_372_Ta_hiểu_rất_rõ_ngươi_15.json",
+    "chapter_name": "Chương 372: Ta hiểu rất rõ ngươi (1/5)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-372/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_373_Nghĩ_rất_muốn_đá_cô.json",
+    "chapter_name": "Chương 373: Nghĩ rất muốn đá cô",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-373/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_374_Con_gái_riêng.json",
+    "chapter_name": "Chương 374: Con gái riêng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-374/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_375.json",
+    "chapter_name": "Chương 375",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-375/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_376_Khóc_cho_anh_xem.json",
+    "chapter_name": "Chương 376: Khóc cho anh xem",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-376/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_377_Bò_bít_tết.json",
+    "chapter_name": "Chương 377: Bò bít tết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-377/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_378_Thiên_Thành_và_chó_không_được_đi_vào.json",
+    "chapter_name": "Chương 378: Thiên Thành và chó không được đi vào",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-378/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_379_Tơ_đi_Trúng_độc.json",
+    "chapter_name": "Chương 379: Tớ đi! Trúng độc!",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-379/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_380_Từ_Khả_Vi_đến_đây.json",
+    "chapter_name": "Chương 380: Từ Khả Vi đến đây",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-380/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_381_Dò_vết.json",
+    "chapter_name": "Chương 381: Dò vết",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-381/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_382_May_mắn_không_phải_của_anh.json",
+    "chapter_name": "Chương 382: May mắn không phải của anh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-382/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_383_Hát_đi_anh.json",
+    "chapter_name": "Chương 383: Hát đi anh",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-383/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_384_Giấu_diếm.json",
+    "chapter_name": "Chương 384: Giấu diếm",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-384/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_385_Hùng_hài_tử.json",
+    "chapter_name": "Chương 385: Hùng hài tử",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-385/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_386_Trách_móc_trẻ_con.json",
+    "chapter_name": "Chương 386: Trách móc trẻ con",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-386/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_387_Con_thích_cô_ấy.json",
+    "chapter_name": "Chương 387: Con thích cô ấy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-387/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_388_Chi_phí_kết_hôn.json",
+    "chapter_name": "Chương 388: Chi phí kết hôn",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-388/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_389_Gài_bẫy_hãm_hại_A_Thành.json",
+    "chapter_name": "Chương 389: Gài bẫy hãm hại A Thành",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-389/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_390_Lại_một_vấn_đề_nan_giải.json",
+    "chapter_name": "Chương 390: Lại một vấn đề nan giải",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-390/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_391_Về_sau_đi_đường_phải_cẩn_thận.json",
+    "chapter_name": "Chương 391: Về sau đi đường phải cẩn thận",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-391/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_392_Cả_đời_có_được_hay_không.json",
+    "chapter_name": "Chương 392: Cả đời có được hay không",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-392/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_393_Đuổi_việc.json",
+    "chapter_name": "Chương 393: Đuổi việc",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-393/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_394_Kết_nghĩa.json",
+    "chapter_name": "Chương 394: Kết nghĩa",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-394/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_395_Mong_là_ai_cũng_chưa_dùng.json",
+    "chapter_name": "Chương 395: Mong là ai cũng chưa dùng",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-395/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_396_Để_cho_cô_biến_mất.json",
+    "chapter_name": "Chương 396: Để cho cô biến mất",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-396/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_397_Này_là_chân_tình.json",
+    "chapter_name": "Chương 397: Này là chân tình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-397/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_398_Bệnh_có_biến_33.json",
+    "chapter_name": "Chương 398: Bệnh có biến (3/3)",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-398/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_399_Tôi_sẽ_chăm_sóc_cô_ấy.json",
+    "chapter_name": "Chương 399: Tôi sẽ chăm sóc cô ấy",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-399/"
+  },
+  {
+    "path": "data/Bảo_Bối_Của_Tổng_Giám_Đốc/Chương_400_Không_phải_mình_theo_đuổi_Uyển_Tình.json",
+    "chapter_name": "Chương 400: Không phải mình theo đuổi Uyển Tình",
+    "url": "https://truyenfull.io/bao-boi-cua-tong-giam-doc/chuong-400/"
+  }
+]
