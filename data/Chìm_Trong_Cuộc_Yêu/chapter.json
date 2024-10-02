@@ -1,0 +1,912 @@
+[
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_1_Đau_xé_tâm.json",
+    "chapter_name": "Chương 1: Đau xé tâm",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-1/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_2_Nhục_nhã_phần_1.json",
+    "chapter_name": "Chương 2: Nhục nhã (phần 1)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-2/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_3_Nhục_nhã_phần_2.json",
+    "chapter_name": "Chương 3: Nhục nhã ( phần 2)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-3/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_4_Đừng_không_biết_tự_lượng_sức_mình.json",
+    "chapter_name": "Chương 4: Đừng không biết tự lượng sức mình",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-4/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_5_Làm_bồ_của_tôi_đi.json",
+    "chapter_name": "Chương 5: Làm bồ của tôi đi",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-5/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_6_Chỉ_cần_em_nghe_lời.json",
+    "chapter_name": "Chương 6: Chỉ cần em nghe lời",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-6/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_7_Em_giá_bao_nhiêu_tiền.json",
+    "chapter_name": "Chương 7: Em giá bao nhiêu tiền?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-7/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_8_Đùa_giỡn_tôi_cô_sẽ_không_gánh_nổi_hậu_quả.json",
+    "chapter_name": "Chương 8: Đùa giỡn tôi, cô sẽ không gánh nổi hậu quả",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-8/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_9_Dâng_tới_cửa_cũng_vô_dụng.json",
+    "chapter_name": "Chương 9: Dâng tới cửa, cũng vô dụng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-9/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_10_Gấp_thế_hay_sao_17.json",
+    "chapter_name": "Chương 10: Gấp thế hay sao? (17+)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-10/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_11_Từ_bỏ.json",
+    "chapter_name": "Chương 11: Từ bỏ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-11/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_12_Bỏ_thuốc.json",
+    "chapter_name": "Chương 12: Bỏ thuốc",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-12/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_13_Nhục_nhã.json",
+    "chapter_name": "Chương 13: Nhục nhã",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-13/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_14_Không_làm_thế_thân.json",
+    "chapter_name": "Chương 14: Không làm thế thân",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-14/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_15_Chịu_tội_thay.json",
+    "chapter_name": "Chương 15: Chịu tội thay",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-15/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_16_Thỏa_hiệp.json",
+    "chapter_name": "Chương 16: Thỏa hiệp",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-16/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_17_Tham_hoan.json",
+    "chapter_name": "Chương 17: Tham hoan",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-17/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_18_Người_vật_đã_không_còn.json",
+    "chapter_name": "Chương 18: Người vật đã không còn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-18/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_19_Y_là_ma_quỷ.json",
+    "chapter_name": "Chương 19: Y là ma quỷ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-19/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_20_Thấy_chết_không_cứu.json",
+    "chapter_name": "Chương 20: Thấy chết không cứu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-20/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_21_Mặc_kệ_xấu_hổ_cầu_xin_y.json",
+    "chapter_name": "Chương 21: Mặc kệ xấu hổ cầu xin y",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-21/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_22_Cứu_ra.json",
+    "chapter_name": "Chương 22: Cứu ra",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-22/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_23_Chẳng_phải_thiên_sứ.json",
+    "chapter_name": "Chương 23: Chẳng phải thiên sứ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-23/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_24_Trái_tim_rung_động.json",
+    "chapter_name": "Chương 24: Trái tim rung động",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-24/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_25_Gần_thêm_một_chút.json",
+    "chapter_name": "Chương 25: Gần thêm một chút",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-25/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_26_Anh_hùng_cứu_mỹ_nhân_mỹ_nhân_xui_xẻo.json",
+    "chapter_name": "Chương 26: Anh hùng cứu mỹ nhân, mỹ nhân xui xẻo",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-26/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_27_Trốn_tránh.json",
+    "chapter_name": "Chương 27: Trốn tránh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-27/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_28_Uy_hiếp.json",
+    "chapter_name": "Chương 28: Uy hiếp",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-28/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_29_Không_muốn_y_tổn_thương.json",
+    "chapter_name": "Chương 29: Không muốn y tổn thương",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-29/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_30_Tàn_nhẫn_giày_vò.json",
+    "chapter_name": "Chương 30: Tàn nhẫn giày vò",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-30/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_31_Thương_tổn_cả_thể_xác_tinh_thần.json",
+    "chapter_name": "Chương 31: Thương tổn cả thể xác tinh thần",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-31/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_32_Yêu_thật_khó.json",
+    "chapter_name": "Chương 32: Yêu, thật khó",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-32/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_33_Nuôi_cô_là_để_dùng_vào_chuyện_này.json",
+    "chapter_name": "Chương 33: Nuôi cô, là để dùng vào chuyện này",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-33/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_34_Mở_lòng_thử_yêu_thương.json",
+    "chapter_name": "Chương 34: Mở lòng thử yêu thương",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-34/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_35_Kiên_quyết_thoát_khỏi_y.json",
+    "chapter_name": "Chương 35: Kiên quyết thoát khỏi y",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-35/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_36_Không_phải_người_thứ_ba.json",
+    "chapter_name": "Chương 36: Không phải người thứ ba",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-36/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_37_Đau_lòng.json",
+    "chapter_name": "Chương 37: Đau lòng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-37/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_38_Kẻ_ác_bám_thân.json",
+    "chapter_name": "Chương 38: Kẻ ác bám thân",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-38/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_39_Vật_lộn.json",
+    "chapter_name": "Chương 39: Vật lộn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-39/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_40_Hi_vọng_chuyển_thành_tuyệt_vọng.json",
+    "chapter_name": "Chương 40: Hi vọng chuyển thành tuyệt vọng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-40/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_41_Liệu_rằng_chúng_ta_còn_có_ngày_mai.json",
+    "chapter_name": "Chương 41: Liệu rằng chúng ta còn có ngày mai?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-41/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_42_Tổn_thương.json",
+    "chapter_name": "Chương 42: Tổn thương",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-42/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_43_Hãy_để_tôi_che_chở_cho_em.json",
+    "chapter_name": "Chương 43: Hãy để tôi che chở cho em",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-43/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_44_Không_thấy_không_quên.json",
+    "chapter_name": "Chương 44: Không thấy, không quên",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-44/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_45_Không_phải_có_con.json",
+    "chapter_name": "Chương 45: Không phải có con",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-45/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_46_Duật_Tôn_cứu_em.json",
+    "chapter_name": "Chương 46: Duật Tôn, cứu em",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-46/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_47_Lần_đầu_nếm_yêu_thương_Từng_nụ_hôn.json",
+    "chapter_name": "Chương 47: Lần đầu nếm yêu thương (Từng nụ hôn)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-47/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_48_Âm_mưu.json",
+    "chapter_name": "Chương 48: Âm mưu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-48/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_49_Gặp_nạn.json",
+    "chapter_name": "Chương 49: Gặp nạn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-49/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_50_Ghen.json",
+    "chapter_name": "Chương 50: Ghen",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-50/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_51_Hãm_hại_không_thành.json",
+    "chapter_name": "Chương 51: Hãm hại không thành",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-51/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_52_Niềm_vui_mới_của_Duật_thiếu.json",
+    "chapter_name": "Chương 52: Niềm vui mới của Duật thiếu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-52/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_53_Duật_Tôn_anh_thật_bẩn.json",
+    "chapter_name": "Chương 53: Duật Tôn, anh thật bẩn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-53/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_54_Tình_cảm_không_còn_bên_em_chỉ_còn_lại_lạnh_lùng_của_anh.json",
+    "chapter_name": "Chương 54: Tình cảm không còn, bên em chỉ còn lại lạnh lùng của anh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-54/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_55_Không_chịu_buông_tay.json",
+    "chapter_name": "Chương 55: Không chịu buông tay",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-55/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_56_Tinh_Hoa_Dinh_Thự.json",
+    "chapter_name": "Chương 56: Tinh Hoa Dinh Thự",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-56/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_57_Mang_Thai.json",
+    "chapter_name": "Chương 57: Mang Thai",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-57/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_58_Rời_Đi.json",
+    "chapter_name": "Chương 58: Rời Đi",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-58/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_59_So_với_cái_chết_còn_đáng_sợ_hơn.json",
+    "chapter_name": "Chương 59: So với cái chết còn đáng sợ hơn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-59/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_60_Sự_tàn_nhẫn_của_Duật_Tôn.json",
+    "chapter_name": "Chương 60: Sự tàn nhẫn của Duật Tôn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-60/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_61_Hung_thủ_là_Mạch_Sanh_Tiêu.json",
+    "chapter_name": "Chương 61: Hung thủ là Mạch Sanh Tiêu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-61/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_62_Bức_Cung.json",
+    "chapter_name": "Chương 62: Bức Cung",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-62/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_63_Tra_tấn_như_thế_nào.json",
+    "chapter_name": "Chương 63: Tra tấn như thế nào",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-63/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_64_Nói_cho_em_biết_sự_thật.json",
+    "chapter_name": "Chương 64: Nói cho em biết sự thật",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-64/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_65_Sống_cùng_em_trong_bóng_tối.json",
+    "chapter_name": "Chương 65: Sống cùng em trong bóng tối",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-65/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_66_Ghen_ghét.json",
+    "chapter_name": "Chương 66: Ghen ghét",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-66/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_67_Quả_báo.json",
+    "chapter_name": "Chương 67: Quả báo",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-67/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_68_Thế_giới_y_sống_tối_tâm_đến_tận_cùng.json",
+    "chapter_name": "Chương 68: Thế giới y sống tối tâm đến tận cùng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-68/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_69_Em_không_thể_rời_tôi_được_đúng_không.json",
+    "chapter_name": "Chương 69: Em không thể rời tôi được đúng không",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-69/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_70_Vứt_bỏ.json",
+    "chapter_name": "Chương 70: Vứt bỏ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-70/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_71_Dù_là_đau_đớn_nhất_cũng_phải_ghi_nhớ_12.json",
+    "chapter_name": "Chương 71: Dù là đau đớn nhất, cũng phải ghi nhớ (1+2)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-71/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_72_Cùng_loại_tình_yêu_ngọt_ngào.json",
+    "chapter_name": "Chương 72: Cùng loại tình yêu ngọt ngào",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-72/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-73/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_74_Đâu_mới_là_chị_của_cô_đây.json",
+    "chapter_name": "Chương 74: Đâu mới là chị của cô đây?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-74/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_75_Vươn_tay_tới_gần_thêm_một_bước.json",
+    "chapter_name": "Chương 75: Vươn tay, tới gần thêm một bước",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-75/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-76/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_77_Hai_mắt_phục_hồi_thị_lực.json",
+    "chapter_name": "Chương 77: Hai mắt phục hồi thị lực",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-77/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_78_Dường_như_uống_say.json",
+    "chapter_name": "Chương 78: Dường như uống say",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-78/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-79/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_80_Kết_hôn_với_ai_không_quan_trọng.json",
+    "chapter_name": "Chương 80: Kết hôn với ai không quan trọng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-80/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_81_Kết_hôn_Thượng.json",
+    "chapter_name": "Chương 81: Kết hôn (Thượng)",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-81/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-82/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-83/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_84_Có_phải_đã_từng_gặp_anh_ở_đâu.json",
+    "chapter_name": "Chương 84: Có phải đã từng gặp anh ở đâu?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-84/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_85_Vô_cùng_bất_an.json",
+    "chapter_name": "Chương 85: Vô cùng bất an",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-85/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_86_Thay_đổi_một_cách_làm_tổn_thương_khác.json",
+    "chapter_name": "Chương 86: Thay đổi một cách làm tổn thương khác",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-86/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_87_Đối_với_anh_hai_năm_không_là_gì_sao.json",
+    "chapter_name": "Chương 87: Đối với anh, hai năm không là gì sao?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-87/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_88_Tình_yêu_chỉ_là_trò_chơi.json",
+    "chapter_name": "Chương 88: Tình yêu chỉ là trò chơi",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-88/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_89_Ngoại_tình.json",
+    "chapter_name": "Chương 89: Ngoại tình",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-89/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_90_Duật_tôn_anh_cùng_người_khác_lên_giường_sao.json",
+    "chapter_name": "Chương 90: Duật tôn, anh cùng người khác lên giường sao?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-90/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_91_Ly_hôn.json",
+    "chapter_name": "Chương 91: Ly hôn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-91/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_92_Cuộc_sống_mới_quên_y_đi.json",
+    "chapter_name": "Chương 92: Cuộc sống mới, quên y đi",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-92/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_93_Gặp_lại_bỏ_lỡ.json",
+    "chapter_name": "Chương 93: Gặp lại, bỏ lỡ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-93/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_94_Một_người_cô_quạnh_hai_người_sai.json",
+    "chapter_name": "Chương 94: Một người cô quạnh, hai người sai",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-94/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_95_Sống_không_bằng_chết_cũng_phải_sống_kiên_cường.json",
+    "chapter_name": "Chương 95: Sống không bằng chết, cũng phải sống kiên cường",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-95/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_96_Bán_đứng_nước_mắt_mỹ_nhân_ngư.json",
+    "chapter_name": "Chương 96: Bán đứng nước mắt mỹ nhân ngư",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-96/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_97_Bàn_tay_của_cô_ấy.json",
+    "chapter_name": "Chương 97: Bàn tay của cô ấy",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-97/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_98_Không_thoát_khỏi_cơn_ác_mộng_gặp_nhau.json",
+    "chapter_name": "Chương 98: Không thoát khỏi cơn ác mộng [gặp nhau]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-98/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_99_Đối_với_y_chỉ_có_hận_cao_trào.json",
+    "chapter_name": "Chương 99: Đối với y, chỉ có hận [cao trào]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-99/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_100_Cho_y_nếm_đau_thương_cao_trào.json",
+    "chapter_name": "Chương 100: Cho y nếm đau thương [cao trào]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-100/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_101_Cô_ấy_mà_ngươi_cũng_dám_động_vào_trừng_trị_tiểu_tam.json",
+    "chapter_name": "Chương 101: Cô ấy mà ngươi cũng dám động vào! [trừng trị tiểu tam]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-101/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_102_Chết_cũng_không_quay_đầu_lại_cao_trào.json",
+    "chapter_name": "Chương 102: Chết, cũng không quay đầu lại [cao trào]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-102/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_103_Dám_cường_bạo_sẽ_chết_cho_y_xem.json",
+    "chapter_name": "Chương 103: Dám cường bạo, sẽ chết cho y xem",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-103/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_104_Sanh_tiêu_tái_hôn.json",
+    "chapter_name": "Chương 104: Sanh tiêu tái hôn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-104/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_105_Sanh_tiêu_em_đã_tuyệt_vọng_chưa.json",
+    "chapter_name": "Chương 105: Sanh tiêu, em đã tuyệt vọng chưa?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-105/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_106_Cầu_xin_anh_đừng_có_ép_tôi.json",
+    "chapter_name": "Chương 106: Cầu xin anh, đừng có ép tôi!",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-106/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_107_Cái_giá_lớn_của_việc_bỏ_trốn.json",
+    "chapter_name": "Chương 107: Cái giá lớn của việc bỏ trốn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-107/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_108_Tự_Mình_Hại_Mình_Cao_Trào_Ngoại_truyện.json",
+    "chapter_name": "Chương 108: Tự Mình Hại Mình [Cao Trào] + Ngoại truyện",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-108/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_109_Cùng_hắn_trở_về.json",
+    "chapter_name": "Chương 109: Cùng hắn trở về",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-109/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_110_Đối_với_hắn_thấy_chết_mà_không_cứu.json",
+    "chapter_name": "Chương 110: Đối với hắn, thấy chết mà không cứu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-110/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_111_Tin_dữ.json",
+    "chapter_name": "Chương 111: Tin dữ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-111/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_112_Bị_vạch_trần_tin_báo_tử.json",
+    "chapter_name": "Chương 112: Bị vạch trần tin báo tử",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-112/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_113_Sanh_tiêu_em_có_từng_yêu_anh_không.json",
+    "chapter_name": "Chương 113: Sanh tiêu, em có từng yêu anh không?",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-113/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_114_Cô_là_uy_hiếp_của_hắn.json",
+    "chapter_name": "Chương 114: Cô là uy hiếp của hắn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-114/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_115_Mạch_sanh_tiêu_nghi_ngờ_mang_thai.json",
+    "chapter_name": "Chương 115: Mạch sanh tiêu nghi ngờ mang thai",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-115/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_116_Hắn_muốn_có_một_đứa_con.json",
+    "chapter_name": "Chương 116: Hắn muốn có một đứa con",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-116/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_117_Phát_hiện_chân_tướng.json",
+    "chapter_name": "Chương 117: Phát hiện chân tướng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-117/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_118_Sự_tàn_nhẫn_của_cô.json",
+    "chapter_name": "Chương 118: Sự tàn nhẫn của cô",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-118/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_119_Đứa_bé_không_có_cha.json",
+    "chapter_name": "Chương 119: Đứa bé không có cha",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-119/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_120_Mượn_dao_giết_người.json",
+    "chapter_name": "Chương 120: Mượn dao giết người",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-120/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_121_Tàn_phá_tân_nương.json",
+    "chapter_name": "Chương 121: Tàn phá tân nương",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-121/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_122_Tin_tưởng_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 122: Tin tưởng ngoài ý muốn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-122/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_123_Giả_vờ_kiên_cường.json",
+    "chapter_name": "Chương 123: Giả vờ kiên cường",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-123/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_124_Tàn_sát_lẫn_nhau.json",
+    "chapter_name": "Chương 124: Tàn sát lẫn nhau",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-124/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_125_Mắc_câu.json",
+    "chapter_name": "Chương 125: Mắc câu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-125/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_126_Vợ_chồng_hợp_tác_chơi_mạt_chược.json",
+    "chapter_name": "Chương 126: Vợ chồng hợp tác chơi mạt chược",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-126/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_127_Âm_mưu_bị_vạch_trần.json",
+    "chapter_name": "Chương 127: Âm mưu bị vạch trần",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-127/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_128_Duật_tôn_tôi_đã_từng_yêu_anh.json",
+    "chapter_name": "Chương 128: Duật tôn, tôi đã từng yêu anh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-128/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_129_Sanh_tiêu_thực_xin_lỗi.json",
+    "chapter_name": "Chương 129: Sanh tiêu, thực xin lỗi",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-129/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_130_Cách_trả_nợ_ân_tình_là_cả_đời_không_có_hạnh_phúc.json",
+    "chapter_name": "Chương 130: Cách trả nợ ân tình, là cả đời không có hạnh phúc",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-130/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_131_Chào_đón_con_yêu_ra_đời.json",
+    "chapter_name": "Chương 131: Chào đón con yêu ra đời",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-131/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_132_Làm_cha_mẹ.json",
+    "chapter_name": "Chương 132: Làm cha mẹ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-132/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_133_Đào_thần_anh_không_chết.json",
+    "chapter_name": "Chương 133: Đào thần, anh không chết",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-133/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_134_Không_cho_phép_nghĩ_đến_người_đàn_ông_khác.json",
+    "chapter_name": "Chương 134: Không cho phép nghĩ đến người đàn ông khác",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-134/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_135_Người_phụ_nữ_của_hắn_hắn_cũng_không_đành_lòng_nặng_tay.json",
+    "chapter_name": "Chương 135: Người phụ nữ của hắn, hắn cũng không đành lòng nặng tay",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-135/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_136_Bôn_Bôn_Mắc_Phải_Bệnh_tự_kỷ.json",
+    "chapter_name": "Chương 136: Bôn Bôn Mắc Phải Bệnh tự kỷ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-136/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_137_Hoàn_mỹ_hợp_tấu.json",
+    "chapter_name": "Chương 137: Hoàn mỹ hợp tấu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-137/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_138_Người_một_nhà_ấm_áp.json",
+    "chapter_name": "Chương 138: Người một nhà ấm áp",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-138/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_139_Trụ_sở_tàn_khốc_dưới_mặt_đất.json",
+    "chapter_name": "Chương 139: Trụ sở tàn khốc dưới mặt đất",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-139/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_140_Gặp_lại_alice.json",
+    "chapter_name": "Chương 140: Gặp lại alice",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-140/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_141_Người_phụ_nữ_đầu_tiên_của_duật_tôn.json",
+    "chapter_name": "Chương 141: Người phụ nữ đầu tiên của duật tôn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-141/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_142_Tiêm_tử_thần_vào_mạch_sanh_tiêu.json",
+    "chapter_name": "Chương 142: Tiêm tử thần vào mạch sanh tiêu",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-142/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_143_Đặt_bẫy.json",
+    "chapter_name": "Chương 143: Đặt bẫy",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-143/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_144_Vì_anh_lo_lắng_cho_em.json",
+    "chapter_name": "Chương 144: Vì anh lo lắng cho em",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-144/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_145_Muốn_cô.json",
+    "chapter_name": "Chương 145: Muốn cô!",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-145/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_146_Duật_tôn_bị_dẫn_độ.json",
+    "chapter_name": "Chương 146: Duật tôn bị dẫn độ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-146/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_147_Lâm_vào_khốn_cảnh.json",
+    "chapter_name": "Chương 147: Lâm vào khốn cảnh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-147/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_148_Bảo_vệ_tốt_chính_mình_chính_là_bảo_vệ_anh.json",
+    "chapter_name": "Chương 148: Bảo vệ tốt chính mình, chính là bảo vệ anh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-148/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_149_Thì_ra_là_hắn_giở_trò_sau_lưng.json",
+    "chapter_name": "Chương 149: Thì ra là hắn giở trò sau lưng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-149/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_150_Vợ_của_người_khác_đừng_mù_quáng_nhớ_thương.json",
+    "chapter_name": "Chương 150: Vợ của người khác đừng mù quáng nhớ thương",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-150/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_151_Ác_ma_thức_tỉnh.json",
+    "chapter_name": "Chương 151: Ác ma thức tỉnh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-151/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_152_Lợi_dụng.json",
+    "chapter_name": "Chương 152: Lợi dụng",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-152/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_153_Báo_thù.json",
+    "chapter_name": "Chương 153: Báo thù!",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-153/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_154_Hủy_dung.json",
+    "chapter_name": "Chương 154: Hủy dung",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-154/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_155_Oan_oan_tương_báo.json",
+    "chapter_name": "Chương 155: Oan oan tương báo",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-155/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_156_Ba_mẹ_đừng_bỏ_mặc_con_cao_trào.json",
+    "chapter_name": "Chương 156: Ba mẹ, đừng bỏ mặc con. [cao trào]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-156/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_157_Sống_không_bằng_chết_cao_trào_quan_trọng.json",
+    "chapter_name": "Chương 157: Sống không bằng chết [cao trào, quan trọng]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-157/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_158_Yêu_nhau_quá_muộn.json",
+    "chapter_name": "Chương 158: Yêu nhau quá muộn",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-158/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_159_Trong_lòng_đau_nhất_nhớ_lại_thượng.json",
+    "chapter_name": "Chương 159: Trong lòng đau nhất nhớ lại [thượng]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-159/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_160_Trong_lòng_đau_nhất_nhớ_lại_hạ.json",
+    "chapter_name": "Chương 160: Trong lòng đau nhất nhớ lại [hạ]",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-160/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_161_Biệt_ly.json",
+    "chapter_name": "Chương 161: Biệt ly",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-161/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_162_Sống_muốn_sống_cùng_một_chỗ.json",
+    "chapter_name": "Chương 162: Sống, muốn sống cùng một chỗ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-162/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_163_Tàn_nhẫn_hành_hạ.json",
+    "chapter_name": "Chương 163: Tàn nhẫn hành hạ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-163/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_164_Em_chỉ_quan_tâm_đến_anh.json",
+    "chapter_name": "Chương 164: Em chỉ quan tâm đến anh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-164/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_165_Đau_đớn_giết_chết_lôi_lạc.json",
+    "chapter_name": "Chương 165: Đau đớn giết chết lôi lạc",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-165/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_166_Mất_tích.json",
+    "chapter_name": "Chương 166: Mất tích",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-166/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_167_Không_thể_không_lừa_dối.json",
+    "chapter_name": "Chương 167: Không thể không lừa dối",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-167/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_168_Thoát_khỏi_căn_cứ.json",
+    "chapter_name": "Chương 168: Thoát khỏi căn cứ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-168/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_169_Đêm_nay_em_chủ_động.json",
+    "chapter_name": "Chương 169: Đêm nay, em chủ động",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-169/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_170_Bà_xã_cô_ta_ăn_đậu_hũ_của_anh.json",
+    "chapter_name": "Chương 170: Bà xã, cô ta ăn đậu hũ của anh",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-170/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_171_Anh_còn_có_người_thân_còn_sống.json",
+    "chapter_name": "Chương 171: Anh còn có người thân, còn sống",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-171/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_172_Dạ_khúc_phần_1_báo_thù.json",
+    "chapter_name": "Chương 172: Dạ khúc - phần 1 - báo thù",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-172/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_173_Dạ_Khúc_Chương_cuối_Phần_2.json",
+    "chapter_name": "Chương 173: Dạ Khúc (Chương cuối) - Phần 2",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-173/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_174_Dạ_Khúc_Chương_cuối_Phần_3.json",
+    "chapter_name": "Chương 174: Dạ Khúc (Chương cuối) - Phần 3",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-174/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_175_Dạ_Khúc_Chương_cuối_Phần_4.json",
+    "chapter_name": "Chương 175: Dạ Khúc (Chương cuối) - Phần 4",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-175/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_176_Dạ_Khúc_Chương_cuối_Phần_5.json",
+    "chapter_name": "Chương 176: Dạ Khúc (Chương cuối) - Phần 5",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-176/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_177_Dạ_Khúc_Chương_cuối_Phần_6_Mạch_Tương_Tư.json",
+    "chapter_name": "Chương 177: Dạ Khúc (Chương cuối) - Phần 6 - Mạch Tương Tư",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-177/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_178_Dạ_Khúc_Chương_cuối_Phần_7_Từ_Khiêm.json",
+    "chapter_name": "Chương 178: Dạ Khúc (Chương cuối) - Phần 7 - Từ Khiêm",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-178/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_179_Dạ_Khúc_Chương_cuối_Phần_8_Chụp_Hình_Cưới.json",
+    "chapter_name": "Chương 179: Dạ Khúc (Chương cuối) - Phần 8 - Chụp Hình Cưới",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-179/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_180_Dạ_Khúc_Chương_cuối_Phần_9_Alice.json",
+    "chapter_name": "Chương 180: Dạ Khúc (Chương cuối) - Phần 9 - Alice",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-180/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_181_Dạ_Khúc_Chương_cuối_Phần_10_Dạ_Thần.json",
+    "chapter_name": "Chương 181: Dạ Khúc (Chương cuối) - Phần 10 - Dạ Thần",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-181/"
+  },
+  {
+    "path": "data/Chìm_Trong_Cuộc_Yêu/Chương_182_Dạ_Khúc_Chương_cuối_Phần_cuối_Bôn_Bôn_Gọi_Mẹ.json",
+    "chapter_name": "Chương 182: Dạ Khúc (Chương cuối) - Phần cuối - Bôn Bôn Gọi Mẹ",
+    "url": "https://truyenfull.io/chim-trong-cuoc-yeu/chuong-182/"
+  }
+]
