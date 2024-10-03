@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Sủng_Mị/Chương_1_Yểm_Ma_đảo.json",
+    "chapter_name": "Chương 1: Yểm Ma đảo",
+    "url": "https://truyenfull.io/sung-mi/chuong-1/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_2_Bản_năng_sinh_tồn.json",
+    "chapter_name": "Chương 2: Bản năng sinh tồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-2/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_3_Tử_vong_uy_hiếp.json",
+    "chapter_name": "Chương 3: Tử vong uy hiếp",
+    "url": "https://truyenfull.io/sung-mi/chuong-3/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_4_Truy_tìm_Hồn_sủng.json",
+    "chapter_name": "Chương 4: Truy tìm Hồn sủng",
+    "url": "https://truyenfull.io/sung-mi/chuong-4/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_5_Kinh_Cúc_Yêu.json",
+    "chapter_name": "Chương 5: Kinh Cúc Yêu",
+    "url": "https://truyenfull.io/sung-mi/chuong-5/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_6_Bố_trí_bẫy_rập.json",
+    "chapter_name": "Chương 6: Bố trí bẫy rập",
+    "url": "https://truyenfull.io/sung-mi/chuong-6/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_7_Yêu_thú_cửu_giai.json",
+    "chapter_name": "Chương 7: Yêu thú cửu giai",
+    "url": "https://truyenfull.io/sung-mi/chuong-7/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_8_Chủng_tộc_dị_biến_Nguyệt_Quang_Hồ.json",
+    "chapter_name": "Chương 8: Chủng tộc dị biến - Nguyệt Quang Hồ",
+    "url": "https://truyenfull.io/sung-mi/chuong-8/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_9_Thu_phục_Hồn_sủng.json",
+    "chapter_name": "Chương 9: Thu phục Hồn sủng",
+    "url": "https://truyenfull.io/sung-mi/chuong-9/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_10_Trận_chiến_đầu_tiên.json",
+    "chapter_name": "Chương 10: Trận chiến đầu tiên",
+    "url": "https://truyenfull.io/sung-mi/chuong-10/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_11_Nguyệt_Quang_Hồ_tiến_giai.json",
+    "chapter_name": "Chương 11: Nguyệt Quang Hồ tiến giai",
+    "url": "https://truyenfull.io/sung-mi/chuong-11/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_12_Bắt_đầu_huấn_luyện.json",
+    "chapter_name": "Chương 12: Bắt đầu huấn luyện",
+    "url": "https://truyenfull.io/sung-mi/chuong-12/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_13_Khiêu_khích_ước_chiến.json",
+    "chapter_name": "Chương 13: Khiêu khích, ước chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-13/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_14_Chiến_kỹ_mới_Tê_Liệt_Trảo.json",
+    "chapter_name": "Chương 14: Chiến kỹ mới - Tê Liệt Trảo",
+    "url": "https://truyenfull.io/sung-mi/chuong-14/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_15_Thập_Túc_Ngô_Công.json",
+    "chapter_name": "Chương 15: Thập Túc Ngô Công",
+    "url": "https://truyenfull.io/sung-mi/chuong-15/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_16_Biểu_hiện_dị_thường.json",
+    "chapter_name": "Chương 16: Biểu hiện dị thường",
+    "url": "https://truyenfull.io/sung-mi/chuong-16/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_17_Yểm_Ma_phệ_hồn.json",
+    "chapter_name": "Chương 17: Yểm Ma phệ hồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-17/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_18_Giáp_mặt_đại_địch.json",
+    "chapter_name": "Chương 18: Giáp mặt đại địch",
+    "url": "https://truyenfull.io/sung-mi/chuong-18/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_19_Thảo_dược_Ngọc_Lộ_Chi.json",
+    "chapter_name": "Chương 19: Thảo dược Ngọc Lộ Chi",
+    "url": "https://truyenfull.io/sung-mi/chuong-19/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_20_Nguy_cơ_tiềm_ẩn.json",
+    "chapter_name": "Chương 20: Nguy cơ tiềm ẩn",
+    "url": "https://truyenfull.io/sung-mi/chuong-20/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_21_Mạc_Tà_cao_ngạo.json",
+    "chapter_name": "Chương 21: Mạc Tà cao ngạo",
+    "url": "https://truyenfull.io/sung-mi/chuong-21/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_22_Chín_giai_Diễm_Vĩ.json",
+    "chapter_name": "Chương 22: Chín giai Diễm Vĩ",
+    "url": "https://truyenfull.io/sung-mi/chuong-22/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_23_Kẻ_chết_là_La_Thần.json",
+    "chapter_name": "Chương 23: Kẻ chết là La Thần?",
+    "url": "https://truyenfull.io/sung-mi/chuong-23/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_24_Hồn_kỹ_Sủng_Mị.json",
+    "chapter_name": "Chương 24: Hồn kỹ Sủng Mị",
+    "url": "https://truyenfull.io/sung-mi/chuong-24/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_25_Sở_Liên_Ngụy_trang_tuyệt_hảo.json",
+    "chapter_name": "Chương 25: Sở Liên - Ngụy trang tuyệt hảo",
+    "url": "https://truyenfull.io/sung-mi/chuong-25/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_26_Ánh_trăng_trợ_lực.json",
+    "chapter_name": "Chương 26: Ánh trăng trợ lực",
+    "url": "https://truyenfull.io/sung-mi/chuong-26/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_27_Hồn_tinh_hai_thuộc_tính.json",
+    "chapter_name": "Chương 27: Hồn tinh hai thuộc tính",
+    "url": "https://truyenfull.io/sung-mi/chuong-27/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_28_Tiếng_quỷ_gào_giữa_đêm.json",
+    "chapter_name": "Chương 28: Tiếng quỷ gào giữa đêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-28/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_29_Chấp_sự_tức_giận.json",
+    "chapter_name": "Chương 29: Chấp sự tức giận",
+    "url": "https://truyenfull.io/sung-mi/chuong-29/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_30_Tin_dữ_trước_ngày_quyết_chiến.json",
+    "chapter_name": "Chương 30: Tin dữ trước ngày quyết chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-30/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_31_Ẩn_giấu_quá_sâu.json",
+    "chapter_name": "Chương 31: Ẩn giấu quá sâu",
+    "url": "https://truyenfull.io/sung-mi/chuong-31/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_32_Khủng_Lang_hung_tàn.json",
+    "chapter_name": "Chương 32: Khủng Lang hung tàn",
+    "url": "https://truyenfull.io/sung-mi/chuong-32/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_33_Đào_thải_là_tử_vong.json",
+    "chapter_name": "Chương 33: Đào thải là tử vong",
+    "url": "https://truyenfull.io/sung-mi/chuong-33/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_34_Thắng_quá_tàn_nhẫn.json",
+    "chapter_name": "Chương 34: Thắng quá tàn nhẫn",
+    "url": "https://truyenfull.io/sung-mi/chuong-34/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_35_Trận_chiến_cuối_cùng.json",
+    "chapter_name": "Chương 35: Trận chiến cuối cùng",
+    "url": "https://truyenfull.io/sung-mi/chuong-35/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_36_Nếu_muốn_chết_ta_sẽ_thành_toàn_cho_ngươi_.json",
+    "chapter_name": "Chương 36: Nếu muốn chết, ta sẽ thành toàn cho ngươi !",
+    "url": "https://truyenfull.io/sung-mi/chuong-36/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_37_Nguyệt_Nhận_Chiến_kỹ_cao_cấp.json",
+    "chapter_name": "Chương 37: Nguyệt Nhận - Chiến kỹ cao cấp",
+    "url": "https://truyenfull.io/sung-mi/chuong-37/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_38_Hung_thủ_Sở_Mộ.json",
+    "chapter_name": "Chương 38: Hung thủ Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-38/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_39_Mạc_Tà_lột_xác.json",
+    "chapter_name": "Chương 39: Mạc Tà lột xác",
+    "url": "https://truyenfull.io/sung-mi/chuong-39/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_40_Điều_huấn_Phương_hướng_Cửu_Vĩ_dị_biến.json",
+    "chapter_name": "Chương 40: Điều huấn - Phương hướng Cửu Vĩ dị biến",
+    "url": "https://truyenfull.io/sung-mi/chuong-40/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_41_Chiến_kỹ_mới_Diễm_Mang.json",
+    "chapter_name": "Chương 41: Chiến kỹ mới - Diễm Mang",
+    "url": "https://truyenfull.io/sung-mi/chuong-41/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_42_Rời_đảo_Thanh_Yểm_Ma_đảo.json",
+    "chapter_name": "Chương 42: Rời đảo Thanh Yểm Ma đảo",
+    "url": "https://truyenfull.io/sung-mi/chuong-42/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_43_Thủy_Tinh_Linh.json",
+    "chapter_name": "Chương 43: Thủy Tinh Linh",
+    "url": "https://truyenfull.io/sung-mi/chuong-43/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_44_Nơi_ở_mới.json",
+    "chapter_name": "Chương 44: Nơi ở mới",
+    "url": "https://truyenfull.io/sung-mi/chuong-44/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_45_Kiếm_tiền.json",
+    "chapter_name": "Chương 45: Kiếm tiền",
+    "url": "https://truyenfull.io/sung-mi/chuong-45/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_46_Đau_khổ_vì_tiền.json",
+    "chapter_name": "Chương 46: Đau khổ vì tiền",
+    "url": "https://truyenfull.io/sung-mi/chuong-46/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_47_Phục_dụng_dược_tề.json",
+    "chapter_name": "Chương 47: Phục dụng dược tề",
+    "url": "https://truyenfull.io/sung-mi/chuong-47/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_48_Săn_giết_Cách_Lạp_Quái.json",
+    "chapter_name": "Chương 48: Săn giết Cách Lạp Quái",
+    "url": "https://truyenfull.io/sung-mi/chuong-48/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_49_Đoàn_chiến.json",
+    "chapter_name": "Chương 49: Đoàn chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-49/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_50_Tào_Dịch_âm_mưu.json",
+    "chapter_name": "Chương 50: Tào Dịch âm mưu",
+    "url": "https://truyenfull.io/sung-mi/chuong-50/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_51_Loạn_chiến.json",
+    "chapter_name": "Chương 51: Loạn chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-51/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_52_Một_kích_tất_sát_tình_thế_nghịch_chuyển.json",
+    "chapter_name": "Chương 52: Một kích tất sát, tình thế nghịch chuyển",
+    "url": "https://truyenfull.io/sung-mi/chuong-52/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_53_Một_màn_chiến_đấu_mỹ_lệ.json",
+    "chapter_name": "Chương 53: Một màn chiến đấu mỹ lệ",
+    "url": "https://truyenfull.io/sung-mi/chuong-53/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_54_Hồn_sủng_ngang_cấp_Chiến_tướng.json",
+    "chapter_name": "Chương 54: Hồn sủng ngang cấp Chiến tướng",
+    "url": "https://truyenfull.io/sung-mi/chuong-54/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_55_Đoạt_Ảnh_Định_Hồn.json",
+    "chapter_name": "Chương 55: Đoạt Ảnh Định Hồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-55/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_56_Bài_trừ_phong_ấn.json",
+    "chapter_name": "Chương 56: Bài trừ phong ấn",
+    "url": "https://truyenfull.io/sung-mi/chuong-56/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_57_Lấy_một_địch_mười.json",
+    "chapter_name": "Chương 57: Lấy một địch mười",
+    "url": "https://truyenfull.io/sung-mi/chuong-57/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_58_Thực_lực_chân_chính.json",
+    "chapter_name": "Chương 58: Thực lực chân chính",
+    "url": "https://truyenfull.io/sung-mi/chuong-58/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_59_Tuyên_chiến_Lửa_giận_dâng_cao.json",
+    "chapter_name": "Chương 59: Tuyên chiến - Lửa giận dâng cao",
+    "url": "https://truyenfull.io/sung-mi/chuong-59/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_60_Tàn_sát_tập_thể.json",
+    "chapter_name": "Chương 60: Tàn sát tập thể",
+    "url": "https://truyenfull.io/sung-mi/chuong-60/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_61_Tàn_sát_tập_thể_trung.json",
+    "chapter_name": "Chương 61: Tàn sát tập thể (trung)",
+    "url": "https://truyenfull.io/sung-mi/chuong-61/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_62_Tàn_sát_tập_thể_hạ.json",
+    "chapter_name": "Chương 62: Tàn sát tập thể (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-62/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_63_Bạch_Yểm_Ma_Ma_diễm_tà_ác_chí_cực.json",
+    "chapter_name": "Chương 63: Bạch Yểm Ma - Ma diễm tà ác chí cực",
+    "url": "https://truyenfull.io/sung-mi/chuong-63/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_64_Ai_điên_cuồng_hơn_ai.json",
+    "chapter_name": "Chương 64: Ai điên cuồng hơn ai?",
+    "url": "https://truyenfull.io/sung-mi/chuong-64/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_65_Chấn_áp_toàn_trường_Năm_đoạn_Bạch_Yểm_Ma.json",
+    "chapter_name": "Chương 65: Chấn áp toàn trường - Năm đoạn Bạch Yểm Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-65/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_66_Cơ_hội_sinh_tồn.json",
+    "chapter_name": "Chương 66: Cơ hội sinh tồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-66/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_67_Tù_đảo_Ba_nghìn_sống_một_người.json",
+    "chapter_name": "Chương 67: Tù đảo - Ba nghìn sống một người",
+    "url": "https://truyenfull.io/sung-mi/chuong-67/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_68_Hai_đường_lựa_chọn_Chạy_đua_với_tử_thần.json",
+    "chapter_name": "Chương 68: Hai đường lựa chọn - Chạy đua với tử thần",
+    "url": "https://truyenfull.io/sung-mi/chuong-68/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_69_Sinh_vật_thần_bí.json",
+    "chapter_name": "Chương 69: Sinh vật thần bí",
+    "url": "https://truyenfull.io/sung-mi/chuong-69/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_70_Băng_Chuẩn_Trung_đẳng_cấp_chiến_tướng.json",
+    "chapter_name": "Chương 70: Băng Chuẩn - Trung đẳng cấp chiến tướng",
+    "url": "https://truyenfull.io/sung-mi/chuong-70/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_71_Tiểu_Thanh_Trùng_tức_giận.json",
+    "chapter_name": "Chương 71: Tiểu Thanh Trùng tức giận",
+    "url": "https://truyenfull.io/sung-mi/chuong-71/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_72_Lãnh_địa_Băng_Chuẩn.json",
+    "chapter_name": "Chương 72: Lãnh địa Băng Chuẩn",
+    "url": "https://truyenfull.io/sung-mi/chuong-72/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_73_Thanh_Trùng_hóa_kén.json",
+    "chapter_name": "Chương 73: Thanh Trùng hóa kén",
+    "url": "https://truyenfull.io/sung-mi/chuong-73/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_74_Lột_xác_tiến_hóa.json",
+    "chapter_name": "Chương 74: Lột xác tiến hóa",
+    "url": "https://truyenfull.io/sung-mi/chuong-74/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_75_Băng_Không_Tinh_Linh.json",
+    "chapter_name": "Chương 75: Băng Không Tinh Linh",
+    "url": "https://truyenfull.io/sung-mi/chuong-75/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_76_Hồn_sủng_mới.json",
+    "chapter_name": "Chương 76: Hồn sủng mới",
+    "url": "https://truyenfull.io/sung-mi/chuong-76/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_77_Thiên_phú_Băng_hệ_cao_nhất.json",
+    "chapter_name": "Chương 77: Thiên phú Băng hệ cao nhất",
+    "url": "https://truyenfull.io/sung-mi/chuong-77/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_78_Một_mảnh_tàn_đồ.json",
+    "chapter_name": "Chương 78: Một mảnh tàn đồ",
+    "url": "https://truyenfull.io/sung-mi/chuong-78/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_79_Triệu_hoán_hai_hồn.json",
+    "chapter_name": "Chương 79: Triệu hoán hai hồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-79/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_80_Tiềm_lực_cực_lớn.json",
+    "chapter_name": "Chương 80: Tiềm lực cực lớn",
+    "url": "https://truyenfull.io/sung-mi/chuong-80/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_81_Tiên_Huyết_Thú_Dương_gia.json",
+    "chapter_name": "Chương 81: Tiên Huyết Thú - Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-81/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_82_Kẻ_thù_Gặp_là_giết_.json",
+    "chapter_name": "Chương 82: Kẻ thù? Gặp là giết !",
+    "url": "https://truyenfull.io/sung-mi/chuong-82/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_83_Bốn_đoạn_Thị_Huyết_Thú.json",
+    "chapter_name": "Chương 83: Bốn đoạn Thị Huyết Thú",
+    "url": "https://truyenfull.io/sung-mi/chuong-83/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_84_Chủng_tộc_dị_biến_Mạc_Tà_cao_ngạo_thượng.json",
+    "chapter_name": "Chương 84: Chủng tộc dị biến - Mạc Tà cao ngạo (thượng)",
+    "url": "https://truyenfull.io/sung-mi/chuong-84/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_85_Chủng_tộc_dị_biến_Mạc_Tà_cao_ngạo_trung.json",
+    "chapter_name": "Chương 85: Chủng tộc dị biến - Mạc Tà cao ngạo (trung)",
+    "url": "https://truyenfull.io/sung-mi/chuong-85/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_86_Chủng_tộc_dị_biến_Tà_Diễm_Lục_Vĩ_Yêu_Hồ_hạ.json",
+    "chapter_name": "Chương 86: Chủng tộc dị biến - Tà Diễm Lục Vĩ Yêu Hồ (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-86/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_87_Hỗn_kỹ_Phong_Long_Triền.json",
+    "chapter_name": "Chương 87: Hỗn kỹ Phong Long Triền",
+    "url": "https://truyenfull.io/sung-mi/chuong-87/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_88_Tấn_giai_Nãm_niệm_Hồn_Sĩ.json",
+    "chapter_name": "Chương 88: Tấn giai - Nãm niệm Hồn Sĩ",
+    "url": "https://truyenfull.io/sung-mi/chuong-88/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_89_Truy_đuổi_Dương_gia.json",
+    "chapter_name": "Chương 89: Truy đuổi Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-89/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_90_Hung_thú_mắc_nạn.json",
+    "chapter_name": "Chương 90: Hung thú mắc nạn",
+    "url": "https://truyenfull.io/sung-mi/chuong-90/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_91_Một_việc_tốt.json",
+    "chapter_name": "Chương 91: Một việc tốt",
+    "url": "https://truyenfull.io/sung-mi/chuong-91/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_92_Theo_dấu_ám_sát.json",
+    "chapter_name": "Chương 92: Theo dấu ám sát",
+    "url": "https://truyenfull.io/sung-mi/chuong-92/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_93_Băng_Tường_Lằn_ranh_tử_vong.json",
+    "chapter_name": "Chương 93: Băng Tường - Lằn ranh tử vong",
+    "url": "https://truyenfull.io/sung-mi/chuong-93/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_94_Hồn_sủng_phản_bội_Linh_hồn_bị_thương.json",
+    "chapter_name": "Chương 94: Hồn sủng phản bội - Linh hồn bị thương",
+    "url": "https://truyenfull.io/sung-mi/chuong-94/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_95_Ban_Lan_Ma_Hổ_thoát_khốn.json",
+    "chapter_name": "Chương 95: Ban Lan Ma Hổ thoát khốn",
+    "url": "https://truyenfull.io/sung-mi/chuong-95/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_96_Thôn_Tinh_Lang.json",
+    "chapter_name": "Chương 96: Thôn Tinh Lang",
+    "url": "https://truyenfull.io/sung-mi/chuong-96/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_97_Ai_mới_là_phế_vật.json",
+    "chapter_name": "Chương 97: Ai mới là phế vật?",
+    "url": "https://truyenfull.io/sung-mi/chuong-97/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_98_Hành_hạ_đến_chết_Khoái_cảm_dâng_trào.json",
+    "chapter_name": "Chương 98: Hành hạ đến chết - Khoái cảm dâng trào",
+    "url": "https://truyenfull.io/sung-mi/chuong-98/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_99_Hồn_giáp.json",
+    "chapter_name": "Chương 99: Hồn giáp",
+    "url": "https://truyenfull.io/sung-mi/chuong-99/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_100_Băng_Không_Tinh_Linh_lột_xác.json",
+    "chapter_name": "Chương 100: Băng Không Tinh Linh lột xác",
+    "url": "https://truyenfull.io/sung-mi/chuong-100/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_101_Hồn_sủng_mới_Ma_Thụ_chiến_sĩ.json",
+    "chapter_name": "Chương 101: Hồn sủng mới - Ma Thụ chiến sĩ",
+    "url": "https://truyenfull.io/sung-mi/chuong-101/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_102_Mưa_phùn_tươi_đẹp.json",
+    "chapter_name": "Chương 102: Mưa phùn tươi đẹp",
+    "url": "https://truyenfull.io/sung-mi/chuong-102/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_103_Giết_Tào_Dịch.json",
+    "chapter_name": "Chương 103: Giết Tào Dịch",
+    "url": "https://truyenfull.io/sung-mi/chuong-103/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_104_Giết_Tào_Dịch_hạ.json",
+    "chapter_name": "Chương 104: Giết Tào Dịch (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-104/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_105_Tâm_tình_Sở_Mộ.json",
+    "chapter_name": "Chương 105: Tâm tình Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-105/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_106_Ba_năm.json",
+    "chapter_name": "Chương 106: Ba năm",
+    "url": "https://truyenfull.io/sung-mi/chuong-106/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_107_Bạch_Yểm_Ma_Cấp_Quân_Chủ.json",
+    "chapter_name": "Chương 107: Bạch Yểm Ma - Cấp Quân Chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-107/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_108_Dạ_Lôi_Mộng_Thú.json",
+    "chapter_name": "Chương 108: Dạ Lôi Mộng Thú",
+    "url": "https://truyenfull.io/sung-mi/chuong-108/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_109_Trùng_thế_giới_Thần_Nội_Tạng.json",
+    "chapter_name": "Chương 109: Trùng thế giới - Thần Nội Tạng",
+    "url": "https://truyenfull.io/sung-mi/chuong-109/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_110_Chiến_đấu_trong_thế_giới_tơ_trắng.json",
+    "chapter_name": "Chương 110: Chiến đấu trong thế giới tơ trắng",
+    "url": "https://truyenfull.io/sung-mi/chuong-110/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_111_Mộng_Toái_Ngạc_Lâm_Ác_mộng_trong_lòng.json",
+    "chapter_name": "Chương 111: Mộng Toái Ngạc Lâm - Ác mộng trong lòng",
+    "url": "https://truyenfull.io/sung-mi/chuong-111/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_112_Song_hỏa_dung_hợp_Nộ_Viêm.json",
+    "chapter_name": "Chương 112: Song hỏa dung hợp - Nộ Viêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-112/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_113_Dương_Lãnh_Thương.json",
+    "chapter_name": "Chương 113: Dương Lãnh Thương",
+    "url": "https://truyenfull.io/sung-mi/chuong-113/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_114_Viễn_cổ_Hồn_sủng_phá_kén.json",
+    "chapter_name": "Chương 114: Viễn cổ Hồn sủng phá kén",
+    "url": "https://truyenfull.io/sung-mi/chuong-114/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_115_Thiên_Thương_Thanh_Chập_Long.json",
+    "chapter_name": "Chương 115: Thiên Thương Thanh Chập Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-115/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_116_Bất_Tử_Chập_Long_vs_Sinh_vật_thần_bí_hạ.json",
+    "chapter_name": "Chương 116: Bất Tử Chập Long vs Sinh vật thần bí (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-116/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_117_Trứng_Chập_Long.json",
+    "chapter_name": "Chương 117: Trứng Chập Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-117/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_118_Bảo_vật_Huyết_Đồng_Cuồng.json",
+    "chapter_name": "Chương 118: Bảo vật - Huyết Đồng Cuồng",
+    "url": "https://truyenfull.io/sung-mi/chuong-118/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_119_Ai_mới_là_đệ_nhất_cuồng.json",
+    "chapter_name": "Chương 119: Ai mới là đệ nhất cuồng?",
+    "url": "https://truyenfull.io/sung-mi/chuong-119/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_120_Dã_nhân_Sở_Mộ.json",
+    "chapter_name": "Chương 120: Dã nhân Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-120/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_121_Băng_Không_Tinh_Linh_vs_Lam_Yểm_Ma.json",
+    "chapter_name": "Chương 121: Băng Không Tinh Linh vs Lam Yểm Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-121/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_122_Vương_giả_Tù_đảo.json",
+    "chapter_name": "Chương 122: Vương giả Tù đảo",
+    "url": "https://truyenfull.io/sung-mi/chuong-122/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_123_Danh_hiệu_Hằng_Hải_Yểm_thiếu.json",
+    "chapter_name": "Chương 123: Danh hiệu - Hằng Hải Yểm thiếu",
+    "url": "https://truyenfull.io/sung-mi/chuong-123/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_124_La_Vực_Yểm_thiếu_Dương_Lạc_Sâm.json",
+    "chapter_name": "Chương 124: La Vực Yểm thiếu - Dương Lạc Sâm",
+    "url": "https://truyenfull.io/sung-mi/chuong-124/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_125_Một_ngày_chiến_đấu_với_năm_người.json",
+    "chapter_name": "Chương 125: Một ngày chiến đấu với năm người",
+    "url": "https://truyenfull.io/sung-mi/chuong-125/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_126_Lợi_khí_giết_người_Hàn_độc_xâm_lấn.json",
+    "chapter_name": "Chương 126: Lợi khí giết người - Hàn độc xâm lấn",
+    "url": "https://truyenfull.io/sung-mi/chuong-126/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_127_Giết_người_Chỉ_là_thói_quen.json",
+    "chapter_name": "Chương 127: Giết người - Chỉ là thói quen",
+    "url": "https://truyenfull.io/sung-mi/chuong-127/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_128_Ta_thưởng_thức_ngươi.json",
+    "chapter_name": "Chương 128: Ta thưởng thức ngươi",
+    "url": "https://truyenfull.io/sung-mi/chuong-128/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_129_Mất_một_hồn_Một_câu_rung_động_lòng_người.json",
+    "chapter_name": "Chương 129: Mất một hồn - Một câu rung động lòng người",
+    "url": "https://truyenfull.io/sung-mi/chuong-129/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_130_Biểu_hiện_cường_thế.json",
+    "chapter_name": "Chương 130: Biểu hiện cường thế",
+    "url": "https://truyenfull.io/sung-mi/chuong-130/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_131_Yểm_Ma_thôn_phệ_Yểm_Ma.json",
+    "chapter_name": "Chương 131: Yểm Ma thôn phệ Yểm Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-131/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_132_Ban_thưởng_cấp_sáu_hồn_giáp.json",
+    "chapter_name": "Chương 132: Ban thưởng cấp sáu hồn giáp",
+    "url": "https://truyenfull.io/sung-mi/chuong-132/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_133_Tiểu_thư_Tần_gia_Tần_Mộng_Nhi.json",
+    "chapter_name": "Chương 133: Tiểu thư Tần gia - Tần Mộng Nhi",
+    "url": "https://truyenfull.io/sung-mi/chuong-133/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_134_Cứu_viện_thương_đội_Sở_gia.json",
+    "chapter_name": "Chương 134: Cứu viện thương đội Sở gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-134/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_135_Thống_lĩnh_Ma_Câu_Chỉ_là_thú_cưỡi.json",
+    "chapter_name": "Chương 135: Thống lĩnh Ma Câu - Chỉ là thú cưỡi",
+    "url": "https://truyenfull.io/sung-mi/chuong-135/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_136_Cứu_nguy_trong_gang_tấc.json",
+    "chapter_name": "Chương 136: Cứu nguy trong gang tấc",
+    "url": "https://truyenfull.io/sung-mi/chuong-136/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_137_Tình_huynh_đệ.json",
+    "chapter_name": "Chương 137: Tình huynh đệ",
+    "url": "https://truyenfull.io/sung-mi/chuong-137/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_138_Mạc_Tà_khinh_thường_chiến_đấu.json",
+    "chapter_name": "Chương 138: Mạc Tà khinh thường chiến đấu",
+    "url": "https://truyenfull.io/sung-mi/chuong-138/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_139_Băng_Không_Tinh_Linh_cấp_biến_thái.json",
+    "chapter_name": "Chương 139: Băng Không Tinh Linh cấp biến thái",
+    "url": "https://truyenfull.io/sung-mi/chuong-139/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_140_Ta_không_sao_nhưng_chúng_ta_có_việc.json",
+    "chapter_name": "Chương 140: Ta không sao, nhưng chúng ta có việc!",
+    "url": "https://truyenfull.io/sung-mi/chuong-140/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_141_Đầu_gỗ_Sở_Mộ.json",
+    "chapter_name": "Chương 141: Đầu gỗ Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-141/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_142_Tộc_sủng_Sở_gia_Mặc_Dã.json",
+    "chapter_name": "Chương 142: Tộc sủng Sở gia - Mặc Dã",
+    "url": "https://truyenfull.io/sung-mi/chuong-142/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_143_Tiểu_Mặc_Dã_ương_ngạnh.json",
+    "chapter_name": "Chương 143: Tiểu Mặc Dã ương ngạnh",
+    "url": "https://truyenfull.io/sung-mi/chuong-143/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_144_Năng_lực_tự_lành_siêu_cường.json",
+    "chapter_name": "Chương 144: Năng lực tự lành siêu cường",
+    "url": "https://truyenfull.io/sung-mi/chuong-144/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_145_Huyết_mạch_dị_thường.json",
+    "chapter_name": "Chương 145: Huyết mạch dị thường",
+    "url": "https://truyenfull.io/sung-mi/chuong-145/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_146_Sở_gia_vệ_cứu_viện.json",
+    "chapter_name": "Chương 146: Sở gia vệ cứu viện",
+    "url": "https://truyenfull.io/sung-mi/chuong-146/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_147_Mặc_Dã_vs_Mặc_Dã_hạ.json",
+    "chapter_name": "Chương 147: Mặc Dã vs Mặc Dã (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-147/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_148_Quyết_định_của_Sở_Mộ.json",
+    "chapter_name": "Chương 148: Quyết định của Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-148/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_149_Tai_nạn_tộc_quần.json",
+    "chapter_name": "Chương 149: Tai nạn tộc quần",
+    "url": "https://truyenfull.io/sung-mi/chuong-149/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_150_Hồn_sủng_mới_Mặc_Dã.json",
+    "chapter_name": "Chương 150: Hồn sủng mới - Mặc Dã",
+    "url": "https://truyenfull.io/sung-mi/chuong-150/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_151_Chấn_động_Cương_La_thành.json",
+    "chapter_name": "Chương 151: Chấn động Cương La thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-151/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_152_Săn_bắt_Hồn_sủng.json",
+    "chapter_name": "Chương 152: Săn bắt Hồn sủng",
+    "url": "https://truyenfull.io/sung-mi/chuong-152/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_153_Lãnh_địa_lâm_nguy.json",
+    "chapter_name": "Chương 153: Lãnh địa lâm nguy",
+    "url": "https://truyenfull.io/sung-mi/chuong-153/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_154_Ban_đêm_gió_lớn_Thời_điểm_giết_người_rất_tốt.json",
+    "chapter_name": "Chương 154: Ban đêm gió lớn - Thời điểm giết người rất tốt",
+    "url": "https://truyenfull.io/sung-mi/chuong-154/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_155_Buổi_đấu_giá_ly_kỳ.json",
+    "chapter_name": "Chương 155: Buổi đấu giá ly kỳ",
+    "url": "https://truyenfull.io/sung-mi/chuong-155/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_156_Một_trận_gió_tanh_mưa_máu.json",
+    "chapter_name": "Chương 156: Một trận gió tanh mưa máu",
+    "url": "https://truyenfull.io/sung-mi/chuong-156/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_157_Sóng_yên_gió_lặng_trước_cơn_giông.json",
+    "chapter_name": "Chương 157: Sóng yên gió lặng trước cơn giông",
+    "url": "https://truyenfull.io/sung-mi/chuong-157/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_158_Kỹ_năng_có_thể_hủy_diệt_tinh_thần_đối_thủ.json",
+    "chapter_name": "Chương 158: Kỹ năng có thể hủy diệt tinh thần đối thủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-158/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_159_Cướp_giết_phụ_tử_Dương_Mãn_Thiên.json",
+    "chapter_name": "Chương 159: Cướp giết phụ tử Dương Mãn Thiên",
+    "url": "https://truyenfull.io/sung-mi/chuong-159/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_160_Hồn_kỹ_hợp_lực_Song_Nộ_Viêm.json",
+    "chapter_name": "Chương 160: Hồn kỹ hợp lực - Song Nộ Viêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-160/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_161_Dùng_tiền_Dương_gia_đập_vào_mặt_Dương_gia.json",
+    "chapter_name": "Chương 161: Dùng tiền Dương gia đập vào mặt Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-161/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_162_Một_trò_khôi_hài.json",
+    "chapter_name": "Chương 162: Một trò khôi hài",
+    "url": "https://truyenfull.io/sung-mi/chuong-162/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_163_Đại_tiểu_thư_Sở_gia_Sở_Anh_phiền_phức.json",
+    "chapter_name": "Chương 163: Đại tiểu thư Sở gia - Sở Anh phiền phức",
+    "url": "https://truyenfull.io/sung-mi/chuong-163/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_164_Xử_lý_nội_gian.json",
+    "chapter_name": "Chương 164: Xử lý nội gian",
+    "url": "https://truyenfull.io/sung-mi/chuong-164/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_165_Đại_hội_tiến_cử.json",
+    "chapter_name": "Chương 165: Đại hội tiến cử",
+    "url": "https://truyenfull.io/sung-mi/chuong-165/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_166_Mặc_Dã_kiên_cường.json",
+    "chapter_name": "Chương 166: Mặc Dã kiên cường",
+    "url": "https://truyenfull.io/sung-mi/chuong-166/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_167_Chỉ_là_mạng_hơi_cứng_một_chút.json",
+    "chapter_name": "Chương 167: Chỉ là mạng hơi cứng một chút",
+    "url": "https://truyenfull.io/sung-mi/chuong-167/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_168_Chọn_người_yếu_nhất_Sở_Mộ_đánh_trận_đầu.json",
+    "chapter_name": "Chương 168: Chọn người yếu nhất - Sở Mộ đánh trận đầu",
+    "url": "https://truyenfull.io/sung-mi/chuong-168/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_169_Chọn_người_yếu_nhất_Sở_Mộ_đánh_trận_đầu_hạ.json",
+    "chapter_name": "Chương 169: Chọn người yếu nhất - Sở Mộ đánh trận đầu (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-169/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_170_Tổ_hợp_tất_sát.json",
+    "chapter_name": "Chương 170: Tổ hợp tất sát",
+    "url": "https://truyenfull.io/sung-mi/chuong-170/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_171_Hiển_lộ_phong_mang_Kinh_sợ_toàn_trường.json",
+    "chapter_name": "Chương 171: Hiển lộ phong mang - Kinh sợ toàn trường",
+    "url": "https://truyenfull.io/sung-mi/chuong-171/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_172_Hiển_lộ_phong_mang_Kinh_sợ_toàn_trường_hạ.json",
+    "chapter_name": "Chương 172: Hiển lộ phong mang - Kinh sợ toàn trường (hạ)",
+    "url": "https://truyenfull.io/sung-mi/chuong-172/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_173_Đả_kích_Chu_gia.json",
+    "chapter_name": "Chương 173: Đả kích Chu gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-173/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_174_Giết_cho_ra_vinh_quang_gia_tộc.json",
+    "chapter_name": "Chương 174: Giết cho ra vinh quang gia tộc",
+    "url": "https://truyenfull.io/sung-mi/chuong-174/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_175_Tuyển_thủ_thần_bí_của_Dương_gia.json",
+    "chapter_name": "Chương 175: Tuyển thủ thần bí của Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-175/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_176_Bắt_đầu_trò_chơi_tàn_sát.json",
+    "chapter_name": "Chương 176: Bắt đầu trò chơi tàn sát",
+    "url": "https://truyenfull.io/sung-mi/chuong-176/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_177_Tai_họa_ập_xuống_đầu_Dương_gia.json",
+    "chapter_name": "Chương 177: Tai họa ập xuống đầu Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-177/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_178_Dương_Lạc_Sâm_lộ_diện.json",
+    "chapter_name": "Chương 178: Dương Lạc Sâm lộ diện",
+    "url": "https://truyenfull.io/sung-mi/chuong-178/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_179_La_Vực_Yểm_thiếu_vs_Hằng_Hải_Yểm_thiếu.json",
+    "chapter_name": "Chương 179: La Vực Yểm thiếu vs Hằng Hải Yểm thiếu",
+    "url": "https://truyenfull.io/sung-mi/chuong-179/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_180_Trận_chiến_hoa_lệ.json",
+    "chapter_name": "Chương 180: Trận chiến hoa lệ",
+    "url": "https://truyenfull.io/sung-mi/chuong-180/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_181_Quân_chủ_Bạch_Yểm_Ma_Không_nhìn_Lam_Diễm.json",
+    "chapter_name": "Chương 181: Quân chủ Bạch Yểm Ma - Không nhìn Lam Diễm",
+    "url": "https://truyenfull.io/sung-mi/chuong-181/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_182_Mặc_Dã_ra_sân_Chỉ_là_tiêu_hao_chiến.json",
+    "chapter_name": "Chương 182: Mặc Dã ra sân - Chỉ là tiêu hao chiến?",
+    "url": "https://truyenfull.io/sung-mi/chuong-182/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_183_Bất_tử_Chiến_Dã.json",
+    "chapter_name": "Chương 183: Bất tử Chiến Dã",
+    "url": "https://truyenfull.io/sung-mi/chuong-183/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_184_Liên_tục_trọng_sinh.json",
+    "chapter_name": "Chương 184: Liên tục trọng sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-184/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_185_Quỷ_Sí_Bạch_Cốt_Huyết_Ma.json",
+    "chapter_name": "Chương 185: Quỷ Sí Bạch Cốt Huyết Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-185/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_186_Quỷ_hệ_phong_ấn_Huyết_Ma_Ấn.json",
+    "chapter_name": "Chương 186: Quỷ hệ phong ấn - Huyết Ma Ấn",
+    "url": "https://truyenfull.io/sung-mi/chuong-186/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_187_Chủng_tộc_truyền_thừa_Bài_Trừ_Phong_Ấn.json",
+    "chapter_name": "Chương 187: Chủng tộc truyền thừa - Bài Trừ Phong Ấn",
+    "url": "https://truyenfull.io/sung-mi/chuong-187/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_188_Diệt_Dương_gia.json",
+    "chapter_name": "Chương 188: Diệt Dương gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-188/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_189_Máu_chảy_thành_sông.json",
+    "chapter_name": "Chương 189: Máu chảy thành sông",
+    "url": "https://truyenfull.io/sung-mi/chuong-189/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_190_Diệt_tộc.json",
+    "chapter_name": "Chương 190: Diệt tộc",
+    "url": "https://truyenfull.io/sung-mi/chuong-190/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_191_Di_chuyển_gia_tộc.json",
+    "chapter_name": "Chương 191: Di chuyển gia tộc",
+    "url": "https://truyenfull.io/sung-mi/chuong-191/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_192_Độc_thân_gặp_cường_địch.json",
+    "chapter_name": "Chương 192: Độc thân gặp cường địch",
+    "url": "https://truyenfull.io/sung-mi/chuong-192/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_193_Liều_mạng_chạy_trốn.json",
+    "chapter_name": "Chương 193: Liều mạng chạy trốn",
+    "url": "https://truyenfull.io/sung-mi/chuong-193/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_194_Danh_tiếng_cực_thịnh_Hậu_hoạn_khôn_lường.json",
+    "chapter_name": "Chương 194: Danh tiếng cực thịnh - Hậu hoạn khôn lường",
+    "url": "https://truyenfull.io/sung-mi/chuong-194/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_195_Cổ_thành.json",
+    "chapter_name": "Chương 195: Cổ thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-195/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_196_Vận_khí_quá_tốt.json",
+    "chapter_name": "Chương 196: Vận khí quá tốt?",
+    "url": "https://truyenfull.io/sung-mi/chuong-196/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_197_Thiên_Hạ_Quyết.json",
+    "chapter_name": "Chương 197: Thiên Hạ Quyết",
+    "url": "https://truyenfull.io/sung-mi/chuong-197/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_198_Cuộc_chiến_ở_Cổ_Vực.json",
+    "chapter_name": "Chương 198: Cuộc chiến ở Cổ Vực",
+    "url": "https://truyenfull.io/sung-mi/chuong-198/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_199_Một_kích_kinh_tâm.json",
+    "chapter_name": "Chương 199: Một kích kinh tâm",
+    "url": "https://truyenfull.io/sung-mi/chuong-199/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_200_Chiến_tướng_hoàn_mỹ_vs_Thống_lĩnh_hoàn_mỹ.json",
+    "chapter_name": "Chương 200: Chiến tướng hoàn mỹ vs Thống lĩnh hoàn mỹ",
+    "url": "https://truyenfull.io/sung-mi/chuong-200/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_201_Chiến_đấu_hay_rèn_luyện.json",
+    "chapter_name": "Chương 201: Chiến đấu hay rèn luyện?",
+    "url": "https://truyenfull.io/sung-mi/chuong-201/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_202_Trận_chiến_gian_nan.json",
+    "chapter_name": "Chương 202: Trận chiến gian nan",
+    "url": "https://truyenfull.io/sung-mi/chuong-202/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_203_Miện_Diễm_Cửu_Vĩ_Yêu_Hồ.json",
+    "chapter_name": "Chương 203: Miện Diễm Cửu Vĩ Yêu Hồ",
+    "url": "https://truyenfull.io/sung-mi/chuong-203/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_204_Tà_Đồng_Yêu_Nhiếp_Thao_túng_linh_hồn.json",
+    "chapter_name": "Chương 204: Tà Đồng Yêu Nhiếp - Thao túng linh hồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-204/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_205_Thanh_niên_tối_cường.json",
+    "chapter_name": "Chương 205: Thanh niên tối cường",
+    "url": "https://truyenfull.io/sung-mi/chuong-205/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_206_Thăm_viếng_giữa_đêm.json",
+    "chapter_name": "Chương 206: Thăm viếng giữa đêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-206/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_207_Bắt_cóc_công_chúa.json",
+    "chapter_name": "Chương 207: Bắt cóc công chúa",
+    "url": "https://truyenfull.io/sung-mi/chuong-207/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_208_Đào_thoát_Yểm_Ma_cung.json",
+    "chapter_name": "Chương 208: Đào thoát Yểm Ma cung",
+    "url": "https://truyenfull.io/sung-mi/chuong-208/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_209_Tam_trọng_Thiên_Diễm_Lễ.json",
+    "chapter_name": "Chương 209: Tam trọng Thiên Diễm Lễ",
+    "url": "https://truyenfull.io/sung-mi/chuong-209/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_210_Rừng_rậm_thần_bí.json",
+    "chapter_name": "Chương 210: Rừng rậm thần bí",
+    "url": "https://truyenfull.io/sung-mi/chuong-210/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_211_Vừa_chạy_vừa_giết.json",
+    "chapter_name": "Chương 211: Vừa chạy vừa giết",
+    "url": "https://truyenfull.io/sung-mi/chuong-211/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_212_Bẫy_rập_Yêu_Linh_tộc_quần.json",
+    "chapter_name": "Chương 212: Bẫy rập - Yêu Linh tộc quần",
+    "url": "https://truyenfull.io/sung-mi/chuong-212/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_213_Thế_giới_Yêu_Linh.json",
+    "chapter_name": "Chương 213: Thế giới Yêu Linh",
+    "url": "https://truyenfull.io/sung-mi/chuong-213/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_214_Dạ_Miên_Thảo_Giấc_ngủ_ngàn_thu.json",
+    "chapter_name": "Chương 214: Dạ Miên Thảo - Giấc ngủ ngàn thu",
+    "url": "https://truyenfull.io/sung-mi/chuong-214/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_215_Hồn_sủng_phản_bội_Thiếu_nữ_thuần_khiết.json",
+    "chapter_name": "Chương 215: Hồn sủng phản bội - Thiếu nữ thuần khiết",
+    "url": "https://truyenfull.io/sung-mi/chuong-215/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_216_Sát_Mộng_Yêu_Mộng_cảnh_bẫy_rập.json",
+    "chapter_name": "Chương 216: Sát Mộng Yêu - Mộng cảnh bẫy rập",
+    "url": "https://truyenfull.io/sung-mi/chuong-216/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_217_Yêu_Linh_Dạ_Mộng_Hai_lần_mộng_cảnh.json",
+    "chapter_name": "Chương 217: Yêu Linh Dạ Mộng - Hai lần mộng cảnh",
+    "url": "https://truyenfull.io/sung-mi/chuong-217/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_218_Quân_chủ_Yểm_Ma_ra_trận.json",
+    "chapter_name": "Chương 218: Quân chủ Yểm Ma ra trận",
+    "url": "https://truyenfull.io/sung-mi/chuong-218/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_219_Đại_chiến_kịch_liệt.json",
+    "chapter_name": "Chương 219: Đại chiến kịch liệt",
+    "url": "https://truyenfull.io/sung-mi/chuong-219/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_220_Nội_tâm_hắc_ám_Linh_hồn_phản_phệ.json",
+    "chapter_name": "Chương 220: Nội tâm hắc ám - Linh hồn phản phệ",
+    "url": "https://truyenfull.io/sung-mi/chuong-220/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_221_Cơ_hội_sống_sót_cuối_cùng.json",
+    "chapter_name": "Chương 221: Cơ hội sống sót cuối cùng",
+    "url": "https://truyenfull.io/sung-mi/chuong-221/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_222_Thăng_cấp_Hồn_Chủ_Hóa_thân_Bán_Ma.json",
+    "chapter_name": "Chương 222: Thăng cấp Hồn Chủ - Hóa thân Bán Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-222/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_223_Bạo_sát_Tang_Hoàng_Sa_Long.json",
+    "chapter_name": "Chương 223: Bạo sát Tang Hoàng Sa Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-223/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_224_Bạo_Huyết_Uyên_Thú.json",
+    "chapter_name": "Chương 224: Bạo Huyết Uyên Thú",
+    "url": "https://truyenfull.io/sung-mi/chuong-224/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_225_Chân_chính_bá_chủ.json",
+    "chapter_name": "Chương 225: Chân chính bá chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-225/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_226_Gặp_lại_mẫu_thân_Bi_hài_lẫn_lộn.json",
+    "chapter_name": "Chương 226: Gặp lại mẫu thân - Bi hài lẫn lộn",
+    "url": "https://truyenfull.io/sung-mi/chuong-226/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_227_Linh_hồn_cực_nóng.json",
+    "chapter_name": "Chương 227: Linh hồn cực nóng",
+    "url": "https://truyenfull.io/sung-mi/chuong-227/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_228_Huyễn_lão_Nửa_người_nửa_sủng_tài_hoa_tuyệt_thế.json",
+    "chapter_name": "Chương 228: Huyễn lão - Nửa người nửa sủng tài hoa tuyệt thế",
+    "url": "https://truyenfull.io/sung-mi/chuong-228/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_229_Nữ_Tôn_Băng_Lam.json",
+    "chapter_name": "Chương 229: Nữ Tôn Băng Lam",
+    "url": "https://truyenfull.io/sung-mi/chuong-229/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_230_Tội_Nguyên_Hàn_Đàm.json",
+    "chapter_name": "Chương 230: Tội Nguyên Hàn Đàm",
+    "url": "https://truyenfull.io/sung-mi/chuong-230/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_231_Hai_huynh_muội_lưu_lạc.json",
+    "chapter_name": "Chương 231: Hai huynh muội lưu lạc",
+    "url": "https://truyenfull.io/sung-mi/chuong-231/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_232_Tử_Sam_Mộng_Thú_Một_cặp_trời_sinh.json",
+    "chapter_name": "Chương 232: Tử Sam Mộng Thú - Một cặp trời sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-232/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_233_Tìm_kiếm_Hàn_Đàm.json",
+    "chapter_name": "Chương 233: Tìm kiếm Hàn Đàm",
+    "url": "https://truyenfull.io/sung-mi/chuong-233/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_234_Trận_chiến_đầu_tiên.json",
+    "chapter_name": "Chương 234: Trận chiến đầu tiên",
+    "url": "https://truyenfull.io/sung-mi/chuong-234/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_235_Tranh_đoạt_linh_vật.json",
+    "chapter_name": "Chương 235: Tranh đoạt linh vật",
+    "url": "https://truyenfull.io/sung-mi/chuong-235/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_236_Giết_người_cướp_của_Tiền_vô_như_nước.json",
+    "chapter_name": "Chương 236: Giết người cướp của - Tiền vô như nước",
+    "url": "https://truyenfull.io/sung-mi/chuong-236/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_237_Cường_sát_đội_ngũ_Dương_Thị_gia_tộc.json",
+    "chapter_name": "Chương 237: Cường sát đội ngũ Dương Thị gia tộc",
+    "url": "https://truyenfull.io/sung-mi/chuong-237/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_238_Cực_phẩm_lưu_manh_Diệp_Hoàn_Sinh.json",
+    "chapter_name": "Chương 238: Cực phẩm lưu manh - Diệp Hoàn Sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-238/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_239_Cao_thủ_phụ_trợ.json",
+    "chapter_name": "Chương 239: Cao thủ phụ trợ",
+    "url": "https://truyenfull.io/sung-mi/chuong-239/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_240_Chúng_ta_là_đồng_đạo.json",
+    "chapter_name": "Chương 240: Chúng ta là đồng đạo",
+    "url": "https://truyenfull.io/sung-mi/chuong-240/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_241_Kinh_động_bá_chủ_Hàn_Đàm.json",
+    "chapter_name": "Chương 241: Kinh động bá chủ Hàn Đàm",
+    "url": "https://truyenfull.io/sung-mi/chuong-241/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_242_Ngươi_thật_sự_không_có_hứng_thú.json",
+    "chapter_name": "Chương 242: Ngươi thật sự không có hứng thú?",
+    "url": "https://truyenfull.io/sung-mi/chuong-242/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_243_Kết_tinh_Băng_Lưu_Ly.json",
+    "chapter_name": "Chương 243: Kết tinh Băng Lưu Ly",
+    "url": "https://truyenfull.io/sung-mi/chuong-243/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_244_Ngươi_và_Sở_Mộ_ai_lợi_hại_hơn.json",
+    "chapter_name": "Chương 244: Ngươi và Sở Mộ, ai lợi hại hơn?",
+    "url": "https://truyenfull.io/sung-mi/chuong-244/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_245_Đường_tỷ_Sở_Tiêm.json",
+    "chapter_name": "Chương 245: Đường tỷ Sở Tiêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-245/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_246_Phiền_phức_của_Sở_Tiêm.json",
+    "chapter_name": "Chương 246: Phiền phức của Sở Tiêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-246/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_247_Ta_đơn_khống_ngươi_tùy_tiện_triệu_hoán.json",
+    "chapter_name": "Chương 247: Ta đơn khống, ngươi tùy tiện triệu hoán",
+    "url": "https://truyenfull.io/sung-mi/chuong-247/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_248_Băng_Không_Tinh_Linh_bá_đạo.json",
+    "chapter_name": "Chương 248: Băng Không Tinh Linh bá đạo",
+    "url": "https://truyenfull.io/sung-mi/chuong-248/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_249_Dạy_dỗ_Sở_Gia.json",
+    "chapter_name": "Chương 249: Dạy dỗ Sở Gia",
+    "url": "https://truyenfull.io/sung-mi/chuong-249/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_250_Sở_Việt_Mặc_sức_mà_chà_đạp.json",
+    "chapter_name": "Chương 250: Sở Việt - Mặc sức mà chà đạp",
+    "url": "https://truyenfull.io/sung-mi/chuong-250/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_251_Kinh_ngạc_nối_tiếp_kinh_ngạc.json",
+    "chapter_name": "Chương 251: Kinh ngạc nối tiếp kinh ngạc",
+    "url": "https://truyenfull.io/sung-mi/chuong-251/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_252_Bi_kịch_của_Sở_Thiên_Mang.json",
+    "chapter_name": "Chương 252: Bi kịch của Sở Thiên Mang",
+    "url": "https://truyenfull.io/sung-mi/chuong-252/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_253_Thành_lập_đội_ngũ_tác_chiến.json",
+    "chapter_name": "Chương 253: Thành lập đội ngũ tác chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-253/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_254_Bắt_đầu_tranh_tài.json",
+    "chapter_name": "Chương 254: Bắt đầu tranh tài",
+    "url": "https://truyenfull.io/sung-mi/chuong-254/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_255_Đối_chiến_Sở_Việt_lần_hai.json",
+    "chapter_name": "Chương 255: Đối chiến Sở Việt lần hai",
+    "url": "https://truyenfull.io/sung-mi/chuong-255/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_256_Thu_dọn_tàn_cuộc.json",
+    "chapter_name": "Chương 256: Thu dọn tàn cuộc",
+    "url": "https://truyenfull.io/sung-mi/chuong-256/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_257_Đơn_khống_vs_Ba_khống.json",
+    "chapter_name": "Chương 257: Đơn khống vs Ba khống",
+    "url": "https://truyenfull.io/sung-mi/chuong-257/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_258_Một_lần_cá_cược_kinh_người.json",
+    "chapter_name": "Chương 258: Một lần cá cược kinh người",
+    "url": "https://truyenfull.io/sung-mi/chuong-258/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_259_Khí_khái_nam_tử_hán.json",
+    "chapter_name": "Chương 259: Khí khái nam tử hán",
+    "url": "https://truyenfull.io/sung-mi/chuong-259/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_260_Tự_tin_hay_là_ngông_cuồng.json",
+    "chapter_name": "Chương 260: Tự tin hay là ngông cuồng?",
+    "url": "https://truyenfull.io/sung-mi/chuong-260/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_261_Cẩn_Nhu_tham_chiến.json",
+    "chapter_name": "Chương 261: Cẩn Nhu tham chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-261/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_262_Bản_chất_chân_thật_của_Sở_Mộ.json",
+    "chapter_name": "Chương 262: Bản chất chân thật của Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-262/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_263_Miện_Diễm_Cửu_Vĩ_Viêm_Hồ_vs_Lăng_Băng_Trớ_Ấn_Yêu_Hồ.json",
+    "chapter_name": "Chương 263: Miện Diễm Cửu Vĩ Viêm Hồ vs Lăng Băng Trớ Ấn Yêu Hồ",
+    "url": "https://truyenfull.io/sung-mi/chuong-263/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_264_Trận_chiến_gian_nan.json",
+    "chapter_name": "Chương 264: Trận chiến gian nan",
+    "url": "https://truyenfull.io/sung-mi/chuong-264/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_265_Đồng_tộc_Bạch_Yểm_Ma_Đồng_cấp_Hồn_Chủ_Chiến_đấu_thăng_hoa.json",
+    "chapter_name": "Chương 265: Đồng tộc Bạch Yểm Ma - Đồng cấp Hồn Chủ Chiến đấu thăng hoa",
+    "url": "https://truyenfull.io/sung-mi/chuong-265/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_266_Oán_Ngưng_Sức_mạnh_đến_từ_oán_niệm.json",
+    "chapter_name": "Chương 266: Oán Ngưng - Sức mạnh đến từ oán niệm",
+    "url": "https://truyenfull.io/sung-mi/chuong-266/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_267_Chấn_kinh_toàn_trường.json",
+    "chapter_name": "Chương 267: Chấn kinh toàn trường",
+    "url": "https://truyenfull.io/sung-mi/chuong-267/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_268_Chỉ_đơn_giản_là_ái_mộ.json",
+    "chapter_name": "Chương 268: Chỉ đơn giản là ái mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-268/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_269_Chập_Hoang_Tai_nạn_tộc_quần.json",
+    "chapter_name": "Chương 269: Chập Hoang - Tai nạn tộc quần",
+    "url": "https://truyenfull.io/sung-mi/chuong-269/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_270_Bát_Dực_Thiên_Ma_Trùng_Chín_đoạn_quân_chủ.json",
+    "chapter_name": "Chương 270: Bát Dực Thiên Ma Trùng - Chín đoạn quân chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-270/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_271_Cứu_người_như_cứu_hỏa.json",
+    "chapter_name": "Chương 271: Cứu người như cứu hỏa",
+    "url": "https://truyenfull.io/sung-mi/chuong-271/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_272_Vùi_thân_Chập_Hoang_Hóa_thân_Bán_Ma.json",
+    "chapter_name": "Chương 272: Vùi thân Chập Hoang - Hóa thân Bán Ma",
+    "url": "https://truyenfull.io/sung-mi/chuong-272/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_273_Đau_khổ_tìm_đường_thoát.json",
+    "chapter_name": "Chương 273: Đau khổ tìm đường thoát",
+    "url": "https://truyenfull.io/sung-mi/chuong-273/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_274_Hiểm_cảnh_hoàn_sinh.json",
+    "chapter_name": "Chương 274: Hiểm cảnh hoàn sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-274/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_275_Ai_muốn_chết.json",
+    "chapter_name": "Chương 275: Ai muốn chết?",
+    "url": "https://truyenfull.io/sung-mi/chuong-275/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_276_Linh_Sư_Diệp_Khuynh_Tư.json",
+    "chapter_name": "Chương 276: Linh Sư Diệp Khuynh Tư",
+    "url": "https://truyenfull.io/sung-mi/chuong-276/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_277_Dũng_Triết_Chi_Tâm_Sức_mạnh_tăng_cường.json",
+    "chapter_name": "Chương 277: Dũng Triết Chi Tâm - Sức mạnh tăng cường",
+    "url": "https://truyenfull.io/sung-mi/chuong-277/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_278_Dứt_khoát_như_Sở_Mộ.json",
+    "chapter_name": "Chương 278: Dứt khoát như Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-278/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_279_Sào_huyệt_Thiên_Ma_Trùng.json",
+    "chapter_name": "Chương 279: Sào huyệt Thiên Ma Trùng",
+    "url": "https://truyenfull.io/sung-mi/chuong-279/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_280_Tranh_thủ_rèn_luyện.json",
+    "chapter_name": "Chương 280: Tranh thủ rèn luyện",
+    "url": "https://truyenfull.io/sung-mi/chuong-280/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_281_Đội_ngũ_cứu_viện.json",
+    "chapter_name": "Chương 281: Đội ngũ cứu viện",
+    "url": "https://truyenfull.io/sung-mi/chuong-281/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_282_Một_đường_càn_quét.json",
+    "chapter_name": "Chương 282: Một đường càn quét",
+    "url": "https://truyenfull.io/sung-mi/chuong-282/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_283_Khí_thế_quân_chủ.json",
+    "chapter_name": "Chương 283: Khí thế quân chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-283/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_284_Trưởng_thành_trong_đau_khổ.json",
+    "chapter_name": "Chương 284: Trưởng thành trong đau khổ",
+    "url": "https://truyenfull.io/sung-mi/chuong-284/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_285_Kim_tệ_bay_đầy_trời.json",
+    "chapter_name": "Chương 285: Kim tệ bay đầy trời",
+    "url": "https://truyenfull.io/sung-mi/chuong-285/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_286_Tung_tích_Diệp_Hoàn_Sinh.json",
+    "chapter_name": "Chương 286: Tung tích Diệp Hoàn Sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-286/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_287_Nguyên_Tố_môn.json",
+    "chapter_name": "Chương 287: Nguyên Tố môn",
+    "url": "https://truyenfull.io/sung-mi/chuong-287/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_288_Đập_tiền_cho_Chiến_Dã.json",
+    "chapter_name": "Chương 288: Đập tiền cho Chiến Dã",
+    "url": "https://truyenfull.io/sung-mi/chuong-288/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_289_Dũng_Triết_Chi_Tâm_Trái_tim_dũng_cảm.json",
+    "chapter_name": "Chương 289: Dũng Triết Chi Tâm - Trái tim dũng cảm",
+    "url": "https://truyenfull.io/sung-mi/chuong-289/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_290_Thiên_Giới_Bi_thần_bí.json",
+    "chapter_name": "Chương 290: Thiên Giới Bi thần bí",
+    "url": "https://truyenfull.io/sung-mi/chuong-290/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_291_Viễn_cổ_Đồ_Đằng.json",
+    "chapter_name": "Chương 291: Viễn cổ Đồ Đằng",
+    "url": "https://truyenfull.io/sung-mi/chuong-291/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_292_Bia_khóc.json",
+    "chapter_name": "Chương 292: Bia khóc",
+    "url": "https://truyenfull.io/sung-mi/chuong-292/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_293_Con_đường_thiên_hạ.json",
+    "chapter_name": "Chương 293: Con đường thiên hạ",
+    "url": "https://truyenfull.io/sung-mi/chuong-293/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_294_Nguyên_Tố_đô_thành.json",
+    "chapter_name": "Chương 294: Nguyên Tố đô thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-294/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_295_Một_trò_tấu_hài_buồn_cười.json",
+    "chapter_name": "Chương 295: Một trò tấu hài buồn cười",
+    "url": "https://truyenfull.io/sung-mi/chuong-295/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_296_So_đấu_Nguyên_tố_Hồn_sủng.json",
+    "chapter_name": "Chương 296: So đấu Nguyên tố Hồn sủng",
+    "url": "https://truyenfull.io/sung-mi/chuong-296/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_297_Lại_nhức_đầu_vấn_đề_tài_chính.json",
+    "chapter_name": "Chương 297: Lại nhức đầu vấn đề tài chính",
+    "url": "https://truyenfull.io/sung-mi/chuong-297/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_298_Vàng_bay_trước_mắt_Vất_vả_vì_tiền.json",
+    "chapter_name": "Chương 298: Vàng bay trước mắt - Vất vả vì tiền",
+    "url": "https://truyenfull.io/sung-mi/chuong-298/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_299_Quỷ_Khung_Quân_Vương.json",
+    "chapter_name": "Chương 299: Quỷ Khung Quân Vương",
+    "url": "https://truyenfull.io/sung-mi/chuong-299/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_300_Thiếu_chủ_Hồn_Điện.json",
+    "chapter_name": "Chương 300: Thiếu chủ Hồn Điện",
+    "url": "https://truyenfull.io/sung-mi/chuong-300/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_301_Cường_hóa_Hồn_sủng.json",
+    "chapter_name": "Chương 301: Cường hóa Hồn sủng",
+    "url": "https://truyenfull.io/sung-mi/chuong-301/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_302_Thiên_Tinh_quân_chủ.json",
+    "chapter_name": "Chương 302: Thiên Tinh quân chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-302/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_303_Nhờ_người_hòa_giải_Chuyện_to_hóa_nhỏ.json",
+    "chapter_name": "Chương 303: Nhờ người hòa giải - Chuyện to hóa nhỏ",
+    "url": "https://truyenfull.io/sung-mi/chuong-303/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_304_Nhiệm_vụ_thanh_trừ_chướng_ngại.json",
+    "chapter_name": "Chương 304: Nhiệm vụ thanh trừ chướng ngại",
+    "url": "https://truyenfull.io/sung-mi/chuong-304/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_305_Chuyện_kỳ_lạ_quá_nhiều.json",
+    "chapter_name": "Chương 305: Chuyện kỳ lạ quá nhiều",
+    "url": "https://truyenfull.io/sung-mi/chuong-305/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_306_Bẫy_rập_tàn_nhẫn.json",
+    "chapter_name": "Chương 306: Bẫy rập tàn nhẫn",
+    "url": "https://truyenfull.io/sung-mi/chuong-306/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_307_Nguy_cơ_tới_gần.json",
+    "chapter_name": "Chương 307: Nguy cơ tới gần",
+    "url": "https://truyenfull.io/sung-mi/chuong-307/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_308_Tộc_quần_Quỷ_Nham_thủ_vệ.json",
+    "chapter_name": "Chương 308: Tộc quần Quỷ Nham thủ vệ",
+    "url": "https://truyenfull.io/sung-mi/chuong-308/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_309_Cận_kề_nguy_hiểm.json",
+    "chapter_name": "Chương 309: Cận kề nguy hiểm",
+    "url": "https://truyenfull.io/sung-mi/chuong-309/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_310_Ngưng_lột_xác_Cường_hãn_vô_song.json",
+    "chapter_name": "Chương 310: Ngưng lột xác - Cường hãn vô song",
+    "url": "https://truyenfull.io/sung-mi/chuong-310/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_311_Quỷ_Khung_Quân_Vương.json",
+    "chapter_name": "Chương 311: Quỷ Khung Quân Vương",
+    "url": "https://truyenfull.io/sung-mi/chuong-311/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_312_Đơn_thân_độc_chiến.json",
+    "chapter_name": "Chương 312: Đơn thân độc chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-312/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_313_Dụ_địch_vào_bẫy.json",
+    "chapter_name": "Chương 313: Dụ địch vào bẫy",
+    "url": "https://truyenfull.io/sung-mi/chuong-313/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_314_Hỗn_chiến_trên_đỉnh_núi.json",
+    "chapter_name": "Chương 314: Hỗn chiến trên đỉnh núi",
+    "url": "https://truyenfull.io/sung-mi/chuong-314/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_315_Lăng_Băng_cường_đại.json",
+    "chapter_name": "Chương 315: Lăng Băng cường đại",
+    "url": "https://truyenfull.io/sung-mi/chuong-315/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_316_Bất_tử_Chiến_Dã_Càng_đánh_càng_hăng.json",
+    "chapter_name": "Chương 316: Bất tử Chiến Dã - Càng đánh càng hăng",
+    "url": "https://truyenfull.io/sung-mi/chuong-316/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_317_Thủ_vệ_quân_vương_Cương_Nham_tướng_quân.json",
+    "chapter_name": "Chương 317: Thủ vệ quân vương - Cương Nham tướng quân",
+    "url": "https://truyenfull.io/sung-mi/chuong-317/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_318_Chiến_Dã_vs_Sí_Lăng_Hổ.json",
+    "chapter_name": "Chương 318: Chiến Dã vs Sí Lăng Hổ",
+    "url": "https://truyenfull.io/sung-mi/chuong-318/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_319_Từng_bước_chiến_thắng.json",
+    "chapter_name": "Chương 319: Từng bước chiến thắng",
+    "url": "https://truyenfull.io/sung-mi/chuong-319/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_320_Đối_chiến_với_Quỷ_Khung_Quân_Vương.json",
+    "chapter_name": "Chương 320: Đối chiến với Quỷ Khung Quân Vương",
+    "url": "https://truyenfull.io/sung-mi/chuong-320/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_321_Chủ_nhân_Thiên_Tinh_Phong_Quân_vương_bá_đạo.json",
+    "chapter_name": "Chương 321: Chủ nhân Thiên Tinh Phong - Quân vương bá đạo",
+    "url": "https://truyenfull.io/sung-mi/chuong-321/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_322_Bắt_sống_ngoạn_mục.json",
+    "chapter_name": "Chương 322: Bắt sống ngoạn mục",
+    "url": "https://truyenfull.io/sung-mi/chuong-322/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_323_Một_trận_truy_đuổi_kinh_hồn_bạt_vía.json",
+    "chapter_name": "Chương 323: Một trận truy đuổi kinh hồn bạt vía",
+    "url": "https://truyenfull.io/sung-mi/chuong-323/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_324_Trận_chiến_thu_phục.json",
+    "chapter_name": "Chương 324: Trận chiến thu phục",
+    "url": "https://truyenfull.io/sung-mi/chuong-324/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_325_Kỳ_tích_chính_là_Sở_Mộ.json",
+    "chapter_name": "Chương 325: Kỳ tích chính là Sở Mộ",
+    "url": "https://truyenfull.io/sung-mi/chuong-325/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_326_Chinh_phục_Quỷ_Khung_Quân_Vương.json",
+    "chapter_name": "Chương 326: Chinh phục Quỷ Khung Quân Vương",
+    "url": "https://truyenfull.io/sung-mi/chuong-326/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_327_Bản_tính_nam_nhi_Kiên_cường_bất_khuất.json",
+    "chapter_name": "Chương 327: Bản tính nam nhi - Kiên cường bất khuất",
+    "url": "https://truyenfull.io/sung-mi/chuong-327/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_328_Vu_Hạ.json",
+    "chapter_name": "Chương 328: Vu Hạ",
+    "url": "https://truyenfull.io/sung-mi/chuong-328/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_329_Quậy_tung_Hồn_Điện.json",
+    "chapter_name": "Chương 329: Quậy tung Hồn Điện",
+    "url": "https://truyenfull.io/sung-mi/chuong-329/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_330_Tiền_trảm_hậu_tấu.json",
+    "chapter_name": "Chương 330: Tiền trảm hậu tấu",
+    "url": "https://truyenfull.io/sung-mi/chuong-330/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_331_Thiếu_chủ_thứ_mười.json",
+    "chapter_name": "Chương 331: Thiếu chủ thứ mười",
+    "url": "https://truyenfull.io/sung-mi/chuong-331/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_332_Gặp_lại_Diệp_Hoàn_Sinh.json",
+    "chapter_name": "Chương 332: Gặp lại Diệp Hoàn Sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-332/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_333_Sưu_tầm_thảo_dược.json",
+    "chapter_name": "Chương 333: Sưu tầm thảo dược",
+    "url": "https://truyenfull.io/sung-mi/chuong-333/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_334_Chấp_nhận_khiêu_chiến.json",
+    "chapter_name": "Chương 334: Chấp nhận khiêu chiến",
+    "url": "https://truyenfull.io/sung-mi/chuong-334/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_335_Thiên_Mộc_thành.json",
+    "chapter_name": "Chương 335: Thiên Mộc thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-335/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_336_Hấp_Huyết_Mộc_Yêu.json",
+    "chapter_name": "Chương 336: Hấp Huyết Mộc Yêu",
+    "url": "https://truyenfull.io/sung-mi/chuong-336/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_337_Trò_chơi_tàn_sát.json",
+    "chapter_name": "Chương 337: Trò chơi tàn sát",
+    "url": "https://truyenfull.io/sung-mi/chuong-337/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_338_Quan_Huyết_Mộc_Yêu.json",
+    "chapter_name": "Chương 338: Quan Huyết Mộc Yêu",
+    "url": "https://truyenfull.io/sung-mi/chuong-338/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_339_Kỹ_năng_khó_chơi.json",
+    "chapter_name": "Chương 339: Kỹ năng khó chơi",
+    "url": "https://truyenfull.io/sung-mi/chuong-339/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_340_Kỹ_năng_biến_dị.json",
+    "chapter_name": "Chương 340: Kỹ năng biến dị",
+    "url": "https://truyenfull.io/sung-mi/chuong-340/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_341_Sinh_Mệnh_Duyện_Hấp.json",
+    "chapter_name": "Chương 341: Sinh Mệnh Duyện Hấp",
+    "url": "https://truyenfull.io/sung-mi/chuong-341/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_342_Chiến_đấu_điên_cuồng_Ai_cuồng_hơn_ai.json",
+    "chapter_name": "Chương 342: Chiến đấu điên cuồng - Ai cuồng hơn ai",
+    "url": "https://truyenfull.io/sung-mi/chuong-342/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_343_Ma_Thụ_chiến_sĩ_nổi_giận.json",
+    "chapter_name": "Chương 343: Ma Thụ chiến sĩ nổi giận",
+    "url": "https://truyenfull.io/sung-mi/chuong-343/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_344_Thu_dọn_chiến_trường.json",
+    "chapter_name": "Chương 344: Thu dọn chiến trường",
+    "url": "https://truyenfull.io/sung-mi/chuong-344/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_345_Chiểu_Trạch_Thi_Thủ.json",
+    "chapter_name": "Chương 345: Chiểu Trạch Thi Thủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-345/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_346_Linh_Âm_Thiếp.json",
+    "chapter_name": "Chương 346: Linh Âm Thiếp",
+    "url": "https://truyenfull.io/sung-mi/chuong-346/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_347_Cổ_Thương_Ma_Thụ.json",
+    "chapter_name": "Chương 347: Cổ Thương Ma Thụ",
+    "url": "https://truyenfull.io/sung-mi/chuong-347/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_348_Thu_hoạch_ngoài_dự_liệu.json",
+    "chapter_name": "Chương 348: Thu hoạch ngoài dự liệu",
+    "url": "https://truyenfull.io/sung-mi/chuong-348/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_349_Tin_tức_trứng_Chập_Long.json",
+    "chapter_name": "Chương 349: Tin tức trứng Chập Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-349/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_350_Lý_tưởng_trong_đời_Nhân_sinh_chỉ_có_một.json",
+    "chapter_name": "Chương 350: Lý tưởng trong đời - Nhân sinh chỉ có một",
+    "url": "https://truyenfull.io/sung-mi/chuong-350/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_351_Ly_thành.json",
+    "chapter_name": "Chương 351: Ly thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-351/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_352_Một_cuộc_tỷ_thí.json",
+    "chapter_name": "Chương 352: Một cuộc tỷ thí",
+    "url": "https://truyenfull.io/sung-mi/chuong-352/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_353_Hung_vật_Ly_thành.json",
+    "chapter_name": "Chương 353: Hung vật Ly thành",
+    "url": "https://truyenfull.io/sung-mi/chuong-353/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_354_Án_mạng_phát_sinh_liên_tiếp.json",
+    "chapter_name": "Chương 354: Án mạng phát sinh liên tiếp",
+    "url": "https://truyenfull.io/sung-mi/chuong-354/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_355_Một_đêm_kinh_hồn.json",
+    "chapter_name": "Chương 355: Một đêm kinh hồn",
+    "url": "https://truyenfull.io/sung-mi/chuong-355/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_356_Yêu_trảo_cổ_quái.json",
+    "chapter_name": "Chương 356: Yêu trảo cổ quái",
+    "url": "https://truyenfull.io/sung-mi/chuong-356/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_357_Âm_mưu_kinh_người.json",
+    "chapter_name": "Chương 357: Âm mưu kinh người",
+    "url": "https://truyenfull.io/sung-mi/chuong-357/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_358_Nhiệm_vụ_nguy_hiểm.json",
+    "chapter_name": "Chương 358: Nhiệm vụ nguy hiểm",
+    "url": "https://truyenfull.io/sung-mi/chuong-358/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_359_Nhiệm_vụ_nguy_hiểm.json",
+    "chapter_name": "Chương 359: Nhiệm vụ nguy hiểm",
+    "url": "https://truyenfull.io/sung-mi/chuong-359/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_360_Đêm_mưa_tìm_hung_thủ.json",
+    "chapter_name": "Chương 360: Đêm mưa tìm hung thủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-360/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_361_Ma_Thụ_chiến_sĩ_ra_oai_Lấy_một_địch_mười.json",
+    "chapter_name": "Chương 361: Ma Thụ chiến sĩ ra oai - Lấy một địch mười",
+    "url": "https://truyenfull.io/sung-mi/chuong-361/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_362_Trận_chiến_hung_hiểm.json",
+    "chapter_name": "Chương 362: Trận chiến hung hiểm",
+    "url": "https://truyenfull.io/sung-mi/chuong-362/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_363_Ma_Thụ_chiến_sĩ_Độc_thuộc_tính.json",
+    "chapter_name": "Chương 363: Ma Thụ chiến sĩ - Độc thuộc tính",
+    "url": "https://truyenfull.io/sung-mi/chuong-363/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_364_Chủng_tộc_kỳ_dị.json",
+    "chapter_name": "Chương 364: Chủng tộc kỳ dị",
+    "url": "https://truyenfull.io/sung-mi/chuong-364/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_365_Tin_tức_Thanh_Chập_Long.json",
+    "chapter_name": "Chương 365: Tin tức Thanh Chập Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-365/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_366_Giết_rắn_trong_chậu.json",
+    "chapter_name": "Chương 366: Giết rắn trong chậu",
+    "url": "https://truyenfull.io/sung-mi/chuong-366/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_367_Tơ_trắng_Chập_Long.json",
+    "chapter_name": "Chương 367: Tơ trắng Chập Long",
+    "url": "https://truyenfull.io/sung-mi/chuong-367/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_368_Chủ_nhân_Bách_Mẫu.json",
+    "chapter_name": "Chương 368: Chủ nhân Bách Mẫu",
+    "url": "https://truyenfull.io/sung-mi/chuong-368/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_369_Nguy_hiểm_gần_trong_gang_tấc.json",
+    "chapter_name": "Chương 369: Nguy hiểm gần trong gang tấc",
+    "url": "https://truyenfull.io/sung-mi/chuong-369/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_370_Tộc_quần_Lam_Thực_Trùng_Quái.json",
+    "chapter_name": "Chương 370: Tộc quần Lam Thực Trùng Quái",
+    "url": "https://truyenfull.io/sung-mi/chuong-370/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_371_Thế_lực_mới_Hạ_Cung.json",
+    "chapter_name": "Chương 371: Thế lực mới - Hạ Cung",
+    "url": "https://truyenfull.io/sung-mi/chuong-371/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_372_Hội_nghị_cấp_cao.json",
+    "chapter_name": "Chương 372: Hội nghị cấp cao",
+    "url": "https://truyenfull.io/sung-mi/chuong-372/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_373_Đấu_tâm_thái.json",
+    "chapter_name": "Chương 373: Đấu tâm thái",
+    "url": "https://truyenfull.io/sung-mi/chuong-373/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_374_Vết_thương_cũ_của_Đông_Thanh.json",
+    "chapter_name": "Chương 374: Vết thương cũ của Đông Thanh",
+    "url": "https://truyenfull.io/sung-mi/chuong-374/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_375_Khí_phách_thành_chủ.json",
+    "chapter_name": "Chương 375: Khí phách thành chủ",
+    "url": "https://truyenfull.io/sung-mi/chuong-375/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_376_Sân_đấu_giữa_các_thế_lực_lớn.json",
+    "chapter_name": "Chương 376: Sân đấu giữa các thế lực lớn",
+    "url": "https://truyenfull.io/sung-mi/chuong-376/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_377_Giải_thưởng_khổng_lồ.json",
+    "chapter_name": "Chương 377: Giải thưởng khổng lồ",
+    "url": "https://truyenfull.io/sung-mi/chuong-377/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_378_Một_cái_nhân_tình.json",
+    "chapter_name": "Chương 378: Một cái nhân tình",
+    "url": "https://truyenfull.io/sung-mi/chuong-378/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_379_Tâm_sự_giữa_đêm.json",
+    "chapter_name": "Chương 379: Tâm sự giữa đêm",
+    "url": "https://truyenfull.io/sung-mi/chuong-379/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_380_Bố_trí_bẫy_rập_Chờ_cá_vào_lưới.json",
+    "chapter_name": "Chương 380: Bố trí bẫy rập - Chờ cá vào lưới",
+    "url": "https://truyenfull.io/sung-mi/chuong-380/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_381_Đại_chiến_Vu_Hạ.json",
+    "chapter_name": "Chương 381: Đại chiến Vu Hạ",
+    "url": "https://truyenfull.io/sung-mi/chuong-381/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_382_Mạc_Tà_ra_oai.json",
+    "chapter_name": "Chương 382: Mạc Tà ra oai",
+    "url": "https://truyenfull.io/sung-mi/chuong-382/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_383_Thi_hệ_đáng_sợ.json",
+    "chapter_name": "Chương 383: Thi hệ đáng sợ",
+    "url": "https://truyenfull.io/sung-mi/chuong-383/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_384_Ai_chết_trước.json",
+    "chapter_name": "Chương 384: Ai chết trước?",
+    "url": "https://truyenfull.io/sung-mi/chuong-384/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_385_Giết_Vu_Hạ.json",
+    "chapter_name": "Chương 385: Giết Vu Hạ",
+    "url": "https://truyenfull.io/sung-mi/chuong-385/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_386_Quỷ_kế_gặp_âm_mưu.json",
+    "chapter_name": "Chương 386: Quỷ kế gặp âm mưu",
+    "url": "https://truyenfull.io/sung-mi/chuong-386/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_387_Thế_giới_dưới_lòng_đất.json",
+    "chapter_name": "Chương 387: Thế giới dưới lòng đất",
+    "url": "https://truyenfull.io/sung-mi/chuong-387/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_388_Hồn_Minh_Tiêu_Nhâm.json",
+    "chapter_name": "Chương 388: Hồn Minh - Tiêu Nhâm",
+    "url": "https://truyenfull.io/sung-mi/chuong-388/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_389_Tình_thế_nguy_cấp.json",
+    "chapter_name": "Chương 389: Tình thế nguy cấp",
+    "url": "https://truyenfull.io/sung-mi/chuong-389/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_390_Cận_kề_cái_chết_Giành_giật_từng_giây.json",
+    "chapter_name": "Chương 390: Cận kề cái chết - Giành giật từng giây",
+    "url": "https://truyenfull.io/sung-mi/chuong-390/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_391_Lằn_ranh_sinh_tử.json",
+    "chapter_name": "Chương 391: Lằn ranh sinh tử",
+    "url": "https://truyenfull.io/sung-mi/chuong-391/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_392_Sở_Mộ_liều_mạng_Trận_chiến_đỉnh_cao.json",
+    "chapter_name": "Chương 392: Sở Mộ liều mạng - Trận chiến đỉnh cao",
+    "url": "https://truyenfull.io/sung-mi/chuong-392/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_393_Chập_Long_thức_tỉnh.json",
+    "chapter_name": "Chương 393: Chập Long thức tỉnh",
+    "url": "https://truyenfull.io/sung-mi/chuong-393/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_394_Thanh_niên_năm_đỉnh.json",
+    "chapter_name": "Chương 394: Thanh niên năm đỉnh",
+    "url": "https://truyenfull.io/sung-mi/chuong-394/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_395_Hiểm_tử_cầu_sinh.json",
+    "chapter_name": "Chương 395: Hiểm tử cầu sinh",
+    "url": "https://truyenfull.io/sung-mi/chuong-395/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_396_Lực_lượng_va_chạm_Rồng_vs_thú.json",
+    "chapter_name": "Chương 396: Lực lượng va chạm - Rồng vs thú",
+    "url": "https://truyenfull.io/sung-mi/chuong-396/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_397_Ly_thành_đại_chiến_Chập_Long_oai_1.json",
+    "chapter_name": "Chương 397: Ly thành đại chiến - Chập Long oai (1)",
+    "url": "https://truyenfull.io/sung-mi/chuong-397/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_398_Ly_thành_đại_chiến_Chập_Long_oai_23.json",
+    "chapter_name": "Chương 398: Ly thành đại chiến - Chập Long oai (2-3)",
+    "url": "https://truyenfull.io/sung-mi/chuong-398/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_399_Ly_thành_đại_chiến_Chập_Long_oai_4.json",
+    "chapter_name": "Chương 399: Ly thành đại chiến - Chập Long oai (4)",
+    "url": "https://truyenfull.io/sung-mi/chuong-399/"
+  },
+  {
+    "path": "data/Sủng_Mị/Chương_400_Ly_thành_đại_chiến_Chập_Long_oai_5.json",
+    "chapter_name": "Chương 400: Ly thành đại chiến - Chập Long oai (5)",
+    "url": "https://truyenfull.io/sung-mi/chuong-400/"
+  }
+]
