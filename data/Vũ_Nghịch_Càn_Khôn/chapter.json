@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_1_Nam_phế_vật.json",
+    "chapter_name": "Chương 1: Nam phế vật",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-1/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_2_Không_đứng_thẳng_thì_hãy_hủy_hoại.json",
+    "chapter_name": "Chương 2: Không đứng thẳng thì hãy hủy hoại",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-2/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_3_Ngươi_sợ_rồi.json",
+    "chapter_name": "Chương 3: Ngươi sợ rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-3/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_4_Do_con_ta_kết_liễu.json",
+    "chapter_name": "Chương 4: Do con ta kết liễu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-4/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_5_Hướng_lên_trời_thề.json",
+    "chapter_name": "Chương 5: Hướng lên trời thề",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-5/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_6_Đau_đớn_ngất_xỉu.json",
+    "chapter_name": "Chương 6: Đau đớn ngất xỉu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-6/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_7_Long_Giác_sơn.json",
+    "chapter_name": "Chương 7: Long Giác sơn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-7/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_8_Huyết_Sắc_Cự_Mãng.json",
+    "chapter_name": "Chương 8: Huyết Sắc Cự Mãng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-8/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_9_Bị_nuốt_vào_bụng_rắn.json",
+    "chapter_name": "Chương 9: Bị nuốt vào bụng rắn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-9/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_10_Nuốt_nội_đan.json",
+    "chapter_name": "Chương 10: Nuốt nội đan",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-10/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_11_Tồn_tại_kỳ_dị.json",
+    "chapter_name": "Chương 11: Tồn tại kỳ dị",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-11/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_12_Kinh_hỉ.json",
+    "chapter_name": "Chương 12: Kinh hỉ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-12/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_13_Truyền_nhân_Càn_Khôn_Tông.json",
+    "chapter_name": "Chương 13: Truyền nhân Càn Khôn Tông",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-13/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_14_Thân_ở_phương_nào.json",
+    "chapter_name": "Chương 14: Thân ở phương nào?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-14/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_15_Hung_thú_tề_tụ.json",
+    "chapter_name": "Chương 15: Hung thú tề tụ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-15/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_16_Thổ_nguyên_lực.json",
+    "chapter_name": "Chương 16: Thổ nguyên lực",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-16/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_17_Nam_cung_linh_vân.json",
+    "chapter_name": "Chương 17: Nam cung linh vân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-17/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_18_Có_ta_ở_đây.json",
+    "chapter_name": "Chương 18: Có ta ở đây",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-18/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_19_Độc_hỏa_luyện_thể.json",
+    "chapter_name": "Chương 19: Độc hỏa luyện thể",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-19/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_20_Hợp_hoan_chi_độc.json",
+    "chapter_name": "Chương 20: Hợp hoan chi độc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-20/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_21_Thương_hoa_lệ.json",
+    "chapter_name": "Chương 21: Thương hoa lệ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-21/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_22_Tự_do_trấn.json",
+    "chapter_name": "Chương 22: Tự do trấn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-22/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_23_Hắc_tâm_diêm_vương.json",
+    "chapter_name": "Chương 23: Hắc tâm diêm vương",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-23/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_24_Trọng_kiếm_800_cân.json",
+    "chapter_name": "Chương 24: Trọng kiếm 800 cân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-24/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_25_Tịch_Diệt_chi_hỏa.json",
+    "chapter_name": "Chương 25: Tịch Diệt chi hỏa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-25/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_26_Năm_đại_Võ_Quân.json",
+    "chapter_name": "Chương 26: Năm đại Võ Quân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-26/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_27_Một_chút_hứng_thú.json",
+    "chapter_name": "Chương 27: Một chút hứng thú",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-27/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_28_Thác_nước_thỏ_rừng.json",
+    "chapter_name": "Chương 28: Thác nước, thỏ rừng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-28/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_29_Rèn_sắt_vùi_đất.json",
+    "chapter_name": "Chương 29: Rèn sắt, vùi đất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-29/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_30_Đá_vụn.json",
+    "chapter_name": "Chương 30: Đá vụn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-30/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_31_Dùng_lửa_đốt_ta.json",
+    "chapter_name": "Chương 31: Dùng lửa đốt ta",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-31/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_32_Võ_quyết_tìm_chết.json",
+    "chapter_name": "Chương 32: Võ quyết tìm chết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-32/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_33_Thu_thập_tiên_huyết.json",
+    "chapter_name": "Chương 33: Thu thập tiên huyết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-33/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_34_Ngũ_Hành_nguyên_lực.json",
+    "chapter_name": "Chương 34: Ngũ Hành nguyên lực",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-34/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_35_Thảm_biến.json",
+    "chapter_name": "Chương 35: Thảm biến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-35/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_36_Khai_Thiên_thức_thứ_nhất.json",
+    "chapter_name": "Chương 36: Khai Thiên thức thứ nhất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-36/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_37_Thành_hùng_la.json",
+    "chapter_name": "Chương 37: Thành hùng la",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-37/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_38_Tư_đồ_dật_tiêu.json",
+    "chapter_name": "Chương 38: Tư đồ dật tiêu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-38/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_39_Vân_la_môn.json",
+    "chapter_name": "Chương 39: Vân la môn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-39/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_40_Cửa_khảo_thí_đầu_tiên.json",
+    "chapter_name": "Chương 40: Cửa khảo thí đầu tiên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-40/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_41_Cái_tát_không_tiếng_vang.json",
+    "chapter_name": "Chương 41: Cái tát không tiếng vang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-41/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_42_Nguyên_Thạch_không_đủ.json",
+    "chapter_name": "Chương 42: Nguyên Thạch không đủ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-42/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_43_Không_có_thuộc_tính.json",
+    "chapter_name": "Chương 43: Không có thuộc tính",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-43/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_44_Ngươi_có_tư_cách_sao.json",
+    "chapter_name": "Chương 44: Ngươi có tư cách sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-44/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_45_Kỳ_tích_đến.json",
+    "chapter_name": "Chương 45: Kỳ tích đến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-45/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_46_Làm_gì_cũng_được.json",
+    "chapter_name": "Chương 46: Làm gì cũng được?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-46/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_47_Ngươi_cầm_không_nổi.json",
+    "chapter_name": "Chương 47: Ngươi cầm không nổi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-47/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_48_Ta_chỉ_muốn_huynh_đệ.json",
+    "chapter_name": "Chương 48: Ta chỉ muốn huynh đệ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-48/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_49_Nghịch_thiên_bang.json",
+    "chapter_name": "Chương 49: Nghịch thiên bang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-49/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_50_Thần_phục.json",
+    "chapter_name": "Chương 50: Thần phục",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-50/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_51_Liên_tiếp_đoạt_năm_bang.json",
+    "chapter_name": "Chương 51: Liên tiếp đoạt năm bang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-51/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_52_Đột_biến.json",
+    "chapter_name": "Chương 52: Đột biến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-52/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_53_Hai_bang_hợp_giết.json",
+    "chapter_name": "Chương 53: Hai bang hợp giết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-53/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_54_Cùng_ta_đánh_một_trận.json",
+    "chapter_name": "Chương 54: Cùng ta đánh một trận",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-54/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_55_Không_có_khả_năng.json",
+    "chapter_name": "Chương 55: Không có khả năng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-55/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_56_Vân_chuyển_tứ_phương.json",
+    "chapter_name": "Chương 56: Vân chuyển tứ phương",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-56/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_57_Truyền_võ_quyết_Càn_Khôn.json",
+    "chapter_name": "Chương 57: Truyền võ quyết Càn Khôn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-57/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_58_Chiến.json",
+    "chapter_name": "Chương 58: Chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-58/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_59_Tiểu_tử_quái_vật.json",
+    "chapter_name": "Chương 59: Tiểu tử quái vật",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-59/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_60_Gặp_mạnh_càng_mạnh_hơn.json",
+    "chapter_name": "Chương 60: Gặp mạnh càng mạnh hơn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-60/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_61_Ngu_xuẩn.json",
+    "chapter_name": "Chương 61: Ngu xuẩn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-61/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_62_Ta_sẽ_trở_lại.json",
+    "chapter_name": "Chương 62: Ta sẽ trở lại",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-62/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_63_Cấp_tốc_chạy_trốn.json",
+    "chapter_name": "Chương 63: Cấp tốc chạy trốn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-63/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_64_Tuyệt_cảnh.json",
+    "chapter_name": "Chương 64: Tuyệt cảnh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-64/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_65_Lữ_Dương_Minh.json",
+    "chapter_name": "Chương 65: Lữ Dương Minh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-65/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_66_Tử_Mộng_Nhân.json",
+    "chapter_name": "Chương 66: Tử Mộng Nhân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-66/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_67_Giác_ngộ.json",
+    "chapter_name": "Chương 67: Giác ngộ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-67/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_68_Đồ_ngốc.json",
+    "chapter_name": "Chương 68: Đồ ngốc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-68/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_69_Cười_cho_ta.json",
+    "chapter_name": "Chương 69: Cười cho ta",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-69/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_70_Hô_cố_lên.json",
+    "chapter_name": "Chương 70: Hô cố lên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-70/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_71_Kịch_chiến.json",
+    "chapter_name": "Chương 71: Kịch chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-71/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_72_Lão_đến_rồi.json",
+    "chapter_name": "Chương 72: Lão đến rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-72/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_73_Hắn_chính_là_sư_thúc_của_ngươi.json",
+    "chapter_name": "Chương 73: Hắn chính là sư thúc của ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-73/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_74_Thanh_Minh_kiếm_và_lời_nói_mê.json",
+    "chapter_name": "Chương 74: Thanh Minh kiếm và lời nói mê",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-74/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_75_Phải_dỗ_dành_ta_vui_vẻ.json",
+    "chapter_name": "Chương 75: Phải dỗ dành ta vui vẻ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-75/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_76_Dưới_thác_nước.json",
+    "chapter_name": "Chương 76: Dưới thác nước",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-76/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_77_Còn_muốn_xem_không.json",
+    "chapter_name": "Chương 77: Còn muốn xem không",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-77/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_78_Chưởng_môn_lệnh_bài.json",
+    "chapter_name": "Chương 78: Chưởng môn lệnh bài",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-78/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_79_Tụ_hỏa_trận_Ly_Nguyên_Lô.json",
+    "chapter_name": "Chương 79: Tụ hỏa trận, Ly Nguyên Lô",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-79/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_80_Luyện_khí_dị_biến.json",
+    "chapter_name": "Chương 80: Luyện khí dị biến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-80/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_81_Vỡ_nát_rồi_trọng_sanh.json",
+    "chapter_name": "Chương 81: Vỡ nát rồi trọng sanh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-81/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_82_Tạc_lô_hỏa_diễm_bạch_sắc.json",
+    "chapter_name": "Chương 82: Tạc lô, hỏa diễm bạch sắc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-82/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_83_Kiếm_tùy_tâm_động.json",
+    "chapter_name": "Chương 83: Kiếm tùy tâm động",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-83/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_84_Lại_tạo_ra_một_kì_tích.json",
+    "chapter_name": "Chương 84: Lại tạo ra một kì tích",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-84/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_85_Đại_hội_giao_lưu.json",
+    "chapter_name": "Chương 85: Đại hội giao lưu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-85/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_86_Hỏi_đáp_ở_đại_điện.json",
+    "chapter_name": "Chương 86: Hỏi đáp ở đại điện",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-86/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_87_Động_cương_phong.json",
+    "chapter_name": "Chương 87: Động cương phong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-87/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_88_Tu_luyện_trong_động_Cương_Phong.json",
+    "chapter_name": "Chương 88: Tu luyện trong động Cương Phong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-88/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_89_Loạn_phong_cương_trảm.json",
+    "chapter_name": "Chương 89: Loạn phong cương trảm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-89/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_90_Tự_tạo_ra_kinh_mạch.json",
+    "chapter_name": "Chương 90: Tự tạo ra kinh mạch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-90/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_91_Bắt_đầu_tỉ_thí.json",
+    "chapter_name": "Chương 91: Bắt đầu tỉ thí",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-91/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_92_Ta_đến_rồi.json",
+    "chapter_name": "Chương 92: Ta đến rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-92/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_93_Một_quyền.json",
+    "chapter_name": "Chương 93: Một quyền",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-93/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_94_Thời_gian_thì_vội_lửa_quá_yếu.json",
+    "chapter_name": "Chương 94: Thời gian thì vội, lửa quá yếu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-94/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_95_Hỗn_nguyên_luyện_khí_lô.json",
+    "chapter_name": "Chương 95: Hỗn nguyên luyện khí lô",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-95/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_96_Phá_Phá_Phá.json",
+    "chapter_name": "Chương 96: Phá! Phá! Phá!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-96/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_97_Uy_hiếp.json",
+    "chapter_name": "Chương 97: Uy hiếp",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-97/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_98_Tinh_quang_giáp_Phá.json",
+    "chapter_name": "Chương 98: Tinh quang giáp, Phá!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-98/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_99_Lực_bạo.json",
+    "chapter_name": "Chương 99: Lực bạo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-99/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_100_Nghe_lệnh_của_ta_xuất.json",
+    "chapter_name": "Chương 100: Nghe lệnh của ta, xuất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-100/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_101_Võ_Hoàng_ra_tay.json",
+    "chapter_name": "Chương 101: Võ Hoàng ra tay",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-101/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_102_Sự_tình_yêu_nghiệt.json",
+    "chapter_name": "Chương 102: Sự tình yêu nghiệt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-102/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_103_Đại_thống_khổ_đại_thành_công.json",
+    "chapter_name": "Chương 103: Đại thống khổ, đại thành công",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-103/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_104_Kinh_mạch_đầu_tiên.json",
+    "chapter_name": "Chương 104: Kinh mạch đầu tiên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-104/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_105_Cuộc_chiến_của_đệ_nhất_nhân.json",
+    "chapter_name": "Chương 105: Cuộc chiến của đệ nhất nhân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-105/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_106_Càng_điên_Càng_loạn.json",
+    "chapter_name": "Chương 106: Càng điên? Càng loạn?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-106/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_107_Tùy_ý_xuất_nhập.json",
+    "chapter_name": "Chương 107: Tùy ý xuất nhập",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-107/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_108_Tàng_Thư_Các.json",
+    "chapter_name": "Chương 108: Tàng Thư Các",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-108/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_109_Lại_gặp_Mãng_Sơn_Quyết.json",
+    "chapter_name": "Chương 109: Lại gặp Mãng Sơn Quyết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-109/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_110_Cọng_cỏ_biến_thành_bảo_vật.json",
+    "chapter_name": "Chương 110: Cọng cỏ biến thành bảo vật",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-110/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_111_Bi_kịch_của_Lăng_Tiêu.json",
+    "chapter_name": "Chương 111: Bi kịch của Lăng Tiêu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-111/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_112_Mộng_Nhân_muốn_bỏ_trốn.json",
+    "chapter_name": "Chương 112: Mộng Nhân muốn bỏ trốn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-112/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_113_Hiểu_lầm_nho_nhỏ.json",
+    "chapter_name": "Chương 113: Hiểu lầm nho nhỏ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-113/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_114_Dụ_địch_đến_động_Cương_Phong.json",
+    "chapter_name": "Chương 114: Dụ địch đến động Cương Phong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-114/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_115_Thảm_chiến.json",
+    "chapter_name": "Chương 115: Thảm chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-115/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_116_Như_Ý_Kim_Tiên_Đoạn.json",
+    "chapter_name": "Chương 116: Như Ý Kim Tiên, Đoạn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-116/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_117_Toàn_lực_bạo_5000_cân.json",
+    "chapter_name": "Chương 117: Toàn lực bạo, 5000 cân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-117/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_118_Đuổi_đánh_Võ_Quân.json",
+    "chapter_name": "Chương 118: Đuổi đánh Võ Quân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-118/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_119_Hấp_Điên_cuồng_hấp.json",
+    "chapter_name": "Chương 119: Hấp! Điên cuồng hấp!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-119/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_120_Vòng_xoáy_cương_phong.json",
+    "chapter_name": "Chương 120: Vòng xoáy cương phong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-120/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_121_Đường_kinh_mạch_thứ_hai.json",
+    "chapter_name": "Chương 121: Đường kinh mạch thứ hai",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-121/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_122_Thế_lực_thần_bí.json",
+    "chapter_name": "Chương 122: Thế lực thần bí",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-122/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_123_Nhất_định_phải_đi.json",
+    "chapter_name": "Chương 123: Nhất định phải đi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-123/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_124_Đi_về_phía_Tây.json",
+    "chapter_name": "Chương 124: Đi về phía Tây",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-124/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_125_Thiết_Thương_Hùng.json",
+    "chapter_name": "Chương 125: Thiết Thương Hùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-125/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_126_Gặp_lại_Hỏa_Giác_Lang.json",
+    "chapter_name": "Chương 126: Gặp lại Hỏa Giác Lang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-126/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_127_Sát_Phá_Lang.json",
+    "chapter_name": "Chương 127: Sát Phá Lang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-127/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_128_Giết_sói_dọa_gấu.json",
+    "chapter_name": "Chương 128: Giết sói dọa gấu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-128/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_129_Lực_chiến_Thiết_Thương_Hùng.json",
+    "chapter_name": "Chương 129: Lực chiến Thiết Thương Hùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-129/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_130_Hấp_lực_thăng_cấp.json",
+    "chapter_name": "Chương 130: “Hấp lực” thăng cấp",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-130/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_131_Tầng_thứ_chín.json",
+    "chapter_name": "Chương 131: Tầng thứ chín",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-131/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_132_Câu_đố_thứ_ba.json",
+    "chapter_name": "Chương 132: Câu đố thứ ba",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-132/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_133_Mặc_Liên_Thuật_Tử.json",
+    "chapter_name": "Chương 133: Mặc Liên Thuật Tử",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-133/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_134_Trồng_cây_chuối_dùng_đũa_gắp.json",
+    "chapter_name": "Chương 134: Trồng cây chuối, dùng đũa gắp",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-134/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_135_Độc_Vĩ_Phi_Nghĩ.json",
+    "chapter_name": "Chương 135: Độc Vĩ Phi Nghĩ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-135/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_136_Có_người_điều_khiển.json",
+    "chapter_name": "Chương 136: Có người điều khiển?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-136/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_137_Dạ_tập.json",
+    "chapter_name": "Chương 137: Dạ tập",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-137/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_138_Bão_nổi.json",
+    "chapter_name": "Chương 138: Bão nổi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-138/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_139_Ép_hỏi.json",
+    "chapter_name": "Chương 139: Ép hỏi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-139/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_140_Bắc_Thần_Cung.json",
+    "chapter_name": "Chương 140: Bắc Thần Cung",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-140/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_141_Vả_miệng_dị_bảo.json",
+    "chapter_name": "Chương 141: Vả miệng, dị bảo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-141/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_142_Đầm_lầy_tử_vong.json",
+    "chapter_name": "Chương 142: Đầm lầy tử vong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-142/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_143_Hắc_y_nhân.json",
+    "chapter_name": "Chương 143: Hắc y nhân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-143/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_144_Tiếp_tục_tiến_vào_trong.json",
+    "chapter_name": "Chương 144: Tiếp tục tiến vào trong",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-144/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_145_Hung_thú_huyết_chiến.json",
+    "chapter_name": "Chương 145: Hung thú huyết chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-145/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_146_Chiến_đấu_với_Cự_Ngạc.json",
+    "chapter_name": "Chương 146: Chiến đấu với Cự Ngạc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-146/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_147_Ngũ_phẩm.json",
+    "chapter_name": "Chương 147: Ngũ phẩm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-147/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_148_Chạy_trốn_lục_chiến.json",
+    "chapter_name": "Chương 148: Chạy trốn, lục chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-148/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_149_Huyết_chiến_Song_đầu_quái_sư.json",
+    "chapter_name": "Chương 149: Huyết chiến Song đầu quái sư",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-149/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_150_Rời_khỏi_đầm_lầy_độc_vụ.json",
+    "chapter_name": "Chương 150: Rời khỏi đầm lầy độc vụ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-150/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_151_Giỏi_tính_toán.json",
+    "chapter_name": "Chương 151: Giỏi tính toán",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-151/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_152_Có_người_trong_tối.json",
+    "chapter_name": "Chương 152: Có người trong tối",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-152/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_153_Thợ_săn.json",
+    "chapter_name": "Chương 153: Thợ săn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-153/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_154_Lệnh_bài_Hắc_Đản.json",
+    "chapter_name": "Chương 154: Lệnh bài, Hắc Đản",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-154/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_155_Hắc_Đản_quái_dị.json",
+    "chapter_name": "Chương 155: Hắc Đản quái dị",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-155/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_156_Nhất_Bạo_Mãn_Thiên_Quang_Hoa.json",
+    "chapter_name": "Chương 156: Nhất Bạo Mãn Thiên Quang Hoa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-156/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_157_Lưu_Tinh_Tử_Mẫu_Tiễn.json",
+    "chapter_name": "Chương 157: Lưu Tinh Tử Mẫu Tiễn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-157/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_158_Đêm_mưa_bạo_sát.json",
+    "chapter_name": "Chương 158: Đêm mưa bạo sát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-158/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_159_Vòng_xoáy_nước.json",
+    "chapter_name": "Chương 159: Vòng xoáy nước",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-159/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_160_Đuổi_giết_tình_thế_nguy_hiểm.json",
+    "chapter_name": "Chương 160: Đuổi giết, tình thế nguy hiểm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-160/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_161_Cứu_tràng.json",
+    "chapter_name": "Chương 161: Cứu tràng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-161/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_162_Đạo_bất_đồng_bất_tương_vi_mưu.json",
+    "chapter_name": "Chương 162: Đạo bất đồng bất tương vi mưu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-162/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_163_Sư_tử_vồ_thỏ.json",
+    "chapter_name": "Chương 163: Sư tử vồ thỏ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-163/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_164_Giết_về_đến_tộc.json",
+    "chapter_name": "Chương 164: Giết về đến tộc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-164/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_165_Bị_ta_giết_rồi.json",
+    "chapter_name": "Chương 165: Bị ta giết rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-165/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_166_Diệt_khẩu.json",
+    "chapter_name": "Chương 166: Diệt khẩu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-166/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_167_Truất_Ức_vụ.json",
+    "chapter_name": "Chương 167: Truất Ức vụ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-167/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_168_Liệt_Nguyên_Quyền.json",
+    "chapter_name": "Chương 168: Liệt Nguyên Quyền",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-168/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_169_Quả_trứng_đen_cũng_uống_máu.json",
+    "chapter_name": "Chương 169: Quả trứng đen cũng uống máu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-169/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_170_Vẫn_luôn_dõi_theo_ngươi.json",
+    "chapter_name": "Chương 170: Vẫn luôn dõi theo ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-170/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_171_Dùng_vai_đối_quyền.json",
+    "chapter_name": "Chương 171: Dùng vai đối quyền",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-171/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_172_Muốn_bái_sư.json",
+    "chapter_name": "Chương 172: Muốn bái sư",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-172/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_173_Lặng_lẽ_rời_đi.json",
+    "chapter_name": "Chương 173: Lặng lẽ rời đi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-173/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_174_Tứ_Hải_thương_đội.json",
+    "chapter_name": "Chương 174: Tứ Hải thương đội",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-174/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_175_Cường_đạo_tập_kích.json",
+    "chapter_name": "Chương 175: Cường đạo tập kích",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-175/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_176_Một_tiếng_răng_rắc.json",
+    "chapter_name": "Chương 176: Một tiếng “răng rắc”",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-176/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_177_Không_phải_ngươi_muốn_chiến_sao.json",
+    "chapter_name": "Chương 177: Không phải ngươi muốn chiến sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-177/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_178_Người_của_ngươi_rất_nhiều_sao.json",
+    "chapter_name": "Chương 178: Người của ngươi rất nhiều sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-178/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_179_Đây_là_người_ta_muốn.json",
+    "chapter_name": "Chương 179: Đây là người ta muốn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-179/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_180_Đa_tạ_tặng_lễ.json",
+    "chapter_name": "Chương 180: Đa tạ, tặng lễ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-180/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_181_Tu_luyện_cũng_là_niềm_vui.json",
+    "chapter_name": "Chương 181: Tu luyện cũng là niềm vui",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-181/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_182_Mộng_Nhân_lo_lắng.json",
+    "chapter_name": "Chương 182: Mộng Nhân lo lắng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-182/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_183_Lợi_dụng_lúc_người_ta_gặp_khó_khăn.json",
+    "chapter_name": "Chương 183: Lợi dụng lúc người ta gặp khó khăn?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-183/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_184_Ma_luyện_thù_lao.json",
+    "chapter_name": "Chương 184: Ma luyện, thù lao",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-184/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_185_Dĩ_kim_ngự_lực.json",
+    "chapter_name": "Chương 185: Dĩ kim ngự lực",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-185/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_186_Đột_phá.json",
+    "chapter_name": "Chương 186: Đột phá",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-186/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_187_Linh_Khí_gây_chú_ý.json",
+    "chapter_name": "Chương 187: Linh Khí gây chú ý",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-187/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_188_Đột_phá_thành_công.json",
+    "chapter_name": "Chương 188: Đột phá thành công",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-188/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_189_Mở_mắt_ra.json",
+    "chapter_name": "Chương 189: Mở mắt ra",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-189/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_190_Tự_bạo_không_được.json",
+    "chapter_name": "Chương 190: Tự bạo không được",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-190/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_191_Sự_đột_phá_khác_thường.json",
+    "chapter_name": "Chương 191: Sự đột phá khác thường",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-191/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_192_Tịnh_dung_nhuận_nhan_đan.json",
+    "chapter_name": "Chương 192: Tịnh dung nhuận nhan đan",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-192/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_193_Ta_nghe_lời_nàng.json",
+    "chapter_name": "Chương 193: Ta nghe lời nàng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-193/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_194_Ngũ_hành_chi_thể.json",
+    "chapter_name": "Chương 194: Ngũ hành chi thể",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-194/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_195_Đường_hồ_lô.json",
+    "chapter_name": "Chương 195: Đường hồ lô",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-195/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_196_Mỹ_nữ_ở_đâu.json",
+    "chapter_name": "Chương 196: Mỹ nữ ở đâu?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-196/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_197_Gia_gia_ta_là_Thương_Thành_Hùng.json",
+    "chapter_name": "Chương 197: Gia gia ta là Thương Thành Hùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-197/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_198_Ra_tay.json",
+    "chapter_name": "Chương 198: Ra tay",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-198/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_199_Tha_mạng_cho_ngươi.json",
+    "chapter_name": "Chương 199: Tha mạng cho ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-199/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_200_Đánh_ta_một_quyền.json",
+    "chapter_name": "Chương 200: Đánh ta một quyền",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-200/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_201_Bảo_ngươi_cút_ngươi_liền_cút.json",
+    "chapter_name": "Chương 201: Bảo ngươi cút, ngươi liền cút",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-201/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_202_Không_đủ_tư_cách.json",
+    "chapter_name": "Chương 202: Không đủ tư cách",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-202/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_203_Ước_hẹn_ba_năm.json",
+    "chapter_name": "Chương 203: Ước hẹn ba năm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-203/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_204_Kim_khắc_Mộc.json",
+    "chapter_name": "Chương 204: Kim khắc Mộc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-204/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_205_Khắc_ngươi_đến_cuối_cùng.json",
+    "chapter_name": "Chương 205: Khắc ngươi đến cuối cùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-205/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_206_Chưa_đủ_phân_lượng.json",
+    "chapter_name": "Chương 206: Chưa đủ phân lượng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-206/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_207_Cực_Dương_Chân_Hỏa_vô_dụng.json",
+    "chapter_name": "Chương 207: Cực Dương Chân Hỏa, vô dụng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-207/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_208_Đá_mài.json",
+    "chapter_name": "Chương 208: Đá mài",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-208/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_209_Bảo_hắn_tự_mình_đến.json",
+    "chapter_name": "Chương 209: Bảo hắn tự mình đến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-209/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_210_Một_quyền_oanh_sát.json",
+    "chapter_name": "Chương 210: Một quyền oanh sát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-210/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_211_Chết_bị_thương_chạy_trốn.json",
+    "chapter_name": "Chương 211: Chết, bị thương, chạy trốn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-211/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_212_Mời.json",
+    "chapter_name": "Chương 212: Mời",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-212/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_213_Thì_ra_là_như_vậy.json",
+    "chapter_name": "Chương 213: Thì ra là như vậy",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-213/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_214_Gánh_roi_chịu_tội.json",
+    "chapter_name": "Chương 214: Gánh roi chịu tội",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-214/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_215_Mười_lăm_lần_thù_lao.json",
+    "chapter_name": "Chương 215: Mười lăm lần thù lao",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-215/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_216_Một_canh_giờ.json",
+    "chapter_name": "Chương 216: Một canh giờ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-216/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_217_Bão_tố_đang_hình_thành.json",
+    "chapter_name": "Chương 217: Bão tố đang hình thành",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-217/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_218_Tiềm_Hoàng_Bảng_Tâm_Luyện_Quyết.json",
+    "chapter_name": "Chương 218: Tiềm Hoàng Bảng, Tâm Luyện Quyết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-218/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_219_Thiết_Thương_Hùng_khiêu_chiến.json",
+    "chapter_name": "Chương 219: Thiết Thương Hùng khiêu chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-219/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_220_Dung_hợp_vào_nhau.json",
+    "chapter_name": "Chương 220: Dung hợp vào nhau",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-220/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_221_Mới_là_căn_bản.json",
+    "chapter_name": "Chương 221: Mới là căn bản",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-221/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_222_Thương_Sơn_Quyết.json",
+    "chapter_name": "Chương 222: Thương Sơn Quyết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-222/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_223_Tiềm_Hoàng_bảng_thứ_chín.json",
+    "chapter_name": "Chương 223: Tiềm Hoàng bảng thứ chín",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-223/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_224_Suy_nghĩ_đáng_sợ.json",
+    "chapter_name": "Chương 224: Suy nghĩ đáng sợ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-224/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_225_Binh_tới_tướng_ngăn.json",
+    "chapter_name": "Chương 225: Binh tới tướng ngăn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-225/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_226_Ta_sẽ_chống_đỡ.json",
+    "chapter_name": "Chương 226: Ta sẽ chống đỡ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-226/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_227_Lại_là_thứ_gì.json",
+    "chapter_name": "Chương 227: Lại là thứ gì",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-227/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_228_Đồng_bệnh_tương_liên.json",
+    "chapter_name": "Chương 228: Đồng bệnh tương liên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-228/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_229_Tội_sống_khó_tha.json",
+    "chapter_name": "Chương 229: Tội sống khó tha",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-229/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_230_Nắm_đấm_của_ai_lớn.json",
+    "chapter_name": "Chương 230: Nắm đấm của ai lớn?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-230/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_231_Đáng_tiếc.json",
+    "chapter_name": "Chương 231: Đáng tiếc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-231/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_232_Hung_hăng_càn_quấy_đến_cùng.json",
+    "chapter_name": "Chương 232: Hung hăng càn quấy đến cùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-232/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_233_Cùng_lên_đi.json",
+    "chapter_name": "Chương 233: Cùng lên đi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-233/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_234_Tam_Hỏa_vân_chưởng.json",
+    "chapter_name": "Chương 234: Tam Hỏa vân chưởng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-234/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_235_Một_nửa_thanh_kiếm.json",
+    "chapter_name": "Chương 235: Một nửa thanh kiếm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-235/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_236_Một_chiêu_này_tinh_diệu.json",
+    "chapter_name": "Chương 236: Một chiêu này, tinh diệu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-236/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_237_Việc_ngoài_ý_muốn.json",
+    "chapter_name": "Chương 237: Việc ngoài ý muốn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-237/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_238_Mượn_thương_dùng_một_lát.json",
+    "chapter_name": "Chương 238: Mượn thương dùng một lát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-238/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_239_Bằng_không_thì_như_thế_nào.json",
+    "chapter_name": "Chương 239: Bằng không thì như thế nào?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-239/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_240_Trọng_kiếm_hiện.json",
+    "chapter_name": "Chương 240: Trọng kiếm hiện",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-240/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_241_Khai_Thiên_thức_thứ_năm.json",
+    "chapter_name": "Chương 241: Khai Thiên thức thứ năm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-241/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_242_Người_đê_tiện_nhất.json",
+    "chapter_name": "Chương 242: Người đê tiện nhất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-242/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_243_Nam_Bá_Thiên.json",
+    "chapter_name": "Chương 243: Nam Bá Thiên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-243/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_244_Người_của_Thần_Khí_Phái_đến.json",
+    "chapter_name": "Chương 244: Người của Thần Khí Phái đến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-244/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_245_Điên_đảo_trắng_đen.json",
+    "chapter_name": "Chương 245: Điên đảo trắng đen",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-245/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_246_Sáu_thành_là_đủ_rồi.json",
+    "chapter_name": "Chương 246: Sáu thành là đủ rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-246/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_247_Vô_ngã_chi_cảnh.json",
+    "chapter_name": "Chương 247: Vô ngã chi cảnh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-247/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_248_Lấy_chiến_nuôi_chiến.json",
+    "chapter_name": "Chương 248: Lấy chiến nuôi chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-248/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_249_Khai_Thiên_đấu_Trảm_Vân.json",
+    "chapter_name": "Chương 249: Khai Thiên đấu Trảm Vân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-249/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_250_Càn_Khôn_Cửu_Chuyển.json",
+    "chapter_name": "Chương 250: Càn Khôn Cửu Chuyển",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-250/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_251_Nói_được_thì_làm_được.json",
+    "chapter_name": "Chương 251: Nói được thì làm được",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-251/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_252_Nguyên_lực.json",
+    "chapter_name": "Chương 252: Nguyên lực",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-252/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_253_Quỷ_dị.json",
+    "chapter_name": "Chương 253: Quỷ dị",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-253/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_254_Thân_thể_biến_đổi.json",
+    "chapter_name": "Chương 254: Thân thể biến đổi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-254/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_255_Ăn.json",
+    "chapter_name": "Chương 255: Ăn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-255/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_256_Vang_danh_thiên_hạ.json",
+    "chapter_name": "Chương 256: Vang danh thiên hạ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-256/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_257_Kế_hoạch_vơ_vét_của_cải.json",
+    "chapter_name": "Chương 257: Kế hoạch vơ vét của cải",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-257/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_258_Cướp_đoạt.json",
+    "chapter_name": "Chương 258: Cướp đoạt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-258/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_259_Khoản_thu_hoạch_đầu_tiên.json",
+    "chapter_name": "Chương 259: Khoản thu hoạch đầu tiên",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-259/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_260_Gió_thu_cuốn_hết_lá_vàng.json",
+    "chapter_name": "Chương 260: Gió thu cuốn hết lá vàng!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-260/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_261_Ô_Long_cốc.json",
+    "chapter_name": "Chương 261: Ô Long cốc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-261/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_262_Vào_trận.json",
+    "chapter_name": "Chương 262: Vào trận",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-262/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_263_Dùng_lực_phá_hủy.json",
+    "chapter_name": "Chương 263: Dùng lực phá hủy",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-263/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_264_Sát_trận_chi_căn.json",
+    "chapter_name": "Chương 264: Sát trận chi căn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-264/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_265_Thiên_La_Địa_Võng_trận.json",
+    "chapter_name": "Chương 265: Thiên La Địa Võng trận",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-265/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_266_Trận_bị_phá.json",
+    "chapter_name": "Chương 266: Trận bị phá",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-266/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_267_Chơi_ngươi.json",
+    "chapter_name": "Chương 267: Chơi ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-267/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_268_Đấu_trí.json",
+    "chapter_name": "Chương 268: Đấu trí",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-268/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_269_Khối_lệnh_bài_thứ_hai.json",
+    "chapter_name": "Chương 269: Khối lệnh bài thứ hai",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-269/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_270_Nội_chiến.json",
+    "chapter_name": "Chương 270: Nội chiến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-270/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_271_Đồng_sinh_cộng_tử.json",
+    "chapter_name": "Chương 271: Đồng sinh cộng tử",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-271/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_272_An_bài.json",
+    "chapter_name": "Chương 272: An bài",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-272/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_273_Yến_Sơn_Thập_Nhị_Đạo.json",
+    "chapter_name": "Chương 273: Yến Sơn Thập Nhị Đạo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-273/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_274_Liệt_Nguyên_Tam_Trọng_Hỏa.json",
+    "chapter_name": "Chương 274: Liệt Nguyên Tam Trọng Hỏa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-274/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_275_Phiêu_Vân_sơn.json",
+    "chapter_name": "Chương 275: Phiêu Vân sơn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-275/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_276_Một_kiếm_tiện_tay.json",
+    "chapter_name": "Chương 276: Một kiếm tiện tay",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-276/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_277_Võ_Vương_xuất_hiện.json",
+    "chapter_name": "Chương 277: Võ Vương xuất hiện",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-277/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_278_Tiếp_ta_một_quyền.json",
+    "chapter_name": "Chương 278: Tiếp ta một quyền",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-278/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_279_Đệ_tứ_trọng.json",
+    "chapter_name": "Chương 279: Đệ tứ trọng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-279/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_280_Phiên_Sơn_Trụy.json",
+    "chapter_name": "Chương 280: Phiên Sơn Trụy",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-280/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_281_Tử_mẫu_xà_kiếm.json",
+    "chapter_name": "Chương 281: Tử mẫu xà kiếm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-281/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_282_Tiểu_kế.json",
+    "chapter_name": "Chương 282: Tiểu kế",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-282/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_283_Sao_lại_là_hắn.json",
+    "chapter_name": "Chương 283: Sao lại là hắn?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-283/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_284_Thiên_tài_vẫn_lạc.json",
+    "chapter_name": "Chương 284: Thiên tài vẫn lạc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-284/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_285_Trọng_kiếm_quỷ_dị.json",
+    "chapter_name": "Chương 285: Trọng kiếm quỷ dị",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-285/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_286_Bắt_lấy.json",
+    "chapter_name": "Chương 286: Bắt lấy",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-286/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_287_Liều_mạng.json",
+    "chapter_name": "Chương 287: Liều mạng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-287/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_288_Ta_không_cho_phép.json",
+    "chapter_name": "Chương 288: Ta không cho phép",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-288/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_289_Lực_lượng_dời_non_lấp_bể.json",
+    "chapter_name": "Chương 289: Lực lượng dời non lấp bể",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-289/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_290_Tuyền_qua_vỡ_nát.json",
+    "chapter_name": "Chương 290: Tuyền qua vỡ nát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-290/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_291_Phá_rồi_lại_lập.json",
+    "chapter_name": "Chương 291: Phá rồi lại lập",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-291/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_292_Lão_đầu_nhi_xuất_hiện.json",
+    "chapter_name": "Chương 292: Lão đầu nhi xuất hiện",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-292/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_293_Ngang_nhiên_động_thủ.json",
+    "chapter_name": "Chương 293: Ngang nhiên động thủ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-293/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_294_Gạch.json",
+    "chapter_name": "Chương 294: Gạch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-294/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_295_Bổ_Nguyên_Đan.json",
+    "chapter_name": "Chương 295: Bổ Nguyên Đan",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-295/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_296_Trừng_mắt.json",
+    "chapter_name": "Chương 296: Trừng mắt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-296/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_297_Điên_cuồng.json",
+    "chapter_name": "Chương 297: Điên cuồng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-297/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_298_Đường_kinh_mạch_thứ_tư.json",
+    "chapter_name": "Chương 298: Đường kinh mạch thứ tư",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-298/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_299_Tự_bạo_nguyên_hạch.json",
+    "chapter_name": "Chương 299: Tự bạo nguyên hạch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-299/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_300_Giết_chết_Tần_Võ_Vương.json",
+    "chapter_name": "Chương 300: Giết chết Tần Võ Vương",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-300/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_301_Lại_chém_một_người.json",
+    "chapter_name": "Chương 301: Lại chém một người",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-301/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_302_Đại_thu_hoạch_lo_lắng.json",
+    "chapter_name": "Chương 302: Đại thu hoạch, lo lắng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-302/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_303_Liễm_tức_Phường_thị.json",
+    "chapter_name": "Chương 303: Liễm tức, Phường thị",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-303/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_304_Mê_vụ.json",
+    "chapter_name": "Chương 304: Mê vụ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-304/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_305_Bí_thị_phách_mại.json",
+    "chapter_name": "Chương 305: Bí thị phách mại",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-305/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_306_Tin_tức_về_Nam_Cung_Linh_Vân.json",
+    "chapter_name": "Chương 306: Tin tức về Nam Cung Linh Vân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-306/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_307_Cẩm_Tú_Sơn_Hà.json",
+    "chapter_name": "Chương 307: Cẩm Tú Sơn Hà",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-307/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_308_Ăn_sạch.json",
+    "chapter_name": "Chương 308: Ăn sạch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-308/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_309_Thủy_nguyên_bổn_tinh.json",
+    "chapter_name": "Chương 309: Thủy nguyên bổn tinh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-309/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_310_Nguyên_mạch.json",
+    "chapter_name": "Chương 310: Nguyên mạch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-310/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_311_Ngươi_đủ_tư_cách_sao.json",
+    "chapter_name": "Chương 311: Ngươi đủ tư cách sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-311/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_312_Tin_tức.json",
+    "chapter_name": "Chương 312: Tin tức",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-312/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_313_Vòng_vèo.json",
+    "chapter_name": "Chương 313: Vòng vèo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-313/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_314_Diễn_kịch.json",
+    "chapter_name": "Chương 314: Diễn kịch",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-314/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_315_Giết_trở_về.json",
+    "chapter_name": "Chương 315: Giết trở về",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-315/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_316_Dũng_mãnh.json",
+    "chapter_name": "Chương 316: Dũng mãnh",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-316/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_317_Ngươi_lại_nhầm_rồi.json",
+    "chapter_name": "Chương 317: Ngươi lại nhầm rồi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-317/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_318_Học_được_rồi_sao.json",
+    "chapter_name": "Chương 318: Học được rồi sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-318/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_319_Lão_vương_bát.json",
+    "chapter_name": "Chương 319: Lão vương bát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-319/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_320_Lại_tặng_thêm_một_kiếm.json",
+    "chapter_name": "Chương 320: Lại tặng thêm một kiếm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-320/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_321_Cho_ngươi_chết_chín_lần.json",
+    "chapter_name": "Chương 321: Cho ngươi chết chín lần",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-321/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_322_Tôi_luyện_Tịch_Diệt_chi_hỏa.json",
+    "chapter_name": "Chương 322: Tôi luyện Tịch Diệt chi hỏa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-322/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_323_Ta_muốn_Chỉ_muốn.json",
+    "chapter_name": "Chương 323: Ta muốn! Chỉ muốn!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-323/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_324_Thiên_tự_mãnh_hỏa.json",
+    "chapter_name": "Chương 324: “Thiên” tự mãnh hỏa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-324/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_325_Thiên_hỏa_yên_diệt.json",
+    "chapter_name": "Chương 325: “Thiên” hỏa yên diệt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-325/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_326_Thiên_hỏa_lao.json",
+    "chapter_name": "Chương 326: Thiên hỏa lao",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-326/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_327_Thiêu_hỏa_côn.json",
+    "chapter_name": "Chương 327: Thiêu hỏa côn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-327/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_328_Xé_nát_Tam_Túc_Bạo_Ưng.json",
+    "chapter_name": "Chương 328: Xé nát Tam Túc Bạo Ưng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-328/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_329_Hao_tận_nguyên_lực.json",
+    "chapter_name": "Chương 329: Hao tận nguyên lực",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-329/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_330_Long_lân_lập_công.json",
+    "chapter_name": "Chương 330: Long lân lập công",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-330/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_331_Thu_hoạch_lớn.json",
+    "chapter_name": "Chương 331: Thu hoạch lớn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-331/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_332_Thảo_Mộc_Quyết_tầng_thứ_ba.json",
+    "chapter_name": "Chương 332: Thảo Mộc Quyết tầng thứ ba",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-332/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_333_Thế_lực_các_phương.json",
+    "chapter_name": "Chương 333: Thế lực các phương",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-333/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_334_Tử_Châu_Bối_Thảo.json",
+    "chapter_name": "Chương 334: Tử Châu Bối Thảo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-334/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_335_Vô_Tự_thiên_thư.json",
+    "chapter_name": "Chương 335: Vô Tự thiên thư",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-335/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_336_Một_quyền_giết.json",
+    "chapter_name": "Chương 336: Một quyền giết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-336/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_337_Vô_tình_trồng_liễu.json",
+    "chapter_name": "Chương 337: Vô tình trồng liễu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-337/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_338_Nuốt.json",
+    "chapter_name": "Chương 338: Nuốt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-338/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_339_Thần_Hành_Bách_Biến.json",
+    "chapter_name": "Chương 339: Thần Hành Bách Biến",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-339/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_340_Con_sâu_cái_kiến_cướp_đoạt.json",
+    "chapter_name": "Chương 340: Con sâu cái kiến cướp đoạt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-340/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_341_Thiết_Thương_Hùng_cầu_cứu.json",
+    "chapter_name": "Chương 341: Thiết Thương Hùng cầu cứu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-341/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_342_Cút_cho_lão_tử.json",
+    "chapter_name": "Chương 342: Cút cho lão tử",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-342/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_343_Phẫn_nộ.json",
+    "chapter_name": "Chương 343: Phẫn nộ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-343/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_344_Kiếm_Trảm_Phái.json",
+    "chapter_name": "Chương 344: Kiếm Trảm Phái",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-344/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_345_Ta_khiến_ngươi_càng_sầu_hơn.json",
+    "chapter_name": "Chương 345: Ta khiến ngươi càng sầu hơn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-345/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_346_Kẻ_nào_ngăn_ta_kẻ_đó_chết.json",
+    "chapter_name": "Chương 346: Kẻ nào ngăn ta, kẻ đó chết",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-346/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_347_Chỉ_cần_mạng_của_các_ngươi.json",
+    "chapter_name": "Chương 347: Chỉ cần mạng của các ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-347/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_348_Hồng_phấn_khô_lâu.json",
+    "chapter_name": "Chương 348: Hồng phấn khô lâu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-348/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_349_Bây_giờ_thì_sao.json",
+    "chapter_name": "Chương 349: Bây giờ thì sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-349/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_350_Thiên_ti_vạn_lũ.json",
+    "chapter_name": "Chương 350: Thiên ti vạn lũ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-350/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_351_Hành_động_lớn.json",
+    "chapter_name": "Chương 351: Hành động lớn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-351/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_352_Phá_cho_ta.json",
+    "chapter_name": "Chương 352: Phá cho ta",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-352/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_353_Quỳ_xuống.json",
+    "chapter_name": "Chương 353: Quỳ xuống",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-353/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_354_Tôn_chủ.json",
+    "chapter_name": "Chương 354: Tôn chủ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-354/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_355_Tính_toán.json",
+    "chapter_name": "Chương 355: Tính toán",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-355/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_356_Tuế_Hàn_sơn_trang.json",
+    "chapter_name": "Chương 356: Tuế Hàn sơn trang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-356/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_357_Đủ_tư_cách_không.json",
+    "chapter_name": "Chương 357: Đủ tư cách không?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-357/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_358_Ra_giá.json",
+    "chapter_name": "Chương 358: Ra giá",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-358/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_359_Là_người_tốt_cũng_là_người_xấu.json",
+    "chapter_name": "Chương 359: Là người tốt, cũng là người xấu",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-359/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_360_Cho_ta_mượn_nguyên_lực_của_ngươi_dùng_một_lát.json",
+    "chapter_name": "Chương 360: Cho ta mượn nguyên lực của ngươi dùng một lát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-360/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_361_Thật_sao.json",
+    "chapter_name": "Chương 361: Thật sao?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-361/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_362_Sinh_Tử_Quyết_thành.json",
+    "chapter_name": "Chương 362: Sinh Tử Quyết, thành",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-362/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_363_Khống_chế_Thượnghạ.json",
+    "chapter_name": "Chương 363: Khống chế (Thượng.hạ)",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-363/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_364_Húc.json",
+    "chapter_name": "Chương 364: Húc",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-364/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_365_Một_chút_lợi_tức_Thượnghạ.json",
+    "chapter_name": "Chương 365: Một chút lợi tức (Thượng.hạ)",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-365/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_366_Người_tốt.json",
+    "chapter_name": "Chương 366: Người tốt?",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-366/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_367_Nồi_đen.json",
+    "chapter_name": "Chương 367: Nồi đen",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-367/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_368_Miểu_sát.json",
+    "chapter_name": "Chương 368: Miểu sát",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-368/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_369_Nhật_xuất_chi_cảm.json",
+    "chapter_name": "Chương 369: Nhật xuất chi cảm",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-369/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_370_Tụ_Linh_trận_trong_thể_nội.json",
+    "chapter_name": "Chương 370: Tụ Linh trận trong thể nội",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-370/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_371_Hải_Lang_đoàn.json",
+    "chapter_name": "Chương 371: Hải Lang đoàn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-371/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_372_Nhị_đương_gia_ủy_khuất.json",
+    "chapter_name": "Chương 372: Nhị đương gia ủy khuất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-372/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_373_Tam_đương_gia.json",
+    "chapter_name": "Chương 373: Tam đương gia",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-373/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_374_Nhất_cước_đoạt_mạng.json",
+    "chapter_name": "Chương 374: Nhất cước đoạt mạng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-374/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_375_Làm_thủ_hạ_của_ta.json",
+    "chapter_name": "Chương 375: Làm thủ hạ của ta",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-375/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_376_Ngũ_hành_phù.json",
+    "chapter_name": "Chương 376: Ngũ hành phù",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-376/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_377_Thu_phục.json",
+    "chapter_name": "Chương 377: Thu phục",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-377/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_378_Thủ_lĩnh_Tử_Mộng_Nhân.json",
+    "chapter_name": "Chương 378: Thủ lĩnh, Tử Mộng Nhân",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-378/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_379_Ly_biệt_đồng_hành.json",
+    "chapter_name": "Chương 379: Ly biệt, đồng hành",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-379/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_380_Tiếp_một_lần_nữa.json",
+    "chapter_name": "Chương 380: Tiếp một lần nữa",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-380/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_381_Huyền_Băng_môn.json",
+    "chapter_name": "Chương 381: Huyền Băng môn",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-381/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_382_Phá_quan_Thượng.json",
+    "chapter_name": "Chương 382: Phá quan (*) (Thượng)",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-382/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_383_Tiên_hạ_thủ_vi_cường.json",
+    "chapter_name": "Chương 383: Tiên hạ thủ vi cường",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-383/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_384_Quyết_đấu_vòng_xoáy.json",
+    "chapter_name": "Chương 384: Quyết đấu vòng xoáy",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-384/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_385_Diệu_Âm_xuất_thủ.json",
+    "chapter_name": "Chương 385: Diệu Âm xuất thủ",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-385/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_386_Kinh_thiên_nhất_bạo.json",
+    "chapter_name": "Chương 386: Kinh thiên nhất bạo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-386/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_387_Không_nói_cho_ngươi.json",
+    "chapter_name": "Chương 387: Không nói cho ngươi",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-387/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_388_Biến_mất.json",
+    "chapter_name": "Chương 388: Biến mất",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-388/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_389_Trảm_nguyên_sát.json",
+    "chapter_name": "Chương 389: Trảm nguyên sát!",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-389/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_390_Cuồng_phong_đao_tuyệt_thượnghạ.json",
+    "chapter_name": "Chương 390: Cuồng phong đao tuyệt (thượng,hạ)",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-390/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_391_Hắc_đản_chuyển_động.json",
+    "chapter_name": "Chương 391: Hắc đản chuyển động",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-391/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_392_Đông_cứng_ngũ_thải_quang_mang.json",
+    "chapter_name": "Chương 392: Đông cứng, ngũ thải quang mang",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-392/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_393_Đoạt_thì_đoạt.json",
+    "chapter_name": "Chương 393: Đoạt thì đoạt",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-393/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_394_Tôi_luyện_trong_băng_đạo.json",
+    "chapter_name": "Chương 394: Tôi luyện trong băng đạo",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-394/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_395_1000_mét.json",
+    "chapter_name": "Chương 395: 1000 mét",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-395/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_396_Hôn_mê.json",
+    "chapter_name": "Chương 396: Hôn mê",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-396/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_397_Tao_ngộ_quái_trùng.json",
+    "chapter_name": "Chương 397: Tao ngộ quái trùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-397/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_398_Ngọc_Chi_San_Hô_trùng.json",
+    "chapter_name": "Chương 398: Ngọc Chi San Hô trùng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-398/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_399_Lam_bạch_hồng.json",
+    "chapter_name": "Chương 399: Lam, bạch, hồng",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-399/"
+  },
+  {
+    "path": "data/Vũ_Nghịch_Càn_Khôn/Chương_400_Chính_là_nó.json",
+    "chapter_name": "Chương 400: Chính là nó",
+    "url": "https://truyenfull.io/vu-nghich-can-khon/chuong-400/"
+  }
+]
