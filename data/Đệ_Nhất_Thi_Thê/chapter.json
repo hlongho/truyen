@@ -998,5 +998,885 @@
     "path": "data/Đệ_Nhất_Thi_Thê/Chương_200_Bố_cháu_là_ai.json",
     "chapter_name": "Chương 200: Bố cháu là ai?",
     "url": "https://truyenfull.io/de-nhat-thi-the/chuong-200/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_201_Anh_đừng_căng_thẳng.json",
+    "chapter_name": "Chương 201: Anh đừng căng thẳng!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-201/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_202.json",
+    "chapter_name": "Chương 202",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-202/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_203_Chú_gọi_cái_này_là_bát_sao.json",
+    "chapter_name": "Chương 203: Chú gọi cái này là bát sao?!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-203/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_204_Con_muốn_có_em_trai.json",
+    "chapter_name": "Chương 204: Con muốn có em trai!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-204/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_205_Con_khóc_đấy_à.json",
+    "chapter_name": "Chương 205: Con khóc đấy à?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-205/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_206_Gato.json",
+    "chapter_name": "Chương 206: Gato",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-206/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_207.json",
+    "chapter_name": "Chương 207",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-207/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_208_Nói_tiếng_người_đi.json",
+    "chapter_name": "Chương 208: Nói tiếng người đi!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-208/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_209_Đây_là_dị_năng_gì_kia_chứ.json",
+    "chapter_name": "Chương 209: Đây là dị năng gì kia chứ?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-209/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_210_Rốt_cuộc_anh_là_ai.json",
+    "chapter_name": "Chương 210: Rốt cuộc anh là ai?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-210/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_211_Thú_vị_thật.json",
+    "chapter_name": "Chương 211: Thú vị thật",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-211/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_212_Đây_là_cháu_rể_tương_lai_của_ông_đấy.json",
+    "chapter_name": "Chương 212: Đây là cháu rể tương lai của ông đấy!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-212/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_213_Dị_năng_hệ_ám.json",
+    "chapter_name": "Chương 213: Dị năng hệ ám",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-213/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_214_Óc_heo.json",
+    "chapter_name": "Chương 214: Óc heo",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-214/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_215_Hẹn_gặp_lại.json",
+    "chapter_name": "Chương 215: Hẹn gặp lại!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-215/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_216_Tiên_đoán.json",
+    "chapter_name": "Chương 216: Tiên đoán",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-216/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_217.json",
+    "chapter_name": "Chương 217",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-217/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_218_Ngứa_đòn.json",
+    "chapter_name": "Chương 218: Ngứa đòn",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-218/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_219_Hãy_đợi_anh.json",
+    "chapter_name": "Chương 219: Hãy đợi anh",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-219/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_220.json",
+    "chapter_name": "Chương 220",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-220/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_221_Đã_chết_rồi.json",
+    "chapter_name": "Chương 221: Đã chết rồi?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-221/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_222.json",
+    "chapter_name": "Chương 222",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-222/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_223_Anh_rất_nhớ_em.json",
+    "chapter_name": "Chương 223: Anh rất nhớ em",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-223/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_224_Cậu_đi_chết_đi.json",
+    "chapter_name": "Chương 224: Cậu đi chết đi!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-224/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_225_Để_em_đợi_lâu_rồi.json",
+    "chapter_name": "Chương 225: Để em đợi lâu rồi",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-225/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_226_Tuyệt_thế_thần_công.json",
+    "chapter_name": "Chương 226: Tuyệt thế thần công!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-226/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_227_Con_muốn_bú_sữa_mami.json",
+    "chapter_name": "Chương 227: Con muốn bú sữa mami!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-227/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_228.json",
+    "chapter_name": "Chương 228",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-228/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_229_Bớt_phân_tâm_đi.json",
+    "chapter_name": "Chương 229: Bớt phân tâm đi!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-229/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_230_Tao_nhớ_mặt_chúng_mày.json",
+    "chapter_name": "Chương 230: Tao nhớ mặt chúng mày!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-230/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_231.json",
+    "chapter_name": "Chương 231",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-231/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_232.json",
+    "chapter_name": "Chương 232",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-232/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_233.json",
+    "chapter_name": "Chương 233",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-233/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_234_Hình_như_cháu_gặp_chú_rồi.json",
+    "chapter_name": "Chương 234: Hình như cháu gặp chú rồi",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-234/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_235_Máy_kiểm_trắc_tang_thi.json",
+    "chapter_name": "Chương 235: Máy kiểm trắc tang thi",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-235/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_236_Linh_hồn_của_Chiến_Nam_Thiên_ở_đâu.json",
+    "chapter_name": "Chương 236: Linh hồn của Chiến Nam Thiên ở đâu?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-236/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_237_Bố_con_siêu_thật_đấy.json",
+    "chapter_name": "Chương 237: Bố con siêu thật đấy!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-237/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_238_Không_nói_cho_cậu_đâu.json",
+    "chapter_name": "Chương 238: Không nói cho cậu đâu!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-238/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_239_Xét_xử.json",
+    "chapter_name": "Chương 239: Xét xử",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-239/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_240_Xét_xử_2.json",
+    "chapter_name": "Chương 240: Xét xử (2)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-240/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_241_Xét_xử_3.json",
+    "chapter_name": "Chương 241: Xét xử (3)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-241/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_242_Xét_xử_4.json",
+    "chapter_name": "Chương 242: Xét xử (4)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-242/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_243.json",
+    "chapter_name": "Chương 243",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-243/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_244.json",
+    "chapter_name": "Chương 244",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-244/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_245.json",
+    "chapter_name": "Chương 245",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-245/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_246_Con_đã_xác_định_phải_giết_nó.json",
+    "chapter_name": "Chương 246: Con đã xác định phải giết nó!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-246/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_247.json",
+    "chapter_name": "Chương 247",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-247/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_248.json",
+    "chapter_name": "Chương 248",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-248/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_249.json",
+    "chapter_name": "Chương 249",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-249/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_250_Đã_có_manh_mối.json",
+    "chapter_name": "Chương 250: Đã có manh mối",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-250/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_251.json",
+    "chapter_name": "Chương 251",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-251/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_252.json",
+    "chapter_name": "Chương 252",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-252/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_253_Nó_là_một_con_quỷ.json",
+    "chapter_name": "Chương 253: Nó là một con quỷ",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-253/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_254.json",
+    "chapter_name": "Chương 254",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-254/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_255.json",
+    "chapter_name": "Chương 255",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-255/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_256.json",
+    "chapter_name": "Chương 256",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-256/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_257.json",
+    "chapter_name": "Chương 257",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-257/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_258.json",
+    "chapter_name": "Chương 258",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-258/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_259_Cháu_là_con_do_ba_ba_sinh_mà.json",
+    "chapter_name": "Chương 259: Cháu là con do ba ba sinh mà",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-259/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_260_Tôi_sẽ_ghen_đấy.json",
+    "chapter_name": "Chương 260: Tôi sẽ ghen đấy!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-260/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_261_Lãng_mạn.json",
+    "chapter_name": "Chương 261: Lãng mạn",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-261/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_262.json",
+    "chapter_name": "Chương 262",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-262/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_263.json",
+    "chapter_name": "Chương 263",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-263/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_264_Sẽ_không_rời_xa_anh.json",
+    "chapter_name": "Chương 264: Sẽ không rời xa anh",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-264/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_265.json",
+    "chapter_name": "Chương 265",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-265/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_266.json",
+    "chapter_name": "Chương 266",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-266/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_267.json",
+    "chapter_name": "Chương 267",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-267/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_268.json",
+    "chapter_name": "Chương 268",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-268/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_269_Mộc_Mộc_về_đi_em.json",
+    "chapter_name": "Chương 269: Mộc Mộc, về đi em",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-269/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_270.json",
+    "chapter_name": "Chương 270",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-270/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_271.json",
+    "chapter_name": "Chương 271",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-271/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_272_Nhẹ_chút_nhẹ_chút.json",
+    "chapter_name": "Chương 272: Nhẹ chút, nhẹ chút~",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-272/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_273.json",
+    "chapter_name": "Chương 273",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-273/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_274_Có_phải_em_đã_mềm_lòng_rồi_không.json",
+    "chapter_name": "Chương 274: Có phải em đã mềm lòng rồi không?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-274/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_275.json",
+    "chapter_name": "Chương 275",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-275/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_276.json",
+    "chapter_name": "Chương 276",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-276/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_277.json",
+    "chapter_name": "Chương 277",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-277/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_278_Tang_Thi_Vương.json",
+    "chapter_name": "Chương 278: Tang Thi Vương",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-278/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_279.json",
+    "chapter_name": "Chương 279",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-279/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_280.json",
+    "chapter_name": "Chương 280",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-280/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_281.json",
+    "chapter_name": "Chương 281",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-281/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_282_Mộc_Mộc_là_của_hắn.json",
+    "chapter_name": "Chương 282: Mộc Mộc, là của hắn",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-282/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_283.json",
+    "chapter_name": "Chương 283",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-283/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_284_Núi_Táng_Long.json",
+    "chapter_name": "Chương 284: Núi Táng Long",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-284/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_285_Móng_tay_tui_đen_quá_à.json",
+    "chapter_name": "Chương 285: Móng tay tui đen quá à!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-285/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_286.json",
+    "chapter_name": "Chương 286",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-286/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_287.json",
+    "chapter_name": "Chương 287",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-287/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_288.json",
+    "chapter_name": "Chương 288",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-288/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_289.json",
+    "chapter_name": "Chương 289",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-289/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_290.json",
+    "chapter_name": "Chương 290",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-290/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_291.json",
+    "chapter_name": "Chương 291",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-291/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_292_Thì_ra_những_gì_cậu_ta_nói_đều_là_sự_thật.json",
+    "chapter_name": "Chương 292: Thì ra những gì cậu ta nói đều là sự thật",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-292/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_293.json",
+    "chapter_name": "Chương 293",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-293/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_294_Sẽ_bảo_vệ_em_ấy_cả_đời.json",
+    "chapter_name": "Chương 294: Sẽ bảo vệ em ấy cả đời!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-294/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_295_Tốt_từ_lâu_rồi.json",
+    "chapter_name": "Chương 295: Tốt từ lâu rồi",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-295/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_296_Đừng_ki_bo_vậy_chứ.json",
+    "chapter_name": "Chương 296: Đừng ki bo vậy chứ!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-296/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_297.json",
+    "chapter_name": "Chương 297",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-297/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_298.json",
+    "chapter_name": "Chương 298",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-298/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_299.json",
+    "chapter_name": "Chương 299",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-299/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_300.json",
+    "chapter_name": "Chương 300",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-300/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_301.json",
+    "chapter_name": "Chương 301",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-301/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_302.json",
+    "chapter_name": "Chương 302",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-302/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_303.json",
+    "chapter_name": "Chương 303",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-303/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_304.json",
+    "chapter_name": "Chương 304",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-304/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_305.json",
+    "chapter_name": "Chương 305",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-305/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_306.json",
+    "chapter_name": "Chương 306",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-306/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_307.json",
+    "chapter_name": "Chương 307",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-307/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_308.json",
+    "chapter_name": "Chương 308",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-308/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_309.json",
+    "chapter_name": "Chương 309",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-309/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_310_Hắn_mềm_lòng.json",
+    "chapter_name": "Chương 310: Hắn mềm lòng",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-310/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_311.json",
+    "chapter_name": "Chương 311",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-311/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_312_Giống_quá.json",
+    "chapter_name": "Chương 312: Giống quá!",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-312/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_313.json",
+    "chapter_name": "Chương 313",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-313/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_314.json",
+    "chapter_name": "Chương 314",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-314/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_315.json",
+    "chapter_name": "Chương 315",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-315/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_316.json",
+    "chapter_name": "Chương 316",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-316/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_317_Một_dị_năng_khác.json",
+    "chapter_name": "Chương 317: Một dị năng khác",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-317/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_318.json",
+    "chapter_name": "Chương 318",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-318/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_319_Đúng_là_cháu_đã_chọn_được_một_người_đàn_ông_tốt.json",
+    "chapter_name": "Chương 319: Đúng là cháu đã chọn được một người đàn ông tốt",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-319/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_320.json",
+    "chapter_name": "Chương 320",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-320/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_321.json",
+    "chapter_name": "Chương 321",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-321/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_322.json",
+    "chapter_name": "Chương 322",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-322/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_323.json",
+    "chapter_name": "Chương 323",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-323/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_324_Lựa_chọn.json",
+    "chapter_name": "Chương 324: Lựa chọn",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-324/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_325.json",
+    "chapter_name": "Chương 325",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-325/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_326.json",
+    "chapter_name": "Chương 326",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-326/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_327.json",
+    "chapter_name": "Chương 327",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-327/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_328.json",
+    "chapter_name": "Chương 328",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-328/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_329.json",
+    "chapter_name": "Chương 329",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-329/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_330.json",
+    "chapter_name": "Chương 330",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-330/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_331.json",
+    "chapter_name": "Chương 331",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-331/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_332.json",
+    "chapter_name": "Chương 332",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-332/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_333.json",
+    "chapter_name": "Chương 333",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-333/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_334.json",
+    "chapter_name": "Chương 334",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-334/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_335.json",
+    "chapter_name": "Chương 335",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-335/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_336.json",
+    "chapter_name": "Chương 336",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-336/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_337.json",
+    "chapter_name": "Chương 337",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-337/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_338.json",
+    "chapter_name": "Chương 338",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-338/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_339.json",
+    "chapter_name": "Chương 339",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-339/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_340.json",
+    "chapter_name": "Chương 340",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-340/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_341.json",
+    "chapter_name": "Chương 341",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-341/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_342.json",
+    "chapter_name": "Chương 342",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-342/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_343.json",
+    "chapter_name": "Chương 343",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-343/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_344.json",
+    "chapter_name": "Chương 344",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-344/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_345.json",
+    "chapter_name": "Chương 345",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-345/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_346.json",
+    "chapter_name": "Chương 346",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-346/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_347.json",
+    "chapter_name": "Chương 347",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-347/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_348.json",
+    "chapter_name": "Chương 348",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-348/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_349.json",
+    "chapter_name": "Chương 349",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-349/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_350.json",
+    "chapter_name": "Chương 350",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-350/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_351_Ngày_đại_hỉ.json",
+    "chapter_name": "Chương 351: Ngày đại hỉ",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-351/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_352_Chúng_ta_kết_hôn_sao.json",
+    "chapter_name": "Chương 352: Chúng ta kết hôn sao?",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-352/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_353_Tất_cả_đều_có_anh_rồi.json",
+    "chapter_name": "Chương 353: Tất cả đều có anh rồi",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-353/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_354.json",
+    "chapter_name": "Chương 354",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-354/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_355.json",
+    "chapter_name": "Chương 355",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-355/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_356.json",
+    "chapter_name": "Chương 356",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-356/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_357.json",
+    "chapter_name": "Chương 357",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-357/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_358.json",
+    "chapter_name": "Chương 358",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-358/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_359.json",
+    "chapter_name": "Chương 359",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-359/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_360.json",
+    "chapter_name": "Chương 360",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-360/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_361_Hiện_thực_1.json",
+    "chapter_name": "Chương 361: Hiện thực (1)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-361/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_362_Hiện_thực_2.json",
+    "chapter_name": "Chương 362: Hiện thực (2)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-362/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_363_Hiện_thực_3.json",
+    "chapter_name": "Chương 363: Hiện thực (3)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-363/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_364_Hiện_thực_4.json",
+    "chapter_name": "Chương 364: Hiện thực (4)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-364/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_365_Hiện_thực_5.json",
+    "chapter_name": "Chương 365: Hiện thực (5)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-365/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_366_Hiện_thực_6.json",
+    "chapter_name": "Chương 366: Hiện thực (6)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-366/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_367_Hiện_thực_7.json",
+    "chapter_name": "Chương 367: Hiện thực (7)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-367/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_368_Hiện_thực_8.json",
+    "chapter_name": "Chương 368: Hiện thực (8)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-368/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_369_Hiện_thực_9.json",
+    "chapter_name": "Chương 369: Hiện thực (9)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-369/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_370_Hiện_thực_10.json",
+    "chapter_name": "Chương 370: Hiện thực (10)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-370/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_371_Hiện_thực_11.json",
+    "chapter_name": "Chương 371: Hiện thực (11)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-371/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_372_Hiện_thực_12.json",
+    "chapter_name": "Chương 372: Hiện thực (12)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-372/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_373_Hiện_thực_13.json",
+    "chapter_name": "Chương 373: Hiện thực (13)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-373/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_374_Hiện_thực_14.json",
+    "chapter_name": "Chương 374: Hiện thực (14)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-374/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_375_Hiện_thực_15.json",
+    "chapter_name": "Chương 375: Hiện thực (15)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-375/"
+  },
+  {
+    "path": "data/Đệ_Nhất_Thi_Thê/Chương_376_Hiện_thực_Kết.json",
+    "chapter_name": "Chương 376: Hiện thực (Kết)",
+    "url": "https://truyenfull.io/de-nhat-thi-the/chuong-376/"
   }
 ]
