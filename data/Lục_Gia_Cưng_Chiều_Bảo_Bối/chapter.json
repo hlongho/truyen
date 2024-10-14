@@ -1,0 +1,852 @@
+[
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_1_Bại_lộ.json",
+    "chapter_name": "Chương 1: Bại lộ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-1/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_2_Thiết_kế_sẵn_bẫy_đợi_cô_nhảy_vào.json",
+    "chapter_name": "Chương 2: Thiết kế sẵn bẫy, đợi cô nhảy vào!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-2/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_3_Tất_nhiên_tôi_là_người_đầu_tiên_bằng_lòng.json",
+    "chapter_name": "Chương 3: Tất nhiên tôi là người đầu tiên bằng lòng!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-3/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_4_Cái_đó_tới.json",
+    "chapter_name": "Chương 4: Cái đó tới",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-4/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_5_Cô_vẫn_sợ_Lục_Phong_Miên.json",
+    "chapter_name": "Chương 5: Cô vẫn sợ Lục Phong Miên",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-5/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_6_Không_vội_vạch_mặt.json",
+    "chapter_name": "Chương 6: Không vội vạch mặt",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-6/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_7_Bạn_trai_lớn_tuổi_sẽ_cưng_chiều.json",
+    "chapter_name": "Chương 7: Bạn trai lớn tuổi sẽ cưng chiều",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-7/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_8_Ma_nữ_mặc_đồ_Hý_kịch.json",
+    "chapter_name": "Chương 8: Ma nữ mặc đồ Hý kịch",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-8/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_9_Con_nhỏ_ngu_ngốc_đó_đã_cho_Lục_Phong_Miên_uống_thuốc_mê_gì.json",
+    "chapter_name": "Chương 9: Con nhỏ ngu ngốc đó đã cho Lục Phong Miên uống thuốc mê gì!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-9/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_10_Ân_Ân_đừng_dùng_ánh_mắt_này_nhìn_tôi.json",
+    "chapter_name": "Chương 10: Ân Ân, đừng dùng ánh mắt này nhìn tôi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-10/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_11_Co_thê_ngủ_cùng_nhau_không.json",
+    "chapter_name": "Chương 11: Có thể ngủ cùng nhau không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-11/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_12_Chú_Lục_chú_biết_kể_chuyện_không.json",
+    "chapter_name": "Chương 12: Chú Lục chú biết kể chuyện không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-12/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_13_Chú_Lục_chú_thả_cháu_xuống_đi.json",
+    "chapter_name": "Chương 13: Chú Lục chú thả cháu xuống đi!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-13/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_14_Tối_hôm_qua_có_phải_cháu_ngủ_không_nề_nếp_rồi_đúng_không.json",
+    "chapter_name": "Chương 14: Tối hôm qua có phải cháu ngủ không nề nếp rồi đúng không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-14/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_15_Lâm_Như_Uyên.json",
+    "chapter_name": "Chương 15: Lâm Như Uyên",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-15/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_16_Sẽ_không_để_anh_trai_gặp_phải_những_chuyện_đó_nữa.json",
+    "chapter_name": "Chương 16: Sẽ không để anh trai gặp phải những chuyện đó nữa!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-16/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_17_Giữa_bọn_họ_cũng_không_phải_chỉ_có_cách_ép_buộc_mới_sống_chung_được_với_nhau.json",
+    "chapter_name": "Chương 17: Giữa bọn họ cũng không phải chỉ có cách ép buộc mới sống chung được với nhau",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-17/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_18_Trước_kia_em_luôn_cảm_thấy_chú_Lục_là_người_không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 18: Trước kia em luôn cảm thấy chú Lục là người không biết xấu hổ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-18/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_19_Ngay_cả_ma_cũng_phải_sợ_ba_phần.json",
+    "chapter_name": "Chương 19: Ngay cả ma cũng phải sợ ba phần",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-19/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_20_Là_sai_lầm_của_những_người_tham_lam_đó.json",
+    "chapter_name": "Chương 20: Là sai lầm của những người tham lam đó",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-20/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_21_Vì_sao_anh_lại_xem_trọng_cô.json",
+    "chapter_name": "Chương 21: Vì sao anh lại xem trọng cô?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-21/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_22_Trong_vòng_ba_ngày_em_nhất_định_cứu_anh_ra_ngoài.json",
+    "chapter_name": "Chương 22: Trong vòng ba ngày, em nhất định cứu anh ra ngoài!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-22/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_23_Thật_ra_Chú_Lục_rất_đẹp_trai.json",
+    "chapter_name": "Chương 23: Thật ra Chú Lục rất đẹp trai",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-23/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_24_Rõ_ràng_bởi_vì_tâm_trạng_Lục_gia_tốt_nên_ăn_cái_gì_cũng_thấy_ngon.json",
+    "chapter_name": "Chương 24: Rõ ràng bởi vì tâm trạng Lục gia tốt nên ăn cái gì cũng thấy ngon",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-24/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_25_Nhà_mới.json",
+    "chapter_name": "Chương 25: Nhà mới",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-25/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_26_Ân_Ân_em_và_Giang_Minh_Tu_rốt_cuộc_là_thế_nào.json",
+    "chapter_name": "Chương 26: Ân Ân, em và Giang Minh Tu rốt cuộc là thế nào?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-26/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_27_Không_thể_phản_bác.json",
+    "chapter_name": "Chương 27: Không thể phản bác",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-27/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_28_Lục_Phong_Miên_giống_như_kỵ_sĩ_xua_đuổi_hắc_ám.json",
+    "chapter_name": "Chương 28: Lục Phong Miên giống như kỵ sĩ xua đuổi hắc ám",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-28/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_29_Mấy_ngày_nay_do_tôi_hiểu_lầm_cô_ấy_thân_thiết_với_mình_hơn.json",
+    "chapter_name": "Chương 29: Mấy ngày nay do tôi hiểu lầm cô ấy thân thiết với mình hơn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-29/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_30_Đồng_cảm.json",
+    "chapter_name": "Chương 30: Đồng cảm",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-30/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_31_Cháu_không_có_chán_ghét_chú_ấy.json",
+    "chapter_name": "Chương 31: Cháu không có chán ghét chú ấy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-31/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_32_Con_còn_sống_một_ngày_sẽ_bảo_vệ_cô_ấy_một_ngày.json",
+    "chapter_name": "Chương 32: Con còn sống một ngày, sẽ bảo vệ cô ấy một ngày",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-32/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_33_Ở_lại.json",
+    "chapter_name": "Chương 33: Ở lại",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-33/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_34_Chọc_vào_cơ_bụng.json",
+    "chapter_name": "Chương 34: Chọc vào cơ bụng",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-34/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_35_Cháu_sẽ_ngoan_ngoãn_ngủ_không_chiếm_chỗ.json",
+    "chapter_name": "Chương 35: Cháu sẽ ngoan ngoãn ngủ, không chiếm chỗ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-35/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_36_Phong_Miên_à_Con_kể_chuyện_êm_tai_cực_kỳ.json",
+    "chapter_name": "Chương 36: Phong Miên à… Con kể chuyện êm tai cực kỳ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-36/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_37_Chị_Hạ_đến_tìm_chú_Lục_là_vì_chuyện_của_chú_Hai_sao.json",
+    "chapter_name": "Chương 37: Chị Hạ đến tìm chú Lục, là vì chuyện của chú Hai sao?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-37/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_38_Anh_giả_ngu_hay_thật_sự_không_biết.json",
+    "chapter_name": "Chương 38: Anh giả ngu, hay thật sự không biết?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-38/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_39_Ở_nhà_ngoan_một_chút_đừng_chạy_loạn.json",
+    "chapter_name": "Chương 39: Ở nhà ngoan một chút, đừng chạy loạn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-39/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_40_Giữa_chú_Lục_và_Mộc_Ân_không_có_gì_chuyện_gì_hết.json",
+    "chapter_name": "Chương 40: Giữa chú Lục và Mộc Ân không có gì chuyện gì hết",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-40/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_41_Vô_cùng_ăn_ý.json",
+    "chapter_name": "Chương 41: Vô cùng ăn ý",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-41/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_42_Giang_Minh_Tu_đã_được_thả_ra.json",
+    "chapter_name": "Chương 42: Giang Minh Tu đã được thả ra",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-42/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_43_Cay_không_ngon.json",
+    "chapter_name": "Chương 43: Cay, không ngon",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-43/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_44_Hình_như_em_nhìn_thấy_Giang_Minh_Tu.json",
+    "chapter_name": "Chương 44: Hình như em nhìn thấy Giang Minh Tu",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-44/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_45_Nói_sai_một_câu_vạn_kiếp_bất_phục.json",
+    "chapter_name": "Chương 45: Nói sai một câu, vạn kiếp bất phục",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-45/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_46_Lục_Phong_Miên_Cháu_ghét_chú.json",
+    "chapter_name": "Chương 46: Lục Phong Miên! Cháu ghét chú!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-46/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_47_Nếu_không_phải_chị_đã_chết_thì_chị_thật_sự_muốn_gả_cho_hắn_ghê.json",
+    "chapter_name": "Chương 47: Nếu không phải chị đã chết, thì chị thật sự muốn gả cho hắn ghê",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-47/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_48_Dù_sao_sau_khi_chết_cũng_sẽ_thành_một_bộ_tro_cốt_rồi_thành_ma.json",
+    "chapter_name": "Chương 48: Dù sao sau khi chết cũng sẽ thành một bộ tro cốt, rồi thành ma",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-48/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_49_Trong_lòng_cô_cũng_nghẹn_một_cục.json",
+    "chapter_name": "Chương 49: Trong lòng cô cũng nghẹn một cục",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-49/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_50_Chính_bản_thân_cô_đã_khiến_Lục_Phong_Miên_khổ_sở_như_vậy.json",
+    "chapter_name": "Chương 50: Chính bản thân cô đã khiến Lục Phong Miên khổ sở như vậy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-50/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_51_Lại_có_thể_làm_cho_Lục_Phong_Miên_ngoan_ngoãn.json",
+    "chapter_name": "Chương 51: Lại có thể làm cho Lục Phong Miên ngoan ngoãn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-51/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_52_Hờn_dỗi_lại_như_đứa_trẻ.json",
+    "chapter_name": "Chương 52: Hờn dỗi lại như đứa trẻ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-52/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_53_Tại_sao_người_người_này_lại_có_một_mặt_ngây_thơ_như_vậy.json",
+    "chapter_name": "Chương 53: Tại sao người người này lại có một mặt ngây thơ như vậy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-53/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_54_Cô_cực_kỳ_có_cảm_giác_bị_quấy_rối.json",
+    "chapter_name": "Chương 54: Cô cực kỳ có cảm giác bị quấy rối",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-54/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_55_Điều_đó_cho_thấy_rõ_Ân_Ân_tiểu_thư_cùng_Lục_gia_càng_ngày_càng_thân_thiết_rồi.json",
+    "chapter_name": "Chương 55: Điều đó cho thấy rõ Ân Ân tiểu thư cùng Lục gia càng ngày càng thân thiết rồi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-55/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_56_Sẽ_không_phải_rằng_chị_muốn_em_tìm_người_sống_nào_đó_cho_chị_ám_vào_chứ.json",
+    "chapter_name": "Chương 56: Sẽ không phải rằng chị muốn em tìm người sống nào đó cho chị ám vào chứ?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-56/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_57_Người_giấy.json",
+    "chapter_name": "Chương 57: Người giấy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-57/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_58_Chú_Lục_nói_cho_cháu_biết_cũng_là_nói_lung_tung_sao.json",
+    "chapter_name": "Chương 58: Chú Lục nói cho cháu biết, cũng là nói lung tung sao?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-58/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_59_Có_chú_Lục_ở_đây_cháu_cũng_không_vội_đi_ngủ_đâu.json",
+    "chapter_name": "Chương 59: Có chú Lục ở đây, cháu cũng không vội đi ngủ đâu",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-59/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_60_Lục_Phong_Miên_nhất_định_sẽ_không_đi.json",
+    "chapter_name": "Chương 60: Lục Phong Miên nhất định sẽ không đi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-60/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_61_Mình_là_người_mà_ngay_cả_ma_cũng_không_sợ.json",
+    "chapter_name": "Chương 61: Mình là người mà ngay cả ma cũng không sợ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-61/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_62_Tĩnh_cái_gì_dưỡng_cái_gì.json",
+    "chapter_name": "Chương 62: Tĩnh cái gì, dưỡng cái gì",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-62/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_63_Cô_có_biết_những_chuyện_Lâm_Dịch_làm_không.json",
+    "chapter_name": "Chương 63: Cô có biết những chuyện Lâm Dịch làm không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-63/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_64_Thật_sự_tôi_cũng_không_hiểu_được_sự_ác_độc_của_ông_ta.json",
+    "chapter_name": "Chương 64: Thật sự tôi cũng không hiểu được sự ác độc của ông ta",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-64/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_65_Em_nghĩ_thầy_phong_thủy_dùng_để_làm_gì.json",
+    "chapter_name": "Chương 65: Em nghĩ thầy phong thủy dùng để làm gì?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-65/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_66_Sự_nhân_từ_của_Lâm_Dịch_ông_tôi_cũng_nhận_không_nổi.json",
+    "chapter_name": "Chương 66: Sự nhân từ của Lâm Dịch ông, tôi cũng nhận không nổi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-66/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_67_Ảnh_chụp.json",
+    "chapter_name": "Chương 67: Ảnh chụp",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-67/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_68_Em_chính_là_tiểu_dụ_dỗ_Nhân_lúc_không_có_chị_đi_quyến_rũ_quân_gia.json",
+    "chapter_name": "Chương 68: Em chính là tiểu dụ dỗ! Nhân lúc không có chị đi quyến rũ quân gia",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-68/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_69_Từ_đầu_tới_đuôi_đều_thơm_ngào_ngạt.json",
+    "chapter_name": "Chương 69: Từ đầu tới đuôi đều thơm ngào ngạt",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-69/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_70_Lâm_Dịch_chết_rồi.json",
+    "chapter_name": "Chương 70: Lâm Dịch chết rồi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-70/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_71_Có_chuyện.json",
+    "chapter_name": "Chương 71: Có chuyện",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-71/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_72_Tôi_đã_từng_nói_sẽ_mãi_che_chở_em.json",
+    "chapter_name": "Chương 72: Tôi đã từng nói, sẽ mãi che chở em",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-72/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_73_Giọng_của_ai.json",
+    "chapter_name": "Chương 73: Giọng của ai?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-73/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_74_Sẽ_không_bao_giờ_gặp_được_người_yêu_cô_như_Lục_Phong_Miên.json",
+    "chapter_name": "Chương 74: Sẽ không bao giờ gặp được người yêu cô như Lục Phong Miên",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-74/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_75_Ôi_đàn_ông.json",
+    "chapter_name": "Chương 75: Ôi, đàn ông",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-75/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_76_Thật_sự_không_ngờ_rằng_chú_sẽ_tới.json",
+    "chapter_name": "Chương 76: Thật sự không ngờ rằng chú sẽ tới",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-76/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_77_Trần_Uyển_Di_rõ_ràng_cảm_giác_được_bầu_không_khí_giữa_Mộc_Ân_và_Lục_Phong_Miên_không_đúng.json",
+    "chapter_name": "Chương 77: Trần Uyển Di rõ ràng cảm giác được bầu không khí giữa Mộc Ân và Lục Phong Miên không đúng",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-77/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_78_Nhìn_hai_người_yêu_đương_thật_sự_khiến_người_khác_sốt_ruột_giùm.json",
+    "chapter_name": "Chương 78: Nhìn hai người yêu đương, thật sự khiến người khác sốt ruột giùm!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-78/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_79_Thật_mẹ_nó_muốn_trùng_sinh_một_lần_nữa.json",
+    "chapter_name": "Chương 79: Thật mẹ nó muốn trùng sinh một lần nữa!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-79/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_80_Cậu_mới_là_cháu_Tôi_là_vợ.json",
+    "chapter_name": "Chương 80: Cậu mới là cháu! Tôi là vợ!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-80/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_81_Lâm_Dịch_đã_chết_ông_ta_sẽ_không_bao_giờ_làm_hại_em_nữa_đâu.json",
+    "chapter_name": "Chương 81: Lâm Dịch đã chết, ông ta sẽ không bao giờ làm hại em nữa đâu",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-81/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_82_Thật_sự_Lục_Phong_Miên_cũng_không_có_bá_đạo_như_vậy.json",
+    "chapter_name": "Chương 82: Thật sự Lục Phong Miên cũng không có bá đạo như vậy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-82/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_83_Kiếp_sau_đầu_thai_tốt_hơn.json",
+    "chapter_name": "Chương 83: Kiếp sau đầu thai tốt hơn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-83/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_84_Lâm_Mộc_Ân_những_ngày_tốt_đẹp_của_cô_sẽ_không_còn_lâu_nữa_đâu.json",
+    "chapter_name": "Chương 84: Lâm Mộc Ân, những ngày tốt đẹp của cô sẽ không còn lâu nữa đâu",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-84/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_85_Mình_hôn_tỉnh_không_phải_Lục_thủ_trưởng_mà_là_một_mỹ_nhân_ngủ_say.json",
+    "chapter_name": "Chương 85: Mình hôn tỉnh không phải Lục thủ trưởng, mà là một mỹ nhân ngủ say",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-85/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_86_Nhà_họ_Thẩm.json",
+    "chapter_name": "Chương 86: Nhà họ Thẩm",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-86/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_87_Ngôi_nhà_ma_ám_1.json",
+    "chapter_name": "Chương 87: Ngôi nhà ma ám 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-87/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_88_Ngôi_nhà_ma_ám_2.json",
+    "chapter_name": "Chương 88: Ngôi nhà ma ám 2",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-88/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_89_Ngôi_nhà_ma_ám_3.json",
+    "chapter_name": "Chương 89: Ngôi nhà ma ám 3",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-89/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_90_Ngôi_nhà_ma_ám_4.json",
+    "chapter_name": "Chương 90: Ngôi nhà ma ám 4",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-90/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_91_Ngôi_nhà_ma_ám_5.json",
+    "chapter_name": "Chương 91: Ngôi nhà ma ám 5",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-91/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_92_Nhật_ký_ngôi_nhà_ma_ám_6.json",
+    "chapter_name": "Chương 92: Nhật ký ngôi nhà ma ám 6",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-92/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_93_Ngôi_nhà_ma_ám_7.json",
+    "chapter_name": "Chương 93: Ngôi nhà ma ám 7",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-93/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_94_Ngôi_nhà_ma_ám_8.json",
+    "chapter_name": "Chương 94: Ngôi nhà ma ám 8",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-94/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_95_Khi_hắc_ám_đang_tới_gần_1.json",
+    "chapter_name": "Chương 95: Khi hắc ám đang tới gần 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-95/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_96_Khi_hắc_ám_tới_gần_2.json",
+    "chapter_name": "Chương 96: Khi hắc ám tới gần 2",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-96/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_97_Khi_hắc_ám_tới_gần_3.json",
+    "chapter_name": "Chương 97: Khi hắc ám tới gần 3",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-97/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_98_Khi_hắc_ám_tới_gần_4.json",
+    "chapter_name": "Chương 98: Khi hắc ám tới gần 4",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-98/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_99_Khi_hắc_ám_tới_gần_5.json",
+    "chapter_name": "Chương 99: Khi hắc ám tới gần 5",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-99/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_100_Khi_hắc_ám_tới_gần_6.json",
+    "chapter_name": "Chương 100: Khi hắc ám tới gần 6",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-100/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_101_Không_phải_Lục_Phong_Miên.json",
+    "chapter_name": "Chương 101: Không phải Lục Phong Miên",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-101/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_102_Nửa_đêm_con_nít_khóc_ba_canh_quỷ_gõ_cửa.json",
+    "chapter_name": "Chương 102: Nửa đêm con nít khóc, ba canh quỷ gõ cửa",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-102/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_103_Sợ_hãi.json",
+    "chapter_name": "Chương 103: Sợ hãi",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-103/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_104_Chưa_từng_thấy_anh_để_ý_một_người_con_gái_nào_như_vậy.json",
+    "chapter_name": "Chương 104: Chưa từng thấy anh để ý một người con gái nào như vậy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-104/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_105_Vì_sao_tối_hôm_đó_không_giết_cậu_ta_Mà_phải_đợi_đến_hôm_nay.json",
+    "chapter_name": "Chương 105: Vì sao tối hôm đó không giết cậu ta? Mà phải đợi đến hôm nay?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-105/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_106_Coi_như_Thẩm_Thanh_Thanh_có_đáng_thương_cần_được_an_ui_đến_thế_nào_đi_chăng_nữa_anh_cũng_không_thể_ôm_cô_ấy.json",
+    "chapter_name": "Chương 106: Coi như Thẩm Thanh Thanh có đáng thương cần được an ui đến thế nào đi chăng nữa, anh cũng không thể ôm cô ấy!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-106/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_107_Tôi_không_thích_bị_ép_buộc.json",
+    "chapter_name": "Chương 107: Tôi không thích bị ép buộc!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-107/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_108_Làm_sao_có_thể_tránh_được_nguy_hiểm.json",
+    "chapter_name": "Chương 108: Làm sao có thể tránh được nguy hiểm?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-108/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_109_Những_xương_cốt_đó_rốt_cuộc_là_của_ai.json",
+    "chapter_name": "Chương 109: Những xương cốt đó rốt cuộc là của ai?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-109/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_110_Đều_là_móng_heo_bự.json",
+    "chapter_name": "Chương 110: Đều là móng heo bự!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-110/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_111_Tự_có_may_mắn_hộ_thân_không_dính_tà_ma.json",
+    "chapter_name": "Chương 111: Tự có may mắn hộ thân, không dính tà ma",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-111/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_112_Hình_như_chị_đoán_được_cách_nó_giết_người.json",
+    "chapter_name": "Chương 112: Hình như chị đoán được cách nó giết người",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-112/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_113_Không_ghen_với_Thẩm_Thanh_Thanh.json",
+    "chapter_name": "Chương 113: Không ghen với Thẩm Thanh Thanh?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-113/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_114_Anh_trai_anh_biết_quan_hệ_giữa_chị_Thanh_Thanh_và_chú_Lục_là_như_thế_nào_không.json",
+    "chapter_name": "Chương 114: Anh trai, anh biết quan hệ giữa chị Thanh Thanh và chú Lục là như thế nào không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-114/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_115_Thật_sự_rất_nhớ.json",
+    "chapter_name": "Chương 115: Thật sự rất nhớ",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-115/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_116_Rất_có_vài_phần_giống_dáng_vẻ_của_những_đứa_trẻ_hư_hỏng_trong_ảo_giác_lúc_trước_của_Mộc_Ân.json",
+    "chapter_name": "Chương 116: Rất có vài phần giống dáng vẻ của những đứa trẻ hư hỏng trong ảo giác lúc trước của Mộc Ân",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-116/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_117_Khỉ_con_của_Tiểu_Như_Uyên_chỉ_có_thể_do_chị_đây_sinh_Đám_tiểu_yêu_tinh_này_đều_đứng_sang_bên_cạnh_cho_chị.json",
+    "chapter_name": "Chương 117: Khỉ con của Tiểu Như Uyên chỉ có thể do chị đây sinh! Đám tiểu yêu tinh này đều đứng sang bên cạnh cho chị!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-117/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_118_Cô_cảm_thấy_bùa_trấn_áp_của_tôi_không_hề_có_tác_dụng.json",
+    "chapter_name": "Chương 118: Cô cảm thấy bùa trấn áp của tôi không hề có tác dụng?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-118/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_119_Nếu_đêm_nay_cậu_bị_hại_chết_vật_kia_không_chừng_còn_muốn_quất_xác_của_cậu_đấy.json",
+    "chapter_name": "Chương 119: Nếu đêm nay cậu bị hại chết, vật kia không chừng còn muốn quất xác của cậu đấy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-119/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_120_Tôi_giúp_chú_dạy_dỗ_con_trai.json",
+    "chapter_name": "Chương 120: Tôi giúp chú dạy dỗ con trai",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-120/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_121_Ví_dụ_như_trước_kia_chú_Lục_có_từng_thích_người_nào_không.json",
+    "chapter_name": "Chương 121: Ví dụ như… trước kia chú Lục có từng thích người nào không?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-121/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_122_Bao_che_khuyết_điểm.json",
+    "chapter_name": "Chương 122: Bao che khuyết điểm",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-122/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_123_Đầu_lưỡi_của_cậu_ta_bị_người_khác_cắt_mất.json",
+    "chapter_name": "Chương 123: Đầu lưỡi của cậu ta bị người khác cắt mất",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-123/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_124_Bỏ_qua_cơ_hội_khoe_ân_ái.json",
+    "chapter_name": "Chương 124: Bỏ qua cơ hội khoe ân ái",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-124/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_125_Đóng_phim_khác_với_những_gì_xảy_ra_trong_thực_tế.json",
+    "chapter_name": "Chương 125: Đóng phim khác với những gì xảy ra trong thực tế",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-125/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_126_Trong_nháy_mắt_đã_có_chút_thay_đổi_cách_nhìn_với_Lục_Thiên_Sư.json",
+    "chapter_name": "Chương 126: Trong nháy mắt đã có chút thay đổi cách nhìn với Lục Thiên Sư",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-126/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_127_Không_ngại_học_hỏi_kẻ_dưới.json",
+    "chapter_name": "Chương 127: Không ngại học hỏi kẻ dưới",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-127/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_128_Ngủ_không_được_sao.json",
+    "chapter_name": "Chương 128: Ngủ không được sao?",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-128/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_129_Tin_tưởng_không_nghi_ngờ_cô.json",
+    "chapter_name": "Chương 129: Tin tưởng không nghi ngờ cô",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-129/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_130_Cô_nhìn_tôi_đến_chạy_cũng_không_nổi_chỗ_nào_giống_bộ_dáng_muốn_bắt_cô.json",
+    "chapter_name": "Chương 130: Cô nhìn tôi đến chạy cũng không nổi, chỗ nào giống bộ dáng muốn bắt cô",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-130/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_131_Lâm_Mộc_Ân_em_là_cái_đồ_Không_biết_xấu_hổ.json",
+    "chapter_name": "Chương 131: Lâm Mộc Ân em là cái đồ Không biết xấu hổ!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-131/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_132_Hoa_Bỉ_Ngạn.json",
+    "chapter_name": "Chương 132: Hoa Bỉ Ngạn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-132/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_133_Lại_chết_hai_người.json",
+    "chapter_name": "Chương 133: Lại chết hai người",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-133/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_134_Nếu_không_có_dương_khí_trên_người_Lục_Phong_Miên.json",
+    "chapter_name": "Chương 134: Nếu không có dương khí trên người Lục Phong Miên",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-134/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_135_Có_thể_trước_cũng_không_có_cảm_thấy.json",
+    "chapter_name": "Chương 135: Có thể trước cũng không có cảm thấy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-135/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_136_Chú_Lục_cháu_lạnh_quá.json",
+    "chapter_name": "Chương 136: Chú Lục, cháu lạnh quá",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-136/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_137_Hái_dương_bổ_âm.json",
+    "chapter_name": "Chương 137: Hái dương bổ âm",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-137/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_138_Kết_hôn.json",
+    "chapter_name": "Chương 138: Kết hôn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-138/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_139_Hẹn_hò.json",
+    "chapter_name": "Chương 139: Hẹn hò",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-139/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_140_100_điểm_yêu_đương.json",
+    "chapter_name": "Chương 140: 100 điểm yêu đương",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-140/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_141_Quân_đội_thức_xem_phim.json",
+    "chapter_name": "Chương 141: Quân đội thức xem phim",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-141/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_142_Mỗi_ngày_còn_muốn_ăn_cô_vết_tích_trên_cổ_cô_còn_chưa_có_mất_đâu.json",
+    "chapter_name": "Chương 142: Mỗi ngày còn muốn ăn cô, vết tích trên cổ cô còn chưa có mất đâu",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-142/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_143_Trả_người_giấy_lại_cho_tôi.json",
+    "chapter_name": "Chương 143: Trả người giấy lại cho tôi!",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-143/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_144_Lần_cuối.json",
+    "chapter_name": "Chương 144: Lần cuối",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-144/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_145_Cô_ta_đến_từ_Địa_Ngục_1.json",
+    "chapter_name": "Chương 145: Cô ta đến từ Địa Ngục 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-145/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_146_Cô_ta_đến_từ_Địa_Ngục_2.json",
+    "chapter_name": "Chương 146: Cô ta đến từ Địa Ngục 2",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-146/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_147_Cô_ta_đến_từ_Địa_Ngục_3.json",
+    "chapter_name": "Chương 147: Cô ta đến từ Địa Ngục 3",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-147/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_148_Cô_ta_đến_từ_Địa_Ngục_4.json",
+    "chapter_name": "Chương 148: Cô ta đến từ Địa Ngục 4",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-148/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_149_Livestream_kinh_khủng_1.json",
+    "chapter_name": "Chương 149: Livestream kinh khủng 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-149/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_150_Livestream_kinh_khủng_2.json",
+    "chapter_name": "Chương 150: Livestream kinh khủng 2",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-150/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_151_Livestream_kinh_khủng_3.json",
+    "chapter_name": "Chương 151: Livestream kinh khủng 3",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-151/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_152_Livestream_kinh_khủng_4.json",
+    "chapter_name": "Chương 152: Livestream kinh khủng 4",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-152/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_153_Thiên_hạ_đệ_nhất_đáng_yêu_Trần_Uyển_Di.json",
+    "chapter_name": "Chương 153: Thiên hạ đệ nhất đáng yêu Trần Uyển Di",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-153/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_154_Cậu_nên_cảm_thấy_may_mắn_vì_đêm_nay_Phong_Miên_không_ở_đây_nếu_không_cái_mạng_và_cậu_nhỏ_của_cậu_cũng_chỉ_có_th.json",
+    "chapter_name": "Chương 154: Cậu nên cảm thấy may mắn vì đêm nay Phong Miên không ở đây, nếu không cái mạng và cậu nhỏ của cậu cũng chỉ có th�",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-154/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_155_Xin_chào_ma_tiên_sinh.json",
+    "chapter_name": "Chương 155: Xin chào, ma tiên sinh",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-155/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_156_Nhật_ký_và_Chu_tiên_sinh.json",
+    "chapter_name": "Chương 156: Nhật ký và Chu tiên sinh",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-156/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_157_Đêm_hẹn_1.json",
+    "chapter_name": "Chương 157: Đêm hẹn 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-157/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_158_Đêm_hẹn_2.json",
+    "chapter_name": "Chương 158: Đêm hẹn 2",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-158/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_159_Kiềm_chế_móng_vuốt_mèo_của_mình_muốn_đụng_vào_người_giấy.json",
+    "chapter_name": "Chương 159: Kiềm chế móng vuốt mèo của mình muốn đụng vào người giấy",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-159/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_160.json",
+    "chapter_name": "Chương 160",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-160/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_161_Hai_tiếng_đồng_hồ_chú_Lục_nhanh_hôn_hôn.json",
+    "chapter_name": "Chương 161: Hai tiếng đồng hồ, chú Lục, nhanh hôn hôn…",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-161/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_162_Mary_đẫm_máu_1.json",
+    "chapter_name": "Chương 162: Mary đẫm máu 1",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-162/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_163_Sau_đó_anh_cưới_em.json",
+    "chapter_name": "Chương 163: Sau đó, anh cưới em",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-163/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_164_Liêu_Đông.json",
+    "chapter_name": "Chương 164: Liêu Đông",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-164/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_165_Lời_nguyền_bất_tử.json",
+    "chapter_name": "Chương 165: Lời nguyền bất tử",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-165/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_166_Trốn.json",
+    "chapter_name": "Chương 166: Trốn",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-166/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_167_Sự_cố_chấp_duy_nhất.json",
+    "chapter_name": "Chương 167: Sự cố chấp duy nhất",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-167/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_168_Đại_kết_cục.json",
+    "chapter_name": "Chương 168: Đại kết cục",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-168/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_169_Phiên_ngoại_Hạnh_phúc_điền_viên_thượng.json",
+    "chapter_name": "Chương 169: Phiên ngoại: Hạnh phúc điền viên (thượng)",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-169/"
+  },
+  {
+    "path": "data/Lục_Gia_Cưng_Chiều_Bảo_Bối/Chương_170_Phiên_ngoại_Hạnh_phúc_điền_viên_hạ.json",
+    "chapter_name": "Chương 170: Phiên ngoại: Hạnh phúc điền viên (hạ)",
+    "url": "https://truyenfull.io/luc-gia-cung-chieu-bao-boi/chuong-170/"
+  }
+]
