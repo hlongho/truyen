@@ -1,0 +1,402 @@
+[
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_1_Ai_Hạng_Nhất.json",
+    "chapter_name": "Chương 1: Ai Hạng Nhất",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-1/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_2_Nhập_Học.json",
+    "chapter_name": "Chương 2: Nhập Học",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-2/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_3_Đưa_Nước.json",
+    "chapter_name": "Chương 3: Đưa Nước",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-3/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_4_Ở_Ký_Túc_Xá.json",
+    "chapter_name": "Chương 4: Ở Ký Túc Xá",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-4/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_5_Cân_Bằng_Pheromone.json",
+    "chapter_name": "Chương 5: Cân Bằng Pheromone",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-5/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_6_Độc_Thân_Tới_Chết.json",
+    "chapter_name": "Chương 6: Độc Thân Tới Chết",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-6/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_7_Hợp_Tác_Vui_Vẻ.json",
+    "chapter_name": "Chương 7: Hợp Tác Vui Vẻ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-7/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_8_Vì_Họ_Không_Có_Mẹ.json",
+    "chapter_name": "Chương 8: Vì Họ Không Có Mẹ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-8/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_9_Hy_Vọng_Lần_Này_Kỹ_Thuật_Của_Cậu_Tốt_Một_Chút.json",
+    "chapter_name": "Chương 9: Hy Vọng Lần Này Kỹ Thuật Của Cậu Tốt Một Chút",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-9/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_10_Add.json",
+    "chapter_name": "Chương 10: Add",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-10/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_11_Sự_Tò_Mò_Không_Nên_Có.json",
+    "chapter_name": "Chương 11: Sự Tò Mò Không Nên Có",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-11/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_12_Cách_Một_Bức_Tường.json",
+    "chapter_name": "Chương 12: Cách Một Bức Tường",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-12/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_13_Dỗ_Dành_Nào.json",
+    "chapter_name": "Chương 13: Dỗ Dành Nào",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-13/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_14_Bồn_Chồn.json",
+    "chapter_name": "Chương 14: Bồn Chồn",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-14/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_15_Không_Phải_Yêu_Thầm.json",
+    "chapter_name": "Chương 15: Không Phải Yêu Thầm",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-15/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_16_Không_Hợp.json",
+    "chapter_name": "Chương 16: Không Hợp",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-16/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_17_Giới_Tính_Yêu_Thích.json",
+    "chapter_name": "Chương 17: Giới Tính Yêu Thích",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-17/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_18_Đổi_Giường.json",
+    "chapter_name": "Chương 18: Đổi Giường",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-18/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_19_Buồn_Ngủ.json",
+    "chapter_name": "Chương 19: Buồn Ngủ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-19/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_20_Mắt_Cá_Chân_Bị_Nắm.json",
+    "chapter_name": "Chương 20: Mắt Cá Chân Bị Nắm",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-20/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_21_Cách_Giúp_Thứ_Hai.json",
+    "chapter_name": "Chương 21: Cách Giúp Thứ Hai",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-21/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_22_Quan_Trọng.json",
+    "chapter_name": "Chương 22: Quan Trọng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-22/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_23_Tình_Cảm_Thật_Sự.json",
+    "chapter_name": "Chương 23: Tình Cảm Thật Sự",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-23/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_24_Mùi_Pheromone_Mà_Cậu_Không_Ngửi_Thấy.json",
+    "chapter_name": "Chương 24: Mùi Pheromone Mà Cậu Không Ngửi Thấy",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-24/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_25_Cách_Lưu_Giữ_Pheromone.json",
+    "chapter_name": "Chương 25: Cách Lưu Giữ Pheromone",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-25/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_26_Len_Lỏi.json",
+    "chapter_name": "Chương 26: Len Lỏi",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-26/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_27_Không_Phải_Đồ_Tình_Nhân.json",
+    "chapter_name": "Chương 27: Không Phải Đồ Tình Nhân",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-27/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_28_Không_Nắm_Giữ_Được.json",
+    "chapter_name": "Chương 28: Không Nắm Giữ Được",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-28/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_29_Nắm_Tay.json",
+    "chapter_name": "Chương 29: Nắm Tay",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-29/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_30_Mùi_Pheromone.json",
+    "chapter_name": "Chương 30: Mùi Pheromone",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-30/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_31_Không_Biết_Làm_Nũng.json",
+    "chapter_name": "Chương 31: Không Biết Làm Nũng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-31/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_32_Nụ_Hôn_Vị_Dâu_Tây.json",
+    "chapter_name": "Chương 32: Nụ Hôn Vị Dâu Tây",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-32/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_33_Chung_Giường.json",
+    "chapter_name": "Chương 33: Chung Giường",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-33/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_34_Tình_Địch.json",
+    "chapter_name": "Chương 34: Tình Địch",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-34/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_35_Cơm_Chó.json",
+    "chapter_name": "Chương 35: Cơm Chó",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-35/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_36_Người_Bạn_Tốt_Nhất.json",
+    "chapter_name": "Chương 36: Người Bạn Tốt Nhất",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-36/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_37_Cậu_Ấy_Là_Của_Tôi.json",
+    "chapter_name": "Chương 37: Cậu Ấy Là Của Tôi",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-37/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_38_Không_Nương_Tay.json",
+    "chapter_name": "Chương 38: Không Nương Tay",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-38/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_39_Không_Đủ.json",
+    "chapter_name": "Chương 39: Không Đủ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-39/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_40_Chịu_Đựng.json",
+    "chapter_name": "Chương 40: Chịu Đựng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-40/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_41_Đêm_Trước_Khi_Đi.json",
+    "chapter_name": "Chương 41: Đêm Trước Khi Đi",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-41/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_42_Theo_Tôi_Về_Nhà.json",
+    "chapter_name": "Chương 42: Theo Tôi Về Nhà",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-42/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_43_Không_Bỏ_Qua_Một_Ai.json",
+    "chapter_name": "Chương 43: Không Bỏ Qua Một Ai",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-43/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_44_Khát_Khao_Kìm_Nén.json",
+    "chapter_name": "Chương 44: Khát Khao Kìm Nén",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-44/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_45_Thích_Ai.json",
+    "chapter_name": "Chương 45: Thích Ai",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-45/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_46_Bà_Ấy_Rất_Thích_Cậu.json",
+    "chapter_name": "Chương 46: Bà Ấy Rất Thích Cậu",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-46/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_47_Thứ_Đã_Đánh_Mất.json",
+    "chapter_name": "Chương 47: Thứ Đã Đánh Mất",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-47/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_48_Kỳ_Dịch_Cảm_Sắp_Tới.json",
+    "chapter_name": "Chương 48: Kỳ Dịch Cảm Sắp Tới",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-48/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_49_Dây_Đứt_Phựt.json",
+    "chapter_name": "Chương 49: Dây Đứt Phựt",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-49/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_50_Không_Được_Phép.json",
+    "chapter_name": "Chương 50: Không Được Phép",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-50/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_51_Giúp_Đỡ.json",
+    "chapter_name": "Chương 51: Giúp Đỡ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-51/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_52_Kỳ_Dịch_Cảm_Kết_Thúc.json",
+    "chapter_name": "Chương 52: Kỳ Dịch Cảm Kết Thúc",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-52/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_53_Toan_Tính.json",
+    "chapter_name": "Chương 53: Toan Tính",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-53/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_54_Điều_Nên_Làm.json",
+    "chapter_name": "Chương 54: Điều Nên Làm",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-54/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_55.json",
+    "chapter_name": "Chương 55",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-55/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_56_Phút_Giây_Khác_Thường.json",
+    "chapter_name": "Chương 56: Phút Giây Khác Thường",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-56/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_57_Đưa_Ra_Lựa_Chọn.json",
+    "chapter_name": "Chương 57: Đưa Ra Lựa Chọn",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-57/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_58_Bất_Cẩn_Chạm_Tuyến_Thể.json",
+    "chapter_name": "Chương 58: Bất Cẩn Chạm Tuyến Thể",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-58/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_59_Thi_Đại_Học.json",
+    "chapter_name": "Chương 59: Thi Đại Học",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-59/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_60_Tốt_Nghiệp.json",
+    "chapter_name": "Chương 60: Tốt Nghiệp",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-60/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_61_Làm_Nũng.json",
+    "chapter_name": "Chương 61: Làm Nũng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-61/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_62_Bắt_Được_Gió.json",
+    "chapter_name": "Chương 62: Bắt Được Gió",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-62/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_63_Đại_Học.json",
+    "chapter_name": "Chương 63: Đại Học",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-63/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_64_Bày_Tỏ.json",
+    "chapter_name": "Chương 64: Bày Tỏ",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-64/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_65_Hẹn_Hò.json",
+    "chapter_name": "Chương 65: Hẹn Hò",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-65/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_66_Cùng_Xem_Phim.json",
+    "chapter_name": "Chương 66: Cùng Xem Phim",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-66/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_67_Cách_Giúp_Thứ_Ba.json",
+    "chapter_name": "Chương 67: Cách Giúp Thứ Ba",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-67/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_68_Phát_Bệnh_Đột_Ngột.json",
+    "chapter_name": "Chương 68: Phát Bệnh Đột Ngột",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-68/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_69_Cho_Biết_Sự_Thật.json",
+    "chapter_name": "Chương 69: Cho Biết Sự Thật",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-69/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_70_Suy_Nghĩ_Và_Quyết_Định.json",
+    "chapter_name": "Chương 70: Suy Nghĩ Và Quyết Định",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-70/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_71_Say_Rượu_Kỳ_Dịch_Cảm.json",
+    "chapter_name": "Chương 71: Say Rượu Kỳ Dịch Cảm",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-71/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_72_Sự_Thật.json",
+    "chapter_name": "Chương 72: Sự Thật",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-72/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_73_Đề_Nghị_Xem_Mắt.json",
+    "chapter_name": "Chương 73: Đề Nghị Xem Mắt",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-73/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_74_Giằng_Co.json",
+    "chapter_name": "Chương 74: Giằng Co",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-74/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_75_Chuẩn_Bị_Cho_Đám_Cưới.json",
+    "chapter_name": "Chương 75: Chuẩn Bị Cho Đám Cưới",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-75/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_76_Cuối_Cùng.json",
+    "chapter_name": "Chương 76: Cuối Cùng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-76/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_77_Ngoại_Truyện_Hắc_Hóa_Chim_Trong_Lồng.json",
+    "chapter_name": "Chương 77: Ngoại Truyện Hắc Hóa Chim Trong Lồng",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-77/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_78_Ngoại_Truyện_Hắc_Hóa_Đến_Đảo.json",
+    "chapter_name": "Chương 78: Ngoại Truyện Hắc Hóa Đến Đảo",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-78/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_79_Ngoại_Truyện_Hắc_Hóa_Không_Thích_Hắn_Ta_Nữa.json",
+    "chapter_name": "Chương 79: Ngoại Truyện Hắc Hóa Không Thích Hắn Ta Nữa",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-79/"
+  },
+  {
+    "path": "data/Nghe_Nói_Cậu_Chỉ_Xem_Tôi_Là_Bạn/Chương_80_Ngoại_Truyện_Hắc_Hóa_Hết.json",
+    "chapter_name": "Chương 80: Ngoại Truyện Hắc Hóa Hết",
+    "url": "https://truyenfull.io/nghe-noi-cau-chi-xem-toi-la-ban/chuong-80/"
+  }
+]
