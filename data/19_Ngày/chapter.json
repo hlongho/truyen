@@ -1,0 +1,377 @@
+[
+  {
+    "path": "data/19_Ngày/Chương_1_Gặp_Lại.json",
+    "chapter_name": "Chương 1: Gặp Lại",
+    "url": "https://truyenfull.io/19-ngay/chuong-1/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_2_Loại_mơ_mộng_này_có_mơ_mấy_cái_mộng_ông_đây_cũng_không_làm_đâu.json",
+    "chapter_name": "Chương 2: \"...Loại mơ mộng này có mơ mấy cái mộng ông đây cũng không làm đâu.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-2/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_3_EQ_cung_mười_phần_đáng_thương.json",
+    "chapter_name": "Chương 3: \"...EQ cũng mười phần đáng thương\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-3/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_4_Tình_Cũ_Trở_Lại.json",
+    "chapter_name": "Chương 4: \" Tình Cũ Trở Lại...\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-4/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_5_Cô_để_ý_thứ_biến_thái_gì_thế.json",
+    "chapter_name": "Chương 5: \" Cô để ý thứ biến thái gì thế?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-5/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_6_Lớn_như_vậy_cô_ấy_đi_còn_không_biết_nhìn_đường.json",
+    "chapter_name": "Chương 6: \"Lớn như vậy, cô ấy đi còn không biết nhìn đường?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-6/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_7_Tưởng_Đại_Vân_ông_ta_đập_chết_một_giáo_viên_ở_trường_ấy_.json",
+    "chapter_name": "Chương 7: \"Tưởng Đại Vân, ông ta đập chết một giáo viên ở trường ấy \"",
+    "url": "https://truyenfull.io/19-ngay/chuong-7/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_8_vừa_quay_đầu_đồ_lót_ẩm_ướt_đụng_vào_mặt.json",
+    "chapter_name": "Chương 8: \"...vừa quay đầu, đồ lót ẩm ướt đụng vào mặt.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-8/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_9_Cô_muốn_ngủ_với_ông_đây.json",
+    "chapter_name": "Chương 9: \"Cô muốn ngủ với ông đây...\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-9/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_10_Cậu_còn_có_mấy_cái_mười_năm_để_chờ.json",
+    "chapter_name": "Chương 10: \"Cậu còn có mấy cái mười năm để chờ?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-10/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_11_Thằng_nhóc_kia_vẫn_đặc_biệt_thích_em.json",
+    "chapter_name": "Chương 11: \"Thằng nhóc kia vẫn đặc biệt thích em.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-11/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_12_Cửa_này_vừa_mở_về_sau_không_đóng_được_nữa_hiểu_không.json",
+    "chapter_name": "Chương 12: \"Cửa này vừa mở, về sau không đóng được nữa, hiểu không?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-12/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_13_Không_buông_ra_em_làm_sao_ôm_anh_được.json",
+    "chapter_name": "Chương 13: \"Không buông ra, em làm sao ôm anh được?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-13/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_14_Xong_tình_địch_gặp_nhau_hết_sức_đỏ_mắt.json",
+    "chapter_name": "Chương 14: \"Xong, tình địch gặp nhau, hết sức đỏ mắt.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-14/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_15_Cô_cách_xa_anh_ấy_một_chút.json",
+    "chapter_name": "Chương 15: \"Cô cách xa anh ấy một chút.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-15/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_16_Vậy_chị_lấy_danh_nghĩa_gì_tìm_em_ấy.json",
+    "chapter_name": "Chương 16: \"Vậy chị lấy danh nghĩa gì tìm em ấy?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-16/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_17_Chị_để_em_gọi_là_mợ_cũng_được.json",
+    "chapter_name": "Chương 17: \"Chị để em gọi là mợ cũng được.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-17/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_18_Anh_vừa_có_chuyện_cô_tóm_lại_đều_có_mặt.json",
+    "chapter_name": "Chương 18: ... Anh vừa có chuyện, cô tóm lại đều có mặt",
+    "url": "https://truyenfull.io/19-ngay/chuong-18/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_19_Cõng_em_nhé.json",
+    "chapter_name": "Chương 19: \"Cõng em nhé?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-19/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_20_Ông_đây_không_muốn_ngừng.json",
+    "chapter_name": "Chương 20: \"Ông đây không muốn ngừng.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-20/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_21_Anh_đến_bây_giờ_đều_cảm_thấy_như_đang_nằm_mơ.json",
+    "chapter_name": "Chương 21: \"Anh đến bây giờ đều cảm thấy như đang nằm mơ.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-21/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_22_Em_vừa_mới_nói_cái_gì.json",
+    "chapter_name": "Chương 22: \"Em vừa mới nói cái gì?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-22/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_23_Con_mẹ_nó_em_giả_câm_giả_điếc.json",
+    "chapter_name": "Chương 23: \"Con mẹ nó em giả câm giả điếc?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-23/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_24_Cưới_anh_sao.json",
+    "chapter_name": "Chương 24: \"Cưới anh sao?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-24/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_25_Anh_một_cơ_hội_nhỏ_nhoi_cung_không_cho_người_khác.json",
+    "chapter_name": "Chương 25: Anh một cơ hội nhỏ nhoi cũng không cho người khác",
+    "url": "https://truyenfull.io/19-ngay/chuong-25/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_26_Bé_ơi.json",
+    "chapter_name": "Chương 26: \"Bé ơi!\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-26/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_27_Nghé_con_mới_đẻ_gan_dạ_vô_cùng.json",
+    "chapter_name": "Chương 27: Nghé con mới đẻ, gan dạ vô cùng",
+    "url": "https://truyenfull.io/19-ngay/chuong-27/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_28_Vạn_nhất_cô_ấy_gặp_chuyện_không_tìm_thấy_tôi_sẽ_rất_phiền_toái.json",
+    "chapter_name": "Chương 28: Vạn nhất cô ấy gặp chuyện không tìm thấy tôi, sẽ rất phiền toái?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-28/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_29_Con_mẹ_nó_cô_nhàn_ra_cai_răm_rồi_à.json",
+    "chapter_name": "Chương 29: \"Con mẹ nó cô nhàn ra cái rắm rồi à?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-29/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_30_Lư_tổng_có_cô_con_gái_rất_ngây_thơ.json",
+    "chapter_name": "Chương 30: \"Lư tổng có cô con gái, rất ngây thơ.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-30/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_31_Được_em_sai_rồi.json",
+    "chapter_name": "Chương 31: \"Được, em sai rồi.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-31/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_32_Xảy_ra_chuyện_rồi.json",
+    "chapter_name": "Chương 32: \"Xảy ra chuyện rồi!\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-32/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_33_Tôi_muốn_nhìn_thấy_cô_ấy_an_toàn.json",
+    "chapter_name": "Chương 33: \"...Tôi muốn nhìn thấy cô ấy an toàn.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-33/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_34_khả_năng_không_phải_là_Hứa_Duy.json",
+    "chapter_name": "Chương 34: \"... khả năng không phải là Hứa Duy.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-34/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_35_Chung_Hằng_đau.json",
+    "chapter_name": "Chương 35: \"Chung Hằng, đau.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-35/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_36_Người_một_nhà_này_thật_sự_không_biết_nên_nói_gì.json",
+    "chapter_name": "Chương 36: \"Người một nhà này, thật sự không biết nên nói gì.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-36/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_37_Con_mẹ_nó_chứ_cái_gì_cũng_không_biết.json",
+    "chapter_name": "Chương 37: \"...Con mẹ nó chứ cái gì cũng không biết.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-37/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_38_Chung_Hằng_anh_ấy_cũng_biết.json",
+    "chapter_name": "Chương 38: \"Chung Hằng... anh ấy cũng biết?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-38/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_39_Dù_sao_em_cũng_không_đau_lòng_đau_tới_chết_chính_là_ông_đây.json",
+    "chapter_name": "Chương 39: \"...Dù sao em cũng không đau lòng, đau tới chết chính là ông đây.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-39/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_40_Muốn_ngủ_với_anh.json",
+    "chapter_name": "Chương 40: \"Muốn ngủ với anh?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-40/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_41_Thử_tư_thế_này_nhé_H.json",
+    "chapter_name": "Chương 41: \"Thử tư thế này nhé.\" [H+]",
+    "url": "https://truyenfull.io/19-ngay/chuong-41/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_42_Tháng_ngày_bình_yên.json",
+    "chapter_name": "Chương 42: Tháng ngày bình yên",
+    "url": "https://truyenfull.io/19-ngay/chuong-42/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_43_Chính_là_anh_khó_chịu.json",
+    "chapter_name": "Chương 43: \"Chính là anh khó chịu.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-43/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_44_Cục_dân_chính.json",
+    "chapter_name": "Chương 44: Cục dân chính",
+    "url": "https://truyenfull.io/19-ngay/chuong-44/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_45_Kết_Thúc_hoàn_chính_văn.json",
+    "chapter_name": "Chương 45: Kết Thúc. \u003c\u003c hoàn chính văn\u003e\u003e",
+    "url": "https://truyenfull.io/19-ngay/chuong-45/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_46_Ngoại_truyện_1_Gặp_gỡ.json",
+    "chapter_name": "Chương 46: Ngoại truyện 1: Gặp gỡ",
+    "url": "https://truyenfull.io/19-ngay/chuong-46/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_47_Ngoại_truyện_2.json",
+    "chapter_name": "Chương 47: Ngoại truyện 2",
+    "url": "https://truyenfull.io/19-ngay/chuong-47/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_48_Ngoại_truyện_3.json",
+    "chapter_name": "Chương 48: Ngoại truyện 3",
+    "url": "https://truyenfull.io/19-ngay/chuong-48/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_49_Ngoại_Truyện_4.json",
+    "chapter_name": "Chương 49: Ngoại Truyện 4",
+    "url": "https://truyenfull.io/19-ngay/chuong-49/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_50_Ngoại_Truyện_5.json",
+    "chapter_name": "Chương 50: Ngoại Truyện 5",
+    "url": "https://truyenfull.io/19-ngay/chuong-50/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_51_Ngoại_Truyện_6.json",
+    "chapter_name": "Chương 51: Ngoại Truyện 6",
+    "url": "https://truyenfull.io/19-ngay/chuong-51/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_52_Ngoại_Truyện_7.json",
+    "chapter_name": "Chương 52: Ngoại Truyện 7",
+    "url": "https://truyenfull.io/19-ngay/chuong-52/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_53_Ngoại_Truyện_8.json",
+    "chapter_name": "Chương 53: Ngoại Truyện 8",
+    "url": "https://truyenfull.io/19-ngay/chuong-53/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_54_Ngoại_Truyện_9.json",
+    "chapter_name": "Chương 54: Ngoại Truyện 9",
+    "url": "https://truyenfull.io/19-ngay/chuong-54/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_55_Ngoại_Truyện_10.json",
+    "chapter_name": "Chương 55: Ngoại Truyện 10",
+    "url": "https://truyenfull.io/19-ngay/chuong-55/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_56_Ngoại_Truyện_11.json",
+    "chapter_name": "Chương 56: Ngoại Truyện 11",
+    "url": "https://truyenfull.io/19-ngay/chuong-56/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_57_Ngoại_Truyện_12.json",
+    "chapter_name": "Chương 57: Ngoại Truyện 12",
+    "url": "https://truyenfull.io/19-ngay/chuong-57/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_58_Ngoại_Truyện_13.json",
+    "chapter_name": "Chương 58: Ngoại Truyện 13",
+    "url": "https://truyenfull.io/19-ngay/chuong-58/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_59_Ngoại_Truyện_14.json",
+    "chapter_name": "Chương 59: Ngoại Truyện 14",
+    "url": "https://truyenfull.io/19-ngay/chuong-59/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_60_Ngoại_Truyện_15.json",
+    "chapter_name": "Chương 60: Ngoại Truyện 15",
+    "url": "https://truyenfull.io/19-ngay/chuong-60/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_61_Ngoại_truyện_16.json",
+    "chapter_name": "Chương 61: Ngoại truyện 16",
+    "url": "https://truyenfull.io/19-ngay/chuong-61/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_62_Ngoại_Truyện_17.json",
+    "chapter_name": "Chương 62: Ngoại Truyện 17",
+    "url": "https://truyenfull.io/19-ngay/chuong-62/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_63_Ngoại_Truyện_18.json",
+    "chapter_name": "Chương 63: Ngoại Truyện 18",
+    "url": "https://truyenfull.io/19-ngay/chuong-63/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_64_Ngoại_Truyện_19.json",
+    "chapter_name": "Chương 64: Ngoại Truyện 19",
+    "url": "https://truyenfull.io/19-ngay/chuong-64/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_65_Ngoại_Truyện_20.json",
+    "chapter_name": "Chương 65: Ngoại Truyện 20",
+    "url": "https://truyenfull.io/19-ngay/chuong-65/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_66_Ngoại_truyện_21.json",
+    "chapter_name": "Chương 66: Ngoại truyện 21",
+    "url": "https://truyenfull.io/19-ngay/chuong-66/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_67_Ngoại_truyện_22.json",
+    "chapter_name": "Chương 67: Ngoại truyện 22",
+    "url": "https://truyenfull.io/19-ngay/chuong-67/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_68_Ngoại_truyện_23_Anh_khó_chịu_em_cung_mặc_kệ_sao.json",
+    "chapter_name": "Chương 68: Ngoại truyện 23: \"Anh khó chịu em cũng mặc kệ sao?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-68/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_69_Ngoại_truyện_24_Ông_trời_của_tôi_ơi_Hứa_Duy_và_Lư_Hoan_đánh_nhau.json",
+    "chapter_name": "Chương 69: Ngoại truyện 24: \"Ông trời của tôi ơi! Hứa Duy và Lư Hoan đánh nhau...\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-69/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_70_Ngoại_truyện_25_Em_dám_đổi_ý_cả_một_đời_anh_sẽ_không_để_ý_đến_em.json",
+    "chapter_name": "Chương 70: Ngoại truyện 25: \"Em dám đổi ý, cả một đời anh sẽ không để ý đến em.\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-70/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_71_Ngoại_Truyện_26.json",
+    "chapter_name": "Chương 71: Ngoại Truyện 26",
+    "url": "https://truyenfull.io/19-ngay/chuong-71/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_72_Ngoại_truyện_27Ngủ_cùng_em_được_không.json",
+    "chapter_name": "Chương 72: Ngoại truyện 27:\"Ngủ cùng em, được không?\"",
+    "url": "https://truyenfull.io/19-ngay/chuong-72/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_73_Ngoại_truyện_28.json",
+    "chapter_name": "Chương 73: Ngoại truyện 28",
+    "url": "https://truyenfull.io/19-ngay/chuong-73/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_74_Ngoại_truyện_29_Tranh_tài_3000m_lấy_lòng_Hứa_tiểu_cô_nương.json",
+    "chapter_name": "Chương 74: Ngoại truyện 29: Tranh tài 3000m lấy lòng Hứa tiểu cô nương",
+    "url": "https://truyenfull.io/19-ngay/chuong-74/"
+  },
+  {
+    "path": "data/19_Ngày/Chương_75_Ngoại_truyện_30.json",
+    "chapter_name": "Chương 75: Ngoại truyện 30",
+    "url": "https://truyenfull.io/19-ngay/chuong-75/"
+  }
+]
