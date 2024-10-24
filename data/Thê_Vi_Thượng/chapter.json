@@ -1,0 +1,542 @@
+[
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_1_Tuyệt_cảnh_và_trọng_sinh.json",
+    "chapter_name": "Chương 1: Tuyệt cảnh và trọng sinh",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-1/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_2_Giải_quyết_hậu_quả.json",
+    "chapter_name": "Chương 2: Giải quyết hậu quả",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-2/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_3_Xứng_đôi.json",
+    "chapter_name": "Chương 3: Xứng đôi",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-3/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_4_Tiến_cung.json",
+    "chapter_name": "Chương 4: Tiến cung",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-4/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_5_Phát_sốt.json",
+    "chapter_name": "Chương 5: Phát sốt",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-5/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_6_Thị_thiếp_trong_nhà.json",
+    "chapter_name": "Chương 6: Thị thiếp trong nhà",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-6/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_7_Hồi_môn.json",
+    "chapter_name": "Chương 7: Hồi môn",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-7/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_8_Hầu_phủ.json",
+    "chapter_name": "Chương 8: Hầu phủ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-8/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_9_Tạ_lễ.json",
+    "chapter_name": "Chương 9: Tạ lễ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-9/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_10_Đào_hoa_nhưỡng.json",
+    "chapter_name": "Chương 10: Đào hoa nhưỡng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-10/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_11_Biệt_trang.json",
+    "chapter_name": "Chương 11: Biệt trang",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-11/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_12_Thị_tẩm.json",
+    "chapter_name": "Chương 12: Thị tẩm",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-12/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_13_Diêm_dẫn.json",
+    "chapter_name": "Chương 13: Diêm dẫn",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-13/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_14_Thanh_mai.json",
+    "chapter_name": "Chương 14: Thanh mai",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-14/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_15_Phát_cuồng.json",
+    "chapter_name": "Chương 15: Phát cuồng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-15/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_16_Thiếu_tiền.json",
+    "chapter_name": "Chương 16: Thiếu tiền",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-16/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_17_Lời_đồn.json",
+    "chapter_name": "Chương 17: Lời đồn",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-17/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_18_Tiểu_thị_lang.json",
+    "chapter_name": "Chương 18: Tiểu thị lang",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-18/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_19_Vở_kịch_dối_trên_gạt_dưới.json",
+    "chapter_name": "Chương 19: Vở kịch dối trên gạt dưới",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-19/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_20_Hiểu_lầm.json",
+    "chapter_name": "Chương 20: Hiểu lầm",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-20/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_21_Cơ_hội.json",
+    "chapter_name": "Chương 21: Cơ hội",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-21/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_22_Trò_hề.json",
+    "chapter_name": "Chương 22: Trò hề",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-22/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_23_Hội_chùa.json",
+    "chapter_name": "Chương 23: Hội chùa",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-23/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_24_Nhược_y.json",
+    "chapter_name": "Chương 24: Nhược y",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-24/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_25_Ghen.json",
+    "chapter_name": "Chương 25: Ghen",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-25/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_26_Tụ_hội.json",
+    "chapter_name": "Chương 26: Tụ hội",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-26/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_27_Hòn_than_bỏng_tay.json",
+    "chapter_name": "Chương 27: Hòn than bỏng tay",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-27/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_28_Giông_bão_sắp_đến.json",
+    "chapter_name": "Chương 28: Giông bão sắp đến",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-28/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_29_Hương_cao.json",
+    "chapter_name": "Chương 29: Hương cao",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-29/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_30_Tây_Nam_cấp_báo.json",
+    "chapter_name": "Chương 30: Tây Nam cấp báo",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-30/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_31_Tin_dữ.json",
+    "chapter_name": "Chương 31: Tin dữ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-31/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_32_Thử_lòng.json",
+    "chapter_name": "Chương 32: Thử lòng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-32/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_33_Lập_trường.json",
+    "chapter_name": "Chương 33: Lập trường",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-33/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_34_Hợp_hoan.json",
+    "chapter_name": "Chương 34: Hợp hoan",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-34/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_35_Phỏng_đoán.json",
+    "chapter_name": "Chương 35: Phỏng đoán",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-35/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_36_Triệt_phiên.json",
+    "chapter_name": "Chương 36: Triệt phiên",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-36/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_37_Triệu_kiến.json",
+    "chapter_name": "Chương 37: Triệu kiến",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-37/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_38_Phạt_quỳ.json",
+    "chapter_name": "Chương 38: Phạt quỳ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-38/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_39_Quên_nói.json",
+    "chapter_name": "Chương 39: Quên nói",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-39/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_40_Quân_doanh.json",
+    "chapter_name": "Chương 40: Quân doanh",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-40/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_41_Tiểu_hắc.json",
+    "chapter_name": "Chương 41: Tiểu hắc",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-41/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_42_Ô_đầu_thảo.json",
+    "chapter_name": "Chương 42: Ô đầu thảo",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-42/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_43_Chân_tướng.json",
+    "chapter_name": "Chương 43: Chân tướng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-43/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_44_Ở_trần.json",
+    "chapter_name": "Chương 44: Ở trần",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-44/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_45_Say_rượu.json",
+    "chapter_name": "Chương 45: Say rượu",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-45/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_46_Trước_ngày_xuất_chinh.json",
+    "chapter_name": "Chương 46: Trước ngày xuất chinh",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-46/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_47_Thôn_dưới_chân_núi.json",
+    "chapter_name": "Chương 47: Thôn dưới chân núi",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-47/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_48_Hổ_con.json",
+    "chapter_name": "Chương 48: Hổ con",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-48/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_49_Về_doanh_trại.json",
+    "chapter_name": "Chương 49: Về doanh trại",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-49/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_50_Hổ_nha_hạc_chủy.json",
+    "chapter_name": "Chương 50: Hổ nha hạc chủy",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-50/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_51_Cẩm_nang_diệu_kế.json",
+    "chapter_name": "Chương 51: Cẩm nang diệu kế",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-51/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_52_Thắng_cảnh_quan.json",
+    "chapter_name": "Chương 52: Thắng cảnh quan",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-52/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_53_Nguy_cấp.json",
+    "chapter_name": "Chương 53: Nguy cấp",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-53/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_54_Cảnh_sắc_mùa_xuân.json",
+    "chapter_name": "Chương 54: Cảnh sắc mùa xuân",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-54/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_55_Tiêu_thiều_cửu_thành.json",
+    "chapter_name": "Chương 55: Tiêu thiều cửu thành",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-55/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_56_Tin_chiến_thắng.json",
+    "chapter_name": "Chương 56: Tin chiến thắng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-56/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_57_Bôi_thuốc.json",
+    "chapter_name": "Chương 57: Bôi thuốc",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-57/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_58_Nội_tặc.json",
+    "chapter_name": "Chương 58: Nội tặc",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-58/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_59_Vân_thành.json",
+    "chapter_name": "Chương 59: Vân thành",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-59/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_60_Vương_phi.json",
+    "chapter_name": "Chương 60: Vương phi",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-60/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_61_Mật_thất.json",
+    "chapter_name": "Chương 61: Mật thất",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-61/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_62_Tiêu_tan.json",
+    "chapter_name": "Chương 62: Tiêu tan",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-62/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_63_Phục_kích.json",
+    "chapter_name": "Chương 63: Phục kích",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-63/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_64_Đông_nam.json",
+    "chapter_name": "Chương 64: Đông nam",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-64/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_65_Bảo_khố.json",
+    "chapter_name": "Chương 65: Bảo khố",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-65/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_66_Chim_kho.json",
+    "chapter_name": "Chương 66: Chim kho",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-66/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_67_Xảo_ngộ.json",
+    "chapter_name": "Chương 67: Xảo ngộ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-67/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_68_Hợp_tác.json",
+    "chapter_name": "Chương 68: Hợp tác",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-68/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_69_Hồi_kinh.json",
+    "chapter_name": "Chương 69: Hồi kinh",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-69/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_70_Sóng_gió_nổi_lên.json",
+    "chapter_name": "Chương 70: Sóng gió nổi lên",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-70/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_71_Hậu_quả.json",
+    "chapter_name": "Chương 71: Hậu quả",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-71/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_72_Tin_tức.json",
+    "chapter_name": "Chương 72: Tin tức",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-72/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_73_Tin_tức.json",
+    "chapter_name": "Chương 73: Tin tức",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-73/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_74_Hưu_thiếp.json",
+    "chapter_name": "Chương 74: Hưu thiếp",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-74/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_75_Gia_yến.json",
+    "chapter_name": "Chương 75: Gia yến",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-75/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_76_Phụ_nhân.json",
+    "chapter_name": "Chương 76: Phụ nhân",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-76/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_77_Vô_tranh.json",
+    "chapter_name": "Chương 77: Vô tranh",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-77/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_78_Dĩ_ác_chế_ác.json",
+    "chapter_name": "Chương 78: Dĩ ác chế ác",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-78/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_79_Phong_hầu.json",
+    "chapter_name": "Chương 79: Phong hầu",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-79/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_80_Thi_hội.json",
+    "chapter_name": "Chương 80: Thi hội",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-80/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_81_Tư_quân.json",
+    "chapter_name": "Chương 81: Tư quân",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-81/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_82_Quỳnh_lâm_yến.json",
+    "chapter_name": "Chương 82: Quỳnh lâm yến",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-82/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_83_Người_quen_cũ.json",
+    "chapter_name": "Chương 83: Người quen cũ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-83/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_84_Thám_hoa_lang.json",
+    "chapter_name": "Chương 84: Thám hoa lang",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-84/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_85_Cố_nhân_đến.json",
+    "chapter_name": "Chương 85: Cố nhân đến",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-85/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_86_Lung_tung.json",
+    "chapter_name": "Chương 86: Lung tung",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-86/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_87_Bị_điên.json",
+    "chapter_name": "Chương 87: Bị điên",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-87/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_88_Rừng_đào.json",
+    "chapter_name": "Chương 88: Rừng đào",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-88/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_89_Nguy_cơ.json",
+    "chapter_name": "Chương 89: Nguy cơ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-89/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_90_Chất_vấn.json",
+    "chapter_name": "Chương 90: Chất vấn",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-90/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_91_Thế_lực.json",
+    "chapter_name": "Chương 91: Thế lực",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-91/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_92_Vân_dũng.json",
+    "chapter_name": "Chương 92: Vân dũng",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-92/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_93_Tranh_đoạt.json",
+    "chapter_name": "Chương 93: Tranh đoạt",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-93/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_94_Lâm_triều.json",
+    "chapter_name": "Chương 94: Lâm triều",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-94/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_95_Âm_mưu.json",
+    "chapter_name": "Chương 95: Âm mưu",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-95/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_96_Hải_thương.json",
+    "chapter_name": "Chương 96: Hải thương",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-96/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_97_Chiến_báo.json",
+    "chapter_name": "Chương 97: Chiến báo",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-97/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_98_Tri_huyện.json",
+    "chapter_name": "Chương 98: Tri huyện",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-98/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_99_Ăn_dấm.json",
+    "chapter_name": "Chương 99: Ăn dấm",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-99/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_100_Độc_chiếm.json",
+    "chapter_name": "Chương 100: Độc chiếm",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-100/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_101_Tháng_chạp.json",
+    "chapter_name": "Chương 101: Tháng chạp",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-101/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_102_Nhổ_cỏ.json",
+    "chapter_name": "Chương 102: Nhổ cỏ",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-102/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_103_Đập_phá.json",
+    "chapter_name": "Chương 103: Đập phá",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-103/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_104_Chiếu_thư.json",
+    "chapter_name": "Chương 104: Chiếu thư",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-104/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_105_Kết_cục.json",
+    "chapter_name": "Chương 105: Kết cục",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-105/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_106_Phiên_ngoại_1.json",
+    "chapter_name": "Chương 106: Phiên ngoại 1",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-106/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_107_Phiên_ngoại_2.json",
+    "chapter_name": "Chương 107: Phiên ngoại 2",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-107/"
+  },
+  {
+    "path": "data/Thê_Vi_Thượng/Chương_108_Phiên_ngoại_3.json",
+    "chapter_name": "Chương 108: Phiên ngoại 3",
+    "url": "https://truyenfull.io/the-vi-thuong/chuong-108/"
+  }
+]
