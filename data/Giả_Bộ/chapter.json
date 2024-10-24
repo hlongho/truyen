@@ -1,0 +1,442 @@
+[
+  {
+    "path": "data/Giả_Bộ/Chương_1_C1_Chương_1.json",
+    "chapter_name": "Chương 1: C1: Chương 1",
+    "url": "https://truyenfull.io/gia-bo/chuong-1/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_2_C2_Chương_2.json",
+    "chapter_name": "Chương 2: C2: Chương 2",
+    "url": "https://truyenfull.io/gia-bo/chuong-2/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_3_C3_Chương_3.json",
+    "chapter_name": "Chương 3: C3: Chương 3",
+    "url": "https://truyenfull.io/gia-bo/chuong-3/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_4_C4_Chương_4.json",
+    "chapter_name": "Chương 4: C4: Chương 4",
+    "url": "https://truyenfull.io/gia-bo/chuong-4/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_5_C5_Chương_5.json",
+    "chapter_name": "Chương 5: C5: Chương 5",
+    "url": "https://truyenfull.io/gia-bo/chuong-5/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_6_C6_Chương_6.json",
+    "chapter_name": "Chương 6: C6: Chương 6",
+    "url": "https://truyenfull.io/gia-bo/chuong-6/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_7_C7_Chương_7.json",
+    "chapter_name": "Chương 7: C7: Chương 7",
+    "url": "https://truyenfull.io/gia-bo/chuong-7/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_8_C8_Chương_8.json",
+    "chapter_name": "Chương 8: C8: Chương 8",
+    "url": "https://truyenfull.io/gia-bo/chuong-8/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_9_C9_Chương_9.json",
+    "chapter_name": "Chương 9: C9: Chương 9",
+    "url": "https://truyenfull.io/gia-bo/chuong-9/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_10_C10_Chương_10.json",
+    "chapter_name": "Chương 10: C10: Chương 10",
+    "url": "https://truyenfull.io/gia-bo/chuong-10/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_11_C11_Chương_11.json",
+    "chapter_name": "Chương 11: C11: Chương 11",
+    "url": "https://truyenfull.io/gia-bo/chuong-11/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_12_C12_Chương_12.json",
+    "chapter_name": "Chương 12: C12: Chương 12",
+    "url": "https://truyenfull.io/gia-bo/chuong-12/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_13_C13_Chương_13.json",
+    "chapter_name": "Chương 13: C13: Chương 13",
+    "url": "https://truyenfull.io/gia-bo/chuong-13/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_14_C14_Chương_14.json",
+    "chapter_name": "Chương 14: C14: Chương 14",
+    "url": "https://truyenfull.io/gia-bo/chuong-14/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_15_C15_Chương_15.json",
+    "chapter_name": "Chương 15: C15: Chương 15",
+    "url": "https://truyenfull.io/gia-bo/chuong-15/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_16_C16_Chương_16.json",
+    "chapter_name": "Chương 16: C16: Chương 16",
+    "url": "https://truyenfull.io/gia-bo/chuong-16/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_17_C17_Chương_17.json",
+    "chapter_name": "Chương 17: C17: Chương 17",
+    "url": "https://truyenfull.io/gia-bo/chuong-17/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_18_C18_Chương_18.json",
+    "chapter_name": "Chương 18: C18: Chương 18",
+    "url": "https://truyenfull.io/gia-bo/chuong-18/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_19_C19_Chương_19.json",
+    "chapter_name": "Chương 19: C19: Chương 19",
+    "url": "https://truyenfull.io/gia-bo/chuong-19/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_20_C20_Chương_20.json",
+    "chapter_name": "Chương 20: C20: Chương 20",
+    "url": "https://truyenfull.io/gia-bo/chuong-20/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_21_C21_Chương_21.json",
+    "chapter_name": "Chương 21: C21: Chương 21",
+    "url": "https://truyenfull.io/gia-bo/chuong-21/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_22_C22_Chương_22.json",
+    "chapter_name": "Chương 22: C22: Chương 22",
+    "url": "https://truyenfull.io/gia-bo/chuong-22/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_23_C23_Chương_23.json",
+    "chapter_name": "Chương 23: C23: Chương 23",
+    "url": "https://truyenfull.io/gia-bo/chuong-23/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_24_C24_Chương_24.json",
+    "chapter_name": "Chương 24: C24: Chương 24",
+    "url": "https://truyenfull.io/gia-bo/chuong-24/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_25_C25_Chương_25.json",
+    "chapter_name": "Chương 25: C25: Chương 25",
+    "url": "https://truyenfull.io/gia-bo/chuong-25/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_26_C26_Chương_26.json",
+    "chapter_name": "Chương 26: C26: Chương 26",
+    "url": "https://truyenfull.io/gia-bo/chuong-26/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_27_C27_Chương_27.json",
+    "chapter_name": "Chương 27: C27: Chương 27",
+    "url": "https://truyenfull.io/gia-bo/chuong-27/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_28_C28_Chương_28.json",
+    "chapter_name": "Chương 28: C28: Chương 28",
+    "url": "https://truyenfull.io/gia-bo/chuong-28/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_29_C29_Chương_29.json",
+    "chapter_name": "Chương 29: C29: Chương 29",
+    "url": "https://truyenfull.io/gia-bo/chuong-29/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_30_C30_Chương_30.json",
+    "chapter_name": "Chương 30: C30: Chương 30",
+    "url": "https://truyenfull.io/gia-bo/chuong-30/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_31_C31_Chương_31.json",
+    "chapter_name": "Chương 31: C31: Chương 31",
+    "url": "https://truyenfull.io/gia-bo/chuong-31/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_32_C32_Chương_32.json",
+    "chapter_name": "Chương 32: C32: Chương 32",
+    "url": "https://truyenfull.io/gia-bo/chuong-32/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_33_C33_Chương_33.json",
+    "chapter_name": "Chương 33: C33: Chương 33",
+    "url": "https://truyenfull.io/gia-bo/chuong-33/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_34_C34_Chương_34.json",
+    "chapter_name": "Chương 34: C34: Chương 34",
+    "url": "https://truyenfull.io/gia-bo/chuong-34/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_35_C35_Chương_35.json",
+    "chapter_name": "Chương 35: C35: Chương 35",
+    "url": "https://truyenfull.io/gia-bo/chuong-35/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_36_C36_Chương_36.json",
+    "chapter_name": "Chương 36: C36: Chương 36",
+    "url": "https://truyenfull.io/gia-bo/chuong-36/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_37_C37_Chương_37.json",
+    "chapter_name": "Chương 37: C37: Chương 37",
+    "url": "https://truyenfull.io/gia-bo/chuong-37/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_38_C38_Chương_38.json",
+    "chapter_name": "Chương 38: C38: Chương 38",
+    "url": "https://truyenfull.io/gia-bo/chuong-38/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_39_C39_Chương_39.json",
+    "chapter_name": "Chương 39: C39: Chương 39",
+    "url": "https://truyenfull.io/gia-bo/chuong-39/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_40_C40_Chương_40.json",
+    "chapter_name": "Chương 40: C40: Chương 40",
+    "url": "https://truyenfull.io/gia-bo/chuong-40/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_41_C41_Chương_41.json",
+    "chapter_name": "Chương 41: C41: Chương 41",
+    "url": "https://truyenfull.io/gia-bo/chuong-41/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_42_C42_Chương_42.json",
+    "chapter_name": "Chương 42: C42: Chương 42",
+    "url": "https://truyenfull.io/gia-bo/chuong-42/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_43_C43_Chương_43.json",
+    "chapter_name": "Chương 43: C43: Chương 43",
+    "url": "https://truyenfull.io/gia-bo/chuong-43/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_44_C44_Chương_44.json",
+    "chapter_name": "Chương 44: C44: Chương 44",
+    "url": "https://truyenfull.io/gia-bo/chuong-44/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_45_C45_Chương_45.json",
+    "chapter_name": "Chương 45: C45: Chương 45",
+    "url": "https://truyenfull.io/gia-bo/chuong-45/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_46_C46_Chương_46.json",
+    "chapter_name": "Chương 46: C46: Chương 46",
+    "url": "https://truyenfull.io/gia-bo/chuong-46/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_47_C47_Chương_47.json",
+    "chapter_name": "Chương 47: C47: Chương 47",
+    "url": "https://truyenfull.io/gia-bo/chuong-47/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_48_C48_Chương_48.json",
+    "chapter_name": "Chương 48: C48: Chương 48",
+    "url": "https://truyenfull.io/gia-bo/chuong-48/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_49_C49_Chương_49.json",
+    "chapter_name": "Chương 49: C49: Chương 49",
+    "url": "https://truyenfull.io/gia-bo/chuong-49/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_50_C50_Chương_50.json",
+    "chapter_name": "Chương 50: C50: Chương 50",
+    "url": "https://truyenfull.io/gia-bo/chuong-50/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_51_C51_Chương_51.json",
+    "chapter_name": "Chương 51: C51: Chương 51",
+    "url": "https://truyenfull.io/gia-bo/chuong-51/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_52_C52_Chương_52.json",
+    "chapter_name": "Chương 52: C52: Chương 52",
+    "url": "https://truyenfull.io/gia-bo/chuong-52/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_53_C53_Chương_53.json",
+    "chapter_name": "Chương 53: C53: Chương 53",
+    "url": "https://truyenfull.io/gia-bo/chuong-53/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_54_C54_Chương_54.json",
+    "chapter_name": "Chương 54: C54: Chương 54",
+    "url": "https://truyenfull.io/gia-bo/chuong-54/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_55_C55_Chương_55.json",
+    "chapter_name": "Chương 55: C55: Chương 55",
+    "url": "https://truyenfull.io/gia-bo/chuong-55/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_56_C56_Chương_56.json",
+    "chapter_name": "Chương 56: C56: Chương 56",
+    "url": "https://truyenfull.io/gia-bo/chuong-56/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_57_C57_Chương_57.json",
+    "chapter_name": "Chương 57: C57: Chương 57",
+    "url": "https://truyenfull.io/gia-bo/chuong-57/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_58_C58_Chương_58.json",
+    "chapter_name": "Chương 58: C58: Chương 58",
+    "url": "https://truyenfull.io/gia-bo/chuong-58/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_59_C59_Chương_59.json",
+    "chapter_name": "Chương 59: C59: Chương 59",
+    "url": "https://truyenfull.io/gia-bo/chuong-59/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_60_C60_Chương_60.json",
+    "chapter_name": "Chương 60: C60: Chương 60",
+    "url": "https://truyenfull.io/gia-bo/chuong-60/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_61_C61_Chương_61.json",
+    "chapter_name": "Chương 61: C61: Chương 61",
+    "url": "https://truyenfull.io/gia-bo/chuong-61/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_62_C62_Chương_62.json",
+    "chapter_name": "Chương 62: C62: Chương 62",
+    "url": "https://truyenfull.io/gia-bo/chuong-62/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_63_C63_Chương_63.json",
+    "chapter_name": "Chương 63: C63: Chương 63",
+    "url": "https://truyenfull.io/gia-bo/chuong-63/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_64_C64_Chương_64.json",
+    "chapter_name": "Chương 64: C64: Chương 64",
+    "url": "https://truyenfull.io/gia-bo/chuong-64/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_65_C65_Chương_65.json",
+    "chapter_name": "Chương 65: C65: Chương 65",
+    "url": "https://truyenfull.io/gia-bo/chuong-65/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_66_C66_Chương_66.json",
+    "chapter_name": "Chương 66: C66: Chương 66",
+    "url": "https://truyenfull.io/gia-bo/chuong-66/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_67_C67_Chương_67.json",
+    "chapter_name": "Chương 67: C67: Chương 67",
+    "url": "https://truyenfull.io/gia-bo/chuong-67/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_68_C68_Chương_68.json",
+    "chapter_name": "Chương 68: C68: Chương 68",
+    "url": "https://truyenfull.io/gia-bo/chuong-68/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_69_Hoàn_chính_văn.json",
+    "chapter_name": "Chương 69: Hoàn chính văn",
+    "url": "https://truyenfull.io/gia-bo/chuong-69/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_70_C70_Chương_70.json",
+    "chapter_name": "Chương 70: C70: Chương 70",
+    "url": "https://truyenfull.io/gia-bo/chuong-70/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_71_C71_Chương_71.json",
+    "chapter_name": "Chương 71: C71: Chương 71",
+    "url": "https://truyenfull.io/gia-bo/chuong-71/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_72_C72_Chương_72.json",
+    "chapter_name": "Chương 72: C72: Chương 72",
+    "url": "https://truyenfull.io/gia-bo/chuong-72/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_73_C73_Chương_73.json",
+    "chapter_name": "Chương 73: C73: Chương 73",
+    "url": "https://truyenfull.io/gia-bo/chuong-73/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_74_C74_Chương_74.json",
+    "chapter_name": "Chương 74: C74: Chương 74",
+    "url": "https://truyenfull.io/gia-bo/chuong-74/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_75_C75_Chương_75.json",
+    "chapter_name": "Chương 75: C75: Chương 75",
+    "url": "https://truyenfull.io/gia-bo/chuong-75/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_76_C76_Chương_76.json",
+    "chapter_name": "Chương 76: C76: Chương 76",
+    "url": "https://truyenfull.io/gia-bo/chuong-76/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_77_C77_Chương_77.json",
+    "chapter_name": "Chương 77: C77: Chương 77",
+    "url": "https://truyenfull.io/gia-bo/chuong-77/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_78_C78_Chương_78.json",
+    "chapter_name": "Chương 78: C78: Chương 78",
+    "url": "https://truyenfull.io/gia-bo/chuong-78/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_79_C79_Chương_79.json",
+    "chapter_name": "Chương 79: C79: Chương 79",
+    "url": "https://truyenfull.io/gia-bo/chuong-79/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_80_C80_Chương_80.json",
+    "chapter_name": "Chương 80: C80: Chương 80",
+    "url": "https://truyenfull.io/gia-bo/chuong-80/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_81_C81_Chương_81.json",
+    "chapter_name": "Chương 81: C81: Chương 81",
+    "url": "https://truyenfull.io/gia-bo/chuong-81/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_82_C82_Chương_82.json",
+    "chapter_name": "Chương 82: C82: Chương 82",
+    "url": "https://truyenfull.io/gia-bo/chuong-82/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_83_C83_Chương_83.json",
+    "chapter_name": "Chương 83: C83: Chương 83",
+    "url": "https://truyenfull.io/gia-bo/chuong-83/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_84_C84_Chương_84.json",
+    "chapter_name": "Chương 84: C84: Chương 84",
+    "url": "https://truyenfull.io/gia-bo/chuong-84/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_85_C85_Chương_85.json",
+    "chapter_name": "Chương 85: C85: Chương 85",
+    "url": "https://truyenfull.io/gia-bo/chuong-85/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_86_C86_Chương_86.json",
+    "chapter_name": "Chương 86: C86: Chương 86",
+    "url": "https://truyenfull.io/gia-bo/chuong-86/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_87_C87_Chương_87.json",
+    "chapter_name": "Chương 87: C87: Chương 87",
+    "url": "https://truyenfull.io/gia-bo/chuong-87/"
+  },
+  {
+    "path": "data/Giả_Bộ/Chương_88_Hoàn_toàn_văn.json",
+    "chapter_name": "Chương 88: Hoàn toàn văn",
+    "url": "https://truyenfull.io/gia-bo/chuong-88/"
+  }
+]
