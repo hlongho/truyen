@@ -5998,5 +5998,695 @@
     "path": "data/Võ_Đạo_Đan_Tôn/Chương_1200_Tự_chui_đầu_vào_rọ_1.json",
     "chapter_name": "Chương 1200: Tự chui đầu vào rọ (1)",
     "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1200/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1201_Tự_chui_đầu_vào_rọ_2.json",
+    "chapter_name": "Chương 1201: Tự chui đầu vào rọ (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1201/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1202_Chiến_cổ_luân_vương.json",
+    "chapter_name": "Chương 1202: Chiến cổ luân vương",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1202/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1203_Phù_văn_tù_lao_1.json",
+    "chapter_name": "Chương 1203: Phù văn tù lao (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1203/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1204_Phù_văn_tù_lao_2.json",
+    "chapter_name": "Chương 1204: Phù văn tù lao (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1204/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1205_Hai_chiêu_diệt_địch_1.json",
+    "chapter_name": "Chương 1205: Hai chiêu diệt địch (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1205/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1206_Hai_chiêu_diệt_địch_2.json",
+    "chapter_name": "Chương 1206: Hai chiêu diệt địch (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1206/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1207_Cuộc_giao_chiến_thần_bí_1.json",
+    "chapter_name": "Chương 1207: Cuộc giao chiến thần bí (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1207/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1208_Cuộc_giao_chiến_thần_bí_2.json",
+    "chapter_name": "Chương 1208: Cuộc giao chiến thần bí (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1208/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1209_Binh_chia_làm_hai_đường_1.json",
+    "chapter_name": "Chương 1209: Binh chia làm hai đường (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1209/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1210_Binh_chia_làm_hai_đường_2.json",
+    "chapter_name": "Chương 1210: Binh chia làm hai đường (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1210/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1211_Văn_Dược_Vương_ngã_xuống_1.json",
+    "chapter_name": "Chương 1211: Văn Dược Vương ngã xuống (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1211/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1212_Văn_Dược_Vương_ngã_xuống_2.json",
+    "chapter_name": "Chương 1212: Văn Dược Vương ngã xuống (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1212/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1213_Hỏa_diễm_sơn.json",
+    "chapter_name": "Chương 1213: Hỏa diễm sơn",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1213/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1214_Dung_hỏa_thần_quả_1.json",
+    "chapter_name": "Chương 1214: Dung hỏa thần quả (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1214/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1215_Dung_hỏa_thần_quả_2.json",
+    "chapter_name": "Chương 1215: Dung hỏa thần quả (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1215/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1216_Cường_giả_khắp_nơi_1.json",
+    "chapter_name": "Chương 1216: Cường giả khắp nơi (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1216/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1217_Cường_giả_khắp_nơi_2.json",
+    "chapter_name": "Chương 1217: Cường giả khắp nơi (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1217/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1218_Điên_cuồng_tranh_cướp_1.json",
+    "chapter_name": "Chương 1218: Điên cuồng tranh cướp (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1218/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1219_Điên_cuồng_tranh_cướp_2.json",
+    "chapter_name": "Chương 1219: Điên cuồng tranh cướp (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1219/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1220_Giao_chiến_kịch_liệt_1.json",
+    "chapter_name": "Chương 1220: Giao chiến kịch liệt (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1220/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1221_Giao_chiến_kịch_liệt_2.json",
+    "chapter_name": "Chương 1221: Giao chiến kịch liệt (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1221/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1222_Liên_tiếp_thu_hoạch_1.json",
+    "chapter_name": "Chương 1222: Liên tiếp thu hoạch (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1222/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1223_Liên_tiếp_thu_hoạch_2.json",
+    "chapter_name": "Chương 1223: Liên tiếp thu hoạch (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1223/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1224_Viêm_Long_khủng_bố.json",
+    "chapter_name": "Chương 1224: Viêm Long khủng bố",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1224/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1225_Bỏ_lỡ_cơ_hội_1.json",
+    "chapter_name": "Chương 1225: Bỏ lỡ cơ hội (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1225/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1226_Bỏ_lỡ_cơ_hội_2.json",
+    "chapter_name": "Chương 1226: Bỏ lỡ cơ hội (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1226/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1227_Vương_giả_Tam_Trọng_1.json",
+    "chapter_name": "Chương 1227: Vương giả Tam Trọng (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1227/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1228_Vương_giả_Tam_Trọng_2.json",
+    "chapter_name": "Chương 1228: Vương giả Tam Trọng (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1228/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1229_Hồn_niệm_phân_thân_1.json",
+    "chapter_name": "Chương 1229: Hồn niệm phân thân (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1229/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1230_Hồn_niệm_phân_thân_2.json",
+    "chapter_name": "Chương 1230: Hồn niệm phân thân (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1230/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1231_Công_kích_linh_hồn_1.json",
+    "chapter_name": "Chương 1231: Công kích linh hồn (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1231/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1232_Công_kích_linh_hồn_2.json",
+    "chapter_name": "Chương 1232: Công kích linh hồn (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1232/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1233_Đột_phá_Nhị_Trọng.json",
+    "chapter_name": "Chương 1233: Đột phá Nhị Trọng",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1233/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1234_Hiểu_rõ_ân_oán_1.json",
+    "chapter_name": "Chương 1234: Hiểu rõ ân oán (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1234/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1235_Hiểu_rõ_ân_oán_2.json",
+    "chapter_name": "Chương 1235: Hiểu rõ ân oán (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1235/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1236_Dễ_dàng_tiêu_diệt_1.json",
+    "chapter_name": "Chương 1236: Dễ dàng tiêu diệt (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1236/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1237_Dễ_dàng_tiêu_diệt_2.json",
+    "chapter_name": "Chương 1237: Dễ dàng tiêu diệt (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1237/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1238_Hỏa_Long_nhất_tộc_1.json",
+    "chapter_name": "Chương 1238: Hỏa Long nhất tộc (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1238/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1239_Hỏa_Long_nhất_tộc_2.json",
+    "chapter_name": "Chương 1239: Hỏa Long nhất tộc (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1239/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1240_Thái_cổ_tà_long.json",
+    "chapter_name": "Chương 1240: Thái cổ tà long",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1240/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1241_Cấm_địa_Long_tộc_1.json",
+    "chapter_name": "Chương 1241: Cấm địa Long tộc (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1241/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1242_Cấm_địa_Long_tộc_2.json",
+    "chapter_name": "Chương 1242: Cấm địa Long tộc (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1242/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1243_Tiểu_viêm.json",
+    "chapter_name": "Chương 1243: Tiểu viêm",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1243/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1244_Long_gia_sống_lại.json",
+    "chapter_name": "Chương 1244: Long gia sống lại",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1244/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1245_Lịch_sử_đầy_bụi_1.json",
+    "chapter_name": "Chương 1245: Lịch sử đầy bụi (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1245/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1246_Lịch_sử_đầy_bụi_2.json",
+    "chapter_name": "Chương 1246: Lịch sử đầy bụi (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1246/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1247_Bảo_tàng_Man_tộc.json",
+    "chapter_name": "Chương 1247: Bảo tàng Man tộc",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1247/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1248_Phế_khu_Cổ_Thần.json",
+    "chapter_name": "Chương 1248: Phế khu Cổ Thần",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1248/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1249_Phong_ba_khởi_1.json",
+    "chapter_name": "Chương 1249: Phong ba khởi (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1249/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1250_Phong_ba_khởi_2.json",
+    "chapter_name": "Chương 1250: Phong ba khởi (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1250/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1251_Hàn_băng_vương.json",
+    "chapter_name": "Chương 1251: Hàn băng vương",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1251/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1252_Chìa_khóa_thứ_ba.json",
+    "chapter_name": "Chương 1252: Chìa khóa thứ ba",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1252/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1253_Đừng_để_ta_xem_thường_1.json",
+    "chapter_name": "Chương 1253: Đừng để ta xem thường! (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1253/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1254_Đừng_để_ta_xem_thường_2.json",
+    "chapter_name": "Chương 1254: Đừng để ta xem thường! (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1254/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1255_Bí_pháp_truyền_thừa.json",
+    "chapter_name": "Chương 1255: Bí pháp truyền thừa",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1255/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1256_Phi_loan_vương.json",
+    "chapter_name": "Chương 1256: Phi loan vương",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1256/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1257_Âm_mưu_của_Man_tộc.json",
+    "chapter_name": "Chương 1257: Âm mưu của Man tộc",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1257/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1258_Thiên_phú_thần_thông_1.json",
+    "chapter_name": "Chương 1258: Thiên phú thần thông (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1258/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1259_Thiên_phú_thần_thông_2.json",
+    "chapter_name": "Chương 1259: Thiên phú thần thông (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1259/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1260_Năm_đại_yêu_vương.json",
+    "chapter_name": "Chương 1260: Năm đại yêu vương",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1260/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1261_Tam_tộc_liên_thủ.json",
+    "chapter_name": "Chương 1261: Tam tộc liên thủ",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1261/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1262_Mỗi_phe_phái_đều_có_kế_hoạch_nham_hiểm_1.json",
+    "chapter_name": "Chương 1262: Mỗi phe phái đều có kế hoạch nham hiểm (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1262/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1263_Mỗi_phe_phái_đều_có_kế_hoạch_nham_hiểm_2.json",
+    "chapter_name": "Chương 1263: Mỗi phe phái đều có kế hoạch nham hiểm (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1263/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1264_Mê_Thất_chiểu_trạch.json",
+    "chapter_name": "Chương 1264: Mê Thất chiểu trạch",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1264/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1265_Chiểu_trạch_quái.json",
+    "chapter_name": "Chương 1265: Chiểu trạch quái",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1265/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1266_Thành_công_đào_thoát_1.json",
+    "chapter_name": "Chương 1266: Thành công đào thoát (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1266/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1267_Thành_công_đào_thoát_2.json",
+    "chapter_name": "Chương 1267: Thành công đào thoát (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1267/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1268_Thiết_Đao_thú.json",
+    "chapter_name": "Chương 1268: Thiết Đao thú",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1268/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1269_Trốn_quanh_bốn_phía.json",
+    "chapter_name": "Chương 1269: Trốn quanh bốn phía",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1269/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1270_Thông_đạo_chưa_biết_1.json",
+    "chapter_name": "Chương 1270: Thông đạo chưa biết (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1270/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1271_Thông_đạo_chưa_biết_2.json",
+    "chapter_name": "Chương 1271: Thông đạo chưa biết (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1271/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1272_Truyền_tống_môn.json",
+    "chapter_name": "Chương 1272: Truyền tống môn",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1272/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1273_Huyễn_Cảnh_bình_nguyên_1.json",
+    "chapter_name": "Chương 1273: Huyễn Cảnh bình nguyên (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1273/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1274_Huyễn_Cảnh_bình_nguyên_2.json",
+    "chapter_name": "Chương 1274: Huyễn Cảnh bình nguyên (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1274/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1275_Tinh_thần_lực_đột_phá_1.json",
+    "chapter_name": "Chương 1275: Tinh thần lực đột phá (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1275/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1276_Tinh_thần_lực_đột_phá_2.json",
+    "chapter_name": "Chương 1276: Tinh thần lực đột phá (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1276/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1277_Huyễn_Mộng_thú_tôn_cấp.json",
+    "chapter_name": "Chương 1277: Huyễn Mộng thú tôn cấp",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1277/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1278_Bị_sủng_hạnh.json",
+    "chapter_name": "Chương 1278: Bị sủng hạnh",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1278/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1279_Thật_thật_giả_giả_1.json",
+    "chapter_name": "Chương 1279: Thật thật giả giả (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1279/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1280_Thật_thật_giả_giả_2.json",
+    "chapter_name": "Chương 1280: Thật thật giả giả (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1280/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1281_Phụ_trách.json",
+    "chapter_name": "Chương 1281: Phụ trách",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1281/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1282_Mặt_thật.json",
+    "chapter_name": "Chương 1282: Mặt thật",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1282/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1283_Tiến_vào_bảo_điện.json",
+    "chapter_name": "Chương 1283: Tiến vào bảo điện",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1283/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1284_Chiến_đấu_mở_màn_1.json",
+    "chapter_name": "Chương 1284: Chiến đấu mở màn (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1284/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1285_Chiến_đấu_mở_màn_2.json",
+    "chapter_name": "Chương 1285: Chiến đấu mở màn (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1285/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1286_Đại_chiến_Tà_Đa.json",
+    "chapter_name": "Chương 1286: Đại chiến Tà Đa",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1286/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1287_Tiểu_Viêm_ra_tay.json",
+    "chapter_name": "Chương 1287: Tiểu Viêm ra tay",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1287/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1288_Tà_Đa_vẫn_lạc.json",
+    "chapter_name": "Chương 1288: Tà Đa vẫn lạc",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1288/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1289_Chí_Bảo_điện_A_cấp_1.json",
+    "chapter_name": "Chương 1289: Chí Bảo điện A cấp (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1289/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1290_Chí_Bảo_điện_A_cấp_2.json",
+    "chapter_name": "Chương 1290: Chí Bảo điện A cấp (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1290/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1291_Tiến_vào_bảo_thất.json",
+    "chapter_name": "Chương 1291: Tiến vào bảo thất",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1291/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1292_Tà_Thử_Vương_phẫn_nộ.json",
+    "chapter_name": "Chương 1292: Tà Thử Vương phẫn nộ",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1292/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1293_Chiến_đấu_khôi_lỗi.json",
+    "chapter_name": "Chương 1293: Chiến đấu khôi lỗi",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1293/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1294_Chí_tôn_khí.json",
+    "chapter_name": "Chương 1294: Chí tôn khí",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1294/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1295_Đại_chiến_điên_cuồng.json",
+    "chapter_name": "Chương 1295: Đại chiến điên cuồng",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1295/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1296_Tà_Hồn_Vương_tìm_đường_chết_1.json",
+    "chapter_name": "Chương 1296: Tà Hồn Vương tìm đường chết (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1296/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1297_Tà_Hồn_Vương_tìm_đường_chết_2.json",
+    "chapter_name": "Chương 1297: Tà Hồn Vương tìm đường chết (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1297/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1298_Phệ_thần_thú.json",
+    "chapter_name": "Chương 1298: Phệ thần thú",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1298/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1299_Thiên_phạt.json",
+    "chapter_name": "Chương 1299: Thiên phạt",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1299/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1300_Truyền_thừa_cầu.json",
+    "chapter_name": "Chương 1300: Truyền thừa cầu",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1300/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1301_Cuối_đường_gặp_mặt.json",
+    "chapter_name": "Chương 1301: Cuối đường gặp mặt",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1301/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1302_Hạo_thiên_kính.json",
+    "chapter_name": "Chương 1302: Hạo thiên kính",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1302/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1303_Nguy_cơ_của_Man_tộc_1.json",
+    "chapter_name": "Chương 1303: Nguy cơ của Man tộc (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1303/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1304_Nguy_cơ_của_Man_tộc_2.json",
+    "chapter_name": "Chương 1304: Nguy cơ của Man tộc (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1304/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1305_Thiên_Thực_Man_Tôn.json",
+    "chapter_name": "Chương 1305: Thiên Thực Man Tôn",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1305/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1306_Sinh_tử_tồn_vong.json",
+    "chapter_name": "Chương 1306: Sinh tử tồn vong",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1306/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1307_Yêu_Hoàng_tinh_huyết_1.json",
+    "chapter_name": "Chương 1307: Yêu Hoàng tinh huyết (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1307/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1308_Yêu_Hoàng_tinh_huyết_2.json",
+    "chapter_name": "Chương 1308: Yêu Hoàng tinh huyết (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1308/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1309_Người_thắng_lớn_nhất.json",
+    "chapter_name": "Chương 1309: Người thắng lớn nhất",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1309/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1310_Lão_tiền_bối_1.json",
+    "chapter_name": "Chương 1310: Lão tiền bối (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1310/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1311_Lão_tiền_bối_2.json",
+    "chapter_name": "Chương 1311: Lão tiền bối (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1311/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1312_Đột_phá_tam_trọng.json",
+    "chapter_name": "Chương 1312: Đột phá tam trọng",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1312/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1313_Bốn_đại_cường_giả_1.json",
+    "chapter_name": "Chương 1313: Bốn đại cường giả (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1313/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1314_Bốn_đại_cường_giả_2.json",
+    "chapter_name": "Chương 1314: Bốn đại cường giả (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1314/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1315_Phá_kiếm_vương.json",
+    "chapter_name": "Chương 1315: Phá kiếm vương",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1315/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1316_Ba_chiêu_giết_ngươi_1.json",
+    "chapter_name": "Chương 1316: Ba chiêu giết ngươi (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1316/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1317_Ba_chiêu_giết_ngươi_2.json",
+    "chapter_name": "Chương 1317: Ba chiêu giết ngươi (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1317/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1318_Đại_rút_lui.json",
+    "chapter_name": "Chương 1318: Đại rút lui",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1318/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1319_Thành_Minh_Nhân_tận_thế.json",
+    "chapter_name": "Chương 1319: Thành Minh Nhân tận thế",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1319/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1320_Thiên_hạ_chấn_động_1.json",
+    "chapter_name": "Chương 1320: Thiên hạ chấn động (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1320/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1321_Thiên_hạ_chấn_động_2.json",
+    "chapter_name": "Chương 1321: Thiên hạ chấn động (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1321/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1322_Hưng_sư_vấn_tội.json",
+    "chapter_name": "Chương 1322: Hưng sư vấn tội",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1322/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1323_Đăng_thiên_phong_1.json",
+    "chapter_name": "Chương 1323: Đăng thiên phong (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1323/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1324_Đăng_thiên_phong_2.json",
+    "chapter_name": "Chương 1324: Đăng thiên phong (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1324/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1325_Liên_minh_Nhân_tộc.json",
+    "chapter_name": "Chương 1325: Liên minh Nhân tộc",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1325/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1326_Tôn_Giả_mới.json",
+    "chapter_name": "Chương 1326: Tôn Giả mới",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1326/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1327_Tháp_thời_gian_1.json",
+    "chapter_name": "Chương 1327: Tháp thời gian (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1327/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1328_Tháp_thời_gian_2.json",
+    "chapter_name": "Chương 1328: Tháp thời gian (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1328/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1329_Máu_chảy_thành_sông.json",
+    "chapter_name": "Chương 1329: Máu chảy thành sông",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1329/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1330_Liên_thủ_kháng_địch.json",
+    "chapter_name": "Chương 1330: Liên thủ kháng địch",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1330/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1331_Trước_khi_đại_chiến_1.json",
+    "chapter_name": "Chương 1331: Trước khi đại chiến (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1331/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1332_Trước_khi_đại_chiến_2.json",
+    "chapter_name": "Chương 1332: Trước khi đại chiến (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1332/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1333_Tam_tộc_quyết_chiến.json",
+    "chapter_name": "Chương 1333: Tam tộc quyết chiến",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1333/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1334_Một_đường_đuổi_giết_1.json",
+    "chapter_name": "Chương 1334: Một đường đuổi giết (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1334/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1335_Một_đường_đuổi_giết_2.json",
+    "chapter_name": "Chương 1335: Một đường đuổi giết (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1335/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1336_Chân_tướng_rõ_ràng.json",
+    "chapter_name": "Chương 1336: Chân tướng rõ ràng",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1336/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1337_Thần_1.json",
+    "chapter_name": "Chương 1337: Thần! (1)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1337/"
+  },
+  {
+    "path": "data/Võ_Đạo_Đan_Tôn/Chương_1338_Thần_2.json",
+    "chapter_name": "Chương 1338: Thần! (2)",
+    "url": "https://truyenfull.io/vo-dao-dan-ton/chuong-1338/"
   }
 ]
