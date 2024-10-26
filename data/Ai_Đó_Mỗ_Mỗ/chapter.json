@@ -1,0 +1,577 @@
+[
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_1_Giang_Thiêm.json",
+    "chapter_name": "Chương 1: Giang Thiêm",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-1/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_2_Đả_kích.json",
+    "chapter_name": "Chương 2: Đả kích",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-2/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_3_Cuộc_thi.json",
+    "chapter_name": "Chương 3: Cuộc thi",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-3/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_4_Mục_tiêu_nhỏ.json",
+    "chapter_name": "Chương 4: Mục tiêu nhỏ",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-4/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_5_Chuyển_nhà.json",
+    "chapter_name": "Chương 5: Chuyển nhà",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-5/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_6_Bắt_người.json",
+    "chapter_name": "Chương 6: Bắt người",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-6/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_7_Giấy_nhớ.json",
+    "chapter_name": "Chương 7: Giấy nhớ",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-7/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_8_Lòng_dạ_hẹp_hòi.json",
+    "chapter_name": "Chương 8: Lòng dạ hẹp hòi",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-8/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_9_Ăn_cơm_không_trả_tiền.json",
+    "chapter_name": "Chương 9: Ăn cơm không trả tiền",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-9/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_10_Wechat.json",
+    "chapter_name": "Chương 10: Wechat",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-10/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_11_Bị_ốm.json",
+    "chapter_name": "Chương 11: Bị ốm",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-11/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_12_Hòa_hoãn.json",
+    "chapter_name": "Chương 12: Hòa hoãn",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-12/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_13_Đề_tiếng_Anh.json",
+    "chapter_name": "Chương 13: Đề tiếng Anh",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-13/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_14_Thống_nhất_khẩu_cung.json",
+    "chapter_name": "Chương 14: Thống nhất khẩu cung",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-14/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_15_Mách_lẻo.json",
+    "chapter_name": "Chương 15: Mách lẻo",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-15/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_16_Con_ma_men.json",
+    "chapter_name": "Chương 16: Con ma men",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-16/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_17_Nửa_câu.json",
+    "chapter_name": "Chương 17: Nửa câu",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-17/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_18_Kiểm_tra_bài_tập.json",
+    "chapter_name": "Chương 18: Kiểm tra bài tập",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-18/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_19_Tôi_sai_rồi.json",
+    "chapter_name": "Chương 19: Tôi sai rồi",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-19/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_20_Ôn_tập.json",
+    "chapter_name": "Chương 20: Ôn tập",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-20/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_21_Vở_tổng_kết.json",
+    "chapter_name": "Chương 21: Vở tổng kết",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-21/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_22_Cụ_Đinh.json",
+    "chapter_name": "Chương 22: Cụ Đinh",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-22/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_23_Phạt.json",
+    "chapter_name": "Chương 23: Phạt",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-23/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_24_Kinh_Trập_cuối_hè.json",
+    "chapter_name": "Chương 24: Kinh Trập cuối hè",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-24/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_25_Lật_thuyền.json",
+    "chapter_name": "Chương 25: Lật thuyền",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-25/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_26_Ra_mặt.json",
+    "chapter_name": "Chương 26: Ra mặt",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-26/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_27_Bức_cung.json",
+    "chapter_name": "Chương 27: Bức cung",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-27/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_28_Chán.json",
+    "chapter_name": "Chương 28: Chán",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-28/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_29_Điểm_thi.json",
+    "chapter_name": "Chương 29: Điểm thi",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-29/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_30_Đóng_cửa.json",
+    "chapter_name": "Chương 30: Đóng cửa",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-30/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_31_Thay_đổi.json",
+    "chapter_name": "Chương 31: Thay đổi",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-31/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_32_Vắng_họp.json",
+    "chapter_name": "Chương 32: Vắng họp",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-32/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_33_Ngông.json",
+    "chapter_name": "Chương 33: Ngông",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-33/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_34_Ngã_rẽ.json",
+    "chapter_name": "Chương 34: Ngã rẽ",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-34/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_35_Giám_sát.json",
+    "chapter_name": "Chương 35: Giám sát",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-35/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_36_Thơ_ấu.json",
+    "chapter_name": "Chương 36: Thơ ấu",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-36/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_37_Cư_trú.json",
+    "chapter_name": "Chương 37: Cư trú",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-37/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_38_Hiểu_lầm.json",
+    "chapter_name": "Chương 38: Hiểu lầm",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-38/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_39_Anh_em.json",
+    "chapter_name": "Chương 39: Anh em",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-39/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_40_Xưng_hô.json",
+    "chapter_name": "Chương 40: Xưng hô",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-40/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_41_Vinh_dự.json",
+    "chapter_name": "Chương 41: Vinh dự",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-41/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_42_Ngứa_đòn.json",
+    "chapter_name": "Chương 42: Ngứa đòn",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-42/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_43_Cược.json",
+    "chapter_name": "Chương 43: Cược",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-43/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_44_Người_lạ.json",
+    "chapter_name": "Chương 44: Người lạ",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-44/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_45_Bướng_như_lừa.json",
+    "chapter_name": "Chương 45: Bướng như lừa",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-45/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_46_Nghỉ_bệnh.json",
+    "chapter_name": "Chương 46: Nghỉ bệnh",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-46/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_47_Nhầm_đường.json",
+    "chapter_name": "Chương 47: Nhầm đường",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-47/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_48_Bàn_bạc.json",
+    "chapter_name": "Chương 48: Bàn bạc",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-48/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_49_Vi_diệu.json",
+    "chapter_name": "Chương 49: Vi diệu",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-49/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_50_Quấy_nhiễu.json",
+    "chapter_name": "Chương 50: Quấy nhiễu",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-50/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_51_Tên_trộm.json",
+    "chapter_name": "Chương 51: Tên trộm",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-51/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_52_Chuyển_lớp.json",
+    "chapter_name": "Chương 52: Chuyển lớp",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-52/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_53_Liên_hoan.json",
+    "chapter_name": "Chương 53: Liên hoan",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-53/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_54_Đường_tắt.json",
+    "chapter_name": "Chương 54: Đường tắt",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-54/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_55_Lật_lọng.json",
+    "chapter_name": "Chương 55: Lật lọng",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-55/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_56_Tác_động_mạnh.json",
+    "chapter_name": "Chương 56: Tác động mạnh",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-56/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_57_Xưng_hô.json",
+    "chapter_name": "Chương 57: Xưng hô",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-57/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_58_Lưu_đày.json",
+    "chapter_name": "Chương 58: Lưu đày",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-58/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_59_Chuyển_lớp.json",
+    "chapter_name": "Chương 59: Chuyển lớp",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-59/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_60_Dao_động.json",
+    "chapter_name": "Chương 60: Dao động",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-60/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-61/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-62/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-63/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-64/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-65/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-66/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-67/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-68/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-69/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-70/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-71/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-72/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-73/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-74/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-75/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-76/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-77/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-78/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-79/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-80/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-81/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-82/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-83/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-84/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-85/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-86/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-87/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-88/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-89/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-90/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-91/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-92/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-93/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-94/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-95/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-96/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-97/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-98/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-99/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-100/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-101/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-102/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-103/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-104/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-105/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-106/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-107/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-108/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_109.json",
+    "chapter_name": "Chương 109",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-109/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_110.json",
+    "chapter_name": "Chương 110",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-110/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-111/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_112.json",
+    "chapter_name": "Chương 112",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-112/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_113_Phiên_ngoại_Móc_khóa.json",
+    "chapter_name": "Chương 113: Phiên ngoại: Móc khóa",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-113/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_114_Tiểu_kịch_trường_1.json",
+    "chapter_name": "Chương 114: Tiểu kịch trường 1",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-114/"
+  },
+  {
+    "path": "data/Ai_Đó_Mỗ_Mỗ/Chương_115_Tiểu_kịch_trường_2.json",
+    "chapter_name": "Chương 115: Tiểu kịch trường 2",
+    "url": "https://truyenfull.io/ai-do-mo-mo/chuong-115/"
+  }
+]
