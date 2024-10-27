@@ -1,0 +1,757 @@
+[
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-1/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-2/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-3/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-4/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-5/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-6/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-7/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-8/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-9/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-10/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-11/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-12/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-13/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-14/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-15/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-16/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-17/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-18/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-19/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_20.json",
+    "chapter_name": "Chương 20",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-20/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_21.json",
+    "chapter_name": "Chương 21",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-21/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_22.json",
+    "chapter_name": "Chương 22",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-22/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_23.json",
+    "chapter_name": "Chương 23",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-23/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_24.json",
+    "chapter_name": "Chương 24",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-24/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_25.json",
+    "chapter_name": "Chương 25",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-25/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_26.json",
+    "chapter_name": "Chương 26",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-26/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_27.json",
+    "chapter_name": "Chương 27",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-27/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_28.json",
+    "chapter_name": "Chương 28",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-28/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_29.json",
+    "chapter_name": "Chương 29",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-29/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_30.json",
+    "chapter_name": "Chương 30",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-30/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_31.json",
+    "chapter_name": "Chương 31",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-31/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_32.json",
+    "chapter_name": "Chương 32",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-32/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_33.json",
+    "chapter_name": "Chương 33",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-33/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_34.json",
+    "chapter_name": "Chương 34",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-34/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_35.json",
+    "chapter_name": "Chương 35",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-35/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_36.json",
+    "chapter_name": "Chương 36",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-36/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_37.json",
+    "chapter_name": "Chương 37",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-37/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_38.json",
+    "chapter_name": "Chương 38",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-38/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_39.json",
+    "chapter_name": "Chương 39",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-39/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_40.json",
+    "chapter_name": "Chương 40",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-40/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_41.json",
+    "chapter_name": "Chương 41",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-41/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_42.json",
+    "chapter_name": "Chương 42",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-42/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_43.json",
+    "chapter_name": "Chương 43",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-43/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_44.json",
+    "chapter_name": "Chương 44",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-44/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_45.json",
+    "chapter_name": "Chương 45",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-45/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_46.json",
+    "chapter_name": "Chương 46",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-46/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_47.json",
+    "chapter_name": "Chương 47",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-47/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_48.json",
+    "chapter_name": "Chương 48",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-48/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-49/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_50.json",
+    "chapter_name": "Chương 50",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-50/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-51/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_52.json",
+    "chapter_name": "Chương 52",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-52/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_53.json",
+    "chapter_name": "Chương 53",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-53/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-54/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_55.json",
+    "chapter_name": "Chương 55",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-55/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_56.json",
+    "chapter_name": "Chương 56",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-56/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-57/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-58/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-59/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-60/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-61/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-62/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-63/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-64/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-65/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-66/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-67/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-68/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-69/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-70/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-71/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-72/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-73/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-74/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-75/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-76/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-77/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-78/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-79/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-80/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-81/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-82/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-83/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-84/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-85/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-86/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-87/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-88/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-89/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-90/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-91/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-92/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-93/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-94/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-95/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-96/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-97/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-98/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-99/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-100/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-101/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-102/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-103/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-104/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-105/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-106/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-107/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-108/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_109.json",
+    "chapter_name": "Chương 109",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-109/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_110.json",
+    "chapter_name": "Chương 110",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-110/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-111/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_112.json",
+    "chapter_name": "Chương 112",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-112/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_113.json",
+    "chapter_name": "Chương 113",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-113/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_114.json",
+    "chapter_name": "Chương 114",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-114/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_115.json",
+    "chapter_name": "Chương 115",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-115/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_116.json",
+    "chapter_name": "Chương 116",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-116/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_117.json",
+    "chapter_name": "Chương 117",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-117/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_118.json",
+    "chapter_name": "Chương 118",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-118/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_119.json",
+    "chapter_name": "Chương 119",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-119/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_120.json",
+    "chapter_name": "Chương 120",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-120/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_121.json",
+    "chapter_name": "Chương 121",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-121/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_122.json",
+    "chapter_name": "Chương 122",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-122/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_123.json",
+    "chapter_name": "Chương 123",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-123/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_124.json",
+    "chapter_name": "Chương 124",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-124/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_125.json",
+    "chapter_name": "Chương 125",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-125/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_126.json",
+    "chapter_name": "Chương 126",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-126/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_127.json",
+    "chapter_name": "Chương 127",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-127/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_128.json",
+    "chapter_name": "Chương 128",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-128/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_129.json",
+    "chapter_name": "Chương 129",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-129/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_130.json",
+    "chapter_name": "Chương 130",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-130/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_131.json",
+    "chapter_name": "Chương 131",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-131/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_132.json",
+    "chapter_name": "Chương 132",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-132/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_133.json",
+    "chapter_name": "Chương 133",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-133/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_134.json",
+    "chapter_name": "Chương 134",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-134/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_135.json",
+    "chapter_name": "Chương 135",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-135/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_136.json",
+    "chapter_name": "Chương 136",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-136/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_137.json",
+    "chapter_name": "Chương 137",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-137/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_138.json",
+    "chapter_name": "Chương 138",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-138/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_139.json",
+    "chapter_name": "Chương 139",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-139/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_140.json",
+    "chapter_name": "Chương 140",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-140/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_141.json",
+    "chapter_name": "Chương 141",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-141/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_142.json",
+    "chapter_name": "Chương 142",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-142/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_143.json",
+    "chapter_name": "Chương 143",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-143/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_144.json",
+    "chapter_name": "Chương 144",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-144/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_145.json",
+    "chapter_name": "Chương 145",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-145/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_146_Phiên_ngoại_1_Ba_năm_sau.json",
+    "chapter_name": "Chương 146: Phiên ngoại 1: Ba năm sau",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-146/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_147_Phiên_ngoại_2_Đây_là_ba_năm_sau.json",
+    "chapter_name": "Chương 147: Phiên ngoại 2: Đây là ba năm sau",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-147/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_148_Phiên_ngoại_3_Ây_da_vẫn_là_ba_năm_sau.json",
+    "chapter_name": "Chương 148: Phiên ngoại 3: Ây da vẫn là ba năm sau",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-148/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_149_Phiên_ngoại_4_Tốt_nghiệp.json",
+    "chapter_name": "Chương 149: Phiên ngoại 4: Tốt nghiệp",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-149/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_150_Phiên_ngoại_5_Đi_theo_ánh_sáng_1.json",
+    "chapter_name": "Chương 150: Phiên ngoại 5: Đi theo ánh sáng (1)",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-150/"
+  },
+  {
+    "path": "data/Ngang_Tàng_Tát_Dã/Chương_1502_Phiên_ngoại_5_Đi_theo_ánh_sáng_2.json",
+    "chapter_name": "Chương 150-2: Phiên ngoại 5: Đi theo ánh sáng (2)",
+    "url": "https://truyenfull.io/ngang-tang-tat-da/chuong-150-2/"
+  }
+]
