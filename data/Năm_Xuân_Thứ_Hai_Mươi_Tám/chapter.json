@@ -1,0 +1,472 @@
+[
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-1/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-2/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-3/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-4/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-5/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-6/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-7/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_8_Tối_thứ_bảy_này_có_rảnh_không.json",
+    "chapter_name": "Chương 8: “Tối thứ bảy này có rảnh không?”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-8/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_9_Hôm_nay_tôi_mới_biết_thì_ra_cô_thích_người_lớn_tuổi.json",
+    "chapter_name": "Chương 9: “Hôm nay tôi mới biết, thì ra cô thích người lớn tuổi.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-9/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_10_Thôi_đi_rõ_như_ban_ngày_mà_còn_vờ_vịt_cái_gì.json",
+    "chapter_name": "Chương 10: “Thôi đi, rõ như ban ngày mà còn vờ vịt cái gì.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-10/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_11_Ly_biệt_ái_tình.json",
+    "chapter_name": "Chương 11: Ly biệt ái tình",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-11/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_12_Lục_Hoài_Chinh_chỉ_mới_tạm_thời_quyết_định_coi_Vu_Hảo_như_bạn_gái_trước_mấy_giây_trước.json",
+    "chapter_name": "Chương 12: Lục Hoài Chinh chỉ mới tạm thời quyết định coi Vu Hảo như “bạn gái trước” mấy giây trước.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-12/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-13/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_14_Bác_sĩ_Vu_cô_cũng_có_thể_nghe_cái_này_à.json",
+    "chapter_name": "Chương 14: “Bác sĩ Vu, cô cũng có thể nghe cái này à?”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-14/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_15_Cô_Vu_Hảo_cô_thích_like_moment_của_tôi_quá_đó_nha.json",
+    "chapter_name": "Chương 15: Cô Vu Hảo, cô thích like moment của tôi quá đó nha",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-15/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_16_Lồng_ngực_Lục_Hoài_Chinh_tắc_nghẽn_anh_lấy_dũng_khí_kéo_xuống_xem_tiếp.json",
+    "chapter_name": "Chương 16: Lồng ngực Lục Hoài Chinh tắc nghẽn, anh lấy dũng khí kéo xuống xem tiếp",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-16/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_17_Bảo_vệ_nước_nhà_dũng_cảm_tiên_phong_thế_hệ_chúng_ta_phải_kiên_cường.json",
+    "chapter_name": "Chương 17: Bảo vệ nước nhà, dũng cảm tiên phong, thế hệ chúng ta phải kiên cường",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-17/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_18_Đảm_nhận_trọng_trách_lớn_lao_đưa_tiếng_thơm_bay_xa_muôn_đời_Một_lòng_tận_trung_với_cương_vị_sinh_ở_nơi_nào_ra_đi.json",
+    "chapter_name": "Chương 18: Đảm nhận trọng trách lớn lao, đưa tiếng thơm bay xa muôn đời. Một lòng tận trung với cương vị, sinh ở nơi nào ra đi",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-18/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_19_Tôi_nhớ_biển_số_xe_rồi_mai_tôi_sẽ_tìm_người_điều_tra_xem_rốt_cuộc_cậu_này_có_lai_lịch_thế_nào.json",
+    "chapter_name": "Chương 19: “Tôi nhớ biển số xe rồi, mai tôi sẽ tìm người điều tra xem rốt cuộc cậu này có lai lịch thế nào.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-19/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_20_Thế_giới_này_nguy_hiểm_hơn_cậu_tưởng_tượng_nhiều_nhưng_nó_cũng_tốt_lành_hơn_cậu_nghĩ_nhiều.json",
+    "chapter_name": "Chương 20: Thế giới này nguy hiểm hơn cậu tưởng tượng nhiều, nhưng nó cũng tốt lành hơn cậu nghĩ nhiều",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-20/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_21_Mang_trọng_trách_lớn_lao_đưa_tiếng_thơm_bay_xa.json",
+    "chapter_name": "Chương 21: Mang trọng trách lớn lao, đưa tiếng thơm bay xa",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-21/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_22_Nếu_còn_cảm_giác_vậy_cậu_do_dự_cái_gì_Theo_đuổi_mau.json",
+    "chapter_name": "Chương 22: Nếu còn cảm giác, vậy cậu do dự cái gì? Theo đuổi mau!",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-22/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_23_Hàm_én_cổ_hổ_bay_mà_ăn_thịt_thực_là_tướng_vạn_lý_phong_hầu.json",
+    "chapter_name": "Chương 23: Hàm én cổ hổ, bay mà ăn thịt, thực là tướng vạn lý phong hầu",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-23/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_24_Thực_ra_nếu_là_người_khác_thì_ai_tôi_cũng_dám_duy_chỉ_có_cô_ấy_là_không.json",
+    "chapter_name": "Chương 24: Thực ra nếu là người khác thì ai tôi cũng dám, duy chỉ có cô ấy là không",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-24/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_25_Không_phải_chỉ_có_đứa_trẻ_vì_sao_mới_có_thể_cầu_nguyện_bất_kể_cậu_cầu_nguyện_điều_gì_sẽ_có_một_người_li.json",
+    "chapter_name": "Chương 25: Không phải chỉ có đứa trẻ vì sao mới có thể cầu nguyện, bất kể cậu cầu nguyện điều gì, sẽ có một người li�",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-25/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_26_Hành_lang_dài_một_tấc_tương_tư_mười_năm_vẫn_hoài_một_tấm_lòng.json",
+    "chapter_name": "Chương 26: Hành lang dài một tấc tương tư, mười năm vẫn hoài một tấm lòng",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-26/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_27_Sai_rồi_Lục_Hoài_Chinh_sửa_lại_Không_phải_dỗ_con_gái_mà_là_dỗ_em.json",
+    "chapter_name": "Chương 27: “Sai rồi.” Lục Hoài Chinh sửa lại, “Không phải dỗ con gái, mà là dỗ em.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-27/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_28_Sau_này_trong_nhà_có_một_người_biết_gói_là_đủ_rồi.json",
+    "chapter_name": "Chương 28: “Sau này trong nhà có một người biết gói là đủ rồi.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-28/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_29_Lục_Hoài_Chinh_luôn_cảm_thấy_anh_nguyện_ý_vì_cô_thì_đó_cũng_chỉ_là_một_phía_bên_anh_còn_cô_hẳn_là_cần_tự_do.json",
+    "chapter_name": "Chương 29: Lục Hoài Chinh luôn cảm thấy, anh nguyện ý vì cô thì đó cũng chỉ là một phía bên anh, còn cô, hẳn là cần tự do",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-29/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_30_Non_sông_bất_khuất.json",
+    "chapter_name": "Chương 30: Non sông bất khuất",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-30/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_31_Có_phải_thích_ngửi_mùi_son_không.json",
+    "chapter_name": "Chương 31: “Có phải thích ngửi mùi son không?!”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-31/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_32_Không_được_bác_sĩ_Tiểu_Vu_của_cậu_xấu_hổ_có_mấy_lời_tôi_tự_nói_riêng_với_cô_ấy_là_đủ.json",
+    "chapter_name": "Chương 32: “Không được, bác sĩ Tiểu Vu của cậu xấu hổ, có mấy lời, tôi tự nói riêng với cô ấy là đủ.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-32/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_33_Nam_triều_nồng_sắc_xuân_mấy_độ_lầu_mưa_gió_Tháng_3_năm_2014_không_thể_nổ_súng_bình_thường_phải_huấn_luyện_thể.json",
+    "chapter_name": "Chương 33: Nam triều nồng sắc xuân, mấy độ lầu mưa gió - Tháng 3 năm 2014, không thể nổ súng bình thường, phải huấn luyện thể",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-33/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_34.json",
+    "chapter_name": "Chương 34",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-34/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_35_Anh_cũng_rất_nhớ_em_Rất_rất_nhớ.json",
+    "chapter_name": "Chương 35: “Anh cũng rất nhớ em. Rất rất nhớ.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-35/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_36.json",
+    "chapter_name": "Chương 36",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-36/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_37.json",
+    "chapter_name": "Chương 37",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-37/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_38.json",
+    "chapter_name": "Chương 38",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-38/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_39_Em_có_manh_mối_mới.json",
+    "chapter_name": "Chương 39: Em có manh mối mới",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-39/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_40_Hẳn_bây_giờ_hắn_ta_đang_ở_ngoài_hội_trường_này.json",
+    "chapter_name": "Chương 40: “Hẳn bây giờ hắn ta đang ở ngoài hội trường này.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-40/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_41_Nếu_không_phải_thì_chúng_ta_kết_hôn_nhé_có_được_không.json",
+    "chapter_name": "Chương 41: Nếu không phải thì chúng ta kết hôn nhé, có được không?",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-41/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_42_Thẩm_Hi_Nguyên_anh_ấy_đến_Vân_Nam_nghiên_cứu_giáo_sư_Hàn_nhờ_anh_ấy_đem_vài_thứ_đến.json",
+    "chapter_name": "Chương 42: “Thẩm Hi Nguyên, anh ấy đến Vân Nam nghiên cứu, giáo sư Hàn nhờ anh ấy đem vài thứ đến.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-42/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_43_Tác_thành_Người_của_tôi_anh_ta_dám_tiếp_ư.json",
+    "chapter_name": "Chương 43: Tác thành? Người của tôi, anh ta dám tiếp ư?”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-43/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_44.json",
+    "chapter_name": "Chương 44",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-44/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_45.json",
+    "chapter_name": "Chương 45",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-45/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_46.json",
+    "chapter_name": "Chương 46",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-46/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_47.json",
+    "chapter_name": "Chương 47",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-47/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_48.json",
+    "chapter_name": "Chương 48",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-48/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-49/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_50_Cãi_nhau_với_Gia_Miện_rồi_không_về_bên_kia_nữa_thu_nhận_anh_có_được_không.json",
+    "chapter_name": "Chương 50: “Cãi nhau với Gia Miện rồi, không về bên kia nữa, thu nhận anh có được không?”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-50/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_51_Đây_là_trách_nhiệm_của_anh.json",
+    "chapter_name": "Chương 51: Đây là trách nhiệm của anh",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-51/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_52.json",
+    "chapter_name": "Chương 52",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-52/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_53.json",
+    "chapter_name": "Chương 53",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-53/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_54_Dám_sai_cả_người_của_anh.json",
+    "chapter_name": "Chương 54: “Dám sai cả người của anh!”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-54/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_55_Không_tin_anh_có_thể_cho_người_điều_tra_thử_đừng_để_mầm_bệnh_này_làm_hại_cháu_anh.json",
+    "chapter_name": "Chương 55: Không tin anh có thể cho người điều tra thử, đừng để mầm bệnh này làm hại cháu anh",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-55/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_56_Là_lỗi_của_anh_ta.json",
+    "chapter_name": "Chương 56: Là lỗi của anh ta",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-56/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_57_Điều_khiến_Lục_Hoài_Chinh_chẳng_ngờ_là_Vu_Hảo_sẽ_đưa_ra_yêu_cầu_này.json",
+    "chapter_name": "Chương 57: Điều khiến Lục Hoài Chinh chẳng ngờ là, Vu Hảo sẽ đưa ra yêu cầu này!",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-57/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-58/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_59_Bạn_gái_tôi_còn_ngồi_bên_ngoài_kìa_vất_vả_lắm_mới_theo_đuổi_được.json",
+    "chapter_name": "Chương 59: Bạn gái tôi còn ngồi bên ngoài kìa, vất vả lắm mới theo đuổi được",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-59/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-60/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_61_Vu_Hảo_em_đang_làm_gì_đấy_hả.json",
+    "chapter_name": "Chương 61: Vu Hảo, em đang làm gì đấy hả?",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-61/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_62_Ngày_mai_phải_đi_Tuslan_rồi_chưa_biết_ngày_nào_về_lãnh_đạo_bảo_anh_về_sắp_xếp_ổn_định_với_người_nhà.json",
+    "chapter_name": "Chương 62: “Ngày mai phải đi Tuslan rồi, chưa biết ngày nào về, lãnh đạo bảo anh về sắp xếp ổn định với người nhà.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-62/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_63_Ồ_thì_ra_là_sấm_to_mưa_nhỏ.json",
+    "chapter_name": "Chương 63: Ồ, thì ra là sấm to mưa nhỏ",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-63/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_64_Núi_xanh_cách_hai_bờ_nguyện_người_sống_bình_an_Em_đã_gia_nhập_Liên_Minh_Quân_Tẩu_rồi.json",
+    "chapter_name": "Chương 64: Núi xanh cách hai bờ, nguyện người sống bình an - Em đã gia nhập Liên Minh Quân Tẩu rồi!",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-64/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_65_Có_chồng_làm_chỗ_dựa_cho_em.json",
+    "chapter_name": "Chương 65: Có chồng làm chỗ dựa cho em",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-65/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_66_Vui_như_sao_xa_lửa_bắn_khắp_nơi_đùng_đùng_đoàng_đoàng_như_muốn_thiêu_đốt_với_anh_ấy_vậy.json",
+    "chapter_name": "Chương 66: Vui như sao xa, lửa bắn khắp nơi, đùng đùng đoàng đoàng, như muốn thiêu đốt với anh ấy vậy",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-66/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_67_Chồng_mới_cưới_đã_hơn_một_tháng_không_liên_lạc_gì_có_thể_ly_hôn_không.json",
+    "chapter_name": "Chương 67: Chồng mới cưới đã hơn một tháng không liên lạc gì, có thể ly hôn không?",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-67/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_68_Ôi_chao_chị_ơi_mau_ngậm_miệng_đi.json",
+    "chapter_name": "Chương 68: Ôi chao chị ơi mau ngậm miệng đi!",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-68/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-69/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_70_Anh_yêu_em_Vu_Hảo_đây_chính_là_tư_tâm_của_anh_còn_cần_anh_phải_nói_rõ_nữa_sao.json",
+    "chapter_name": "Chương 70: “Anh yêu em, Vu Hảo, đây chính là tư tâm của anh, còn cần anh phải nói rõ nữa sao?”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-70/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_71_Đội_trưởng_à_tối_nay_anh_có_vẻ_lạ_quá.json",
+    "chapter_name": "Chương 71: “Đội trưởng à, tối nay anh có vẻ lạ quá.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-71/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_72_Đồng_chí_Vu_Hảo_hôm_nay_chúng_ta_phải_làm_việc_thật_tốt.json",
+    "chapter_name": "Chương 72: Đồng chí Vu Hảo, hôm nay chúng ta phải làm việc thật tốt",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-72/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-73/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_74_Đầu_tiên_đón_người_vào_ở_tranh_thủ_sinh_con_để_đánh_vào_hậu_doanh_của_bên_địch.json",
+    "chapter_name": "Chương 74: Đầu tiên đón người vào ở, tranh thủ sinh con để đánh vào hậu doanh của bên địch",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-74/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_75_Dịu_dàng_mộng_anh_hùng_không_quên_này_non_sông.json",
+    "chapter_name": "Chương 75: Dịu dàng mộng anh hùng, không quên này non sông",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-75/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-76/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_77_Cậu_đừng_gọi_tôi_là_mẹ_nghe_sợ_lắm.json",
+    "chapter_name": "Chương 77: “Cậu đừng gọi tôi là mẹ, nghe sợ lắm.”",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-77/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-78/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_79_Giương_cao_quốc_uy.json",
+    "chapter_name": "Chương 79: Giương cao quốc uy!",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-79/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_80_Là_bài_quốc_ca_đầy_đanh_thép_và_trong_trẻo_nhất_Tôn_Khải_từng_nghe.json",
+    "chapter_name": "Chương 80: Là bài quốc ca đầy đanh thép và trong trẻo nhất Tôn Khải từng nghe",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-80/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-81/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_82_Trong_nháy_mắt_đó_Lục_Hoài_Chinh_như_nghe_thấy_tiếng_lá_thu_ngoài_cửa_sổ_rơi_xuống_mặt_đất_lạnh_lẽo_làm_sao.json",
+    "chapter_name": "Chương 82: Trong nháy mắt đó, Lục Hoài Chinh như nghe thấy tiếng lá thu ngoài cửa sổ rơi xuống mặt đất, lạnh lẽo làm sao",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-82/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-83/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-84/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_85_Ngoại_truyện_Triệu_Đại_Lâm_1.json",
+    "chapter_name": "Chương 85: Ngoại truyện Triệu Đại Lâm (1)",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-85/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_86_Ngoại_truyện_Triệu_Đại_Lâm_2.json",
+    "chapter_name": "Chương 86: Ngoại truyện Triệu Đại Lâm (2)",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-86/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_87_Ngoại_truyện_Triệu_Đại_Lâm_3.json",
+    "chapter_name": "Chương 87: Ngoại truyện Triệu Đại Lâm (3)",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-87/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_88_Ngoại_truyện_Triệu_Đại_Lâm_4.json",
+    "chapter_name": "Chương 88: Ngoại truyện Triệu Đại Lâm (4)",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-88/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_89_Ngoại_truyện_Triệu_Đại_Lâm_5.json",
+    "chapter_name": "Chương 89: Ngoại truyện Triệu Đại Lâm (5)",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-89/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_90_Tổng_hợp_các_mẩu_ngoại_truyện.json",
+    "chapter_name": "Chương 90: Tổng hợp các mẩu ngoại truyện",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-90/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_91_Ngoại_truyện_2.json",
+    "chapter_name": "Chương 91: Ngoại truyện 2",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-91/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_92_Ngoại_truyện_3.json",
+    "chapter_name": "Chương 92: Ngoại truyện 3",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-92/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_93_Ngoại_truyện_4_Thanh_xuân_không_phụ_cảnh_sắc_tươi_đẹp.json",
+    "chapter_name": "Chương 93: Ngoại truyện (4): Thanh xuân không phụ cảnh sắc tươi đẹp",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-93/"
+  },
+  {
+    "path": "data/Năm_Xuân_Thứ_Hai_Mươi_Tám/Chương_94_Ngoại_truyện_nhỏ.json",
+    "chapter_name": "Chương 94: Ngoại truyện nhỏ",
+    "url": "https://truyenfull.io/nam-xuan-thu-hai-muoi-tam/chuong-94/"
+  }
+]
