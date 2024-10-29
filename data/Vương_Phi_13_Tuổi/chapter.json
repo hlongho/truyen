@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_1_Xuyên_qua.json",
+    "chapter_name": "Chương 1: Xuyên qua",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-1/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_2_Lưu_Nguyệt.json",
+    "chapter_name": "Chương 2: Lưu Nguyệt",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-2/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_3_Tuyệt_sắc.json",
+    "chapter_name": "Chương 3: Tuyệt sắc",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-3/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_4_Đại_Thọ.json",
+    "chapter_name": "Chương 4: Đại Thọ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-4/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_5_Quy_Cũ.json",
+    "chapter_name": "Chương 5: Quy Cũ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-5/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_6_Cái_gì_vậy.json",
+    "chapter_name": "Chương 6: Cái gì vậy",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-6/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_7_Yêu_nghiệt.json",
+    "chapter_name": "Chương 7: Yêu nghiệt",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-7/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_8_Người_tới.json",
+    "chapter_name": "Chương 8: Người tới",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-8/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_9_Ai_sợ_ai.json",
+    "chapter_name": "Chương 9: Ai sợ ai?",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-9/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_10_Không_phải_dễ_dàng_khi_dễ.json",
+    "chapter_name": "Chương 10: Không phải dễ dàng khi dễ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-10/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_11_Tỉ_thí.json",
+    "chapter_name": "Chương 11: Tỉ thí",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-11/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_12_Vũ_lực.json",
+    "chapter_name": "Chương 12: Vũ lực",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-12/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_13_Đồ_bỏ_đi.json",
+    "chapter_name": "Chương 13: Đồ bỏ đi",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-13/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_14_Hàm_ngư_trở_mình.json",
+    "chapter_name": "Chương 14: Hàm ngư trở mình",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-14/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_15_Thánh_chỉ.json",
+    "chapter_name": "Chương 15: Thánh chỉ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-15/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_16_Tứ_hôn.json",
+    "chapter_name": "Chương 16: Tứ hôn",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-16/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_17_Đánh_nhau_trong_phòng_tắm_1.json",
+    "chapter_name": "Chương 17: Đánh nhau trong phòng tắm (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-17/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_18_Đánh_nhau_trong_phòng_tắm_2.json",
+    "chapter_name": "Chương 18: Đánh nhau trong phòng tắm (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-18/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_19_Đánh_nhau_trong_phòng_tắm_3.json",
+    "chapter_name": "Chương 19: Đánh nhau trong phòng tắm (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-19/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_20_Đánh_nhau_trong_phòng_tắm_4.json",
+    "chapter_name": "Chương 20: Đánh nhau trong phòng tắm (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-20/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_21_Ngươi_là_của_ta.json",
+    "chapter_name": "Chương 21: Ngươi là của ta",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-21/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_22_Khôi_phục_công_phu.json",
+    "chapter_name": "Chương 22: Khôi phục công phu",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-22/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_23_Ván_bài.json",
+    "chapter_name": "Chương 23: Ván bài",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-23/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_24_Ba_đánh_một.json",
+    "chapter_name": "Chương 24: Ba đánh một",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-24/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_25_Nào_ta_cùng_đổ.json",
+    "chapter_name": "Chương 25: Nào ta cùng đổ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-25/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_26_Tiền_cược_kinh_thiên.json",
+    "chapter_name": "Chương 26: Tiền cược kinh thiên",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-26/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_27_Ai_sợ_ai.json",
+    "chapter_name": "Chương 27: Ai sợ ai",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-27/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_28_Định_Càn_Khôn.json",
+    "chapter_name": "Chương 28: Định Càn Khôn",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-28/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_29_Tức_hộc_máu.json",
+    "chapter_name": "Chương 29: Tức hộc máu",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-29/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_30_Nụ_hôn_đầu_tiên.json",
+    "chapter_name": "Chương 30: Nụ hôn đầu tiên",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-30/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_31_Ta_là_thiên_tài.json",
+    "chapter_name": "Chương 31: Ta là thiên tài",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-31/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_32_Hồng_Môn_Yến.json",
+    "chapter_name": "Chương 32: Hồng Môn Yến",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-32/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_33_Hậu_cung_song_hùng.json",
+    "chapter_name": "Chương 33: Hậu cung song hùng",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-33/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_34_Hạ_độc.json",
+    "chapter_name": "Chương 34: Hạ độc",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-34/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_35_Độc_thần_kinh.json",
+    "chapter_name": "Chương 35: Độc thần kinh",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-35/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_36_Lo_lắng.json",
+    "chapter_name": "Chương 36: Lo lắng",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-36/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_37_Hùng_ưng.json",
+    "chapter_name": "Chương 37: Hùng ưng",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-37/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_38_Tự_gánh_hậu_quả.json",
+    "chapter_name": "Chương 38: Tự gánh hậu quả",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-38/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_39_Thủ_đoạn.json",
+    "chapter_name": "Chương 39: Thủ đoạn",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-39/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_40_Thánh_vật.json",
+    "chapter_name": "Chương 40: Thánh vật",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-40/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_41_Ai_tấn_công_người_của_nàng.json",
+    "chapter_name": "Chương 41: Ai ‘tấn công’ người của nàng",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-41/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_42_Tình_địch.json",
+    "chapter_name": "Chương 42: Tình địch",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-42/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_43_Khi_dễ.json",
+    "chapter_name": "Chương 43: Khi dễ",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-43/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_44_Hảo.json",
+    "chapter_name": "Chương 44: Hảo",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-44/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_45_Khởi_binh_vấn_tội_1.json",
+    "chapter_name": "Chương 45: Khởi binh vấn tội (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-45/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_46_Khởi_binh_vấn_tội_2.json",
+    "chapter_name": "Chương 46: Khởi binh vấn tội (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-46/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_47_Khởi_binh_vấn_tội_3.json",
+    "chapter_name": "Chương 47: Khởi binh vấn tội (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-47/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_48_Khởi_binh_vấn_tội_4.json",
+    "chapter_name": "Chương 48: Khởi binh vấn tội (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-48/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_49_Khởi_binh_vấn_tội_5.json",
+    "chapter_name": "Chương 49: Khởi binh vấn tội (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-49/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_50_Khởi_binh_vấn_tội_6.json",
+    "chapter_name": "Chương 50: Khởi binh vấn tội (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-50/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_51_Khởi_binh_vấn_tội_7.json",
+    "chapter_name": "Chương 51: Khởi binh vấn tội (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-51/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_52_Khởi_binh_vấn_tội_8.json",
+    "chapter_name": "Chương 52: Khởi binh vấn tội (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-52/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_53_Khởi_binh_vấn_tội_9.json",
+    "chapter_name": "Chương 53: Khởi binh vấn tội (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-53/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_54_Khởi_binh_vấn_tội_10.json",
+    "chapter_name": "Chương 54: Khởi binh vấn tội (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-54/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_55_Khởi_binh_vấn_tội_11.json",
+    "chapter_name": "Chương 55: Khởi binh vấn tội (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-55/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_56_Khởi_binh_vấn_tội_12.json",
+    "chapter_name": "Chương 56: Khởi binh vấn tội (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-56/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_57_Khởi_binh_vấn_tội_13.json",
+    "chapter_name": "Chương 57: Khởi binh vấn tội (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-57/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_58_Khởi_binh_vấn_tội_14.json",
+    "chapter_name": "Chương 58: Khởi binh vấn tội (14)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-58/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_59_Khởi_binh_vấn_tội_15.json",
+    "chapter_name": "Chương 59: Khởi binh vấn tội (15)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-59/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_60_Khởi_binh_vấn_tội_16.json",
+    "chapter_name": "Chương 60: Khởi binh vấn tội (16)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-60/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_61_Cường_giả_vi_tôn_1.json",
+    "chapter_name": "Chương 61: Cường giả vi tôn (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-61/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_62_Cường_giả_vi_tôn_2.json",
+    "chapter_name": "Chương 62: Cường giả vi tôn (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-62/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_63_Cường_giả_vi_tôn_3.json",
+    "chapter_name": "Chương 63: Cường giả vi tôn (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-63/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_64_Cường_giả_vi_tôn_4.json",
+    "chapter_name": "Chương 64: Cường giả vi tôn (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-64/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_65_Cường_giả_vi_tôn_5.json",
+    "chapter_name": "Chương 65: Cường giả vi tôn (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-65/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_66_Cường_giả_vi_tôn_6.json",
+    "chapter_name": "Chương 66: Cường giả vi tôn (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-66/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_67_Cường_giả_vi_tôn_7.json",
+    "chapter_name": "Chương 67: Cường giả vi tôn (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-67/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_68_Cường_giả_vi_tôn_8.json",
+    "chapter_name": "Chương 68: Cường giả vi tôn (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-68/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_69_Lai_giả_bất_thiện_1.json",
+    "chapter_name": "Chương 69: Lai giả bất thiện (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-69/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_70_Lai_giả_bất_thiện_2.json",
+    "chapter_name": "Chương 70: Lai giả bất thiện (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-70/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_71_Lai_giả_bất_thiện_3.json",
+    "chapter_name": "Chương 71: Lai giả bất thiện (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-71/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_72_Lai_giả_bất_thiện_4.json",
+    "chapter_name": "Chương 72: Lai giả bất thiện (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-72/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_73_Lai_giả_bất_thiện_5.json",
+    "chapter_name": "Chương 73: Lai giả bất thiện (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-73/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_74_Lai_giả_bất_thiện_6.json",
+    "chapter_name": "Chương 74: Lai giả bất thiện (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-74/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_75_Lai_giả_bất_thiện_7.json",
+    "chapter_name": "Chương 75: Lai giả bất thiện (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-75/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_76_Lai_giả_bất_thiện_8.json",
+    "chapter_name": "Chương 76: Lai giả bất thiện (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-76/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_77_Loạn_chi_khởi_1.json",
+    "chapter_name": "Chương 77: Loạn chi khởi (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-77/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_78_Loạn_chi_khởi_2.json",
+    "chapter_name": "Chương 78: Loạn chi khởi (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-78/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_79_Loạn_chi_khởi_3.json",
+    "chapter_name": "Chương 79: Loạn chi khởi (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-79/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_80_Loạn_chi_khởi_4.json",
+    "chapter_name": "Chương 80: Loạn chi khởi (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-80/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_81_Loạn_chi_khởi_5.json",
+    "chapter_name": "Chương 81: Loạn chi khởi (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-81/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_82_Loạn_chi_khởi_6.json",
+    "chapter_name": "Chương 82: Loạn chi khởi (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-82/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_83_Loạn_chi_khởi_7.json",
+    "chapter_name": "Chương 83: Loạn chi khởi (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-83/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_84_Loạn_chi_khởi_8.json",
+    "chapter_name": "Chương 84: Loạn chi khởi (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-84/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_85_Phong_vân_trở_mình_1.json",
+    "chapter_name": "Chương 85: Phong vân trở mình (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-85/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_86_Phong_vân_trở_mình_2.json",
+    "chapter_name": "Chương 86: Phong vân trở mình (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-86/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_87_Phong_vân_trở_mình_3.json",
+    "chapter_name": "Chương 87: Phong vân trở mình (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-87/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_88_Phong_vân_trở_mình_4.json",
+    "chapter_name": "Chương 88: Phong vân trở mình (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-88/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_89_Phong_vân_trở_mình_5.json",
+    "chapter_name": "Chương 89: Phong vân trở mình (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-89/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_90_Phong_vân_trở_mình_6.json",
+    "chapter_name": "Chương 90: Phong vân trở mình (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-90/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_91_Phong_vân_trở_mình_7.json",
+    "chapter_name": "Chương 91: Phong vân trở mình (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-91/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_92_Phong_vân_trở_mình_8.json",
+    "chapter_name": "Chương 92: Phong vân trở mình (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-92/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_93_Thật_mạnh_nguy_cơ_1.json",
+    "chapter_name": "Chương 93: Thật mạnh nguy cơ (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-93/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_94_Thật_mạnh_nguy_cơ_2.json",
+    "chapter_name": "Chương 94: Thật mạnh nguy cơ (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-94/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_95_Thật_mạnh_nguy_cơ_3.json",
+    "chapter_name": "Chương 95: Thật mạnh nguy cơ (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-95/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_96_Thật_mạnh_nguy_cơ_4.json",
+    "chapter_name": "Chương 96: Thật mạnh nguy cơ (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-96/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_97_Thật_mạnh_nguy_cơ_5.json",
+    "chapter_name": "Chương 97: Thật mạnh nguy cơ (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-97/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_98_Thật_mạnh_nguy_cơ_6.json",
+    "chapter_name": "Chương 98: Thật mạnh nguy cơ (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-98/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_99_Thật_mạnh_nguy_cơ_7.json",
+    "chapter_name": "Chương 99: Thật mạnh nguy cơ (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-99/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_100_Thật_mạnh_nguy_cơ_8.json",
+    "chapter_name": "Chương 100: Thật mạnh nguy cơ (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-100/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_101_Gió_thổi_mây_phun_1.json",
+    "chapter_name": "Chương 101: Gió thổi mây phun (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-101/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_102_Gió_thổi_mây_phun_2.json",
+    "chapter_name": "Chương 102: Gió thổi mây phun (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-102/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_103_Gió_thổi_mây_phun_3.json",
+    "chapter_name": "Chương 103: Gió thổi mây phun (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-103/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_104_Gió_thổi_mây_phun_4.json",
+    "chapter_name": "Chương 104: Gió thổi mây phun (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-104/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_105_Gió_thổi_mây_phun_5.json",
+    "chapter_name": "Chương 105: Gió thổi mây phun (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-105/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_106_Gió_thổi_mây_phun_6.json",
+    "chapter_name": "Chương 106: Gió thổi mây phun (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-106/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_107_Gió_thổi_mây_phun_7.json",
+    "chapter_name": "Chương 107: Gió thổi mây phun (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-107/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_108_Gió_thổi_mây_phun_8.json",
+    "chapter_name": "Chương 108: Gió thổi mây phun (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-108/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_109_Gió_thổi_mây_phun_9.json",
+    "chapter_name": "Chương 109: Gió thổi mây phun (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-109/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_110_Gió_thổi_mây_phun_10.json",
+    "chapter_name": "Chương 110: Gió thổi mây phun (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-110/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_111_Gió_thổi_mây_phun_11.json",
+    "chapter_name": "Chương 111: Gió thổi mây phun (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-111/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_112_Gió_thổi_mây_phun_12.json",
+    "chapter_name": "Chương 112: Gió thổi mây phun (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-112/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_113_Gió_thổi_mây_phun_13.json",
+    "chapter_name": "Chương 113: Gió thổi mây phun (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-113/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_114_Gió_thổi_mây_phun_14.json",
+    "chapter_name": "Chương 114: Gió thổi mây phun (14)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-114/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_115_Gió_thổi_mây_phun_15.json",
+    "chapter_name": "Chương 115: Gió thổi mây phun (15)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-115/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_116_Gió_thổi_mây_phun_16.json",
+    "chapter_name": "Chương 116: Gió thổi mây phun (16)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-116/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_117_Gió_thổi_mây_phun_17.json",
+    "chapter_name": "Chương 117: Gió thổi mây phun (17)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-117/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_118_Gió_thổi_mây_phun_18.json",
+    "chapter_name": "Chương 118: Gió thổi mây phun (18)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-118/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_119_Gió_thổi_mây_phun_19.json",
+    "chapter_name": "Chương 119: Gió thổi mây phun (19)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-119/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_120_Gió_thổi_mây_phun_20.json",
+    "chapter_name": "Chương 120: Gió thổi mây phun (20)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-120/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_121_Gió_thổi_mây_phun_21.json",
+    "chapter_name": "Chương 121: Gió thổi mây phun (21)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-121/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_122_Gió_thổi_mây_phun_22.json",
+    "chapter_name": "Chương 122: Gió thổi mây phun (22)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-122/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_123_Gió_thổi_mây_phun_23.json",
+    "chapter_name": "Chương 123: Gió thổi mây phun (23)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-123/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_124_Gió_thổi_mây_phun_24.json",
+    "chapter_name": "Chương 124: Gió thổi mây phun (24)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-124/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_125_Tâm_lâm_vào_chiến_1.json",
+    "chapter_name": "Chương 125: Tâm lâm vào chiến (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-125/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_126_Tâm_lâm_vào_chiến_2.json",
+    "chapter_name": "Chương 126: Tâm lâm vào chiến (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-126/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_127_Tâm_lâm_vào_chiến_3.json",
+    "chapter_name": "Chương 127: Tâm lâm vào chiến (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-127/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_128_Tâm_lâm_vào_chiến_4.json",
+    "chapter_name": "Chương 128: Tâm lâm vào chiến (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-128/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_129_Tâm_lâm_vào_chiến_5.json",
+    "chapter_name": "Chương 129: Tâm lâm vào chiến (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-129/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_130_Tâm_lâm_vào_chiến_6.json",
+    "chapter_name": "Chương 130: Tâm lâm vào chiến (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-130/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_131_Tâm_lâm_vào_chiến_7.json",
+    "chapter_name": "Chương 131: Tâm lâm vào chiến (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-131/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_132_Tâm_lâm_vào_chiến_8.json",
+    "chapter_name": "Chương 132: Tâm lâm vào chiến (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-132/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_133_Tâm_lâm_vào_chiến_9.json",
+    "chapter_name": "Chương 133: Tâm lâm vào chiến (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-133/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_134_Tâm_lâm_vào_chiến_10.json",
+    "chapter_name": "Chương 134: Tâm lâm vào chiến (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-134/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_135_Nợ_máu_phải_trả_bằng_máu_1.json",
+    "chapter_name": "Chương 135: Nợ máu phải trả bằng máu (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-135/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_136_Nợ_máu_phải_trả_bằng_máu_2.json",
+    "chapter_name": "Chương 136: Nợ máu phải trả bằng máu (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-136/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_137_Nợ_máu_phải_trả_bằng_máu_3.json",
+    "chapter_name": "Chương 137: Nợ máu phải trả bằng máu (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-137/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_138_Nợ_máu_phải_trả_bằng_máu_4.json",
+    "chapter_name": "Chương 138: Nợ máu phải trả bằng máu (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-138/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_139_Nợ_máu_phải_trả_bằng_máu_5.json",
+    "chapter_name": "Chương 139: Nợ máu phải trả bằng máu (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-139/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_140_Nợ_máu_phải_trả_bằng_máu_6.json",
+    "chapter_name": "Chương 140: Nợ máu phải trả bằng máu (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-140/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_141_Nợ_máu_phải_trả_bằng_máu_7.json",
+    "chapter_name": "Chương 141: Nợ máu phải trả bằng máu (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-141/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_142_Nợ_máu_phải_trả_bằng_máu_8.json",
+    "chapter_name": "Chương 142: Nợ máu phải trả bằng máu (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-142/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_143_Nợ_máu_phải_trả_bằng_máu_9.json",
+    "chapter_name": "Chương 143: Nợ máu phải trả bằng máu (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-143/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_144_Nợ_máu_phải_trả_bằng_máu_10.json",
+    "chapter_name": "Chương 144: Nợ máu phải trả bằng máu (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-144/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_145_Phong_vân_tái_khởi_1.json",
+    "chapter_name": "Chương 145: Phong vân tái khởi (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-145/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_146_Phong_vân_tái_khởi_2.json",
+    "chapter_name": "Chương 146: Phong vân tái khởi (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-146/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_147_Phong_vân_tái_khởi_3.json",
+    "chapter_name": "Chương 147: Phong vân tái khởi (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-147/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_148_Phong_vân_tái_khởi_4.json",
+    "chapter_name": "Chương 148: Phong vân tái khởi (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-148/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_149_Phong_vân_tái_khởi_5.json",
+    "chapter_name": "Chương 149: Phong vân tái khởi (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-149/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_150_Phong_vân_tái_khởi_6.json",
+    "chapter_name": "Chương 150: Phong vân tái khởi (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-150/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_151_Phong_vân_tái_khởi_7.json",
+    "chapter_name": "Chương 151: Phong vân tái khởi (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-151/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_152_Phong_vân_tái_khởi_8.json",
+    "chapter_name": "Chương 152: Phong vân tái khởi (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-152/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_153_Phong_vân_tái_khởi_9.json",
+    "chapter_name": "Chương 153: Phong vân tái khởi (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-153/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_154_Phong_vân_tái_khởi_10.json",
+    "chapter_name": "Chương 154: Phong vân tái khởi (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-154/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_155_Phong_vân_tái_khởi_11.json",
+    "chapter_name": "Chương 155: Phong vân tái khởi (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-155/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_156_Võ_lâm_đại_hội_1.json",
+    "chapter_name": "Chương 156: Võ lâm đại hội (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-156/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_157_Võ_lâm_đại_hội_2.json",
+    "chapter_name": "Chương 157: Võ lâm đại hội (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-157/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_158_Võ_lâm_đại_hội_3.json",
+    "chapter_name": "Chương 158: Võ lâm đại hội (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-158/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_159_Võ_lâm_đại_hội_4.json",
+    "chapter_name": "Chương 159: Võ lâm đại hội (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-159/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_160_Võ_lâm_đại_hội_5.json",
+    "chapter_name": "Chương 160: Võ lâm đại hội (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-160/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_161_Võ_lâm_đại_hội_6.json",
+    "chapter_name": "Chương 161: Võ lâm đại hội (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-161/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_162_Võ_lâm_đại_hội_7.json",
+    "chapter_name": "Chương 162: Võ lâm đại hội (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-162/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_163_Võ_lâm_đại_hội_8.json",
+    "chapter_name": "Chương 163: Võ lâm đại hội (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-163/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_164_Võ_lâm_đại_hội_9.json",
+    "chapter_name": "Chương 164: Võ lâm đại hội (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-164/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_165_Võ_lâm_đại_hội_10.json",
+    "chapter_name": "Chương 165: Võ lâm đại hội (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-165/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_166_Võ_lâm_đại_hội_11.json",
+    "chapter_name": "Chương 166: Võ lâm đại hội (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-166/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_167_Võ_lâm_đại_hội_12.json",
+    "chapter_name": "Chương 167: Võ lâm đại hội (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-167/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_168_Võ_lâm_đại_hội_13.json",
+    "chapter_name": "Chương 168: Võ lâm đại hội (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-168/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_169_Võ_lâm_đại_hội_14.json",
+    "chapter_name": "Chương 169: Võ lâm đại hội (14)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-169/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_170_Võ_lâm_đại_hội_15.json",
+    "chapter_name": "Chương 170: Võ lâm đại hội (15)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-170/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_171_Võ_lâm_đại_hội_16.json",
+    "chapter_name": "Chương 171: Võ lâm đại hội (16)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-171/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_172_Võ_lâm_đại_hội_17.json",
+    "chapter_name": "Chương 172: Võ lâm đại hội (17)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-172/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_173_Cái_đích_cho_mọi_người_chỉ_trích_1.json",
+    "chapter_name": "Chương 173: Cái đích cho mọi người chỉ trích (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-173/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_174_Cái_đích_cho_mọi_người_chỉ_trích_2.json",
+    "chapter_name": "Chương 174: Cái đích cho mọi người chỉ trích (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-174/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_175_Cái_đích_cho_mọi_người_chỉ_trích_3.json",
+    "chapter_name": "Chương 175: Cái đích cho mọi người chỉ trích (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-175/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_176_Cái_đích_cho_mọi_người_chỉ_trích_4.json",
+    "chapter_name": "Chương 176: Cái đích cho mọi người chỉ trích (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-176/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_177_Cái_đích_cho_mọi_người_chỉ_trích_5.json",
+    "chapter_name": "Chương 177: Cái đích cho mọi người chỉ trích (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-177/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_178_Cái_đích_cho_mọi_người_chỉ_trích_6.json",
+    "chapter_name": "Chương 178: Cái đích cho mọi người chỉ trích (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-178/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_179_Cái_đích_cho_mọi_người_chỉ_trích_7.json",
+    "chapter_name": "Chương 179: Cái đích cho mọi người chỉ trích (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-179/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_180_Cái_đích_cho_mọi_người_chỉ_trích_8.json",
+    "chapter_name": "Chương 180: Cái đích cho mọi người chỉ trích (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-180/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_181_Cái_đích_cho_mọi_người_chỉ_trích_9.json",
+    "chapter_name": "Chương 181: Cái đích cho mọi người chỉ trích (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-181/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_182_Cái_đích_cho_mọi_người_chỉ_trích_10.json",
+    "chapter_name": "Chương 182: Cái đích cho mọi người chỉ trích (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-182/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_183_Cái_đích_cho_mọi_người_chỉ_trích_11.json",
+    "chapter_name": "Chương 183: Cái đích cho mọi người chỉ trích (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-183/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_184_Cái_đích_cho_mọi_người_chỉ_trích_12.json",
+    "chapter_name": "Chương 184: Cái đích cho mọi người chỉ trích (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-184/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_185_Sát_ra_ôm_chặt_1.json",
+    "chapter_name": "Chương 185: Sát ra ôm chặt (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-185/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_186_Sát_ra_ôm_chặt_2.json",
+    "chapter_name": "Chương 186: Sát ra ôm chặt (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-186/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_187_Sát_ra_ôm_chặt_3.json",
+    "chapter_name": "Chương 187: Sát ra ôm chặt (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-187/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_188_Sát_ra_ôm_chặt_4.json",
+    "chapter_name": "Chương 188: Sát ra ôm chặt (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-188/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_189_Sát_ra_ôm_chặt_5.json",
+    "chapter_name": "Chương 189: Sát ra ôm chặt (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-189/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_190_Sát_ra_ôm_chặt_6.json",
+    "chapter_name": "Chương 190: Sát ra ôm chặt (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-190/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_191_Sát_ra_ôm_chặt_7.json",
+    "chapter_name": "Chương 191: Sát ra ôm chặt (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-191/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_192_Sát_ra_ôm_chặt_8.json",
+    "chapter_name": "Chương 192: Sát ra ôm chặt (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-192/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_193_Sát_ra_ôm_chặt_9.json",
+    "chapter_name": "Chương 193: Sát ra ôm chặt (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-193/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_194_Sát_ra_ôm_chặt_10.json",
+    "chapter_name": "Chương 194: Sát ra ôm chặt (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-194/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_195_Sát_ra_ôm_chặt_11.json",
+    "chapter_name": "Chương 195: Sát ra ôm chặt (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-195/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_196_Sát_ra_ôm_chặt_12.json",
+    "chapter_name": "Chương 196: Sát ra ôm chặt (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-196/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_197_Phong_đem_bái_cùng_1.json",
+    "chapter_name": "Chương 197: Phong đem bái cùng (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-197/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_198_Phong_đem_bái_cùng_2.json",
+    "chapter_name": "Chương 198: Phong đem bái cùng (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-198/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_199_Phong_đem_bái_cùng_3.json",
+    "chapter_name": "Chương 199: Phong đem bái cùng (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-199/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_200_Phong_đem_bái_cùng_4.json",
+    "chapter_name": "Chương 200: Phong đem bái cùng (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-200/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_201_Phong_đem_bái_cùng_5.json",
+    "chapter_name": "Chương 201: Phong đem bái cùng (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-201/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_202_Phong_đem_bái_cùng_6.json",
+    "chapter_name": "Chương 202: Phong đem bái cùng (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-202/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_203_Phong_đem_bái_cùng_7.json",
+    "chapter_name": "Chương 203: Phong đem bái cùng (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-203/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_204_Phong_đem_bái_cùng_8.json",
+    "chapter_name": "Chương 204: Phong đem bái cùng (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-204/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_205_Phong_đem_bái_cùng_9.json",
+    "chapter_name": "Chương 205: Phong đem bái cùng (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-205/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_206_Phong_đem_bái_cùng_10.json",
+    "chapter_name": "Chương 206: Phong đem bái cùng (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-206/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_207_Phong_đem_bái_cùng_11.json",
+    "chapter_name": "Chương 207: Phong đem bái cùng (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-207/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_208_Phong_đem_bái_cùng_12.json",
+    "chapter_name": "Chương 208: Phong đem bái cùng (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-208/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_209_Cố_nhân_gặp_lại_1.json",
+    "chapter_name": "Chương 209: Cố nhân gặp lại (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-209/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_210_Cố_nhân_gặp_lại_2.json",
+    "chapter_name": "Chương 210: Cố nhân gặp lại (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-210/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_211_Cố_nhân_gặp_lại_3.json",
+    "chapter_name": "Chương 211: Cố nhân gặp lại (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-211/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_212_Cố_nhân_gặp_lại_4.json",
+    "chapter_name": "Chương 212: Cố nhân gặp lại (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-212/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_213_Cố_nhân_gặp_lại_5.json",
+    "chapter_name": "Chương 213: Cố nhân gặp lại (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-213/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_214_Cố_nhân_gặp_lại_6.json",
+    "chapter_name": "Chương 214: Cố nhân gặp lại (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-214/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_215_Cố_nhân_gặp_lại_7.json",
+    "chapter_name": "Chương 215: Cố nhân gặp lại (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-215/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_216_Cố_nhân_gặp_lại_8.json",
+    "chapter_name": "Chương 216: Cố nhân gặp lại (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-216/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_217_Cố_nhân_gặp_lại_9.json",
+    "chapter_name": "Chương 217: Cố nhân gặp lại (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-217/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_218_Cố_nhân_gặp_lại_10.json",
+    "chapter_name": "Chương 218: Cố nhân gặp lại (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-218/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_219_Cố_nhân_gặp_lại_11.json",
+    "chapter_name": "Chương 219: Cố nhân gặp lại (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-219/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_220_Cố_nhân_gặp_lại_12.json",
+    "chapter_name": "Chương 220: Cố nhân gặp lại (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-220/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_221_Trở_lại_đến_hề_1.json",
+    "chapter_name": "Chương 221: Trở lại đến hề (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-221/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_222_Trở_lại_đến_hề_2.json",
+    "chapter_name": "Chương 222: Trở lại đến hề (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-222/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_223_Trở_lại_đến_hề_3.json",
+    "chapter_name": "Chương 223: Trở lại đến hề (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-223/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_224_Trở_lại_đến_hề_4.json",
+    "chapter_name": "Chương 224: Trở lại đến hề (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-224/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_225_Trở_lại_đến_hề_5.json",
+    "chapter_name": "Chương 225: Trở lại đến hề (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-225/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_226_Trở_lại_đến_hề_6.json",
+    "chapter_name": "Chương 226: Trở lại đến hề (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-226/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_227_Trở_lại_đến_hề_7.json",
+    "chapter_name": "Chương 227: Trở lại đến hề (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-227/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_228_Trở_lại_đến_hề_8.json",
+    "chapter_name": "Chương 228: Trở lại đến hề (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-228/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_229_Trở_lại_đến_hề_9.json",
+    "chapter_name": "Chương 229: Trở lại đến hề (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-229/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_230_Trở_lại_đến_hề_10.json",
+    "chapter_name": "Chương 230: Trở lại đến hề (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-230/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_231_Trở_lại_đến_hề_11.json",
+    "chapter_name": "Chương 231: Trở lại đến hề (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-231/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_232_Trở_lại_đến_hề_12.json",
+    "chapter_name": "Chương 232: Trở lại đến hề (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-232/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_233_Ta_đã_trở_về_1.json",
+    "chapter_name": "Chương 233: Ta đã trở về (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-233/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_234_Ta_đã_trở_về_2.json",
+    "chapter_name": "Chương 234: Ta đã trở về (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-234/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_235_Ta_đã_trở_về_3.json",
+    "chapter_name": "Chương 235: Ta đã trở về (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-235/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_236_Ta_đã_trở_về_4.json",
+    "chapter_name": "Chương 236: Ta đã trở về (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-236/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_237_Ta_đã_trở_về_5.json",
+    "chapter_name": "Chương 237: Ta đã trở về (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-237/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_238_Ta_đã_trở_về_6.json",
+    "chapter_name": "Chương 238: Ta đã trở về (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-238/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_239_Ta_đã_trở_về_7.json",
+    "chapter_name": "Chương 239: Ta đã trở về (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-239/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_240_Ta_đã_trở_về_8.json",
+    "chapter_name": "Chương 240: Ta đã trở về (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-240/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_241_Ta_đã_trở_về_9.json",
+    "chapter_name": "Chương 241: Ta đã trở về (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-241/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_242_Ta_đã_trở_về_10.json",
+    "chapter_name": "Chương 242: Ta đã trở về (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-242/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_243_Ta_đã_trở_về_11.json",
+    "chapter_name": "Chương 243: Ta đã trở về (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-243/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_244_Ta_đã_trở_về_12.json",
+    "chapter_name": "Chương 244: Ta đã trở về (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-244/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_245_Dẫn_xà_xuất_động_1.json",
+    "chapter_name": "Chương 245: Dẫn xà xuất động (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-245/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_246_Dẫn_xà_xuất_động_2.json",
+    "chapter_name": "Chương 246: Dẫn xà xuất động (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-246/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_247_Dẫn_xà_xuất_động_3.json",
+    "chapter_name": "Chương 247: Dẫn xà xuất động (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-247/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_248_Dẫn_xà_xuất_động_4.json",
+    "chapter_name": "Chương 248: Dẫn xà xuất động (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-248/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_249_Dẫn_xà_xuất_động_5.json",
+    "chapter_name": "Chương 249: Dẫn xà xuất động (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-249/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_250_Dẫn_xà_xuất_động_6.json",
+    "chapter_name": "Chương 250: Dẫn xà xuất động (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-250/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_251_Dẫn_xà_xuất_động_7.json",
+    "chapter_name": "Chương 251: Dẫn xà xuất động (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-251/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_252_Dẫn_xà_xuất_động_8.json",
+    "chapter_name": "Chương 252: Dẫn xà xuất động (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-252/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_253_Dẫn_xà_xuất_động_9.json",
+    "chapter_name": "Chương 253: Dẫn xà xuất động (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-253/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_254_Dẫn_xà_xuất_động_10.json",
+    "chapter_name": "Chương 254: Dẫn xà xuất động (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-254/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_255_Dẫn_xà_xuất_động_11.json",
+    "chapter_name": "Chương 255: Dẫn xà xuất động (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-255/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_256_Dẫn_xà_xuất_động_12.json",
+    "chapter_name": "Chương 256: Dẫn xà xuất động (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-256/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_257_Sơn_vũ_dục_đến_1.json",
+    "chapter_name": "Chương 257: Sơn vũ dục đến (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-257/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_258_Sơn_vũ_dục_đến_2.json",
+    "chapter_name": "Chương 258: Sơn vũ dục đến (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-258/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_259_Sơn_vũ_dục_đến_3.json",
+    "chapter_name": "Chương 259: Sơn vũ dục đến (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-259/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_260_Sơn_vũ_dục_đến_4.json",
+    "chapter_name": "Chương 260: Sơn vũ dục đến (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-260/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_261_Sơn_vũ_dục_đến_5.json",
+    "chapter_name": "Chương 261: Sơn vũ dục đến (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-261/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_262_Sơn_vũ_dục_đến_6.json",
+    "chapter_name": "Chương 262: Sơn vũ dục đến (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-262/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_263_Sơn_vũ_dục_đến_7.json",
+    "chapter_name": "Chương 263: Sơn vũ dục đến (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-263/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_264_Sơn_vũ_dục_đến_8.json",
+    "chapter_name": "Chương 264: Sơn vũ dục đến (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-264/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_265_Sơn_vũ_dục_đến_9.json",
+    "chapter_name": "Chương 265: Sơn vũ dục đến (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-265/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_266_Sơn_vũ_dục_đến_10.json",
+    "chapter_name": "Chương 266: Sơn vũ dục đến (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-266/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_267_Sơn_vũ_dục_đến_11.json",
+    "chapter_name": "Chương 267: Sơn vũ dục đến (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-267/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_268_Sơn_vũ_dục_đến_12.json",
+    "chapter_name": "Chương 268: Sơn vũ dục đến (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-268/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_269_Sơn_vũ_dục_đến_13.json",
+    "chapter_name": "Chương 269: Sơn vũ dục đến (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-269/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_270_Ăn_miếng_trả_miếng_1.json",
+    "chapter_name": "Chương 270: Ăn miếng trả miếng (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-270/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_271_Ăn_miếng_trả_miếng_2.json",
+    "chapter_name": "Chương 271: Ăn miếng trả miếng (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-271/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_272_Ăn_miếng_trả_miếng_3.json",
+    "chapter_name": "Chương 272: Ăn miếng trả miếng (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-272/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_273_Ăn_miếng_trả_miếng_4.json",
+    "chapter_name": "Chương 273: Ăn miếng trả miếng (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-273/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_274_Ăn_miếng_trả_miếng_5.json",
+    "chapter_name": "Chương 274: Ăn miếng trả miếng (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-274/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_275_Ăn_miếng_trả_miếng_6.json",
+    "chapter_name": "Chương 275: Ăn miếng trả miếng (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-275/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_276_Ăn_miếng_trả_miếng_7.json",
+    "chapter_name": "Chương 276: Ăn miếng trả miếng (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-276/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_277_Ăn_miếng_trả_miếng_8.json",
+    "chapter_name": "Chương 277: Ăn miếng trả miếng (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-277/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_278_Ăn_miếng_trả_miếng_9.json",
+    "chapter_name": "Chương 278: Ăn miếng trả miếng (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-278/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_279_Ăn_miếng_trả_miếng_10.json",
+    "chapter_name": "Chương 279: Ăn miếng trả miếng (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-279/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_280_Ăn_miếng_trả_miếng_11.json",
+    "chapter_name": "Chương 280: Ăn miếng trả miếng (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-280/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_281_Ăn_miếng_trả_miếng_12.json",
+    "chapter_name": "Chương 281: Ăn miếng trả miếng (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-281/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_282_Ăn_miếng_trả_miếng_13.json",
+    "chapter_name": "Chương 282: Ăn miếng trả miếng (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-282/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_283_Ăn_miếng_trả_miếng_14.json",
+    "chapter_name": "Chương 283: Ăn miếng trả miếng (14)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-283/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_284_Ăn_miếng_trả_miếng_15.json",
+    "chapter_name": "Chương 284: Ăn miếng trả miếng (15)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-284/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_285_Ăn_miếng_trả_miếng_16.json",
+    "chapter_name": "Chương 285: Ăn miếng trả miếng (16)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-285/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_286_Ăn_miếng_trả_miếng_17.json",
+    "chapter_name": "Chương 286: Ăn miếng trả miếng (17)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-286/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_287_Ăn_miếng_trả_miếng_18.json",
+    "chapter_name": "Chương 287: Ăn miếng trả miếng (18)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-287/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_288_Ăn_miếng_trả_miếng_19.json",
+    "chapter_name": "Chương 288: Ăn miếng trả miếng (19)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-288/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_289_Ăn_miếng_trả_miếng_20.json",
+    "chapter_name": "Chương 289: Ăn miếng trả miếng (20)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-289/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_290_Ăn_miếng_trả_miếng_21.json",
+    "chapter_name": "Chương 290: Ăn miếng trả miếng (21)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-290/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_291_Ăn_miếng_trả_miếng_22.json",
+    "chapter_name": "Chương 291: Ăn miếng trả miếng (22)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-291/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_292_Ăn_miếng_trả_miếng_23.json",
+    "chapter_name": "Chương 292: Ăn miếng trả miếng (23)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-292/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_293_Ăn_miếng_trả_miếng_24.json",
+    "chapter_name": "Chương 293: Ăn miếng trả miếng (24)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-293/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_294_Ăn_miếng_trả_miếng_25.json",
+    "chapter_name": "Chương 294: Ăn miếng trả miếng (25)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-294/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_295_Cắn_người_miệng_mềm_1.json",
+    "chapter_name": "Chương 295: Cắn người miệng mềm (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-295/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_296_Cắn_người_miệng_mềm_2.json",
+    "chapter_name": "Chương 296: Cắn người miệng mềm (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-296/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_297_Cắn_người_miệng_mềm_3.json",
+    "chapter_name": "Chương 297: Cắn người miệng mềm (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-297/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_298_Cắn_người_miệng_mềm_4.json",
+    "chapter_name": "Chương 298: Cắn người miệng mềm (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-298/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_299_Cắn_người_miệng_mềm_5.json",
+    "chapter_name": "Chương 299: Cắn người miệng mềm (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-299/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_300_Cắn_người_miệng_mềm_6.json",
+    "chapter_name": "Chương 300: Cắn người miệng mềm (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-300/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_301_Cắn_người_miệng_mềm_7.json",
+    "chapter_name": "Chương 301: Cắn người miệng mềm (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-301/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_302_Cắn_người_miệng_mềm_8.json",
+    "chapter_name": "Chương 302: Cắn người miệng mềm (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-302/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_303_Cắn_người_miệng_mềm_9.json",
+    "chapter_name": "Chương 303: Cắn người miệng mềm (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-303/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_304_Cắn_người_miệng_mềm_10.json",
+    "chapter_name": "Chương 304: Cắn người miệng mềm (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-304/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_305_Cắn_người_miệng_mềm_11.json",
+    "chapter_name": "Chương 305: Cắn người miệng mềm (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-305/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_306_Cắn_người_miệng_mềm_12.json",
+    "chapter_name": "Chương 306: Cắn người miệng mềm (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-306/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_307_Quỷ_bí_cây_cối_1.json",
+    "chapter_name": "Chương 307: Quỷ bí cây cối (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-307/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_308_Quỷ_bí_cây_cối_2.json",
+    "chapter_name": "Chương 308: Quỷ bí cây cối (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-308/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_309_Quỷ_bí_cây_cối_3.json",
+    "chapter_name": "Chương 309: Quỷ bí cây cối (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-309/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_310_Quỷ_bí_cây_cối_4.json",
+    "chapter_name": "Chương 310: Quỷ bí cây cối (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-310/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_311_Quỷ_bí_cây_cối_5.json",
+    "chapter_name": "Chương 311: Quỷ bí cây cối (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-311/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_312_Quỷ_bí_cây_cối_6.json",
+    "chapter_name": "Chương 312: Quỷ bí cây cối (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-312/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_313_Quỷ_bí_cây_cối_7.json",
+    "chapter_name": "Chương 313: Quỷ bí cây cối (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-313/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_314_Quỷ_bí_cây_cối_8.json",
+    "chapter_name": "Chương 314: Quỷ bí cây cối (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-314/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_315_Quỷ_bí_cây_cối_9.json",
+    "chapter_name": "Chương 315: Quỷ bí cây cối (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-315/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_316_Quỷ_bí_cây_cối_10.json",
+    "chapter_name": "Chương 316: Quỷ bí cây cối (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-316/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_317_Quỷ_bí_cây_cối_11.json",
+    "chapter_name": "Chương 317: Quỷ bí cây cối (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-317/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_318_Quỷ_bí_cây_cối_12.json",
+    "chapter_name": "Chương 318: Quỷ bí cây cối (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-318/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_319_Quỷ_bí_cây_cối_13.json",
+    "chapter_name": "Chương 319: Quỷ bí cây cối (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-319/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_320_Không_thể_buông_tha_1.json",
+    "chapter_name": "Chương 320: Không thể buông tha (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-320/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_321_Không_thể_buông_tha_2.json",
+    "chapter_name": "Chương 321: Không thể buông tha (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-321/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_322_Không_thể_buông_tha_3.json",
+    "chapter_name": "Chương 322: Không thể buông tha (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-322/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_323_Không_thể_buông_tha_4.json",
+    "chapter_name": "Chương 323: Không thể buông tha (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-323/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_324_Không_thể_buông_tha_5.json",
+    "chapter_name": "Chương 324: Không thể buông tha (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-324/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_325_Không_thể_buông_tha_6.json",
+    "chapter_name": "Chương 325: Không thể buông tha (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-325/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_326_Không_thể_buông_tha_7.json",
+    "chapter_name": "Chương 326: Không thể buông tha (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-326/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_327_Không_thể_buông_tha_8.json",
+    "chapter_name": "Chương 327: Không thể buông tha (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-327/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_328_Không_thể_buông_tha_9.json",
+    "chapter_name": "Chương 328: Không thể buông tha (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-328/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_329_Không_thể_buông_tha_10.json",
+    "chapter_name": "Chương 329: Không thể buông tha (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-329/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_330_Không_thể_buông_tha_11.json",
+    "chapter_name": "Chương 330: Không thể buông tha (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-330/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_331_Không_thể_buông_tha_12.json",
+    "chapter_name": "Chương 331: Không thể buông tha (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-331/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_332_Màu_lam_mê_tình_1.json",
+    "chapter_name": "Chương 332: Màu lam mê tình (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-332/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_333_Màu_lam_mê_tình_2.json",
+    "chapter_name": "Chương 333: Màu lam mê tình (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-333/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_334_Màu_lam_mê_tình_3.json",
+    "chapter_name": "Chương 334: Màu lam mê tình (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-334/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_335_Màu_lam_mê_tình_4.json",
+    "chapter_name": "Chương 335: Màu lam mê tình (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-335/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_336_Màu_lam_mê_tình_5.json",
+    "chapter_name": "Chương 336: Màu lam mê tình (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-336/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_337_Màu_lam_mê_tình_6.json",
+    "chapter_name": "Chương 337: Màu lam mê tình (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-337/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_338_Màu_lam_mê_tình_7.json",
+    "chapter_name": "Chương 338: Màu lam mê tình (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-338/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_339_Màu_lam_mê_tình_8.json",
+    "chapter_name": "Chương 339: Màu lam mê tình (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-339/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_340_Màu_lam_mê_tình_9.json",
+    "chapter_name": "Chương 340: Màu lam mê tình (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-340/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_341_Màu_lam_mê_tình_10.json",
+    "chapter_name": "Chương 341: Màu lam mê tình (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-341/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_342_Màu_lam_mê_tình_11.json",
+    "chapter_name": "Chương 342: Màu lam mê tình (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-342/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_343_Màu_lam_mê_tình_12.json",
+    "chapter_name": "Chương 343: Màu lam mê tình (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-343/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_344_Nhược_thủy_ba_nghìn_1.json",
+    "chapter_name": "Chương 344: Nhược thủy ba nghìn (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-344/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_345_Nhược_thủy_ba_nghìn_2.json",
+    "chapter_name": "Chương 345: Nhược thủy ba nghìn (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-345/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_346_Nhược_thủy_ba_nghìn_3.json",
+    "chapter_name": "Chương 346: Nhược thủy ba nghìn (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-346/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_347_Nhược_thủy_ba_nghìn_4.json",
+    "chapter_name": "Chương 347: Nhược thủy ba nghìn (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-347/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_348_Nhược_thủy_ba_nghìn_5.json",
+    "chapter_name": "Chương 348: Nhược thủy ba nghìn (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-348/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_349_Nhược_thủy_ba_nghìn_6.json",
+    "chapter_name": "Chương 349: Nhược thủy ba nghìn (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-349/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_350_Nhược_thủy_ba_nghìn_7.json",
+    "chapter_name": "Chương 350: Nhược thủy ba nghìn (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-350/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_351_Nhược_thủy_ba_nghìn_8.json",
+    "chapter_name": "Chương 351: Nhược thủy ba nghìn (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-351/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_352_Nhược_thủy_ba_nghìn_9.json",
+    "chapter_name": "Chương 352: Nhược thủy ba nghìn (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-352/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_353_Nhược_thủy_ba_nghìn_10.json",
+    "chapter_name": "Chương 353: Nhược thủy ba nghìn (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-353/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_354_Nhược_thủy_ba_nghìn_11.json",
+    "chapter_name": "Chương 354: Nhược thủy ba nghìn (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-354/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_355_Nhược_thủy_ba_nghìn_12.json",
+    "chapter_name": "Chương 355: Nhược thủy ba nghìn (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-355/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_356_Hắc_y_Tu_La_1.json",
+    "chapter_name": "Chương 356: Hắc y Tu La (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-356/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_357_Hắc_y_Tu_La_2.json",
+    "chapter_name": "Chương 357: Hắc y Tu La (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-357/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_358_Hắc_y_Tu_La_3.json",
+    "chapter_name": "Chương 358: Hắc y Tu La (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-358/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_359_Hắc_y_Tu_La_4.json",
+    "chapter_name": "Chương 359: Hắc y Tu La (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-359/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_360_Hắc_y_Tu_La_5.json",
+    "chapter_name": "Chương 360: Hắc y Tu La (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-360/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_361_Hắc_y_Tu_La_6.json",
+    "chapter_name": "Chương 361: Hắc y Tu La (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-361/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_362_Hắc_y_Tu_La_7.json",
+    "chapter_name": "Chương 362: Hắc y Tu La (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-362/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_363_Hắc_y_Tu_La_8.json",
+    "chapter_name": "Chương 363: Hắc y Tu La (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-363/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_364_Hắc_y_Tu_La_9.json",
+    "chapter_name": "Chương 364: Hắc y Tu La (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-364/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_365_Hắc_y_Tu_La_10.json",
+    "chapter_name": "Chương 365: Hắc y Tu La (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-365/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_366_Hắc_y_Tu_La_11.json",
+    "chapter_name": "Chương 366: Hắc y Tu La (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-366/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_367_Hắc_y_Tu_La_12.json",
+    "chapter_name": "Chương 367: Hắc y Tu La (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-367/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_368_Hắc_y_Tu_La_13.json",
+    "chapter_name": "Chương 368: Hắc y Tu La (13)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-368/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_369_Công_chúa_đám_hỏi_1.json",
+    "chapter_name": "Chương 369: Công chúa đám hỏi (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-369/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_370_Công_chúa_đám_hỏi_2.json",
+    "chapter_name": "Chương 370: Công chúa đám hỏi (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-370/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_371_Công_chúa_đám_hỏi_3.json",
+    "chapter_name": "Chương 371: Công chúa đám hỏi (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-371/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_372_Công_chúa_đám_hỏi_4.json",
+    "chapter_name": "Chương 372: Công chúa đám hỏi (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-372/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_373_Công_chúa_đám_hỏi_5.json",
+    "chapter_name": "Chương 373: Công chúa đám hỏi (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-373/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_374_Công_chúa_đám_hỏi_6.json",
+    "chapter_name": "Chương 374: Công chúa đám hỏi (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-374/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_375_Công_chúa_đám_hỏi_7.json",
+    "chapter_name": "Chương 375: Công chúa đám hỏi (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-375/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_376_Công_chúa_đám_hỏi_8.json",
+    "chapter_name": "Chương 376: Công chúa đám hỏi (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-376/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_377_Công_chúa_đám_hỏi_9.json",
+    "chapter_name": "Chương 377: Công chúa đám hỏi (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-377/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_378_Công_chúa_đám_hỏi_10.json",
+    "chapter_name": "Chương 378: Công chúa đám hỏi (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-378/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_379_Công_chúa_đám_hỏi_11.json",
+    "chapter_name": "Chương 379: Công chúa đám hỏi (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-379/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_380_Công_chúa_đám_hỏi_12.json",
+    "chapter_name": "Chương 380: Công chúa đám hỏi (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-380/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_381_Bát_phương_hội_tụ_1.json",
+    "chapter_name": "Chương 381: Bát phương hội tụ (1)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-381/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_382_Bát_phương_hội_tụ_2.json",
+    "chapter_name": "Chương 382: Bát phương hội tụ (2)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-382/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_383_Bát_phương_hội_tụ_3.json",
+    "chapter_name": "Chương 383: Bát phương hội tụ (3)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-383/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_384_Bát_phương_hội_tụ_4.json",
+    "chapter_name": "Chương 384: Bát phương hội tụ (4)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-384/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_385_Bát_phương_hội_tụ_5.json",
+    "chapter_name": "Chương 385: Bát phương hội tụ (5)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-385/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_386_Bát_phương_hội_tụ_6.json",
+    "chapter_name": "Chương 386: Bát phương hội tụ (6)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-386/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_387_Bát_phương_hội_tụ_7.json",
+    "chapter_name": "Chương 387: Bát phương hội tụ (7)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-387/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_388_Bát_phương_hội_tụ_8.json",
+    "chapter_name": "Chương 388: Bát phương hội tụ (8)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-388/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_389_Bát_phương_hội_tụ_9.json",
+    "chapter_name": "Chương 389: Bát phương hội tụ (9)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-389/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_390_Bát_phương_hội_tụ_10.json",
+    "chapter_name": "Chương 390: Bát phương hội tụ (10)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-390/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_391_Bát_phương_hội_tụ_11.json",
+    "chapter_name": "Chương 391: Bát phương hội tụ (11)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-391/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_392_Bát_phương_hội_tụ_12.json",
+    "chapter_name": "Chương 392: Bát phương hội tụ (12)",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-392/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_393_Giang_sơn_mĩ_nhân_1.json",
+    "chapter_name": "Chương 393: Giang sơn mĩ nhân 1",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-393/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_394_Giang_sơn_mĩ_nhân_2.json",
+    "chapter_name": "Chương 394: Giang sơn mĩ nhân 2",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-394/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_395_Giang_sơn_mĩ_nhân_3.json",
+    "chapter_name": "Chương 395: Giang sơn mĩ nhân 3",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-395/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_396_Giang_sơn_mỹ_nhân_4.json",
+    "chapter_name": "Chương 396: Giang sơn mỹ nhân 4",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-396/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_397_Giang_sơn_mỹ_nhân_5.json",
+    "chapter_name": "Chương 397: Giang sơn mỹ nhân 5",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-397/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_398_Giang_sơn_mỹ_nhân_6.json",
+    "chapter_name": "Chương 398: Giang sơn mỹ nhân 6",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-398/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_399_Giang_sơn_mỹ_nhân_7.json",
+    "chapter_name": "Chương 399: Giang sơn mỹ nhân 7",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-399/"
+  },
+  {
+    "path": "data/Vương_Phi_13_Tuổi/Chương_400_Giang_sơn_mỹ_nhân_8.json",
+    "chapter_name": "Chương 400: Giang sơn mỹ nhân 8",
+    "url": "https://truyenfull.io/vuong-phi-13-tuoi/chuong-400/"
+  }
+]
