@@ -1,0 +1,927 @@
+[
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-1/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-2/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-3/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-4/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-5/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-6/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-7/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-8/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-9/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-10/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-11/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-12/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-13/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-14/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-15/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-16/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-17/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-18/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-19/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_20.json",
+    "chapter_name": "Chương 20",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-20/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_21.json",
+    "chapter_name": "Chương 21",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-21/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_22.json",
+    "chapter_name": "Chương 22",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-22/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_23.json",
+    "chapter_name": "Chương 23",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-23/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_24.json",
+    "chapter_name": "Chương 24",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-24/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_25.json",
+    "chapter_name": "Chương 25",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-25/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_26.json",
+    "chapter_name": "Chương 26",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-26/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_27.json",
+    "chapter_name": "Chương 27",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-27/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_28.json",
+    "chapter_name": "Chương 28",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-28/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_29.json",
+    "chapter_name": "Chương 29",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-29/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_30.json",
+    "chapter_name": "Chương 30",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-30/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_31.json",
+    "chapter_name": "Chương 31",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-31/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_32.json",
+    "chapter_name": "Chương 32",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-32/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_33.json",
+    "chapter_name": "Chương 33",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-33/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_34.json",
+    "chapter_name": "Chương 34",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-34/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_35.json",
+    "chapter_name": "Chương 35",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-35/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_36.json",
+    "chapter_name": "Chương 36",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-36/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_37.json",
+    "chapter_name": "Chương 37",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-37/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_38.json",
+    "chapter_name": "Chương 38",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-38/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_39.json",
+    "chapter_name": "Chương 39",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-39/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_40.json",
+    "chapter_name": "Chương 40",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-40/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_41.json",
+    "chapter_name": "Chương 41",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-41/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_42.json",
+    "chapter_name": "Chương 42",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-42/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_43.json",
+    "chapter_name": "Chương 43",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-43/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_44.json",
+    "chapter_name": "Chương 44",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-44/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_45.json",
+    "chapter_name": "Chương 45",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-45/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_46.json",
+    "chapter_name": "Chương 46",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-46/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_47.json",
+    "chapter_name": "Chương 47",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-47/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_48.json",
+    "chapter_name": "Chương 48",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-48/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_4950.json",
+    "chapter_name": "Chương 49-50",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-49-50/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-51/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_5253.json",
+    "chapter_name": "Chương 52-53",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-52-53/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/.json",
+    "chapter_name": "",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-54-55/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_56.json",
+    "chapter_name": "Chương 56",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-56/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-57/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-58/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-59/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-60/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-61/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-62/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-63/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_6465.json",
+    "chapter_name": "Chương 64-65",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-64-65/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-66/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-67/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-68/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_6970.json",
+    "chapter_name": "Chương 69-70",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-69-70/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_7172.json",
+    "chapter_name": "Chương 71-72",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-71-72/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-73/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_7475.json",
+    "chapter_name": "Chương 74-75",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-74-75/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-76/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-77/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-78/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_7980.json",
+    "chapter_name": "Chương 79-80",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-79-80/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_8182.json",
+    "chapter_name": "Chương 81-82",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-81-82/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-83/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-84/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_8586.json",
+    "chapter_name": "Chương 85-86",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-85-86/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-87/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-88/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_8990.json",
+    "chapter_name": "Chương 89-90",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-89-90/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-91/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-92/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-93/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-94/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_9596.json",
+    "chapter_name": "Chương 95-96",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-95-96/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_9798.json",
+    "chapter_name": "Chương 97-98",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-97-98/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_99100.json",
+    "chapter_name": "Chương 99-100",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-99-100/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_101102.json",
+    "chapter_name": "Chương 101-102",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-101-102/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-103/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_104105.json",
+    "chapter_name": "Chương 104-105",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-104-105/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-106/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-107/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-108/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_109110.json",
+    "chapter_name": "Chương 109-110",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-109-110/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-111/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_112113.json",
+    "chapter_name": "Chương 112-113",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-112-113/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_114.json",
+    "chapter_name": "Chương 114",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-114/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_115116.json",
+    "chapter_name": "Chương 115-116",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-115-116/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_117118.json",
+    "chapter_name": "Chương 117-118",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-117-118/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_119.json",
+    "chapter_name": "Chương 119",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-119/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_120121.json",
+    "chapter_name": "Chương 120-121",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-120-121/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_122.json",
+    "chapter_name": "Chương 122",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-122/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_123.json",
+    "chapter_name": "Chương 123",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-123/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_124.json",
+    "chapter_name": "Chương 124",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-124/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_125.json",
+    "chapter_name": "Chương 125",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-125/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_126.json",
+    "chapter_name": "Chương 126",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-126/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_127.json",
+    "chapter_name": "Chương 127",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-127/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_128129.json",
+    "chapter_name": "Chương 128-129",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-128-129/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_130.json",
+    "chapter_name": "Chương 130",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-130/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_131.json",
+    "chapter_name": "Chương 131",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-131/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_132.json",
+    "chapter_name": "Chương 132",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-132/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_133.json",
+    "chapter_name": "Chương 133",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-133/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_134.json",
+    "chapter_name": "Chương 134",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-134/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_135136.json",
+    "chapter_name": "Chương 135-136",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-135-136/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_137.json",
+    "chapter_name": "Chương 137",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-137/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_138.json",
+    "chapter_name": "Chương 138",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-138/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_139140.json",
+    "chapter_name": "Chương 139-140",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-139-140/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_141.json",
+    "chapter_name": "Chương 141",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-141/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_142.json",
+    "chapter_name": "Chương 142",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-142/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_143.json",
+    "chapter_name": "Chương 143",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-143/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_144.json",
+    "chapter_name": "Chương 144",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-144/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_145.json",
+    "chapter_name": "Chương 145",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-145/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_146147.json",
+    "chapter_name": "Chương 146-147",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-146-147/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_148149.json",
+    "chapter_name": "Chương 148-149",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-148-149/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_150151.json",
+    "chapter_name": "Chương 150-151",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-150-151/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_152153.json",
+    "chapter_name": "Chương 152-153",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-152-153/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_154155.json",
+    "chapter_name": "Chương 154-155",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-154-155/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_156.json",
+    "chapter_name": "Chương 156",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-156/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_157158.json",
+    "chapter_name": "Chương 157-158",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-157-158/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_159160.json",
+    "chapter_name": "Chương 159-160",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-159-160/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_161162.json",
+    "chapter_name": "Chương 161-162",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-161-162/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_163.json",
+    "chapter_name": "Chương 163",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-163/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_164.json",
+    "chapter_name": "Chương 164",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-164/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_165.json",
+    "chapter_name": "Chương 165",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-165/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_166.json",
+    "chapter_name": "Chương 166",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-166/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_167.json",
+    "chapter_name": "Chương 167",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-167/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_168.json",
+    "chapter_name": "Chương 168",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-168/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_169.json",
+    "chapter_name": "Chương 169",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-169/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_170.json",
+    "chapter_name": "Chương 170",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-170/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_171.json",
+    "chapter_name": "Chương 171",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-171/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_172.json",
+    "chapter_name": "Chương 172",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-172/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_173.json",
+    "chapter_name": "Chương 173",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-173/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_174.json",
+    "chapter_name": "Chương 174",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-174/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_175.json",
+    "chapter_name": "Chương 175",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-175/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_176.json",
+    "chapter_name": "Chương 176",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-176/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_177.json",
+    "chapter_name": "Chương 177",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-177/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_178.json",
+    "chapter_name": "Chương 178",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-178/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_179.json",
+    "chapter_name": "Chương 179",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-179/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_180.json",
+    "chapter_name": "Chương 180",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-180/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_181.json",
+    "chapter_name": "Chương 181",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-181/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_182.json",
+    "chapter_name": "Chương 182",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-182/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_183.json",
+    "chapter_name": "Chương 183",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-183/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_184.json",
+    "chapter_name": "Chương 184",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-184/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_185.json",
+    "chapter_name": "Chương 185",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-185/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_186.json",
+    "chapter_name": "Chương 186",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-186/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_187.json",
+    "chapter_name": "Chương 187",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-187/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_188.json",
+    "chapter_name": "Chương 188",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-188/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_189.json",
+    "chapter_name": "Chương 189",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-189/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_190.json",
+    "chapter_name": "Chương 190",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-190/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_191.json",
+    "chapter_name": "Chương 191",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-191/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_192.json",
+    "chapter_name": "Chương 192",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-192/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_193.json",
+    "chapter_name": "Chương 193",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-193/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_194.json",
+    "chapter_name": "Chương 194",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-194/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_195.json",
+    "chapter_name": "Chương 195",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-195/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_196.json",
+    "chapter_name": "Chương 196",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-196/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_197.json",
+    "chapter_name": "Chương 197",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-197/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_198.json",
+    "chapter_name": "Chương 198",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-198/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_199.json",
+    "chapter_name": "Chương 199",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-199/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_200.json",
+    "chapter_name": "Chương 200",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-200/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_201.json",
+    "chapter_name": "Chương 201",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-201/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_202.json",
+    "chapter_name": "Chương 202",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-202/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_203.json",
+    "chapter_name": "Chương 203",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-203/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_204.json",
+    "chapter_name": "Chương 204",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-204/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_205.json",
+    "chapter_name": "Chương 205",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-205/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_206.json",
+    "chapter_name": "Chương 206",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-206/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_207.json",
+    "chapter_name": "Chương 207",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-207/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_208.json",
+    "chapter_name": "Chương 208",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-208/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_209.json",
+    "chapter_name": "Chương 209",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-209/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_210.json",
+    "chapter_name": "Chương 210",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-210/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_211.json",
+    "chapter_name": "Chương 211",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-211/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_212.json",
+    "chapter_name": "Chương 212",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-212/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_213.json",
+    "chapter_name": "Chương 213",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-213/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_214.json",
+    "chapter_name": "Chương 214",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-214/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_215.json",
+    "chapter_name": "Chương 215",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-215/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_216.json",
+    "chapter_name": "Chương 216",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-216/"
+  },
+  {
+    "path": "data/Trọng_Sinh_Trở_Về_Vị_Trí_Cũ/Chương_217.json",
+    "chapter_name": "Chương 217",
+    "url": "https://truyenfull.io/trong-sinh-tro-ve-vi-tri-cu/chuong-217/"
+  }
+]
