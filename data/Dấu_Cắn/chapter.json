@@ -1,0 +1,567 @@
+[
+  {
+    "path": "data/Dấu_Cắn/Chương_11_Kẻ_điên_và_búp_bê_Tây_Dương_1_1.json",
+    "chapter_name": "Chương 1-1: Kẻ điên và \"búp bê Tây Dương\" (1) (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-1-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_12_Kẻ_điên_và_búp_bê_Tây_Dương_1_2.json",
+    "chapter_name": "Chương 1-2: Kẻ điên và \"búp bê Tây Dương\" (1) (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-1-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_21_Kẻ_điên_và_búp_bê_Tây_Dương_2_1.json",
+    "chapter_name": "Chương 2-1: Kẻ điên và \"búp bê Tây Dương\" (2) (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-2-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_22_Kẻ_điên_và_búp_bê_Tây_Dương_2_2.json",
+    "chapter_name": "Chương 2-2: Kẻ điên và \"búp bê Tây Dương\" (2) (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-2-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_31_Kẻ_điên_và_búp_bê_Tây_Dương_3_1.json",
+    "chapter_name": "Chương 3-1: Kẻ điên và \"búp bê Tây Dương\" (3) (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-3-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_32_Kẻ_điên_và_búp_bê_Tây_Dương3_2.json",
+    "chapter_name": "Chương 3-2: Kẻ điên và \"búp bê Tây Dương\"(3) (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-3-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_4_Kẻ_điên_và_búp_bê_Tây_Dương_4.json",
+    "chapter_name": "Chương 4: Kẻ điên và \"búp bê Tây Dương\" (4)",
+    "url": "https://truyenfull.io/dau-can/chuong-4/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_5_Không_ai_ngoài_cô_1.json",
+    "chapter_name": "Chương 5: Không ai ngoài cô (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-5/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_6_Không_ai_ngoài_cô_2.json",
+    "chapter_name": "Chương 6: Không ai ngoài cô (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-6/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_7_Không_ai_ngoài_cô_3.json",
+    "chapter_name": "Chương 7: Không ai ngoài cô (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-7/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_8_Không_ai_ngoài_cô_4.json",
+    "chapter_name": "Chương 8: Không ai ngoài cô (4)",
+    "url": "https://truyenfull.io/dau-can/chuong-8/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_9_Cô_sẽ_khóa_tôi_sao_1.json",
+    "chapter_name": "Chương 9: Cô sẽ khóa tôi sao? (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-9/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_10_Cô_sẽ_khóa_tôi_sao_2.json",
+    "chapter_name": "Chương 10: Cô sẽ khóa tôi sao? (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-10/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_11_Cô_sẽ_khóa_tôi_sao_3.json",
+    "chapter_name": "Chương 11: Cô sẽ khóa tôi sao? (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-11/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_12_Cô_sẽ_khóa_tôi_sao_4.json",
+    "chapter_name": "Chương 12: Cô sẽ khóa tôi sao? (4)",
+    "url": "https://truyenfull.io/dau-can/chuong-12/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_13_Từ_giờ_trở_đi_em_chính_là_thiên_đường_cũng_là_địa_ngục_1.json",
+    "chapter_name": "Chương 13: Từ giờ trở đi, em chính là thiên đường cũng là địa ngục (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-13/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_14_Từ_giờ_trở_đi_em_chính_là_thiên_đường_cũng_là_địa_ngục_2.json",
+    "chapter_name": "Chương 14: Từ giờ trở đi, em chính là thiên đường cũng là địa ngục (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-14/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_15_Từ_giờ_trở_đi_em_chính_là_thiên_đường_cũng_là_địa_ngục_3.json",
+    "chapter_name": "Chương 15: Từ giờ trở đi, em chính là thiên đường cũng là địa ngục (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-15/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_161_Gặp_lại_1_1.json",
+    "chapter_name": "Chương 16-1: Gặp lại (1) (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-16-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_162_Gặp_lại_1_2.json",
+    "chapter_name": "Chương 16-2: Gặp lại (1) (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-16-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_17_Gặp_lại_2.json",
+    "chapter_name": "Chương 17: Gặp lại (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-17/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_181_Cản_trở_1_1.json",
+    "chapter_name": "Chương 18-1: Cản trở (1) (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-18-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_182_Cản_trở_1_2.json",
+    "chapter_name": "Chương 18-2: Cản trở (1) (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-18-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_19_Cản_trở_2.json",
+    "chapter_name": "Chương 19: Cản trở (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-19/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_20_Nhậm_chức_1.json",
+    "chapter_name": "Chương 20: Nhậm chức (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-20/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_21_Nhậm_chức_2.json",
+    "chapter_name": "Chương 21: Nhậm chức (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-21/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_22_Nhậm_chức_3.json",
+    "chapter_name": "Chương 22: Nhậm chức (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-22/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_23_Kẻ_điên_1.json",
+    "chapter_name": "Chương 23: Kẻ điên (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-23/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_24_Kẻ_điên_2.json",
+    "chapter_name": "Chương 24: Kẻ điên (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-24/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_25_Thế_thân_1.json",
+    "chapter_name": "Chương 25: Thế thân (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-25/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_26_Thế_thân_2.json",
+    "chapter_name": "Chương 26: Thế thân (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-26/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_27_Hồ_Sơ_1.json",
+    "chapter_name": "Chương 27: Hồ Sơ (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-27/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_28_Hồ_Sơ_2.json",
+    "chapter_name": "Chương 28: Hồ Sơ (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-28/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_29_Bảo_bối_1.json",
+    "chapter_name": "Chương 29: Bảo bối (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-29/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_30_Bảo_bối_2.json",
+    "chapter_name": "Chương 30: Bảo bối (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-30/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_31_Cố_nhân_1.json",
+    "chapter_name": "Chương 31: Cố nhân* (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-31/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_32_Cố_nhân_2.json",
+    "chapter_name": "Chương 32: Cố nhân (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-32/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_33_Oan_cũ_1.json",
+    "chapter_name": "Chương 33: Oan cũ (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-33/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_34_Oan_cũ_2.json",
+    "chapter_name": "Chương 34: Oan cũ (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-34/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_35_Điều_tra_1.json",
+    "chapter_name": "Chương 35: Điều tra (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-35/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_36_Điều_tra_2.json",
+    "chapter_name": "Chương 36: Điều tra (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-36/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_37_Trợ_lý_1.json",
+    "chapter_name": "Chương 37: Trợ lý (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-37/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_38_Trợ_lý_2.json",
+    "chapter_name": "Chương 38: Trợ lý (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-38/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_39_Trợ_lý_3.json",
+    "chapter_name": "Chương 39: Trợ lý (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-39/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_40_Làm_khó_dễ_1.json",
+    "chapter_name": "Chương 40: Làm khó dễ (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-40/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_41_Làm_khó_dễ_2.json",
+    "chapter_name": "Chương 41: Làm khó dễ (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-41/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_42_Tiệc_rượu_1.json",
+    "chapter_name": "Chương 42: Tiệc rượu (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-42/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_43_Tiệc_rượu_2.json",
+    "chapter_name": "Chương 43: Tiệc rượu (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-43/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_44_Tiệc_rượu_3.json",
+    "chapter_name": "Chương 44: Tiệc rượu (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-44/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_451_Nghi_ngờ_1.json",
+    "chapter_name": "Chương 45-1: Nghi ngờ (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-45-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_452_Nghi_ngờ_2.json",
+    "chapter_name": "Chương 45-2: Nghi ngờ (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-45-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_461_Cha_mẹ_1.json",
+    "chapter_name": "Chương 46-1: Cha mẹ (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-46-1/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_462_Cha_mẹ_2.json",
+    "chapter_name": "Chương 46-2: Cha mẹ (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-46-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_47_Dấu_cắn_1.json",
+    "chapter_name": "Chương 47: Dấu cắn (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-47/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_472_Dấu_cắn_2.json",
+    "chapter_name": "Chương 47-2: Dấu cắn (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-47-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_48.json",
+    "chapter_name": "Chương 48",
+    "url": "https://truyenfull.io/dau-can/chuong-48/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_482.json",
+    "chapter_name": "Chương 48-2",
+    "url": "https://truyenfull.io/dau-can/chuong-48-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_49_Tiệc_khánh_công_1.json",
+    "chapter_name": "Chương 49: Tiệc khánh công (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-49/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_492_Tiệc_khánh_công_2.json",
+    "chapter_name": "Chương 49-2: Tiệc khánh công (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-49-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_50_Bổ_nhiệm_1.json",
+    "chapter_name": "Chương 50: Bổ nhiệm (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-50/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_502_Bổ_nhiệm_2.json",
+    "chapter_name": "Chương 50-2: Bổ nhiệm (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-50-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_51_Cạm_bẫy_1.json",
+    "chapter_name": "Chương 51: Cạm bẫy (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-51/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_512_Cạm_bẫy_2.json",
+    "chapter_name": "Chương 51-2: Cạm bẫy (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-51-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_52_Lợi_dụng.json",
+    "chapter_name": "Chương 52: Lợi dụng...",
+    "url": "https://truyenfull.io/dau-can/chuong-52/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_522_Lợi_dụng_2.json",
+    "chapter_name": "Chương 52-2: Lợi dụng... 2",
+    "url": "https://truyenfull.io/dau-can/chuong-52-2/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_53_Thân_mật.json",
+    "chapter_name": "Chương 53: Thân mật",
+    "url": "https://truyenfull.io/dau-can/chuong-53/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_54_Lại_hoài_nghi.json",
+    "chapter_name": "Chương 54: Lại hoài nghi",
+    "url": "https://truyenfull.io/dau-can/chuong-54/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_55_Xuất_ngoại.json",
+    "chapter_name": "Chương 55: Xuất ngoại",
+    "url": "https://truyenfull.io/dau-can/chuong-55/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_56_Thư_Thư.json",
+    "chapter_name": "Chương 56: Thư Thư",
+    "url": "https://truyenfull.io/dau-can/chuong-56/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_57_Thẩm_phán.json",
+    "chapter_name": "Chương 57: Thẩm phán",
+    "url": "https://truyenfull.io/dau-can/chuong-57/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_58_Chân_tướng.json",
+    "chapter_name": "Chương 58: Chân tướng",
+    "url": "https://truyenfull.io/dau-can/chuong-58/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_59_Bố_cục.json",
+    "chapter_name": "Chương 59: Bố cục",
+    "url": "https://truyenfull.io/dau-can/chuong-59/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_60_Trò_chơi.json",
+    "chapter_name": "Chương 60: Trò chơi",
+    "url": "https://truyenfull.io/dau-can/chuong-60/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_61_Ngả_bài.json",
+    "chapter_name": "Chương 61: Ngả bài",
+    "url": "https://truyenfull.io/dau-can/chuong-61/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_62_Giao_chiến.json",
+    "chapter_name": "Chương 62: Giao chiến",
+    "url": "https://truyenfull.io/dau-can/chuong-62/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_63_Giăng_lưới.json",
+    "chapter_name": "Chương 63: Giăng lưới",
+    "url": "https://truyenfull.io/dau-can/chuong-63/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_64_Vào_tầm_ngắm.json",
+    "chapter_name": "Chương 64: Vào tầm ngắm",
+    "url": "https://truyenfull.io/dau-can/chuong-64/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_65_Trốn_thoát.json",
+    "chapter_name": "Chương 65: Trốn thoát?",
+    "url": "https://truyenfull.io/dau-can/chuong-65/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_66_Xung_đột.json",
+    "chapter_name": "Chương 66: Xung đột",
+    "url": "https://truyenfull.io/dau-can/chuong-66/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_67_Thu_lưới.json",
+    "chapter_name": "Chương 67: Thu lưới",
+    "url": "https://truyenfull.io/dau-can/chuong-67/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_68_Giãy_giụa.json",
+    "chapter_name": "Chương 68: Giãy giụa",
+    "url": "https://truyenfull.io/dau-can/chuong-68/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_69_Kết_thúc.json",
+    "chapter_name": "Chương 69: Kết thúc",
+    "url": "https://truyenfull.io/dau-can/chuong-69/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_70_Dư_âm.json",
+    "chapter_name": "Chương 70: Dư âm",
+    "url": "https://truyenfull.io/dau-can/chuong-70/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/dau-can/chuong-71/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/dau-can/chuong-72/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/dau-can/chuong-73/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/dau-can/chuong-74/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/dau-can/chuong-75/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/dau-can/chuong-76/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/dau-can/chuong-77/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/dau-can/chuong-78/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/dau-can/chuong-79/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/dau-can/chuong-80/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/dau-can/chuong-81/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/dau-can/chuong-82/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/dau-can/chuong-83/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/dau-can/chuong-84/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/dau-can/chuong-85/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/dau-can/chuong-86/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/dau-can/chuong-87/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/dau-can/chuong-88/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_89_Năm_mới_1.json",
+    "chapter_name": "Chương 89: Năm mới (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-89/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_90_Năm_mới_2.json",
+    "chapter_name": "Chương 90: Năm mới (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-90/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_91_Hôn_lễ_Thượng.json",
+    "chapter_name": "Chương 91: Hôn lễ (Thượng)",
+    "url": "https://truyenfull.io/dau-can/chuong-91/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_92_Hôn_lễ_Hạ.json",
+    "chapter_name": "Chương 92: Hôn lễ (Hạ)",
+    "url": "https://truyenfull.io/dau-can/chuong-92/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_93_Ngoại_truyện_1_Phiên_ngoại_của_Tiểu_Trân_Châu.json",
+    "chapter_name": "Chương 93: Ngoại truyện 1: Phiên ngoại của Tiểu Trân Châu",
+    "url": "https://truyenfull.io/dau-can/chuong-93/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_94_Ngoại_truyện_2_Anh_là_nhân_tài_kiệt_xuất_trên_thế_gian_1.json",
+    "chapter_name": "Chương 94: Ngoại truyện 2: Anh là nhân tài kiệt xuất trên thế gian (1)",
+    "url": "https://truyenfull.io/dau-can/chuong-94/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_95_Ngoại_truyện_3_Anh_là_nhân_tài_kiệt_xuất_trên_thế_gian_2.json",
+    "chapter_name": "Chương 95: Ngoại truyện 3: Anh là nhân tài kiệt xuất trên thế gian (2)",
+    "url": "https://truyenfull.io/dau-can/chuong-95/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_96_Ngoại_truyện_4_Anh_là_nhân_tài_kiệt_xuất_trên_thế_gian_3.json",
+    "chapter_name": "Chương 96: Ngoại truyện 4: Anh là nhân tài kiệt xuất trên thế gian (3)",
+    "url": "https://truyenfull.io/dau-can/chuong-96/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_97_Ngoại_truyện_5_Anh_là_nhân_tài_kiệt_xuất_trên_thế_gian_4.json",
+    "chapter_name": "Chương 97: Ngoại truyện 5: Anh là nhân tài kiệt xuất trên thế gian (4)",
+    "url": "https://truyenfull.io/dau-can/chuong-97/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_98_Ngoại_truyện_6_Anh_chính_là_nhân_tài_kiệt_xuất_trên_thế_gian_5.json",
+    "chapter_name": "Chương 98: Ngoại truyện 6: Anh chính là nhân tài kiệt xuất trên thế gian (5)",
+    "url": "https://truyenfull.io/dau-can/chuong-98/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_99_Ngoại_truyện_7.json",
+    "chapter_name": "Chương 99: Ngoại truyện 7",
+    "url": "https://truyenfull.io/dau-can/chuong-99/"
+  },
+  {
+    "path": "data/Dấu_Cắn/Chương_100_Ngoại_truyện_8.json",
+    "chapter_name": "Chương 100: Ngoại truyện 8",
+    "url": "https://truyenfull.io/dau-can/chuong-100/"
+  }
+]
