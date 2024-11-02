@@ -1,0 +1,782 @@
+[
+  {
+    "path": "data/Vu_Sư/Chương_1_Vu_sư_lần_đầu_lên_thành_phố.json",
+    "chapter_name": "Chương 1: Vu sư lần đầu lên thành phố",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-1/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_2_Em_là_vị_hôn_thê_của_anh.json",
+    "chapter_name": "Chương 2: Em là vị hôn thê của anh",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-2/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_3_Có_nên_động_phòng_trước_không.json",
+    "chapter_name": "Chương 3: Có nên động phòng trước không?",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-3/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_4_Cậu_ta_trông_y_như_tội_phạm_truy_nã.json",
+    "chapter_name": "Chương 4: Cậu ta trông y như tội phạm truy nã",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-4/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_5_Chồng_cưới_về_nhà_là_để_che_chở.json",
+    "chapter_name": "Chương 5: Chồng cưới về nhà là để che chở",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-5/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-6/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-7/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-8/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-9/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-10/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-11/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-12/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-13/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-14/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-15/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-16/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-17/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-18/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_19.json",
+    "chapter_name": "Chương 19",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-19/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_20.json",
+    "chapter_name": "Chương 20",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-20/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_21.json",
+    "chapter_name": "Chương 21",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-21/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_22.json",
+    "chapter_name": "Chương 22",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-22/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_23.json",
+    "chapter_name": "Chương 23",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-23/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_24.json",
+    "chapter_name": "Chương 24",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-24/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_25.json",
+    "chapter_name": "Chương 25",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-25/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_26.json",
+    "chapter_name": "Chương 26",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-26/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_27.json",
+    "chapter_name": "Chương 27",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-27/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_28.json",
+    "chapter_name": "Chương 28",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-28/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_29.json",
+    "chapter_name": "Chương 29",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-29/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_30.json",
+    "chapter_name": "Chương 30",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-30/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_31.json",
+    "chapter_name": "Chương 31",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-31/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_32.json",
+    "chapter_name": "Chương 32",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-32/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_33.json",
+    "chapter_name": "Chương 33",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-33/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_34.json",
+    "chapter_name": "Chương 34",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-34/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_35.json",
+    "chapter_name": "Chương 35",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-35/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_36.json",
+    "chapter_name": "Chương 36",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-36/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_37.json",
+    "chapter_name": "Chương 37",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-37/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_38.json",
+    "chapter_name": "Chương 38",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-38/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_39.json",
+    "chapter_name": "Chương 39",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-39/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_40.json",
+    "chapter_name": "Chương 40",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-40/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_41.json",
+    "chapter_name": "Chương 41",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-41/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_42.json",
+    "chapter_name": "Chương 42",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-42/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_43.json",
+    "chapter_name": "Chương 43",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-43/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_44.json",
+    "chapter_name": "Chương 44",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-44/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_45.json",
+    "chapter_name": "Chương 45",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-45/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_46.json",
+    "chapter_name": "Chương 46",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-46/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_47.json",
+    "chapter_name": "Chương 47",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-47/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_48_Cô_vợ_bé_nhỏ_của_nhân_vật_phản_diện.json",
+    "chapter_name": "Chương 48: Cô vợ bé nhỏ của nhân vật phản diện?",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-48/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-49/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_50.json",
+    "chapter_name": "Chương 50",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-50/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-51/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_52.json",
+    "chapter_name": "Chương 52",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-52/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_53.json",
+    "chapter_name": "Chương 53",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-53/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-54/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_55.json",
+    "chapter_name": "Chương 55",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-55/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_56.json",
+    "chapter_name": "Chương 56",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-56/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-57/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-58/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-59/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-60/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-61/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-62/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-63/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-64/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-65/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-66/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-67/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-68/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-69/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-70/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-71/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-72/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-73/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-74/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-75/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-76/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-77/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-78/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-79/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-80/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-81/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-82/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-83/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-84/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-85/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-86/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-87/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-88/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-89/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-90/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-91/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-92/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-93/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-94/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-95/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-96/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-97/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-98/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-99/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-100/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-101/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-102/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-103/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-104/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-105/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-106/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-107/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-108/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_109.json",
+    "chapter_name": "Chương 109",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-109/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_110.json",
+    "chapter_name": "Chương 110",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-110/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-111/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_112.json",
+    "chapter_name": "Chương 112",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-112/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_113.json",
+    "chapter_name": "Chương 113",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-113/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_114.json",
+    "chapter_name": "Chương 114",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-114/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_115.json",
+    "chapter_name": "Chương 115",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-115/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_116.json",
+    "chapter_name": "Chương 116",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-116/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_117.json",
+    "chapter_name": "Chương 117",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-117/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_118.json",
+    "chapter_name": "Chương 118",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-118/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_119.json",
+    "chapter_name": "Chương 119",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-119/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_120.json",
+    "chapter_name": "Chương 120",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-120/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_121.json",
+    "chapter_name": "Chương 121",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-121/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_122.json",
+    "chapter_name": "Chương 122",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-122/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_123.json",
+    "chapter_name": "Chương 123",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-123/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_124.json",
+    "chapter_name": "Chương 124",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-124/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_125_Cảnh_sát_Hoắc_đáng_thương.json",
+    "chapter_name": "Chương 125: Cảnh sát Hoắc đáng thương",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-125/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_126_Oa_Oa_thăng_cấp.json",
+    "chapter_name": "Chương 126: Oa Oa thăng cấp",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-126/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_127.json",
+    "chapter_name": "Chương 127",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-127/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_128.json",
+    "chapter_name": "Chương 128",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-128/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_129.json",
+    "chapter_name": "Chương 129",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-129/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_130_Lần_đầu_tiên_của_Hoắc_đội.json",
+    "chapter_name": "Chương 130: Lần đầu tiên của Hoắc đội",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-130/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_131_Suy_nghĩ_của_Quý_Lãng.json",
+    "chapter_name": "Chương 131: Suy nghĩ của Quý Lãng",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-131/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_132.json",
+    "chapter_name": "Chương 132",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-132/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_133.json",
+    "chapter_name": "Chương 133",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-133/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_134.json",
+    "chapter_name": "Chương 134",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-134/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_135.json",
+    "chapter_name": "Chương 135",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-135/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_136.json",
+    "chapter_name": "Chương 136",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-136/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_137.json",
+    "chapter_name": "Chương 137",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-137/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_138_Dựa_vào_đâu.json",
+    "chapter_name": "Chương 138: Dựa vào đâu",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-138/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_139.json",
+    "chapter_name": "Chương 139",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-139/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_140.json",
+    "chapter_name": "Chương 140",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-140/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_141.json",
+    "chapter_name": "Chương 141",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-141/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_142.json",
+    "chapter_name": "Chương 142",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-142/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_143.json",
+    "chapter_name": "Chương 143",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-143/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_144.json",
+    "chapter_name": "Chương 144",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-144/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_145.json",
+    "chapter_name": "Chương 145",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-145/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_146.json",
+    "chapter_name": "Chương 146",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-146/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_147_Tam_nhân_sinh_quan_của_Hoắc_đội_bể_nát_dưới_đất.json",
+    "chapter_name": "Chương 147: Tam nhân sinh quan của Hoắc đội bể nát dưới đất",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-147/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_148_Muốn_trải_nghiệm_xuất_hồn_không.json",
+    "chapter_name": "Chương 148: Muốn trải nghiệm xuất hồn không?",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-148/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_149_Sẽ_không_chỉ_một_mình_anh_chết.json",
+    "chapter_name": "Chương 149: Sẽ không chỉ một mình anh chết",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-149/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_150.json",
+    "chapter_name": "Chương 150",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-150/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_151.json",
+    "chapter_name": "Chương 151",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-151/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_152.json",
+    "chapter_name": "Chương 152",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-152/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_153.json",
+    "chapter_name": "Chương 153",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-153/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_154_Ngoại_truyện_của_Hoắc_đội.json",
+    "chapter_name": "Chương 154: Ngoại truyện của Hoắc đội",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-154/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_155.json",
+    "chapter_name": "Chương 155",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-155/"
+  },
+  {
+    "path": "data/Vu_Sư/Chương_156.json",
+    "chapter_name": "Chương 156",
+    "url": "https://truyenfull.io/vu-su-649010/chuong-156/"
+  }
+]
