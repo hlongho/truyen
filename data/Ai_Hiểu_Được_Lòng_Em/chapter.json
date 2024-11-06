@@ -1,0 +1,437 @@
+[
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_1_Điểm_tựa_của_chúng_tôi.json",
+    "chapter_name": "Chương 1: Điểm tựa của chúng tôi",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-1/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_2_Sự_xuất_hiện_của_nàng.json",
+    "chapter_name": "Chương 2: Sự xuất hiện của nàng",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-2/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_3_Thời_niên_thiếu.json",
+    "chapter_name": "Chương 3: Thời niên thiếu",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-3/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_4_Nàng_và_khoảng_cách_của_nàng.json",
+    "chapter_name": "Chương 4: Nàng và khoảng cách của nàng",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-4/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_5_Nổi_giận.json",
+    "chapter_name": "Chương 5: Nổi giận",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-5/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_6_Anh.json",
+    "chapter_name": "Chương 6: Anh",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-6/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_7_Tỉnh_mộng.json",
+    "chapter_name": "Chương 7: Tỉnh mộng",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-7/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_8_Quá_khứ_chỉ_là_quá_khứ.json",
+    "chapter_name": "Chương 8: Quá khứ chỉ là quá khứ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-8/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_9_Những_năm_tháng_hồn_nhiên.json",
+    "chapter_name": "Chương 9: Những năm tháng hồn nhiên",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-9/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_10_Duyên_sinh_duyên_diệt.json",
+    "chapter_name": "Chương 10: Duyên sinh duyên diệt",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-10/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_11_Ai_đang_nghe_trộm.json",
+    "chapter_name": "Chương 11: Ai đang nghe trộm",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-11/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_12_Xuân_quyến_rũ_thu_nhạt_nhòa.json",
+    "chapter_name": "Chương 12: Xuân quyến rũ, thu nhạt nhòa",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-12/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_13_Độc.json",
+    "chapter_name": "Chương 13: Độc",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-13/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_14_Tháng_năm_phai_mờ.json",
+    "chapter_name": "Chương 14: Tháng năm phai mờ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-14/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_15_Cô_hướng_về_bên_trái_anh_hướng_về_bên_phải.json",
+    "chapter_name": "Chương 15: Cô hướng về bên trái, anh hướng về bên phải",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-15/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_16_Cảnh_còn_người_mất_1.json",
+    "chapter_name": "Chương 16: Cảnh còn người mất (1)",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-16/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_17_Cảnh_còn_người_mất_2.json",
+    "chapter_name": "Chương 17: Cảnh còn người mất (2)",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-17/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_18_Trước_ánh_bình_minh.json",
+    "chapter_name": "Chương 18: Trước ánh bình minh",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-18/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_19_Chúng_ta_đều_không_phải_thiên_thần.json",
+    "chapter_name": "Chương 19: Chúng ta đều không phải thiên thần",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-19/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_20_Không_có_bức_tường_nào_chắn_được_gió.json",
+    "chapter_name": "Chương 20: Không có bức tường nào chắn được gió",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-20/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_21_Em_tưởng_rằng_đã_yêu.json",
+    "chapter_name": "Chương 21: Em tưởng rằng đã yêu",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-21/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_22_Là_ai_từ_biệt_ai.json",
+    "chapter_name": "Chương 22: Là ai từ biệt ai",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-22/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_23_Nghỉ_phép.json",
+    "chapter_name": "Chương 23: Nghỉ phép",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-23/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_24_Quả_thực_không_có_ý_gì_tốt.json",
+    "chapter_name": "Chương 24: Quả thực, không có ý gì tốt!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-24/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_25_Tự_đánh_giá_thấp_bản_thân.json",
+    "chapter_name": "Chương 25: Tự đánh giá thấp bản thân!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-25/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_26_Trợ_thủ_đặc_biệt_mới_đến.json",
+    "chapter_name": "Chương 26: Trợ thủ đặc biệt mới đến",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-26/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_27_Yêu_và_không_yêu.json",
+    "chapter_name": "Chương 27: Yêu và không yêu",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-27/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_28.json",
+    "chapter_name": "Chương 28",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-28/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_29_Hư_vô_mờ_mịt.json",
+    "chapter_name": "Chương 29: Hư vô mờ mịt",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-29/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_30_Ai_có_thể_vĩnh_viễn_sống_trong_quá_khứ.json",
+    "chapter_name": "Chương 30: Ai có thể vĩnh viễn sống trong quá khứ?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-30/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_31_Chuyện_cũ_như_mộng.json",
+    "chapter_name": "Chương 31: Chuyện cũ như mộng",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-31/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_32_Cảm_giác_quen_thuộc.json",
+    "chapter_name": "Chương 32: Cảm giác quen thuộc",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-32/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_33_Phản_diện_giáo_tài.json",
+    "chapter_name": "Chương 33: Phản diện giáo tài",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-33/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_34_Hoa_ra_Mac_phu_nhân_cung_không_hê_nhan_rôi.json",
+    "chapter_name": "Chương 34: Hóa ra Mạc phu nhân cũng không hề nhàn rỗi",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-34/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_35_Ngươi_quen.json",
+    "chapter_name": "Chương 35: Người quen",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-35/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_36_Đa_đinh_trươc.json",
+    "chapter_name": "Chương 36: Đã định trước",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-36/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_37_Khac_thương.json",
+    "chapter_name": "Chương 37: Khác thường",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-37/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_38_Cung_không_ngoai_y_muôn.json",
+    "chapter_name": "Chương 38: Cũng không ngoài ý muốn",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-38/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_39_Đung_cô_ây_vân_tư_phu_như_vây.json",
+    "chapter_name": "Chương 39: Đúng, cô ấy vẫn tự phụ như vậy!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-39/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_40_Thật_ra_em_đều_biết_rõ.json",
+    "chapter_name": "Chương 40: Thật ra em đều biết rõ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-40/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_41_Hoa_nở_năm_đó.json",
+    "chapter_name": "Chương 41: Hoa nở năm đó",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-41/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_42_Chưa_xong.json",
+    "chapter_name": "Chương 42: Chưa xong",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-42/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_43_Ngươi_la.json",
+    "chapter_name": "Chương 43: Người lạ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-43/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_44_Đươc_mât.json",
+    "chapter_name": "Chương 44: Được mất",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-44/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_45_Nêu_không_cach_xa.json",
+    "chapter_name": "Chương 45: Nếu không cách xa",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-45/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_46_Đươc_thôi.json",
+    "chapter_name": "Chương 46: Được thôi!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-46/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_47_Mây_đen_che_khuât_măt_trơi.json",
+    "chapter_name": "Chương 47: Mây đen che khuất mặt trời",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-47/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_48_Ngoai_dư_tinh.json",
+    "chapter_name": "Chương 48: Ngoài dự tính",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-48/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_49_Nu_cươi_cuôi_cung.json",
+    "chapter_name": "Chương 49: Nụ cười cuối cùng",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-49/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_50_Nươc_lưa_dung_hoa.json",
+    "chapter_name": "Chương 50: Nước lửa dung hòa",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-50/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_51_Ươc_ao_ư_.json",
+    "chapter_name": "Chương 51: Ước ao ư ?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-51/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_52_Cho_anh_ba_quân.json",
+    "chapter_name": "Chương 52: Cho anh ba quân!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-52/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_53_Không_dê_dang_như_vây.json",
+    "chapter_name": "Chương 53: Không dễ dàng như vậy",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-53/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-54/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_55_Ly_do_hoan_hao.json",
+    "chapter_name": "Chương 55: Lý do hoàn hảo",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-55/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_56_Môt_tâp_phim.json",
+    "chapter_name": "Chương 56: Một tập phim",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-56/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_57_Hoa_ra_la_anh.json",
+    "chapter_name": "Chương 57: Hóa ra là anh",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-57/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_58_Không_co_y_tôt.json",
+    "chapter_name": "Chương 58: Không có ý tốt",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-58/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_59_Cô_muôn_lam_viêc.json",
+    "chapter_name": "Chương 59: Cô muốn làm việc",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-59/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_60_Pham_sai_lâm.json",
+    "chapter_name": "Chương 60: Phạm sai lầm",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-60/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_61_Cam_giac_phiên_toai.json",
+    "chapter_name": "Chương 61: Cảm giác phiền toái",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-61/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_62_La_ai_nơ_ai.json",
+    "chapter_name": "Chương 62: Là ai nợ ai",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-62/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_63_Ai_co_thê_nhin_thâu.json",
+    "chapter_name": "Chương 63: Ai có thể nhìn thấu",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-63/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_64_Têt_âm_lich.json",
+    "chapter_name": "Chương 64: Tết âm lịch",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-64/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_65_Bi_cam.json",
+    "chapter_name": "Chương 65: Bị cảm",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-65/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_66_Anh_măt.json",
+    "chapter_name": "Chương 66: Ánh mắt",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-66/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_67_Nêu_như_đây_la_ngươi_thân.json",
+    "chapter_name": "Chương 67: Nếu như đây là người thân",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-67/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_68_Con_chung_ta.json",
+    "chapter_name": "Chương 68: Con chúng ta",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-68/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_69_Đo_la_ai_la_ai.json",
+    "chapter_name": "Chương 69: Đó là ai, là ai?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-69/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_70_Sinh_nhât.json",
+    "chapter_name": "Chương 70: Sinh nhật?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-70/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_71_Thi_sao.json",
+    "chapter_name": "Chương 71: Thì sao?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-71/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_72_Tôi_tinh_nguyên_cho_răng_cô_đa_chêt.json",
+    "chapter_name": "Chương 72: Tôi tình nguyện cho rằng cô đã chết",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-72/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_73_Hôn_lê_cua_bon_ho.json",
+    "chapter_name": "Chương 73: Hôn lễ của bọn họ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-73/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_74_Ai_chiêm_đươc.json",
+    "chapter_name": "Chương 74: Ai chiếm được?",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-74/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_75_Thăng_ư_Không_co.json",
+    "chapter_name": "Chương 75: Thắng ư? Không có!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-75/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_76_Tiên_duyên_rôi_răm.json",
+    "chapter_name": "Chương 76: Tiền duyên rối rắm",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-76/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_77_Mưa_lơn_suôt_đêm.json",
+    "chapter_name": "Chương 77: Mưa lớn suốt đêm",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-77/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_78_Âm_ưc.json",
+    "chapter_name": "Chương 78: Ấm ức",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-78/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_79_Nêu_như_binh_an.json",
+    "chapter_name": "Chương 79: Nếu như bình an",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-79/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_80_Cư_như_vây_đi.json",
+    "chapter_name": "Chương 80: Cứ như vậy đi!",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-80/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_81_Cư_như_vây_đi_P2.json",
+    "chapter_name": "Chương 81: Cứ như vậy đi! (P2)",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-81/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_82_Người_ích_kỷ.json",
+    "chapter_name": "Chương 82: Người ích kỷ",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-82/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_83_Ngoại_truyện_Chuyên_bên_lề_1_Giác_quan_thứ_sáu_không_nhạy.json",
+    "chapter_name": "Chương 83: Ngoại truyện - Chuyên bên lề 1: Giác quan thứ sáu không nhạy",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-83/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_84_Ngoại_truyện_Chuyện_bên_lề_2_Tranh_tivi.json",
+    "chapter_name": "Chương 84: Ngoại truyện - Chuyện bên lề 2: Tranh tivi",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-84/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_85_Ngoại_truyện_Chuyện_bên_lề_3_Nhà_có_cô_vợ_lười.json",
+    "chapter_name": "Chương 85: Ngoại truyện - Chuyện bên lề 3: Nhà có cô vợ lười",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-85/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_86_Ngoại_truyện_Chuyện_bên_lề_4_Tàn_yêu.json",
+    "chapter_name": "Chương 86: Ngoại truyện - Chuyện bên lề 4: Tàn yêu",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-86/"
+  },
+  {
+    "path": "data/Ai_Hiểu_Được_Lòng_Em/Chương_87_Ngoại_truyện_5_Diệp_Húc_Đình.json",
+    "chapter_name": "Chương 87: Ngoại truyện 5: Diệp Húc Đình",
+    "url": "https://truyenfull.io/ai-hieu-duoc-long-em/chuong-87/"
+  }
+]
