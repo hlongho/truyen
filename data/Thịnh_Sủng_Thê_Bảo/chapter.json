@@ -1,0 +1,962 @@
+[
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_1_Giang_Diệu.json",
+    "chapter_name": "Chương 1: Giang Diệu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-1/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_2_Cứu_Mỹ_Nhân.json",
+    "chapter_name": "Chương 2: Cứu Mỹ Nhân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-2/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_3_Tam_Thúc.json",
+    "chapter_name": "Chương 3: Tam Thúc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-3/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_4_Tiểu_Muội.json",
+    "chapter_name": "Chương 4: Tiểu Muội",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-4/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_5_Anh_Đào.json",
+    "chapter_name": "Chương 5: Anh Đào",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-5/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_6_Thịt_Tươi.json",
+    "chapter_name": "Chương 6: Thịt Tươi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-6/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_7_Thiếu_Niên.json",
+    "chapter_name": "Chương 7: Thiếu Niên",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-7/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_8_Cho_Ăn.json",
+    "chapter_name": "Chương 8: Cho Ăn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-8/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_9_Sủng_Nịnh.json",
+    "chapter_name": "Chương 9: Sủng Nịnh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-9/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_10_Định_Thân.json",
+    "chapter_name": "Chương 10: Định Thân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-10/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_11_Ngẫu_Nhiên_Gặp.json",
+    "chapter_name": "Chương 11: Ngẫu Nhiên Gặp",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-11/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_12_Tuyển_Phu.json",
+    "chapter_name": "Chương 12: Tuyển Phu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-12/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_13_Mật_Đào.json",
+    "chapter_name": "Chương 13: Mật Đào",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-13/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_14_Cười_Nhạo.json",
+    "chapter_name": "Chương 14: Cười Nhạo",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-14/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_15_Hở.json",
+    "chapter_name": "Chương 15: Hở",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-15/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_16_Sự_Thật.json",
+    "chapter_name": "Chương 16: Sự Thật",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-16/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_17_Cướp_Người.json",
+    "chapter_name": "Chương 17: Cướp Người",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-17/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_18_Tiểu_Nương_Tử.json",
+    "chapter_name": "Chương 18: Tiểu Nương Tử",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-18/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_19_Long_Phượng.json",
+    "chapter_name": "Chương 19: Long Phượng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-19/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_20_Nam_nhân_ấm_áp_.json",
+    "chapter_name": "Chương 20: Nam nhân ấm áp . . .",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-20/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_21_Lo_lắng_.json",
+    "chapter_name": "Chương 21: Lo lắng . . .",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-21/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_22_Sợ_hãi.json",
+    "chapter_name": "Chương 22: Sợ hãi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-22/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_23_Hoắc_Nghiễn.json",
+    "chapter_name": "Chương 23: Hoắc Nghiễn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-23/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_24_Sinh_nhật.json",
+    "chapter_name": "Chương 24: Sinh nhật",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-24/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_25_Cào.json",
+    "chapter_name": "Chương 25: Cào",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-25/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_26_Biểu_đệ_và_biểu_tỷ.json",
+    "chapter_name": "Chương 26: Biểu đệ và biểu tỷ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-26/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_27_Tết_đoan_ngọ.json",
+    "chapter_name": "Chương 27: Tết đoan ngọ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-27/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_28_Gặp_gỡ.json",
+    "chapter_name": "Chương 28: Gặp gỡ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-28/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_29_Cùng_đi_chơi.json",
+    "chapter_name": "Chương 29: Cùng đi chơi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-29/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_30_Mất_tích.json",
+    "chapter_name": "Chương 30: Mất tích",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-30/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_31_Giải_cứu.json",
+    "chapter_name": "Chương 31: Giải cứu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-31/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_32_Đi_thăm_bệnh.json",
+    "chapter_name": "Chương 32: Đi thăm bệnh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-32/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_33_Nam_nhân_ngoan_ngoãn.json",
+    "chapter_name": "Chương 33: Nam nhân ngoan ngoãn!",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-33/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_34_Đánh_nhau.json",
+    "chapter_name": "Chương 34: Đánh nhau",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-34/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_35_Bị_phạt.json",
+    "chapter_name": "Chương 35: Bị phạt",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-35/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_36_Đau_lòng.json",
+    "chapter_name": "Chương 36: Đau lòng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-36/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_37_Đến_gặp.json",
+    "chapter_name": "Chương 37: Đến gặp",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-37/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_38_Bôi_thuốc.json",
+    "chapter_name": "Chương 38: Bôi thuốc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-38/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_39_Gậy_ông_đập_lưng_ông.json",
+    "chapter_name": "Chương 39: Gậy ông đập lưng ông",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-39/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_40_Sự_thật_đằng_sau.json",
+    "chapter_name": "Chương 40: Sự thật đằng sau",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-40/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_41_Xem_chim_non.json",
+    "chapter_name": "Chương 41: Xem chim non",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-41/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_42_Tết_trung_thu.json",
+    "chapter_name": "Chương 42: Tết trung thu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-42/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_43_Tiếp_tục_cứu_người.json",
+    "chapter_name": "Chương 43: Tiếp tục cứu người",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-43/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_44_Sinh_nhật_Giang_Diệu.json",
+    "chapter_name": "Chương 44: Sinh nhật Giang Diệu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-44/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_45_Thân_thiết.json",
+    "chapter_name": "Chương 45: Thân thiết",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-45/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_46_Tạ_di_nương_sảy_thai.json",
+    "chapter_name": "Chương 46: Tạ di nương sảy thai",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-46/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_47_Lão_Vương_phi_bệnh_nặng.json",
+    "chapter_name": "Chương 47: Lão Vương phi bệnh nặng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-47/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_48_Sự_kiện_khoai_lang_nướng.json",
+    "chapter_name": "Chương 48: Sự kiện khoai lang nướng!",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-48/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_49_Dỗ_dành_tiểu_nữ_oa.json",
+    "chapter_name": "Chương 49: Dỗ dành tiểu nữ oa!",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-49/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_50_Thời_gian_là_một_cái_chớp_mắt.json",
+    "chapter_name": "Chương 50: Thời gian là một cái chớp mắt",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-50/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_51_Quý_nữ_tụ_hội.json",
+    "chapter_name": "Chương 51: Quý nữ tụ hội",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-51/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_52_Gặp_lại.json",
+    "chapter_name": "Chương 52: Gặp lại",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-52/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_53_Trở_về.json",
+    "chapter_name": "Chương 53: Trở về",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-53/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_54_Hươu_con_đổi_chủ.json",
+    "chapter_name": "Chương 54: Hươu con đổi chủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-54/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_55_Anh_em_họ_Giang_làm_chuyện_xấu.json",
+    "chapter_name": "Chương 55: Anh em họ Giang làm chuyện xấu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-55/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_56_Đại_thọ_Ngoại_tổ_phụ.json",
+    "chapter_name": "Chương 56: Đại thọ Ngoại tổ phụ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-56/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_57_Tính_toán_của_Kiều_Tuần.json",
+    "chapter_name": "Chương 57: Tính toán của Kiều Tuần",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-57/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_58_Mỹ_nhân_nổi_giận.json",
+    "chapter_name": "Chương 58: Mỹ nhân nổi giận",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-58/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_59_Bị_người_mang_đi.json",
+    "chapter_name": "Chương 59: Bị người mang đi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-59/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_60_Nữ_phụ_xuất_hiện.json",
+    "chapter_name": "Chương 60: Nữ phụ xuất hiện",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-60/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_61_Hội_buôn_chuyện.json",
+    "chapter_name": "Chương 61: Hội buôn chuyện",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-61/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_62_Nam_nhân_hờn_mát.json",
+    "chapter_name": "Chương 62: Nam nhân hờn mát",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-62/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_63_Tiến_cung_dự_tiệc.json",
+    "chapter_name": "Chương 63: Tiến cung dự tiệc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-63/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_64_Âm_mưu_của_nữ_phụ.json",
+    "chapter_name": "Chương 64: Âm mưu của nữ phụ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-64/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_65_Lục_thúc_thúc_ăn_anh_đào.json",
+    "chapter_name": "Chương 65: Lục thúc thúc ăn anh đào!",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-65/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_66_Dì_cả_đến_thăm.json",
+    "chapter_name": "Chương 66: Dì cả đến thăm",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-66/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_67_Định_thân.json",
+    "chapter_name": "Chương 67: Định thân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-67/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_68_Ôm_cây_đợi_thỏ.json",
+    "chapter_name": "Chương 68: Ôm cây đợi thỏ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-68/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_69_Bày_tỏ_tâm_ý.json",
+    "chapter_name": "Chương 69: Bày tỏ tâm ý",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-69/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_70_Năm_mới.json",
+    "chapter_name": "Chương 70: Năm mới",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-70/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_71_Tết_nguyên_tiêu.json",
+    "chapter_name": "Chương 71: Tết nguyên tiêu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-71/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_72_Trả_lời.json",
+    "chapter_name": "Chương 72: Trả lời",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-72/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_73_Xuân_tâm_nhộn_nhạo.json",
+    "chapter_name": "Chương 73: Xuân tâm nhộn nhạo",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-73/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_74_Đôn_nhi.json",
+    "chapter_name": "Chương 74: Đôn nhi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-74/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_75_Đứng_về_phe_nàng.json",
+    "chapter_name": "Chương 75: Đứng về phe nàng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-75/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_76_Vô_tình_gặp_gỡ.json",
+    "chapter_name": "Chương 76: Vô tình gặp gỡ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-76/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_77_Tạ_lỗi.json",
+    "chapter_name": "Chương 77: Tạ lỗi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-77/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_78_Trừng_phạt_nhỏ.json",
+    "chapter_name": "Chương 78: Trừng phạt nhỏ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-78/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_79_Sự_cố.json",
+    "chapter_name": "Chương 79: Sự cố",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-79/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_80_Nhảy_cửa_sổ.json",
+    "chapter_name": "Chương 80: Nhảy cửa sổ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-80/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_81_Tỷ_muội_tâm_sự.json",
+    "chapter_name": "Chương 81: Tỷ muội tâm sự",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-81/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_82_Đại_hôn.json",
+    "chapter_name": "Chương 82: Đại hôn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-82/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_83_Gặp_Trang_thái_phi.json",
+    "chapter_name": "Chương 83: Gặp Trang thái phi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-83/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_84_Gió_mát_trăng_thanh.json",
+    "chapter_name": "Chương 84: Gió mát trăng thanh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-84/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_85_Lấy_lòng_nhạc_mẫu_tương_lai.json",
+    "chapter_name": "Chương 85: Lấy lòng nhạc mẫu tương lai",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-85/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_86_Giang_Thừa_Nhượng_thành_thân.json",
+    "chapter_name": "Chương 86: Giang Thừa Nhượng thành thân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-86/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_87_Tuyên_Vương_dự_tiệc.json",
+    "chapter_name": "Chương 87: Tuyên Vương dự tiệc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-87/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_88_Đường_Anh_xuất_hiện.json",
+    "chapter_name": "Chương 88: Đường Anh xuất hiện",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-88/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_89_Gặp_Giang_Thừa_Ngạn.json",
+    "chapter_name": "Chương 89: Gặp Giang Thừa Ngạn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-89/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_90_Chu_thị_trở_mặt.json",
+    "chapter_name": "Chương 90: Chu thị trở mặt",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-90/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_91_Lễ_vật_bất_ngờ.json",
+    "chapter_name": "Chương 91: Lễ vật bất ngờ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-91/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_92_Cầu_thân_thất_bại.json",
+    "chapter_name": "Chương 92: Cầu thân thất bại",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-92/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_93_Lén_lút_ra_ngoài.json",
+    "chapter_name": "Chương 93: Lén lút ra ngoài",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-93/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_94_Mừng_thọ_Tiết_lão_thái_thái.json",
+    "chapter_name": "Chương 94: Mừng thọ Tiết lão thái thái",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-94/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_95_Thế_cuộc_chuyển_biến.json",
+    "chapter_name": "Chương 95: Thế cuộc chuyển biến",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-95/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_96_Bất_ngờ_thay_đổi.json",
+    "chapter_name": "Chương 96: Bất ngờ thay đổi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-96/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_97_Sính_lễ.json",
+    "chapter_name": "Chương 97: Sính lễ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-97/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_98_Lễ_hội_săn_bắn.json",
+    "chapter_name": "Chương 98: Lễ hội săn bắn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-98/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_99_Diệu_Diệu_tưởng_bở.json",
+    "chapter_name": "Chương 99: Diệu Diệu tưởng bở",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-99/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_100_Tặng_quà.json",
+    "chapter_name": "Chương 100: Tặng quà",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-100/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_101_Thời_khắc_sống_còn.json",
+    "chapter_name": "Chương 101: Thời khắc sống còn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-101/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_102_Đánh_nhau_với_mụ_điên.json",
+    "chapter_name": "Chương 102: Đánh nhau với mụ điên",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-102/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_103_Đưa_người_trở_về.json",
+    "chapter_name": "Chương 103: Đưa người trở về",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-103/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_104_Nhanh_chóng_đến_thăm.json",
+    "chapter_name": "Chương 104: Nhanh chóng đến thăm",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-104/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_105_Thoả_mãn_ước_mơ_của_Vệ_Bảo_Linh.json",
+    "chapter_name": "Chương 105: Thoả mãn ước mơ của Vệ Bảo Linh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-105/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_106_Giang_Thừa_Hứa_thành_thân.json",
+    "chapter_name": "Chương 106: Giang Thừa Hứa thành thân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-106/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_107_Sắp_rồi_Nàng_chờ_một_chút.json",
+    "chapter_name": "Chương 107: “Sắp rồi… Nàng chờ một chút!”",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-107/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_108_Tiểu_phú_bà.json",
+    "chapter_name": "Chương 108: Tiểu phú bà",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-108/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_109_Ghen.json",
+    "chapter_name": "Chương 109: Ghen",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-109/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_110_Lục_Bồng_Bồng.json",
+    "chapter_name": "Chương 110: Lục Bồng Bồng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-110/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_111_Đường_Anh_nữ_hiệp.json",
+    "chapter_name": "Chương 111: Đường Anh nữ hiệp",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-111/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_112_Đợi_hai_năm.json",
+    "chapter_name": "Chương 112: Đợi hai năm",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-112/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_113_Gây_chuyện.json",
+    "chapter_name": "Chương 113: Gây chuyện",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-113/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_114_Phiền_muộn_và_hiểu_ra.json",
+    "chapter_name": "Chương 114: Phiền muộn và hiểu ra",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-114/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_115_Dỗ_dành_nam_nhân.json",
+    "chapter_name": "Chương 115: Dỗ dành nam nhân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-115/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_116_Định_ngày.json",
+    "chapter_name": "Chương 116: Định ngày",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-116/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_117_Lương_Thanh_Huyên_vào_cửa.json",
+    "chapter_name": "Chương 117: Lương Thanh Huyên vào cửa",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-117/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_118_Trước_ngày_xuất_giá.json",
+    "chapter_name": "Chương 118: Trước ngày xuất giá",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-118/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_119_Đón_dâu.json",
+    "chapter_name": "Chương 119: Đón dâu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-119/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_120_Trước_lúc_động_phòng.json",
+    "chapter_name": "Chương 120: Trước lúc động phòng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-120/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_121_Xuân_tiêu.json",
+    "chapter_name": "Chương 121: Xuân tiêu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-121/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_122_Thức_dậy.json",
+    "chapter_name": "Chương 122: Thức dậy",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-122/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_123_Tuyên_Vương_phủ.json",
+    "chapter_name": "Chương 123: Tuyên Vương phủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-123/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_124_Lại_mặt.json",
+    "chapter_name": "Chương 124: Lại mặt",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-124/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_125_Chiến_tranh_lạnh.json",
+    "chapter_name": "Chương 125: Chiến tranh lạnh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-125/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_126_Trên_bàn_ăn.json",
+    "chapter_name": "Chương 126: Trên bàn ăn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-126/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_127_Hôn_giả_kết_thúc.json",
+    "chapter_name": "Chương 127: Hôn giả kết thúc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-127/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_128_Bắt_nạt.json",
+    "chapter_name": "Chương 128: Bắt nạt",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-128/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_129_Nói_mơ.json",
+    "chapter_name": "Chương 129: Nói mơ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-129/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_130_Vương_phi_độc_ác.json",
+    "chapter_name": "Chương 130: Vương phi độc ác",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-130/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_131_Chỉ_một_nữ_nhân.json",
+    "chapter_name": "Chương 131: Chỉ một nữ nhân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-131/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_132_Lục_Lưu_nổi_giận.json",
+    "chapter_name": "Chương 132: Lục Lưu nổi giận",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-132/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_133_Tách_ra_ở_riêng.json",
+    "chapter_name": "Chương 133: Tách ra ở riêng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-133/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_134_Rời_khỏi_Vương_phủ.json",
+    "chapter_name": "Chương 134: Rời khỏi Vương phủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-134/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_135_Hài_tử.json",
+    "chapter_name": "Chương 135: Hài tử",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-135/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_136_Thuốc_tránh_thai.json",
+    "chapter_name": "Chương 136: Thuốc tránh thai",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-136/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_137_Giận_hờn.json",
+    "chapter_name": "Chương 137: Giận hờn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-137/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_138_Ngủ_thư_phòng.json",
+    "chapter_name": "Chương 138: Ngủ thư phòng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-138/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_139_Càng_để_ý_nàng.json",
+    "chapter_name": "Chương 139: Càng để ý nàng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-139/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_140_Đáp_ứng_hôn_sự.json",
+    "chapter_name": "Chương 140: Đáp ứng hôn sự",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-140/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_141_Mua_trang_sức.json",
+    "chapter_name": "Chương 141: Mua trang sức",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-141/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_142_Loạn_luân.json",
+    "chapter_name": "Chương 142: Loạn luân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-142/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_143_Hành_động_khác_lạ.json",
+    "chapter_name": "Chương 143: Hành động khác lạ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-143/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_144_Bình_dấm_chua.json",
+    "chapter_name": "Chương 144: Bình dấm chua",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-144/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_145_Cửa_thành_thất_thủ.json",
+    "chapter_name": "Chương 145: Cửa thành thất thủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-145/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_146_Lục_Bồng_Bồng_định_thân.json",
+    "chapter_name": "Chương 146: Lục Bồng Bồng định thân",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-146/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_147_Rời_xa_kinh_thành.json",
+    "chapter_name": "Chương 147: Rời xa kinh thành",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-147/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_148_Ngày_đầu_ở_Dân_Châu.json",
+    "chapter_name": "Chương 148: Ngày đầu ở Dân Châu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-148/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_149_Năm_mươi_bước_cười_một_trăm_bước.json",
+    "chapter_name": "Chương 149: Năm mươi bước cười một trăm bước",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-149/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_150_Không_thể_lười_biếng.json",
+    "chapter_name": "Chương 150: Không thể lười biếng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-150/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_151_Tống_phủ.json",
+    "chapter_name": "Chương 151: Tống phủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-151/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_152_Bảo_vệ_thúc_thúc.json",
+    "chapter_name": "Chương 152: Bảo vệ thúc thúc",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-152/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_153_Trúng_thưởng.json",
+    "chapter_name": "Chương 153: Trúng thưởng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-153/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_154_Cầu_viện_Tuyên_Vương.json",
+    "chapter_name": "Chương 154: Cầu viện Tuyên Vương",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-154/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_155_Tống_lão_thái_thái_tới_cửa.json",
+    "chapter_name": "Chương 155: Tống lão thái thái tới cửa",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-155/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_156_Bệnh_dịch.json",
+    "chapter_name": "Chương 156: Bệnh dịch",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-156/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_157_Suy_yếu.json",
+    "chapter_name": "Chương 157: Suy yếu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-157/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_158_Không_nỡ_xa_nàng.json",
+    "chapter_name": "Chương 158: Không nỡ xa nàng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-158/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_159_Hoạ_từ_miệng_mà_ra.json",
+    "chapter_name": "Chương 159: Hoạ từ miệng mà ra",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-159/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_160_Đi_chơi_tết.json",
+    "chapter_name": "Chương 160: Đi chơi tết",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-160/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_161_Làm_chuyện_hạ_lưu.json",
+    "chapter_name": "Chương 161: Làm chuyện hạ lưu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-161/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_162_Có_tâm_sự.json",
+    "chapter_name": "Chương 162: Có tâm sự",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-162/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_163_Bí_mật_từng_bị_chôn_vùi.json",
+    "chapter_name": "Chương 163: Bí mật từng bị chôn vùi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-163/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_164_Sinh_non.json",
+    "chapter_name": "Chương 164: Sinh non",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-164/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_165_Mẹ_tròn_con_vuông.json",
+    "chapter_name": "Chương 165: Mẹ tròn con vuông",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-165/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_166_Ở_cữ.json",
+    "chapter_name": "Chương 166: Ở cữ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-166/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_167_Buồn_nôn.json",
+    "chapter_name": "Chương 167: Buồn nôn",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-167/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_168_Vị_khách_bất_ngờ.json",
+    "chapter_name": "Chương 168: Vị khách bất ngờ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-168/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_169_Lại_bủm_bủm.json",
+    "chapter_name": "Chương 169: Lại bủm bủm",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-169/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_170_Kiều_Thị_trở_về.json",
+    "chapter_name": "Chương 170: Kiều Thị trở về",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-170/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_171_Xin_cưới.json",
+    "chapter_name": "Chương 171: Xin cưới",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-171/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_172_Thử_ghế.json",
+    "chapter_name": "Chương 172: Thử ghế",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-172/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_173_Trở_lại_kinh_thành.json",
+    "chapter_name": "Chương 173: Trở lại kinh thành",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-173/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_174_Trấn_Quốc_Công_phủ.json",
+    "chapter_name": "Chương 174: Trấn Quốc Công phủ",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-174/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_175_Phát_hiện_gian_tình.json",
+    "chapter_name": "Chương 175: Phát hiện gian tình",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-175/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_176_Say_rượu.json",
+    "chapter_name": "Chương 176: Say rượu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-176/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_177_Mời_sinh_nhật.json",
+    "chapter_name": "Chương 177: Mời sinh nhật",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-177/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_178_Đến_Lục_gia.json",
+    "chapter_name": "Chương 178: Đến Lục gia",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-178/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_179_Nhận_ra.json",
+    "chapter_name": "Chương 179: Nhận ra",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-179/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_180_Đến_thăm_Trưởng_công_chúa.json",
+    "chapter_name": "Chương 180: Đến thăm Trưởng công chúa",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-180/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_181_Hờn_mát.json",
+    "chapter_name": "Chương 181: Hờn mát",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-181/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_182_Chuyện_ở_Pháp_Hoa_tự.json",
+    "chapter_name": "Chương 182: Chuyện ở Pháp Hoa tự",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-182/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_183_Cảnh_Huệ_đế.json",
+    "chapter_name": "Chương 183: Cảnh Huệ đế",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-183/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_184_Bị_hưu.json",
+    "chapter_name": "Chương 184: Bị hưu",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-184/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_185_Tạ_Nhân_lĩnh_phiếu_cơm.json",
+    "chapter_name": "Chương 185: Tạ Nhân lĩnh phiếu cơm",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-185/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_186_Bị_đánh_mông.json",
+    "chapter_name": "Chương 186: Bị đánh mông",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-186/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_187_Chuyện_đời_trước.json",
+    "chapter_name": "Chương 187: Chuyện đời trước",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-187/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_188_Ngự_giá_thân_chinh.json",
+    "chapter_name": "Chương 188: Ngự giá thân chinh",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-188/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_189_Bộ_mặt_thật_của_Trang_thái_phi.json",
+    "chapter_name": "Chương 189: Bộ mặt thật của Trang thái phi",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-189/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_190_Lục_Lưu_tử_trận.json",
+    "chapter_name": "Chương 190: Lục Lưu tử trận",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-190/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_191_Sóng_gió_cuối_cùng.json",
+    "chapter_name": "Chương 191: Sóng gió cuối cùng",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-191/"
+  },
+  {
+    "path": "data/Thịnh_Sủng_Thê_Bảo/Chương_192_Hoàn_truyện.json",
+    "chapter_name": "Chương 192: Hoàn truyện",
+    "url": "https://truyenfull.io/thinh-sung-the-bao/chuong-192/"
+  }
+]
