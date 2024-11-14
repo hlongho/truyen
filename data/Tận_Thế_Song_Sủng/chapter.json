@@ -1,0 +1,2002 @@
+[
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_1_Mới_gặp_gỡ.json",
+    "chapter_name": "Chương 1: Mới gặp gỡ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-1/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_2_Trọng_sinh.json",
+    "chapter_name": "Chương 2: Trọng sinh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-2/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_3_Tận_thế.json",
+    "chapter_name": "Chương 3: Tận thế",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-3/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_4_Không_gian.json",
+    "chapter_name": "Chương 4: Không gian",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-4/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_5_Đính_hôn.json",
+    "chapter_name": "Chương 5: Đính hôn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-5/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_6_Đi_ra_ngoài.json",
+    "chapter_name": "Chương 6: Đi ra ngoài",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-6/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_7_Thế_mậu.json",
+    "chapter_name": "Chương 7: Thế mậu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-7/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_8_Siêu_thị.json",
+    "chapter_name": "Chương 8: Siêu thị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-8/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_9_Càn_quét.json",
+    "chapter_name": "Chương 9: Càn quét",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-9/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_10_Xong.json",
+    "chapter_name": "Chương 10: Xong",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-10/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_11_Vê_Nhà.json",
+    "chapter_name": "Chương 11: Về Nhà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-11/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_12_Ăn_cơm.json",
+    "chapter_name": "Chương 12: Ăn cơm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-12/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_13_Ngủ.json",
+    "chapter_name": "Chương 13: Ngủ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-13/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_14_Bí_mật.json",
+    "chapter_name": "Chương 14: Bí mật",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-14/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_15_Thực_vật.json",
+    "chapter_name": "Chương 15: Thực vật",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-15/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_16_Qua_đêm.json",
+    "chapter_name": "Chương 16: Qua đêm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-16/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_17_Hệ_băng.json",
+    "chapter_name": "Chương 17: Hệ băng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-17/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_18_Hằng_ngày.json",
+    "chapter_name": "Chương 18: Hằng ngày",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-18/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_19_Di_năng.json",
+    "chapter_name": "Chương 19: Dị năng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-19/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_20_Tinh_hach.json",
+    "chapter_name": "Chương 20: Tinh hạch",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-20/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_21_Phục_bút_.json",
+    "chapter_name": "Chương 21: Phục bút (*)",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-21/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_22_Luyện_tập.json",
+    "chapter_name": "Chương 22: Luyện tập",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-22/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_23_Tắm.json",
+    "chapter_name": "Chương 23: Tắm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-23/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_24_Ngủ.json",
+    "chapter_name": "Chương 24: Ngủ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-24/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_25_Sinh_viên_đại_học_D.json",
+    "chapter_name": "Chương 25: Sinh viên đại học D",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-25/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_26_Vị_hôn_thê.json",
+    "chapter_name": "Chương 26: Vị hôn thê",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-26/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_27_Ghen_ghét.json",
+    "chapter_name": "Chương 27: Ghen ghét",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-27/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_28_Thiếu_niên.json",
+    "chapter_name": "Chương 28: Thiếu niên",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-28/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_29_Điền_Hải.json",
+    "chapter_name": "Chương 29: Điền Hải",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-29/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_30_Càn_quét.json",
+    "chapter_name": "Chương 30: Càn quét",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-30/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_31_Dâu_tây.json",
+    "chapter_name": "Chương 31: Dâu tây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-31/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_32_Qua_đêm_ơ_siêu_thi.json",
+    "chapter_name": "Chương 32: Qua đêm ở siêu thị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-32/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_33_Anh_chị.json",
+    "chapter_name": "Chương 33: Anh chị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-33/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_34_Bạn_trai.json",
+    "chapter_name": "Chương 34: Bạn trai",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-34/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_35_Vô_tinh_găp_gơ.json",
+    "chapter_name": "Chương 35: Vô tình gặp gỡ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-35/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_36_Rung_đông.json",
+    "chapter_name": "Chương 36: Rung động",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-36/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_37_Zombie_triêu.json",
+    "chapter_name": "Chương 37: Zombie triều",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-37/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_38_Kêt_thuc.json",
+    "chapter_name": "Chương 38: Kết thúc",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-38/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_39_Di_năng_thăng_câp.json",
+    "chapter_name": "Chương 39: Dị năng thăng cấp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-39/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_40_EQ_băng_0.json",
+    "chapter_name": "Chương 40: EQ bằng 0",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-40/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_41_Biêt_thư.json",
+    "chapter_name": "Chương 41: Biệt thự",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-41/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_42_Câu_âm_giương.json",
+    "chapter_name": "Chương 42: Cầu ấm giường",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-42/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_43_Tinh_thân_lưc.json",
+    "chapter_name": "Chương 43: Tinh thần lực",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-43/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_44_Thiêu_niên_câu_chêt_rôi.json",
+    "chapter_name": "Chương 44: Thiếu niên, cậu chết rồi!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-44/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_45_Ơ_lai.json",
+    "chapter_name": "Chương 45: Ở lại",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-45/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_46_Phu_cân_co_siêu_thi.json",
+    "chapter_name": "Chương 46: Phụ cận có siêu thị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-46/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_47_Siêu_thi.json",
+    "chapter_name": "Chương 47: Siêu thị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-47/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_48_Binh_ăc_quy.json",
+    "chapter_name": "Chương 48: Bình ắc quy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-48/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_49_Kỹ_thuật_Lam_Quang.json",
+    "chapter_name": "Chương 49: Kỹ thuật Lam Quang",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-49/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_50_Muốn_tín_nhiệm.json",
+    "chapter_name": "Chương 50: Muốn tín nhiệm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-50/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_51_Nhà_kho.json",
+    "chapter_name": "Chương 51: Nhà kho",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-51/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_52_Không_biết.json",
+    "chapter_name": "Chương 52: Không biết",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-52/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_53_Trơi_ban_lương_duyên_ở_bên_anh.json",
+    "chapter_name": "Chương 53: Trời ban lương duyên, ở bên anh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-53/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_54_Dị_năng_hệ_Thủy.json",
+    "chapter_name": "Chương 54: Dị năng hệ Thủy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-54/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_55_Hình_ảnh_đen_tối.json",
+    "chapter_name": "Chương 55: Hình ảnh đen tối",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-55/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_56_Ân_ái.json",
+    "chapter_name": "Chương 56: Ân ái",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-56/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_57_Cuối_cùng_đã_có_điện_rồi.json",
+    "chapter_name": "Chương 57: Cuối cùng đã có điện rồi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-57/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_58_Tuyệt_thế_có_giai_nhân.json",
+    "chapter_name": "Chương 58: Tuyệt thế có giai nhân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-58/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_59_Tường.json",
+    "chapter_name": "Chương 59: Tường",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-59/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_60_Quân_đội_đên_rôi.json",
+    "chapter_name": "Chương 60: Quân đội đến rồi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-60/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_61_Vệ_Lam.json",
+    "chapter_name": "Chương 61: Vệ Lam",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-61/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_62_Hạnh_ngộ.json",
+    "chapter_name": "Chương 62: Hạnh ngộ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-62/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_63_Tiểu_kịch_trường_Tào_Tiến_Sĩ.json",
+    "chapter_name": "Chương 63: Tiểu kịch trường - Tào Tiến Sĩ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-63/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_64_Tô_Tiêm_Ảnh.json",
+    "chapter_name": "Chương 64: Tô Tiêm Ảnh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-64/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_65_Làm_cố_vấn.json",
+    "chapter_name": "Chương 65: Làm cố vấn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-65/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_66_Nhà_họ_Chu.json",
+    "chapter_name": "Chương 66: Nhà họ Chu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-66/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_67_Đường_Nhược_này_Đường_Nhược_kia.json",
+    "chapter_name": "Chương 67: Đường Nhược này, Đường Nhược kia",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-67/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_68_Công_việc_của_căn_cứ.json",
+    "chapter_name": "Chương 68: Công việc của căn cứ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-68/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_69_Hay_tùy_tiện.json",
+    "chapter_name": "Chương 69: Hay tùy tiện",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-69/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_70_Sợ_gì_gặp_nấy.json",
+    "chapter_name": "Chương 70: Sợ gì gặp nấy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-70/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_71_Danh_bất_hư_truyền.json",
+    "chapter_name": "Chương 71: Danh bất hư truyền",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-71/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_72_Sâu_hiểu_đạo_này.json",
+    "chapter_name": "Chương 72: Sâu hiểu đạo này",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-72/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_73_Thương_thảo_phản_kích.json",
+    "chapter_name": "Chương 73: Thương thảo phản kích",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-73/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_74_Nữ_phụ.json",
+    "chapter_name": "Chương 74: Nữ phụ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-74/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_75_Bạch_Thất.json",
+    "chapter_name": "Chương 75: Bạch Thất",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-75/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_76_Hiếm_thấy.json",
+    "chapter_name": "Chương 76: Hiếm thấy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-76/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_77_Cẩu_huyết.json",
+    "chapter_name": "Chương 77: Cẩu huyết",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-77/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_78_Nghiệt_duyên.json",
+    "chapter_name": "Chương 78: Nghiệt duyên",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-78/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_79_Trò_chuyện_nhân_sinh.json",
+    "chapter_name": "Chương 79: Trò chuyện nhân sinh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-79/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_80_Tiền_Kim_Hâm.json",
+    "chapter_name": "Chương 80: Tiền Kim Hâm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-80/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_81_Chân_thành_đối_đãi.json",
+    "chapter_name": "Chương 81: Chân thành đối đãi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-81/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_82_Chân_tướng.json",
+    "chapter_name": "Chương 82: Chân tướng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-82/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_83_Câu_chuyện.json",
+    "chapter_name": "Chương 83: Câu chuyện",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-83/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_84_Đoàn_xe_Hồng_Trần.json",
+    "chapter_name": "Chương 84: Đoàn xe Hồng Trần",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-84/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_85_Quân_đại_viện.json",
+    "chapter_name": "Chương 85: Quân đại viện",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-85/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_86_Hội_nghị.json",
+    "chapter_name": "Chương 86: Hội nghị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-86/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_87_Bỗng_nhiên_nổi_tiếng.json",
+    "chapter_name": "Chương 87: Bỗng nhiên nổi tiếng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-87/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_88_Nhân_gian_bất_sách_Không_bắt_nạt_người_có_khó_khăn.json",
+    "chapter_name": "Chương 88: Nhân gian bất sách (Không bắt nạt người có khó khăn)",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-88/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_89_Thật_đáng_ghét.json",
+    "chapter_name": "Chương 89: Thật đáng ghét",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-89/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_90_Phú_Sinh.json",
+    "chapter_name": "Chương 90: Phú Sinh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-90/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_91_Biến_dị.json",
+    "chapter_name": "Chương 91: Biến dị",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-91/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_92_Bát_quái.json",
+    "chapter_name": "Chương 92: Bát quái",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-92/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_93_Tuồng.json",
+    "chapter_name": "Chương 93: Tuồng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-93/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_94_Cầm_thú.json",
+    "chapter_name": "Chương 94: Cầm thú",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-94/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_95_Gặp_kích_thích.json",
+    "chapter_name": "Chương 95: Gặp kích thích",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-95/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_96_Xem_cuộc_vui.json",
+    "chapter_name": "Chương 96: Xem cuộc vui",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-96/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_97_Ân_oán.json",
+    "chapter_name": "Chương 97: Ân oán",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-97/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_98_Điên_cuồng.json",
+    "chapter_name": "Chương 98: Điên cuồng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-98/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_99_Đến_thành_phố_S.json",
+    "chapter_name": "Chương 99: Đến thành phố S",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-99/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_100_Tô_cô_nương.json",
+    "chapter_name": "Chương 100: Tô cô nương",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-100/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_101_Sai_lầm.json",
+    "chapter_name": "Chương 101: Sai lầm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-101/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_102_Giao_tiếp.json",
+    "chapter_name": "Chương 102: Giao tiếp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-102/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_103_Đường_hầm.json",
+    "chapter_name": "Chương 103: Đường hầm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-103/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_104_Sập.json",
+    "chapter_name": "Chương 104: Sập",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-104/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_105_Cống_thoát_nước.json",
+    "chapter_name": "Chương 105: Cống thoát nước",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-105/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_106_Ôm_chặt_anh.json",
+    "chapter_name": "Chương 106: Ôm chặt anh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-106/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_107_Trầm_luân.json",
+    "chapter_name": "Chương 107: Trầm luân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-107/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_108_Có_người_vui_mừng_có_người_lo.json",
+    "chapter_name": "Chương 108: Có người vui mừng có người lo",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-108/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_109_Ngưng_tụ_tinh_thần_lực.json",
+    "chapter_name": "Chương 109: Ngưng tụ tinh thần lực",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-109/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_110_Kẻ_phù_hợp_mới_có_thể_sinh_tồn.json",
+    "chapter_name": "Chương 110: Kẻ phù hợp mới có thể sinh tồn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-110/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_111_Căn_cứ_nhỏ_1.json",
+    "chapter_name": "Chương 111: Căn cứ nhỏ (1)",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-111/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_112_Gác_Đêm.json",
+    "chapter_name": "Chương 112: Gác Đêm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-112/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_113_Bữa_ăn_xảy_ra_chuyện_à.json",
+    "chapter_name": "Chương 113: Bữa ăn xảy ra chuyện à?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-113/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_114_Xe_ba_bánh.json",
+    "chapter_name": "Chương 114: Xe ba bánh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-114/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_115_Đêm_bất_tận.json",
+    "chapter_name": "Chương 115: Đêm bất tận",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-115/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_116_Làm_sao_vậy.json",
+    "chapter_name": "Chương 116: Làm sao vậy?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-116/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_117_Hôn.json",
+    "chapter_name": "Chương 117: Hôn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-117/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_118_Ngọt.json",
+    "chapter_name": "Chương 118: Ngọt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-118/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_119_Đi_cưa_gái.json",
+    "chapter_name": "Chương 119: Đi cưa gái",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-119/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_120_Tương_ái_tương_sát.json",
+    "chapter_name": "Chương 120: Tương ái tương sát",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-120/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_121_Đên_miệng_đường_hầm.json",
+    "chapter_name": "Chương 121: Đến miệng đường hầm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-121/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_122_Có_người_đưa_xe.json",
+    "chapter_name": "Chương 122: Có người đưa xe",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-122/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_123_Khinh_người_quá_đáng.json",
+    "chapter_name": "Chương 123: Khinh người quá đáng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-123/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_124_Ăn_vào_no_bụng.json",
+    "chapter_name": "Chương 124: Ăn vào no bụng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-124/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_125_Qua_đêm_ở_ổ_thổ_phỉ.json",
+    "chapter_name": "Chương 125: Qua đêm ở ổ thổ phỉ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-125/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_126_Thu_đàn_em.json",
+    "chapter_name": "Chương 126: Thu đàn em",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-126/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_127_Thật_là_đáng_sợ.json",
+    "chapter_name": "Chương 127: Thật là đáng sợ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-127/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_128_Thật_không_phải_là_nằm_mơ.json",
+    "chapter_name": "Chương 128: Thật không phải là nằm mơ!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-128/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_129_Bến_tàu.json",
+    "chapter_name": "Chương 129: Bến tàu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-129/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_130_Mở_quà.json",
+    "chapter_name": "Chương 130: Mở quà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-130/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_131_Bao_cao_su.json",
+    "chapter_name": "Chương 131: Bao cao su",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-131/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_132_Đánh_nhau_ẩu_đả.json",
+    "chapter_name": "Chương 132: Đánh nhau ẩu đả",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-132/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_133_Căn_cứ_thành_phố_H.json",
+    "chapter_name": "Chương 133: Căn cứ thành phố H",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-133/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_134_Đoàn_đội_Độc_Bộ.json",
+    "chapter_name": "Chương 134: Đoàn đội Độc Bộ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-134/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_135_Trở_lại_chốn_cũ.json",
+    "chapter_name": "Chương 135: Trở lại chốn cũ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-135/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_136_Lời_nói_khách_sáo_thành_ra_bị_quấn.json",
+    "chapter_name": "Chương 136: Lời nói khách sáo thành ra bị quấn?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-136/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_137_Không_phải_dùng_để_trưng_cho_đẹp.json",
+    "chapter_name": "Chương 137: Không phải dùng để trưng cho đẹp!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-137/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_138_Sóng_dồn_dập.json",
+    "chapter_name": "Chương 138: Sóng dồn dập",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-138/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_139_Hai_chương_hợp_nhất.json",
+    "chapter_name": "Chương 139: Hai chương hợp nhất",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-139/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_140_Cửa_hàng_áo_cưới.json",
+    "chapter_name": "Chương 140: Cửa hàng áo cưới",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-140/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_141_Ánh_trăng_nói_hộ_lòng_ta.json",
+    "chapter_name": "Chương 141: Ánh trăng nói hộ lòng ta",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-141/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_142_Động_tiêu_tiền.json",
+    "chapter_name": "Chương 142: Động tiêu tiền",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-142/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_143_Mạch_Nước_Ngầm.json",
+    "chapter_name": "Chương 143: Mạch Nước Ngầm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-143/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_144_Chú_ruột.json",
+    "chapter_name": "Chương 144: Chú ruột",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-144/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_145_Đạo_đức_nhân_nghĩa.json",
+    "chapter_name": "Chương 145: Đạo đức nhân nghĩa",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-145/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_146_Hoài_nghi.json",
+    "chapter_name": "Chương 146: Hoài nghi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-146/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_147_Cái_này_không_khoa_học.json",
+    "chapter_name": "Chương 147: Cái này không khoa học",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-147/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_148_Không_thể_nhẫn_nhịn.json",
+    "chapter_name": "Chương 148: Không thể nhẫn nhịn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-148/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_149_Ba_đánh_một.json",
+    "chapter_name": "Chương 149: Ba đánh một",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-149/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_150_Tào_mẫn_tấn_cấp.json",
+    "chapter_name": "Chương 150: Tào mẫn tấn cấp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-150/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_151_Hai_trong_môt.json",
+    "chapter_name": "Chương 151: Hai trong một",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-151/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_152_Cơ_hội_tốt.json",
+    "chapter_name": "Chương 152: Cơ hội tốt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-152/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_153_Sông_chêt_co_nhau.json",
+    "chapter_name": "Chương 153: Sống chết có nhau",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-153/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_154_Ngươi_tinh_không_băng_trơi_tinh.json",
+    "chapter_name": "Chương 154: Người tính không bằng trời tính",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-154/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_155_Hanh_trinh_trăng_mât_tham_hiêm.json",
+    "chapter_name": "Chương 155: Hành trình trăng mật thám hiểm?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-155/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_156_Nhân_dĩ_quần_phân.json",
+    "chapter_name": "Chương 156: Nhân dĩ quần phân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-156/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_157_Đến_Hải_Đăng.json",
+    "chapter_name": "Chương 157: Đến Hải Đăng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-157/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_158_Địch_ở_trong_tối_chúng_ta_ở_ngoài_sáng.json",
+    "chapter_name": "Chương 158: Địch ở trong tối chúng ta ở ngoài sáng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-158/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_159_Đường_hầm_dưới_mặt_đất.json",
+    "chapter_name": "Chương 159: Đường hầm dưới mặt đất",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-159/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_160_Tiến_Sĩ_Lâm.json",
+    "chapter_name": "Chương 160: Tiến Sĩ Lâm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-160/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_161_Xuyên_qua_thời_không.json",
+    "chapter_name": "Chương 161: Xuyên qua thời không",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-161/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_162.json",
+    "chapter_name": "Chương 162",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-162/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_163_Phá_vỡ_nhận_thức.json",
+    "chapter_name": "Chương 163: Phá vỡ nhận thức",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-163/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_164_Lịch_sử_không_thể_thay_đổi.json",
+    "chapter_name": "Chương 164: Lịch sử không thể thay đổi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-164/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_165_Vu_oan_giá_hoạ.json",
+    "chapter_name": "Chương 165: Vu oan giá hoạ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-165/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_166_Chậm_rãi_chơi.json",
+    "chapter_name": "Chương 166: Chậm rãi chơi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-166/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_167_Ăn_miếng_trả_miếng.json",
+    "chapter_name": "Chương 167: Ăn miếng trả miếng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-167/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_168.json",
+    "chapter_name": "Chương 168",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-168/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_169_Ăn_nhờ_ở_đậu.json",
+    "chapter_name": "Chương 169: Ăn nhờ ở đậu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-169/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_170_Ca_cung_ban_chân_gâu.json",
+    "chapter_name": "Chương 170: Cá cùng bàn chân gấu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-170/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_171_Nơi_ở_kiếp_trước.json",
+    "chapter_name": "Chương 171: Nơi ở kiếp trước",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-171/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_172_Không_cần_lo_lắng.json",
+    "chapter_name": "Chương 172: Không cần lo lắng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-172/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_173_Nhặt_được_món_hời_lớn.json",
+    "chapter_name": "Chương 173: Nhặt được món hời lớn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-173/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_174_Bảo_tàng.json",
+    "chapter_name": "Chương 174: Bảo tàng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-174/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_175_Kế_hoạch.json",
+    "chapter_name": "Chương 175: Kế hoạch",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-175/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_176_Đi_ăn_cướp.json",
+    "chapter_name": "Chương 176: Đi ăn cướp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-176/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_177_Chi_tiết_cụ_thể.json",
+    "chapter_name": "Chương 177: Chi tiết, cụ thể",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-177/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_178_Đừng_nổ_súng.json",
+    "chapter_name": "Chương 178: Đừng nổ súng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-178/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_179_Đồng_đội_tốt.json",
+    "chapter_name": "Chương 179: Đồng đội tốt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-179/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_180_Đầy_kho_tất_cả_đều_là_vàng.json",
+    "chapter_name": "Chương 180: Đầy kho tất cả đều là vàng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-180/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_181_Cái_gì_vậy.json",
+    "chapter_name": "Chương 181: Cái gì vậy?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-181/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_182_Giết_ra_ngoài.json",
+    "chapter_name": "Chương 182: Giết ra ngoài!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-182/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_183_Đội_tốt_khó_cầu.json",
+    "chapter_name": "Chương 183: Đội tốt khó cầu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-183/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_184_Sẽ_không_thể_yên_tĩnh.json",
+    "chapter_name": "Chương 184: Sẽ không thể yên tĩnh?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-184/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_185_Xe_của_chúng_ta.json",
+    "chapter_name": "Chương 185: Xe của chúng ta",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-185/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_186_Trái_tim_lạnh_cắt.json",
+    "chapter_name": "Chương 186: Trái tim lạnh cắt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-186/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_187_Chúng_tôi_đã_về_rồi.json",
+    "chapter_name": "Chương 187: Chúng tôi đã về rồi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-187/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_188_Đi_cửa_Tây.json",
+    "chapter_name": "Chương 188: Đi cửa Tây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-188/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_189_Một_chữ_buồn_rất_cao_minh.json",
+    "chapter_name": "Chương 189: Một chữ “buồn” rất cao minh!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-189/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_190_Có_hậu_đài_co_thê_tùy_hứng.json",
+    "chapter_name": "Chương 190: Có hậu đài có thể tùy hứng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-190/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_191_Không_đung.json",
+    "chapter_name": "Chương 191: Không đúng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-191/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_192_Binh_bất_yếm_trá.json",
+    "chapter_name": "Chương 192: Binh bất yếm trá",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-192/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_193_Ngạc_nhiên.json",
+    "chapter_name": "Chương 193: Ngạc nhiên",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-193/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_194_Đánh_không_lại.json",
+    "chapter_name": "Chương 194: Đánh không lại",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-194/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_195_Việc_xấu_trong_nhà.json",
+    "chapter_name": "Chương 195: Việc xấu trong nhà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-195/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_196_Bắt_cá_hai_tay.json",
+    "chapter_name": "Chương 196: Bắt cá hai tay",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-196/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_197_Chất_lượng_chiến_thắng.json",
+    "chapter_name": "Chương 197: Chất lượng chiến thắng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-197/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_198_Đoan_đôi_phu_thuôc.json",
+    "chapter_name": "Chương 198: Đoàn đội phụ thuộc",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-198/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_199_Thiếu.json",
+    "chapter_name": "Chương 199: Thiếu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-199/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_200_Thiếu.json",
+    "chapter_name": "Chương 200: Thiếu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-200/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_201_Nghiêm_trọng_như_vậy.json",
+    "chapter_name": "Chương 201: Nghiêm trọng như vậy?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-201/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_202_Học_kỹ_năng_mới.json",
+    "chapter_name": "Chương 202: Học kỹ năng mới",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-202/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_203_Bắt_đầu_đi_học.json",
+    "chapter_name": "Chương 203: Bắt đầu đi học",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-203/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_204_Chuẩn_bị_lên_đường.json",
+    "chapter_name": "Chương 204: Chuẩn bị lên đường",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-204/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_205_Tập_hợp_ở_cửa_Tây.json",
+    "chapter_name": "Chương 205: Tập hợp ở cửa Tây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-205/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_206_Việc_này_có_chút_quýnh.json",
+    "chapter_name": "Chương 206: Việc này có chút quýnh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-206/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_207_KTX_công_nhân.json",
+    "chapter_name": "Chương 207: KTX công nhân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-207/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_208_Không_khách_khí.json",
+    "chapter_name": "Chương 208: Không khách khí",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-208/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_209_Giết_ngươi_bằng_miệng.json",
+    "chapter_name": "Chương 209: Giết người bằng miệng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-209/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_210_Quả_nhiên_là_một_nhân_tai.json",
+    "chapter_name": "Chương 210: Quả nhiên là một nhân tài",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-210/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_211_Xâm_nhâp_chiên_đâu.json",
+    "chapter_name": "Chương 211: Xâm nhập chiến đấu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-211/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_212_Rut_lui.json",
+    "chapter_name": "Chương 212: Rút lui",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-212/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_213_Vũ_khí_sinh_hoá.json",
+    "chapter_name": "Chương 213: Vũ khí sinh hoá",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-213/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_214_Cao_thủ_so_chiêu.json",
+    "chapter_name": "Chương 214: Cao thủ so chiêu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-214/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_215_Chuyện_thất_đức.json",
+    "chapter_name": "Chương 215: Chuyện thất đức",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-215/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_216_Chỉ_bằng_tên_tôi_là_Vệ_Lam.json",
+    "chapter_name": "Chương 216: Chỉ bằng tên tôi là Vệ Lam!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-216/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_217_Cha_anh_có_biết_không.json",
+    "chapter_name": "Chương 217: Cha anh có biết không?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-217/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_218_Virus_vượt_chỉ_tiêu.json",
+    "chapter_name": "Chương 218: Virus vượt chỉ tiêu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-218/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_219_Khu_Cách_Ly.json",
+    "chapter_name": "Chương 219: Khu Cách Ly",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-219/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_220_Tin_tức_xấu.json",
+    "chapter_name": "Chương 220: Tin tức xấu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-220/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_221_Mặt_non_tâm_hắc_mặt_non_nớt_nhưng_tâm_địa_giảo_hoạt.json",
+    "chapter_name": "Chương 221: Mặt non tâm hắc (mặt non nớt nhưng tâm địa giảo hoạt)",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-221/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_222_Gián_điệp_hai_mang.json",
+    "chapter_name": "Chương 222: Gián điệp hai mang",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-222/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_223_Đoạn_phim_cơ_mật.json",
+    "chapter_name": "Chương 223: Đoạn phim cơ mật",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-223/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_224_Cửa_địa_ngục.json",
+    "chapter_name": "Chương 224: Cửa địa ngục",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-224/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_225_Mục_tiêu_hôm_nay_là_.json",
+    "chapter_name": "Chương 225: Mục tiêu hôm nay là …",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-225/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_226_Showroom_nội_thất.json",
+    "chapter_name": "Chương 226: Showroom nội thất",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-226/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_227_Xui_xẻo.json",
+    "chapter_name": "Chương 227: Xui xẻo!!!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-227/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_228_Có_vấn_đề.json",
+    "chapter_name": "Chương 228: Có vấn đề",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-228/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_229_Cùng_lắm_cũng_chỉ_có_như_thế_này_thôi.json",
+    "chapter_name": "Chương 229: Cùng lắm cũng chỉ có như thế này thôi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-229/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_230_Trở_lại_căn_cứ.json",
+    "chapter_name": "Chương 230: Trở lại căn cứ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-230/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_231_Hình_tượng_này_thật_đẹp.json",
+    "chapter_name": "Chương 231: Hình tượng này thật đẹp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-231/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_232_Việc_lạ_lúc_nào_cũng_có.json",
+    "chapter_name": "Chương 232: Việc lạ lúc nào cũng có",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-232/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_233_Phong_cách_của_tiệm.json",
+    "chapter_name": "Chương 233: Phong cách của tiệm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-233/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_234_Xấu_hổ.json",
+    "chapter_name": "Chương 234: Xấu hổ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-234/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_235_Tuyệt_đối_đã_vượt_qua.json",
+    "chapter_name": "Chương 235: Tuyệt đối đã vượt qua!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-235/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_236_Rung_động_đến_huyết_mạch_phình_lên.json",
+    "chapter_name": "Chương 236: Rung động đến huyết mạch phình lên",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-236/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_237_Hơn_vạn_Zombie.json",
+    "chapter_name": "Chương 237: Hơn vạn Zombie?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-237/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_238_Nên_có_ước_mơ.json",
+    "chapter_name": "Chương 238: Nên có ước mơ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-238/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_239_Kinh_hồn_một_phút_đồng_hồ.json",
+    "chapter_name": "Chương 239: Kinh hồn một phút đồng hồ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-239/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_240.json",
+    "chapter_name": "Chương 240",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-240/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_241_Hoạt_động_không_hợp_pháp.json",
+    "chapter_name": "Chương 241: Hoạt động không hợp pháp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-241/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_242_Thiên_Hồ.json",
+    "chapter_name": "Chương 242: Thiên Hồ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-242/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_243_Bên_kia.json",
+    "chapter_name": "Chương 243: Bên kia",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-243/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_244_Chinh_phục_nó.json",
+    "chapter_name": "Chương 244: Chinh phục nó",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-244/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_245_Bất_bình_thường.json",
+    "chapter_name": "Chương 245: Bất bình thường",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-245/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_246_Nhất_tổn_câu_tổn.json",
+    "chapter_name": "Chương 246: Nhất tổn câu tổn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-246/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_247_Lại_đi_cổng_Tây.json",
+    "chapter_name": "Chương 247: Lại đi cổng Tây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-247/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_248_18_tòa_biệt_thự.json",
+    "chapter_name": "Chương 248: 18 tòa biệt thự",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-248/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_249_Rắm_chó_không_kêu.json",
+    "chapter_name": "Chương 249: Rắm chó không kêu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-249/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_250_Không_nói_tới_cũng_vậy.json",
+    "chapter_name": "Chương 250: Không nói tới cũng vậy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-250/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_251_Chỉ_tiếc_rèn_sắt_không_thành_thép.json",
+    "chapter_name": "Chương 251: Chỉ tiếc rèn sắt không thành thép",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-251/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_252_Kinh_ngạc_đến_ngẩn_người.json",
+    "chapter_name": "Chương 252: Kinh ngạc đến ngẩn người",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-252/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_253_Rung_động_tuyệt_diễm.json",
+    "chapter_name": "Chương 253: Rung động tuyệt diễm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-253/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_254_Kéo_chân_sau_ông_đây.json",
+    "chapter_name": "Chương 254: Kéo chân sau ông đây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-254/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_255_Giẫm_lên_mây_ngũ_sắc_đến_đón_em.json",
+    "chapter_name": "Chương 255: Giẫm lên mây ngũ sắc đến đón em",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-255/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_256_Kịch_máu_chó_nhiều_lần_nổi_lên_thật_là_ồn_ào.json",
+    "chapter_name": "Chương 256: Kịch máu chó nhiều lần nổi lên thật là ồn ào!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-256/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_257_Cuối_cùng_cũng_đến_tập_kích.json",
+    "chapter_name": "Chương 257: Cuối cùng cũng đến tập kích",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-257/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_258_Chính_là_cô_ấy.json",
+    "chapter_name": "Chương 258: Chính là cô ấy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-258/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_259_Phòng_nghỉ_ngơi.json",
+    "chapter_name": "Chương 259: Phòng nghỉ ngơi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-259/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_260_Ra_ngoài_một_chút.json",
+    "chapter_name": "Chương 260: Ra ngoài một chút",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-260/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_261_Tô_Vũ_Vi_hận.json",
+    "chapter_name": "Chương 261: Tô Vũ Vi hận",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-261/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_262_Lên_trang_đầu.json",
+    "chapter_name": "Chương 262: Lên trang đầu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-262/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_263_Đời_người_nơi_nơi_là_trùng_hợp.json",
+    "chapter_name": "Chương 263: Đời người nơi nơi là trùng hợp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-263/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_264_Chỉ_sợ_thiên_hạ_không_loạn.json",
+    "chapter_name": "Chương 264: Chỉ sợ thiên hạ không loạn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-264/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_265_Mới_bắt_đầu.json",
+    "chapter_name": "Chương 265: Mới bắt đầu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-265/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_266_Có_khó_khăn_cùng_nhau_đối_mặt.json",
+    "chapter_name": "Chương 266: Có khó khăn cùng nhau đối mặt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-266/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_267_Muốn_trở_thành_niềm_kiêu_ngạo_của_anh.json",
+    "chapter_name": "Chương 267: Muốn trở thành niềm kiêu ngạo của anh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-267/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_268_Cuộc_đời_lăn_qua_lăn_lại.json",
+    "chapter_name": "Chương 268: Cuộc đời lăn qua lăn lại",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-268/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_269_Tay_chân_luống_cuống.json",
+    "chapter_name": "Chương 269: Tay chân luống cuống",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-269/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_270_Người_đáng_tin_cậy.json",
+    "chapter_name": "Chương 270: Người đáng tin cậy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-270/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_271_Cửu_tử_nhất_sinh.json",
+    "chapter_name": "Chương 271: Cửu tử nhất sinh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-271/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_272_Có_chết_cũng_không_muốn.json",
+    "chapter_name": "Chương 272: Có chết cũng không muốn!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-272/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_273_Quả_nhiên_không_phải_quỷ.json",
+    "chapter_name": "Chương 273: Quả nhiên không phải quỷ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-273/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_274_Chuyện_của_người_khác.json",
+    "chapter_name": "Chương 274: Chuyện của người khác",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-274/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_275_Giết_người_vô_hình.json",
+    "chapter_name": "Chương 275: Giết người vô hình",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-275/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_276_Xe_cai_thiên_hôn_đia_am.json",
+    "chapter_name": "Chương 276: Xé cái thiên hôn địa ám",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-276/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_277_Đôt_pha_mơi.json",
+    "chapter_name": "Chương 277: Đột phá mới",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-277/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_278_Thê_Chêt_cung_đi_theo.json",
+    "chapter_name": "Chương 278: Thề Chết cũng đi theo",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-278/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_279_Chung_ta_thăng.json",
+    "chapter_name": "Chương 279: Chúng ta thắng!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-279/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_280_Ba_viêc_vui_tơi_nha.json",
+    "chapter_name": "Chương 280: Ba việc vui tới nhà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-280/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_281_Còn_đòi_hỏi_gì_đây.json",
+    "chapter_name": "Chương 281: Còn đòi hỏi gì đây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-281/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_282_Đấu_với_chủ_nhà.json",
+    "chapter_name": "Chương 282: Đấu với chủ nhà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-282/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_283_Ở_bên_đường_tỏ_tình.json",
+    "chapter_name": "Chương 283: Ở bên đường tỏ tình",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-283/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_284_Tôi_thích_anh.json",
+    "chapter_name": "Chương 284: Tôi thích anh!!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-284/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_285_Vô_tình_mới_có_thể_diễn_kịch.json",
+    "chapter_name": "Chương 285: Vô tình mới có thể diễn kịch",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-285/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_286_Nếu_muốn_đánh_tôi_đánh_cùng_cô.json",
+    "chapter_name": "Chương 286: Nếu muốn đánh, tôi đánh cùng cô",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-286/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_287_Tiện_nhân_già_mồm_cãi_láo.json",
+    "chapter_name": "Chương 287: Tiện nhân già mồm cãi láo",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-287/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_288_Anh_ấy_là_Lương_Phú_Sinh.json",
+    "chapter_name": "Chương 288: Anh ấy là Lương Phú Sinh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-288/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_289_Chỉ_là_câu_chuyện_xưa.json",
+    "chapter_name": "Chương 289: Chỉ là câu chuyện xưa",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-289/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_290_Đổ_thêm_dầu_vào_lửa.json",
+    "chapter_name": "Chương 290: Đổ thêm dầu vào lửa",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-290/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_291_Hãy_để_cho_hắn_sa_đọa.json",
+    "chapter_name": "Chương 291: Hãy để cho hắn sa đọa!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-291/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_292_Làm_sao_chịu_nổi.json",
+    "chapter_name": "Chương 292: Làm sao chịu nổi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-292/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_293_Rất_quyến_rũ_rất_bạo_lực.json",
+    "chapter_name": "Chương 293: Rất quyến rũ rất bạo lực",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-293/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_294_Thật_là_đáng_sợ.json",
+    "chapter_name": "Chương 294: Thật là đáng sợ!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-294/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_295_Một_chữ_tiện_rất_đúng.json",
+    "chapter_name": "Chương 295: Một chữ tiện rất đúng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-295/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_296_Thua_thiệt_không_khôn.json",
+    "chapter_name": "Chương 296: Thua thiệt không khôn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-296/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_297_Ba_ngàn_sợi_tóc_bạc.json",
+    "chapter_name": "Chương 297: Ba ngàn sợi tóc bạc",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-297/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_298_Bễ_nghễ_thiên_hạ_thiên_hạ.json",
+    "chapter_name": "Chương 298: Bễ nghễ thiên hạ thiên hạ!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-298/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_299_Ngục_giam_giải_sầu.json",
+    "chapter_name": "Chương 299: Ngục giam giải sầu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-299/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_300_Vì_lợi_ích.json",
+    "chapter_name": "Chương 300: Vì lợi ích",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-300/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_301_Nếu_có_thể_thông_qua_con_đường_này.json",
+    "chapter_name": "Chương 301: Nếu có thể thông qua con đường này",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-301/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_302_Giật_nảy_mình.json",
+    "chapter_name": "Chương 302: Giật nảy mình",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-302/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_303_Không_phụ_hi_vọng.json",
+    "chapter_name": "Chương 303: Không phụ hi vọng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-303/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_304_Thả_con_tép_bắt_con_tôm.json",
+    "chapter_name": "Chương 304: Thả con tép, bắt con tôm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-304/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_305_Tất_cả_đều_giết_không_tha.json",
+    "chapter_name": "Chương 305: Tất cả đều giết không tha",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-305/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_306_Bồng_Lai_cư.json",
+    "chapter_name": "Chương 306: Bồng Lai cư",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-306/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_307_Cường_giả_càng_cường.json",
+    "chapter_name": "Chương 307: Cường giả càng cường",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-307/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_308_Việc_đâu_đâu_không_thể_lo.json",
+    "chapter_name": "Chương 308: Việc đâu đâu không thể lo",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-308/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_309_Mua_thật_nhiều_bảo_bối.json",
+    "chapter_name": "Chương 309: Mua thật nhiều bảo bối",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-309/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_310_Là_muốn_khiêu_chiến_sao.json",
+    "chapter_name": "Chương 310: Là muốn khiêu chiến sao?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-310/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_311_Đừng_quên_uống_thuốc.json",
+    "chapter_name": "Chương 311: Đừng quên uống thuốc",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-311/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_312_Đúng_là_hỗn_loạn.json",
+    "chapter_name": "Chương 312: Đúng là hỗn loạn!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-312/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_313_Quần_ma_loạn_vũ.json",
+    "chapter_name": "Chương 313: Quần ma loạn vũ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-313/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_314_Lo_được_lo_mất.json",
+    "chapter_name": "Chương 314: Lo được lo mất",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-314/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_315_Phòng_cháy_phòng_trộm_phòng_độc_mồm.json",
+    "chapter_name": "Chương 315: Phòng cháy, phòng trộm, phòng độc mồm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-315/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_316_Yêu_quái_phương_nào.json",
+    "chapter_name": "Chương 316: Yêu quái phương nào",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-316/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_317_Nghỉ_đêm_ở_nhà_máy_gốm_sứ.json",
+    "chapter_name": "Chương 317: Nghỉ đêm ở nhà máy gốm sứ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-317/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_318_Tin_tưởng_tôi.json",
+    "chapter_name": "Chương 318: Tin tưởng tôi!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-318/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_319_Đêm_tử_vong.json",
+    "chapter_name": "Chương 319: Đêm tử vong",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-319/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_320_Vốn_là_thắng_làm_vua_thua_làm_giặc.json",
+    "chapter_name": "Chương 320: Vốn là thắng làm vua thua làm giặc",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-320/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_321_Qua_đêm_ở_nhà_trọ_4S.json",
+    "chapter_name": "Chương 321: Qua đêm ở nhà trọ 4S",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-321/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_322_Tinh_thần_lực_xâm_lấn.json",
+    "chapter_name": "Chương 322: Tinh thần lực xâm lấn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-322/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_323_Máy_quét_đại_não.json",
+    "chapter_name": "Chương 323: Máy quét đại não",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-323/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_324_Điền_Hải_tấn_cấp.json",
+    "chapter_name": "Chương 324: Điền Hải tấn cấp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-324/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_325_Lời_nói_nhảm_không_đáng_sợ.json",
+    "chapter_name": "Chương 325: Lời nói nhảm không đáng sợ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-325/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_326_Tiện_nhân_đều_rất_cường.json",
+    "chapter_name": "Chương 326: Tiện nhân đều rất cường!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-326/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_327_Ô_hay_có_bát_quái_này.json",
+    "chapter_name": "Chương 327: Ô hay, có bát quái này!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-327/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_328_Việc_này_rất_kỳ_quái.json",
+    "chapter_name": "Chương 328: Việc này rất kỳ quái",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-328/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_329_Diệp_Thánh_Luân.json",
+    "chapter_name": "Chương 329: Diệp Thánh Luân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-329/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_330_Mùa_xuân_đên_rôi_tớ_cũng_động_tâm_roài.json",
+    "chapter_name": "Chương 330: Mùa xuân đến rồi, tớ cũng động tâm roài",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-330/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_331_Tô_vũ_vi_đã_hết_bể_khổ_đến_ngày_sung_sướng.json",
+    "chapter_name": "Chương 331: Tô vũ vi “đã hết bể khổ, đến ngày sung sướng”",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-331/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_332_Nhìn_không_thấy_thế_cục.json",
+    "chapter_name": "Chương 332: Nhìn không thấy thế cục",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-332/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_333_Khiêu_chiến.json",
+    "chapter_name": "Chương 333: Khiêu chiến",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-333/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_334_Gương_đã_vỡ_không_bao_giờ_lành_lại_được.json",
+    "chapter_name": "Chương 334: Gương đã vỡ không bao giờ lành lại được",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-334/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_335_Không_phải_thiên_mệnh.json",
+    "chapter_name": "Chương 335: Không phải thiên mệnh?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-335/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_336_Hạnh_phúc_không_chỉ_ở_trên_mặt.json",
+    "chapter_name": "Chương 336: Hạnh phúc không chỉ ở trên mặt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-336/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_337_Xung_quanh_toàn_sắc_xuân.json",
+    "chapter_name": "Chương 337: Xung quanh toàn sắc xuân",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-337/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_338_Có_ngu_đâu_mà_không_muốn.json",
+    "chapter_name": "Chương 338: Có ngu đâu mà không muốn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-338/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_339_Trèo_lên_đầu_cành.json",
+    "chapter_name": "Chương 339: Trèo lên đầu cành",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-339/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_340_Tình_yêu_làm_cho_con_người_ta_trưởng_thành.json",
+    "chapter_name": "Chương 340: Tình yêu làm cho con người ta trưởng thành",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-340/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_341_Thổ_lộ.json",
+    "chapter_name": "Chương 341: Thổ lộ?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-341/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_342_Đứng_ở_thiên_đường_nhìn_ngắm_địa_ngục.json",
+    "chapter_name": "Chương 342: Đứng ở thiên đường nhìn ngắm địa ngục",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-342/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_343_Bởi_vì_chị_tốt.json",
+    "chapter_name": "Chương 343: Bởi vì chị tốt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-343/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_344_Quả_nhiên_danh_bất_hư_truyền.json",
+    "chapter_name": "Chương 344: Quả nhiên danh bất hư truyền",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-344/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_345_Đường_Nhược_cũng_là_dị_năng_giả_tinh_thần_lực.json",
+    "chapter_name": "Chương 345: Đường Nhược cũng là dị năng giả tinh thần lực",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-345/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_346_Ai_cũng_đừng_nên_quá_kỳ_vọng.json",
+    "chapter_name": "Chương 346: Ai cũng đừng nên quá kỳ vọng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-346/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_347_Nghiên_cứu_người_sống.json",
+    "chapter_name": "Chương 347: Nghiên cứu người sống?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-347/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_348_Nhắc_lại_chuyện_cũ.json",
+    "chapter_name": "Chương 348: Nhắc lại chuyện cũ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-348/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_349_Âm_mưu_quỷ_kế.json",
+    "chapter_name": "Chương 349: Âm mưu quỷ kế",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-349/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_350_Tinh_thần_lực_là_hacker.json",
+    "chapter_name": "Chương 350: Tinh thần lực là hacker",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-350/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_351_Đành_cùng_người_quyết_ý_đoạn_tuyệt.json",
+    "chapter_name": "Chương 351: Đành cùng người quyết ý đoạn tuyệt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-351/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_352_Chính_mình_bảo_trọng_Tào_Mẫn.json",
+    "chapter_name": "Chương 352: Chính mình bảo trọng, Tào Mẫn",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-352/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_353_Châu_chấu_quá_cảnh.json",
+    "chapter_name": "Chương 353: Châu chấu quá cảnh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-353/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_354_Bạn_bè.json",
+    "chapter_name": "Chương 354: Bạn bè?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-354/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_355_Cái_kia_nên_như_thế_nào.json",
+    "chapter_name": "Chương 355: Cái kia nên như thế nào…",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-355/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_356_Trung_hiếu_khó_cả_đôi_đường.json",
+    "chapter_name": "Chương 356: Trung hiếu khó cả đôi đường?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-356/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_357_Không_thể_vứt_bỏ_tình_yêu.json",
+    "chapter_name": "Chương 357: Không thể vứt bỏ tình yêu",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-357/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_358_Em_đến_từ_thế_giới_khác.json",
+    "chapter_name": "Chương 358: Em đến từ thế giới khác",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-358/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_359_Tình_bạn_của_chúng_ta_không_thể_ly_tán.json",
+    "chapter_name": "Chương 359: Tình bạn của chúng ta không thể ly tán",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-359/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_360_Hôm_nay_nhất_định_là_có_chuyện.json",
+    "chapter_name": "Chương 360: Hôm nay nhất định là có chuyện",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-360/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_361_Bởi_vì_cậu_là_Lưu_Binh.json",
+    "chapter_name": "Chương 361: Bởi vì cậu là Lưu Binh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-361/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_362_Khẩu_chiến_với_một_đám_lão_yêu_quái.json",
+    "chapter_name": "Chương 362: Khẩu chiến với một đám lão yêu quái!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-362/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_363_Động_thủ_ở_trên_đầu_thái_tuế.json",
+    "chapter_name": "Chương 363: Động thủ ở trên đầu thái tuế",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-363/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_364_Song_hệ_dị_năng.json",
+    "chapter_name": "Chương 364: Song hệ dị năng",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-364/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_365_Tiểu_Lưu_bay_lên_rồi.json",
+    "chapter_name": "Chương 365: Tiểu Lưu bay lên rồi!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-365/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_366_Không_có_gì_hơn_dã_tâm.json",
+    "chapter_name": "Chương 366: Không có gì hơn dã tâm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-366/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_367_Xông_vào_phòng_thí_nghiệm.json",
+    "chapter_name": "Chương 367: Xông vào phòng thí nghiệm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-367/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_368_Bẫy_trong_bẫy.json",
+    "chapter_name": "Chương 368: Bẫy trong bẫy",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-368/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_369_Cuối_cùng_đã_bị_bắt.json",
+    "chapter_name": "Chương 369: Cuối cùng đã bị bắt",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-369/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_370_Bạch_Thất_rời_khỏi_phòng_họp.json",
+    "chapter_name": "Chương 370: Bạch Thất rời khỏi phòng họp",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-370/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_371_Cửa_Bắc_cấm_thông_hành.json",
+    "chapter_name": "Chương 371: Cửa Bắc cấm thông hành",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-371/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_372_Lao_ra_căn_cứ.json",
+    "chapter_name": "Chương 372: Lao ra căn cứ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-372/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_373_Nơi_này_là_sân_nhà_của_tôi.json",
+    "chapter_name": "Chương 373: Nơi này là sân nhà của tôi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-373/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_374_Tại_sao_tôi_phải_từ_bỏ.json",
+    "chapter_name": "Chương 374: Tại sao tôi phải từ bỏ?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-374/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_375_Lại_xoay_bức_tường_trước_lò_bếp_sưởi.json",
+    "chapter_name": "Chương 375: Lại xoay bức tường trước lò bếp sưởi",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-375/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_376_Đến_đảo_Tự_Tâm.json",
+    "chapter_name": "Chương 376: Đến đảo Tự Tâm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-376/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_377_Tiểu_Nhược_anh_đên_rôi.json",
+    "chapter_name": "Chương 377: Tiểu Nhược, anh đến rồi…",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-377/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_378_Trận_chiến_sinh_tử.json",
+    "chapter_name": "Chương 378: Trận chiến sinh tử",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-378/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_379_Tiểu_Nhược_chúng_ta_về_nhà.json",
+    "chapter_name": "Chương 379: Tiểu Nhược, chúng ta về nhà",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-379/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_380_Có_còn_đem_chương_quy_căn_cứ_để_vào_mắt.json",
+    "chapter_name": "Chương 380: Có còn đem chương quy căn cứ để vào mắt?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-380/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_381_Đường_Nhược_là_người_cải_tử_hồi_sinh.json",
+    "chapter_name": "Chương 381: Đường Nhược là người cải tử hồi sinh!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-381/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_382_Tôi_muốn_lấy_ơn_báo_oán.json",
+    "chapter_name": "Chương 382: Tôi muốn lấy ơn báo oán",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-382/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_383_Trở_về_tiến_đánh_nơi_đây.json",
+    "chapter_name": "Chương 383: Trở về, tiến đánh nơi đây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-383/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_384_Đi_trường_đấu_kỹ_đập_phá_quán.json",
+    "chapter_name": "Chương 384: Đi trường đấu kỹ đập phá quán",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-384/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_385_Tiểu_Nhược_tỉnh.json",
+    "chapter_name": "Chương 385: Tiểu Nhược tỉnh!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-385/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_386_Anh_sẽ_cho_em_ôm.json",
+    "chapter_name": "Chương 386: Anh sẽ cho em ôm",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-386/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_387_Em_nhìn_thấy_tương_lai.json",
+    "chapter_name": "Chương 387: Em nhìn thấy tương lai",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-387/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_388_Thật_sự_muốn_tạo_phản_rồi.json",
+    "chapter_name": "Chương 388: Thật sự muốn tạo phản rồi!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-388/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_389_Em_chỉ_cần_nhớ_rõ_anh_yêu_em.json",
+    "chapter_name": "Chương 389: Em chỉ cần nhớ rõ, anh yêu em",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-389/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_390_Xe_chiến.json",
+    "chapter_name": "Chương 390: Xe chiến",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-390/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_391_Anh_có_thể_suy_nghĩ.json",
+    "chapter_name": "Chương 391: Anh có thể suy nghĩ",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-391/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_392_Ông_trời_cũng_không_giúp_anh.json",
+    "chapter_name": "Chương 392: Ông trời cũng không giúp anh",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-392/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_393_Lại_là_Zombie_triều.json",
+    "chapter_name": "Chương 393: Lại là Zombie triều?",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-393/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_394_Chúng_ta_đều_yêu_nước.json",
+    "chapter_name": "Chương 394: Chúng ta đều yêu nước!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-394/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_395_Tôi_không_muốn_chết.json",
+    "chapter_name": "Chương 395: Tôi không muốn chết",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-395/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_396_Giằng_co.json",
+    "chapter_name": "Chương 396: Giằng co",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-396/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_397_Người_phản_kháng_giết_chết_bất_luận_tội.json",
+    "chapter_name": "Chương 397: Người phản kháng giết chết bất luận tội",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-397/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_398_Đội_Tùy_Tiện_không_tùy_tiện.json",
+    "chapter_name": "Chương 398: Đội Tùy Tiện không tùy tiện",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-398/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_399_Ngoan_ngoãn_đi_chết_đi.json",
+    "chapter_name": "Chương 399: Ngoan ngoãn đi chết đi!",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-399/"
+  },
+  {
+    "path": "data/Tận_Thế_Song_Sủng/Chương_400_Giết_Máu_chảy_cửa_Tây.json",
+    "chapter_name": "Chương 400: Giết! Máu chảy cửa Tây",
+    "url": "https://truyenfull.io/tan-the-song-sung/chuong-400/"
+  }
+]
