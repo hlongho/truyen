@@ -1,0 +1,682 @@
+[
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_1_Bánh_Hoa_Hồng.json",
+    "chapter_name": "Chương 1: Bánh Hoa Hồng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-1/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_2_Minh_Gia.json",
+    "chapter_name": "Chương 2: Minh Gia",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-2/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_3_Xử_Lí_Liên_Thị.json",
+    "chapter_name": "Chương 3: Xử Lí Liên Thị",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-3/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_4_Thượng_Vị_Giả.json",
+    "chapter_name": "Chương 4: Thượng Vị Giả",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-4/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_5_Đến_Phủ_An_Quốc_Công.json",
+    "chapter_name": "Chương 5: Đến Phủ An Quốc Công",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-5/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_6_Ca_Ca_Là_Người_Tốt.json",
+    "chapter_name": "Chương 6: Ca Ca Là Người Tốt",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-6/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_7_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 7: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-7/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_8_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 8: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-8/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_9_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 9: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-9/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_10_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 10: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-10/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_11_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 11: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-11/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_12_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 12: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-12/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_13_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 13: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-13/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_14_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 14: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-14/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_15_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 15: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-15/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_16_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 16: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-16/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_17_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 17: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-17/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_18_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 18: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-18/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_19_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 19: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-19/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_20_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 20: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-20/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_21_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 21: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-21/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_22_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 22: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-22/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_23_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 23: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-23/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_24_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 24: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-24/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_25_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 25: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-25/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_26_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 26: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-26/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_27_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 27: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-27/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_28_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 28: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-28/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_29_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 29: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-29/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_30_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 30: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-30/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_31_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 31: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-31/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_32_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 32: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-32/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_33_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 33: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-33/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_34_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 34: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-34/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_35_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 35: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-35/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_36_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 36: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-36/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_37_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 37: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-37/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_38_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 38: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-38/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_39_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 39: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-39/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_40_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 40: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-40/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_41_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 41: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-41/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_42_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 42: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-42/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_43_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 43: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-43/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_44_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 44: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-44/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_45_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 45: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-45/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_46_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 46: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-46/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_47_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 47: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-47/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_48_Cậy_quân_sủng.json",
+    "chapter_name": "Chương 48: Cậy quân sủng",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-48/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_49.json",
+    "chapter_name": "Chương 49",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-49/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_50.json",
+    "chapter_name": "Chương 50",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-50/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_51.json",
+    "chapter_name": "Chương 51",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-51/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_52.json",
+    "chapter_name": "Chương 52",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-52/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_53.json",
+    "chapter_name": "Chương 53",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-53/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_54.json",
+    "chapter_name": "Chương 54",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-54/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_55.json",
+    "chapter_name": "Chương 55",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-55/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_56.json",
+    "chapter_name": "Chương 56",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-56/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_57.json",
+    "chapter_name": "Chương 57",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-57/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_58.json",
+    "chapter_name": "Chương 58",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-58/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_59.json",
+    "chapter_name": "Chương 59",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-59/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_60.json",
+    "chapter_name": "Chương 60",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-60/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_61.json",
+    "chapter_name": "Chương 61",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-61/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_62.json",
+    "chapter_name": "Chương 62",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-62/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_63.json",
+    "chapter_name": "Chương 63",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-63/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_64.json",
+    "chapter_name": "Chương 64",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-64/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-65/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_66.json",
+    "chapter_name": "Chương 66",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-66/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_67.json",
+    "chapter_name": "Chương 67",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-67/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_68.json",
+    "chapter_name": "Chương 68",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-68/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_69.json",
+    "chapter_name": "Chương 69",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-69/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_70.json",
+    "chapter_name": "Chương 70",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-70/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_71.json",
+    "chapter_name": "Chương 71",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-71/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_72.json",
+    "chapter_name": "Chương 72",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-72/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_73.json",
+    "chapter_name": "Chương 73",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-73/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_74.json",
+    "chapter_name": "Chương 74",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-74/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_75.json",
+    "chapter_name": "Chương 75",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-75/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_76.json",
+    "chapter_name": "Chương 76",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-76/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-77/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_78.json",
+    "chapter_name": "Chương 78",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-78/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_79.json",
+    "chapter_name": "Chương 79",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-79/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_80.json",
+    "chapter_name": "Chương 80",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-80/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_81.json",
+    "chapter_name": "Chương 81",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-81/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_82.json",
+    "chapter_name": "Chương 82",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-82/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_83.json",
+    "chapter_name": "Chương 83",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-83/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_84.json",
+    "chapter_name": "Chương 84",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-84/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-85/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-86/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_87.json",
+    "chapter_name": "Chương 87",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-87/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_88.json",
+    "chapter_name": "Chương 88",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-88/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_89.json",
+    "chapter_name": "Chương 89",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-89/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_90.json",
+    "chapter_name": "Chương 90",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-90/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_91.json",
+    "chapter_name": "Chương 91",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-91/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_92.json",
+    "chapter_name": "Chương 92",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-92/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_93.json",
+    "chapter_name": "Chương 93",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-93/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-94/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_95.json",
+    "chapter_name": "Chương 95",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-95/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_96.json",
+    "chapter_name": "Chương 96",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-96/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_97.json",
+    "chapter_name": "Chương 97",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-97/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_98.json",
+    "chapter_name": "Chương 98",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-98/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_99.json",
+    "chapter_name": "Chương 99",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-99/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_100.json",
+    "chapter_name": "Chương 100",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-100/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-101/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-102/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-103/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-104/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-105/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-106/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-107/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_108.json",
+    "chapter_name": "Chương 108",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-108/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_109.json",
+    "chapter_name": "Chương 109",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-109/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_110.json",
+    "chapter_name": "Chương 110",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-110/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_111.json",
+    "chapter_name": "Chương 111",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-111/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_112_Ngoại_truyện_1.json",
+    "chapter_name": "Chương 112: Ngoại truyện 1",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-112/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_113_Ngoại_truyện_2.json",
+    "chapter_name": "Chương 113: Ngoại truyện 2",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-113/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_114_Ngoại_truyện_3.json",
+    "chapter_name": "Chương 114: Ngoại truyện 3",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-114/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_115_Ngoại_truyện_4.json",
+    "chapter_name": "Chương 115: Ngoại truyện 4",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-115/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_116_Ngoại_truyện_5.json",
+    "chapter_name": "Chương 116: Ngoại truyện 5",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-116/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_117_Ngoại_truyện_6.json",
+    "chapter_name": "Chương 117: Ngoại truyện 6",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-117/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_118_Ngoại_truyện_7.json",
+    "chapter_name": "Chương 118: Ngoại truyện 7",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-118/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_119_Ngoại_truyện_8.json",
+    "chapter_name": "Chương 119: Ngoại truyện 8",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-119/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_120_Ngoại_truyện_9.json",
+    "chapter_name": "Chương 120: Ngoại truyện 9",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-120/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_121_Ngoại_truyện_10.json",
+    "chapter_name": "Chương 121: Ngoại truyện 10",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-121/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_122_Ngoại_truyện_11.json",
+    "chapter_name": "Chương 122: Ngoại truyện 11",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-122/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_123_Ngoại_truyện_12.json",
+    "chapter_name": "Chương 123: Ngoại truyện 12",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-123/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_124_Ngoại_truyện_13.json",
+    "chapter_name": "Chương 124: Ngoại truyện 13",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-124/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_125_Ngoại_truyện_14.json",
+    "chapter_name": "Chương 125: Ngoại truyện 14",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-125/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_126_Ngoại_truyện_15.json",
+    "chapter_name": "Chương 126: Ngoại truyện 15",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-126/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_127_Ngoại_truyện_16.json",
+    "chapter_name": "Chương 127: Ngoại truyện 16",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-127/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_128_Ngoại_truyện_17.json",
+    "chapter_name": "Chương 128: Ngoại truyện 17",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-128/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_129_Ngoại_truyện_18.json",
+    "chapter_name": "Chương 129: Ngoại truyện 18",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-129/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_130_Ngoại_truyện_19.json",
+    "chapter_name": "Chương 130: Ngoại truyện 19",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-130/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_131_Ngoại_truyện_20.json",
+    "chapter_name": "Chương 131: Ngoại truyện 20",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-131/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_132_Ngoại_truyện_21.json",
+    "chapter_name": "Chương 132: Ngoại truyện 21",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-132/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_133_Ngoại_truyện_22.json",
+    "chapter_name": "Chương 133: Ngoại truyện 22",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-133/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_134_Ngoại_truyện_23.json",
+    "chapter_name": "Chương 134: Ngoại truyện 23",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-134/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_135_Ngoại_truyện_24.json",
+    "chapter_name": "Chương 135: Ngoại truyện 24",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-135/"
+  },
+  {
+    "path": "data/Cậy_Quân_Sủng/Chương_136_Ngoại_truyện_25.json",
+    "chapter_name": "Chương 136: Ngoại truyện 25",
+    "url": "https://truyenfull.io/cay-quan-sung/chuong-136/"
+  }
+]
