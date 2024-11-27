@@ -1,0 +1,422 @@
+[
+  {
+    "path": "data/Nịch_Tửu/Chương_1_Chương_1.json",
+    "chapter_name": "Chương 1: Chương 1",
+    "url": "https://truyenfull.io/nich-tuu/chuong-1/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_2_Chương_2.json",
+    "chapter_name": "Chương 2: Chương 2",
+    "url": "https://truyenfull.io/nich-tuu/chuong-2/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_3_Chương_3.json",
+    "chapter_name": "Chương 3: Chương 3",
+    "url": "https://truyenfull.io/nich-tuu/chuong-3/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_4_Chương_4.json",
+    "chapter_name": "Chương 4: Chương 4",
+    "url": "https://truyenfull.io/nich-tuu/chuong-4/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_5_Chương_5.json",
+    "chapter_name": "Chương 5: Chương 5",
+    "url": "https://truyenfull.io/nich-tuu/chuong-5/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_6_Chương_6.json",
+    "chapter_name": "Chương 6: Chương 6",
+    "url": "https://truyenfull.io/nich-tuu/chuong-6/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_7_Chương_7.json",
+    "chapter_name": "Chương 7: Chương 7",
+    "url": "https://truyenfull.io/nich-tuu/chuong-7/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_8_Chương_8.json",
+    "chapter_name": "Chương 8: Chương 8",
+    "url": "https://truyenfull.io/nich-tuu/chuong-8/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_9_Chương_9.json",
+    "chapter_name": "Chương 9: Chương 9",
+    "url": "https://truyenfull.io/nich-tuu/chuong-9/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_10_Chương_10.json",
+    "chapter_name": "Chương 10: Chương 10",
+    "url": "https://truyenfull.io/nich-tuu/chuong-10/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_11_Chương_11.json",
+    "chapter_name": "Chương 11: Chương 11",
+    "url": "https://truyenfull.io/nich-tuu/chuong-11/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_12_Chương_12.json",
+    "chapter_name": "Chương 12: Chương 12",
+    "url": "https://truyenfull.io/nich-tuu/chuong-12/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_13_Chương_13.json",
+    "chapter_name": "Chương 13: Chương 13",
+    "url": "https://truyenfull.io/nich-tuu/chuong-13/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_14_Chương_14.json",
+    "chapter_name": "Chương 14: Chương 14",
+    "url": "https://truyenfull.io/nich-tuu/chuong-14/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_15_Chương_15.json",
+    "chapter_name": "Chương 15: Chương 15",
+    "url": "https://truyenfull.io/nich-tuu/chuong-15/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_16_Chương_16.json",
+    "chapter_name": "Chương 16: Chương 16",
+    "url": "https://truyenfull.io/nich-tuu/chuong-16/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_17_Chương_17.json",
+    "chapter_name": "Chương 17: Chương 17",
+    "url": "https://truyenfull.io/nich-tuu/chuong-17/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_18_Chương_18.json",
+    "chapter_name": "Chương 18: Chương 18",
+    "url": "https://truyenfull.io/nich-tuu/chuong-18/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_19_Chương_19.json",
+    "chapter_name": "Chương 19: Chương 19",
+    "url": "https://truyenfull.io/nich-tuu/chuong-19/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_20_Chương_20.json",
+    "chapter_name": "Chương 20: Chương 20",
+    "url": "https://truyenfull.io/nich-tuu/chuong-20/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_21_Chương_21.json",
+    "chapter_name": "Chương 21: Chương 21",
+    "url": "https://truyenfull.io/nich-tuu/chuong-21/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_22_Chương_22.json",
+    "chapter_name": "Chương 22: Chương 22",
+    "url": "https://truyenfull.io/nich-tuu/chuong-22/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_23_Chương_23.json",
+    "chapter_name": "Chương 23: Chương 23",
+    "url": "https://truyenfull.io/nich-tuu/chuong-23/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_24_Chương_24.json",
+    "chapter_name": "Chương 24: Chương 24",
+    "url": "https://truyenfull.io/nich-tuu/chuong-24/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_25_Chương_25.json",
+    "chapter_name": "Chương 25: Chương 25",
+    "url": "https://truyenfull.io/nich-tuu/chuong-25/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_26_Chương_26.json",
+    "chapter_name": "Chương 26: Chương 26",
+    "url": "https://truyenfull.io/nich-tuu/chuong-26/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_27_Chương_27.json",
+    "chapter_name": "Chương 27: Chương 27",
+    "url": "https://truyenfull.io/nich-tuu/chuong-27/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_28_Chương_28.json",
+    "chapter_name": "Chương 28: Chương 28",
+    "url": "https://truyenfull.io/nich-tuu/chuong-28/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_29_Chương_29.json",
+    "chapter_name": "Chương 29: Chương 29",
+    "url": "https://truyenfull.io/nich-tuu/chuong-29/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_30_Chương_30.json",
+    "chapter_name": "Chương 30: Chương 30",
+    "url": "https://truyenfull.io/nich-tuu/chuong-30/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_31_Chương_31.json",
+    "chapter_name": "Chương 31: Chương 31",
+    "url": "https://truyenfull.io/nich-tuu/chuong-31/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_32_Chương_32.json",
+    "chapter_name": "Chương 32: Chương 32",
+    "url": "https://truyenfull.io/nich-tuu/chuong-32/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_33_Chương_33.json",
+    "chapter_name": "Chương 33: Chương 33",
+    "url": "https://truyenfull.io/nich-tuu/chuong-33/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_34_Chương_34.json",
+    "chapter_name": "Chương 34: Chương 34",
+    "url": "https://truyenfull.io/nich-tuu/chuong-34/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_35_Chương_35.json",
+    "chapter_name": "Chương 35: Chương 35",
+    "url": "https://truyenfull.io/nich-tuu/chuong-35/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_36_Chương_36.json",
+    "chapter_name": "Chương 36: Chương 36",
+    "url": "https://truyenfull.io/nich-tuu/chuong-36/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_37_Chương_37.json",
+    "chapter_name": "Chương 37: Chương 37",
+    "url": "https://truyenfull.io/nich-tuu/chuong-37/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_38_Chương_38.json",
+    "chapter_name": "Chương 38: Chương 38",
+    "url": "https://truyenfull.io/nich-tuu/chuong-38/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_39_Chương_39.json",
+    "chapter_name": "Chương 39: Chương 39",
+    "url": "https://truyenfull.io/nich-tuu/chuong-39/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_40_Chương_40.json",
+    "chapter_name": "Chương 40: Chương 40",
+    "url": "https://truyenfull.io/nich-tuu/chuong-40/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_41_Chương_41.json",
+    "chapter_name": "Chương 41: Chương 41",
+    "url": "https://truyenfull.io/nich-tuu/chuong-41/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_42_Chương_42.json",
+    "chapter_name": "Chương 42: Chương 42",
+    "url": "https://truyenfull.io/nich-tuu/chuong-42/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_43_Chương_43.json",
+    "chapter_name": "Chương 43: Chương 43",
+    "url": "https://truyenfull.io/nich-tuu/chuong-43/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_44_Chương_44.json",
+    "chapter_name": "Chương 44: Chương 44",
+    "url": "https://truyenfull.io/nich-tuu/chuong-44/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_45_Chương_45.json",
+    "chapter_name": "Chương 45: Chương 45",
+    "url": "https://truyenfull.io/nich-tuu/chuong-45/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_46_Chương_46.json",
+    "chapter_name": "Chương 46: Chương 46",
+    "url": "https://truyenfull.io/nich-tuu/chuong-46/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_47_Chương_47.json",
+    "chapter_name": "Chương 47: Chương 47",
+    "url": "https://truyenfull.io/nich-tuu/chuong-47/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_48_Chương_48.json",
+    "chapter_name": "Chương 48: Chương 48",
+    "url": "https://truyenfull.io/nich-tuu/chuong-48/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_49_Chương_49.json",
+    "chapter_name": "Chương 49: Chương 49",
+    "url": "https://truyenfull.io/nich-tuu/chuong-49/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_50_Chương_50.json",
+    "chapter_name": "Chương 50: Chương 50",
+    "url": "https://truyenfull.io/nich-tuu/chuong-50/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_51_Chương_51.json",
+    "chapter_name": "Chương 51: Chương 51",
+    "url": "https://truyenfull.io/nich-tuu/chuong-51/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_52_Chương_52.json",
+    "chapter_name": "Chương 52: Chương 52",
+    "url": "https://truyenfull.io/nich-tuu/chuong-52/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_53_Chương_53.json",
+    "chapter_name": "Chương 53: Chương 53",
+    "url": "https://truyenfull.io/nich-tuu/chuong-53/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_54_Chương_54.json",
+    "chapter_name": "Chương 54: Chương 54",
+    "url": "https://truyenfull.io/nich-tuu/chuong-54/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_55_Chương_55.json",
+    "chapter_name": "Chương 55: Chương 55",
+    "url": "https://truyenfull.io/nich-tuu/chuong-55/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_56_Chương_56.json",
+    "chapter_name": "Chương 56: Chương 56",
+    "url": "https://truyenfull.io/nich-tuu/chuong-56/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_57_Chương_57.json",
+    "chapter_name": "Chương 57: Chương 57",
+    "url": "https://truyenfull.io/nich-tuu/chuong-57/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_58_Chương_58.json",
+    "chapter_name": "Chương 58: Chương 58",
+    "url": "https://truyenfull.io/nich-tuu/chuong-58/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_59_Chương_59.json",
+    "chapter_name": "Chương 59: Chương 59",
+    "url": "https://truyenfull.io/nich-tuu/chuong-59/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_60_Chương_60.json",
+    "chapter_name": "Chương 60: Chương 60",
+    "url": "https://truyenfull.io/nich-tuu/chuong-60/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_61_Chương_61.json",
+    "chapter_name": "Chương 61: Chương 61",
+    "url": "https://truyenfull.io/nich-tuu/chuong-61/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_62_Chương_62.json",
+    "chapter_name": "Chương 62: Chương 62",
+    "url": "https://truyenfull.io/nich-tuu/chuong-62/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_63_Chương_63.json",
+    "chapter_name": "Chương 63: Chương 63",
+    "url": "https://truyenfull.io/nich-tuu/chuong-63/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_64_Chương_64.json",
+    "chapter_name": "Chương 64: Chương 64",
+    "url": "https://truyenfull.io/nich-tuu/chuong-64/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_65_Chương_65.json",
+    "chapter_name": "Chương 65: Chương 65",
+    "url": "https://truyenfull.io/nich-tuu/chuong-65/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_66_Chương_66.json",
+    "chapter_name": "Chương 66: Chương 66",
+    "url": "https://truyenfull.io/nich-tuu/chuong-66/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_67_Chương_67.json",
+    "chapter_name": "Chương 67: Chương 67",
+    "url": "https://truyenfull.io/nich-tuu/chuong-67/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_68_Chương_68.json",
+    "chapter_name": "Chương 68: Chương 68",
+    "url": "https://truyenfull.io/nich-tuu/chuong-68/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_69_Chương_69.json",
+    "chapter_name": "Chương 69: Chương 69",
+    "url": "https://truyenfull.io/nich-tuu/chuong-69/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_70_Chương_70.json",
+    "chapter_name": "Chương 70: Chương 70",
+    "url": "https://truyenfull.io/nich-tuu/chuong-70/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_71_Chương_71.json",
+    "chapter_name": "Chương 71: Chương 71",
+    "url": "https://truyenfull.io/nich-tuu/chuong-71/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_73_Chương_73.json",
+    "chapter_name": "Chương 73: Chương 73",
+    "url": "https://truyenfull.io/nich-tuu/chuong-73/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_74_Chương_74.json",
+    "chapter_name": "Chương 74: Chương 74",
+    "url": "https://truyenfull.io/nich-tuu/chuong-74/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_76_Chương_76.json",
+    "chapter_name": "Chương 76: Chương 76",
+    "url": "https://truyenfull.io/nich-tuu/chuong-76/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_77_Chương_77.json",
+    "chapter_name": "Chương 77: Chương 77",
+    "url": "https://truyenfull.io/nich-tuu/chuong-77/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_78_Chương_78.json",
+    "chapter_name": "Chương 78: Chương 78",
+    "url": "https://truyenfull.io/nich-tuu/chuong-78/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_79_Chương_79.json",
+    "chapter_name": "Chương 79: Chương 79",
+    "url": "https://truyenfull.io/nich-tuu/chuong-79/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_80_Chương_80.json",
+    "chapter_name": "Chương 80: Chương 80",
+    "url": "https://truyenfull.io/nich-tuu/chuong-80/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_81_Chương_81.json",
+    "chapter_name": "Chương 81: Chương 81",
+    "url": "https://truyenfull.io/nich-tuu/chuong-81/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_82_Chương_82.json",
+    "chapter_name": "Chương 82: Chương 82",
+    "url": "https://truyenfull.io/nich-tuu/chuong-82/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_83_Chương_83.json",
+    "chapter_name": "Chương 83: Chương 83",
+    "url": "https://truyenfull.io/nich-tuu/chuong-83/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_84_Chương_84.json",
+    "chapter_name": "Chương 84: Chương 84",
+    "url": "https://truyenfull.io/nich-tuu/chuong-84/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_85_Chương_85.json",
+    "chapter_name": "Chương 85: Chương 85",
+    "url": "https://truyenfull.io/nich-tuu/chuong-85/"
+  },
+  {
+    "path": "data/Nịch_Tửu/Chương_86_Chương_86.json",
+    "chapter_name": "Chương 86: Chương 86",
+    "url": "https://truyenfull.io/nich-tuu/chuong-86/"
+  }
+]
