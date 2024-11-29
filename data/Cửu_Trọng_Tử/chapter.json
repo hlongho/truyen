@@ -1,0 +1,1937 @@
+[
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_1_Tranh_chấp.json",
+    "chapter_name": "Chương 1: Tranh chấp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-1/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_2_Bất_đồng.json",
+    "chapter_name": "Chương 2: Bất đồng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-2/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_3_Chua_xót.json",
+    "chapter_name": "Chương 3: Chua xót",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-3/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_4_Sống_lại.json",
+    "chapter_name": "Chương 4: Sống lại",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-4/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_5_Về_nhà.json",
+    "chapter_name": "Chương 5: Về nhà",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-5/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_6_Đậu_gia.json",
+    "chapter_name": "Chương 6: Đậu gia",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-6/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_7_Nghi_hoặc.json",
+    "chapter_name": "Chương 7: Nghi hoặc",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-7/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_8_Sinh_chuyện.json",
+    "chapter_name": "Chương 8: Sinh chuyện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-8/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_9_Nha_hoàn.json",
+    "chapter_name": "Chương 9: Nha hoàn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-9/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_10_Mẫu_thân.json",
+    "chapter_name": "Chương 10: Mẫu thân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-10/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_11_Kế_mẫu.json",
+    "chapter_name": "Chương 11: Kế mẫu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-11/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_12_Khách_đến.json",
+    "chapter_name": "Chương 12: Khách đến",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-12/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_13_Cãi_nhau.json",
+    "chapter_name": "Chương 13: Cãi nhau",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-13/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_14_Mẹ_chồng.json",
+    "chapter_name": "Chương 14: Mẹ chồng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-14/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_15_Chưa_được_thoả_mãn.json",
+    "chapter_name": "Chương 15: Chưa được thoả mãn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-15/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_16_Khẩn_cầu.json",
+    "chapter_name": "Chương 16: Khẩn cầu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-16/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_17_Quạt_tròn_mùa_thu.json",
+    "chapter_name": "Chương 17: Quạt tròn mùa thu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-17/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_18_Mùa_xuân_ấm_áp.json",
+    "chapter_name": "Chương 18: Mùa xuân ấm áp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-18/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_19_Hôn_sự.json",
+    "chapter_name": "Chương 19: Hôn sự",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-19/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_20_Nước_chảy.json",
+    "chapter_name": "Chương 20: Nước chảy",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-20/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_21_Tranh_luận.json",
+    "chapter_name": "Chương 21: Tranh luận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-21/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_22_Cữu_cữu.json",
+    "chapter_name": "Chương 22: Cữu cữu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-22/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_23_Muội_muội.json",
+    "chapter_name": "Chương 23: Muội muội",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-23/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_24_Tâm_tư.json",
+    "chapter_name": "Chương 24: Tâm tư",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-24/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_25_Xúi_giục.json",
+    "chapter_name": "Chương 25: Xúi giục",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-25/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_26_Trước_khi_đi.json",
+    "chapter_name": "Chương 26: Trước khi đi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-26/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_27_Bất_ngờ.json",
+    "chapter_name": "Chương 27: Bất ngờ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-27/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_28_Ăn_tết.json",
+    "chapter_name": "Chương 28: Ăn tết",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-28/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_29_Nói_chuyện.json",
+    "chapter_name": "Chương 29: Nói chuyện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-29/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_30_Lựa_chọn.json",
+    "chapter_name": "Chương 30: Lựa chọn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-30/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_31_Nghe_lén.json",
+    "chapter_name": "Chương 31: Nghe lén",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-31/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_32_Khác_thường.json",
+    "chapter_name": "Chương 32: Khác thường",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-32/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_33_Không_biết.json",
+    "chapter_name": "Chương 33: Không biết",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-33/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_34_Hỗn_loạn.json",
+    "chapter_name": "Chương 34: Hỗn loạn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-34/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_35_Xử_trí.json",
+    "chapter_name": "Chương 35: Xử trí",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-35/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_36_Ở_tạm.json",
+    "chapter_name": "Chương 36: Ở tạm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-36/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_37_Lời_nói_trong_đêm.json",
+    "chapter_name": "Chương 37: Lời nói trong đêm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-37/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_38_Kỷ_thị.json",
+    "chapter_name": "Chương 38: Kỷ thị",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-38/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_39_Liên_hoàn.json",
+    "chapter_name": "Chương 39: Liên hoàn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-39/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_40_Bắt_bí.json",
+    "chapter_name": "Chương 40: Bắt bí",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-40/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_41_Hãi_hùng.json",
+    "chapter_name": "Chương 41: Hãi hùng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-41/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_42_Phản_ứng.json",
+    "chapter_name": "Chương 42: Phản ứng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-42/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_43_Sửa_dây_đàn.json",
+    "chapter_name": "Chương 43: Sửa dây đàn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-43/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_44_Đao_sắc.json",
+    "chapter_name": "Chương 44: Đao sắc",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-44/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_45_Đồng_ý.json",
+    "chapter_name": "Chương 45: Đồng ý",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-45/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_46_Một_nửa.json",
+    "chapter_name": "Chương 46: Một nửa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-46/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_47_Tính_toán.json",
+    "chapter_name": "Chương 47: Tính toán",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-47/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_48_Tính_toán_rõ_ràng.json",
+    "chapter_name": "Chương 48: Tính toán rõ ràng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-48/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_49_Chia_cách.json",
+    "chapter_name": "Chương 49: Chia cách",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-49/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_50_Hỗ_trợ.json",
+    "chapter_name": "Chương 50: Hỗ trợ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-50/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_51_Quy_củ.json",
+    "chapter_name": "Chương 51: Quy củ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-51/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_52_Cự_tuyệt.json",
+    "chapter_name": "Chương 52: Cự tuyệt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-52/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_53_Điền_trang.json",
+    "chapter_name": "Chương 53: Điền trang",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-53/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_54_Cố_nhân.json",
+    "chapter_name": "Chương 54: Cố nhân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-54/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_55_Vào_cửa.json",
+    "chapter_name": "Chương 55: Vào cửa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-55/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_56_Đoan_ngọ.json",
+    "chapter_name": "Chương 56: Đoan ngọ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-56/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_57_Tổ_phụ.json",
+    "chapter_name": "Chương 57: Tổ phụ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-57/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_58_Tang_sự.json",
+    "chapter_name": "Chương 58: Tang sự",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-58/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_59_Phúng_viếng.json",
+    "chapter_name": "Chương 59: Phúng viếng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-59/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_60_Chịu_tang.json",
+    "chapter_name": "Chương 60: Chịu tang",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-60/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_61_Tỷ_muội.json",
+    "chapter_name": "Chương 61: Tỷ muội",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-61/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_62_Ba_năm.json",
+    "chapter_name": "Chương 62: Ba năm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-62/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_63_Phong_ba.json",
+    "chapter_name": "Chương 63: Phong ba",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-63/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_64_Lật_tẩy.json",
+    "chapter_name": "Chương 64: Lật tẩy",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-64/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_65_Hậu_quả_Hậu_quả.json",
+    "chapter_name": "Chương 65: Hậu quả Hậu quả",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-65/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_66_Bầu_bạn.json",
+    "chapter_name": "Chương 66: Bầu bạn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-66/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_67_Cứu_vãn.json",
+    "chapter_name": "Chương 67: Cứu vãn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-67/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_68_Gặp_gỡ.json",
+    "chapter_name": "Chương 68: Gặp gỡ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-68/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_69_Cúc_yến.json",
+    "chapter_name": "Chương 69: Cúc yến",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-69/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_70_Xin_giúp_đỡ.json",
+    "chapter_name": "Chương 70: Xin giúp đỡ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-70/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_71_Bức_ép_lẫn_nhau.json",
+    "chapter_name": "Chương 71: Bức ép lẫn nhau",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-71/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_72_Nhúng_tay.json",
+    "chapter_name": "Chương 72: Nhúng tay",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-72/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_73_Sở_cầu.json",
+    "chapter_name": "Chương 73: Sở cầu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-73/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_74_Thu_nhận.json",
+    "chapter_name": "Chương 74: Thu nhận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-74/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_75_Thẳng_thắn_thành_khẩn.json",
+    "chapter_name": "Chương 75: Thẳng thắn thành khẩn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-75/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_76_Thỏa_thuận.json",
+    "chapter_name": "Chương 76: Thỏa thuận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-76/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_77_Vào_phủ.json",
+    "chapter_name": "Chương 77: Vào phủ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-77/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_78_Làm_ăn.json",
+    "chapter_name": "Chương 78: Làm ăn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-78/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_79_Bái_kiến.json",
+    "chapter_name": "Chương 79: Bái kiến",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-79/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_80_Vui_sướng.json",
+    "chapter_name": "Chương 80: Vui sướng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-80/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_81_Ô_Thiện.json",
+    "chapter_name": "Chương 81: Ô Thiện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-81/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_82_Du_ngoạn.json",
+    "chapter_name": "Chương 82: Du ngoạn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-82/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_83_Hôn_sự.json",
+    "chapter_name": "Chương 83: Hôn sự",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-83/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_84_Gợn_sóng.json",
+    "chapter_name": "Chương 84: Gợn sóng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-84/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_85_Kỷ_Vịnh.json",
+    "chapter_name": "Chương 85: Kỷ Vịnh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-85/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_86_Điền_trang.json",
+    "chapter_name": "Chương 86: Điền trang",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-86/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_87_Bắt_cóc.json",
+    "chapter_name": "Chương 87: Bắt cóc",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-87/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_88_Kinh_ngạc.json",
+    "chapter_name": "Chương 88: Kinh ngạc",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-88/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_89_Đánh_người.json",
+    "chapter_name": "Chương 89: Đánh người",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-89/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_90_Xôn_xao.json",
+    "chapter_name": "Chương 90: Xôn xao",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-90/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_91_Đâm.json",
+    "chapter_name": "Chương 91: Đâm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-91/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_92_Phản_ứng.json",
+    "chapter_name": "Chương 92: Phản ứng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-92/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_93_Cự_tuyệt.json",
+    "chapter_name": "Chương 93: Cự tuyệt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-93/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_94.json",
+    "chapter_name": "Chương 94",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-94/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_95_Đổi_ý.json",
+    "chapter_name": "Chương 95: Đổi ý",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-95/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_96_Trở_về.json",
+    "chapter_name": "Chương 96: Trở về",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-96/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_97_Tình_cờ_gặp.json",
+    "chapter_name": "Chương 97: Tình cờ gặp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-97/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_98_Gây_xích_mích.json",
+    "chapter_name": "Chương 98: Gây xích mích",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-98/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_99_Ghi_hận.json",
+    "chapter_name": "Chương 99: Ghi hận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-99/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_100_Tái_kiến.json",
+    "chapter_name": "Chương 100: Tái kiến",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-100/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_101_Hoảng_hốt.json",
+    "chapter_name": "Chương 101: Hoảng hốt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-101/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_102_Câu_Đối_Xuân.json",
+    "chapter_name": "Chương 102: Câu Đối Xuân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-102/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_103_Hà_Dục.json",
+    "chapter_name": "Chương 103: Hà Dục",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-103/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_104_Cầu_thân.json",
+    "chapter_name": "Chương 104: Cầu thân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-104/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_105_Một_Mũi_Tên.json",
+    "chapter_name": "Chương 105: Một Mũi Tên",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-105/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_106_Ô_Gia.json",
+    "chapter_name": "Chương 106: Ô Gia",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-106/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_107_Chồng_trước.json",
+    "chapter_name": "Chương 107: Chồng trước",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-107/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_108_Ngụy_gia.json",
+    "chapter_name": "Chương 108: Ngụy gia",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-108/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_109_Đến_chậm.json",
+    "chapter_name": "Chương 109: Đến chậm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-109/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_110_Khó_cả_đôi_đường.json",
+    "chapter_name": "Chương 110: Khó cả đôi đường",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-110/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_111_Tửu_lâu.json",
+    "chapter_name": "Chương 111: Tửu lâu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-111/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_112_Bí_ẩn.json",
+    "chapter_name": "Chương 112: Bí ẩn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-112/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_113_Mưa_to.json",
+    "chapter_name": "Chương 113: Mưa to",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-113/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_114_Tìm_nơi_trọ.json",
+    "chapter_name": "Chương 114: Tìm nơi trọ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-114/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_115_Kiếp_trước.json",
+    "chapter_name": "Chương 115: Kiếp trước",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-115/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_116_Tương_gia.json",
+    "chapter_name": "Chương 116: Tương gia",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-116/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_117_Chủ_ý.json",
+    "chapter_name": "Chương 117: Chủ ý",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-117/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_118_Động_thủ.json",
+    "chapter_name": "Chương 118: Động thủ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-118/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_119_Đàm_phán.json",
+    "chapter_name": "Chương 119: Đàm phán",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-119/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_120_Nói_chuyện.json",
+    "chapter_name": "Chương 120: Nói chuyện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-120/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_121_Bày_mưu.json",
+    "chapter_name": "Chương 121: Bày mưu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-121/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_122_Tiễn_bước.json",
+    "chapter_name": "Chương 122: Tiễn bước",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-122/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_123_Chim_xanh.json",
+    "chapter_name": "Chương 123: Chim xanh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-123/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_124_Báo_tin.json",
+    "chapter_name": "Chương 124: Báo tin",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-124/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_125_Tin_người_chết.json",
+    "chapter_name": "Chương 125: Tin người chết",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-125/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_126_Tống_gia.json",
+    "chapter_name": "Chương 126: Tống gia",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-126/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_127_Gieo_trồng_gấp.json",
+    "chapter_name": "Chương 127: Gieo trồng gấp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-127/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_128_Tỏ_lời_cảm_ơn.json",
+    "chapter_name": "Chương 128: Tỏ lời cảm ơn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-128/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_129_Nói_chuyện.json",
+    "chapter_name": "Chương 129: Nói chuyện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-129/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_130_Nghỉ_mát.json",
+    "chapter_name": "Chương 130: Nghỉ mát",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-130/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_131_Bằng_hữu.json",
+    "chapter_name": "Chương 131: Bằng hữu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-131/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_132_Gặp_mặt.json",
+    "chapter_name": "Chương 132: Gặp mặt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-132/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_133_Bài_bạc.json",
+    "chapter_name": "Chương 133: Bài bạc",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-133/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_134_Săn_bắn_mùa_thu.json",
+    "chapter_name": "Chương 134: Săn bắn mùa thu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-134/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_135_Tỷ_thí.json",
+    "chapter_name": "Chương 135: Tỷ thí",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-135/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_136_Mê_muội.json",
+    "chapter_name": "Chương 136: Mê muội",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-136/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_137_Trước_khi_đi.json",
+    "chapter_name": "Chương 137: Trước khi đi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-137/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_138_Đố_kỵ.json",
+    "chapter_name": "Chương 138: Đố kỵ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-138/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_139_Tính_toán.json",
+    "chapter_name": "Chương 139: Tính toán",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-139/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_140_Đấu_trí.json",
+    "chapter_name": "Chương 140: Đấu trí",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-140/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_141_Kinh_Hãi.json",
+    "chapter_name": "Chương 141: Kinh Hãi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-141/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_142_Khắc_phục_hậu_quả.json",
+    "chapter_name": "Chương 142: Khắc phục hậu quả",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-142/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_143_Xác_nhận.json",
+    "chapter_name": "Chương 143: Xác nhận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-143/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_144_Tin_dữ.json",
+    "chapter_name": "Chương 144: Tin dữ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-144/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_145_Gặp_nạn.json",
+    "chapter_name": "Chương 145: Gặp nạn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-145/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_146_Mưa_to.json",
+    "chapter_name": "Chương 146: Mưa to",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-146/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_147_Nghiệp_Chướng.json",
+    "chapter_name": "Chương 147: Nghiệp Chướng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-147/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_148_Chất_Vấn.json",
+    "chapter_name": "Chương 148: Chất Vấn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-148/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_149_Chạy_Trốn.json",
+    "chapter_name": "Chương 149: Chạy Trốn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-149/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_150_Thức_tỉnh.json",
+    "chapter_name": "Chương 150: Thức tỉnh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-150/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_151_Vô_Công.json",
+    "chapter_name": "Chương 151: Vô Công",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-151/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_152_Phản_kích.json",
+    "chapter_name": "Chương 152: Phản kích",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-152/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_153_Ra_tay_tức_thì.json",
+    "chapter_name": "Chương 153: Ra tay tức thì",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-153/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_154_Sứ_giả.json",
+    "chapter_name": "Chương 154: Sứ giả",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-154/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_155_Điều_kiện.json",
+    "chapter_name": "Chương 155: Điều kiện",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-155/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_156_Quyết_định.json",
+    "chapter_name": "Chương 156: Quyết định",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-156/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_157_Biện_Pháp.json",
+    "chapter_name": "Chương 157: Biện Pháp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-157/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_158_Cập_kê.json",
+    "chapter_name": "Chương 158: Cập kê",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-158/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_159_Khách_phương_xa.json",
+    "chapter_name": "Chương 159: Khách phương xa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-159/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_160_Lễ_vật.json",
+    "chapter_name": "Chương 160: Lễ vật",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-160/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_161_Trâm_gỗ.json",
+    "chapter_name": "Chương 161: Trâm gỗ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-161/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_162_Thi_Hội.json",
+    "chapter_name": "Chương 162: Thi Hội",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-162/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_163_Thám_hoa.json",
+    "chapter_name": "Chương 163: Thám hoa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-163/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_164_Khoan_thai.json",
+    "chapter_name": "Chương 164: Khoan thai",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-164/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_165_Phía_sau_núi.json",
+    "chapter_name": "Chương 165: Phía sau núi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-165/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_166_TốtXấu.json",
+    "chapter_name": "Chương 166: Tốt-Xấu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-166/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_167_Giết_gà_dọa_khỉ.json",
+    "chapter_name": "Chương 167: Giết gà dọa khỉ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-167/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_168_Công_trình_trị_thủy.json",
+    "chapter_name": "Chương 168: Công trình trị thủy",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-168/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_169_Người_phụ_tá.json",
+    "chapter_name": "Chương 169: Người phụ tá",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-169/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_170_Xác_định.json",
+    "chapter_name": "Chương 170: Xác định",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-170/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_171_Thử.json",
+    "chapter_name": "Chương 171: Thử",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-171/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_172_Sai_lầm.json",
+    "chapter_name": "Chương 172: Sai lầm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-172/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_173_Mất_mát.json",
+    "chapter_name": "Chương 173: Mất mát",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-173/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_174_Uống_rượu.json",
+    "chapter_name": "Chương 174: Uống rượu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-174/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_175_Ngẫu_nhiên.json",
+    "chapter_name": "Chương 175: Ngẫu nhiên",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-175/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_176_Qua_lại.json",
+    "chapter_name": "Chương 176: Qua lại",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-176/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_177_Qua_lại.json",
+    "chapter_name": "Chương 177: Qua lại",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-177/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_178_Nghỉ_qua_đêm.json",
+    "chapter_name": "Chương 178: Nghỉ qua đêm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-178/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_179_Giằng_co.json",
+    "chapter_name": "Chương 179: Giằng co",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-179/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_180_Hãm_hại.json",
+    "chapter_name": "Chương 180: Hãm hại",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-180/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_181_Thay_đổi.json",
+    "chapter_name": "Chương 181: Thay đổi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-181/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_182_Hỏi.json",
+    "chapter_name": "Chương 182: Hỏi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-182/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_183_Lên_Kinh.json",
+    "chapter_name": "Chương 183: Lên Kinh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-183/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_184_Thân_thích.json",
+    "chapter_name": "Chương 184: Thân thích",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-184/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_185_Không_quyết.json",
+    "chapter_name": "Chương 185: Không quyết",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-185/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_186_Phất_tay_áo.json",
+    "chapter_name": "Chương 186: Phất tay áo",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-186/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_187_Một_lần_nữa.json",
+    "chapter_name": "Chương 187: Một lần nữa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-187/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_188_Ứng_Đối.json",
+    "chapter_name": "Chương 188: Ứng Đối",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-188/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_189_Ra_tay.json",
+    "chapter_name": "Chương 189: Ra tay",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-189/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_190_Tâm_sự.json",
+    "chapter_name": "Chương 190: Tâm sự",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-190/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_191_Giáo_huấn.json",
+    "chapter_name": "Chương 191: Giáo huấn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-191/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_192_Bối_rối.json",
+    "chapter_name": "Chương 192: Bối rối",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-192/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_193_Đánh_thẳng.json",
+    "chapter_name": "Chương 193: Đánh thẳng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-193/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_194_Đối_sách.json",
+    "chapter_name": "Chương 194: Đối sách",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-194/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_195_Biến_hóa.json",
+    "chapter_name": "Chương 195: Biến hóa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-195/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_196_Nguyện_vọng.json",
+    "chapter_name": "Chương 196: Nguyện vọng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-196/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_197_Trù_tính.json",
+    "chapter_name": "Chương 197: Trù tính",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-197/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_198_Quả_ngọt.json",
+    "chapter_name": "Chương 198: Quả ngọt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-198/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_199_Hoàng_tước.json",
+    "chapter_name": "Chương 199: Hoàng tước*",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-199/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_200_Cười_lạnh.json",
+    "chapter_name": "Chương 200: Cười lạnh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-200/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_201_Đáp_ứng.json",
+    "chapter_name": "Chương 201: Đáp ứng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-201/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_202_Hôn_lễ.json",
+    "chapter_name": "Chương 202: Hôn lễ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-202/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_203_Bái_đường.json",
+    "chapter_name": "Chương 203: Bái đường",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-203/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_204_Nhẹ_nhàng.json",
+    "chapter_name": "Chương 204: Nhẹ nhàng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-204/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_205_Ra_mặt.json",
+    "chapter_name": "Chương 205: Ra mặt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-205/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_206_Phẫn_uất.json",
+    "chapter_name": "Chương 206: Phẫn uất",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-206/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_207_Thê_thảm.json",
+    "chapter_name": "Chương 207: Thê thảm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-207/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_208_Ngày_hôm_sau.json",
+    "chapter_name": "Chương 208: Ngày hôm sau",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-208/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_209_Sai_lầm.json",
+    "chapter_name": "Chương 209: Sai lầm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-209/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_210_Sai_thì_sai.json",
+    "chapter_name": "Chương 210: Sai thì sai",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-210/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_211_Đả_thảo.json",
+    "chapter_name": "Chương 211: Đả thảo*",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-211/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_212_Thừa_nhận.json",
+    "chapter_name": "Chương 212: Thừa nhận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-212/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_213_Kinh_xà.json",
+    "chapter_name": "Chương 213: Kinh xà",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-213/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_214_Ba_ngày.json",
+    "chapter_name": "Chương 214: Ba ngày",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-214/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_215_Đến_tai.json",
+    "chapter_name": "Chương 215: Đến tai",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-215/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_216_Ân_cần.json",
+    "chapter_name": "Chương 216: Ân cần",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-216/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_217_Làm_mối.json",
+    "chapter_name": "Chương 217: Làm mối",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-217/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_218_Quyết_liệt.json",
+    "chapter_name": "Chương 218: Quyết liệt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-218/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_219_Tiến_thoái.json",
+    "chapter_name": "Chương 219: Tiến thoái",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-219/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_220_Lọt_vào_mắt.json",
+    "chapter_name": "Chương 220: Lọt vào mắt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-220/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_221_Sét_đánh.json",
+    "chapter_name": "Chương 221: Sét đánh",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-221/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_222_Không_kịp.json",
+    "chapter_name": "Chương 222: Không kịp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-222/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_223_Bổ_cứu.json",
+    "chapter_name": "Chương 223: Bổ cứu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-223/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_224_Hoang_mang.json",
+    "chapter_name": "Chương 224: Hoang mang",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-224/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_225_Uớc_hẹn.json",
+    "chapter_name": "Chương 225: Uớc hẹn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-225/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_226_Ngã_tư_đường.json",
+    "chapter_name": "Chương 226: Ngã tư đường",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-226/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_227_Mọi_người.json",
+    "chapter_name": "Chương 227: Mọi người",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-227/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_228_Nhất_nhất.json",
+    "chapter_name": "Chương 228: Nhất nhất",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-228/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_229_Bôn_tẩu.json",
+    "chapter_name": "Chương 229: Bôn tẩu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-229/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_230_Bẩm_báo.json",
+    "chapter_name": "Chương 230: Bẩm báo",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-230/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_231_Suy_đoán.json",
+    "chapter_name": "Chương 231: Suy đoán",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-231/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_232_Dò_hỏi.json",
+    "chapter_name": "Chương 232: Dò hỏi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-232/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_233_Cố_ý.json",
+    "chapter_name": "Chương 233: Cố ý",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-233/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_234_Vở_cuối.json",
+    "chapter_name": "Chương 234: Vở cuối",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-234/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_235_Xuất_cung.json",
+    "chapter_name": "Chương 235: Xuất cung",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-235/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_236_Uớc_định.json",
+    "chapter_name": "Chương 236: Uớc định",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-236/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_237_Can_thiệp.json",
+    "chapter_name": "Chương 237: Can thiệp",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-237/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_238_Thôi_trang.json",
+    "chapter_name": "Chương 238: Thôi trang*",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-238/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_239_Đồ_cưới.json",
+    "chapter_name": "Chương 239: Đồ cưới",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-239/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_240_Sai_lầm.json",
+    "chapter_name": "Chương 240: Sai lầm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-240/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_241_Con_nối_dõi.json",
+    "chapter_name": "Chương 241: Con nối dõi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-241/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_242_Nhìn_thấu.json",
+    "chapter_name": "Chương 242: Nhìn thấu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-242/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_243_Xuất_giá.json",
+    "chapter_name": "Chương 243: Xuất giá",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-243/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_244_Vào_cửa.json",
+    "chapter_name": "Chương 244: Vào cửa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-244/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_245_Tân_hôn.json",
+    "chapter_name": "Chương 245: Tân hôn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-245/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_246_Vui_buồn.json",
+    "chapter_name": "Chương 246: Vui buồn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-246/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_247_Sáng_hôm_sau.json",
+    "chapter_name": "Chương 247: Sáng hôm sau",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-247/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_248_Nhận_người_thân.json",
+    "chapter_name": "Chương 248: Nhận người thân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-248/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_249_Quẫn_bách.json",
+    "chapter_name": "Chương 249: Quẫn bách",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-249/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_250_Nhắc_nhở.json",
+    "chapter_name": "Chương 250: Nhắc nhở",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-250/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_251_Lại_mặt.json",
+    "chapter_name": "Chương 251: Lại mặt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-251/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_252_Luận_bàn_thứ_tự.json",
+    "chapter_name": "Chương 252: Luận bàn thứ tự",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-252/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_253_Không_cam_lòng.json",
+    "chapter_name": "Chương 253: Không cam lòng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-253/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_254_Buồn_bực.json",
+    "chapter_name": "Chương 254: Buồn bực",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-254/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_255_Danh_phận.json",
+    "chapter_name": "Chương 255: Danh phận",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-255/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_256_Kiểm_kê.json",
+    "chapter_name": "Chương 256: Kiểm kê",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-256/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_257_Hỏi_thăm.json",
+    "chapter_name": "Chương 257: Hỏi thăm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-257/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_258_Phòng_tối.json",
+    "chapter_name": "Chương 258: Phòng tối",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-258/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_259_Hù_dọa.json",
+    "chapter_name": "Chương 259: Hù dọa",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-259/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_260_Ngày_thứ_chín.json",
+    "chapter_name": "Chương 260: Ngày thứ chín",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-260/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_261_Nghi_vấn.json",
+    "chapter_name": "Chương 261: Nghi vấn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-261/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_262_Tiến_cung.json",
+    "chapter_name": "Chương 262: Tiến cung",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-262/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_263_Phu_nhân.json",
+    "chapter_name": "Chương 263: Phu nhân",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-263/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_264_Đột_ngột.json",
+    "chapter_name": "Chương 264: Đột ngột",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-264/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_265_Phong_cáo.json",
+    "chapter_name": "Chương 265: Phong cáo",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-265/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_266_Nhìn_nhau.json",
+    "chapter_name": "Chương 266: Nhìn nhau",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-266/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_267_Bái_phỏng.json",
+    "chapter_name": "Chương 267: Bái phỏng",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-267/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_268_Hiểu_lầm.json",
+    "chapter_name": "Chương 268: Hiểu lầm",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-268/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_269_Tên_cửa_hiệu.json",
+    "chapter_name": "Chương 269: Tên cửa hiệu",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-269/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_270_Mở_tiệc_chiêu_đãi.json",
+    "chapter_name": "Chương 270: Mở tiệc chiêu đãi",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-270/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_271_Giận_chó_đánh_mèo.json",
+    "chapter_name": "Chương 271: Giận chó đánh mèo",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-271/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_272_Cầm_sắt.json",
+    "chapter_name": "Chương 272: Cầm sắt",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-272/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_273_Ra_ngoài.json",
+    "chapter_name": "Chương 273: Ra ngoài",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-273/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_274_Đừng_nghĩ.json",
+    "chapter_name": "Chương 274: Đừng nghĩ",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-274/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_275_Hỏa_hoạn.json",
+    "chapter_name": "Chương 275: Hỏa hoạn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-275/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_276_Gan_lớn.json",
+    "chapter_name": "Chương 276: Gan lớn",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-276/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_277_Che_trời.json",
+    "chapter_name": "Chương 277: Che trời",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-277/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_278_Lệnh_bài.json",
+    "chapter_name": "Chương 278: Lệnh bài",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-278/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_279_Chặn_đường.json",
+    "chapter_name": "Chương 279: Chặn đường",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-279/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_280293.json",
+    "chapter_name": "Chương 280-293",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-280-293/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_294_300.json",
+    "chapter_name": "Chương 294: - 300",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-294/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_301305.json",
+    "chapter_name": "Chương 301-305",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-301-305/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_306310.json",
+    "chapter_name": "Chương 306-310",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-306-310/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_311_315.json",
+    "chapter_name": "Chương 311: - 315",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-311/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_316_320.json",
+    "chapter_name": "Chương 316: - 320",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-316/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_321.json",
+    "chapter_name": "Chương 321",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-321/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_322.json",
+    "chapter_name": "Chương 322",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-322/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_323.json",
+    "chapter_name": "Chương 323",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-323/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_324.json",
+    "chapter_name": "Chương 324",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-324/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_325.json",
+    "chapter_name": "Chương 325",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-325/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_326.json",
+    "chapter_name": "Chương 326",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-326/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_327.json",
+    "chapter_name": "Chương 327",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-327/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_328.json",
+    "chapter_name": "Chương 328",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-328/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_329.json",
+    "chapter_name": "Chương 329",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-329/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_330.json",
+    "chapter_name": "Chương 330",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-330/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_331332.json",
+    "chapter_name": "Chương 331332",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-331332/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_333334.json",
+    "chapter_name": "Chương 333334",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-333334/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_335336.json",
+    "chapter_name": "Chương 335336",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-335336/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_337338.json",
+    "chapter_name": "Chương 337338",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-337338/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_339340.json",
+    "chapter_name": "Chương 339340",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-339340/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_341.json",
+    "chapter_name": "Chương 341",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-341/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_342.json",
+    "chapter_name": "Chương 342",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-342/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_343.json",
+    "chapter_name": "Chương 343",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-343/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_344.json",
+    "chapter_name": "Chương 344",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-344/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_345.json",
+    "chapter_name": "Chương 345",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-345/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_346.json",
+    "chapter_name": "Chương 346",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-346/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/.json",
+    "chapter_name": "",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-347348/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_361362.json",
+    "chapter_name": "Chương 361362",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-361362/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_363364.json",
+    "chapter_name": "Chương 363364",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-363364/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_365366367.json",
+    "chapter_name": "Chương 365366367",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-365366367/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_368369370.json",
+    "chapter_name": "Chương 368369370",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-368369370/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_371375.json",
+    "chapter_name": "Chương 371-375",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-371-375/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_376380.json",
+    "chapter_name": "Chương 376-380",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-376-380/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_381385.json",
+    "chapter_name": "Chương 381-385",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-381-385/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_386_390.json",
+    "chapter_name": "Chương 386: - 390",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-386/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_391_395.json",
+    "chapter_name": "Chương 391: - 395",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-391/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_396400.json",
+    "chapter_name": "Chương 396-400",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-396-400/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_401405.json",
+    "chapter_name": "Chương 401-405",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-401-405/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_406410.json",
+    "chapter_name": "Chương 406-410",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-406-410/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_411415.json",
+    "chapter_name": "Chương 411-415",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-411-415/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_416420.json",
+    "chapter_name": "Chương 416-420",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-416-420/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_421425.json",
+    "chapter_name": "Chương 421-425",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-421-425/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_426430.json",
+    "chapter_name": "Chương 426-430",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-426-430/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_431435.json",
+    "chapter_name": "Chương 431-435",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-431-435/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_436440.json",
+    "chapter_name": "Chương 436-440",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-436-440/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_441_445.json",
+    "chapter_name": "Chương 441: - 445",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-441/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_446_450.json",
+    "chapter_name": "Chương 446: - 450",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-446/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_451_455.json",
+    "chapter_name": "Chương 451: - 455",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-451/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_456_460.json",
+    "chapter_name": "Chương 456: - 460",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-456/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_461_465.json",
+    "chapter_name": "Chương 461: - 465",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-461/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_466_470.json",
+    "chapter_name": "Chương 466: - 470",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-466/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_471_475.json",
+    "chapter_name": "Chương 471: -475",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-471/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_476_480.json",
+    "chapter_name": "Chương 476: - 480",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-476/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_481_485.json",
+    "chapter_name": "Chương 481: - 485",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-481/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_486_490.json",
+    "chapter_name": "Chương 486: - 490",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-486/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_491_495.json",
+    "chapter_name": "Chương 491: - 495",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-491/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_496_500.json",
+    "chapter_name": "Chương 496: -500",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-496/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_501_505.json",
+    "chapter_name": "Chương 501: - 505",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-501/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_506_510.json",
+    "chapter_name": "Chương 506: - 510",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-506/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_511_515.json",
+    "chapter_name": "Chương 511: - 515",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-511/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_516_520.json",
+    "chapter_name": "Chương 516: - 520",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-516/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_521_523Hoàn.json",
+    "chapter_name": "Chương 521: - 523(Hoàn)",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-521/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_01_05.json",
+    "chapter_name": "Chương 01: - 05",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-01/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_06_10.json",
+    "chapter_name": "Chương 06: - 10",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-06/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_5160.json",
+    "chapter_name": "Chương 51-60",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-51-60/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_6170.json",
+    "chapter_name": "Chương 61-70",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-61-70/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_7180.json",
+    "chapter_name": "Chương 71-80",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-71-80/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_8190.json",
+    "chapter_name": "Chương 81-90",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-81-90/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_91100.json",
+    "chapter_name": "Chương 91-100",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-91-100/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_101110.json",
+    "chapter_name": "Chương 101-110",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-101-110/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_111120.json",
+    "chapter_name": "Chương 111-120",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-111-120/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_121130.json",
+    "chapter_name": "Chương 121-130",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-121-130/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_131140.json",
+    "chapter_name": "Chương 131-140",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-131-140/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_141150.json",
+    "chapter_name": "Chương 141-150",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-141-150/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_151160.json",
+    "chapter_name": "Chương 151-160",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-151-160/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_161170.json",
+    "chapter_name": "Chương 161-170",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-161-170/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_171180.json",
+    "chapter_name": "Chương 171-180",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-171-180/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_181190.json",
+    "chapter_name": "Chương 181-190",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-181-190/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_191200.json",
+    "chapter_name": "Chương 191-200",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-191-200/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_201210.json",
+    "chapter_name": "Chương 201-210",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-201-210/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_211220.json",
+    "chapter_name": "Chương 211-220",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-211-220/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_221230.json",
+    "chapter_name": "Chương 221-230",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-221-230/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_231240.json",
+    "chapter_name": "Chương 231-240",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-231-240/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_241250.json",
+    "chapter_name": "Chương 241-250",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-241-250/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_251260.json",
+    "chapter_name": "Chương 251-260",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-251-260/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_261270.json",
+    "chapter_name": "Chương 261-270",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-261-270/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_351_355.json",
+    "chapter_name": "Chương 351: - 355",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-351/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_356_360.json",
+    "chapter_name": "Chương 356: - 360",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-356/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_331_335.json",
+    "chapter_name": "Chương 331: - 335",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-331/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_336_340.json",
+    "chapter_name": "Chương 336: - 340",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-336/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_361_365.json",
+    "chapter_name": "Chương 361: - 365",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-361/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_366_370.json",
+    "chapter_name": "Chương 366: - 370",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-366/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_280_293.json",
+    "chapter_name": "Chương 280: - 293",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-280/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_301_305.json",
+    "chapter_name": "Chương 301: - 305",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-301/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_306_310.json",
+    "chapter_name": "Chương 306: - 310",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-306/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_371_375.json",
+    "chapter_name": "Chương 371: - 375",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-371/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_376_380.json",
+    "chapter_name": "Chương 376: - 380",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-376/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_381_385.json",
+    "chapter_name": "Chương 381: - 385",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-381/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_396_400.json",
+    "chapter_name": "Chương 396: - 400",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-396/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_401_405.json",
+    "chapter_name": "Chương 401: - 405",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-401/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_406_410.json",
+    "chapter_name": "Chương 406: - 410",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-406/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_411_415.json",
+    "chapter_name": "Chương 411: - 415",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-411/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_416_420.json",
+    "chapter_name": "Chương 416: - 420",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-416/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_421_425.json",
+    "chapter_name": "Chương 421: - 425",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-421/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_426_430.json",
+    "chapter_name": "Chương 426: - 430",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-426/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_431_435.json",
+    "chapter_name": "Chương 431: - 435",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-431/"
+  },
+  {
+    "path": "data/Cửu_Trọng_Tử/Chương_436_440.json",
+    "chapter_name": "Chương 436: - 440",
+    "url": "https://truyenfull.io/cuu-trong-tu/chuong-436/"
+  }
+]
