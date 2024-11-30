@@ -1,0 +1,457 @@
+[
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_1.json",
+    "chapter_name": "Chương 1",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-1/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_2.json",
+    "chapter_name": "Chương 2",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-2/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_3.json",
+    "chapter_name": "Chương 3",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-3/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_4.json",
+    "chapter_name": "Chương 4",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-4/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_5.json",
+    "chapter_name": "Chương 5",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-5/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_6.json",
+    "chapter_name": "Chương 6",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-6/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_7.json",
+    "chapter_name": "Chương 7",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-7/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_8.json",
+    "chapter_name": "Chương 8",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-8/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_9.json",
+    "chapter_name": "Chương 9",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-9/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_10.json",
+    "chapter_name": "Chương 10",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-10/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_11.json",
+    "chapter_name": "Chương 11",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-11/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_12.json",
+    "chapter_name": "Chương 12",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-12/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_13.json",
+    "chapter_name": "Chương 13",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-13/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_14.json",
+    "chapter_name": "Chương 14",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-14/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_15.json",
+    "chapter_name": "Chương 15",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-15/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_16.json",
+    "chapter_name": "Chương 16",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-16/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_17.json",
+    "chapter_name": "Chương 17",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-17/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_18.json",
+    "chapter_name": "Chương 18",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-18/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_19_Ai_đánh.json",
+    "chapter_name": "Chương 19: Ai đánh?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-19/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_20_Biết_thế_nào_là_hôn_môi_chưa.json",
+    "chapter_name": "Chương 20: Biết thế nào là hôn môi chưa?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-20/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_21_Anh_như_vậy_có_tư_cách_gì_thích_Chu_Tương_Tương.json",
+    "chapter_name": "Chương 21: Anh như vậy, có tư cách gì thích Chu Tương Tương?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-21/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_22_Cậu_đừng_sát_lại_gần_tôi_như_thế.json",
+    "chapter_name": "Chương 22: Cậu... đừng sát lại gần tôi như thế",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-22/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_23_Tôi_sẽ_chịu_trách_nhiệm_với_cậu.json",
+    "chapter_name": "Chương 23: Tôi sẽ chịu trách nhiệm với cậu",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-23/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_24_Nụ_hôn_đầu.json",
+    "chapter_name": "Chương 24: Nụ hôn đầu",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-24/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_25_Khẳng_định_không_để_cho_cậu_mất_mặt_không_kéo_chân_cậu_lại.json",
+    "chapter_name": "Chương 25: Khẳng định không để cho cậu mất mặt, không kéo chân cậu lại",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-25/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_26_So_với_mật_còn_ngọt_hơn.json",
+    "chapter_name": "Chương 26: So với mật còn ngọt hơn",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-26/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_27_Nhớ_anh_không.json",
+    "chapter_name": "Chương 27: Nhớ anh không?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-27/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_28_Phó_Tranh_anh_không_được_có_chuyện_gì.json",
+    "chapter_name": "Chương 28: Phó Tranh, anh không được có chuyện gì",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-28/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_29_Tại_sao_anh_cứ_như_vậy_thích_em.json",
+    "chapter_name": "Chương 29: Tại sao anh cứ như vậy thích em",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-29/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_30_Vợ_cho_hôn_một_cái_đi.json",
+    "chapter_name": "Chương 30: Vợ, cho hôn một cái đi",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-30/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_31_Phó_Tranh_anh_mau_nghe_lời.json",
+    "chapter_name": "Chương 31: Phó Tranh, anh mau nghe lời",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-31/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_32_Chu_Tương_Tương_có_phải_em_sợ_không.json",
+    "chapter_name": "Chương 32: Chu Tương Tương, có phải em sợ không?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-32/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_33_Muốn.json",
+    "chapter_name": "Chương 33: Muốn",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-33/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_34_Hẹn_tốt_nghiệp_đi_du_lịch.json",
+    "chapter_name": "Chương 34: Hẹn tốt nghiệp đi du lịch",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-34/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_35_Đưa_em_lên_núi_ngắm_sao.json",
+    "chapter_name": "Chương 35: Đưa em lên núi ngắm sao",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-35/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_36_Vợ_anh_chỗ_nào_cũng_xinh_đẹp_hết.json",
+    "chapter_name": "Chương 36: Vợ anh chỗ nào cũng xinh đẹp hết",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-36/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_37_Ngọt_như_mật.json",
+    "chapter_name": "Chương 37: Ngọt như mật",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-37/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_38_Bạn_học_Phó_Tranh_cố_gắng_lên_Thầy_coi_trọng_em.json",
+    "chapter_name": "Chương 38: Bạn học Phó Tranh, cố gắng lên! Thầy coi trọng em!",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-38/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_39_Bạn_học_Phó_Tranh_chỉ_số_thông_minh_rất_cao.json",
+    "chapter_name": "Chương 39: Bạn học Phó Tranh, chỉ số thông minh rất cao",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-39/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_40_Ôi_chao_cơm_hộp_tình_yêu.json",
+    "chapter_name": "Chương 40: Ôi chao, cơm hộp tình yêu",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-40/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_41_Đối_với_em_thật_tốt.json",
+    "chapter_name": "Chương 41: Đối với em thật tốt",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-41/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_42_Thật_ngọt.json",
+    "chapter_name": "Chương 42: Thật ngọt",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-42/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_43_Kết_thúc_lớp_mười_một.json",
+    "chapter_name": "Chương 43: Kết thúc lớp mười một",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-43/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_44_Có_thể_không_cần_rời_xa_nhau_được_không.json",
+    "chapter_name": "Chương 44: Có thể không cần rời xa nhau được không",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-44/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_45_Anh_yêu_em.json",
+    "chapter_name": "Chương 45: Anh yêu em",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-45/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_46_Đếm_ngược_ngày_thi_đại_học.json",
+    "chapter_name": "Chương 46: Đếm ngược ngày thi đại học",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-46/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_47_Nụ_hôn_ngọt_ngào.json",
+    "chapter_name": "Chương 47: Nụ hôn ngọt ngào",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-47/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_48_Vợ_hôn_một_cái.json",
+    "chapter_name": "Chương 48: Vợ hôn một cái",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-48/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_49_Ngủ_chung.json",
+    "chapter_name": "Chương 49: Ngủ chung",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-49/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_50_Chu_Tương_Tương_anh_muốn_ôm_em.json",
+    "chapter_name": "Chương 50: Chu Tương Tương, anh muốn ôm em",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-50/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_51_Tuyên_thệ_trăm_ngày_trước_khi_thi_Đại_học.json",
+    "chapter_name": "Chương 51: Tuyên thệ trăm ngày trước khi thi Đại học",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-51/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_52_Du_lịch_tốt_nghiệp.json",
+    "chapter_name": "Chương 52: Du lịch tốt nghiệp",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-52/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_53_Ngả_bài.json",
+    "chapter_name": "Chương 53: Ngả bài",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-53/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_54_Nếu_như_đến_một_ngày_anh_chỉ_có_hai_bàn_tay_trắng.json",
+    "chapter_name": "Chương 54: Nếu như đến một ngày, anh chỉ có hai bàn tay trắng",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-54/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_55_Mẹ_không_cho_phép_con_và_Phó_Tranh_quen_nhau.json",
+    "chapter_name": "Chương 55: Mẹ không cho phép con và Phó Tranh quen nhau!",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-55/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_56_Chờ_việc_này_điều_tra_xong_sẽ_thả_ra.json",
+    "chapter_name": "Chương 56: Chờ việc này điều tra xong sẽ thả ra",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-56/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_57_Sủi_cảo_và_bánh_trôi.json",
+    "chapter_name": "Chương 57: Sủi cảo và bánh trôi",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-57/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_58_Đi_du_lịch.json",
+    "chapter_name": "Chương 58: Đi du lịch",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-58/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_59_Cậu_thật_sự_xác_định_nhất_định_phải_mặc_loại_áo_tắm_trẻ_em_này.json",
+    "chapter_name": "Chương 59: Cậu thật sự, xác định, nhất định phải mặc loại áo tắm trẻ em này?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-59/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_60_Ngọt_ngào.json",
+    "chapter_name": "Chương 60: Ngọt ngào",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-60/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_61_Thư_thông_báo_trúng_tuyển.json",
+    "chapter_name": "Chương 61: Thư thông báo trúng tuyển",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-61/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_62_Đại_soái_ca_khoa_kiến_trúc.json",
+    "chapter_name": "Chương 62: Đại soái ca khoa kiến trúc",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-62/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_63_Đây_là_Bạn_trai_tớ.json",
+    "chapter_name": "Chương 63: Đây là... Bạn trai tớ...",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-63/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_64_Trông_đẹp_trai_như_vậy_nhất_định_đã_có_bạn_gái.json",
+    "chapter_name": "Chương 64: Trông đẹp trai như vậy, nhất định đã có bạn gái",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-64/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_65_Quà_sinh_nhật_20_tuổi.json",
+    "chapter_name": "Chương 65: Quà sinh nhật 20 tuổi",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-65/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_66_Ai_cũng_không_thể_so_sánh_với_em.json",
+    "chapter_name": "Chương 66: Ai cũng không thể so sánh với em",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-66/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_67_.json",
+    "chapter_name": "Chương 67: 🥕",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-67/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_68_Đính_hôn.json",
+    "chapter_name": "Chương 68: Đính hôn",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-68/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_69_Dọn_ra_bên_ngoài_ở.json",
+    "chapter_name": "Chương 69: Dọn ra bên ngoài ở",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-69/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_70_Lễ_tình_nhân_trượt_tuyết.json",
+    "chapter_name": "Chương 70: Lễ tình nhân, trượt tuyết",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-70/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_71_Ngọt_vô_cùng.json",
+    "chapter_name": "Chương 71: Ngọt vô cùng",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-71/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_72_Tớ_cảm_thấy_Phó_Tranh_nhà_cậu_có_thể_sẽ_làm_ra_chuyện_lớn.json",
+    "chapter_name": "Chương 72: Tớ cảm thấy Phó Tranh nhà cậu có thể sẽ làm ra chuyện lớn",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-72/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_73_Em_đồng_ý_đồng_ý_cùng_anh_bách_niên_giai_lão_đời_đời_kiếp_kiếp.json",
+    "chapter_name": "Chương 73: Em đồng ý, đồng ý cùng anh bách niên giai lão, đời đời kiếp kiếp",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-73/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_74_Phó_Tranh_hai_chúng_ta_cũng_dọn_ra_ngoài_ở_đi.json",
+    "chapter_name": "Chương 74: Phó Tranh, hai chúng ta cũng dọn ra ngoài ở đi",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-74/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_75_Lĩnh_chứng.json",
+    "chapter_name": "Chương 75: Lĩnh chứng",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-75/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_76_Bà_Phó.json",
+    "chapter_name": "Chương 76: Bà Phó",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-76/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_77_Nhà_của_bọn_họ.json",
+    "chapter_name": "Chương 77: Nhà của bọn họ",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-77/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_78_Giúp_em_cởi.json",
+    "chapter_name": "Chương 78: Giúp em cởi",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-78/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_79_Anh_có.json",
+    "chapter_name": "Chương 79: Anh có",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-79/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_80_Que_thử_thai.json",
+    "chapter_name": "Chương 80: Que thử thai",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-80/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_81_Đêm_đó_là_cố_ý.json",
+    "chapter_name": "Chương 81: Đêm đó, là cố ý?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-81/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_82_Trong_tám_tháng_anh_đừng_có_chạm_vào_em.json",
+    "chapter_name": "Chương 82: Trong tám tháng, anh đừng có chạm vào em",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-82/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_83_Sau_này_về_nhà_sớm.json",
+    "chapter_name": "Chương 83: Sau này về nhà sớm",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-83/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_84_Có_động_lòng_một_chút_nào_không.json",
+    "chapter_name": "Chương 84: Có động lòng một chút nào không?",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-84/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_85.json",
+    "chapter_name": "Chương 85",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-85/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_86_Hôn_lễ_và_chờ_sinh.json",
+    "chapter_name": "Chương 86: Hôn lễ và chờ sinh",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-86/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_87_Ma_vương_nhỏ_bẫy_cha.json",
+    "chapter_name": "Chương 87: Ma vương nhỏ bẫy cha",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-87/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_88_Vợ_ngoan_chờ_anh.json",
+    "chapter_name": "Chương 88: Vợ ngoan, chờ anh!",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-88/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_89_Dùng_sức_quá_mạnh.json",
+    "chapter_name": "Chương 89: Dùng sức quá mạnh!",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-89/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_90_Đại_kết_cục_Ngọt_như_mật.json",
+    "chapter_name": "Chương 90: Đại kết cục -- Ngọt như mật",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-90/"
+  },
+  {
+    "path": "data/Sủng_Ái_Cả_Đời/Chương_91_Đôi_lời_cuối_truyện.json",
+    "chapter_name": "Chương 91: Đôi lời cuối truyện",
+    "url": "https://truyenfull.io/sung-ai-ca-doi/chuong-91/"
+  }
+]
