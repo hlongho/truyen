@@ -1,0 +1,967 @@
+[
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_1_Sống_lại.json",
+    "chapter_name": "Chương 1: Sống lại",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-1/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_2_Hoa_gia.json",
+    "chapter_name": "Chương 2: Hoa gia",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-2/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_3_Giang_Tử_Mặc.json",
+    "chapter_name": "Chương 3: Giang Tử Mặc",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-3/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_4_Trước_khi_chết.json",
+    "chapter_name": "Chương 4: Trước khi chết",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-4/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_5_Gia_pháp_Hoa_gia.json",
+    "chapter_name": "Chương 5: Gia pháp Hoa gia",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-5/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_6_Chú_Mặc.json",
+    "chapter_name": "Chương 6: Chú Mặc",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-6/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_7_Ý_định_rời_đi.json",
+    "chapter_name": "Chương 7: Ý định rời đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-7/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_8_Rời_đi.json",
+    "chapter_name": "Chương 8: Rời đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-8/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_9_Tìm_đường_sống_trong_chỗ_chết.json",
+    "chapter_name": "Chương 9: Tìm đường sống trong chỗ chết",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-9/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_10_Sói_con.json",
+    "chapter_name": "Chương 10: Sói con",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-10/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_11_Bị_bắt_về.json",
+    "chapter_name": "Chương 11: Bị bắt về",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-11/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_12_Vở_kịch_của_đám_nữ_sinh.json",
+    "chapter_name": "Chương 12: Vở kịch của đám nữ sinh",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-12/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_13_Chân_chú_Mặc_thật_là_dài.json",
+    "chapter_name": "Chương 13: Chân chú Mặc thật là dài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-13/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_14_Bị_cắn_một_miếng.json",
+    "chapter_name": "Chương 14: Bị cắn một miếng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-14/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_15_Đến_nhà_xin_lỗi.json",
+    "chapter_name": "Chương 15: Đến nhà xin lỗi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-15/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_16_Quý_Tiểu_Hoài.json",
+    "chapter_name": "Chương 16: Quý Tiểu Hoài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-16/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_17_Cháu_không_hề_lương_thiện.json",
+    "chapter_name": "Chương 17: Cháu không hề lương thiện",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-17/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_18_Chú_cho_cháu_chỗ_dựa.json",
+    "chapter_name": "Chương 18: Chú cho cháu chỗ dựa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-18/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_19_Hoa_Duẫn_Hòa_hẳn_là_muốn_chết.json",
+    "chapter_name": "Chương 19: Hoa Duẫn Hòa hẳn là muốn chết",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-19/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_20_Tề_Nguyệt.json",
+    "chapter_name": "Chương 20: Tề Nguyệt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-20/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_21_Chân_nhũn_rồi.json",
+    "chapter_name": "Chương 21: Chân nhũn rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-21/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_22_Đừng_để_chú_phát_hiện_ra_bí_mật_của_cháu_nhé.json",
+    "chapter_name": "Chương 22: Đừng để chú phát hiện ra bí mật của cháu nhé",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-22/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_23_Cừu_Vui_Vẻ_và_hôn_môi.json",
+    "chapter_name": "Chương 23: Cừu Vui Vẻ và hôn môi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-23/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_24_Chúng_ta_tới_công_viên_trò_chơi_đi.json",
+    "chapter_name": "Chương 24: Chúng ta tới công viên trò chơi đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-24/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_25_Cháu_mời_chú_ăn_kẹo.json",
+    "chapter_name": "Chương 25: Cháu mời chú ăn kẹo",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-25/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_26_Hồi_ức.json",
+    "chapter_name": "Chương 26: Hồi ức",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-26/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_27_Tôi_họ_Quý.json",
+    "chapter_name": "Chương 27: Tôi họ Quý",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-27/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_28_Hoa_Cẩm_Lăng.json",
+    "chapter_name": "Chương 28: Hoa Cẩm Lăng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-28/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_29_Cứng_đầu.json",
+    "chapter_name": "Chương 29: Cứng đầu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-29/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_30_Tiệc_mừng_thọ.json",
+    "chapter_name": "Chương 30: Tiệc mừng thọ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-30/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_31_Lời_mời_khiêu_vũ.json",
+    "chapter_name": "Chương 31: Lời mời khiêu vũ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-31/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_32_Ly_rượu_này_không_ổn.json",
+    "chapter_name": "Chương 32: Ly rượu này không ổn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-32/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_33_Hóa_ra_biết_cả_rồi.json",
+    "chapter_name": "Chương 33: Hóa ra biết cả rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-33/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_34_Hoa_Chính_Diệu_ông_đáng_bị_như_vậy.json",
+    "chapter_name": "Chương 34: Hoa Chính Diệu, ông đáng bị như vậy!",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-34/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_35_Chú_muốn_hôn.json",
+    "chapter_name": "Chương 35: Chú muốn hôn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-35/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_36_Cháu_suy_nghĩ_kỹ_rồi.json",
+    "chapter_name": "Chương 36: Cháu suy nghĩ kỹ rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-36/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_37_Chẳng_lẽ_bọn_họ_không_nên_xin_lỗi_cháu_sao.json",
+    "chapter_name": "Chương 37: Chẳng lẽ bọn họ không nên xin lỗi cháu sao?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-37/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_38_Hoa_Cẩm_Tú_xin_lỗi.json",
+    "chapter_name": "Chương 38: Hoa Cẩm Tú xin lỗi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-38/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_39_Hung_dữ.json",
+    "chapter_name": "Chương 39: Hung dữ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-39/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_40_Cháu_sai_rồi.json",
+    "chapter_name": "Chương 40: Cháu sai rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-40/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_41_Tôi_có_thể_dạy_nó.json",
+    "chapter_name": "Chương 41: Tôi có thể dạy nó",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-41/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_42_Đưa_cháu_tới_trường.json",
+    "chapter_name": "Chương 42: Đưa cháu tới trường",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-42/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_43_Em_muốn_nhảy_lớp.json",
+    "chapter_name": "Chương 43: Em muốn nhảy lớp",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-43/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_44_Chìm_đắm.json",
+    "chapter_name": "Chương 44: Chìm đắm",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-44/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_45_Em_sẽ_đạt_hạng_nhất.json",
+    "chapter_name": "Chương 45: Em sẽ đạt hạng nhất",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-45/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_46_Kỳ_thi.json",
+    "chapter_name": "Chương 46: Kỳ thi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-46/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_47_Sửa_sinh_nhật.json",
+    "chapter_name": "Chương 47: Sửa sinh nhật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-47/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_48_Thành_tích.json",
+    "chapter_name": "Chương 48: Thành tích",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-48/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_49_Đạt_hạng_nhất_không_cần_nói_nhiều.json",
+    "chapter_name": "Chương 49: Đạt hạng nhất không cần nói nhiều",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-49/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_50_Chưa_từng_thấy_ai_ngu_ngốc_đến_vậy.json",
+    "chapter_name": "Chương 50: Chưa từng thấy ai ngu ngốc đến vậy",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-50/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_51_Phần_thưởng.json",
+    "chapter_name": "Chương 51: Phần thưởng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-51/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_52_Tôi_chống_mắt_lên_xem_kết_cục_của_cậu.json",
+    "chapter_name": "Chương 52: Tôi chống mắt lên xem kết cục của cậu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-52/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_53_Hoa_Cẩm_Tú_xảy_ra_chuyện.json",
+    "chapter_name": "Chương 53: Hoa Cẩm Tú xảy ra chuyện",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-53/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_54_Tôi_thay_em_báo_thù.json",
+    "chapter_name": "Chương 54: Tôi thay em báo thù",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-54/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_55_Mau_lớn_đi_thiếu_niên_của_chú.json",
+    "chapter_name": "Chương 55: Mau lớn đi, thiếu niên của chú",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-55/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_56_Tình_địch.json",
+    "chapter_name": "Chương 56: Tình địch",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-56/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_57_Nổi_giận.json",
+    "chapter_name": "Chương 57: Nổi giận",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-57/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_58_Giang_Tử_Mặc_cũng_biết_đau_lòng.json",
+    "chapter_name": "Chương 58: Giang Tử Mặc cũng biết đau lòng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-58/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_59_Sự_ấm_áp_của_thiết_bị_định_vị.json",
+    "chapter_name": "Chương 59: Sự ấm áp của thiết bị định vị",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-59/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_60_Hôm_nay_lá_gan_của_em_lớn_lắm.json",
+    "chapter_name": "Chương 60: Hôm nay lá gan của em lớn lắm",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-60/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_61_Anh_ấy_không_phải_là_hung_thủ_giết_người.json",
+    "chapter_name": "Chương 61: Anh ấy không phải là hung thủ giết người",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-61/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_62_Bị_bắt_giữ.json",
+    "chapter_name": "Chương 62: Bị bắt giữ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-62/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_63_Các_cậu_bắt_nhầm_người_rồi.json",
+    "chapter_name": "Chương 63: Các cậu bắt nhầm người rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-63/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_64_Chờ_tôi_trở_về.json",
+    "chapter_name": "Chương 64: Chờ tôi trở về",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-64/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_65_Trở_về.json",
+    "chapter_name": "Chương 65: Trở về",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-65/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_66_Sau_này_đừng_như_thế_nữa_được_không.json",
+    "chapter_name": "Chương 66: Sau này đừng như thế nữa được không?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-66/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_67_Là_tôi_nợ_cậu_ta.json",
+    "chapter_name": "Chương 67: Là tôi nợ cậu ta",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-67/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_68_Em_đừng_có_chơi_quá_đà.json",
+    "chapter_name": "Chương 68: Em đừng có chơi quá đà",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-68/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_69_Coi_như_là_nghe_kể_chuyện_đi.json",
+    "chapter_name": "Chương 69: Coi như là nghe kể chuyện đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-69/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_70_Kết_thù.json",
+    "chapter_name": "Chương 70: Kết thù",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-70/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_71_Tòng_phạm.json",
+    "chapter_name": "Chương 71: Tòng phạm",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-71/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_72_Món_quà_tặng_Hoa_Duẫn_Giang.json",
+    "chapter_name": "Chương 72: Món quà tặng Hoa Duẫn Giang",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-72/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_73_Kịch_hay_bắt_đầu.json",
+    "chapter_name": "Chương 73: Kịch hay bắt đầu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-73/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_74_Mày_nên_kêu_ba_mới_đúng.json",
+    "chapter_name": "Chương 74: Mày nên kêu ba mới đúng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-74/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_75_Anh_muốn_đến_thăm_em_một_lát.json",
+    "chapter_name": "Chương 75: Anh muốn đến thăm em một lát",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-75/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_76_Tôi_chỉ_gây_họa_cho_mình_em_mà_thôi.json",
+    "chapter_name": "Chương 76: Tôi chỉ gây họa cho mình em mà thôi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-76/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_77_Giang_Tử_Mặc_thù_dai.json",
+    "chapter_name": "Chương 77: Giang Tử Mặc thù dai",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-77/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_78_Chị_bị_ép_buộc.json",
+    "chapter_name": "Chương 78: Chị bị ép buộc",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-78/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_79_Bao_dưỡng_con_dâu_nuôi_từ_bé.json",
+    "chapter_name": "Chương 79: Bao dưỡng con dâu nuôi từ bé",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-79/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_80_Ai_mới_là_người_không_nên_tồn_tại.json",
+    "chapter_name": "Chương 80: Ai mới là người không nên tồn tại",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-80/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_81_Mãi_mãi_không_rời_xa.json",
+    "chapter_name": "Chương 81: Mãi mãi không rời xa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-81/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_82_Sóng_gió_ngày_đi_học_lại.json",
+    "chapter_name": "Chương 82: Sóng gió ngày đi học lại",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-82/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_83_Của_tôi_cũng_chính_là_của_em.json",
+    "chapter_name": "Chương 83: Của tôi cũng chính là của em",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-83/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_84_Chứng_cứ.json",
+    "chapter_name": "Chương 84: Chứng cứ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-84/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_85_Phản_kích.json",
+    "chapter_name": "Chương 85: Phản kích",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-85/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_86_Phần_thưởng_muộn.json",
+    "chapter_name": "Chương 86: Phần thưởng muộn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-86/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_87_Ngày_quan_trọng.json",
+    "chapter_name": "Chương 87: Ngày quan trọng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-87/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_88_Đếm_ngược.json",
+    "chapter_name": "Chương 88: Đếm ngược",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-88/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_89_Lục_Thất_số_con_rệp.json",
+    "chapter_name": "Chương 89: Lục Thất số con rệp",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-89/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_90_Rốt_cuộc_là_ai_ở_dưới.json",
+    "chapter_name": "Chương 90: Rốt cuộc là ai ở dưới?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-90/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_91_Vì_Lục_Thất_tôi_tạm_nuốt_cục_tức_này.json",
+    "chapter_name": "Chương 91: Vì Lục Thất, tôi tạm nuốt cục tức này",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-91/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_92_Hạ_Dật.json",
+    "chapter_name": "Chương 92: Hạ Dật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-92/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_93_Vương_Văn_Bân_trở_lại.json",
+    "chapter_name": "Chương 93: Vương Văn Bân trở lại",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-93/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_94_Tôi_sẽ_không_mềm_lòng_nữa.json",
+    "chapter_name": "Chương 94: Tôi sẽ không mềm lòng nữa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-94/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_95_Cơ_hội_cuối_cùng.json",
+    "chapter_name": "Chương 95: Cơ hội cuối cùng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-95/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_96_Cơ_bụng_chocolate.json",
+    "chapter_name": "Chương 96: Cơ bụng chocolate",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-96/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_97_Tin_nhắn_kỳ_quái.json",
+    "chapter_name": "Chương 97: Tin nhắn kỳ quái",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-97/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_98_Lo_lắng_gầy_cả_người.json",
+    "chapter_name": "Chương 98: Lo lắng gầy cả người",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-98/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_99_Quyết_định_của_Tiêu_Trình.json",
+    "chapter_name": "Chương 99: Quyết định của Tiêu Trình",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-99/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_100_Lựa_chọn_đầu_tiên.json",
+    "chapter_name": "Chương 100: Lựa chọn đầu tiên",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-100/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_101_Mời_đấu_bóng_rổ.json",
+    "chapter_name": "Chương 101: Mời đấu bóng rổ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-101/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_102_Đứa_nhỏ_lợi_hại_nhà_tôi.json",
+    "chapter_name": "Chương 102: Đứa nhỏ lợi hại nhà tôi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-102/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_103_Cậu_mang_người_đi_luôn_đi.json",
+    "chapter_name": "Chương 103: Cậu mang người đi luôn đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-103/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_104_Công_ty_gặp_chuyện.json",
+    "chapter_name": "Chương 104: Công ty gặp chuyện",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-104/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_105_Mảnh_ghép_hoa_hồng.json",
+    "chapter_name": "Chương 105: Mảnh ghép hoa hồng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-105/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_106_Đe_dọa.json",
+    "chapter_name": "Chương 106: Đe dọa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-106/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_107_Tụ_tập.json",
+    "chapter_name": "Chương 107: Tụ tập",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-107/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_108_Say_rượu.json",
+    "chapter_name": "Chương 108: Say rượu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-108/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_109_Coi_như_tôi_nhìn_lầm_em.json",
+    "chapter_name": "Chương 109: Coi như tôi nhìn lầm em",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-109/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_110_Hối_hận_không_kịp.json",
+    "chapter_name": "Chương 110: Hối hận không kịp",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-110/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_111_Bị_nhốt.json",
+    "chapter_name": "Chương 111: Bị nhốt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-111/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_112_Con_mắt_còn_lại.json",
+    "chapter_name": "Chương 112: Con mắt còn lại",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-112/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_113_Em_muốn_ôm_anh.json",
+    "chapter_name": "Chương 113: Em muốn ôm anh",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-113/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_114_Không_làm_trọn_gói_được_thì_làm_một_nửa.json",
+    "chapter_name": "Chương 114: Không làm trọn gói được thì làm một nửa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-114/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_115_Nguyện_cho_đôi_ta_dũng_cảm_hơn.json",
+    "chapter_name": "Chương 115: Nguyện cho đôi ta dũng cảm hơn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-115/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_116_Chuẩn_bị_thi_đại_học.json",
+    "chapter_name": "Chương 116: Chuẩn bị thi đại học",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-116/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_117_Chỉ_cần_chú_Mặc_thấy_vui.json",
+    "chapter_name": "Chương 117: Chỉ cần chú Mặc thấy vui",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-117/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_118_Tiêu_Đồng_điên_rồi.json",
+    "chapter_name": "Chương 118: Tiêu Đồng điên rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-118/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_119_Hồi_ức_của_Vương_Văn_Bân.json",
+    "chapter_name": "Chương 119: Hồi ức của Vương Văn Bân",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-119/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_120_Vẫn_ngốc_như_trước_kia.json",
+    "chapter_name": "Chương 120: Vẫn ngốc như trước kia",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-120/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_121_Đêm_trước_thi.json",
+    "chapter_name": "Chương 121: Đêm trước thi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-121/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_122_Nhẫn.json",
+    "chapter_name": "Chương 122: Nhẫn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-122/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_123_Tạ_Chi.json",
+    "chapter_name": "Chương 123: Tạ Chi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-123/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_124_Con_đang_trách_ta.json",
+    "chapter_name": "Chương 124: Con đang trách ta?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-124/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_125_Đánh_cuộc.json",
+    "chapter_name": "Chương 125: Đánh cuộc",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-125/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_126_Lục_Thất_đang_trốn_tránh.json",
+    "chapter_name": "Chương 126: Lục Thất đang trốn tránh",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-126/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_127_Phát_sốt.json",
+    "chapter_name": "Chương 127: Phát sốt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-127/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_128_Nó_không_nhận_người_anh_trai_này.json",
+    "chapter_name": "Chương 128: Nó không nhận người anh trai này",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-128/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_129_Sự_thay_đổi_trong_hai_năm_của_Quý_Hoài.json",
+    "chapter_name": "Chương 129: Sự thay đổi trong hai năm của Quý Hoài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-129/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_130_Đánh_nhau_thua_mất_rồi.json",
+    "chapter_name": "Chương 130: Đánh nhau thua mất rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-130/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_131_Sự_thật.json",
+    "chapter_name": "Chương 131: Sự thật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-131/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_132_Không_bắt_được_người.json",
+    "chapter_name": "Chương 132: Không bắt được người",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-132/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_133_Đừng_giận_em_được_không_.json",
+    "chapter_name": "Chương 133: Đừng giận em được không :\"\u003c\u003c\u003c",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-133/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_134_Bảo_bối_của_tôi.json",
+    "chapter_name": "Chương 134: Bảo bối của tôi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-134/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_135_Vì_sao_không_thể_cho_cậu_thứ_tình_cảm_mà_cậu_muốn.json",
+    "chapter_name": "Chương 135: Vì sao không thể cho cậu thứ tình cảm mà cậu muốn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-135/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_136_Hoa_Duẫn_Quan_trở_về.json",
+    "chapter_name": "Chương 136: Hoa Duẫn Quan trở về",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-136/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_137_Hoa_Duẫn_Quan_không_hiểu_được.json",
+    "chapter_name": "Chương 137: Hoa Duẫn Quan không hiểu được",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-137/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_138_Ai_là_cha.json",
+    "chapter_name": "Chương 138: Ai là cha?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-138/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_139_Bạn_trai_khó_dỗ_dành.json",
+    "chapter_name": "Chương 139: Bạn trai khó dỗ dành",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-139/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_140_Tránh_xa_tao_ra.json",
+    "chapter_name": "Chương 140: Tránh xa tao ra",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-140/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_141_Tôi_thua_rồi.json",
+    "chapter_name": "Chương 141: Tôi thua rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-141/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_142_Bị_cướp.json",
+    "chapter_name": "Chương 142: Bị cướp",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-142/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_143_Tiết_lộ_bí_mật.json",
+    "chapter_name": "Chương 143: Tiết lộ bí mật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-143/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_144_Hoa_thị_bị_điều_tra.json",
+    "chapter_name": "Chương 144: Hoa thị bị điều tra",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-144/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_145_Tại_sao_anh_vẫn_còn_quan_tâm_tôi.json",
+    "chapter_name": "Chương 145: Tại sao anh vẫn còn quan tâm tôi?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-145/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_146_Chìa_khoa_nhà_mới.json",
+    "chapter_name": "Chương 146: Chìa khóa nhà mới",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-146/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_147_Sinh_nhât.json",
+    "chapter_name": "Chương 147: Sinh nhật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-147/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_148_Sợ_hãi.json",
+    "chapter_name": "Chương 148: Sợ hãi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-148/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_149_Lời_chúc.json",
+    "chapter_name": "Chương 149: Lời chúc",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-149/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_150_Cháy_lớn.json",
+    "chapter_name": "Chương 150: Cháy lớn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-150/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_151_Hoa_Cẩm_Tu_chết_rồi.json",
+    "chapter_name": "Chương 151: Hoa Cẩm Tú chết rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-151/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_152_Ép_bản_thân_trưởng_thanh.json",
+    "chapter_name": "Chương 152: Ép bản thân trưởng thành",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-152/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_153_Em_không_tới_trường_nữa.json",
+    "chapter_name": "Chương 153: Em không tới trường nữa",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-153/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_154_Sự_thật_năm_ấy.json",
+    "chapter_name": "Chương 154: Sự thật năm ấy",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-154/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_155_Đừng_nói_với_Quý_Hoai_rằng_tôi_ở_đây.json",
+    "chapter_name": "Chương 155: Đừng nói với Quý Hoài rằng tôi ở đây",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-155/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_156_Trừng_tri_Hạ_Dật.json",
+    "chapter_name": "Chương 156: Trừng trị Hạ Dật",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-156/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_157_Hai_năm_sau.json",
+    "chapter_name": "Chương 157: Hai năm sau",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-157/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_158_Hội_trưởng_yêu_nghiệt_cua_hội_học_sinh.json",
+    "chapter_name": "Chương 158: Hội trưởng yêu nghiệt của hội học sinh",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-158/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_159_Tôi_trở_vê_Rồi.json",
+    "chapter_name": "Chương 159: Tôi trở về Rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-159/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_160_Em_khóc_khiến_lòng_tôi_đau_đớn.json",
+    "chapter_name": "Chương 160: Em khóc khiến lòng tôi đau đớn",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-160/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_161_Tôi_là_ngươi_nhà_cua_Tiểu_Hoai.json",
+    "chapter_name": "Chương 161: Tôi là người nhà của Tiểu Hoài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-161/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_162_Hôn_tôi_một_cai.json",
+    "chapter_name": "Chương 162: Hôn tôi một cái",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-162/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_163_Ai_là_sinh_viên_nghèo.json",
+    "chapter_name": "Chương 163: Ai là sinh viên nghèo?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-163/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_164_Anh_trai_à_tới_thương_em_đi.json",
+    "chapter_name": "Chương 164: Anh trai à tới thương em đi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-164/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_165_Tôi_đi_tìm_cậu_ấy.json",
+    "chapter_name": "Chương 165: Tôi đi tìm cậu ấy",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-165/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_166_Diệp_Gia.json",
+    "chapter_name": "Chương 166: Diệp Gia",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-166/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_167_Anh_muốn_đên_tim_câu.json",
+    "chapter_name": "Chương 167: Anh muốn đến tìm cậu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-167/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_168_Anh_phát_hiên_ra_anh_thích_cậu.json",
+    "chapter_name": "Chương 168: Anh phát hiện ra anh thích cậu",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-168/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_169_Anh_có_biết_anh_đang_làm_gì_không.json",
+    "chapter_name": "Chương 169: Anh có biết anh đang làm gì không?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-169/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_170_Anh_không_hối_hân.json",
+    "chapter_name": "Chương 170: Anh không hối hận",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-170/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_171_Kiếm_lời_to.json",
+    "chapter_name": "Chương 171: Kiếm lời to",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-171/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_172_Bài_đăng_bịa_đặt.json",
+    "chapter_name": "Chương 172: Bài đăng bịa đặt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-172/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_173_Người_đăng_bài.json",
+    "chapter_name": "Chương 173: Người đăng bài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-173/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_174_Sếp_tổng_của_chúng_tôi_Quý_Hoài.json",
+    "chapter_name": "Chương 174: Sếp tổng của chúng tôi - Quý Hoài",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-174/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_175_Quá_ảo_rồi.json",
+    "chapter_name": "Chương 175: Quá ảo rồi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-175/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_176_Gặp_cha_mẹ_chồng.json",
+    "chapter_name": "Chương 176: Gặp cha mẹ chồng",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-176/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_177_Tiêu_Trình_có_mắt_như_mù.json",
+    "chapter_name": "Chương 177: Tiêu Trình có mắt như mù",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-177/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_178_Cầm_lấy_mà_chơi.json",
+    "chapter_name": "Chương 178: Cầm lấy mà chơi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-178/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_179_Anh_đừng_đi_tìm_anh_ấy.json",
+    "chapter_name": "Chương 179: Anh đừng đi tìm anh ấy",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-179/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_180_Cắt_đứt_với_Tiêu_Trình_được_không.json",
+    "chapter_name": "Chương 180: Cắt đứt với Tiêu Trình được không?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-180/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_181_Anh_nghĩ_em_sẽ_mãi_chờ_anh_sao.json",
+    "chapter_name": "Chương 181: Anh nghĩ em sẽ mãi chờ anh sao?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-181/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_182_Hắn_sẽ_thích_rất_nhiều_rất_nhiều_năm.json",
+    "chapter_name": "Chương 182: Hắn sẽ thích rất nhiều rất nhiều năm",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-182/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_183_Hoa_hồng_nở_rô.json",
+    "chapter_name": "Chương 183: Hoa hồng nở rộ",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-183/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_184_Kết_cục_Hoàn_chính_văn.json",
+    "chapter_name": "Chương 184: Kết cục (Hoàn chính văn)",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-184/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_185_PN1_Tiêu_Trình_x_Lâu_Việt.json",
+    "chapter_name": "Chương 185: PN1 - Tiêu Trình x Lâu Việt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-185/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_186_PN2_Tiêu_Trình_x_Lâu_Việt.json",
+    "chapter_name": "Chương 186: PN2 - Tiêu Trình x Lâu Việt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-186/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_187_PN3_Tiêu_Trình_x_Lâu_Việt.json",
+    "chapter_name": "Chương 187: PN3 - Tiêu Trình x Lâu Việt",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-187/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_188_PN4_Lão_già_lưu_manh.json",
+    "chapter_name": "Chương 188: PN4 - Lão già lưu manh",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-188/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_189_PN5_Đương_lúc_nắng_xuân.json",
+    "chapter_name": "Chương 189: PN5 - Đương lúc nắng xuân",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-189/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_190_PN6_Chúng_ta_về_nha_Thôi.json",
+    "chapter_name": "Chương 190: PN6 - Chúng ta về nhà Thôi",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-190/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_191_PN7_Mày_vẫn_luôn_lừa_anh.json",
+    "chapter_name": "Chương 191: PN7 - Mày vẫn luôn lừa anh!",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-191/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_192_PN8_Phản_công_hm.json",
+    "chapter_name": "Chương 192: PN8 - Phản công, hm?",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-192/"
+  },
+  {
+    "path": "data/Chú_Mượn_Đùi_Ôm_Một_Chút/Chương_193_PN9_Tender_Mercies.json",
+    "chapter_name": "Chương 193: PN9 - Tender Mercies",
+    "url": "https://truyenfull.io/chu-muon-dui-om-mot-chut/chuong-193/"
+  }
+]
