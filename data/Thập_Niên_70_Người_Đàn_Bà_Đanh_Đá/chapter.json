@@ -1,0 +1,932 @@
+[
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_1_Uống_thuốc_trừ_sâu.json",
+    "chapter_name": "Chương 1: Uống thuốc trừ sâu",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-1/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_2_Xin_xuất_ngũ.json",
+    "chapter_name": "Chương 2: Xin xuất ngũ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-2/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_3_Nghe_lén.json",
+    "chapter_name": "Chương 3: Nghe lén",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-3/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_4_Hù_dọa.json",
+    "chapter_name": "Chương 4: Hù dọa",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-4/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_5_Đến_thị_trấn_nhận_tiền.json",
+    "chapter_name": "Chương 5: Đến thị trấn nhận tiền",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-5/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_6_Khám_bệnh.json",
+    "chapter_name": "Chương 6: Khám bệnh",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-6/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_7_Bánh_bao_trắng.json",
+    "chapter_name": "Chương 7: Bánh bao trắng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-7/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_8_Khích_bác.json",
+    "chapter_name": "Chương 8: Khích bác",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-8/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_9_Đánh_nhau.json",
+    "chapter_name": "Chương 9: Đánh nhau",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-9/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_10_Trở_về.json",
+    "chapter_name": "Chương 10: Trở về",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-10/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_11_Trả_tiền_lại_Nằm_mơ.json",
+    "chapter_name": "Chương 11: Trả tiền lại? Nằm mơ!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-11/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_12_Tố_cáo.json",
+    "chapter_name": "Chương 12: Tố cáo",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-12/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_13_Ở_riêng.json",
+    "chapter_name": "Chương 13: Ở riêng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-13/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_14_Nhà_mới_đắn_đo.json",
+    "chapter_name": "Chương 14: Nhà mới, đắn đo",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-14/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_15_Duy_trì.json",
+    "chapter_name": "Chương 15: Duy trì",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-15/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_16_Chia_chăn.json",
+    "chapter_name": "Chương 16: Chia chăn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-16/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_17_Dọn_nhà.json",
+    "chapter_name": "Chương 17: Dọn nhà",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-17/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_18_Bắt_được_ăn_lén.json",
+    "chapter_name": "Chương 18: Bắt được ăn lén!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-18/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_19_Đoạt_lại.json",
+    "chapter_name": "Chương 19: Đoạt lại!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-19/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_20_Cõng_nồi.json",
+    "chapter_name": "Chương 20: Cõng nồi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-20/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_21_Bà_mẹ_tham_ăn.json",
+    "chapter_name": "Chương 21: Bà mẹ tham ăn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-21/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_22_Thiên_vị_con_dâu.json",
+    "chapter_name": "Chương 22: Thiên vị con dâu",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-22/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_23_Hôn_một_chút_và_tiền_đến.json",
+    "chapter_name": "Chương 23: Hôn một chút và tiền đến",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-23/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_24_Mua_được_ghen_ghét.json",
+    "chapter_name": "Chương 24: Mua được ghen ghét",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-24/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_25_Làm_tiền.json",
+    "chapter_name": "Chương 25: Làm tiền",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-25/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_26_Người_đàn_bà_đanh_đá_phát_uy.json",
+    "chapter_name": "Chương 26: Người đàn bà đanh đá phát uy",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-26/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_27_1500_đồng.json",
+    "chapter_name": "Chương 27: 1500 đồng!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-27/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_28_Là_ai_tố_giác.json",
+    "chapter_name": "Chương 28: Là ai tố giác?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-28/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_29_Trộm_đêm.json",
+    "chapter_name": "Chương 29: Trộm đêm",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-29/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_30_Bị_đánh_một_trận.json",
+    "chapter_name": "Chương 30: Bị đánh một trận",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-30/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_31_Dắt_tay.json",
+    "chapter_name": "Chương 31: Dắt tay",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-31/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_32_Cha_độc_ác_ra_tay_ác_độc.json",
+    "chapter_name": "Chương 32: Cha độc ác ra tay ác độc",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-32/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_33_Quan_mới_nhậm_chức.json",
+    "chapter_name": "Chương 33: Quan mới nhậm chức",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-33/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_34_Hối_lộ.json",
+    "chapter_name": "Chương 34: Hối lộ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-34/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_35_Ít_ăn_đòn.json",
+    "chapter_name": "Chương 35: Ít ăn đòn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-35/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_36_Thân_mật_cưng_chìu_vợ.json",
+    "chapter_name": "Chương 36: Thân mật, cưng chìu vợ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-36/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_37_JJ_đặc_biệt_lớn.json",
+    "chapter_name": "Chương 37: JJ đặc biệt lớn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-37/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_38_Ngủ_nhà_mới.json",
+    "chapter_name": "Chương 38: Ngủ nhà mới",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-38/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_39_Đêm_rất_dài.json",
+    "chapter_name": "Chương 39: Đêm rất dài",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-39/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_40_Ôn_nhu_chạy_trốn.json",
+    "chapter_name": "Chương 40: Ôn nhu \u0026 chạy trốn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-40/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_41_Chui_vào_bẫy_rập.json",
+    "chapter_name": "Chương 41: Chui vào bẫy rập",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-41/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_42_Đồ_Vật_thất_đức.json",
+    "chapter_name": "Chương 42: Đồ Vật thất đức",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-42/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_43_Thử_nghiệm.json",
+    "chapter_name": "Chương 43: Thử nghiệm",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-43/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_44_Chủ_trương_tử_hình.json",
+    "chapter_name": "Chương 44: Chủ trương tử hình",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-44/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_45_Bắt_gian.json",
+    "chapter_name": "Chương 45: Bắt gian",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-45/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_46_Báo_án.json",
+    "chapter_name": "Chương 46: Báo án",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-46/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_47_Thay_đổi_và_Tham.json",
+    "chapter_name": "Chương 47: Thay đổi và Tham",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-47/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_48_Gia_quy_và_bị_khinh_thường.json",
+    "chapter_name": "Chương 48: Gia quy và bị khinh thường",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-48/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_49_Phần_thưởng_và_hình_phạt.json",
+    "chapter_name": "Chương 49: Phần thưởng và hình phạt",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-49/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_50_Nghiêm_hình_bức_cung.json",
+    "chapter_name": "Chương 50: Nghiêm hình bức cung",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-50/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_51_Mười_roi.json",
+    "chapter_name": "Chương 51: Mười roi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-51/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_52_Phân_thịt_ân_ái.json",
+    "chapter_name": "Chương 52: Phân thịt \u0026 ân ái",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-52/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_53_Mất_mặt.json",
+    "chapter_name": "Chương 53: Mất mặt",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-53/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_54_Cục_trưởng_Hàn_cẩn_thận.json",
+    "chapter_name": "Chương 54: Cục trưởng Hàn cẩn thận",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-54/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_55_Tiểu_tửu_quỷ.json",
+    "chapter_name": "Chương 55: Tiểu tửu quỷ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-55/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_56_Ăn_tết_khen_thưởng.json",
+    "chapter_name": "Chương 56: Ăn tết \u0026 khen thưởng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-56/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_57_Chị_dâu_cả_bùng_nổ.json",
+    "chapter_name": "Chương 57: Chị dâu cả bùng nổ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-57/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_58_Bùng_nổ.json",
+    "chapter_name": "Chương 58: Bùng nổ!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-58/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_59_Uống_say_thì_nói_thật.json",
+    "chapter_name": "Chương 59: Uống say thì nói thật",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-59/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_60_Ngược_cực_phẩm.json",
+    "chapter_name": "Chương 60: Ngược cực phẩm",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-60/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_61_Mệnh_khổ_trách_ai.json",
+    "chapter_name": "Chương 61: Mệnh khổ trách ai?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-61/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_62_Nguyên_nữ_chủ.json",
+    "chapter_name": "Chương 62: Nguyên nữ chủ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-62/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_63_Bệnh_nhảy_lớp.json",
+    "chapter_name": "Chương 63: Bệnh \u0026 nhảy lớp",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-63/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_64_Thể_hiện.json",
+    "chapter_name": "Chương 64: Thể hiện",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-64/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_65_Không_chịu_thua.json",
+    "chapter_name": "Chương 65: Không chịu thua",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-65/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_66_Đừng_uất_ức.json",
+    "chapter_name": "Chương 66: Đừng uất ức!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-66/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_67_Ăn_roi_biết_sai.json",
+    "chapter_name": "Chương 67: Ăn roi \u0026 biết sai",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-67/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_68_Tình_thương_của_cha_như_núi.json",
+    "chapter_name": "Chương 68: Tình thương của cha như núi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-68/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_69_Tố_cáo.json",
+    "chapter_name": "Chương 69: Tố cáo",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-69/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_70_Ba_mươi_roi.json",
+    "chapter_name": "Chương 70: Ba mươi roi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-70/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_71_Em_lười_em_tham_ăn_anh_đều_thích.json",
+    "chapter_name": "Chương 71: Em lười em tham ăn anh đều thích",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-71/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_72_Thân_cận.json",
+    "chapter_name": "Chương 72: Thân cận",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-72/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_73_Muốn_gì.json",
+    "chapter_name": "Chương 73: Muốn gì?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-73/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_74_Người_đàn_ông_này_có_tốt_không.json",
+    "chapter_name": "Chương 74: Người đàn ông này có tốt không?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-74/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_75_Tội_phạm_đã_từng_bị_kết_án.json",
+    "chapter_name": "Chương 75: Tội phạm đã từng bị kết án",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-75/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_76_Đại_Vượng_khác_thường.json",
+    "chapter_name": "Chương 76: Đại Vượng khác thường",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-76/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_77_Đồ_Cưới.json",
+    "chapter_name": "Chương 77: Đồ Cưới",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-77/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_78_Lại_đánh_tôi_đi.json",
+    "chapter_name": "Chương 78: Lại đánh tôi đi!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-78/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_79_Tương_thân_tương_ái.json",
+    "chapter_name": "Chương 79: Tương thân tương ái",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-79/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_80_Điều_tra_ngọn_nguồn.json",
+    "chapter_name": "Chương 80: Điều tra ngọn nguồn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-80/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_81_Mẹ_hiền_con_thảo.json",
+    "chapter_name": "Chương 81: Mẹ hiền con thảo",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-81/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_82_Liều_một_lần.json",
+    "chapter_name": "Chương 82: Liều một lần",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-82/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_83_Mãn_nguyện_hạnh_phúc.json",
+    "chapter_name": "Chương 83: Mãn nguyện \u0026 hạnh phúc",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-83/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_84_Ăn_tuyệt_hậu.json",
+    "chapter_name": "Chương 84: Ăn tuyệt hậu",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-84/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_85_Uất_ức.json",
+    "chapter_name": "Chương 85: Uất ức",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-85/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_86_Chỗ_dựa_cảm_kích.json",
+    "chapter_name": "Chương 86: Chỗ dựa \u0026 cảm kích",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-86/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_87_Bà_tám.json",
+    "chapter_name": "Chương 87: Bà tám",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-87/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_88_Lấy_chồng.json",
+    "chapter_name": "Chương 88: Lấy chồng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-88/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_89_Anh_em_bất_hòa.json",
+    "chapter_name": "Chương 89: Anh em, bất hòa",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-89/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_90_Tuyệt_tình_dã_hợp.json",
+    "chapter_name": "Chương 90: Tuyệt tình, dã hợp",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-90/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_91_Hiềm_khích_tố_cáo.json",
+    "chapter_name": "Chương 91: Hiềm khích, tố cáo",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-91/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_92_Làm_chuyện_xấu_sau_lưng.json",
+    "chapter_name": "Chương 92: Làm chuyện xấu sau lưng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-92/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_93_Quyết_đấu.json",
+    "chapter_name": "Chương 93: Quyết đấu",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-93/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_94_Đánh_nhau.json",
+    "chapter_name": "Chương 94: Đánh nhau",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-94/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_95_Đánh_hội_đồng.json",
+    "chapter_name": "Chương 95: Đánh hội đồng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-95/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_96_Đánh_thật_mạnh.json",
+    "chapter_name": "Chương 96: Đánh thật mạnh",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-96/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_97_KO_Hôn_gió.json",
+    "chapter_name": "Chương 97: KO! Hôn gió",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-97/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_98_Bồi_đến_khóc.json",
+    "chapter_name": "Chương 98: Bồi đến khóc!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-98/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_99_Biết_sai_có_thể_thay_đổi.json",
+    "chapter_name": "Chương 99: Biết sai có thể thay đổi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-99/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_100_Xem_thường.json",
+    "chapter_name": "Chương 100: Xem thường",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-100/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_101_Đi_cửa_sau.json",
+    "chapter_name": "Chương 101: Đi cửa sau",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-101/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_102_Bắt_lại.json",
+    "chapter_name": "Chương 102: Bắt lại!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-102/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_103_Vắn_đề_khó_khăn.json",
+    "chapter_name": "Chương 103: Vắn đề khó khăn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-103/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_104_Nhân_vật_nam_chính.json",
+    "chapter_name": "Chương 104: Nhân vật nam chính",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-104/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_105_Lấy_lòng.json",
+    "chapter_name": "Chương 105: Lấy lòng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-105/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_106_Sợ_mất_đi.json",
+    "chapter_name": "Chương 106: Sợ mất đi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-106/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_107_Quá_mất_mặt.json",
+    "chapter_name": "Chương 107: Quá mất mặt!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-107/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_108_Một_lời_từ_chối.json",
+    "chapter_name": "Chương 108: Một lời từ chối",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-108/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_109_Đau_đầu_bị_chỉnh.json",
+    "chapter_name": "Chương 109: Đau đầu bị chỉnh",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-109/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_110_Đề_nghị_của_Nhị_Vượng.json",
+    "chapter_name": "Chương 110: Đề nghị của Nhị Vượng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-110/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_111_Không_tha_thứ.json",
+    "chapter_name": "Chương 111: Không tha thứ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-111/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_112_Quyết_liệt_ghen.json",
+    "chapter_name": "Chương 112: Quyết liệt , ghen",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-112/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_113_Vợ_chồng_cùng_nhau_đi_họp.json",
+    "chapter_name": "Chương 113: Vợ chồng cùng nhau đi họp",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-113/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_114_Phát_minh_nhỏ.json",
+    "chapter_name": "Chương 114: Phát minh nhỏ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-114/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_115_Tặng_hoanhận_thưởng.json",
+    "chapter_name": "Chương 115: Tặng hoa,nhận thưởng",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-115/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_116_Tự_tiến_cử_bị_cự_tuyệt.json",
+    "chapter_name": "Chương 116: Tự tiến cử bị cự tuyệt",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-116/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_117_Thành_côngtình_nghĩa.json",
+    "chapter_name": "Chương 117: Thành công,tình nghĩa",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-117/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_118_Tiểu_Vượng_sáng_táctrường_thể_dục_tuyển_chọn.json",
+    "chapter_name": "Chương 118: Tiểu Vượng sáng tác,trường thể dục tuyển chọn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-118/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_119_Đi_hay_không_đi.json",
+    "chapter_name": "Chương 119: Đi hay không đi?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-119/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_120_An_ủi_âm_thầm.json",
+    "chapter_name": "Chương 120: An ủi âm thầm",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-120/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_121_Bắt_thư_nhà.json",
+    "chapter_name": "Chương 121: Bắt thư nhà",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-121/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_122_Vui_mừng_Vô_tình_gặp_được.json",
+    "chapter_name": "Chương 122: Vui mừng - Vô tình gặp được",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-122/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_123_Xem_hội_thao_có_kẻ_làm_chuyện_xấu.json",
+    "chapter_name": "Chương 123: Xem hội thao có kẻ làm chuyện xấu",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-123/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_124_Cấm_thi_giải_nhất.json",
+    "chapter_name": "Chương 124: Cấm thi, giải nhất",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-124/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_125_Phẫu_thuật_vận_may.json",
+    "chapter_name": "Chương 125: Phẫu thuật, vận may",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-125/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_126_Trạm_radio_tự_chủ.json",
+    "chapter_name": "Chương 126: Trạm radio, tự chủ",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-126/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_127_Tái_giá_đánh_bẹp_nó.json",
+    "chapter_name": "Chương 127: Tái giá, đánh bẹp nó",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-127/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_128_Thăng_chứckhông_phục.json",
+    "chapter_name": "Chương 128: Thăng chức,không phục",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-128/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_129_Thầm_mến_bóp_chết.json",
+    "chapter_name": "Chương 129: Thầm mến, bóp chết",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-129/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_130_Trả_tiền_mua_lại.json",
+    "chapter_name": "Chương 130: Trả tiền, mua lại",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-130/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_131_Đoạt_công_lao.json",
+    "chapter_name": "Chương 131: Đoạt công lao",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-131/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_132_Đạp_trở_lạihoài_nghi.json",
+    "chapter_name": "Chương 132: Đạp trở lại,hoài nghi",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-132/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_133_Chẳng_lẽ_sắp_phất_rồi.json",
+    "chapter_name": "Chương 133: Chẳng lẽ sắp phất rồi?",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-133/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_134_Chuyến_đặc_biệt_tàn_nhẫn.json",
+    "chapter_name": "Chương 134: Chuyến đặc biệt, tàn nhẫn",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-134/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_135_Cha_Tam_Vượng_nuôi_gia_đình.json",
+    "chapter_name": "Chương 135: Cha Tam Vượng nuôi gia đình",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-135/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_136_Tiểu_Vượng_đảm_đương_việc_nhà.json",
+    "chapter_name": "Chương 136: Tiểu Vượng đảm đương việc nhà",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-136/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_137_Thẩm_phán_khám_phá.json",
+    "chapter_name": "Chương 137: Thẩm phán, khám phá",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-137/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_138_Người_đàn_ông_nguội_lạnh.json",
+    "chapter_name": "Chương 138: Người đàn ông nguội lạnh",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-138/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_139_Không_phục_tới_chiến.json",
+    "chapter_name": "Chương 139: Không phục tới chiến!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-139/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_140_Phân_lương_thực_gọi_điện_thoại.json",
+    "chapter_name": "Chương 140: Phân lương thực, gọi điện thoại",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-140/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_141_Học_Tiếng_Anh_phân_nhà.json",
+    "chapter_name": "Chương 141: Học Tiếng Anh, phân nhà",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-141/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_142_Người_đàn_bà_đanh_đá_ai_cũng_không_sợ.json",
+    "chapter_name": "Chương 142: Người đàn bà đanh đá ai cũng không sợ!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-142/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_143_Sinh_nhật_chuyển_chính_thức.json",
+    "chapter_name": "Chương 143: Sinh nhật, chuyển chính thức.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-143/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_144_Đi_máy_bay_Iran.json",
+    "chapter_name": "Chương 144: Đi máy bay, Iran.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-144/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_145_Núi_Bảo_Thạch_Tư_lệnh_viên.json",
+    "chapter_name": "Chương 145: Núi Bảo Thạch, Tư lệnh viên.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-145/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_146_Thuyết_phục_tư_cách_dự_thi.json",
+    "chapter_name": "Chương 146: Thuyết phục, tư cách dự thi.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-146/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_147_Á_Vận_Hội.json",
+    "chapter_name": "Chương 147: Á Vận Hội.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-147/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_148_Huy_Chương_Vàng_về_nhà.json",
+    "chapter_name": "Chương 148: Huy Chương Vàng, về nhà.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-148/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_149_Đoàn_tụmặn_ngọt.json",
+    "chapter_name": "Chương 149: Đoàn tụ,mặn ngọt.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-149/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_150_Đánh_cướp.json",
+    "chapter_name": "Chương 150: Đánh cướp!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-150/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_151_Tâm_ý.json",
+    "chapter_name": "Chương 151: Tâm ý!",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-151/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_152_Dọn_nhàác_độc.json",
+    "chapter_name": "Chương 152: Dọn nhà,ác độc.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-152/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_153_Tâm_sựleo_tường.json",
+    "chapter_name": "Chương 153: Tâm sự,leo tường.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-153/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_154_Giám_thịthích.json",
+    "chapter_name": "Chương 154: Giám thị,thích.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-154/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_155_Tuyển_chọnhọc_cách_buông_thả.json",
+    "chapter_name": "Chương 155: Tuyển chọn,học cách buông thả.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-155/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_156_Nhớ_về_kiếp_trước.json",
+    "chapter_name": "Chương 156: Nhớ về kiếp trước.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-156/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_157_Thử_dò_xétgiao_phong.json",
+    "chapter_name": "Chương 157: Thử dò xét,giao phong.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-157/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_158_Ôn_nhu_đao.json",
+    "chapter_name": "Chương 158: Ôn nhu đao",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-158/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_159_Đại_Vượng_ra_tay.json",
+    "chapter_name": "Chương 159: Đại Vượng ra tay.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-159/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_160_Tâm_sự_của_Hàn_cục.json",
+    "chapter_name": "Chương 160: Tâm sự của Hàn cục.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-160/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_161_Đuổi_bắt.json",
+    "chapter_name": "Chương 161: Đuổi bắt.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-161/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_162_Tự_lộ_việc_xấu_trong_nhà.json",
+    "chapter_name": "Chương 162: Tự lộ việc xấu trong nhà.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-162/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_163_Đánh_gụchắn_không_được.json",
+    "chapter_name": "Chương 163: Đánh gục,hắn không được.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-163/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_164_Bắt_đượcchuyện_xấu.json",
+    "chapter_name": "Chương 164: Bắt được,chuyện xấu.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-164/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_165_Khách_đến_từ_hải_ngoại.json",
+    "chapter_name": "Chương 165: Khách đến từ hải ngoại.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-165/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_166_Xuất_bản_sáchkhóc.json",
+    "chapter_name": "Chương 166: Xuất bản sách,khóc.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-166/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_167_Lên_thủ_đôlàm_bạn.json",
+    "chapter_name": "Chương 167: Lên thủ đô,làm bạn.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-167/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_168_Đảm_đương_bình_an.json",
+    "chapter_name": "Chương 168: Đảm đương, bình an.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-168/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_169_Đại_kết_cục.json",
+    "chapter_name": "Chương 169: Đại kết cục.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-169/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_170_Phiên_ngoại.json",
+    "chapter_name": "Chương 170: Phiên ngoại",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-170/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_171_Phiên_ngoại.json",
+    "chapter_name": "Chương 171: Phiên ngoại.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-171/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_172_Phiên_ngoại.json",
+    "chapter_name": "Chương 172: Phiên ngoại.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-172/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_173_Phiên_ngoại_Tung_lưới.json",
+    "chapter_name": "Chương 173: Phiên ngoại: Tung lưới.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-173/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_174_Phiên_ngoại_Con_cờ.json",
+    "chapter_name": "Chương 174: Phiên ngoại: Con cờ.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-174/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_175_Phiên_ngoại_Ám_sát.json",
+    "chapter_name": "Chương 175: Phiên ngoại: Ám sát.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-175/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_176_Phiên_ngoại_Sa_lưới.json",
+    "chapter_name": "Chương 176: Phiên ngoại: Sa lưới.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-176/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_177_Phiên_ngoại_Tử_hình.json",
+    "chapter_name": "Chương 177: Phiên ngoại: Tử hình.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-177/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_178_Phiên_ngoại_Chạy_trời_không_khỏi_nắng.json",
+    "chapter_name": "Chương 178: Phiên ngoại: Chạy trời không khỏi nắng.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-178/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_179_Phiên_ngoại.json",
+    "chapter_name": "Chương 179: Phiên ngoại.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-179/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_180_Phiên_ngoại_Tuần_tra_núi.json",
+    "chapter_name": "Chương 180: Phiên ngoại: Tuần tra núi.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-180/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_181_Phiên_ngoại_Thổ_lộ.json",
+    "chapter_name": "Chương 181: Phiên ngoại: Thổ lộ.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-181/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_182_Phiên_ngoại_Biểu_lộ_tâm_ý.json",
+    "chapter_name": "Chương 182: Phiên ngoại: Biểu lộ tâm ý.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-182/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_183_Phiên_ngoại_Kỳ_thi_đại_học.json",
+    "chapter_name": "Chương 183: Phiên ngoại: Kỳ thi đại học.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-183/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_184_Phiên_ngoại_Đại_học.json",
+    "chapter_name": "Chương 184: Phiên ngoại: Đại học.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-184/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_185_Phiên_ngoại_Trở_về.json",
+    "chapter_name": "Chương 185: Phiên ngoại: Trở về",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-185/"
+  },
+  {
+    "path": "data/Thập_Niên_70_Người_Đàn_Bà_Đanh_Đá/Chương_186_Phiên_ngoại_Yêu_nhau.json",
+    "chapter_name": "Chương 186: Phiên ngoại: Yêu nhau.",
+    "url": "https://truyenfull.io/thap-nien-70-nguoi-dan-ba-danh-da/chuong-186/"
+  }
+]
