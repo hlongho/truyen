@@ -1,0 +1,437 @@
+[
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_1_Mang_Thai.json",
+    "chapter_name": "Chương 1: Mang Thai",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-1/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_2_Bị_Bắt_Đi.json",
+    "chapter_name": "Chương 2: Bị Bắt Đi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-2/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_3_Chờ_Đứa_Bé_Được_Sinh_Ra_Sẽ_Biết.json",
+    "chapter_name": "Chương 3: Chờ Đứa Bé Được Sinh Ra Sẽ Biết",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-3/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_4_Cuộc_Sống_Ở_Hoắc_Gia.json",
+    "chapter_name": "Chương 4: Cuộc Sống Ở Hoắc Gia",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-4/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_5_Buồn_Chán.json",
+    "chapter_name": "Chương 5: Buồn Chán",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-5/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_6_Nghĩ_Cho_Đứa_Bé.json",
+    "chapter_name": "Chương 6: Nghĩ Cho Đứa Bé",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-6/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_7_Cần_Tiền.json",
+    "chapter_name": "Chương 7: Cần Tiền",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-7/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_8_Tình_Nhân.json",
+    "chapter_name": "Chương 8: Tình Nhân",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-8/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_9_Thay_Quần_Áo.json",
+    "chapter_name": "Chương 9: Thay Quần Áo",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-9/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_10_Gia_Đình_Của_Tiêu_Linh.json",
+    "chapter_name": "Chương 10: Gia Đình Của Tiêu Linh",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-10/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_11_Lý_Do_Quỷ_Gì_Vậy.json",
+    "chapter_name": "Chương 11: Lý Do Quỷ Gì Vậy?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-11/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_12_Đến_Công_Ty.json",
+    "chapter_name": "Chương 12: Đến Công Ty",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-12/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_13_Người_Phụ_Nữ_Lăng_Loàn.json",
+    "chapter_name": "Chương 13: Người Phụ Nữ Lăng Loàn",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-13/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_14_Hôn.json",
+    "chapter_name": "Chương 14: Hôn",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-14/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_15_Sao_Tôi_Phải_Giúp_Cô.json",
+    "chapter_name": "Chương 15: Sao Tôi Phải Giúp Cô?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-15/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_16_Tiêu_Ánh_Vân.json",
+    "chapter_name": "Chương 16: Tiêu Ánh Vân",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-16/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_17_Sở_Thích_Mới_Của_Hoắc_Tư_Thần.json",
+    "chapter_name": "Chương 17: Sở Thích Mới Của Hoắc Tư Thần?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-17/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_18_Bị_Phát_Hiện.json",
+    "chapter_name": "Chương 18: Bị Phát Hiện",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-18/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_19_Đại_Ác.json",
+    "chapter_name": "Chương 19: Đại Ác",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-19/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_20_Vị_Hôn_Thê_Của_Hoắc_Tư_Thần.json",
+    "chapter_name": "Chương 20: Vị Hôn Thê Của Hoắc Tư Thần",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-20/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_21_Anh_Có_Đau_Không.json",
+    "chapter_name": "Chương 21: Anh Có Đau Không?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-21/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_22_Thân_Mật.json",
+    "chapter_name": "Chương 22: Thân Mật",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-22/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_23_Hàn_Tuyết_Tức_Giận.json",
+    "chapter_name": "Chương 23: Hàn Tuyết Tức Giận",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-23/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_24_Đấm_Bóp.json",
+    "chapter_name": "Chương 24: Đấm Bóp",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-24/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_25_Là_Trai_Hay_Gái.json",
+    "chapter_name": "Chương 25: Là Trai Hay Gái?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-25/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_26_Tâm_Trạng_Không_Tốt.json",
+    "chapter_name": "Chương 26: Tâm Trạng Không Tốt",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-26/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_27_Tiệc_Mừng_Của_Công_Ty.json",
+    "chapter_name": "Chương 27: Tiệc Mừng Của Công Ty",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-27/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_28_Không_Giả_Vờ_Nữa.json",
+    "chapter_name": "Chương 28: Không Giả Vờ Nữa?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-28/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_29_Tôi_Không_Ghen.json",
+    "chapter_name": "Chương 29: Tôi Không Ghen",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-29/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_30_Tai_Nạn.json",
+    "chapter_name": "Chương 30: Tai Nạn",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-30/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_31_Hoắc_Tư_Thần_Nổi_Giận.json",
+    "chapter_name": "Chương 31: Hoắc Tư Thần Nổi Giận",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-31/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_32_Vảy_Ngược_Của_Hàn_Tuyết.json",
+    "chapter_name": "Chương 32: Vảy Ngược Của Hàn Tuyết",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-32/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_33_Tâm_Trạng_Không_Tốt.json",
+    "chapter_name": "Chương 33: Tâm Trạng Không Tốt",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-33/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_34_Tiêu_Linh_Phản_Bác.json",
+    "chapter_name": "Chương 34: Tiêu Linh Phản Bác",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-34/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_35_Anh_Không_Nên_Hiểu_Lầm.json",
+    "chapter_name": "Chương 35: Anh Không Nên Hiểu Lầm",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-35/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_36_Tại_Sao_Lại_Như_Vậy.json",
+    "chapter_name": "Chương 36: Tại Sao Lại Như Vậy?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-36/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_37_Do_Anh_Mà_Ra.json",
+    "chapter_name": "Chương 37: Do Anh Mà Ra",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-37/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_38_Mối_Quan_Hệ_Giữa_Hai_Nhà.json",
+    "chapter_name": "Chương 38: Mối Quan Hệ Giữa Hai Nhà",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-38/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_39_Chị_Chị_Em_Em.json",
+    "chapter_name": "Chương 39: Chị Chị Em Em",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-39/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_40_Giao_Dịch.json",
+    "chapter_name": "Chương 40: Giao Dịch",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-40/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_41_Bí_Mật_Của_Hoắc_Gia.json",
+    "chapter_name": "Chương 41: Bí Mật Của Hoắc Gia",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-41/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_42_Bằng_Chứng_Đâu.json",
+    "chapter_name": "Chương 42: Bằng Chứng Đâu?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-42/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_43_The_Night.json",
+    "chapter_name": "Chương 43: The Night",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-43/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_44_Phải_Làm_Sao_Bây_Giờ.json",
+    "chapter_name": "Chương 44: Phải Làm Sao Bây Giờ?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-44/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_45_Tránh_Né.json",
+    "chapter_name": "Chương 45: Tránh Né",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-45/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_46_Tiêu_Linh_Đâu.json",
+    "chapter_name": "Chương 46: Tiêu Linh Đâu?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-46/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_47_Em_Đang_Ở_Đâu.json",
+    "chapter_name": "Chương 47: Em Đang Ở Đâu?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-47/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_48_Rời_Đi.json",
+    "chapter_name": "Chương 48: Rời Đi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-48/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_49_Tìm_Kiếm.json",
+    "chapter_name": "Chương 49: Tìm Kiếm",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-49/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_50_Cuộc_Sống_Mới.json",
+    "chapter_name": "Chương 50: Cuộc Sống Mới",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-50/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_51_Gặp_Lại_Hàn_Tuyết.json",
+    "chapter_name": "Chương 51: Gặp Lại Hàn Tuyết",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-51/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_52_Hàn_Tuyết_Căm_Hận.json",
+    "chapter_name": "Chương 52: Hàn Tuyết Căm Hận",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-52/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_53_Mệt_Mỏi.json",
+    "chapter_name": "Chương 53: Mệt Mỏi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-53/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_54_Nhân_Chứng_Cuối_Cùng_Bạch_Lạc_Y.json",
+    "chapter_name": "Chương 54: Nhân Chứng Cuối Cùng - Bạch Lạc Y",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-54/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_55_Hàn_Gia_Sụp_Đổ.json",
+    "chapter_name": "Chương 55: Hàn Gia Sụp Đổ",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-55/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_56_Anh_Rất_Nhớ_Em.json",
+    "chapter_name": "Chương 56: Anh Rất Nhớ Em",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-56/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_57_Xin_Lỗi.json",
+    "chapter_name": "Chương 57: Xin Lỗi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-57/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_58_Sinh_Rồi.json",
+    "chapter_name": "Chương 58: Sinh Rồi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-58/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_59_Chuyến_Công_Tác_Đến_Thành_Phố_M.json",
+    "chapter_name": "Chương 59: Chuyến Công Tác Đến Thành Phố M",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-59/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_60_Phiên_Bản_Thu_Nhỏ_Của_Hoắc_Tư_Thần.json",
+    "chapter_name": "Chương 60: Phiên Bản Thu Nhỏ Của Hoắc Tư Thần",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-60/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_61_Chẳng_Lẽ_Là_Con_Rơi_Của_Cậu_À.json",
+    "chapter_name": "Chương 61: Chẳng Lẽ Là Con Rơi Của Cậu À?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-61/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_62_Gặp_Lại.json",
+    "chapter_name": "Chương 62: Gặp Lại",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-62/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_63_Anh_Chỉ_Cần_Tiêu_Linh_Mà_Thôi.json",
+    "chapter_name": "Chương 63: Anh Chỉ Cần Tiêu Linh Mà Thôi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-63/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_64_Thư_Nặc_Danh.json",
+    "chapter_name": "Chương 64: Thư Nặc Danh",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-64/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_65_Bé_Con_Cho_Chú_Sợi_Tóc.json",
+    "chapter_name": "Chương 65: Bé Con, Cho Chú Sợi Tóc",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-65/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_66_Ông_Chú_Xấu_Xa.json",
+    "chapter_name": "Chương 66: Ông Chú Xấu Xa",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-66/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_67_Theo_Dõi.json",
+    "chapter_name": "Chương 67: Theo Dõi",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-67/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_68_Kết_Quả_Xét_Nghiệm.json",
+    "chapter_name": "Chương 68: Kết Quả Xét Nghiệm",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-68/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_69_Sự_Thật_Phơi_Bày.json",
+    "chapter_name": "Chương 69: Sự Thật Phơi Bày",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-69/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_70_Con_Trai_Của_Anh.json",
+    "chapter_name": "Chương 70: Con Trai Của Anh",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-70/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_71_Trở_Về_Với_Anh_Được_Không.json",
+    "chapter_name": "Chương 71: Trở Về Với Anh Được Không?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-71/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_72_Đoàn_Tụ.json",
+    "chapter_name": "Chương 72: Đoàn Tụ",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-72/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_73_Diệp_Thiên_Tức_Giận.json",
+    "chapter_name": "Chương 73: Diệp Thiên Tức Giận",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-73/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_74_Em_Xem_Anh_Là_Gì.json",
+    "chapter_name": "Chương 74: Em Xem Anh Là Gì?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-74/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_75_Cái_Gì_Đang_Cọ_Vào_Mông_Cô_Vậy.json",
+    "chapter_name": "Chương 75: Cái Gì Đang Cọ Vào Mông Cô Vậy?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-75/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_76_Bữa_Cơm_Gia_Đình.json",
+    "chapter_name": "Chương 76: Bữa Cơm Gia Đình",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-76/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_77_Tạo_Nghiệp.json",
+    "chapter_name": "Chương 77: Tạo Nghiệp",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-77/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_78_Chia_Ly.json",
+    "chapter_name": "Chương 78: Chia Ly",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-78/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_79_Trở_Lại_Hoắc_Gia.json",
+    "chapter_name": "Chương 79: Trở Lại Hoắc Gia",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-79/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_80_Có_Muốn_Đến_Hôn_Lễ_Của_Tôi_Không.json",
+    "chapter_name": "Chương 80: Có Muốn Đến Hôn Lễ Của Tôi Không?",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-80/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_81_Cảm_Ơn_Em_Và_Con_Vì_Đã_Xuất_Hiện_Trong_Đời_Anh.json",
+    "chapter_name": "Chương 81: Cảm Ơn Em Và Con Vì Đã Xuất Hiện Trong Đời Anh",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-81/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_82_Hạnh_Phúc.json",
+    "chapter_name": "Chương 82: Hạnh Phúc",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-82/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_83_Anh_Yêu_Em.json",
+    "chapter_name": "Chương 83: Anh Yêu Em",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-83/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_84_Ngoại_Truyện_Sinh_Nhật_Duẫn_Hạo.json",
+    "chapter_name": "Chương 84: Ngoại Truyện - Sinh Nhật Duẫn Hạo",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-84/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_85_Ngoại_Truyện_Cuộc_Sống_Sau_Hôn_Nhân.json",
+    "chapter_name": "Chương 85: Ngoại Truyện: Cuộc Sống Sau Hôn Nhân",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-85/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_86_Ngoại_Truyện_Sinh_Nhật_Duẫn_Hạo.json",
+    "chapter_name": "Chương 86: Ngoại Truyện - Sinh Nhật Duẫn Hạo",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-86/"
+  },
+  {
+    "path": "data/Tôi_Sinh_Con_Cho_Tổng_Tài_Đại_Ác/Chương_87_Ngoại_truyện_Cuộc_sống_sau_hôn_nhân.json",
+    "chapter_name": "Chương 87: Ngoại truyện: Cuộc sống sau hôn nhân",
+    "url": "https://truyenfull.io/toi-sinh-con-cho-tong-tai-dai-ac/chuong-87/"
+  }
+]
