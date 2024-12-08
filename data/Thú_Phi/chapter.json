@@ -1,0 +1,872 @@
+[
+  {
+    "path": "data/Thú_Phi/Chương_1_Ám_sát.json",
+    "chapter_name": "Chương 1: Ám sát",
+    "url": "https://truyenfull.io/thu-phi/chuong-1/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_2_Yêu_đương_vụng_trộm.json",
+    "chapter_name": "Chương 2: Yêu đương vụng trộm",
+    "url": "https://truyenfull.io/thu-phi/chuong-2/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_3_Đau.json",
+    "chapter_name": "Chương 3: Đau",
+    "url": "https://truyenfull.io/thu-phi/chuong-3/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_4_Truy_sát.json",
+    "chapter_name": "Chương 4: Truy sát",
+    "url": "https://truyenfull.io/thu-phi/chuong-4/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_5_Phản_kích.json",
+    "chapter_name": "Chương 5: Phản kích",
+    "url": "https://truyenfull.io/thu-phi/chuong-5/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_6_Cưỡng_hôn.json",
+    "chapter_name": "Chương 6: Cưỡng hôn",
+    "url": "https://truyenfull.io/thu-phi/chuong-6/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_7_Giao_chiến.json",
+    "chapter_name": "Chương 7: Giao chiến",
+    "url": "https://truyenfull.io/thu-phi/chuong-7/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_8_Chạy_trốn.json",
+    "chapter_name": "Chương 8: Chạy trốn",
+    "url": "https://truyenfull.io/thu-phi/chuong-8/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_9_Lục_soát.json",
+    "chapter_name": "Chương 9: Lục soát",
+    "url": "https://truyenfull.io/thu-phi/chuong-9/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_10_Cường_địch_xuất_hiện.json",
+    "chapter_name": "Chương 10: Cường địch xuất hiện",
+    "url": "https://truyenfull.io/thu-phi/chuong-10/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_11_Tức_giận_tới_bất_tỉnh.json",
+    "chapter_name": "Chương 11: Tức giận tới bất tỉnh",
+    "url": "https://truyenfull.io/thu-phi/chuong-11/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_12_Tìm_y.json",
+    "chapter_name": "Chương 12: Tìm y",
+    "url": "https://truyenfull.io/thu-phi/chuong-12/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_13_Khách_qua_đường.json",
+    "chapter_name": "Chương 13: Khách qua đường?",
+    "url": "https://truyenfull.io/thu-phi/chuong-13/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_14_Bà_bà.json",
+    "chapter_name": "Chương 14: Bà bà",
+    "url": "https://truyenfull.io/thu-phi/chuong-14/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_15_Thay_mận_đổi_đào.json",
+    "chapter_name": "Chương 15: Thay mận đổi đào?",
+    "url": "https://truyenfull.io/thu-phi/chuong-15/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_16_Dực_Vương.json",
+    "chapter_name": "Chương 16: Dực Vương",
+    "url": "https://truyenfull.io/thu-phi/chuong-16/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_17_Tần_vương.json",
+    "chapter_name": "Chương 17: Tần vương",
+    "url": "https://truyenfull.io/thu-phi/chuong-17/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_18_Bách_hoa_hội.json",
+    "chapter_name": "Chương 18: Bách hoa hội",
+    "url": "https://truyenfull.io/thu-phi/chuong-18/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_19_Trúng_độc.json",
+    "chapter_name": "Chương 19: Trúng độc",
+    "url": "https://truyenfull.io/thu-phi/chuong-19/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_20_Thể_hiện_tài_năng.json",
+    "chapter_name": "Chương 20: Thể hiện tài năng",
+    "url": "https://truyenfull.io/thu-phi/chuong-20/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_21_Thủ_đoạn.json",
+    "chapter_name": "Chương 21: Thủ đoạn",
+    "url": "https://truyenfull.io/thu-phi/chuong-21/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_22_Tiên_nữ.json",
+    "chapter_name": "Chương 22: Tiên nữ",
+    "url": "https://truyenfull.io/thu-phi/chuong-22/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_23_Xuất_phủ.json",
+    "chapter_name": "Chương 23: Xuất phủ",
+    "url": "https://truyenfull.io/thu-phi/chuong-23/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_24_Có_phát_hiện.json",
+    "chapter_name": "Chương 24: Có phát hiện",
+    "url": "https://truyenfull.io/thu-phi/chuong-24/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_25_Bí_ẩn.json",
+    "chapter_name": "Chương 25: Bí ẩn",
+    "url": "https://truyenfull.io/thu-phi/chuong-25/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_26_Kẻ_chủ_mưu.json",
+    "chapter_name": "Chương 26: Kẻ chủ mưu",
+    "url": "https://truyenfull.io/thu-phi/chuong-26/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_27_Tương_kế_tựu_kế.json",
+    "chapter_name": "Chương 27: Tương kế tựu kế",
+    "url": "https://truyenfull.io/thu-phi/chuong-27/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_28_Sắc_dụ.json",
+    "chapter_name": "Chương 28: Sắc dụ",
+    "url": "https://truyenfull.io/thu-phi/chuong-28/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_29_Đêm_trăng.json",
+    "chapter_name": "Chương 29: Đêm trăng",
+    "url": "https://truyenfull.io/thu-phi/chuong-29/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_30_Phải_thích_ta.json",
+    "chapter_name": "Chương 30: Phải thích ta",
+    "url": "https://truyenfull.io/thu-phi/chuong-30/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_31_Đàn_ong_bắp_cày.json",
+    "chapter_name": "Chương 31: Đàn ong bắp cày",
+    "url": "https://truyenfull.io/thu-phi/chuong-31/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_32_Dũng_mãnh.json",
+    "chapter_name": "Chương 32: Dũng mãnh",
+    "url": "https://truyenfull.io/thu-phi/chuong-32/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_33_Chuyện_gì_thế_này.json",
+    "chapter_name": "Chương 33: Chuyện gì thế này?",
+    "url": "https://truyenfull.io/thu-phi/chuong-33/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_34_Đàn_dã_thú.json",
+    "chapter_name": "Chương 34: Đàn dã thú",
+    "url": "https://truyenfull.io/thu-phi/chuong-34/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_35_Khúc_nhạc.json",
+    "chapter_name": "Chương 35: Khúc nhạc",
+    "url": "https://truyenfull.io/thu-phi/chuong-35/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_36_Nhường_đường.json",
+    "chapter_name": "Chương 36: Nhường đường",
+    "url": "https://truyenfull.io/thu-phi/chuong-36/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_37_Rời_đi.json",
+    "chapter_name": "Chương 37: Rời đi",
+    "url": "https://truyenfull.io/thu-phi/chuong-37/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_38_Yến_quốc.json",
+    "chapter_name": "Chương 38: Yến quốc",
+    "url": "https://truyenfull.io/thu-phi/chuong-38/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_39_Thất_hoàng_tử.json",
+    "chapter_name": "Chương 39: Thất hoàng tử",
+    "url": "https://truyenfull.io/thu-phi/chuong-39/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_40_Tín_vật_đính_ước.json",
+    "chapter_name": "Chương 40: Tín vật đính ước",
+    "url": "https://truyenfull.io/thu-phi/chuong-40/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_41_Đi_săn.json",
+    "chapter_name": "Chương 41: Đi săn",
+    "url": "https://truyenfull.io/thu-phi/chuong-41/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_42_Tín_vật_đính_ước.json",
+    "chapter_name": "Chương 42: Tín vật đính ước",
+    "url": "https://truyenfull.io/thu-phi/chuong-42/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_43_Giằng_co.json",
+    "chapter_name": "Chương 43: Giằng co",
+    "url": "https://truyenfull.io/thu-phi/chuong-43/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_44_Hàng_phục.json",
+    "chapter_name": "Chương 44: Hàng phục",
+    "url": "https://truyenfull.io/thu-phi/chuong-44/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_45_Dự_tiệc.json",
+    "chapter_name": "Chương 45: Dự tiệc",
+    "url": "https://truyenfull.io/thu-phi/chuong-45/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_46_Đêm_mới_bắt_đầu.json",
+    "chapter_name": "Chương 46: Đêm mới bắt đầu",
+    "url": "https://truyenfull.io/thu-phi/chuong-46/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_47_Tuyên_bố_chủ_quyền.json",
+    "chapter_name": "Chương 47: Tuyên bố chủ quyền",
+    "url": "https://truyenfull.io/thu-phi/chuong-47/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_48_Gia_tộc_Phi_Linh.json",
+    "chapter_name": "Chương 48: Gia tộc Phi Linh",
+    "url": "https://truyenfull.io/thu-phi/chuong-48/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_49_Bẫy_rập.json",
+    "chapter_name": "Chương 49: Bẫy rập",
+    "url": "https://truyenfull.io/thu-phi/chuong-49/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_50_Tình_trong_biển_lửa.json",
+    "chapter_name": "Chương 50: Tình trong biển lửa",
+    "url": "https://truyenfull.io/thu-phi/chuong-50/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_51_Sụp_đổ.json",
+    "chapter_name": "Chương 51: Sụp đổ",
+    "url": "https://truyenfull.io/thu-phi/chuong-51/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_52_Thích.json",
+    "chapter_name": "Chương 52: Thích",
+    "url": "https://truyenfull.io/thu-phi/chuong-52/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_53_Báu_vật.json",
+    "chapter_name": "Chương 53: Báu vật",
+    "url": "https://truyenfull.io/thu-phi/chuong-53/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_54_Rời_đi.json",
+    "chapter_name": "Chương 54: Rời đi",
+    "url": "https://truyenfull.io/thu-phi/chuong-54/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_55_Âm_công.json",
+    "chapter_name": "Chương 55: Âm công",
+    "url": "https://truyenfull.io/thu-phi/chuong-55/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_56_Vừa_ý.json",
+    "chapter_name": "Chương 56: Vừa ý",
+    "url": "https://truyenfull.io/thu-phi/chuong-56/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_57_Đêm_tối_tăm_bóng_mờ_mịt.json",
+    "chapter_name": "Chương 57: Đêm tối tăm, bóng mờ mịt",
+    "url": "https://truyenfull.io/thu-phi/chuong-57/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_58_Tắm_tiên.json",
+    "chapter_name": "Chương 58: Tắm tiên…",
+    "url": "https://truyenfull.io/thu-phi/chuong-58/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_59_Mai_phục_Cởi_truồng_chạy_rông.json",
+    "chapter_name": "Chương 59: Mai phục (Cởi truồng chạy rông)",
+    "url": "https://truyenfull.io/thu-phi/chuong-59/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_60_Kẻ_thù_rình_rập.json",
+    "chapter_name": "Chương 60: Kẻ thù rình rập",
+    "url": "https://truyenfull.io/thu-phi/chuong-60/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_61_Bị_thương.json",
+    "chapter_name": "Chương 61: Bị thương",
+    "url": "https://truyenfull.io/thu-phi/chuong-61/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_62_Động_lòng.json",
+    "chapter_name": "Chương 62: Động lòng",
+    "url": "https://truyenfull.io/thu-phi/chuong-62/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_63_Phong_vân_tụ_hội.json",
+    "chapter_name": "Chương 63: Phong vân tụ hội",
+    "url": "https://truyenfull.io/thu-phi/chuong-63/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_64_Cuộc_phản_công_cuối_cùng.json",
+    "chapter_name": "Chương 64: Cuộc phản công cuối cùng",
+    "url": "https://truyenfull.io/thu-phi/chuong-64/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_65_Báo_thù.json",
+    "chapter_name": "Chương 65: Báo thù",
+    "url": "https://truyenfull.io/thu-phi/chuong-65/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_66_Rời_khỏi_kinh_thành.json",
+    "chapter_name": "Chương 66: Rời khỏi kinh thành",
+    "url": "https://truyenfull.io/thu-phi/chuong-66/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_67_Người_quen_cũ.json",
+    "chapter_name": "Chương 67: Người quen cũ?",
+    "url": "https://truyenfull.io/thu-phi/chuong-67/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_68_Cạm_bẫy.json",
+    "chapter_name": "Chương 68: Cạm bẫy",
+    "url": "https://truyenfull.io/thu-phi/chuong-68/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_69_Sống_chết_có_nhau.json",
+    "chapter_name": "Chương 69: Sống chết có nhau",
+    "url": "https://truyenfull.io/thu-phi/chuong-69/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_70_Thân_phận_thật_sự.json",
+    "chapter_name": "Chương 70: Thân phận thật sự",
+    "url": "https://truyenfull.io/thu-phi/chuong-70/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_71_Lời_thề.json",
+    "chapter_name": "Chương 71: Lời thề",
+    "url": "https://truyenfull.io/thu-phi/chuong-71/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_72_Mây_tán_sương_tan.json",
+    "chapter_name": "Chương 72: Mây tán sương tan",
+    "url": "https://truyenfull.io/thu-phi/chuong-72/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_73_Ấm_áp.json",
+    "chapter_name": "Chương 73: Ấm áp",
+    "url": "https://truyenfull.io/thu-phi/chuong-73/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_74_Ban_hôn.json",
+    "chapter_name": "Chương 74: Ban hôn",
+    "url": "https://truyenfull.io/thu-phi/chuong-74/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_75_Lễ_vật_mừng_thọ_quái_dị.json",
+    "chapter_name": "Chương 75: Lễ vật mừng thọ quái dị",
+    "url": "https://truyenfull.io/thu-phi/chuong-75/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_76_Vang_danh_khắp_thiên_hạ.json",
+    "chapter_name": "Chương 76: Vang danh khắp thiên hạ",
+    "url": "https://truyenfull.io/thu-phi/chuong-76/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_77_Mưu_sách.json",
+    "chapter_name": "Chương 77: Mưu sách",
+    "url": "https://truyenfull.io/thu-phi/chuong-77/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_78_Thủ_đoạn_lôi_đình.json",
+    "chapter_name": "Chương 78: Thủ đoạn lôi đình",
+    "url": "https://truyenfull.io/thu-phi/chuong-78/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_79_Y_phục_đẫm_máu.json",
+    "chapter_name": "Chương 79: Y phục đẫm máu",
+    "url": "https://truyenfull.io/thu-phi/chuong-79/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_80_Địa_ngục.json",
+    "chapter_name": "Chương 80: Địa ngục",
+    "url": "https://truyenfull.io/thu-phi/chuong-80/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_81_Thân_phận_động_trời.json",
+    "chapter_name": "Chương 81: Thân phận động trời",
+    "url": "https://truyenfull.io/thu-phi/chuong-81/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_82_Ranh_giới_sinh_tử.json",
+    "chapter_name": "Chương 82: Ranh giới sinh tử",
+    "url": "https://truyenfull.io/thu-phi/chuong-82/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_83_Sinh_ly_tử_biệt.json",
+    "chapter_name": "Chương 83: Sinh ly tử biệt",
+    "url": "https://truyenfull.io/thu-phi/chuong-83/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_84_Suy_đoán_chân_tướng.json",
+    "chapter_name": "Chương 84: Suy đoán chân tướng",
+    "url": "https://truyenfull.io/thu-phi/chuong-84/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_85_Vân_Khinh_Vs_Sở_Hình_Thiên.json",
+    "chapter_name": "Chương 85: Vân Khinh Vs Sở Hình Thiên",
+    "url": "https://truyenfull.io/thu-phi/chuong-85/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_86_Người_quen_cũ.json",
+    "chapter_name": "Chương 86: Người quen cũ",
+    "url": "https://truyenfull.io/thu-phi/chuong-86/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_87_Oan_gia_ngõ_hẹp.json",
+    "chapter_name": "Chương 87: Oan gia ngõ hẹp",
+    "url": "https://truyenfull.io/thu-phi/chuong-87/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_88_Thủ_đoạn_tàn_khốc.json",
+    "chapter_name": "Chương 88: Thủ đoạn tàn khốc",
+    "url": "https://truyenfull.io/thu-phi/chuong-88/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_89_Đinh_Phi_Tình.json",
+    "chapter_name": "Chương 89: Đinh Phi Tình",
+    "url": "https://truyenfull.io/thu-phi/chuong-89/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_90_Thập_diện_mai_phục.json",
+    "chapter_name": "Chương 90: Thập diện mai phục",
+    "url": "https://truyenfull.io/thu-phi/chuong-90/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_91_Độc_Cô_Tuyệt_nguy_hiểm.json",
+    "chapter_name": "Chương 91: Độc Cô Tuyệt, nguy hiểm!",
+    "url": "https://truyenfull.io/thu-phi/chuong-91/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_92_Gặp_lại.json",
+    "chapter_name": "Chương 92: Gặp lại",
+    "url": "https://truyenfull.io/thu-phi/chuong-92/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_93_Thay_đổi_bất_ngờ.json",
+    "chapter_name": "Chương 93: Thay đổi bất ngờ",
+    "url": "https://truyenfull.io/thu-phi/chuong-93/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_94_Khói_lửa_chiến_tranh.json",
+    "chapter_name": "Chương 94: Khói lửa chiến tranh",
+    "url": "https://truyenfull.io/thu-phi/chuong-94/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_95_Lục_quốc_phạt_Tần.json",
+    "chapter_name": "Chương 95: Lục quốc phạt Tần",
+    "url": "https://truyenfull.io/thu-phi/chuong-95/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_96_Sấm_sét_kinh_hoàng.json",
+    "chapter_name": "Chương 96: Sấm sét kinh hoàng",
+    "url": "https://truyenfull.io/thu-phi/chuong-96/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_97_Biển_lửa_nơi_địa_ngục.json",
+    "chapter_name": "Chương 97: Biển lửa nơi địa ngục",
+    "url": "https://truyenfull.io/thu-phi/chuong-97/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_98_Vương_hậu_của_quả_nhân.json",
+    "chapter_name": "Chương 98: Vương hậu của quả nhân",
+    "url": "https://truyenfull.io/thu-phi/chuong-98/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_99_Tẩm_cung.json",
+    "chapter_name": "Chương 99: Tẩm cung",
+    "url": "https://truyenfull.io/thu-phi/chuong-99/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_100_Tần_vương_hậu.json",
+    "chapter_name": "Chương 100: Tần vương hậu",
+    "url": "https://truyenfull.io/thu-phi/chuong-100/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_101_Bắt_nạt.json",
+    "chapter_name": "Chương 101: Bắt nạt",
+    "url": "https://truyenfull.io/thu-phi/chuong-101/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_102_Quả_trường_sinh.json",
+    "chapter_name": "Chương 102: Quả trường sinh",
+    "url": "https://truyenfull.io/thu-phi/chuong-102/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_103_Đại_hôn.json",
+    "chapter_name": "Chương 103: Đại hôn",
+    "url": "https://truyenfull.io/thu-phi/chuong-103/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_104_Đêm_hoa_chúc.json",
+    "chapter_name": "Chương 104: Đêm hoa chúc",
+    "url": "https://truyenfull.io/thu-phi/chuong-104/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_105_Người_Nam_Man_tới.json",
+    "chapter_name": "Chương 105: Người Nam Man tới",
+    "url": "https://truyenfull.io/thu-phi/chuong-105/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_106_Bất_ngờ_làm_phản.json",
+    "chapter_name": "Chương 106: Bất ngờ làm phản",
+    "url": "https://truyenfull.io/thu-phi/chuong-106/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_107_Dám_đụng_đến_vợ_của_ta.json",
+    "chapter_name": "Chương 107: Dám đụng đến vợ của ta",
+    "url": "https://truyenfull.io/thu-phi/chuong-107/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_108_Thánh_nữ_Nam_Man.json",
+    "chapter_name": "Chương 108: Thánh nữ Nam Man",
+    "url": "https://truyenfull.io/thu-phi/chuong-108/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_109_Ma_đao_Nam_Vực.json",
+    "chapter_name": "Chương 109: Ma đao Nam Vực",
+    "url": "https://truyenfull.io/thu-phi/chuong-109/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_110_Bàn_tay_tội_ác.json",
+    "chapter_name": "Chương 110: Bàn tay tội ác?",
+    "url": "https://truyenfull.io/thu-phi/chuong-110/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_111_Tuyệt_đáng_thương.json",
+    "chapter_name": "Chương 111: Tuyệt đáng thương",
+    "url": "https://truyenfull.io/thu-phi/chuong-111/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_112_Hoan_tình.json",
+    "chapter_name": "Chương 112: Hoan tình",
+    "url": "https://truyenfull.io/thu-phi/chuong-112/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_113_Hoàng_tước_rình_phía_sau.json",
+    "chapter_name": "Chương 113: Hoàng tước rình phía sau",
+    "url": "https://truyenfull.io/thu-phi/chuong-113/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_114_Thánh_nữ_cung.json",
+    "chapter_name": "Chương 114: Thánh nữ cung",
+    "url": "https://truyenfull.io/thu-phi/chuong-114/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_115_Xông_vào_cửa_ải.json",
+    "chapter_name": "Chương 115: Xông vào cửa ải",
+    "url": "https://truyenfull.io/thu-phi/chuong-115/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_116_Hoa_sen_nơi_ngục_lửa.json",
+    "chapter_name": "Chương 116: Hoa sen nơi ngục lửa",
+    "url": "https://truyenfull.io/thu-phi/chuong-116/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_117_Độc.json",
+    "chapter_name": "Chương 117: Độc",
+    "url": "https://truyenfull.io/thu-phi/chuong-117/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_118_Trúng_độc.json",
+    "chapter_name": "Chương 118: Trúng độc",
+    "url": "https://truyenfull.io/thu-phi/chuong-118/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_119_Chàng_trai_áo_bào_trắng.json",
+    "chapter_name": "Chương 119: Chàng trai áo bào trắng",
+    "url": "https://truyenfull.io/thu-phi/chuong-119/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_120_Vị_hôn_phu.json",
+    "chapter_name": "Chương 120: Vị hôn phu",
+    "url": "https://truyenfull.io/thu-phi/chuong-120/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_121_Thánh_tử_Nam_Vực.json",
+    "chapter_name": "Chương 121: Thánh tử Nam Vực",
+    "url": "https://truyenfull.io/thu-phi/chuong-121/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_122_Ngả_bài.json",
+    "chapter_name": "Chương 122: Ngả bài",
+    "url": "https://truyenfull.io/thu-phi/chuong-122/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_123_Lời_đồn_thổi_nổi_lên_khắp_bốn_phía.json",
+    "chapter_name": "Chương 123: Lời đồn thổi nổi lên khắp bốn phía",
+    "url": "https://truyenfull.io/thu-phi/chuong-123/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_124_Giữa_đường_gặp_nạn.json",
+    "chapter_name": "Chương 124: Giữa đường gặp nạn",
+    "url": "https://truyenfull.io/thu-phi/chuong-124/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_125_Ai_là_chim_sẻ.json",
+    "chapter_name": "Chương 125: Ai là chim sẻ?",
+    "url": "https://truyenfull.io/thu-phi/chuong-125/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_126_Truy_kích_và_tiêu_diệt.json",
+    "chapter_name": "Chương 126: Truy kích và tiêu diệt",
+    "url": "https://truyenfull.io/thu-phi/chuong-126/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_127_Rơi_xuống_vực.json",
+    "chapter_name": "Chương 127: Rơi xuống vực",
+    "url": "https://truyenfull.io/thu-phi/chuong-127/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_128_Tình_và_địch.json",
+    "chapter_name": "Chương 128: Tình và địch",
+    "url": "https://truyenfull.io/thu-phi/chuong-128/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_129_Tương_kế_tựu_kế.json",
+    "chapter_name": "Chương 129: Tương kế tựu kế",
+    "url": "https://truyenfull.io/thu-phi/chuong-129/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_130_Rút_củi_dưới_đáy_nồi.json",
+    "chapter_name": "Chương 130: Rút củi dưới đáy nồi",
+    "url": "https://truyenfull.io/thu-phi/chuong-130/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_131_Ngậm_bồ_hòn.json",
+    "chapter_name": "Chương 131: Ngậm bồ hòn",
+    "url": "https://truyenfull.io/thu-phi/chuong-131/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_132_Mang_thai.json",
+    "chapter_name": "Chương 132: Mang thai",
+    "url": "https://truyenfull.io/thu-phi/chuong-132/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_133_Chuyện_xấu.json",
+    "chapter_name": "Chương 133: Chuyện xấu",
+    "url": "https://truyenfull.io/thu-phi/chuong-133/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_134_Họa_phúc_cùng_chia.json",
+    "chapter_name": "Chương 134: Họa phúc cùng chia",
+    "url": "https://truyenfull.io/thu-phi/chuong-134/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_135_Vân_Khinh_gia_nhập_quân_đội.json",
+    "chapter_name": "Chương 135: Vân Khinh gia nhập quân đội",
+    "url": "https://truyenfull.io/thu-phi/chuong-135/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_136_Mồi_nhử.json",
+    "chapter_name": "Chương 136: Mồi nhử",
+    "url": "https://truyenfull.io/thu-phi/chuong-136/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_137_Bắt_đầu_xưng_bá.json",
+    "chapter_name": "Chương 137: Bắt đầu xưng bá",
+    "url": "https://truyenfull.io/thu-phi/chuong-137/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_138_Báo_thù.json",
+    "chapter_name": "Chương 138: Báo thù",
+    "url": "https://truyenfull.io/thu-phi/chuong-138/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_139_Độc_Cô_Tuyệt_đến.json",
+    "chapter_name": "Chương 139: Độc Cô Tuyệt đến",
+    "url": "https://truyenfull.io/thu-phi/chuong-139/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_140_Tay_nắm_chặt_tay.json",
+    "chapter_name": "Chương 140: Tay nắm chặt tay",
+    "url": "https://truyenfull.io/thu-phi/chuong-140/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_141_Là_phúc_hay_họa.json",
+    "chapter_name": "Chương 141: Là phúc hay họa",
+    "url": "https://truyenfull.io/thu-phi/chuong-141/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_142_Mưu_tính_cả_thiên_hạ.json",
+    "chapter_name": "Chương 142: Mưu tính cả thiên hạ",
+    "url": "https://truyenfull.io/thu-phi/chuong-142/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_143_Ấm_áp.json",
+    "chapter_name": "Chương 143: Ấm áp",
+    "url": "https://truyenfull.io/thu-phi/chuong-143/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_144_Nam_Vực_vương.json",
+    "chapter_name": "Chương 144: Nam Vực vương",
+    "url": "https://truyenfull.io/thu-phi/chuong-144/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_145_Gặp_lại.json",
+    "chapter_name": "Chương 145: Gặp lại",
+    "url": "https://truyenfull.io/thu-phi/chuong-145/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_146_Mất_tích.json",
+    "chapter_name": "Chương 146: Mất tích",
+    "url": "https://truyenfull.io/thu-phi/chuong-146/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_147_Giành_vợ.json",
+    "chapter_name": "Chương 147: Giành vợ",
+    "url": "https://truyenfull.io/thu-phi/chuong-147/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_148_Sinh_con.json",
+    "chapter_name": "Chương 148: Sinh con",
+    "url": "https://truyenfull.io/thu-phi/chuong-148/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_149_Giống_quái_dị.json",
+    "chapter_name": "Chương 149: Giống quái dị",
+    "url": "https://truyenfull.io/thu-phi/chuong-149/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_150_Thống_nhất_Nam_Vực.json",
+    "chapter_name": "Chương 150: Thống nhất Nam Vực",
+    "url": "https://truyenfull.io/thu-phi/chuong-150/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_151_Đứa_trẻ.json",
+    "chapter_name": "Chương 151: Đứa trẻ",
+    "url": "https://truyenfull.io/thu-phi/chuong-151/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_152_Trở_về.json",
+    "chapter_name": "Chương 152: Trở về",
+    "url": "https://truyenfull.io/thu-phi/chuong-152/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_153_Cha_của_Vân_Khinh.json",
+    "chapter_name": "Chương 153: Cha của Vân Khinh",
+    "url": "https://truyenfull.io/thu-phi/chuong-153/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_154_Cha_con_nhận_nhau.json",
+    "chapter_name": "Chương 154: Cha con nhận nhau",
+    "url": "https://truyenfull.io/thu-phi/chuong-154/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_155_Các_bảo_bối.json",
+    "chapter_name": "Chương 155: Các bảo bối",
+    "url": "https://truyenfull.io/thu-phi/chuong-155/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_156_Ức_hiếp.json",
+    "chapter_name": "Chương 156: Ức hiếp",
+    "url": "https://truyenfull.io/thu-phi/chuong-156/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_157_Bắt_đầu_bá_nghiệp.json",
+    "chapter_name": "Chương 157: Bắt đầu bá nghiệp",
+    "url": "https://truyenfull.io/thu-phi/chuong-157/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_158_Đêm_không_ngủ_yên.json",
+    "chapter_name": "Chương 158: Đêm không ngủ yên",
+    "url": "https://truyenfull.io/thu-phi/chuong-158/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_159_Nữ_vương_Hàn_quốc.json",
+    "chapter_name": "Chương 159: Nữ vương Hàn quốc",
+    "url": "https://truyenfull.io/thu-phi/chuong-159/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_160_Thỏ_khôn_có_ba_ngách.json",
+    "chapter_name": "Chương 160: Thỏ khôn có ba ngách",
+    "url": "https://truyenfull.io/thu-phi/chuong-160/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_161_Ai_mưu_tính_ai.json",
+    "chapter_name": "Chương 161: Ai mưu tính ai?",
+    "url": "https://truyenfull.io/thu-phi/chuong-161/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_162_Gió_mây_chuyển_dời.json",
+    "chapter_name": "Chương 162: Gió mây chuyển dời",
+    "url": "https://truyenfull.io/thu-phi/chuong-162/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_163_Con_trai.json",
+    "chapter_name": "Chương 163: Con trai",
+    "url": "https://truyenfull.io/thu-phi/chuong-163/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_164_Đồng_loạt_quay_mũi_giáo_tấn_công.json",
+    "chapter_name": "Chương 164: Đồng loạt quay mũi giáo tấn công",
+    "url": "https://truyenfull.io/thu-phi/chuong-164/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_165_Giằng_co.json",
+    "chapter_name": "Chương 165: Giằng co",
+    "url": "https://truyenfull.io/thu-phi/chuong-165/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_166_Chúng_bạn_xa_lánh.json",
+    "chapter_name": "Chương 166: Chúng bạn xa lánh",
+    "url": "https://truyenfull.io/thu-phi/chuong-166/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_167_Bỏ_trốn_mất_dạng.json",
+    "chapter_name": "Chương 167: Bỏ trốn mất dạng",
+    "url": "https://truyenfull.io/thu-phi/chuong-167/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_168_Diệt_Yến_Triệu.json",
+    "chapter_name": "Chương 168: Diệt Yến, Triệu",
+    "url": "https://truyenfull.io/thu-phi/chuong-168/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_169_Trận_chiến_cuối_cùng.json",
+    "chapter_name": "Chương 169: Trận chiến cuối cùng",
+    "url": "https://truyenfull.io/thu-phi/chuong-169/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_170_Tề_cùng_đường_Phần_đầu.json",
+    "chapter_name": "Chương 170: Tề cùng đường – Phần đầu",
+    "url": "https://truyenfull.io/thu-phi/chuong-170/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_171_Tề_cùng_đường_Phần_cuối.json",
+    "chapter_name": "Chương 171: Tề cùng đường – Phần cuối",
+    "url": "https://truyenfull.io/thu-phi/chuong-171/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_172_Sở_diệt_vong.json",
+    "chapter_name": "Chương 172: Sở diệt vong",
+    "url": "https://truyenfull.io/thu-phi/chuong-172/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_173_Xưng_Đế.json",
+    "chapter_name": "Chương 173: Xưng Đế",
+    "url": "https://truyenfull.io/thu-phi/chuong-173/"
+  },
+  {
+    "path": "data/Thú_Phi/Chương_174_Đại_kết_cục.json",
+    "chapter_name": "Chương 174: Đại kết cục",
+    "url": "https://truyenfull.io/thu-phi/chuong-174/"
+  }
+]
