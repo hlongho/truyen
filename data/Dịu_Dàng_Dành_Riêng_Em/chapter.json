@@ -1,0 +1,392 @@
+[
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_1_Tôi_là_diễn_viên.json",
+    "chapter_name": "Chương 1: Tôi là diễn viên",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-1/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_2_Đối_thủ_một_mất_một_còn.json",
+    "chapter_name": "Chương 2: Đối thủ một mất một còn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-2/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_3_Tương_phùng.json",
+    "chapter_name": "Chương 3: Tương phùng",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-3/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_4_Lần_đầu_quay_phim.json",
+    "chapter_name": "Chương 4: Lần đầu quay phim",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-4/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_5_Nữ_diễn_viên_kiêm_sinh_viên_ưu_tú.json",
+    "chapter_name": "Chương 5: Nữ diễn viên kiêm sinh viên ưu tú",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-5/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_6_Có_thể_rất_mờ_ám.json",
+    "chapter_name": "Chương 6: Có thể rất mờ ám",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-6/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_7_Rốt_cuộc_em_lại_có_thể_đến_bên_anh_rồi.json",
+    "chapter_name": "Chương 7: Rốt cuộc em lại có thể đến bên anh rồi",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-7/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_8_Ngôi_sao_sáng_của_giới_nghệ_sĩ.json",
+    "chapter_name": "Chương 8: Ngôi sao sáng của giới nghệ sĩ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-8/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_9_Lần_đầu_mắc_lỗi.json",
+    "chapter_name": "Chương 9: Lần đầu mắc lỗi",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-9/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_10_Gặp_được_anh_lúc_đau_lòng_nhất.json",
+    "chapter_name": "Chương 10: Gặp được anh lúc đau lòng nhất",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-10/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_11_Diễn_trong_nước.json",
+    "chapter_name": "Chương 11: Diễn trong nước",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-11/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_12_Nơi_ở_của_ảnh_đế.json",
+    "chapter_name": "Chương 12: Nơi ở của ảnh đế",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-12/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_13_Bên_nhau_giữa_đêm_khuya.json",
+    "chapter_name": "Chương 13: Bên nhau giữa đêm khuya",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-13/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_14_Buổi_sáng_của_hai_người.json",
+    "chapter_name": "Chương 14: Buổi sáng của hai người",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-14/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_15_Tiệc_đóng_máy.json",
+    "chapter_name": "Chương 15: Tiệc đóng máy",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-15/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_16_Cưỡng_hôn_ảnh_đế.json",
+    "chapter_name": "Chương 16: Cưỡng hôn ảnh đế",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-16/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_17_Thử_vai_gặp_người_quen.json",
+    "chapter_name": "Chương 17: Thử vai gặp người quen",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-17/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_18_Sự_giúp_đỡ_của_anh.json",
+    "chapter_name": "Chương 18: Sự giúp đỡ của anh",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-18/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_19_Scandal_tới_tấp.json",
+    "chapter_name": "Chương 19: Scandal tới tấp",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-19/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_20_Đến_thăm.json",
+    "chapter_name": "Chương 20: Đến thăm",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-20/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_21_Ảnh_đế_và_nghệ_sĩ_hạng_ba.json",
+    "chapter_name": "Chương 21: Ảnh đế và nghệ sĩ hạng ba",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-21/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_22_Đẹp_không_gì_sánh_nổi.json",
+    "chapter_name": "Chương 22: Đẹp không gì sánh nổi",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-22/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_23_Cùng_khiêu_vũ.json",
+    "chapter_name": "Chương 23: Cùng khiêu vũ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-23/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_24_Anh_nhận_ra_cô.json",
+    "chapter_name": "Chương 24: Anh nhận ra cô",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-24/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_25_Ngụy_trang_kín_mít.json",
+    "chapter_name": "Chương 25: Ngụy trang kín mít",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-25/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_26_Người_yêu_người_ghét.json",
+    "chapter_name": "Chương 26: Người yêu, người ghét",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-26/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_27_Cảnh_hôn.json",
+    "chapter_name": "Chương 27: Cảnh hôn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-27/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_28_Khóa_học_của_ảnh_đế.json",
+    "chapter_name": "Chương 28: Khóa học của ảnh đế",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-28/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_29_Thẳng_thắn.json",
+    "chapter_name": "Chương 29: Thẳng thắn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-29/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_30_Bị_thương_trên_phim_trường.json",
+    "chapter_name": "Chương 30: Bị thương trên phim trường",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-30/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_31_Xuất_hiện_giữa_đêm_khuya.json",
+    "chapter_name": "Chương 31: Xuất hiện giữa đêm khuya",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-31/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_32_Tin_giật_gân.json",
+    "chapter_name": "Chương 32: Tin giật gân",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-32/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_33_Làm_sáng_tỏ.json",
+    "chapter_name": "Chương 33: Làm sáng tỏ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-33/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_34_Giải_quyết.json",
+    "chapter_name": "Chương 34: Giải quyết",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-34/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_35_Trêu_đùa.json",
+    "chapter_name": "Chương 35: Trêu đùa",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-35/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_36_Nhớ_tránh_thai.json",
+    "chapter_name": "Chương 36: Nhớ tránh thai",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-36/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_37_Buổi_công_chiếu_1.json",
+    "chapter_name": "Chương 37: Buổi công chiếu (1)",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-37/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_38_Buổi_công_chiếu_2.json",
+    "chapter_name": "Chương 38: Buổi công chiếu (2)",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-38/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_39_Đa_tài.json",
+    "chapter_name": "Chương 39: Đa tài",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-39/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_40_Không_dừng_lại_được.json",
+    "chapter_name": "Chương 40: Không dừng lại được",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-40/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_41_Lạm_quyền_làm_việc_riêng.json",
+    "chapter_name": "Chương 41: Lạm quyền làm việc riêng",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-41/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_42_Chụp_ảnh_quảng_cáo.json",
+    "chapter_name": "Chương 42: Chụp ảnh quảng cáo",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-42/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_43_Weibo_của_ảnh_đế.json",
+    "chapter_name": "Chương 43: Weibo của ảnh đế",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-43/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_44_Vai_nữ_phụ_xuất_sắc_nhất.json",
+    "chapter_name": "Chương 44: Vai nữ phụ xuất sắc nhất",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-44/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_45_Selfie.json",
+    "chapter_name": "Chương 45: Selfie",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-45/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_46_Hầu_rượu.json",
+    "chapter_name": "Chương 46: Hầu rượu",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-46/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_47_Gặp_chuyện_bất_bình.json",
+    "chapter_name": "Chương 47: Gặp chuyện bất bình",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-47/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_48_Tin_tức_xấu.json",
+    "chapter_name": "Chương 48: Tin tức xấu",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-48/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_49_Con_của_người_nổi_tiếng.json",
+    "chapter_name": "Chương 49: Con của người nổi tiếng",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-49/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_50_Fan_hâm_mộ.json",
+    "chapter_name": "Chương 50: Fan hâm mộ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-50/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_51_Cuộc_gọi_bất_ngờ.json",
+    "chapter_name": "Chương 51: Cuộc gọi bất ngờ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-51/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_52_Tuyển_chọn.json",
+    "chapter_name": "Chương 52: Tuyển chọn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-52/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_53_Nhập_đoàn.json",
+    "chapter_name": "Chương 53: Nhập đoàn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-53/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_54_Cảnh_quay_kinh_điển.json",
+    "chapter_name": "Chương 54: Cảnh quay kinh điển",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-54/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_55_Tiệc_từ_thiện.json",
+    "chapter_name": "Chương 55: Tiệc từ thiện",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-55/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_56_Nhận_sai_người.json",
+    "chapter_name": "Chương 56: Nhận sai người",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-56/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_57_Sai_lầm_liên_tiếp.json",
+    "chapter_name": "Chương 57: Sai lầm liên tiếp",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-57/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_58_Cô_ấy_đâu.json",
+    "chapter_name": "Chương 58: Cô ấy đâu?",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-58/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_59_Hi_sinh.json",
+    "chapter_name": "Chương 59: Hi sinh",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-59/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_60_Phát_hiện_bất_ngờ.json",
+    "chapter_name": "Chương 60: Phát hiện bất ngờ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-60/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_61_Lựa_chọn.json",
+    "chapter_name": "Chương 61: Lựa chọn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-61/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_62_Ca_khúc_chủ_đề.json",
+    "chapter_name": "Chương 62: Ca khúc chủ đề",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-62/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_63_Phân_biệt.json",
+    "chapter_name": "Chương 63: Phân biệt",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-63/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_64_Fan_não_tàn.json",
+    "chapter_name": "Chương 64: Fan não tàn",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-64/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_65_Phụ_huynh_tới_chơi.json",
+    "chapter_name": "Chương 65: Phụ huynh tới chơi",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-65/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_66_Mẹ_vợ.json",
+    "chapter_name": "Chương 66: Mẹ vợ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-66/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_67_Phù_dâu_phù_rể.json",
+    "chapter_name": "Chương 67: Phù dâu, phù rể",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-67/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_68_Đi_học_cùng.json",
+    "chapter_name": "Chương 68: Đi học cùng",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-68/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_69_Tình_yêu_công_khai.json",
+    "chapter_name": "Chương 69: Tình yêu công khai",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-69/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_70_Weibo_bùng_nổ.json",
+    "chapter_name": "Chương 70: Weibo bùng nổ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-70/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_71_Cô_ấy_đang_xấu_hổ.json",
+    "chapter_name": "Chương 71: Cô ấy đang xấu hổ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-71/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_72_Thị_hậu.json",
+    "chapter_name": "Chương 72: Thị hậu*",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-72/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_73_Niềm_vui_bất_ngờ.json",
+    "chapter_name": "Chương 73: Niềm vui bất ngờ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-73/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_74_Kết_thúc.json",
+    "chapter_name": "Chương 74: Kết thúc",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-74/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_75_Ngoại_truyện_1_Anh_em_Khuynh_Mộ.json",
+    "chapter_name": "Chương 75: Ngoại truyện 1: Anh em Khuynh Mộ",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-75/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_76_Ngoại_truyện_2_Anh_em_Khuynh_Mộ_2.json",
+    "chapter_name": "Chương 76: Ngoại truyện 2: Anh em Khuynh Mộ (2)",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-76/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_77_Ngoại_truyện_3_Nam_có_giai_nhân.json",
+    "chapter_name": "Chương 77: Ngoại truyện 3: Nam có giai nhân",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-77/"
+  },
+  {
+    "path": "data/Dịu_Dàng_Dành_Riêng_Em/Chương_78_Ngoại_truyện_4_Nam_có_giai_nhân_2.json",
+    "chapter_name": "Chương 78: Ngoại truyện 4 - Nam có giai nhân (2)",
+    "url": "https://truyenfull.io/diu-dang-danh-rieng-em/chuong-78/"
+  }
+]
