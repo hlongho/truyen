@@ -1,0 +1,1862 @@
+[
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_1_1_Tự.json",
+    "chapter_name": "Chương 1: 1: Tự",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-1/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_2_2_Nho_Chín_Rồi.json",
+    "chapter_name": "Chương 2: 2: Nho Chín Rồi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-2/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_3_3_Quên.json",
+    "chapter_name": "Chương 3: 3: Quên",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-3/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_4_4_Giọng_Nói.json",
+    "chapter_name": "Chương 4: 4: Giọng Nói",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-4/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_5_5_Anh_Rể.json",
+    "chapter_name": "Chương 5: 5: Anh Rể",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-5/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_67_6_Trách_Nhiệm_7_Yên_Bình.json",
+    "chapter_name": "Chương 6-7: 6: Trách Nhiệm - 7: Yên Bình",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-6-7/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_8_8_Quỹ_Đạo_Của_Cuộc_Sống.json",
+    "chapter_name": "Chương 8: 8: Quỹ Đạo Của Cuộc Sống",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-8/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_9_9_Nợ.json",
+    "chapter_name": "Chương 9: 9: Nợ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-9/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_10_10_Trực_Giác.json",
+    "chapter_name": "Chương 10: 10: Trực Giác",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-10/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_11_11_Ngốc.json",
+    "chapter_name": "Chương 11: 11: Ngốc",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-11/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_12_12_Như_Lần_Đầu_Gặp_Gỡ.json",
+    "chapter_name": "Chương 12: 12: Như Lần Đầu Gặp Gỡ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-12/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_13_13_Bánh_Kem.json",
+    "chapter_name": "Chương 13: 13: Bánh Kem",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-13/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_14_14_Đào_Lỗ.json",
+    "chapter_name": "Chương 14: 14: Đào Lỗ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-14/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_15_15_Không_Ngờ.json",
+    "chapter_name": "Chương 15: 15: Không Ngờ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-15/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_16_16_Kiêu_Hãnh.json",
+    "chapter_name": "Chương 16: 16: Kiêu Hãnh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-16/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_17_Chương_17.json",
+    "chapter_name": "Chương 17: Chương 17",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-17/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_18_18_Trưởng_Thành.json",
+    "chapter_name": "Chương 18: 18: Trưởng Thành",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-18/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_19_19_Sơ_Tâm.json",
+    "chapter_name": "Chương 19: 19: Sơ Tâm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-19/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_20_20_Tôi_Cõng_Em.json",
+    "chapter_name": "Chương 20: 20: Tôi Cõng Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-20/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_21_21_Thầy_Ninh_Ngày_Mai_Gặp.json",
+    "chapter_name": "Chương 21: 21: Thầy Ninh Ngày Mai Gặp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-21/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_22_22_Ninh_Tưởng.json",
+    "chapter_name": "Chương 22: 22: Ninh Tưởng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-22/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_23_23_Gặp_Gỡ_1.json",
+    "chapter_name": "Chương 23: 23: Gặp Gỡ 1",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-23/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_24_24_Gặp_Gỡ_2.json",
+    "chapter_name": "Chương 24: 24: Gặp Gỡ 2",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-24/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_25_25_Because_I_Love_You.json",
+    "chapter_name": "Chương 25: 25: Because I Love You",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-25/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_26_Chương_26.json",
+    "chapter_name": "Chương 26: Chương 26",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-26/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_27_27_Bí_Mật.json",
+    "chapter_name": "Chương 27: 27: Bí Mật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-27/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_28_28_Biến_Cố.json",
+    "chapter_name": "Chương 28: 28: Biến Cố",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-28/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_29_29_Biến_Cố_2.json",
+    "chapter_name": "Chương 29: 29: Biến Cố 2",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-29/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_30_30_Bờ_Hồ.json",
+    "chapter_name": "Chương 30: 30: Bờ Hồ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-30/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_31_Chương_31.json",
+    "chapter_name": "Chương 31: Chương 31",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-31/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_32_32_Quyết_Định.json",
+    "chapter_name": "Chương 32: 32: Quyết Định",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-32/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_33_33_Con_Thích_Anh_Ấy.json",
+    "chapter_name": "Chương 33: 33: Con Thích Anh Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-33/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_34_34_Phim.json",
+    "chapter_name": "Chương 34: 34: Phim",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-34/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_35_35_Không_Phải_Là_Mơ.json",
+    "chapter_name": "Chương 35: 35: Không Phải Là Mơ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-35/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_36_36_Sinh_Nhật.json",
+    "chapter_name": "Chương 36: 36: Sinh Nhật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-36/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_37_37_Trách_Nhiệm.json",
+    "chapter_name": "Chương 37: 37: Trách Nhiệm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-37/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_38_38_Cầu_Nguyện.json",
+    "chapter_name": "Chương 38: 38: Cầu Nguyện",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-38/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_39_39_Ly_Biệt.json",
+    "chapter_name": "Chương 39: 39: Ly Biệt",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-39/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_40_40_Thất_Vọng.json",
+    "chapter_name": "Chương 40: 40: Thất Vọng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-40/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_41_41_Cuộc_Sống_Của_Người_Máy.json",
+    "chapter_name": "Chương 41: 41: Cuộc Sống Của Người Máy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-41/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_42_42_I_Do.json",
+    "chapter_name": "Chương 42: 42: I Do",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-42/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_43_43_Trở_Về.json",
+    "chapter_name": "Chương 43: 43: Trở Về",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-43/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_44_44_Mắc_Nợ.json",
+    "chapter_name": "Chương 44: 44: Mắc Nợ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-44/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_45_45_Xin_Lỗi.json",
+    "chapter_name": "Chương 45: 45: Xin Lỗi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-45/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_46_46_Không_Phải_Người_Bình_Thường.json",
+    "chapter_name": "Chương 46: 46: Không Phải Người Bình Thường",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-46/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_47_47_Bức_Tranh.json",
+    "chapter_name": "Chương 47: 47: Bức Tranh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-47/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_48_48_Cô_Là_Mẹ_Con_Sao.json",
+    "chapter_name": "Chương 48: 48: Cô Là Mẹ Con Sao",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-48/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_49_49_Lão_Sư_Lão_Công.json",
+    "chapter_name": "Chương 49: 49: Lão Sư - Lão Công",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-49/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_50_50_Lãng_Quên.json",
+    "chapter_name": "Chương 50: 50: Lãng Quên",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-50/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_51_51_Tiểu_Ninh.json",
+    "chapter_name": "Chương 51: 51: Tiểu Ninh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-51/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_52_52_Tay_Sai.json",
+    "chapter_name": "Chương 52: 52: Tay Sai",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-52/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_53_53_Có_Lỗi.json",
+    "chapter_name": "Chương 53: 53: Có Lỗi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-53/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_54_54_Đề_Tài.json",
+    "chapter_name": "Chương 54: 54: Đề Tài",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-54/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_55_55_Khó_Khăn.json",
+    "chapter_name": "Chương 55: 55: Khó Khăn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-55/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_56_56_Dự_Định_Làm_Gì.json",
+    "chapter_name": "Chương 56: 56: Dự Định Làm Gì",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-56/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_57_57_Sẽ_Không_Ở_Bên_Nhau_1.json",
+    "chapter_name": "Chương 57: 57: Sẽ Không Ở Bên Nhau 1",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-57/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_58_58_Sẽ_Không_Ở_Bên_Nhau_2.json",
+    "chapter_name": "Chương 58: 58: Sẽ Không Ở Bên Nhau 2",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-58/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_59_59_Cái_Tát.json",
+    "chapter_name": "Chương 59: 59: Cái Tát",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-59/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_60_60_Hỗn_Loạn.json",
+    "chapter_name": "Chương 60: 60: Hỗn Loạn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-60/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_61_61_Giúp_Anh.json",
+    "chapter_name": "Chương 61: 61: Giúp Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-61/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_62_62_Công_Đạo.json",
+    "chapter_name": "Chương 62: 62: Công Đạo",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-62/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_63_63_Mùi_Của_Anh.json",
+    "chapter_name": "Chương 63: 63: Mùi Của Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-63/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_64_64_Anh_Ấy_Là_Chồng_Cô_Ấy.json",
+    "chapter_name": "Chương 64: 64: Anh Ấy Là Chồng Cô Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-64/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_65_65_Anh_Ấy_Không_Phải_Là_Đồ_Vật.json",
+    "chapter_name": "Chương 65: 65: Anh Ấy Không Phải Là Đồ Vật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-65/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_66_66_Mẹ_Mẹ_Là_Món_Quà_Bố_Tặng_Con_Sao.json",
+    "chapter_name": "Chương 66: 66: Mẹ Mẹ Là Món Quà Bố Tặng Con Sao",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-66/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_67_67_Cảnh_Còn_Người_Mất.json",
+    "chapter_name": "Chương 67: 67: Cảnh Còn Người Mất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-67/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_68_68_Được_Và_Mất.json",
+    "chapter_name": "Chương 68: 68: Được Và Mất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-68/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_69_69_Phát_Tán_Lên_Mạng.json",
+    "chapter_name": "Chương 69: 69: Phát Tán Lên Mạng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-69/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_70_70_Có_Một_Loại_Sai_Lầm.json",
+    "chapter_name": "Chương 70: 70: Có Một Loại Sai Lầm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-70/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_71_71_Tôi_Đến_Gánh.json",
+    "chapter_name": "Chương 71: 71: Tôi Đến Gánh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-71/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_72_72_Anh_Thật_Sự_Tốt_Như_Vậy.json",
+    "chapter_name": "Chương 72: 72: Anh Thật Sự Tốt Như Vậy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-72/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_73_73_Có_Phải_Rất_Khổ_Không.json",
+    "chapter_name": "Chương 73: 73: Có Phải Rất Khổ Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-73/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_74_74_Con_Người_Đều_Sẽ_Thay_Đổi.json",
+    "chapter_name": "Chương 74: 74: Con Người Đều Sẽ Thay Đổi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-74/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_75_75_May_Là_Rơi_Ở_Chỗ_Tôi.json",
+    "chapter_name": "Chương 75: 75: May Là Rơi Ở Chỗ Tôi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-75/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_76_76_Lưu_Tranh_Đừng_Sợ_Tôi_Ở_Bên_Cạnh_Em.json",
+    "chapter_name": "Chương 76: 76: Lưu Tranh Đừng Sợ Tôi Ở Bên Cạnh Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-76/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_77_77_Sống_Cùng_Nhau_Lâu_Ngày_Cũng_Sẽ_Có_Tình_Cảm.json",
+    "chapter_name": "Chương 77: 77: Sống Cùng Nhau Lâu Ngày Cũng Sẽ Có Tình Cảm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-77/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_78_78_Đừng_Kéo_Chân_Anh_Ấy.json",
+    "chapter_name": "Chương 78: 78: Đừng Kéo Chân Anh Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-78/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_79_79_Dựa_Vào_Sức_Gió_Đưa_Em_Lên_Mây.json",
+    "chapter_name": "Chương 79: 79: Dựa Vào Sức Gió Đưa Em Lên Mây",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-79/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_80_80_Nũng_Nịu_Giỏi_Lắm.json",
+    "chapter_name": "Chương 80: 80: Nũng Nịu Giỏi Lắm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-80/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_81_81_Em_Muốn_Ăn.json",
+    "chapter_name": "Chương 81: 81: Em Muốn Ăn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-81/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_82_82_Tôi_Cho_Là_Em_Biết.json",
+    "chapter_name": "Chương 82: 82: Tôi Cho Là Em Biết",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-82/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_83_83_Anh_Không_Phải_Người_Ấy_Của_Em.json",
+    "chapter_name": "Chương 83: 83: Anh Không Phải Người Ấy Của Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-83/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_84_84_Không_Nhớ_Nữa.json",
+    "chapter_name": "Chương 84: 84: Không Nhớ Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-84/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_85_85_Tìm_Mẹ_Cho_Ninh_Tưởng.json",
+    "chapter_name": "Chương 85: 85: Tìm Mẹ Cho Ninh Tưởng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-85/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_86_86_Em_Không_Đồng_Ý_À.json",
+    "chapter_name": "Chương 86: 86: Em Không Đồng Ý À",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-86/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_87_87_Bố_Trở_Nên_Ngoan_Ngoãn_Thì_Mẹ_Có_Tha_Thứ_Cho_Bố_Không.json",
+    "chapter_name": "Chương 87: 87: Bố Trở Nên Ngoan Ngoãn Thì Mẹ Có Tha Thứ Cho Bố Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-87/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_88_88_Có_Một_Bí_Mật_Chỉ_Có_Tôi_Và_Em_Biết.json",
+    "chapter_name": "Chương 88: 88: Có Một Bí Mật Chỉ Có Tôi Và Em Biết",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-88/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_89_89_Tính_Khí_Của_Bác_Sĩ_Ninh.json",
+    "chapter_name": "Chương 89: 89: Tính Khí Của Bác Sĩ Ninh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-89/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_90_90_Quả_Thực_Là_Em_Nợ_Anh.json",
+    "chapter_name": "Chương 90: 90: Quả Thực Là Em Nợ Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-90/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_91_91_Cũng_Không_Có_Khác_Biệt.json",
+    "chapter_name": "Chương 91: 91: Cũng Không Có Khác Biệt",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-91/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_92_92_Tôi_Biết_Em_Đang_Đợi_Tôi_Khen_Em.json",
+    "chapter_name": "Chương 92: 92: Tôi Biết Em Đang Đợi Tôi Khen Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-92/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_93_93_Đừng_Đi_Mãi_Đi_Mãi_Rồi_Không_Thấy_Tăm_Hơi_Nữa.json",
+    "chapter_name": "Chương 93: 93: Đừng Đi Mãi Đi Mãi Rồi Không Thấy Tăm Hơi Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-93/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_94_94_Bác_Sĩ_Nguyễn_Em_Cũng_Đừng_Đi.json",
+    "chapter_name": "Chương 94: 94: Bác Sĩ Nguyễn Em Cũng Đừng Đi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-94/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_95_95_Cuối_Cùng_Tối_Qua_Em_Đã_Nói_Gì.json",
+    "chapter_name": "Chương 95: 95: Cuối Cùng Tối Qua Em Đã Nói Gì",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-95/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_96_96_Lưu_Tranh_Đừng_Làm_Nũng.json",
+    "chapter_name": "Chương 96: 96: Lưu Tranh Đừng Làm Nũng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-96/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_97_97_Anh_Là_Lang_Băm.json",
+    "chapter_name": "Chương 97: 97: Anh Là Lang Băm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-97/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_98_98_Chăm_Sóc_Em_Đã_Thành_Thói_Quen_Của_Tôi.json",
+    "chapter_name": "Chương 98: 98: Chăm Sóc Em Đã Thành Thói Quen Của Tôi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-98/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_99_99_Giống_Như_Người_Thân.json",
+    "chapter_name": "Chương 99: 99: Giống Như Người Thân",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-99/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_100_100_Lại_Là_Một_Năm_Mùa_Lá_Rụng.json",
+    "chapter_name": "Chương 100: 100: Lại Là Một Năm Mùa Lá Rụng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-100/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_101_101_Cô_Ấy_Có_Khỏe_Không.json",
+    "chapter_name": "Chương 101: 101: Cô Ấy Có Khỏe Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-101/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_102_102_Lưu_Tranh_Tôi_Là_Người_Nhỏ_Mọn.json",
+    "chapter_name": "Chương 102: 102: Lưu Tranh Tôi Là Người Nhỏ Mọn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-102/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_103_103_Sẽ_Đền_Em.json",
+    "chapter_name": "Chương 103: 103: Sẽ Đền Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-103/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_104_104_Học_Trưởng_Ninh.json",
+    "chapter_name": "Chương 104: 104: Học Trưởng Ninh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-104/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_105_105_Không_Phải_Đang_Đợi.json",
+    "chapter_name": "Chương 105: 105: Không Phải Đang Đợi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-105/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_106_106_Viết_Thư_Cho_Ông_Già_Nôen.json",
+    "chapter_name": "Chương 106: 106: Viết Thư Cho Ông Già Nô-en",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-106/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_107_107_Anh_Đẹp_Trai_Anh_Có_Quyền.json",
+    "chapter_name": "Chương 107: 107: Anh Đẹp Trai Anh Có Quyền!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-107/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_108_108_Đem_Anh_Biến_Thành_Thi_Thể_Nam_Trước.json",
+    "chapter_name": "Chương 108: 108: Đem Anh Biến Thành Thi Thể Nam Trước!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-108/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_109_109_Đừng_Tùy_Tiện_Gọi_Người_Khác_Là_Mẹ.json",
+    "chapter_name": "Chương 109: 109: Đừng Tùy Tiện Gọi Người Khác Là Mẹ!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-109/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_110_110_Quyết_Đấu.json",
+    "chapter_name": "Chương 110: 110: Quyết Đấu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-110/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_111_111_Sau_Này_Đừng_Đi_Xem_Mặt_Nữa.json",
+    "chapter_name": "Chương 111: 111: Sau Này Đừng Đi Xem Mặt Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-111/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_112_112_Em_Là_Tốt_Nhất_Không_Ai_Xứng_Với_Em.json",
+    "chapter_name": "Chương 112: 112: Em Là Tốt Nhất Không Ai Xứng Với Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-112/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_113_113_Một_Ly_Chocolate_Nóng.json",
+    "chapter_name": "Chương 113: 113: Một Ly Chocolate Nóng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-113/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_114_114_Trọn_Đời_Trọn_Kiếp.json",
+    "chapter_name": "Chương 114: 114: Trọn Đời Trọn Kiếp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-114/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_115_115_Gió_Tuyết.json",
+    "chapter_name": "Chương 115: 115: Gió Tuyết",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-115/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_116_116_Bị_Oan.json",
+    "chapter_name": "Chương 116: 116: Bị Oan",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-116/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_117_117_Chân_Tướng.json",
+    "chapter_name": "Chương 117: 117: Chân Tướng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-117/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_118_118_Chân_Tướng_2.json",
+    "chapter_name": "Chương 118: 118: Chân Tướng 2",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-118/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_119_119_Xin_Lỗi.json",
+    "chapter_name": "Chương 119: 119: Xin Lỗi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-119/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_120_120_Em_Không_Nói_Đùa.json",
+    "chapter_name": "Chương 120: 120: Em Không Nói Đùa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-120/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_121_121_Hiểu_Lầm.json",
+    "chapter_name": "Chương 121: 121: Hiểu Lầm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-121/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_122_122_Tây_Thi_Và_Phạm_Lãi.json",
+    "chapter_name": "Chương 122: 122: Tây Thi Và Phạm Lãi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-122/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_123_123_Đi_Cùng_Anh.json",
+    "chapter_name": "Chương 123: 123: Đi Cùng Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-123/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_124_124_Tìm_Một_Người_Chăm_Sóc_Anh.json",
+    "chapter_name": "Chương 124: 124: Tìm Một Người Chăm Sóc Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-124/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_125_125_Là_Con_Sắp_Lấy_Chồng.json",
+    "chapter_name": "Chương 125: 125: Là Con Sắp Lấy Chồng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-125/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_126_126_Mấy_Ngày_Mỗi_Tháng.json",
+    "chapter_name": "Chương 126: 126: Mấy Ngày Mỗi Tháng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-126/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_127_127_Không_Phải_Người_Giỏi_Nói_Dối.json",
+    "chapter_name": "Chương 127: 127: Không Phải Người Giỏi Nói Dối",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-127/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_128_128_Giao_Thừa.json",
+    "chapter_name": "Chương 128: 128: Giao Thừa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-128/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_129_129_Trước_Giờ_Không_Biết_Em_Còn_Một_Mặt_Như_Vậy.json",
+    "chapter_name": "Chương 129: 129: Trước Giờ Không Biết Em Còn Một Mặt Như Vậy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-129/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_130_130_Cuộc_Sống_Chỉ_Cần_Một_Bát_Mì_Nóng.json",
+    "chapter_name": "Chương 130: 130: Cuộc Sống Chỉ Cần Một Bát Mì Nóng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-130/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_131_131_Bệnh_Tương_Tư.json",
+    "chapter_name": "Chương 131: 131: Bệnh Tương Tư",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-131/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_132_132_Cả_Đời_Này_Chỉ_Sợ_Em_Không_Có_Cách_Nào_Yêu_Thêm_Người_Khác.json",
+    "chapter_name": "Chương 132: 132: Cả Đời Này Chỉ Sợ Em Không Có Cách Nào Yêu Thêm Người Khác",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-132/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_133_133_Trọn_Đời_Một_Người.json",
+    "chapter_name": "Chương 133: 133: Trọn Đời Một Người",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-133/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_134_134_Tôi_Phụ_Trách.json",
+    "chapter_name": "Chương 134: 134: Tôi Phụ Trách",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-134/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_135_135_Vinh_Nhục_Cùng_Hưởng.json",
+    "chapter_name": "Chương 135: 135: Vinh Nhục Cùng Hưởng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-135/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_136_136_Giống_Như_Trước_Đây.json",
+    "chapter_name": "Chương 136: 136: Giống Như Trước Đây",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-136/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_137_137_Người_Vợ_Cũ_Tốt_Nhất.json",
+    "chapter_name": "Chương 137: 137: Người Vợ Cũ Tốt Nhất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-137/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_138_138_Bố_Không_Phải_Một_Mình.json",
+    "chapter_name": "Chương 138: 138: Bố Không Phải Một Mình",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-138/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_139_139_Có_Người.json",
+    "chapter_name": "Chương 139: 139: Có Người",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-139/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_140_140_Máy_Mát_Xa.json",
+    "chapter_name": "Chương 140: 140: Máy Mát Xa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-140/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_141_141_Chỉ_Ba_Chúng_Ta_Thôi_Không_Cần_Người_Khác.json",
+    "chapter_name": "Chương 141: 141: Chỉ Ba Chúng Ta Thôi Không Cần Người Khác",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-141/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_142_142_Ấu_Trĩ.json",
+    "chapter_name": "Chương 142: 142: Ấu Trĩ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-142/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_143_143_Tôi_Vẫn_Vậy.json",
+    "chapter_name": "Chương 143: 143: Tôi Vẫn Vậy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-143/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_144_144_Ai_Nói_Thật.json",
+    "chapter_name": "Chương 144: 144: Ai Nói Thật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-144/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_145_145_Một_Đời_Dài_Bao_Nhiêu.json",
+    "chapter_name": "Chương 145: 145: Một Đời Dài Bao Nhiêu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-145/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_146_146_Sinh_Nhật_Vui_Vẻ.json",
+    "chapter_name": "Chương 146: 146: Sinh Nhật Vui Vẻ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-146/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_147_147_Luyến_Tiếc.json",
+    "chapter_name": "Chương 147: 147: Luyến Tiếc",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-147/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_148_148_Xin_Nghỉ.json",
+    "chapter_name": "Chương 148: 148: Xin Nghỉ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-148/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_149_149_Tự_Do_Hô_Hấp.json",
+    "chapter_name": "Chương 149: 149: Tự Do Hô Hấp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-149/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_150_150_Xin_Hãy_Yêu_Nó_Thật_Nhiều.json",
+    "chapter_name": "Chương 150: 150: Xin Hãy Yêu Nó Thật Nhiều",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-150/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_151_151_Có_Người_Tìm_Cô.json",
+    "chapter_name": "Chương 151: 151: Có Người Tìm Cô",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-151/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_152_152_Em_Trêu_Chọc_Hết_Người_Này_Đến_Người_Khác_Cho_Tôi.json",
+    "chapter_name": "Chương 152: 152: Em Trêu Chọc Hết Người Này Đến Người Khác Cho Tôi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-152/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_153_153_Anh_Ta_Tàn_Nhẫn_Nhất.json",
+    "chapter_name": "Chương 153: 153: Anh Ta Tàn Nhẫn Nhất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-153/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_154_154_Bị_Heo_Cắn.json",
+    "chapter_name": "Chương 154: 154: Bị Heo Cắn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-154/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_155_155_Ánh_Mắt_Chọn_Đàn_Ông_Của_Em_Thật_Đáng_Buồn.json",
+    "chapter_name": "Chương 155: 155: Ánh Mắt Chọn Đàn Ông Của Em Thật Đáng Buồn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-155/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_156_156_Vị_Chồng_Cũ_Này_Của_Em.json",
+    "chapter_name": "Chương 156: 156: Vị Chồng Cũ Này Của Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-156/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_157_157_Đàn_Ông_Là_Động_Vật_Rất_Bỉ_Ổi.json",
+    "chapter_name": "Chương 157: 157: Đàn Ông Là Động Vật Rất Bỉ Ổi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-157/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_158_158_Anh_Là_Bố_Em_Chắc.json",
+    "chapter_name": "Chương 158: 158: Anh Là Bố Em Chắc",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-158/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_159_159_Không_Ngờ_Anh_Lại_Là_Học_Trưởng_Ninh_Làm_Như_Thế.json",
+    "chapter_name": "Chương 159: 159: Không Ngờ Anh Lại Là Học Trưởng Ninh Làm Như Thế!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-159/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_160_160_Mạnh_Hơn_Anh.json",
+    "chapter_name": "Chương 160: 160: Mạnh Hơn Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-160/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_161_161_Khi_Nho_Chín_Tôi_Lại_Tới.json",
+    "chapter_name": "Chương 161: 161: Khi Nho Chín Tôi Lại Tới",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-161/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_162_162_Uổng_Công_Mấy_Đứa_Làm_Bạn_Tốt.json",
+    "chapter_name": "Chương 162: 162: Uổng Công Mấy Đứa Làm Bạn Tốt!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-162/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_163_163_Yêu_Là_Quyết_Tâm_Đi_Đến_Cuối_Đời.json",
+    "chapter_name": "Chương 163: 163: Yêu Là Quyết Tâm Đi Đến Cuối Đời",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-163/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_164_164_Lúc_Rời_Xa_Tôi_Em_Có_Buồn_Không.json",
+    "chapter_name": "Chương 164: 164: Lúc Rời Xa Tôi Em Có Buồn Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-164/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_165_165_Những_Người_Đã_Từng_Yêu_Đã_Từng_Hận_Đã_Từng_Nhung_Nhớ_Những_Chuyện_Không_Buông_Bỏ_Được.json",
+    "chapter_name": "Chương 165: 165: Những Người Đã Từng Yêu Đã Từng Hận Đã Từng Nhung Nhớ Những Chuyện Không Buông Bỏ Được",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-165/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_166_166_Lễ_Hội_Diều.json",
+    "chapter_name": "Chương 166: 166: Lễ Hội Diều",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-166/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_167_167_Lz.json",
+    "chapter_name": "Chương 167: 167: Lz",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-167/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_168_168_Người_Trong_Lòng.json",
+    "chapter_name": "Chương 168: 168: Người Trong Lòng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-168/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_169_169_Ngọt_Không.json",
+    "chapter_name": "Chương 169: 169: Ngọt Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-169/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_170_170_Tôi_Là_Đàn_Ông.json",
+    "chapter_name": "Chương 170: 170: Tôi Là Đàn Ông",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-170/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_171_171_Bố_Xấu_Hổ_Quá.json",
+    "chapter_name": "Chương 171: 171: Bố Xấu Hổ Quá",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-171/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_172_172_Mùi_Vị_Của_Yêu_Đương.json",
+    "chapter_name": "Chương 172: 172: Mùi Vị Của Yêu Đương",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-172/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_173_173_Quân_Tử_Động_Khẩu_Không_Động_Thủ.json",
+    "chapter_name": "Chương 173: 173: Quân Tử Động Khẩu Không Động Thủ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-173/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_174_174_Gọi_Chí_Khiêm.json",
+    "chapter_name": "Chương 174: 174: Gọi Chí Khiêm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-174/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_175_175_Mình_Biết.json",
+    "chapter_name": "Chương 175: 175: Mình Biết",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-175/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_176_176_Phải_Làm_Sao.json",
+    "chapter_name": "Chương 176: 176: Phải Làm Sao",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-176/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_177_177_Vợ_Tôi.json",
+    "chapter_name": "Chương 177: 177: Vợ Tôi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-177/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_178_178_Anh_Cũng_Không_Ngủ_Được.json",
+    "chapter_name": "Chương 178: 178: Anh Cũng Không Ngủ Được",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-178/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_179_179_Bảo_Bối.json",
+    "chapter_name": "Chương 179: 179: Bảo Bối",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-179/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_180_180_Tìm_Bạn_Gái_Không_Nên_Tìm_Bác_Sĩ.json",
+    "chapter_name": "Chương 180: 180: Tìm Bạn Gái Không Nên Tìm Bác Sĩ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-180/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_181_181_Lòng_Quân_Tử_Đo_Lòng_Ta.json",
+    "chapter_name": "Chương 181: 181: Lòng Quân Tử Đo Lòng Ta",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-181/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_182_182_Tia_Nắng_Sau_Mưa.json",
+    "chapter_name": "Chương 182: 182: Tia Nắng Sau Mưa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-182/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_183_183_Không_Rụt_Rè.json",
+    "chapter_name": "Chương 183: 183: Không Rụt Rè",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-183/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_184_184_Vạch_Trần_Bộ_Mặt_Thật.json",
+    "chapter_name": "Chương 184: 184: Vạch Trần Bộ Mặt Thật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-184/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_185_185_Không_Ai_Có_Thể_Làm_Khó_Anh_Trừ_Một_Người.json",
+    "chapter_name": "Chương 185: 185: Không Ai Có Thể Làm Khó Anh Trừ Một Người",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-185/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_186_186_Em_Không_Quan_Tâm_Anh.json",
+    "chapter_name": "Chương 186: 186: Em Không Quan Tâm Anh!",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-186/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_187_187_Anh_Ấy_Không_Chỉ_Thuộc_Về_Một_Mình_Em.json",
+    "chapter_name": "Chương 187: 187: Anh Ấy Không Chỉ Thuộc Về Một Mình Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-187/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_188_188_Em_Vĩnh_Viễn_Đều_Là_Cô_Bé_Đó.json",
+    "chapter_name": "Chương 188: 188: Em Vĩnh Viễn Đều Là Cô Bé Đó",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-188/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_189_189_Nhớ_Kỹ_Bi_Thương_Lại_Quên_Đi_Bi_Thương.json",
+    "chapter_name": "Chương 189: 189: Nhớ Kỹ Bi Thương Lại Quên Đi Bi Thương",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-189/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_190_190_Người_Đàn_Ông_Đổ_Máu_Vì_Bạn_Mà_Rơi_Lệ.json",
+    "chapter_name": "Chương 190: 190: Người Đàn Ông Đổ Máu Vì Bạn Mà Rơi Lệ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-190/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_191_191_Em_Hận_Anh_Anh_Biết_Không.json",
+    "chapter_name": "Chương 191: 191: Em Hận Anh Anh Biết Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-191/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_192_192_Làm_Vợ_Anh.json",
+    "chapter_name": "Chương 192: 192: Làm Vợ Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-192/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_193_193_Anh_Không_Xứng_Với_Em.json",
+    "chapter_name": "Chương 193: 193: Anh Không Xứng Với Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-193/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_194_194_Chủ_Nhiệm_Ninh_Em_Đề_Xuất_Cho_Anh_Một_Sáng_Kiến.json",
+    "chapter_name": "Chương 194: 194: Chủ Nhiệm Ninh Em Đề Xuất Cho Anh Một Sáng Kiến",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-194/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_195_195_Em_Không_Muốn_Ở_Cùng_Anh_Như_Vậy_Sao.json",
+    "chapter_name": "Chương 195: 195: Em Không Muốn Ở Cùng Anh Như Vậy Sao",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-195/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_196_196_Đều_Là_Anh_Ép_Em.json",
+    "chapter_name": "Chương 196: 196: Đều Là Anh Ép Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-196/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_197_197_Chồng.json",
+    "chapter_name": "Chương 197: 197: Chồng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-197/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_198_198_Mãi_Mãi_Bên_Cạnh_Nhau.json",
+    "chapter_name": "Chương 198: 198: Mãi Mãi Bên Cạnh Nhau",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-198/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_199_199_Có_Thù_Tất_Báo.json",
+    "chapter_name": "Chương 199: 199: Có Thù Tất Báo",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-199/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_200_200_Lưu_Tranh_Đừng_Sợ.json",
+    "chapter_name": "Chương 200: 200: Lưu Tranh Đừng Sợ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-200/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_201_201_Mùi_Vị_Của_Cheese_Tart.json",
+    "chapter_name": "Chương 201: 201: Mùi Vị Của Cheese Tart",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-201/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_202_202_Hẹn_Hò.json",
+    "chapter_name": "Chương 202: 202: Hẹn Hò",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-202/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_203_203_Anh_Nhớ_Em.json",
+    "chapter_name": "Chương 203: 203: Anh Nhớ Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-203/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_204_204_Anh_Nợ_Em_Một_Lời_Cầu_Hôn.json",
+    "chapter_name": "Chương 204: 204: Anh Nợ Em Một Lời Cầu Hôn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-204/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_205_205_Món_Quà.json",
+    "chapter_name": "Chương 205: 205: Món Quà",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-205/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_206_206_Học_Trung_Y_Với_Anh.json",
+    "chapter_name": "Chương 206: 206: Học Trung Y Với Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-206/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_207_207_Hà_Tất.json",
+    "chapter_name": "Chương 207: 207: Hà Tất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-207/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_208_208_Là_Báo_Ứng.json",
+    "chapter_name": "Chương 208: 208: Là Báo Ứng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-208/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_209_209_Thế_Gian_Bộn_Bề_Phức_Tạp.json",
+    "chapter_name": "Chương 209: 209: Thế Gian Bộn Bề Phức Tạp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-209/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_210_210_Cuối_Cùng_Cũng_Có_Kết_Thúc.json",
+    "chapter_name": "Chương 210: 210: Cuối Cùng Cũng Có Kết Thúc",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-210/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_211_211_Không_Dễ_Dàng_Có_Được_Con_Sẽ_Quý_Trọng.json",
+    "chapter_name": "Chương 211: 211: Không Dễ Dàng Có Được Con Sẽ Quý Trọng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-211/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_212_212_Anh_Đổi_Ý_Rồi.json",
+    "chapter_name": "Chương 212: 212: Anh Đổi Ý Rồi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-212/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_213_213_Mấy_Năm_Nay_Cô_Có_Tốt_Không.json",
+    "chapter_name": "Chương 213: 213: Mấy Năm Nay Cô Có Tốt Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-213/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_214_214_Trên_Đời_Này_Thứ_Khó_Nắm_Giữ_Nhất_Chính_Là_Lòng_Người.json",
+    "chapter_name": "Chương 214: 214: Trên Đời Này Thứ Khó Nắm Giữ Nhất Chính Là Lòng Người",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-214/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_215_215_Bác_Sĩ_Đến_Từ_Bắc_Kinh.json",
+    "chapter_name": "Chương 215: 215: Bác Sĩ Đến Từ Bắc Kinh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-215/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_216_216_Đã_Lâu_Không_Gặp.json",
+    "chapter_name": "Chương 216: 216: Đã Lâu Không Gặp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-216/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_217_217_Nắm_Tay_Anh.json",
+    "chapter_name": "Chương 217: 217: Nắm Tay Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-217/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_218_218_Tâm_Là_Hoa_Sen_Nở.json",
+    "chapter_name": "Chương 218: 218: Tâm Là Hoa Sen Nở",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-218/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_219_219_Là_Người_Quen_Cũ.json",
+    "chapter_name": "Chương 219: 219: Là Người Quen Cũ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-219/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_220_220_Không_Cần_Đến_Nữa.json",
+    "chapter_name": "Chương 220: 220: Không Cần Đến Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-220/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_221_221_Trừng_Phạt.json",
+    "chapter_name": "Chương 221: 221: Trừng Phạt",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-221/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_222_222_Trong_Dòng_Người_Tấp_Nập.json",
+    "chapter_name": "Chương 222: 222: Trong Dòng Người Tấp Nập",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-222/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_223_223_Không_Còn_Gì_Bận_Lòng_Nữa.json",
+    "chapter_name": "Chương 223: 223: Không Còn Gì Bận Lòng Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-223/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_224_Chương_224.json",
+    "chapter_name": "Chương 224: Chương 224",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-224/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_225_225_Tự_Mình_Trưởng_Thành.json",
+    "chapter_name": "Chương 225: 225: Tự Mình Trưởng Thành",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-225/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_226_Chương_226.json",
+    "chapter_name": "Chương 226: Chương 226",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-226/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_227_227_Thứ_Bố_Thích_Nhất.json",
+    "chapter_name": "Chương 227: 227: Thứ Bố Thích Nhất",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-227/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_228_228_Tôi_Không_Phải_Mẹ_Ninh_Tưởng.json",
+    "chapter_name": "Chương 228: 228: Tôi Không Phải Mẹ Ninh Tưởng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-228/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_229_Chương_229.json",
+    "chapter_name": "Chương 229: Chương 229",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-229/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_230_230_Lần_Này_Sẽ_Không_Phụ_Em_Nữa.json",
+    "chapter_name": "Chương 230: 230: Lần Này Sẽ Không Phụ Em Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-230/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_231_231_Vì_Sao_Ly_Hôn.json",
+    "chapter_name": "Chương 231: 231: Vì Sao Ly Hôn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-231/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_232_232_Dáng_Vẻ_Vốn_Có_Của_Cuộc_Sống.json",
+    "chapter_name": "Chương 232: 232: Dáng Vẻ Vốn Có Của Cuộc Sống",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-232/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_233_Chương_233.json",
+    "chapter_name": "Chương 233: Chương 233",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-233/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_234_234_Chí_Khiêm_Lưu_Tranh_Chưa_Về.json",
+    "chapter_name": "Chương 234: 234: Chí Khiêm Lưu Tranh Chưa Về",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-234/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_235_Chương_235.json",
+    "chapter_name": "Chương 235: Chương 235",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-235/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_236_236_Lần_Theo_Dấu_Vết.json",
+    "chapter_name": "Chương 236: 236: Lần Theo Dấu Vết",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-236/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_237_237_Em_Là_Mạng_Sống_Của_Anh.json",
+    "chapter_name": "Chương 237: 237: Em Là Mạng Sống Của Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-237/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_238_238_Kém_Rất_Nhiều.json",
+    "chapter_name": "Chương 238: 238: Kém Rất Nhiều",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-238/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_239_239_Bảo_Bối_Của_Ninh_Mất_Tích_Rồi.json",
+    "chapter_name": "Chương 239: 239: Bảo Bối Của Ninh Mất Tích Rồi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-239/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_240_240_Càng_Ngày_Em_Càng_Không_Ngoan.json",
+    "chapter_name": "Chương 240: 240: Càng Ngày Em Càng Không Ngoan",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-240/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_241_241_Đầu_Có_Hố.json",
+    "chapter_name": "Chương 241: 241: Đầu Có Hố",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-241/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_242_242_Chúng_Ta_Cùng_Nhau_Đón_Nhận_Từ_Đầu_Đến_Cuối.json",
+    "chapter_name": "Chương 242: 242: Chúng Ta Cùng Nhau Đón Nhận Từ Đầu Đến Cuối",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-242/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_243_243_Tim_Đập_Tình_Thịch.json",
+    "chapter_name": "Chương 243: 243: Tim Đập Tình Thịch",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-243/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_244_244_Ngày_Và_Đêm.json",
+    "chapter_name": "Chương 244: 244: Ngày Và Đêm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-244/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_245_245_Có_Một_Người.json",
+    "chapter_name": "Chương 245: 245: Có Một Người",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-245/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_246_246_Hồng_Nhan.json",
+    "chapter_name": "Chương 246: 246: Hồng Nhan",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-246/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_247_247_Anh_Về_Sớm_Một_Chút_Được_Không.json",
+    "chapter_name": "Chương 247: 247: Anh Về Sớm Một Chút Được Không",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-247/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_248_248_Tôi_Là_Bạn_Trai_Cô_Ấy.json",
+    "chapter_name": "Chương 248: 248: Tôi Là Bạn Trai Cô Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-248/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_249_249_Anh_Là_Ninh_Chí_Khiêm_Em_Nhận_Nhầm_Rồi.json",
+    "chapter_name": "Chương 249: 249: Anh Là Ninh Chí Khiêm Em Nhận Nhầm Rồi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-249/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_250_250_Nguyễn_Lưu_Tranh_Em_Cầm_Tinh_Con_Heo_À.json",
+    "chapter_name": "Chương 250: 250: Nguyễn Lưu Tranh Em Cầm Tinh Con Heo À",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-250/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_251_251_Cố_Tình_Gây_Sự.json",
+    "chapter_name": "Chương 251: 251: Cố Tình Gây Sự",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-251/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_252_252_Ai_Đến_Ôm_Em.json",
+    "chapter_name": "Chương 252: 252: Ai Đến Ôm Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-252/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_253_253_Em_Muốn_Bơi_Lội_Cùng_Anh.json",
+    "chapter_name": "Chương 253: 253: Em Muốn Bơi Lội Cùng Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-253/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_254_254_Tro_Tàn.json",
+    "chapter_name": "Chương 254: 254: Tro Tàn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-254/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_255_255_Trường_Hà_Lạc_Nhật_Viên.json",
+    "chapter_name": "Chương 255: 255: Trường Hà Lạc Nhật Viên",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-255/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_256_256_Em_Muốn_Sinh_Con_Với_Anh.json",
+    "chapter_name": "Chương 256: 256: Em Muốn Sinh Con Với Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-256/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_257_257_Bác_Sĩ_Của_Bệnh_Viện_Thị.json",
+    "chapter_name": "Chương 257: 257: Bác Sĩ Của Bệnh Viện Thị",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-257/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_258_258_Đồ_Lừa_Đảo.json",
+    "chapter_name": "Chương 258: 258: Đồ Lừa Đảo",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-258/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_259_259_Chính_Là_Muốn_Làm_Ca_Đêm.json",
+    "chapter_name": "Chương 259: 259: Chính Là Muốn Làm Ca Đêm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-259/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_260_260_Em_Đang_Nghĩ_Gì.json",
+    "chapter_name": "Chương 260: 260: Em Đang Nghĩ Gì",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-260/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_261_261_Không_Đẹp_Bằng_Anh.json",
+    "chapter_name": "Chương 261: 261: Không Đẹp Bằng Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-261/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_262_262_Ngạc_Nhiên.json",
+    "chapter_name": "Chương 262: 262: Ngạc Nhiên",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-262/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_263_263_Vẫn_Chưa_Nhìn_Rõ_Anh.json",
+    "chapter_name": "Chương 263: 263: Vẫn Chưa Nhìn Rõ Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-263/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_264_264_Chữ_Em_Viết_Cho_Anh.json",
+    "chapter_name": "Chương 264: 264: Chữ Em Viết Cho Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-264/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_265_265_Với_Tư_Cách_Là_Một_Nữ_Bác_Sĩ_Em_Phải_Chú_Ý.json",
+    "chapter_name": "Chương 265: 265: Với Tư Cách Là Một Nữ Bác Sĩ Em Phải Chú Ý",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-265/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_266_266_Anh_Sợ_Em_Không_Cần_Anh_Nữa.json",
+    "chapter_name": "Chương 266: 266: Anh Sợ Em Không Cần Anh Nữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-266/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_267_267_Anh_Đi_Rồi_Đừng_Nhớ.json",
+    "chapter_name": "Chương 267: 267: Anh Đi Rồi Đừng Nhớ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-267/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_268_268_Xé_Nát.json",
+    "chapter_name": "Chương 268: 268: Xé Nát",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-268/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_269_269_Sao_Có_Thể_Không_Yêu.json",
+    "chapter_name": "Chương 269: 269: Sao Có Thể Không Yêu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-269/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_270_270_Khó_Mà_Tự_Kiềm_Chế.json",
+    "chapter_name": "Chương 270: 270: Khó Mà Tự Kiềm Chế",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-270/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_271_271_Cát_Vàng_Mênh_Mông.json",
+    "chapter_name": "Chương 271: 271: Cát Vàng Mênh Mông",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-271/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_272_272_Yêu_Chân_Thành.json",
+    "chapter_name": "Chương 272: 272: Yêu Chân Thành",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-272/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_273_273_Cô_Ấy_Đang_Gọi_Cháu.json",
+    "chapter_name": "Chương 273: 273: Cô Ấy Đang Gọi Cháu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-273/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_274_274_Là_Cô_Ấy.json",
+    "chapter_name": "Chương 274: 274: Là Cô Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-274/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_275_275_Chưa_Bao_Giờ_Nuốt_Lời.json",
+    "chapter_name": "Chương 275: 275: Chưa Bao Giờ Nuốt Lời",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-275/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_276_276_Không_Phải_Trách_Nhiệm_Của_Một_Mình_Anh.json",
+    "chapter_name": "Chương 276: 276: Không Phải Trách Nhiệm Của Một Mình Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-276/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_277_277_Hy_Vọng.json",
+    "chapter_name": "Chương 277: 277: Hy Vọng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-277/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_278_278_Như_Anh_Mong_Muốn.json",
+    "chapter_name": "Chương 278: 278: Như Anh Mong Muốn",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-278/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_279_279_Báo_Ứng.json",
+    "chapter_name": "Chương 279: 279: Báo Ứng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-279/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_280_280_Xin_Anh_Hãy_Bay_Về.json",
+    "chapter_name": "Chương 280: 280: Xin Anh Hãy Bay Về",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-280/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_281_281_Thư_Cho_Bố.json",
+    "chapter_name": "Chương 281: 281: Thư Cho Bố",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-281/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_282_282_Tỉnh_Rồi.json",
+    "chapter_name": "Chương 282: 282: Tỉnh Rồi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-282/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_283_283_Tranh_Sủng.json",
+    "chapter_name": "Chương 283: 283: Tranh Sủng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-283/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_284_Chương_284.json",
+    "chapter_name": "Chương 284: Chương 284",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-284/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_285_Chương_285.json",
+    "chapter_name": "Chương 285: Chương 285",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-285/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_286_286_Sinh_Nhật.json",
+    "chapter_name": "Chương 286: 286: Sinh Nhật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-286/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_287_287_Chúng_Ta_Cùng_Nhau_Cố_Gắng.json",
+    "chapter_name": "Chương 287: 287: Chúng Ta Cùng Nhau Cố Gắng",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-287/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_288_288_Đồ_Chơi.json",
+    "chapter_name": "Chương 288: 288: Đồ Chơi",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-288/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_289_Chương_289.json",
+    "chapter_name": "Chương 289: Chương 289",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-289/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_290_290_Một_Người_Phong_Cảnh_Một_Đoạn_Đường.json",
+    "chapter_name": "Chương 290: 290: Một Người Phong Cảnh Một Đoạn Đường",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-290/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_291_291_Có_Bệnh_Chúng_Ta_Cẩn_Thận_Chữa_Trị.json",
+    "chapter_name": "Chương 291: 291: Có Bệnh Chúng Ta Cẩn Thận Chữa Trị",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-291/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_292_292_Người_Tinh_Thông_Y_Thuật_Nhất_Trong_Các_Đầu_Bếp.json",
+    "chapter_name": "Chương 292: 292: Người Tinh Thông Y Thuật Nhất Trong Các Đầu Bếp",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-292/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_293_Chương_293.json",
+    "chapter_name": "Chương 293: Chương 293",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-293/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_294_294_Không_Đợi_Cô_Ấy.json",
+    "chapter_name": "Chương 294: 294: Không Đợi Cô Ấy",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-294/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_295_295_Mừng_Phát_Điên.json",
+    "chapter_name": "Chương 295: 295: Mừng Phát Điên",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-295/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_296_296_Hai_Đứa.json",
+    "chapter_name": "Chương 296: 296: Hai Đứa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-296/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_297_297_Cảm_Ơn_Con_Thích_Nó.json",
+    "chapter_name": "Chương 297: 297: Cảm Ơn Con Thích Nó",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-297/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_298_298_Có_Thai_Ngốc_Ba_Năm.json",
+    "chapter_name": "Chương 298: 298: Có Thai Ngốc Ba Năm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-298/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_299_Chương_299.json",
+    "chapter_name": "Chương 299: Chương 299",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-299/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_300_300_Em_Trai_Em_Gái.json",
+    "chapter_name": "Chương 300: 300: Em Trai Em Gái",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-300/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_301_Chương_301.json",
+    "chapter_name": "Chương 301: Chương 301",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-301/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_302_Chương_302.json",
+    "chapter_name": "Chương 302: Chương 302",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-302/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_303_303_Hội_Chứng_Couvade.json",
+    "chapter_name": "Chương 303: 303: Hội Chứng Couvade",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-303/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_304_304_Một_Lời_Thành_Sự_Thật.json",
+    "chapter_name": "Chương 304: 304: Một Lời Thành Sự Thật",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-304/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_305_305_Một_Người_Đã_Đẹp_Trai_Ba_Mươi_Mấy_Năm.json",
+    "chapter_name": "Chương 305: 305: Một Người Đã Đẹp Trai Ba Mươi Mấy Năm",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-305/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_306_306_Chỉ_Số_Iq_Không_Đủ.json",
+    "chapter_name": "Chương 306: 306: Chỉ Số Iq Không Đủ",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-306/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_307_307_Một_Người_Có_Quy_Tắc.json",
+    "chapter_name": "Chương 307: 307: Một Người Có Quy Tắc",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-307/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_308_308_Bố_Không_Ngoan.json",
+    "chapter_name": "Chương 308: 308: Bố Không Ngoan",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-308/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_309_309_Giống_Con.json",
+    "chapter_name": "Chương 309: 309: Giống Con",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-309/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_310_310_Em_Là_Kỳ_Tích_Trong_Sinh_Mệnh_Của_Anh.json",
+    "chapter_name": "Chương 310: 310: Em Là Kỳ Tích Trong Sinh Mệnh Của Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-310/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_311_311_Bố_Sữa.json",
+    "chapter_name": "Chương 311: 311: Bố Sữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-311/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_312_312_Cai_Sữa.json",
+    "chapter_name": "Chương 312: 312: Cai Sữa",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-312/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_313_313_Có_Ý_Gì.json",
+    "chapter_name": "Chương 313: 313: Có Ý Gì",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-313/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_314_314_Địa_Vị_Của_Bố.json",
+    "chapter_name": "Chương 314: 314: Địa Vị Của Bố",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-314/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_315_315_Mặt_Của_Chủ_Nhiệm_Ninh.json",
+    "chapter_name": "Chương 315: 315: Mặt Của Chủ Nhiệm Ninh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-315/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_316_316_Thầy_Ninh_Có_Gì_Tốt.json",
+    "chapter_name": "Chương 316: 316: Thầy Ninh Có Gì Tốt",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-316/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_317_317_Gọi_Bố.json",
+    "chapter_name": "Chương 317: 317: Gọi Bố",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-317/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_318_318_Nuông_Chiều.json",
+    "chapter_name": "Chương 318: 318: Nuông Chiều",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-318/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_319_Chương_319.json",
+    "chapter_name": "Chương 319: Chương 319",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-319/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_320_Chương_320.json",
+    "chapter_name": "Chương 320: Chương 320",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-320/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_321_321_Mẹ_Chồng_Nàng_Dâu.json",
+    "chapter_name": "Chương 321: 321: Mẹ Chồng Nàng Dâu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-321/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_322_Chương_322.json",
+    "chapter_name": "Chương 322: Chương 322",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-322/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_323_Chương_323.json",
+    "chapter_name": "Chương 323: Chương 323",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-323/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_324_324_Không_Tính_Kế_Không_Phải_Anh_Em.json",
+    "chapter_name": "Chương 324: 324: Không Tính Kế Không Phải Anh Em",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-324/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_325_325_Khóc_Không_Ra_Nước_Mắt.json",
+    "chapter_name": "Chương 325: 325: Khóc Không Ra Nước Mắt",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-325/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_326_Chương_326.json",
+    "chapter_name": "Chương 326: Chương 326",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-326/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_327_327_Chẩn_Đoán_Của_Bác_Sĩ_Đinh.json",
+    "chapter_name": "Chương 327: 327: Chẩn Đoán Của Bác Sĩ Đinh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-327/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_328_328_Phương_Án_Trị_Liệu.json",
+    "chapter_name": "Chương 328: 328: Phương Án Trị Liệu",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-328/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_329_Chương_329.json",
+    "chapter_name": "Chương 329: Chương 329",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-329/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_330_Chương_330.json",
+    "chapter_name": "Chương 330: Chương 330",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-330/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_331_Chương_331.json",
+    "chapter_name": "Chương 331: Chương 331",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-331/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_332_Chương_332.json",
+    "chapter_name": "Chương 332: Chương 332",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-332/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_333_Chương_333.json",
+    "chapter_name": "Chương 333: Chương 333",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-333/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_334_Chương_334.json",
+    "chapter_name": "Chương 334: Chương 334",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-334/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_335_Chương_335.json",
+    "chapter_name": "Chương 335: Chương 335",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-335/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_336_Chương_336.json",
+    "chapter_name": "Chương 336: Chương 336",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-336/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_337_Chương_337.json",
+    "chapter_name": "Chương 337: Chương 337",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-337/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_338_Chương_338.json",
+    "chapter_name": "Chương 338: Chương 338",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-338/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_339_Chương_339.json",
+    "chapter_name": "Chương 339: Chương 339",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-339/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_340_Chương_340.json",
+    "chapter_name": "Chương 340: Chương 340",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-340/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_341_Chương_341.json",
+    "chapter_name": "Chương 341: Chương 341",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-341/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_342_Chương_342.json",
+    "chapter_name": "Chương 342: Chương 342",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-342/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_343_Chương_343.json",
+    "chapter_name": "Chương 343: Chương 343",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-343/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_344_Chương_344.json",
+    "chapter_name": "Chương 344: Chương 344",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-344/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_345_Chương_345.json",
+    "chapter_name": "Chương 345: Chương 345",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-345/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_346_Chương_346.json",
+    "chapter_name": "Chương 346: Chương 346",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-346/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_347_Chương_347.json",
+    "chapter_name": "Chương 347: Chương 347",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-347/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_348_Chương_348.json",
+    "chapter_name": "Chương 348: Chương 348",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-348/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_349_Chương_349.json",
+    "chapter_name": "Chương 349: Chương 349",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-349/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_350_Chương_350.json",
+    "chapter_name": "Chương 350: Chương 350",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-350/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_351_Chương_351.json",
+    "chapter_name": "Chương 351: Chương 351",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-351/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_352_Chương_352.json",
+    "chapter_name": "Chương 352: Chương 352",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-352/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_353_Chương_353.json",
+    "chapter_name": "Chương 353: Chương 353",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-353/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_354_Chương_354.json",
+    "chapter_name": "Chương 354: Chương 354",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-354/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_355_Chương_355.json",
+    "chapter_name": "Chương 355: Chương 355",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-355/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_356_Chương_356.json",
+    "chapter_name": "Chương 356: Chương 356",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-356/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_357_Chương_357.json",
+    "chapter_name": "Chương 357: Chương 357",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-357/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_358_Chương_358.json",
+    "chapter_name": "Chương 358: Chương 358",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-358/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_359_Chương_359.json",
+    "chapter_name": "Chương 359: Chương 359",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-359/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_360_Chương_360.json",
+    "chapter_name": "Chương 360: Chương 360",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-360/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_361_Chương_361.json",
+    "chapter_name": "Chương 361: Chương 361",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-361/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_362_Chương_362.json",
+    "chapter_name": "Chương 362: Chương 362",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-362/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_363_Chương_363.json",
+    "chapter_name": "Chương 363: Chương 363",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-363/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_364_Chương_364.json",
+    "chapter_name": "Chương 364: Chương 364",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-364/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_365_Chương_365.json",
+    "chapter_name": "Chương 365: Chương 365",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-365/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_366_Chương_366.json",
+    "chapter_name": "Chương 366: Chương 366",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-366/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_367_Chương_367.json",
+    "chapter_name": "Chương 367: Chương 367",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-367/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_368_Chương_368.json",
+    "chapter_name": "Chương 368: Chương 368",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-368/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_369_369_Chỉ_Là_Em_Không_Muốn_Để_Anh_Một_Mình.json",
+    "chapter_name": "Chương 369: 369: Chỉ Là Em Không Muốn Để Anh Một Mình",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-369/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_370_370_Cảm_Ơn_Em_Nguyện_Ý_Bên_Cạnh_Anh.json",
+    "chapter_name": "Chương 370: 370: Cảm Ơn Em Nguyện Ý Bên Cạnh Anh",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-370/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_371_Chương_371.json",
+    "chapter_name": "Chương 371: Chương 371",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-371/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_372_Chương_372.json",
+    "chapter_name": "Chương 372: Chương 372",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-372/"
+  },
+  {
+    "path": "data/Nghe_Nói_Em_Thích_Tôi/Chương_373_373_Kết_Cục.json",
+    "chapter_name": "Chương 373: 373: Kết Cục",
+    "url": "https://truyenfull.io/nghe-noi-em-thich-toi/chuong-373/"
+  }
+]
