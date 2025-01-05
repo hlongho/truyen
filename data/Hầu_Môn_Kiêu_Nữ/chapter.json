@@ -1,0 +1,1202 @@
+[
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_11_Văn_án.json",
+    "chapter_name": "Chương 1-1: Văn án",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-1-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_12_Phiền_toái.json",
+    "chapter_name": "Chương 1-2: Phiền toái",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-1-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_2_Thân_nhân.json",
+    "chapter_name": "Chương 2: Thân nhân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_3_Chính_thê.json",
+    "chapter_name": "Chương 3: Chính thê",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_4_Giả_sổ_sách.json",
+    "chapter_name": "Chương 4: Giả sổ sách",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-4/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_5_Thân_phụ.json",
+    "chapter_name": "Chương 5: Thân phụ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-5/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_6_Mưu_hoa.json",
+    "chapter_name": "Chương 6: Mưu hoa",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-6/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_7_Thảo_thuận.json",
+    "chapter_name": "Chương 7: Thảo thuận",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-7/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_8_Mừng_thọ.json",
+    "chapter_name": "Chương 8: Mừng thọ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-8/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_9_Quý_nhân.json",
+    "chapter_name": "Chương 9: Quý nhân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-9/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_10_Tao_ngộ.json",
+    "chapter_name": "Chương 10: Tao ngộ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-10/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_11_Thẳng_thắn.json",
+    "chapter_name": "Chương 11: Thẳng thắn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-11/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_12_Ngả_bài.json",
+    "chapter_name": "Chương 12: Ngả bài",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-12/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_13_Sáng_sớm.json",
+    "chapter_name": "Chương 13: Sáng sớm",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-13/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_14_Xâm_nhập.json",
+    "chapter_name": "Chương 14: Xâm nhập",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-14/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_15_Duyên_phận.json",
+    "chapter_name": "Chương 15: Duyên phận",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-15/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_16_Bảo_tàng.json",
+    "chapter_name": "Chương 16: Bảo tàng",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-16/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_17_Tâm_tư.json",
+    "chapter_name": "Chương 17: Tâm tư",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-17/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_18_Khắc_tinh.json",
+    "chapter_name": "Chương 18: Khắc tinh",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-18/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_19_Bí_tịch.json",
+    "chapter_name": "Chương 19: Bí tịch",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-19/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_20_Đề_điểm.json",
+    "chapter_name": "Chương 20: Đề điểm",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-20/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_21_Kiến_nghị.json",
+    "chapter_name": "Chương 21: Kiến nghị",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-21/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_22_Gièm_pha.json",
+    "chapter_name": "Chương 22: Gièm pha",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-22/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_23_Sau_lưng.json",
+    "chapter_name": "Chương 23: Sau lưng",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-23/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_24_Ký_danh.json",
+    "chapter_name": "Chương 24: Ký danh",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-24/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_251_Lập_uy_1.json",
+    "chapter_name": "Chương 25-1: Lập uy (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-25-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_252_Lập_uy_2.json",
+    "chapter_name": "Chương 25-2: Lập uy (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-25-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_26_Tổ_phụ.json",
+    "chapter_name": "Chương 26: Tổ phụ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-26/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_27_Hôn_ước.json",
+    "chapter_name": "Chương 27: Hôn ước",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-27/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_272_Hôn_ước_2.json",
+    "chapter_name": "Chương 27-2: Hôn ước (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-27-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_28_Đấu_tranh.json",
+    "chapter_name": "Chương 28: Đấu tranh",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-28/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_29_Mưu_hoa.json",
+    "chapter_name": "Chương 29: Mưu hoa",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-29/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_30_Tần_vương_phủ.json",
+    "chapter_name": "Chương 30: Tần vương phủ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-30/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_311_Tần_vương_thế_tử_1.json",
+    "chapter_name": "Chương 31-1: Tần vương thế tử (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-31-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_312_Tần_vương_thế_tử_2.json",
+    "chapter_name": "Chương 31-2: Tần vương thế tử (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-31-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_321_Tranh_phong_1.json",
+    "chapter_name": "Chương 32-1: Tranh phong (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-32-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_322_Tranh_phong_2.json",
+    "chapter_name": "Chương 32-2: Tranh phong (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-32-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_33_Xảo_ngộ.json",
+    "chapter_name": "Chương 33: Xảo ngộ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-33/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_341_Tiền_duyên_1.json",
+    "chapter_name": "Chương 34-1: Tiền duyên (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-34-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_342_Tiền_duyên_2.json",
+    "chapter_name": "Chương 34-2: Tiền duyên (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-34-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_35_Huyền_cơ.json",
+    "chapter_name": "Chương 35: Huyền cơ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-35/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_352_Huyền_cơ_2.json",
+    "chapter_name": "Chương 35-2: Huyền cơ (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-35-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_36_Ngoài_ý_muốn_1.json",
+    "chapter_name": "Chương 36: Ngoài ý muốn (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-36/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_362_Ngoài_ý_muốn_2.json",
+    "chapter_name": "Chương 36-2: Ngoài ý muốn (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-36-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_363_Ngoài_ý_muốn_3.json",
+    "chapter_name": "Chương 36-3: Ngoài ý muốn (3)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-36-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_371_Khắc_khẩu.json",
+    "chapter_name": "Chương 37-1: Khắc khẩu",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-37-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_372_Khắc_khẩu_2.json",
+    "chapter_name": "Chương 37-2: Khắc khẩu (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-37-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_381_Lựa_chọn.json",
+    "chapter_name": "Chương 38-1: Lựa chọn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-38-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_382_Lựa_chọn_2.json",
+    "chapter_name": "Chương 38-2: Lựa chọn (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-38-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_39_Rập_bẫy.json",
+    "chapter_name": "Chương 39: Rập bẫy",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-39/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_392_Rập_bẫy_2.json",
+    "chapter_name": "Chương 39-2: Rập bẫy (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-39-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_401_Du_thuyết.json",
+    "chapter_name": "Chương 40-1: Du thuyết",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-40-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_402_Du_thuyết_2.json",
+    "chapter_name": "Chương 40-2: Du thuyết (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-40-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_403_Du_thuyết_3.json",
+    "chapter_name": "Chương 40-3: Du thuyết (3)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-40-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_411_Phụ_ái_1.json",
+    "chapter_name": "Chương 41-1: Phụ ái (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-41-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_412_Phụ_ái_2.json",
+    "chapter_name": "Chương 41-2: Phụ ái (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-41-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_413_Phụ_ái_3.json",
+    "chapter_name": "Chương 41-3: Phụ ái (3)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-41-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_421_Phản_kích_1.json",
+    "chapter_name": "Chương 42-1: Phản kích (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-42-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_422_Phản_kích_2.json",
+    "chapter_name": "Chương 42-2: Phản kích (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-42-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_423_Phản_kích_3.json",
+    "chapter_name": "Chương 42-3: Phản kích 3",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-42-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_431_Ép_hôn_1.json",
+    "chapter_name": "Chương 43-1: Ép hôn 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-43-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_432_Ép_hôn_2.json",
+    "chapter_name": "Chương 43-2: Ép hôn (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-43-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_433_Ép_hôn_3.json",
+    "chapter_name": "Chương 43-3: Ép hôn 3",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-43-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_441_Điều_kiện_1.json",
+    "chapter_name": "Chương 44-1: Điều kiện (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-44-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_442_Điều_kiện_2.json",
+    "chapter_name": "Chương 44-2: Điều kiện 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-44-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_451_Xuất_ngục_1.json",
+    "chapter_name": "Chương 45-1: Xuất ngục (1)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-45-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_452_Xuất_ngục_2.json",
+    "chapter_name": "Chương 45-2: Xuất ngục 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-45-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_461_Đính_ước_1.json",
+    "chapter_name": "Chương 46-1: Đính ước 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-46-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_462_Đính_ước_2.json",
+    "chapter_name": "Chương 46-2: Đính ước 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-46-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_463_Đính_ước_3.json",
+    "chapter_name": "Chương 46-3: Đính ước 3",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-46-3/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_471_Cơn_lốc_1.json",
+    "chapter_name": "Chương 47-1: Cơn lốc 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-47-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_472_Cơn_lốc_2.json",
+    "chapter_name": "Chương 47-2: Cơn lốc 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-47-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_481_Hôn_tiền_1.json",
+    "chapter_name": "Chương 48-1: Hôn tiền 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-48-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_482_Hôn_tiền_2.json",
+    "chapter_name": "Chương 48-2: Hôn tiền 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-48-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_491_Thành_thân.json",
+    "chapter_name": "Chương 49-1: Thành thân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-49-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_492_Thành_thân_2.json",
+    "chapter_name": "Chương 49-2: Thành thân (2)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-49-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_501_Động_phòng.json",
+    "chapter_name": "Chương 50-1: Động phòng",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-50-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_502_Động_phòng_2.json",
+    "chapter_name": "Chương 50-2: Động phòng 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-50-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_511_Nhân_tâm_1.json",
+    "chapter_name": "Chương 51-1: Nhân tâm 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-51-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_512_Nhân_tâm_2.json",
+    "chapter_name": "Chương 51-2: Nhân tâm 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-51-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_521_Phân_phát.json",
+    "chapter_name": "Chương 52-1: Phân phát",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-52-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_522_Phân_phát_2.json",
+    "chapter_name": "Chương 52-2: Phân phát 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-52-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_531_Vô_giá_1.json",
+    "chapter_name": "Chương 53-1: Vô giá 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-53-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_532_Vô_giá_2.json",
+    "chapter_name": "Chương 53-2: Vô giá 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-53-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_54_Hồi_báo_1.json",
+    "chapter_name": "Chương 54: Hồi báo 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-54/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_542_Hồi_báo_2.json",
+    "chapter_name": "Chương 54-2: Hồi báo 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-54-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_55_Phản_kích.json",
+    "chapter_name": "Chương 55: Phản kích",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-55/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_552_Phản_kích_2.json",
+    "chapter_name": "Chương 55-2: Phản kích 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-55-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_56_Đoạt_quyền.json",
+    "chapter_name": "Chương 56: Đoạt quyền",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-56/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_562_Đoạt_quyền_2.json",
+    "chapter_name": "Chương 56-2: Đoạt quyền 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-56-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_571_Trung_phó_1.json",
+    "chapter_name": "Chương 57-1: Trung phó 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-57-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_572_Trung_phó_2.json",
+    "chapter_name": "Chương 57-2: Trung phó 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-57-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_581_Chuyện_xưa_1.json",
+    "chapter_name": "Chương 58-1: Chuyện xưa 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-58-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_582_Chuyện_xưa_2.json",
+    "chapter_name": "Chương 58-2: Chuyện xưa 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-58-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_591_Quyết_đấu_1.json",
+    "chapter_name": "Chương 59-1: Quyết đấu 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-59-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_592_Quyết_đấu_2.json",
+    "chapter_name": "Chương 59-2: Quyết đấu 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-59-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_601_Nhũ_mẫu_1.json",
+    "chapter_name": "Chương 60-1: Nhũ mẫu 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-60-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_602_Nhũ_mẫu_2.json",
+    "chapter_name": "Chương 60-2: Nhũ mẫu 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-60-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_611_Đau_lòng_1.json",
+    "chapter_name": "Chương 61-1: Đau lòng 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-61-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_612_Đau_lòng_2.json",
+    "chapter_name": "Chương 61-2: Đau lòng 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-61-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_621_Bất_đồng_1.json",
+    "chapter_name": "Chương 62-1: Bất đồng 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-62-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_622_Bất_đồng_2.json",
+    "chapter_name": "Chương 62-2: Bất đồng 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-62-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_631_Hỏi_thăm_1.json",
+    "chapter_name": "Chương 63-1: Hỏi thăm 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-63-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_632_Hỏi_thăm_2.json",
+    "chapter_name": "Chương 63-2: Hỏi thăm 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-63-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_641_Manh_mối_1.json",
+    "chapter_name": "Chương 64-1: Manh mối 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-64-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_642_Manh_mối_2.json",
+    "chapter_name": "Chương 64-2: Manh mối 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-64-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_651_Cẩu_huyết_1.json",
+    "chapter_name": "Chương 65-1: Cẩu huyết 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-65-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_652_Cẩu_huyết_2.json",
+    "chapter_name": "Chương 65-2: Cẩu huyết 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-65-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_661_Nam_nhân_1.json",
+    "chapter_name": "Chương 66-1: Nam nhân 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-66-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_662_Nam_nhân_2.json",
+    "chapter_name": "Chương 66-2: Nam nhân 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-66-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_671_Truy_tung_1.json",
+    "chapter_name": "Chương 67-1: Truy tung 1",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-67-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_672_Truy_tung_2.json",
+    "chapter_name": "Chương 67-2: Truy tung 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-67-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_68_Nháo_quỷ.json",
+    "chapter_name": "Chương 68: Nháo quỷ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-68/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_682_Nháo_quỷ_2.json",
+    "chapter_name": "Chương 68-2: Nháo quỷ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-68-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_69_Ngàn_quân.json",
+    "chapter_name": "Chương 69: Ngàn quân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-69/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_692_Ngàn_quân.json",
+    "chapter_name": "Chương 69-2: Ngàn quân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-69-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_70_Dừng_tay.json",
+    "chapter_name": "Chương 70: Dừng tay",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-70/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_702_Dừng_tay.json",
+    "chapter_name": "Chương 70-2: Dừng tay",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-70-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_71_Dã_tâm.json",
+    "chapter_name": "Chương 71: Dã tâm",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-71/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_712_Dã_tâm_2.json",
+    "chapter_name": "Chương 71-2: Dã tâm 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-71-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_72_Đánh_nhau.json",
+    "chapter_name": "Chương 72: Đánh nhau",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-72/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_722_Đánh_nhau_2.json",
+    "chapter_name": "Chương 72-2: Đánh nhau 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-72-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_73_Cầm_quyền.json",
+    "chapter_name": "Chương 73: Cầm quyền",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-73/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_732_Cầm_quyền_2.json",
+    "chapter_name": "Chương 73-2: Cầm quyền 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-73-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_74_Ngu_xuẩn.json",
+    "chapter_name": "Chương 74: Ngu xuẩn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-74/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_742_Ngu_xuẩn.json",
+    "chapter_name": "Chương 74-2: Ngu xuẩn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-74-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_75_Cứu_giá.json",
+    "chapter_name": "Chương 75: Cứu giá",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-75/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_752_Cứu_giá.json",
+    "chapter_name": "Chương 75-2: Cứu giá",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-75-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_76_Tiên_cơ.json",
+    "chapter_name": "Chương 76: Tiên cơ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-76/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_762_Tiên_cơ_2.json",
+    "chapter_name": "Chương 76-2: Tiên cơ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-76-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_77_Nữ_nhân.json",
+    "chapter_name": "Chương 77: Nữ nhân",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-77/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_772_Nữ_nhân_2.json",
+    "chapter_name": "Chương 77-2: Nữ nhân 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-77-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_78_Tức_giận.json",
+    "chapter_name": "Chương 78: Tức giận",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-78/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_782_Tức_giận.json",
+    "chapter_name": "Chương 78-2: Tức giận",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-78-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_791_Thần_côn.json",
+    "chapter_name": "Chương 79-1: Thần côn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-79-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_792_Thần_côn_2.json",
+    "chapter_name": "Chương 79-2: Thần côn 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-79-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_80_Đạt_thành.json",
+    "chapter_name": "Chương 80: Đạt thành",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-80/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_802_Đạt_thành_2.json",
+    "chapter_name": "Chương 80-2: Đạt thành 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-80-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_81_Bắt_đầu.json",
+    "chapter_name": "Chương 81: Bắt đầu",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-81/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_812_Bắt_đầu_2.json",
+    "chapter_name": "Chương 81-2: Bắt đầu 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-81-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_82_Ưu_việt.json",
+    "chapter_name": "Chương 82: Ưu việt",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-82/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_822_Ưu_việt_2.json",
+    "chapter_name": "Chương 82-2: Ưu việt 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-82-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_83_Dự_phán.json",
+    "chapter_name": "Chương 83: Dự phán",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-83/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_832_Dự_phán_2.json",
+    "chapter_name": "Chương 83-2: Dự phán 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-83-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_84_Biến_số.json",
+    "chapter_name": "Chương 84: Biến số",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-84/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_842_Biến_số_2.json",
+    "chapter_name": "Chương 84-2: Biến số 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-84-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_85_Tìm_đường_chết.json",
+    "chapter_name": "Chương 85: Tìm đường chết",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-85/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_852_Tìm_đường_chết_2.json",
+    "chapter_name": "Chương 85-2: Tìm đường chết 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-85-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_86.json",
+    "chapter_name": "Chương 86",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-86/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_862_Bí_mật.json",
+    "chapter_name": "Chương 86-2: Bí mật",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-86-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_87_Xóa_tên.json",
+    "chapter_name": "Chương 87: Xóa tên",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-87/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_872_Xóa_tên_2.json",
+    "chapter_name": "Chương 87-2: Xóa tên 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-87-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_88_Lại_thú.json",
+    "chapter_name": "Chương 88: Lại thú",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-88/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_882_Lại_thú_2.json",
+    "chapter_name": "Chương 88-2: Lại thú 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-88-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_89_Phát_triển.json",
+    "chapter_name": "Chương 89: Phát triển",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-89/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_892_Phát_triển_2.json",
+    "chapter_name": "Chương 89-2: Phát triển 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-89-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_90_Nhắc_nhở.json",
+    "chapter_name": "Chương 90: Nhắc nhở",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-90/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_902_Nhắc_nhỡ_2.json",
+    "chapter_name": "Chương 90-2: Nhắc nhỡ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-90-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_91_Cắn_nhau.json",
+    "chapter_name": "Chương 91: Cắn nhau",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-91/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_912_Cắn_nhau_2.json",
+    "chapter_name": "Chương 91-2: Cắn nhau 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-91-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_92_Tiến_trình.json",
+    "chapter_name": "Chương 92: Tiến trình",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-92/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_922_Tiến_trình_2.json",
+    "chapter_name": "Chương 92-2: Tiến trình 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-92-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_93_Bệnh_đường_sinh_dục.json",
+    "chapter_name": "Chương 93: Bệnh đường sinh dục",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-93/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_932_Bệnh_đường_sinh_dục_2.json",
+    "chapter_name": "Chương 93-2: Bệnh đường sinh dục 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-93-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_94_Đế_vương.json",
+    "chapter_name": "Chương 94: Đế vương",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-94/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_942_Đế_vương.json",
+    "chapter_name": "Chương 94-2: Đế vương",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-94-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_95_Người_đứng_phía_sau.json",
+    "chapter_name": "Chương 95: Người đứng phía sau",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-95/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_952_Người_đứng_phía_sau.json",
+    "chapter_name": "Chương 95-2: Người đứng phía sau",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-95-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_96_Thế_nào_là_nhân_tâm.json",
+    "chapter_name": "Chương 96: Thế nào là nhân tâm",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-96/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_962_Thế_nào_là_nhân_tâm_2.json",
+    "chapter_name": "Chương 96-2: Thế nào là nhân tâm 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-96-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_97_Đào_hố.json",
+    "chapter_name": "Chương 97: Đào hố",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-97/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_972_Đào_hố_2.json",
+    "chapter_name": "Chương 97-2: Đào hố 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-97-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_98_Nhị_gia.json",
+    "chapter_name": "Chương 98: Nhị gia",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-98/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_982_Nhị_gia_2.json",
+    "chapter_name": "Chương 98-2: Nhị gia 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-98-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_99_Tâm_kế.json",
+    "chapter_name": "Chương 99: Tâm kế",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-99/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_992_Tâm_kế_2.json",
+    "chapter_name": "Chương 99-2: Tâm kế 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-99-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_100_Có_thai.json",
+    "chapter_name": "Chương 100: Có thai",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-100/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1002_Có_thai_2.json",
+    "chapter_name": "Chương 100-2: Có thai 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-100-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_101_Sắc_phong.json",
+    "chapter_name": "Chương 101: Sắc phong",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-101/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1012_Sắc_phong.json",
+    "chapter_name": "Chương 101-2: Sắc phong",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-101-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_102_Vạch_trần.json",
+    "chapter_name": "Chương 102: Vạch trần",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-102/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1022_Vạch_trần_2.json",
+    "chapter_name": "Chương 102-2: Vạch trần 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-102-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_103_Kế_tiếp.json",
+    "chapter_name": "Chương 103: Kế tiếp",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-103/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1032_Kế_tiếp.json",
+    "chapter_name": "Chương 103-2: Kế tiếp",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-103-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_104_Hảo_ý.json",
+    "chapter_name": "Chương 104: Hảo ý",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-104/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1042_Hảo_ý.json",
+    "chapter_name": "Chương 104-2: Hảo ý",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-104-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_105_Đến_đông_đủ.json",
+    "chapter_name": "Chương 105: Đến đông đủ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-105/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1052_Đến_đông_đủ_2.json",
+    "chapter_name": "Chương 105-2: Đến đông đủ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-105-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_106_Bùng_nổ.json",
+    "chapter_name": "Chương 106: Bùng nổ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-106/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1062_Bùng_nổ_2.json",
+    "chapter_name": "Chương 106-2: Bùng nổ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-106-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_107_Gánh_tội_thay.json",
+    "chapter_name": "Chương 107: Gánh tội thay",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-107/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1072_Gánh_tội_thay_2.json",
+    "chapter_name": "Chương 107-2: Gánh tội thay 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-107-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_108_Mưu_tử.json",
+    "chapter_name": "Chương 108: Mưu tử",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-108/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1082_Mưu_tử_2.json",
+    "chapter_name": "Chương 108-2: Mưu tử 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-108-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_109_Quyết_liệt_Thượng.json",
+    "chapter_name": "Chương 109: Quyết liệt (Thượng)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-109/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1092_Quyết_liệt_Thượng_2.json",
+    "chapter_name": "Chương 109-2: Quyết liệt (Thượng) 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-109-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_110_Quyết_liệt_Trung.json",
+    "chapter_name": "Chương 110: Quyết liệt (Trung)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-110/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1102_Quyết_liệt_Trung_2.json",
+    "chapter_name": "Chương 110-2: Quyết liệt (Trung) 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-110-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_111_Quyết_liệt_Hạ.json",
+    "chapter_name": "Chương 111: Quyết liệt (Hạ)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-111/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1112_Quyết_liệt_Hạ.json",
+    "chapter_name": "Chương 111-2: Quyết liệt (Hạ)",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-111-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_112_Đòi_nợ.json",
+    "chapter_name": "Chương 112: Đòi nợ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-112/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1122_Đòi_nợ_2.json",
+    "chapter_name": "Chương 112-2: Đòi nợ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-112-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_113_Tình_thế_nguy_hiểm.json",
+    "chapter_name": "Chương 113: Tình thế nguy hiểm",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-113/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1132_Tình_thế_nguy_hiểm_2.json",
+    "chapter_name": "Chương 113-2: Tình thế nguy hiểm 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-113-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_114_Hết_thuốc_chữa.json",
+    "chapter_name": "Chương 114: Hết thuốc chữa",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-114/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1142_Hết_thuốc_chữa.json",
+    "chapter_name": "Chương 114-2: Hết thuốc chữa",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-114-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_115_Cung_biến.json",
+    "chapter_name": "Chương 115: Cung biến",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-115/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1152_Cung_biến_2.json",
+    "chapter_name": "Chương 115-2: Cung biến 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-115-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_116_Điều_khiển.json",
+    "chapter_name": "Chương 116: Điều khiển",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-116/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1162_Điều_khiển_2.json",
+    "chapter_name": "Chương 116-2: Điều khiển 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-116-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_117_Bắt_cóc.json",
+    "chapter_name": "Chương 117: Bắt cóc",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-117/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1172_Bắt_cóc_2.json",
+    "chapter_name": "Chương 117-2: Bắt cóc 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-117-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_118_Vào_cung.json",
+    "chapter_name": "Chương 118: Vào cung",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-118/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1182_Vào_cung_2.json",
+    "chapter_name": "Chương 118-2: Vào cung 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-118-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_119_Dự_mưu.json",
+    "chapter_name": "Chương 119: Dự mưu",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-119/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1192_Dự_mưu_2.json",
+    "chapter_name": "Chương 119-2: Dự mưu 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-119-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_120_Huyết_sắc.json",
+    "chapter_name": "Chương 120: Huyết sắc",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-120/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1202_Huyết_sắc.json",
+    "chapter_name": "Chương 120-2: Huyết sắc",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-120-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_121_Hồ_Bằng_cẩu_hữu.json",
+    "chapter_name": "Chương 121: Hồ Bằng cẩu hữu",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-121/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1212_Hồ_Bằng_cẩu_hữu_2.json",
+    "chapter_name": "Chương 121-2: Hồ Bằng cẩu hữu 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-121-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_122_Cứu_người.json",
+    "chapter_name": "Chương 122: Cứu người",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-122/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1222_Cứu_người_2.json",
+    "chapter_name": "Chương 122-2: Cứu người 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-122-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_123_Lâm_bồn.json",
+    "chapter_name": "Chương 123: Lâm bồn",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-123/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1232_Lâm_bồn_2.json",
+    "chapter_name": "Chương 123-2: Lâm bồn 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-123-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_124_Anh_đề.json",
+    "chapter_name": "Chương 124: Anh đề",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-124/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1242_Anh_đề.json",
+    "chapter_name": "Chương 124-2: Anh đề",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-124-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_125_Hồi_kinh.json",
+    "chapter_name": "Chương 125: Hồi kinh",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-125/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1252_Hồi_kinh.json",
+    "chapter_name": "Chương 125-2: Hồi kinh",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-125-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_126_Đứt_tình_phụ_tử.json",
+    "chapter_name": "Chương 126: Đứt tình phụ tử",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-126/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1262_Đứt_tình_phụ_tử_2.json",
+    "chapter_name": "Chương 126-2: Đứt tình phụ tử 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-126-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_127_Quá_kế.json",
+    "chapter_name": "Chương 127: Quá kế",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-127/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1272_Quá_kế_2.json",
+    "chapter_name": "Chương 127-2: Quá kế 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-127-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_128_Kết_thúc_buổi_lễ.json",
+    "chapter_name": "Chương 128: Kết thúc buổi lễ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-128/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1282_Kết_thúc_buổi_lễ_2.json",
+    "chapter_name": "Chương 128-2: Kết thúc buổi lễ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-128-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_129_Bắc_cương.json",
+    "chapter_name": "Chương 129: Bắc cương",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-129/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1292_Bắc_cương.json",
+    "chapter_name": "Chương 129-2: Bắc cương",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-129-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_130_Thiên_hạ.json",
+    "chapter_name": "Chương 130: Thiên hạ",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-130/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1302_Thiên_hạ_2.json",
+    "chapter_name": "Chương 130-2: Thiên hạ 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-130-2/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1311_Kết_cục.json",
+    "chapter_name": "Chương 131-1: Kết cục",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-131-1/"
+  },
+  {
+    "path": "data/Hầu_Môn_Kiêu_Nữ/Chương_1312_Kết_cục_2.json",
+    "chapter_name": "Chương 131-2: Kết cục 2",
+    "url": "https://truyenfull.io/hau-mon-kieu-nu/chuong-131-2/"
+  }
+]
