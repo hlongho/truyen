@@ -1,0 +1,542 @@
+[
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_1_Xuyên_qua.json",
+    "chapter_name": "Chương 1: Xuyên qua",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-1/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_2_Đường_Nặc.json",
+    "chapter_name": "Chương 2: Đường Nặc",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-2/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_3_Cảm_ơn.json",
+    "chapter_name": "Chương 3: Cảm ơn",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-3/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_4_Đồng_hành.json",
+    "chapter_name": "Chương 4: Đồng hành",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-4/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_5_Chó_dữ.json",
+    "chapter_name": "Chương 5: Chó dữ",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-5/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_6_Hoắc_Nhất_Nhiên.json",
+    "chapter_name": "Chương 6: Hoắc Nhất Nhiên",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-6/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_7_Xung_đột.json",
+    "chapter_name": "Chương 7: Xung đột",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-7/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_8_Hồ_Ly_tinh.json",
+    "chapter_name": "Chương 8: Hồ Ly tinh",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-8/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_9_Ôm_eo.json",
+    "chapter_name": "Chương 9: Ôm eo",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-9/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_10_Tăng_thêm_tiền_tiêu_vặt.json",
+    "chapter_name": "Chương 10: Tăng thêm tiền tiêu vặt",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-10/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_11_Nắm_tay.json",
+    "chapter_name": "Chương 11: Nắm tay",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-11/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_12_Bắt_nạt_Đường_Vũ.json",
+    "chapter_name": "Chương 12: Bắt nạt Đường Vũ",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-12/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_13_Có_đó_không_Cho_tôi_mượn_chút_tiền.json",
+    "chapter_name": "Chương 13: Có đó không? Cho tôi mượn chút tiền",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-13/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_14_Tiểu_Diệp_và_cơn_ác_mộng.json",
+    "chapter_name": "Chương 14: Tiểu Diệp và cơn ác mộng",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-14/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_15_Nỗi_sợ_hãi_của_một_người_đàn_ông_mạnh_mẽ.json",
+    "chapter_name": "Chương 15: Nỗi sợ hãi của một người đàn ông mạnh mẽ",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-15/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_16_Bầu_không_khí_xấu_hổ_cùng_cực.json",
+    "chapter_name": "Chương 16: Bầu không khí xấu hổ cùng cực",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-16/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_17_Show_ân_ái.json",
+    "chapter_name": "Chương 17: Show ân ái",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-17/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_18_Thả_rắm_cầu_vồng.json",
+    "chapter_name": "Chương 18: Thả rắm cầu vồng*",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-18/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_19_Anh_cũng_xứng_sao.json",
+    "chapter_name": "Chương 19: Anh cũng xứng sao?",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-19/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_20_Hấp_thu_dưỡng_khí.json",
+    "chapter_name": "Chương 20: Hấp thu dưỡng khí",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-20/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_21.json",
+    "chapter_name": "Chương 21",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-21/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_22_Hẹn_hò.json",
+    "chapter_name": "Chương 22: Hẹn hò",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-22/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_23_Vợ_quản_nghiêm.json",
+    "chapter_name": "Chương 23: Vợ quản nghiêm",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-23/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_24_Bị_bắt_nạt_rồi.json",
+    "chapter_name": "Chương 24: Bị bắt nạt rồi",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-24/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_25_Tình_địch_lên_sàn.json",
+    "chapter_name": "Chương 25: Tình địch lên sàn",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-25/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_26_Ghen.json",
+    "chapter_name": "Chương 26: Ghen",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-26/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_27_Nói_lời_cợt_nhả.json",
+    "chapter_name": "Chương 27: Nói lời cợt nhả",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-27/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_28_Tình_địch_gặp_mặt_rồi.json",
+    "chapter_name": "Chương 28: Tình địch gặp mặt rồi!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-28/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_29_Chung_giường_chung_gối.json",
+    "chapter_name": "Chương 29: Chung giường chung gối",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-29/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_30_Diệp_Tiểu_Hành_ghen_tuông.json",
+    "chapter_name": "Chương 30: Diệp Tiểu Hành ghen tuông",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-30/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_31_Bị_bệnh.json",
+    "chapter_name": "Chương 31: Bị bệnh",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-31/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_32_Gu_thẩm_mỹ_của_thẳng_nam.json",
+    "chapter_name": "Chương 32: Gu thẩm mỹ của thẳng nam",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-32/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_33_Bầu_không_khí_ái_muội.json",
+    "chapter_name": "Chương 33: Bầu không khí ái muội",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-33/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_34_Anh_sinh_à.json",
+    "chapter_name": "Chương 34: Anh sinh à?",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-34/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_35_Hai_tên_người_que_hôn_nhau.json",
+    "chapter_name": "Chương 35: Hai tên người que hôn nhau",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-35/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_36_Khó_chịu.json",
+    "chapter_name": "Chương 36: Khó chịu",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-36/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_37_Yêu_phi_Đường_Tiểu_Hề.json",
+    "chapter_name": "Chương 37: Yêu phi Đường Tiểu Hề",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-37/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_38_Nhớ_ông_xã.json",
+    "chapter_name": "Chương 38: Nhớ ông xã",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-38/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_39_Vợ_hiền_Đường_Tiểu_Hề.json",
+    "chapter_name": "Chương 39: Vợ hiền Đường Tiểu Hề",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-39/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_40_Chân_tướng.json",
+    "chapter_name": "Chương 40: Chân tướng",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-40/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_41_Ly_hôn.json",
+    "chapter_name": "Chương 41: Ly hôn",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-41/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_42_Chào_buổi_sáng_phu_nhân.json",
+    "chapter_name": "Chương 42: Chào buổi sáng phu nhân!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-42/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_43_Tiểu_Diệp_vô_cùng_đau_lòng.json",
+    "chapter_name": "Chương 43: Tiểu Diệp vô cùng đau lòng",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-43/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_44_Cường_bạo.json",
+    "chapter_name": "Chương 44: Cường bạo",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-44/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_45_Anh_trai_tình_đầu_lại_lên_sàn.json",
+    "chapter_name": "Chương 45: Anh trai tình đầu lại lên sàn!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-45/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_46_Tiểu_Diệp_tan_nát_cõi_lòng.json",
+    "chapter_name": "Chương 46: Tiểu Diệp tan nát cõi lòng!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-46/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_47_Gặp_lại.json",
+    "chapter_name": "Chương 47: Gặp lại",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-47/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_48_Đường_Tiểu_Hề_xui_xẻo.json",
+    "chapter_name": "Chương 48: Đường Tiểu Hề xui xẻo!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-48/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_49_Bị_thương.json",
+    "chapter_name": "Chương 49: Bị thương",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-49/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_50_Kế_hoạch.json",
+    "chapter_name": "Chương 50: Kế hoạch",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-50/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_51_Đường_Tiểu_Hề_trở_nên_kiêu_ngạo.json",
+    "chapter_name": "Chương 51: Đường Tiểu Hề trở nên kiêu ngạo",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-51/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_52_Bắt_cóc.json",
+    "chapter_name": "Chương 52: Bắt cóc",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-52/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_53_Nhảy_xuống_biển.json",
+    "chapter_name": "Chương 53: Nhảy xuống biển",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-53/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_54_Chết_để_chạy_trốn.json",
+    "chapter_name": "Chương 54: Chết để chạy trốn",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-54/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_55_Vòng_bạn_bè_vạch_trần_bí_mật.json",
+    "chapter_name": "Chương 55: Vòng bạn bè vạch trần bí mật",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-55/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_56_Ba_năm_sau.json",
+    "chapter_name": "Chương 56: Ba năm sau",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-56/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_57_Bước_đầu_bị_bại_lộ_thân_phận.json",
+    "chapter_name": "Chương 57: Bước đầu bị bại lộ thân phận",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-57/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_58_Bước_thứ_hai_bị_bại_lộ_thân_phận.json",
+    "chapter_name": "Chương 58: Bước thứ hai bị bại lộ thân phận",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-58/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_59_Đường_Tiểu_Hề_thật_đáng_thương.json",
+    "chapter_name": "Chương 59: Đường Tiểu Hề thật đáng thương!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-59/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_60_Không_yêu_thương_vợ_thì_đúng_là_đồ_Bại_hoại.json",
+    "chapter_name": "Chương 60: Không yêu thương vợ thì đúng là đồ Bại hoại",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-60/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_61_Cửu_biệt_gặp_lại.json",
+    "chapter_name": "Chương 61: Cửu biệt gặp lại",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-61/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_62_Diệp_Tiểu_Hành_đẹp_trai.json",
+    "chapter_name": "Chương 62: Diệp Tiểu Hành đẹp trai",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-62/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_63_Danh_phận.json",
+    "chapter_name": "Chương 63: Danh phận",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-63/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_64_Hải_vương_Diệp_Tiểu_Hành.json",
+    "chapter_name": "Chương 64: “Hải vương” Diệp Tiểu Hành!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-64/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_65.json",
+    "chapter_name": "Chương 65",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-65/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_66_Theo_họ_chồng.json",
+    "chapter_name": "Chương 66: Theo họ chồng",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-66/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_67_Say_rượu.json",
+    "chapter_name": "Chương 67: Say rượu",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-67/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_68_Nam_sinh_cấp_3.json",
+    "chapter_name": "Chương 68: Nam sinh cấp 3",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-68/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_69_Động_lòng.json",
+    "chapter_name": "Chương 69: Động lòng!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-69/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_70_Bán_manh.json",
+    "chapter_name": "Chương 70: Bán manh",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-70/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_71_Lời_đồn.json",
+    "chapter_name": "Chương 71: Lời đồn",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-71/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_72_Lời_đồn_lên_men.json",
+    "chapter_name": "Chương 72: Lời đồn lên men!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-72/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_73_Đường_Tiểu_Hề_bán_thảm.json",
+    "chapter_name": "Chương 73: Đường Tiểu Hề bán thảm!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-73/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_74_Mị_phấn.json",
+    "chapter_name": "Chương 74: Mị phấn*",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-74/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_75_Từ_chức.json",
+    "chapter_name": "Chương 75: Từ chức",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-75/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_76_Tết_đã_đến.json",
+    "chapter_name": "Chương 76: Tết đã đến",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-76/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_77.json",
+    "chapter_name": "Chương 77",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-77/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_78_Rất_thích_Diệp_Hành.json",
+    "chapter_name": "Chương 78: Rất thích Diệp Hành",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-78/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_79_Năm_mới_danh_phận_mới.json",
+    "chapter_name": "Chương 79: Năm mới danh phận mới",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-79/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_80_Gọi_chồng.json",
+    "chapter_name": "Chương 80: Gọi chồng",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-80/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_81_Chỗ_đó_đau.json",
+    "chapter_name": "Chương 81: Chỗ đó đau",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-81/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_82_Diệp_Tiểu_Hành_được_không_ĐƯỢC.json",
+    "chapter_name": "Chương 82: Diệp Tiểu Hành “được” không? ĐƯỢC!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-82/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_83_Chuyện_bất_ngờ_xảy_ra.json",
+    "chapter_name": "Chương 83: Chuyện bất ngờ xảy ra",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-83/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_84_Lòng_người_dễ_đổi_thay.json",
+    "chapter_name": "Chương 84: Lòng người dễ đổi thay",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-84/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_85_Anh_à.json",
+    "chapter_name": "Chương 85: Anh à…",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-85/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_86_Em_thích_anh.json",
+    "chapter_name": "Chương 86: Em thích anh",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-86/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_87_Đại_kết_cục.json",
+    "chapter_name": "Chương 87: Đại kết cục",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-87/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_88_Mang_thai.json",
+    "chapter_name": "Chương 88: Mang thai",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-88/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_89_Bạn_cùng_phòng_cực_phẩm.json",
+    "chapter_name": "Chương 89: Bạn cùng phòng cực phẩm!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-89/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_90_Người_cha_xui_xẻo_của_đứa_bé.json",
+    "chapter_name": "Chương 90: Người cha xui xẻo của đứa bé!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-90/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_91_Diệp_Tiểu_Hành_bị_đánh.json",
+    "chapter_name": "Chương 91: Diệp Tiểu Hành bị đánh",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-91/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_92_Diệp_Tiểu_Đường_lóe_sáng_lên_sân_khấu.json",
+    "chapter_name": "Chương 92: Diệp Tiểu Đường lóe sáng lên sân khấu!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-92/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_93_Diệp_Tiểu_Hành_trong_nguyên_tác_xuyên_qua.json",
+    "chapter_name": "Chương 93: Diệp Tiểu Hành trong nguyên tác xuyên qua!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-93/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_94_Hai_Diệp_Tiểu_Hành_thượng.json",
+    "chapter_name": "Chương 94: Hai Diệp Tiểu Hành (thượng)",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-94/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_95_Mau_nói_cảm_ơn_Đường_Minh_Hề_đi.json",
+    "chapter_name": "Chương 95: Mau nói cảm ơn Đường Minh Hề đi!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-95/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_96_Dục_vọng_hơn_thua_của_Diệp_Tiểu_Hành.json",
+    "chapter_name": "Chương 96: Dục vọng hơn thua của Diệp Tiểu Hành!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-96/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_97_Tự_dỗi_mình_đừng_sợ_hãi_nữa.json",
+    "chapter_name": "Chương 97: Tự dỗi mình, đừng sợ hãi nữa!",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-97/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_98_Lén_quan_tâm_Tiểu_Diệp_khởi_điểm.json",
+    "chapter_name": "Chương 98: Lén quan tâm Tiểu Diệp khởi điểm",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-98/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_99_Chân_tướng_khối_ngọc.json",
+    "chapter_name": "Chương 99: Chân tướng khối ngọc",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-99/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_100_Chương_trình_Tổng_Nghệ_giữa_các_cặp_đôi_của_Đường_Minh_Hề_1.json",
+    "chapter_name": "Chương 100: Chương trình Tổng Nghệ giữa các cặp đôi của Đường Minh Hề (1)",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-100/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_101.json",
+    "chapter_name": "Chương 101",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-101/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_102.json",
+    "chapter_name": "Chương 102",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-102/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_103.json",
+    "chapter_name": "Chương 103",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-103/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_104.json",
+    "chapter_name": "Chương 104",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-104/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_105.json",
+    "chapter_name": "Chương 105",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-105/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_106.json",
+    "chapter_name": "Chương 106",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-106/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_107.json",
+    "chapter_name": "Chương 107",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-107/"
+  },
+  {
+    "path": "data/Tôi_Thực_Sự_Không_Muốn_Làm_Nhân_Vật_Phản_Diện/Chương_108_Đại_kết_cục.json",
+    "chapter_name": "Chương 108: Đại kết cục",
+    "url": "https://truyenfull.io/toi-thuc-su-khong-muon-lam-nhan-vat-phan-dien/chuong-108/"
+  }
+]
