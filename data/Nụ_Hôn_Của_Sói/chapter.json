@@ -1,0 +1,337 @@
+[
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_11_Mở_đầu.json",
+    "chapter_name": "Chương 1-1: Mở đầu",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-1-1/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_12_Không_thể_quay_đầu_lại.json",
+    "chapter_name": "Chương 1-2: Không thể quay đầu lại",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-1-2/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_2_Mối_thù_giết_cha_Đầu.json",
+    "chapter_name": "Chương 2: Mối thù giết cha (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-2/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_3_Mối_thù_giết_cha_Kết.json",
+    "chapter_name": "Chương 3: Mối thù giết cha (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-3/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_4_Nhân_duyên_nghiệp_chướng_Đầu.json",
+    "chapter_name": "Chương 4: Nhân duyên nghiệp chướng (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-4/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_5_Nhân_duyên_nghiệp_chướng_Kết.json",
+    "chapter_name": "Chương 5: Nhân duyên nghiệp chướng (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-5/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_6_Hoa_không_kết_quả_Đầu.json",
+    "chapter_name": "Chương 6: Hoa không kết quả (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-6/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_7_Hoa_không_kết_quả_Kết.json",
+    "chapter_name": "Chương 7: Hoa không kết quả (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-7/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_8_Tình_yêu_giấu_kín.json",
+    "chapter_name": "Chương 8: Tình yêu giấu kín",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-8/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_9_Phòng_thẩm_vấn.json",
+    "chapter_name": "Chương 9: Phòng thẩm vấn",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-9/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_10_Nụ_hôn_đầu_đời_Đầu.json",
+    "chapter_name": "Chương 10: Nụ hôn đầu đời (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-10/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_11_Nụ_hôn_đầu_đời_Kết.json",
+    "chapter_name": "Chương 11: Nụ hôn đầu đời (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-11/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_12_Trốn_chạy_đầu.json",
+    "chapter_name": "Chương 12: Trốn chạy (đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-12/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_13_Trốn_chạy.json",
+    "chapter_name": "Chương 13: Trốn chạy",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-13/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_14_Nắm_chặt_bàn_tay_Đầu.json",
+    "chapter_name": "Chương 14: Nắm chặt bàn tay (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-14/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_15_Nắm_chặt_bàn_tay_Tiếp_theo.json",
+    "chapter_name": "Chương 15: Nắm chặt bàn tay (Tiếp theo)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-15/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_16_Nắm_chặt_bàn_tay_Kết.json",
+    "chapter_name": "Chương 16: Nắm chặt bàn tay (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-16/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_17_Cầu_vồng_trong_đêm.json",
+    "chapter_name": "Chương 17: Cầu vồng trong đêm",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-17/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_18_Cầu_vồng_trong_đêm_Kết.json",
+    "chapter_name": "Chương 18: Cầu vồng trong đêm (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-18/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_19_Đối_đầu_Đầu.json",
+    "chapter_name": "Chương 19: Đối đầu (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-19/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_20_Đối_đầu_Kết.json",
+    "chapter_name": "Chương 20: Đối đầu (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-20/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_21_An_Dĩ_Phong_Đầu.json",
+    "chapter_name": "Chương 21: An Dĩ Phong (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-21/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_22_An_Dĩ_Phong_Tiếp_theo.json",
+    "chapter_name": "Chương 22: An Dĩ Phong (Tiếp theo)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-22/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_23_An_Dĩ_Phong_Kết.json",
+    "chapter_name": "Chương 23: An Dĩ Phong (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-23/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_24_Đàm_phán_Đầu.json",
+    "chapter_name": "Chương 24: Đàm phán (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-24/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_25_Đàm_phán_Tiếp_theo.json",
+    "chapter_name": "Chương 25: Đàm phán (Tiếp theo)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-25/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_26_Đàm_phán_Kết.json",
+    "chapter_name": "Chương 26: Đàm phán (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-26/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_27_Người_tình_của_anh_Đầu.json",
+    "chapter_name": "Chương 27: Người tình của anh (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-27/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_28_Người_tình_của_anh_Kết.json",
+    "chapter_name": "Chương 28: Người tình của anh (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-28/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_29_Bùa_yêu_Đầu.json",
+    "chapter_name": "Chương 29: Bùa yêu (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-29/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_30_Bùa_yêu_Kết.json",
+    "chapter_name": "Chương 30: Bùa yêu (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-30/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_31_Lục_soát_Đầu.json",
+    "chapter_name": "Chương 31: Lục soát (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-31/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_32_Lục_soát_Kết.json",
+    "chapter_name": "Chương 32: Lục soát (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-32/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_33_Hẹn_hò_Đầu.json",
+    "chapter_name": "Chương 33: Hẹn hò (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-33/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_34_Hẹn_hò_Kết.json",
+    "chapter_name": "Chương 34: Hẹn hò (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-34/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_35_Vết_cứa_ở_cổ_tay_Đầu.json",
+    "chapter_name": "Chương 35: Vết cứa ở cổ tay (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-35/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_36_Vết_cứa_ở_cổ_tay_Kết.json",
+    "chapter_name": "Chương 36: Vết cứa ở cổ tay (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-36/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_37_Trả_thù_Đầu.json",
+    "chapter_name": "Chương 37: Trả thù (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-37/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_38_Trả_thù_Kết.json",
+    "chapter_name": "Chương 38: Trả thù (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-38/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_39_Tình_yêu_không_có_tội_Đầu.json",
+    "chapter_name": "Chương 39: Tình yêu không có tội (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-39/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_40_Tình_yêu_không_có_tội_Kết.json",
+    "chapter_name": "Chương 40: Tình yêu không có tội (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-40/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_41_Hãy_tin_em_Đầu.json",
+    "chapter_name": "Chương 41: Hãy tin em (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-41/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_42_Hãy_tin_em_Kết.json",
+    "chapter_name": "Chương 42: Hãy tin em (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-42/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_43_Từ_bỏ.json",
+    "chapter_name": "Chương 43: Từ bỏ",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-43/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_44_Dư_vị_của_nỗi_đau_Đầu.json",
+    "chapter_name": "Chương 44: Dư vị của nỗi đau (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-44/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_45_Dư_vị_của_nỗi_đau_Tiếp_theo.json",
+    "chapter_name": "Chương 45: Dư vị của nỗi đau (Tiếp theo)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-45/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_46_Dư_vị_của_nỗi_đau_Kết.json",
+    "chapter_name": "Chương 46: Dư vị của nỗi đau (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-46/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_47_Mười_lăm_năm_Đầu.json",
+    "chapter_name": "Chương 47: Mười lăm năm (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-47/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_48_Mười_lăm_năm_Kết.json",
+    "chapter_name": "Chương 48: Mười lăm năm (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-48/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_49_Gặp_lại_Đầu.json",
+    "chapter_name": "Chương 49: Gặp lại (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-49/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_50_Gặp_lại_Kết.json",
+    "chapter_name": "Chương 50: Gặp lại (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-50/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_51_Đớn_đau_và_thù_hận_Đầu.json",
+    "chapter_name": "Chương 51: Đớn đau và thù hận (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-51/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_52_Đớn_đau_và_thù_hận_Kết.json",
+    "chapter_name": "Chương 52: Đớn đau và thù hận (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-52/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_53_Waiting_Đầu.json",
+    "chapter_name": "Chương 53: Waiting (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-53/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_54_Waiting_Kết.json",
+    "chapter_name": "Chương 54: Waiting (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-54/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_55_Ôn_lại_chuyện_cũ.json",
+    "chapter_name": "Chương 55: Ôn lại chuyện cũ",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-55/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_56_Lựa_chọn_Đầu.json",
+    "chapter_name": "Chương 56: Lựa chọn (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-56/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_57_Lựa_chọn_Kết.json",
+    "chapter_name": "Chương 57: Lựa chọn (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-57/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_58_Những_bức_thư_bất_tận_Đầu.json",
+    "chapter_name": "Chương 58: Những bức thư bất tận (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-58/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_59_Những_bức_thư_bất_tận_Kết.json",
+    "chapter_name": "Chương 59: Những bức thư bất tận (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-59/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_60_Em_là_của_anh_Đầu.json",
+    "chapter_name": "Chương 60: Em là của anh (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-60/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_61_Em_là_của_anh_Kết.json",
+    "chapter_name": "Chương 61: Em là của anh (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-61/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_62_Tiểu_An.json",
+    "chapter_name": "Chương 62: Tiểu An",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-62/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_63_Phần_kết.json",
+    "chapter_name": "Chương 63: Phần kết",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-63/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_64_Ngoại_truyện_1_An_Dĩ_Phong_vẫn_mãi_là_An_Dĩ_Phong.json",
+    "chapter_name": "Chương 64: Ngoại truyện 1: An Dĩ Phong vẫn mãi là An Dĩ Phong",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-64/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_65_Ngoại_truyện_2_Sự_quyến_rũ_của_cảnh_phục_Đầu.json",
+    "chapter_name": "Chương 65: Ngoại truyện 2: Sự quyến rũ của cảnh phục (Đầu)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-65/"
+  },
+  {
+    "path": "data/Nụ_Hôn_Của_Sói/Chương_66_Ngoại_truyện_2_Sự_quyến_rũ_của_cảnh_phục_Kết.json",
+    "chapter_name": "Chương 66: Ngoại truyện 2: Sự quyến rũ của cảnh phục (Kết)",
+    "url": "https://truyenfull.io/nu-hon-cua-soi/chuong-66/"
+  }
+]
