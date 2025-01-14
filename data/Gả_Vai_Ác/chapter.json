@@ -1,0 +1,552 @@
+[
+  {
+    "path": "data/Gả_Vai_Ác/Chương_1_Kẻ_điên.json",
+    "chapter_name": "Chương 1: Kẻ điên",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-1/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_2_Chết.json",
+    "chapter_name": "Chương 2: Chết",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-2/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_3_Trọng_sinh.json",
+    "chapter_name": "Chương 3: Trọng sinh",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-3/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_4_Chó_ngoan.json",
+    "chapter_name": "Chương 4: Chó ngoan",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-4/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_5_Trằn_trọc.json",
+    "chapter_name": "Chương 5: Trằn trọc",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-5/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_6_Tính_sổ.json",
+    "chapter_name": "Chương 6: Tính sổ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-6/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_7_Chó_liệt.json",
+    "chapter_name": "Chương 7: Chó liệt",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-7/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_8_Mềm_lòng.json",
+    "chapter_name": "Chương 8: Mềm lòng",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-8/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_9_Sinh_bệnh.json",
+    "chapter_name": "Chương 9: Sinh bệnh",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-9/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_10_Cởi_áo.json",
+    "chapter_name": "Chương 10: Cởi áo",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-10/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_11_Tiết_Sầm.json",
+    "chapter_name": "Chương 11: Tiết Sầm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-11/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_12_Dao_động.json",
+    "chapter_name": "Chương 12: Dao động",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-12/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_13_Xuân_Tiêu.json",
+    "chapter_name": "Chương 13: Xuân Tiêu",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-13/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_14_Đứng_thứ_nhất.json",
+    "chapter_name": "Chương 14: Đứng thứ nhất",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-14/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_15_Ngựa_điên.json",
+    "chapter_name": "Chương 15: Ngựa điên",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-15/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_16_Đơn_độc_ở_cùng_nhau.json",
+    "chapter_name": "Chương 16: Đơn độc ở cùng nhau",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-16/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_17_Tên.json",
+    "chapter_name": "Chương 17: Tên",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-17/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_18_Giày_da.json",
+    "chapter_name": "Chương 18: Giày da",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-18/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_19_Hôn_sự.json",
+    "chapter_name": "Chương 19: Hôn sự",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-19/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_20_Bại_lộ.json",
+    "chapter_name": "Chương 20: Bại lộ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-20/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_21_Trừng_phạt.json",
+    "chapter_name": "Chương 21: Trừng phạt",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-21/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_22_Giết_sao.json",
+    "chapter_name": "Chương 22: Giết sao?",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-22/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_23_Cứu_sao.json",
+    "chapter_name": "Chương 23: Cứu sao?",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-23/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_24_Phòng_tối.json",
+    "chapter_name": "Chương 24: Phòng tối",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-24/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_25_Hương_thơm_ngọt_ngào.json",
+    "chapter_name": "Chương 25: Hương thơm ngọt ngào",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-25/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_26_Nói_lời_cảm_ơn.json",
+    "chapter_name": "Chương 26: Nói lời cảm ơn",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-26/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_27_Vòng_chỉ.json",
+    "chapter_name": "Chương 27: Vòng chỉ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-27/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_28_Đường_mạch_nha.json",
+    "chapter_name": "Chương 28: Đường mạch nha",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-28/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_29_Phát_tác.json",
+    "chapter_name": "Chương 29: Phát tác…",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-29/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_30_Công_cụ_ghen_tuông_sẽ_không_động_tình.json",
+    "chapter_name": "Chương 30: Công cụ ghen tuông sẽ không động tình",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-30/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_31_Tặng_bút.json",
+    "chapter_name": "Chương 31: Tặng bút",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-31/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_32_Thật_là_một_câu_hỏi_độc_ác.json",
+    "chapter_name": "Chương 32: Thật là một câu hỏi độc ác",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-32/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_33_Tiểu_kẻ_điên_chua_ngoa_có_thể_ghi_thù_rồi.json",
+    "chapter_name": "Chương 33: Tiểu kẻ điên chua ngoa có thể ghi thù rồi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-33/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_34_Tóc_ướt.json",
+    "chapter_name": "Chương 34: Tóc ướt",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-34/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_35_Dạ_vũ.json",
+    "chapter_name": "Chương 35: Dạ vũ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-35/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_36_Tát_tai.json",
+    "chapter_name": "Chương 36: Tát tai",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-36/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_37_Xếp_hạng.json",
+    "chapter_name": "Chương 37: Xếp hạng",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-37/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_38_Giai_đôc.json",
+    "chapter_name": "Chương 38: Giải độc",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-38/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_39_Mộng_cảnh.json",
+    "chapter_name": "Chương 39: Mộng cảnh",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-39/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_40_Đút_thuốc.json",
+    "chapter_name": "Chương 40: Đút thuốc",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-40/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_41_Ngả_bài.json",
+    "chapter_name": "Chương 41: Ngả bài",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-41/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_42_Con_diều.json",
+    "chapter_name": "Chương 42: Con diều",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-42/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_43_Theo_đuôi.json",
+    "chapter_name": "Chương 43: Theo đuôi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-43/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_44_Miệng_ngọt.json",
+    "chapter_name": "Chương 44: Miệng ngọt",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-44/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_45_Ăn_cay.json",
+    "chapter_name": "Chương 45: Ăn cay",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-45/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_46_Làm_mai.json",
+    "chapter_name": "Chương 46: Làm mai",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-46/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_47_Món_quà.json",
+    "chapter_name": "Chương 47: Món quà",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-47/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_48_Điên_rồi.json",
+    "chapter_name": "Chương 48: Điên rồi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-48/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_49_Mứt_hoa_quả.json",
+    "chapter_name": "Chương 49: Mứt hoa quả",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-49/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_50_Thổi_thổi.json",
+    "chapter_name": "Chương 50: Thổi thổi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-50/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_51_Thân_thế.json",
+    "chapter_name": "Chương 51: Thân thế",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-51/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_52_Thất_Tịch.json",
+    "chapter_name": "Chương 52: Thất Tịch",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-52/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_53_Gặp_được.json",
+    "chapter_name": "Chương 53: Gặp được",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-53/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_54_Tư_thế.json",
+    "chapter_name": "Chương 54: Tư thế",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-54/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_55_Ngọc_Huyết.json",
+    "chapter_name": "Chương 55: Ngọc Huyết",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-55/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_56_Mang_đi.json",
+    "chapter_name": "Chương 56: Mang đi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-56/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_57_Búi_tóc.json",
+    "chapter_name": "Chương 57: Búi tóc",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-57/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_58_Rửa_tay.json",
+    "chapter_name": "Chương 58: Rửa tay",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-58/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_59_Rơi_đi.json",
+    "chapter_name": "Chương 59: Rời đi",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-59/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_60_Cây_trâm.json",
+    "chapter_name": "Chương 60: Cây trâm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-60/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_61_Gặp_lại.json",
+    "chapter_name": "Chương 61: Gặp lại",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-61/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_62_Xung_hỉ.json",
+    "chapter_name": "Chương 62: Xung hỉ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-62/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_63_Dâng_điệu_múa.json",
+    "chapter_name": "Chương 63: Dâng điệu múa",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-63/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_64_Long_bào.json",
+    "chapter_name": "Chương 64: Long bào",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-64/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_65_Cung_biến.json",
+    "chapter_name": "Chương 65: Cung biến",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-65/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_66_Tù_binh.json",
+    "chapter_name": "Chương 66: Tù binh",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-66/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_67_Giường_ấm.json",
+    "chapter_name": "Chương 67: Giường ấm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-67/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_68_Mứt_trái_cây.json",
+    "chapter_name": "Chương 68: Mứt trái cây",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-68/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_69_Túi_thơm.json",
+    "chapter_name": "Chương 69: Túi thơm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-69/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_70_Gối_đầu_làm_gối.json",
+    "chapter_name": "Chương 70: Gối đầu làm gối",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-70/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_71_Đậu_đỏ.json",
+    "chapter_name": "Chương 71: Đậu đỏ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-71/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_72_Ngày_cưới.json",
+    "chapter_name": "Chương 72: Ngày cưới",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-72/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_73_Trong_sạch.json",
+    "chapter_name": "Chương 73: Trong sạch",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-73/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_74_Hủy_hôn.json",
+    "chapter_name": "Chương 74: Hủy hôn",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-74/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_75_Trả_lễ.json",
+    "chapter_name": "Chương 75: Trả lễ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-75/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_76_Hồng_môn.json",
+    "chapter_name": "Chương 76: Hồng môn",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-76/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_77_Dao_găm.json",
+    "chapter_name": "Chương 77: Dao găm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-77/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_78_Bí_mật.json",
+    "chapter_name": "Chương 78: Bí mật",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-78/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_79_Dấu_răng.json",
+    "chapter_name": "Chương 79: Dấu răng",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-79/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_80_Thơ_tình.json",
+    "chapter_name": "Chương 80: Thơ tình",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-80/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_81_Hình_xăm.json",
+    "chapter_name": "Chương 81: Hình xăm",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-81/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_82_Chỗ_dựa.json",
+    "chapter_name": "Chương 82: Chỗ dựa",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-82/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_83_Mộng_cũ.json",
+    "chapter_name": "Chương 83: Mộng cũ",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-83/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_84_Ngày_lành.json",
+    "chapter_name": "Chương 84: Ngày lành",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-84/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_85_Chúc_hôn.json",
+    "chapter_name": "Chương 85: Chúc hôn",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-85/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_86_Ác_mộng.json",
+    "chapter_name": "Chương 86: Ác mộng",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-86/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_87_Hiện_lên.json",
+    "chapter_name": "Chương 87: Hiện lên",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-87/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_88_Chân_linh.json",
+    "chapter_name": "Chương 88: Chân linh",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-88/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_89_Ôn_lại.json",
+    "chapter_name": "Chương 89: Ôn lại",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-89/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_90_Kế_vị.json",
+    "chapter_name": "Chương 90: Kế vị",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-90/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_91_Run_rẩy.json",
+    "chapter_name": "Chương 91: Run rẩy",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-91/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_92_Hận_ta.json",
+    "chapter_name": "Chương 92: Hận ta",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-92/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_93_Nở_hoa.json",
+    "chapter_name": "Chương 93: Nở hoa",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-93/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_94_Tham_hoa.json",
+    "chapter_name": "Chương 94: Thám hoa",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-94/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_95_Kết_cục_Phần_đầu.json",
+    "chapter_name": "Chương 95: Kết cục (Phần đầu)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-95/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_96_Ết_cục_Phần_cuối.json",
+    "chapter_name": "Chương 96: Ết cục (Phần cuối)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-96/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_97_Phiên_ngoại_1.json",
+    "chapter_name": "Chương 97: Phiên ngoại (1)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-97/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_98_Ngoại_truyện_2.json",
+    "chapter_name": "Chương 98: Ngoại truyện (2)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-98/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_99_Phiên_ngoại_3.json",
+    "chapter_name": "Chương 99: Phiên ngoại (3)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-99/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_100_Phiên_ngoại_4.json",
+    "chapter_name": "Chương 100: Phiên ngoại (4)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-100/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_101_Phiên_ngoại_5.json",
+    "chapter_name": "Chương 101: Phiên ngoại (5)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-101/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_102_Kiếp_trước_1.json",
+    "chapter_name": "Chương 102: Kiếp trước (1)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-102/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_103_Kiếp_trước_2.json",
+    "chapter_name": "Chương 103: Kiếp trước (2)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-103/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_104_Kiếp_trước_3.json",
+    "chapter_name": "Chương 104: Kiếp trước (3)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-104/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_105_Kiêp_trươc_phân_kêt.json",
+    "chapter_name": "Chương 105: Kiếp trước (phần kết)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-105/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_106_Trao_đổi_linh_hồn_1.json",
+    "chapter_name": "Chương 106: Trao đổi linh hồn (1)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-106/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_107_Trao_đổi_linh_hồn_2.json",
+    "chapter_name": "Chương 107: Trao đổi linh hồn (2)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-107/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_108_Trao_đổi_linh_hồn_3.json",
+    "chapter_name": "Chương 108: Trao đổi linh hồn (3)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-108/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_109_Phiên_ngoại_Chu_Đường_thượng.json",
+    "chapter_name": "Chương 109: Phiên ngoại Chu Đường (thượng)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-109/"
+  },
+  {
+    "path": "data/Gả_Vai_Ác/Chương_110_Phiên_ngoại_Chu_Đường_hạ.json",
+    "chapter_name": "Chương 110: Phiên ngoại Chu Đường (hạ)",
+    "url": "https://truyenfull.io/ga-vai-ac/chuong-110/"
+  }
+]
