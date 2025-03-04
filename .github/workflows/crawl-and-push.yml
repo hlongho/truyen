@@ -3,9 +3,9 @@ name: Crawl and Push
 on:
   schedule:
     - cron: "0 */12 * * *" # Lên lịch chạy hàng ngày vào 00:00 UTC
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   # workflow_dispatch:
   #   # Điều này cho phép workflow có thể được kích hoạt thông qua API
 
