@@ -19,7 +19,7 @@ jobs:
 
       # Sử dụng cache để lưu trữ Java dependencies
       - name: Cache Java dependencies
-        uses: actions/cache@v4
+        uses: actions/cache@v3
         with:
           path: ~/.m2/repository  # Đường dẫn của Maven repository
           key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}  # Key để xác định cache
